@@ -5,7 +5,9 @@ source_sha256: e87d4c20a00679e5d4e1f2b356e1a09460552af461f7727f35b4828e69020e3d
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Memorandum-Modifications_of_the_Rules_concerning_Ban_of_monoxide_carbon_inhalations_outside_medical_facilities.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 

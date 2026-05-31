@@ -5,7 +5,9 @@ source_sha256: 413e14abbbd9eef4b6f46d6b133165601aa650aa1aad79871b54816cbdac7154
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/PART_V_CYCLO-CROSS_-_RULES_AMENDMENTS_IN_FORCE_ON_01.07.2025.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 

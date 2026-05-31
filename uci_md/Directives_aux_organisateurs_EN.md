@@ -5,7 +5,9 @@ source_sha256: ba1688aa1937a517ea0a2399f5b632f0355d081b1aaf7155bb225c07850d2144
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Directives_aux_organisateurs_EN.pdf-0001-00.png)
+
 
 ## **Directives for organisers following the measures taken by the UCI in response to the situation in Ukraine** 
 

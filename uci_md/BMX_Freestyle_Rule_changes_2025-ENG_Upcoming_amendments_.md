@@ -5,7 +5,9 @@ source_sha256: fe585eaadb38f11d2a9b4d6b5cd87d98169a0968cac1eaca94f2ddf3cbcf3610
 converter: pymupdf4llm
 ---
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
+
 
 MEMORANDUM 26.09.2024 
 
@@ -35,7 +37,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0002-00.png)
+
 
 The UCI BMX Freestyle International Calendar shall consist of the following types of Competitions: 
 
@@ -73,7 +77,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0003-00.png)
+
 
 - National Championships (CN): every national federation has the possibility to register a single National BMX Freestyle Championships in Park and/or Flatland on the UCI BMX Freestyle International Calendar within each calendar year: 
 
@@ -105,7 +111,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0004-00.png)
+
 
 ## **Chapter VI  BMX FREESTYLE COMPETITIONS** 
 
@@ -143,7 +151,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0005-00.png)
+
 
 2. If it was held, all riders not Disqualified (DSQ) who qualified for the Semi-final but did not qualify for the Final, in order of their scores in the Semi-final (from highest score to lowest). DNS riders in the Semi-final as described in article 6bis.6.016 
 
@@ -187,7 +197,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0006-00.png)
+
 
 of the obstacles typically found in a BMX Freestyle Park as outlined in the UCI BMX Freestyle Park Guide. 
 
@@ -223,7 +235,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0007-00.png)
+
 
 more points as of the ranking deadline for any particular event ~~in the season following~~ . 
 
@@ -261,7 +275,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0008-00.png)
+
 
 ~~Riders who are required to do so who do not start in the Pre-Qualification phase are dealt with in the same manner as described for the Qualification phase in article 6bis.6.016. As such, the Pre-Qualification phase shall take the place of the Qualification phase for the purposes of article 6bis.6.016, except for those riders who bypass the Pre-Qualification phase.~~ 
 
@@ -301,7 +317,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0009-00.png)
+
 
 this round is taken as the results. 
 
@@ -349,7 +367,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0010-00.png)
+
 
    - i. Only the points from the latest UCI World Championships held shall be included in the UCI BMX Freestyle Individual Ranking, even if it is held less than one year after the last edition of this event. 
 
@@ -399,7 +419,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0011-00.png)
+
 
 - d. Class HC international Competition (3 best results) 
 
@@ -429,7 +451,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0012-00.png)
+
 
 ## **ANNEX I - UCI BMX FREESTYLE RANKING POINTS TABLE** 
 
@@ -491,7 +515,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0013-00.png)
+
 
 |48||6|4|||||
 |---|---|---|---|---|---|---|---|

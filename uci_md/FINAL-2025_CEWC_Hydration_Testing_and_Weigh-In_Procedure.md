@@ -5,7 +5,9 @@ source_sha256: a7e1bc7f14738413d8712063c6d473e88292b1f1ca1f787e773e4cc244627641
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0001-00.png)
+
 
 ## **Hydration Testing and Weigh-In Procedure** 
 
@@ -39,7 +41,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0002-00.png)
+
 
 A weigh-in cannot be completed and is not valid until the athlete passes the hydration test. 
 
@@ -71,7 +75,9 @@ Page **2** / **3**
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0003-00.png)
+
 
 ## **Saturday 15 November Hydration Test & Race Weigh-In** 
 

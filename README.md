@@ -20,11 +20,20 @@ A single pass in [`sync.py`](sync.py):
    [`uci_md/.manifest.json`](uci_md/.manifest.json) from the previous run to
    classify every document as added / changed / removed / unchanged.
 4. **Convert** only the added and changed PDFs to Markdown (via `pymupdf4llm`),
-   delete Markdown for removed PDFs, and rewrite the manifest.
+   extracting any figures/diagrams to `uci_md/images/`. Markdown and images for
+   removed PDFs are deleted, and the manifest is rewritten.
 
 The manifest is the single source of truth for change detection. Each Markdown
 file also carries a small YAML front-matter block (`source_pdf`, `source_url`,
 `source_sha256`) for traceability.
+
+### Images
+
+Figures are rendered to PNGs under `uci_md/images/`, named
+`<document>.pdf-<page>-<index>.png`, and referenced from the Markdown with
+relative links (`![](images/...)`). Because each image is namespaced by its
+source document, the per-document figures are easy to find, and `clear_images`
+removes a document's old figures before re-rendering so nothing is orphaned.
 
 ## Usage
 
@@ -62,6 +71,7 @@ schedule (cron / CI) to keep a continuous history.
 |------|:------:|-------------|
 | `sync.py` | ✅ | Download → checksum-diff → convert, in one pass |
 | `uci_md/` | ✅ | Generated Markdown, one file per regulation |
+| `uci_md/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
 | `uci_md/.manifest.json` | ✅ | URL + SHA-256 per document (drives delta detection) |
 | `.venv/` | ❌ | Local virtualenv |
 | PDFs | ❌ | Pulled to a temp dir per run; never committed |

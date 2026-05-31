@@ -9,7 +9,9 @@ MEMORANDUM
 
 06.10.2025 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0001-02.png)
+
 
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 01.01.2026** 
 
@@ -496,11 +498,15 @@ In addition, all handlebars must conform to the following:
 
 - The maximum dimension of the cross section of the handlebars is 80 mm for track, and 65 / 80 mm for road and cyclo-cross  (see diagram «structure 1.0 Track» and «structure 1.0 Road, Cyclo-cross») 
 
-**==> picture [327 x 157] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0015-00.png)
+
 
 ## **Structure (1.0) Track** 
 
-**==> picture [347 x 211] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0015-02.png)
+
 
 ## **Structure (1.0) Road, Cyclo-cross** 
 
@@ -516,13 +522,17 @@ In addition, all handlebars must conform to the following:
 
 15 
 
-**==> picture [324 x 310] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0016-00.png)
+
 
 **Structure (1)** 
 
 The brake controls attached to the handlebars shall consist of two supports with levers. It must be possible to operate the brakes by pulling on the levers with the hands on the lever supports in a safe manner. The maximum inclination of brake levers shall be 10° and the minimum measurement between the inside of the extremities of the brake levers shall be 280 mm. Any extension to or reconfiguration of the supports to enable an alternative use is prohibited. A combined system of brake and gear controls is authorised. 
 
-**==> picture [319 x 207] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0016-03.png)
+
 
 **Structure (1A)** 
 
@@ -544,7 +554,9 @@ Traditional handlebars or base bar steering systems must be positioned in the ar
 
 A fixed time trial extension handlebar must be positioned in compliance with one of the four categories presented below and the measurements shown in diagram “Structure (1B)”: 
 
-**==> picture [319 x 251] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0017-07.png)
+
 
 **Structure (1B)** 
 
@@ -700,7 +712,9 @@ The diagram below illustrates the measurement of dimensions for Traditional Helm
 
 20 
 
-**==> picture [393 x 216] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0021-00.png)
+
 
 _(text modified on 05.05.03; 01.01.04; 01.08.04; 01.01.05; 01.02.07; 01.07.11; 01.01.15; 01.01.17; 27.03.17; 01.01.23; 01.01.26)_ 
 

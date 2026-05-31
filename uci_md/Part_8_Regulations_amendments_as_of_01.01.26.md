@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 16 June 2025 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0001-01.png)
+
 
 ## **Regulation amendments applying on 01.01.26** 
 
@@ -426,7 +428,9 @@ Page **11** / **71**
 
 Right foot standing on the left rear-pin, left foot standing on the right-frontpin (or counterwise). Chest directed to the saddle, without touching the handlebar with the leg. 
 
-**==> picture [71 x 46] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-02.png)
+
 
 **2027** 
 
@@ -434,11 +438,15 @@ Right foot standing on the left rear-pin, left foot standing on the right-frontp
 
 Stand in front of the handlebar, back directed to the saddle. One foot on the frontpin, other foot on the down tube. 
 
-**==> picture [71 x 50] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-06.png)
+
 
 **2031** 
 
-**==> picture [71 x 48] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-08.png)
+
 
 ## **Sidestand foot cranking** 
 
@@ -446,7 +454,9 @@ Stand in front of the handlebar, back directed to the saddle. One foot on the fr
 
 Stand with one foot on the left rear-pin, other foot on the left pedal (or counterwise), chest directed to the handlebar. 
 
-**==> picture [411 x 458] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-12.png)
+
 
 **----- Start of picture text -----**<br>
 Sidestand  2037<br>Stand with one foot on the left rear-pin, other foot on the left<br>front-pin (or counterwise), chest directed to the handlebar,<br>without touching the handlebar with the leg.<br>Stand on pins  2046<br>Stand with feet each on a rear-pin. Both knees behind the<br>saddle.<br>Stand bent on pin  2047<br>Stand with one foot on the rear-pin, trunk bent forward<br>directed to the handlebar, free leg stretched backwards.<br>Bent knee seat  2051<br>In squat position with one foot on the crossbar, free leg<br>horizontally stretched forward, back directed to the saddle.<br>Knee on saddle  2052<br>Knee on the saddle, trunk bent-forward to the handlebar, free<br>leg stretched backwards in straight line with trunk and head.<br>Lying on saddle; Lying on saddle and handlebar  2061<br>a-b: Lying with front of the body on the saddle, closed<br>legs stretched horizontally backwards.<br>c-d: Lying with front of the body on the saddle, arms<br>stretched sidewards free-hand on the handlebar-grips.<br>Closed legs stretched horizontally backwards.<br>Waterscale  2062<br>Lying with back of the body in a straight line on the handlebar,<br>stretched legs or feet under ( a  and  b ), or on ( c  and  d ) the<br>**----- End of picture text -----**<br>
@@ -492,15 +502,21 @@ Separate performed handstand with one hand on the handlebar and the other hand o
 
 From L-shape hold sidewards, which has to be performed for at least 2 metres, going directly to the handstand without touching the frame with foot/feet. The handstand has to be performed as described in **2076a-c.** The way of stretch HC., C. or count. 8 starts in the position of the saddle handlebar handstand. 
 
-**==> picture [55 x 65] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0014-08.png)
+
 
 ## **2073** 
 
-**==> picture [55 x 59] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0014-10.png)
+
 
 **2074** 
 
-**==> picture [67 x 89] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0014-12.png)
+
 
 **2076 a 2076 b 2076 c** 
 
@@ -534,7 +550,9 @@ From L-shape hold or L-shape hold rev, which has to be performed for at least 2 
 
 **2076 j 2076 k 2076 l** 
 
-**==> picture [67 x 93] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0015-07.png)
+
 
 **2077 a 2077 b 2077 c** 
 
@@ -609,7 +627,9 @@ All riders have to ride, following each other, performing a diagonal pull.
 
 Diagonal pull **(8.2.068)** 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0017-09.png)
+
 
 **4006** 
 
@@ -621,7 +641,9 @@ Page **17** / **71**
 
 A **4 f.e.o. diagonal pull 2 s.r.l. 2 s.r.r.** During the figure, two riders have to perform each a single ring left and two riders have to perform each a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. Single ring left **(8.2.053)** Single ring right **(8.2.054)** 
 
-**==> picture [128 x 99] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0018-01.png)
+
 
 4006 b 
 
@@ -705,7 +727,9 @@ All riders have to ride, next to each other, without grip connection on a common
 
 Half alternate ring **(8.2.057)** 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0020-09.png)
+
 
 **4015 a 4016 a** 
 
@@ -725,9 +749,13 @@ During the figure, each rider has to perform a single ring left.
 
 Single ring left **(8.2.053)** 
 
-**==> picture [128 x 99] intentionally omitted <==**
 
-**==> picture [128 x 99] intentionally omitted <==**
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0020-19.png)
+
+
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0020-20.png)
+
 
 **4017 4018** 
 
@@ -749,7 +777,9 @@ All riders have to perform a 2 connnected wingmill. During the figure, each ride
 
 All riders have to form the grip connection of a 2 connected wingmill and have to release the grip connection in motion, then all riders have to perform 50cm-spinnings on the longitudinal axis or on the transversal axis. After completing the 50cm-spinnings the inside riders have to grip each other with their left hands above the inner circle and have to 
 
-**==> picture [128 x 97] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0021-05.png)
+
 
 **4024 c** 
 
@@ -765,7 +795,9 @@ The tactical enlargement has to be awarded after all grip connections have been 
 
 Two riders each have to ride, with same distances, following each other, a half circle / a complete circle around a common point, thus they form a group of riders. The points are located on the longitudinal or transversal axis with equal distances to the inner circle. One rider of each group has to ride with a rider on the other half of the competition surface on 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0021-13.png)
+
 
 **4026 4027 4028 4029** 
 
@@ -851,7 +883,9 @@ Two riders each have to ride, next to each other, without grip connection perfor
 
 Alternate ring **(8.2.058)** Shortline opp. dir. alternate ring **(8.2.060)** 
 
-**==> picture [128 x 101] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0024-08.png)
+
 
 **4044 g 4045 e 4048 b** 
 
@@ -901,7 +935,9 @@ Page **25** / **71**
 
 D **2 con. f.e.o. longline 2 s.r.l. 2 s.r.r.** During the figure, two riders each have to perform a single ring left and two riders each have to perform a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-**==> picture [128 x 97] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0026-01.png)
+
 
 4082 b 
 
@@ -925,7 +961,9 @@ Single ring left **(8.2.053)**
 
 During the figure, each rider has to perform a single ring right on the transversal axis. During the single ring right, each pair has to ride through the space between the two other riders. 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0026-13.png)
+
 
 4083 b 
 
@@ -959,7 +997,9 @@ Half alternate ring **(8.2.057)**
 
 Two riders each have to ride, next to each other, and are connected by a grip connection, thus they form a pair of riders. Both pairs of riders, ride on a common axis which runs parallel to the long side of the competition surface and have to perform an alternate ring. 
 
-**==> picture [128 x 99] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0027-05.png)
+
 
 **4096 b 4097 b 4098 b 4098 d 4099 b** 
 
@@ -983,7 +1023,9 @@ Single ring left **(8.2.053)** Single ring right **(8.2.054)**
 
 Two riders each are connected by hand-inhand-grip, thus they form a pair of riders. Both pairs of riders are on the same, imaginary axis, which runs through the inner circle or parallel to the long or short side of the competition surface. The distance between the pairs of riders has to be equal. One rider of each pair has to stand on a spot, without 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0028-06.png)
+
 
 **4116 4117** 
 
@@ -1105,7 +1147,9 @@ Half circle **(8.2.043)** Circle **(8.2.042)**
 
 A **Saddlegrip pass through** Starting position is the saddlegrip. Rider 1 and 2 are connected by their left hands. Rider 2, 3, and 4 are still connected to each other by saddlegrip and have to pass rider 1 at the inside. Thus, the riders perform a pass through. 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0034-03.png)
+
 
 4197 a 
 
@@ -1167,7 +1211,9 @@ Insidering **(8.2.073)** Circle **(8.2.042)**
 
 All riders have to perform a mill. Mill **(8.2.070)** 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0036-12.png)
+
 
 **4241 4242 4243 4244** 
 
@@ -1300,7 +1346,9 @@ Alternate ring **(8.2.058)**
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding once through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the mill the own half of the competition surface may be left. 
 
-**==> picture [128 x 98] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0040-13.png)
+
 
 4288 a 
 
@@ -1308,7 +1356,9 @@ The two other riders are shifted a half way of their stretch, each on one half o
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding twice through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the door, the own half of the competition surface may be left. 
 
-**==> picture [128 x 99] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0040-17.png)
+
 
 4288 b 4289 a 
 
@@ -1408,7 +1458,9 @@ Two riders have to form a door.
 
 The two other riders have to ride at equal distances, following each other, each once (half door ring) / each twice (door ring) through the space between the door. Thus, the riders who are passing the door perform an insidering. **End of figure:** The door has to stand at least 
 
-**==> picture [133 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0043-03.png)
+
 
 ## **4307 a-b** 
 
@@ -1436,9 +1488,13 @@ Star inside **(8.2.061)**
 
 All riders have to ride with equal distances, following each other, around the middle circle. During the figure all riders have to perform a single ring left. After finishing the single ring left all riders have to form a star inside around the inner circle. 
 
-**==> picture [130 x 101] intentionally omitted <==**
 
-**==> picture [129 x 100] intentionally omitted <==**
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0043-17.png)
+
+
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0043-18.png)
+
 
 **4316 a 4317 a-f** 
 
@@ -1466,7 +1522,9 @@ All riders have to perform a star outside.
 
 Star outside **(8.2.062)** 
 
-**==> picture [132 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0044-07.png)
+
 
 **4326 a-b 4328 a-d** 
 
@@ -1490,7 +1548,9 @@ All riders have to perform an alternate-star.
 
 Alternate-star **(8.2.063)** 
 
-**==> picture [129 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0044-19.png)
+
 
 **4327** 
 
@@ -1510,7 +1570,9 @@ Each two riders are connected by a grip connection. During the figure, the grip 
 
 Turn on the spot **(8.2.047)** 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0045-05.png)
+
 
 **4341** 
 
@@ -1520,7 +1582,9 @@ All riders are connected by a grip connection and have to stand on a common axis
 
 Turn on the spot **(8.2.047)** 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0045-10.png)
+
 
 **4342** 
 

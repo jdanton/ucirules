@@ -5,7 +5,9 @@ source_sha256: 74d7b66ffa2f9008cb586b47a52431e2cc2da7fecd2b178ab7af9f43335c83ff
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 
@@ -57,7 +59,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0002-00.png)
+
 
 - **7.1.004** Every entity organising a Trials event shall conduct the event in strict accordance with the UCI constitution and its regulations. There should be no participation limits for events registered on the UCI international calendar except for the UCI Trials World Championships, UCI Trials World Cup and UCI Trials World Youth Games. 
 
@@ -93,7 +97,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0003-00.png)
+
 
 ## **§ 16 Infringements, penalties, deduction of points and protest** 
 
@@ -135,7 +141,9 @@ Page **3** / **4**
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0004-00.png)
+
 
 ## **Chapter VI UCI TRIALS RANKING** 
 

@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 16.06.2025 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/1-E_Amendments_on_01.01.2026.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 
@@ -33,7 +35,9 @@ Wheels approved in mass start competitions in the disciplines of road and cycloc
 
 - the maximum height of the rim does not measure more than 65 mm (measured as the perpendicular distance from the tangential line passing through any point of the outer extremity of the rim to the inner extremity of the rim), see illustration below; 
 
-**==> picture [329 x 289] intentionally omitted <==**
+
+![](images/1-E_Amendments_on_01.01.2026.pdf-0002-00.png)
+
 
 - have at least 12 spokes, which can be round, flattened or oval, provided that no dimension of their sections exceeds 10 mm. 
 

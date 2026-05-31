@@ -5,7 +5,9 @@ source_sha256: 337b1aee5b2fb2d8326e7f33e12e946a1d9cfcfafd712e38623720bbbdf792f7
 converter: pymupdf4llm
 ---
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0001-00.png)
+
 
 MEMORANDUM 01.07.2025 
 
@@ -15,7 +17,9 @@ MEMORANDUM 01.07.2025
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0002-01.png)
+
 
 ## **1. Introduction** 
 
@@ -55,7 +59,9 @@ The In/Out system is designed to:
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0003-01.png)
+
 
 ## **3. Strict Safety Rules** 
 
@@ -101,7 +107,9 @@ Deviation routes are always shorter than or equal to the deviated race route to 
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0004-01.png)
+
 
 ## **5. Organisation and Role of Mobile Marshals** 
 
@@ -139,7 +147,9 @@ One week prior to each event, an online or in-person briefing is held to present
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0005-01.png)
+
 
 ## **8. Monitoring** 
 
@@ -155,7 +165,9 @@ Constant communication between mobile marshals and RadioTour.
 
 - Inform fixed marshals and police officers at entry (WayOut) and re-entry (WayIn) points to avoid obstructive barriers. Use light, movable equipment where possible. 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0006-00.png)
+
 
 MEMORANDUM 01.07.2025 
 

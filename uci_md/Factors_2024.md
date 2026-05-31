@@ -5,7 +5,9 @@ source_sha256: 007aa557f1d611f9a0dd48b11667dd65c1f975e2990ca4e94ec25abc000c37d4
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Factors_2024.pdf-0001-00.png)
+
 
 ## **2024 Competition Factors** 
 
@@ -34,7 +36,9 @@ Page **1** / **3**
 
 **Union Cycliste Internationale** 1 May 2024 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Factors_2024.pdf-0002-00.png)
+
 
 ## **Road Factors** 
 
@@ -67,7 +71,9 @@ Page **2** / **3**
 
 **Union Cycliste Internationale** 1 May 2024 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Factors_2024.pdf-0003-00.png)
+
 
 |H5|Men|100.00%||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|

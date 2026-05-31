@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf-0001-01.png)
+
 
 ## **Rules amendments applying on 01.07.2025** 
 
@@ -39,7 +41,9 @@ If the weather conditions do not permit start or to maintain a safe and fair neu
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf-0002-01.png)
+
 
 to stop in a designated safe zone, ideally sheltered and free from immediate danger (unstable trees, power lines, flooding, etc.). 
 
@@ -101,7 +105,9 @@ The Commissaires’ Panel will ensure that all safety and fairness conditions ar
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf-0003-01.png)
+
 
 ## **4.3.1 Maintained Time Gaps** 
 

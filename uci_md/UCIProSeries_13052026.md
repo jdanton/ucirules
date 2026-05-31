@@ -5,7 +5,9 @@ source_sha256: b37b833557ae5593d490f11c3a61f94c0023363f151ee18d20b0980dedd5c03d
 converter: pymupdf4llm
 ---
 
-**==> picture [167 x 40] intentionally omitted <==**
+
+![](images/UCIProSeries_13052026.pdf-0001-00.png)
+
 
 ## **Participation Equipes Continentales UCI – Epreuves UCI ProSeries | Saison 2026** 
 
@@ -31,17 +33,25 @@ Page **1** / **3**
 
 **Union Cycliste Internationale** 13 mai 2026 
 
-**==> picture [167 x 40] intentionally omitted <==**
 
-**==> picture [578 x 723] intentionally omitted <==**
+![](images/UCIProSeries_13052026.pdf-0002-00.png)
+
+
+
+![](images/UCIProSeries_13052026.pdf-0002-01.png)
+
 
 Page **2** / **3** 
 
 **Union Cycliste Internationale** 13 mai 2026 
 
-**==> picture [167 x 40] intentionally omitted <==**
 
-**==> picture [572 x 455] intentionally omitted <==**
+![](images/UCIProSeries_13052026.pdf-0003-00.png)
+
+
+
+![](images/UCIProSeries_13052026.pdf-0003-01.png)
+
 
 Page **3** / **3** 
 

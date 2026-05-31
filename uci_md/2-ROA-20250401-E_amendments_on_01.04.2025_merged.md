@@ -5,7 +5,9 @@ source_sha256: 59a5b0130ada1a28c35fd79a9497c01587c57b539da0d0ad88565e795c5a30c2
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2-ROA-20250401-E_amendments_on_01.04.2025_merged.pdf-0001-00.png)
+
 
 ## **PART II – ROAD RACES Rules amendments applying on 01.04.2025** 
 
@@ -277,7 +279,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2-ROA-20250401-E_amendments_on_01.04.2025_merged.pdf-0008-00.png)
+
 
 ## **Chapter XII RACE INCIDENTS AND SPECIFIC INFRINGEMENTS BY ORGANISERS** _(chapter introduced on 1.01.19)._ 
 
@@ -345,7 +349,9 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 
 MEMORANDUM 01.04.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20250401-E_amendments_on_01.04.2025_merged.pdf-0012-01.png)
+
 
 ## **Chapter XIII UCI WOMEN’S WORLDTOUR** 
 
@@ -383,7 +389,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 MEMORANDUM 01.04.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20250401-E_amendments_on_01.04.2025_merged.pdf-0013-01.png)
+
 
 2. to cover the payment of any outstanding fees, expenses, indemnities, fines, penalties and charges imposed by or in virtue of the UCI regulations or related to their application. 
 

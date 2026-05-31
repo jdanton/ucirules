@@ -5,7 +5,9 @@ source_sha256: 727782f9a4430403af07cc8fc13ea0fbc1ad8ddb22d478cbc05b3c0915efcdf3
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0001-00.png)
+
 
 ## **Hydration Testing and Weigh-In Policy** 
 
@@ -29,7 +31,9 @@ Page **1** / **6**
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0002-00.png)
+
 
 **Rationale:** The goal of this policy is to eliminate the incentive for riders to engage in rapid weight-cutting and is designed to remove any competitive advantage from dangerous shortterm weight loss through dehydration, thereby protecting athlete health and promoting fair competition. 
 
@@ -61,7 +65,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0003-00.png)
+
 
 measurement on the same sample to double-check accuracy using the same or another refractometer. 
 
@@ -95,7 +101,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0004-00.png)
+
 
 - **Health Risks of Repeated Weight Cutting** : A review of the short- and long-term consequences of engaging in weight-cutting behaviours, including impaired performance, increased injury risk, hormonal disruption, cognitive decline, and cardiovascular strain. 
 
@@ -119,7 +127,9 @@ Page **4** / **6**
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0005-00.png)
+
 
 **Athlete Welfare and Guidance:** This policy is designed to prioritize athlete welfare at every step. 
 
@@ -143,7 +153,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0006-00.png)
+
 
 ## **Conclusion** 
 

@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20250701-E-amendments_on_01.07.25.pdf-0001-01.png)
+
 
 ## **PART II - ROAD RACES Rules amendments applying on 01.07.2025** 
 
@@ -55,7 +57,9 @@ In the situation where the leader of a classification does not take the start of
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20250701-E-amendments_on_01.07.25.pdf-0002-01.png)
+
 
 The riders of the team leading the team classification shall be required to wear the corresponding distinctive bib number if required by the organiser. 
 
@@ -83,7 +87,9 @@ Decisions related to this article are taken independently by the commissaires’
 
 For stages expected to finish in a bunch sprint, the UCI may decide to extend the distance from three kilometres to five kilometres upon request and if justified by the specific circumstances of the stage, in particular for safety reasons. The organiser of the event and any other stakeholder involved in the event may apply for such extension and submit relevant documentation for assessment of the application, including course map, stage profile, GPX file and any other relevant information or requested by the UCI. 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20250701-E-amendments_on_01.07.25.pdf-0003-00.png)
+
 
 ## MEMORANDUM 01.07.2025 
 

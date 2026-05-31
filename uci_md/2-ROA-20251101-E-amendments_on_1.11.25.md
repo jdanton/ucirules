@@ -5,7 +5,9 @@ source_sha256: 567434e3c751166f7bf4f1ef0377669f50411740f70f7ff9cae23523dd1249d9
 converter: pymupdf4llm
 ---
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0001-00.png)
+
 
 MEMORANDUM 3.10.2025 
 
@@ -29,7 +31,9 @@ MEMORANDUM 3.10.2025
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0002-00.png)
+
 
 ## MEMORANDUM 
 
@@ -45,7 +49,9 @@ MEMORANDUM 3.10.2025
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0003-00.png)
+
 
 ## MEMORANDUM 
 
@@ -61,7 +67,9 @@ MEMORANDUM 3.10.2025
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0004-00.png)
+
 
 ## MEMORANDUM 
 
@@ -82,7 +90,9 @@ _(1) In order to compete in a UCI ProSeries event, UCI Continental Teams and UCI
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0005-01.png)
+
 
 _the UCI website; the teams concerned will be included in a list published on the UCI website._ 
 
@@ -125,7 +135,9 @@ _From the 2026 season onwards, only the 30 best ranked teams on the UCI World_
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0006-01.png)
+
 
 _ranking by teams of the previous season shall be entitled to receive a “wild-card” invitation from a Grand Tour organiser._ 
 
@@ -167,7 +179,9 @@ As a matter of exception to article 1.2.049, the UCI ProTeam shall confirm its
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0007-01.png)
+
 
 participation or not to the organiser at the latest 70 days before the event. 
 
@@ -203,7 +217,9 @@ Without prejudice to articles 1.2.053, 1.2.055 and 2.2.003 bis, if a team, witho
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0008-01.png)
+
 
 ## **Special provisions for UCI ProSeries men elite events** 
 
@@ -253,7 +269,9 @@ _3. the start order of nations which are not ranked in the men’s UCI world ran
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0009-01.png)
+
 
 ## _**Women Elite**_ 
 
@@ -307,7 +325,9 @@ _(text modified on 1.01.00; 1.01.08; 1.01.09; 1.08.13; 1.01.16; 1.07.18, 01.01.2
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0010-01.png)
+
 
 - **2.10.004 UCI Under 23 UCI World ranking by nations** 
 
@@ -353,7 +373,9 @@ The awarding of points for stage races is in accordance with article 2.6.001
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0011-01.png)
+
 
 regarding the duration of the event. 
 
@@ -408,7 +430,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0012-01.png)
+
 
 **- Prologue, stages and half stages in continental calendar events** 
 
@@ -449,7 +473,9 @@ Article 2.10.014, paragraphs 2 to 4, apply to “UCI World ranking for women UCI
 
 Ties between teams shall be resolved by counting the greatest number of 1st places on the (final general) classification (on time) within the results which 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0013-00.png)
+
 
 ## MEMORANDUM 
 
@@ -459,7 +485,9 @@ count towards the “UCI World ranking for women UCI teams – 3 years” over t
 
 ( _article introduced on 1.11.21; modified on 1.11.25_ ). 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0014-00.png)
+
 
 MEMORANDUM 3.10.2025 
 
@@ -479,7 +507,9 @@ _(chapter introduced on 1.01.19)._
 
 _(text modified on 1.07.19; 24.09.19; 23.10.19; 1.04.21; 17.04.21; 10.06.21; 1.01.23; 1.01.24; 1.08.24, 1.01.25; 1.04.25; 1.11.25)_ 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0015-00.png)
+
 
 ## MEMORANDUM 
 
@@ -501,7 +531,9 @@ _(text modified on 8.02.21; 01.11.25)._
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0016-01.png)
+
 
 ## **Chapter XIII  UCI WOMEN’S WORLDTOUR** 
 
@@ -535,7 +567,9 @@ The obligations of UCI Women’s WorldTeams with respect to participation in the
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0017-01.png)
+
 
 ## **2.13.006 BIS** 
 
@@ -575,7 +609,9 @@ _(text introduced on 01.11.25)._
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0018-01.png)
+
 
 The licence commission may also take account of acknowledged facts. 
 
@@ -597,7 +633,9 @@ _(text modified on 12.06.20; 10.06.21; 01.11.25)._
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0019-01.png)
+
 
       - ’ 
 
@@ -659,7 +697,9 @@ MEMORANDUM 3.10.2025
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0020-00.png)
+
 
 MEMORANDUM 3.10.2025 
 
@@ -732,7 +772,9 @@ MEMORANDUM 3.10.2025
 
 ~~Men Under 23~~ 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0021-00.png)
+
 
 MEMORANDUM 3.10.2025 
 
@@ -787,7 +829,9 @@ _[article abrogated on 01.11.25]._
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0022-01.png)
+
 
 ~~_(text modified on 1.01.08; 9.11.20)._~~ _[article abrogated on 01.11.25 ]._ 
 
@@ -835,7 +879,9 @@ MEMORANDUM 3.10.2025
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0023-01.png)
+
 
 ## **Examination by the licence commission** 
 
@@ -881,7 +927,9 @@ In addition, the team shall be liable to pay the organiser of the UCI WorldTour 
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0024-01.png)
+
 
 writing between the team and the organiser. In the case of services in kind, their counter-value will be defined in consideration of the amount that would effectively have been paid by the organiser. 
 
@@ -917,7 +965,9 @@ A maximum of four UCI WorldTeams may decline their participation in the same eve
 
 MEMORANDUM 3.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0025-01.png)
+
 
 season will be authorised not to participate. The other teams will be allowed to select a different event for which less than four UCI WorldTeams have declined participation within 15 days of the UCI’s notification. 
 
@@ -951,7 +1001,9 @@ However, a UCI continental team shall also have the right to add up to 4 riders 
 
 A UCI women’s continental team may also add 4 riders specialising in one of the disciplines listed in the preceding paragraph, as long as the riders in question are among the top 150 of the final UCI individual classification for that discipline. 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0026-00.png)
+
 
 MEMORANDUM 3.10.2025 
 

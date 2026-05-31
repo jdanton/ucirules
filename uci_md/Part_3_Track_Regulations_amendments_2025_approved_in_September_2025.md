@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 06.10.2025 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_2025_approved_in_September_2025.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 

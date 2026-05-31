@@ -5,7 +5,9 @@ source_sha256: d8fd6dd38d8ee1bbdb84a0f484ed86fe12f58bda8b43a5a981de94c9a98873c8
 converter: pymupdf4llm
 ---
 
-**==> picture [167 x 42] intentionally omitted <==**
+
+![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0001-00.png)
+
 
 “In-race communication” test protocol for the 2024 season Decision of the UCI Management Committee – 12 June 2024 
 
@@ -39,7 +41,9 @@ Page 1 / 4
 
 **Union Cycliste Internationale** Updated 7 August 2024 
 
-**==> picture [167 x 42] intentionally omitted <==**
+
+![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0002-00.png)
+
 
 For stage races, it shall be determined for each stage individually if one of the two options apply or not. Therefore, different stages within a stage race can see either no restrictions on the use of earpieces being applied or one of the two options above. 
 
@@ -85,7 +89,9 @@ Page 2 / 4
 
 **Union Cycliste Internationale** Updated 7 August 2024 
 
-**==> picture [167 x 42] intentionally omitted <==**
+
+![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0003-00.png)
+
 
 ## Provision 4 – The responsibilities of the organiser 
 
@@ -113,7 +119,9 @@ Page 3 / 4
 
 **Union Cycliste Internationale** Updated 7 August 2024 
 
-**==> picture [167 x 42] intentionally omitted <==**
+
+![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0004-00.png)
+
 
 ## **Appendix 1** 
 

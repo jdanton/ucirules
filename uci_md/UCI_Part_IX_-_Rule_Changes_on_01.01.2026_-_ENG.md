@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 06.10.2025 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/UCI_Part_IX_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 

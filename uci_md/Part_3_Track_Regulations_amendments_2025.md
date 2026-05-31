@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 16.06.2025 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 
@@ -683,11 +685,17 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [330 x 405] intentionally omitted <==**
 
-**==> picture [176 x 215] intentionally omitted <==**
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0018-00.png)
 
-**==> picture [109 x 159] intentionally omitted <==**
+
+
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0018-01.png)
+
+
+
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0018-02.png)
+
 
 Diagram showing the inner fence at different heights 
 
@@ -737,7 +745,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - Team Sprint: three square markings (each a 9 cm[2] ), spaced 1.5 m apart, shall be used. The first marking, positioned on the inside of the track and defining the position of the others, shall coincide with the first marking used for the Team Pursuit. The third marking shall coincide with the fourth Team Pursuit starting position marking. The second marking, positioned between the first and third, is the only marking applied exclusively for the Team Sprint event and shall be coloured red. 
 
-**==> picture [305 x 401] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0020-03.png)
+
 
 Diagram of the Starting Position Track Markings 
 
@@ -765,7 +775,9 @@ At the places where the area outside the track is at a level 1.5 metres or more 
 
 Where there is a difference in the height of the outer fence, the transition between these heights must not exceed an angle of 45°. 
 
-**==> picture [326 x 275] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0021-08.png)
+
 
 Page **21** / **38** 
 
@@ -773,9 +785,13 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [126 x 195] intentionally omitted <==**
 
-**==> picture [215 x 131] intentionally omitted <==**
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0022-00.png)
+
+
+
+![](images/Part_3_Track_Regulations_amendments_2025.pdf-0022-01.png)
+
 
 Diagram showing the outer fence at different heights 
 

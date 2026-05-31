@@ -5,7 +5,9 @@ source_sha256: 1b2692001b540ea043a38c078f819e3a37ea6c1158c53002453971c435049b7a
 converter: pymupdf4llm
 ---
 
-**==> picture [167 x 42] intentionally omitted <==**
+
+![](images/dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf-0001-00.png)
+
 
 ## Special provisions for littering 
 
@@ -43,7 +45,9 @@ Page 1 / 4
 
 **Union Cycliste Internationale** 21 June 2021 
 
-**==> picture [167 x 42] intentionally omitted <==**
+
+![](images/dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf-0002-00.png)
+
 
 ## **Provision n°5 - Articles concerned** 
 
@@ -77,7 +81,9 @@ Page 2 / 4
 
 **Union Cycliste Internationale** 21 June 2021 
 
-**==> picture [166 x 42] intentionally omitted <==**
+
+![](images/dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf-0003-00.png)
+
 
 ## **2.12.007 Table of race incidents relating to road events** 
 
@@ -92,7 +98,9 @@ Page 3 / 4
 
 **Union Cycliste Internationale** 21 June 2021 
 
-**==> picture [166 x 42] intentionally omitted <==**
+
+![](images/dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf-0004-00.png)
+
 
 |One-day race||Rider or any other licence holder:<br>1stinfringement: CHF 500 fine and<br>25 points from UCI rankings<br>2ndinfringement: CHF 1000 fine, 50 points<br>from UCI rankings and elimination or<br>disqualification.||Rider or any other licence holder:<br>1stinfringement: CHF 250 fine and<br>15 points from UCI rankings<br>2ndinfringement: CHF 500 fine, 30 points<br>from UCI rankings and elimination or<br>disqualification.<br>||Rider or any other licence holder:<br>1stinfringement: CHF 100 fine and 5 points<br>from UCI rankings<br>2ndinfringement: CHF 200 fine, 10 points<br>from UCI rankings and elimination or<br>disqualification.|
 |---|---|---|---|---|---|---|

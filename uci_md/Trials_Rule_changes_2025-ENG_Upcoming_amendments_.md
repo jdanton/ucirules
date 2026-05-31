@@ -5,7 +5,9 @@ source_sha256: 3c94cde5af60a83c833c00e7cebcff298c2c623981d6a5cf5c6b987b01299554
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 
@@ -43,7 +45,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0002-00.png)
+
 
 − 
 
@@ -93,7 +97,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0003-00.png)
+
 
 ## **Chapter III UCI TRIALS WORLD CUP** 
 
@@ -145,7 +151,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0004-00.png)
+
 
 - If the number of non-qualified riders entered is more than 30 they will be split in 4 groups. 
 
@@ -185,7 +193,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0005-00.png)
+
 
 UCI Trials World Cup standings 
 
@@ -241,7 +251,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0006-00.png)
+
 
 - 1 Men Elite 26” 
 
@@ -295,7 +307,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0007-00.png)
+
 
 The start order of the riders in each ~~national~~ mixed team is determined by each team manager. 
 
@@ -341,7 +355,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0008-00.png)
+
 
 ## **Chapter VI UCI TRIALS RANKING** 
 
@@ -400,7 +416,9 @@ Page **8** / **9**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0009-00.png)
+
 
 |_41_|61|35|37|10*||||||
 |---|---|---|---|---|---|---|---|---|---|

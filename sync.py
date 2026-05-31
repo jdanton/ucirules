@@ -33,6 +33,7 @@ PAGE_URL = "https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat"
 # PDF URLs are embedded in escaped JSON inside the page HTML.
 PDF_RE = re.compile(r'assets\.ctfassets\.net/[^\\"]+\.pdf')
 MANIFEST_NAME = ".manifest.json"
+IMG_DIR = "images"  # figures extracted from PDFs, stored under <out>/images/
 UA = {"User-Agent": "Mozilla/5.0 (uci-regulations-sync)"}
 
 
@@ -91,6 +92,16 @@ def front_matter(pdf_name: str, url: str, digest: str) -> str:
     )
 
 
+def clear_images(images_dir: Path, md_name: str) -> None:
+    """Remove any figures previously extracted for this document.
+
+    pymupdf4llm names images '<pdf-basename>-<page>-<index>.png'; our temp PDF
+    is named '<md-stem>.pdf', so all of a doc's images share that prefix.
+    """
+    for p in images_dir.glob(f"{md_name[:-3]}.pdf-*"):
+        p.unlink()
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--out", default="uci_md", help="Markdown output dir (default: uci_md)")
@@ -133,14 +144,30 @@ def main() -> int:
             print("\nNothing to do — Markdown is up to date.")
             return 0
 
+        images_dir = out / IMG_DIR
+        images_dir.mkdir(exist_ok=True)
+        # to_markdown embeds the image_path prefix into each link; rewrite it to
+        # a path relative to the Markdown file (which lives directly in <out>).
+        link_prefix = images_dir.as_posix() + "/"
+
         for n in todo:
             path, digest = current[n]
-            md = pymupdf4llm.to_markdown(str(path), show_progress=False)
+            clear_images(images_dir, n)  # drop stale figures before re-rendering
+            md = pymupdf4llm.to_markdown(
+                str(path),
+                show_progress=False,
+                write_images=True,
+                image_path=str(images_dir),
+                dpi=150,
+            )
+            md = md.replace(link_prefix, IMG_DIR + "/")
+            n_imgs = len(list(images_dir.glob(f"{n[:-3]}.pdf-*")))
             (out / n).write_text(front_matter(path.name, pdfs[n], digest) + md, encoding="utf-8")
-            print(f"  wrote {n} ({len(md):,} chars)")
+            print(f"  wrote {n} ({len(md):,} chars, {n_imgs} image(s))")
 
         for n in removed:
             (out / n).unlink(missing_ok=True)
+            clear_images(images_dir, n)
             print(f"  deleted {n}")
 
     manifest = {n: {"url": pdfs[n], "sha256": current[n][1]} for n in current}

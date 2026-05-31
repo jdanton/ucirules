@@ -5,13 +5,17 @@ source_sha256: 970417b0815411e40a0a4a09a2489a2833dfe14186694ce5e60ef1161b88f7eb
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 40] intentionally omitted <==**
+
+![](images/Junior_development_teams_2026.pdf-0001-00.png)
+
 
 ## **Junior development teams - 2026 season** 
 
 ## _**Equipes de développement junior - saison 2026**_ 
 
-**==> picture [468 x 432] intentionally omitted <==**
+
+![](images/Junior_development_teams_2026.pdf-0001-03.png)
+
 
 The junior development teams for the 2026 season are following. 
 
@@ -19,9 +23,13 @@ Page **1** / **3**
 
 **Union Cycliste Internationale** 9 avril 2026 
 
-**==> picture [166 x 40] intentionally omitted <==**
 
-**==> picture [407 x 397] intentionally omitted <==**
+![](images/Junior_development_teams_2026.pdf-0002-00.png)
+
+
+
+![](images/Junior_development_teams_2026.pdf-0002-01.png)
+
 
 _Veuillez trouver ci-après les équipes de développement junior pour la saison 2026._ 
 
@@ -29,7 +37,9 @@ Page **2** / **3**
 
 **Union Cycliste Internationale** 9 avril 2026 
 
-**==> picture [166 x 40] intentionally omitted <==**
+
+![](images/Junior_development_teams_2026.pdf-0003-00.png)
+
 
 The teams listed in the table below are the junior development teams registered for the 2026 season, in accordance with Article 2.1.004bis of the UCI Regulations. 
 

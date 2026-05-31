@@ -5,7 +5,9 @@ source_sha256: eb04425e201b023e86c5ad1219b601b5595f92f85c48b52e3c0dbf6c0a5c46a9
 converter: pymupdf4llm
 ---
 
-**==> picture [282 x 58] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0001-00.png)
+
 
 ## **CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION** 
 
@@ -43,7 +45,9 @@ The UCI equipment Unit may be contacted by anyone seeking information on the tec
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0002-01.png)
+
 
 ## **E** 
 
@@ -69,7 +73,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 - **RECTANGULAR BOX:** The sides of the box are named as follows: 
 
-**==> picture [291 x 176] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0002-14.png)
+
 
 - **REFERENCE PLANE** - a nominally horizontal plane. 
 
@@ -85,7 +91,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0003-01.png)
+
 
 ## Section 1 : general provisions 
 
@@ -117,17 +125,23 @@ _Updated on 01.01.19; 01.01.24_
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0004-01.png)
+
 
 It is essential that the equipment used in competition meets the prevailing quality and safety standards for bicycles. Mechanics and riders should also be aware of the ISO 4210 Standard on safety that applies to cycling equipment. They should refer to this Standard before modifying or adjusting any bicycle component. From 2019, all the framesets submitted to the UCI for approval will have to join a certification confirming the compliance with the ISO 4210 security norm. The certification template is available in the section « equipment » of the UCI website. 
 
 Modifying equipment used in competition in relation to products supplied by the manufacturer is prohibited for obvious safety reasons. Whether it is a matter of modifying the length of the saddle, adapting approved wheels, filing off fork drop-out safety lugs or meeting the 1 cm rule by adding tape. No modification of equipment that is not conducted by the manufacturer is authorized by the UCI without prior approval. 
 
-**==> picture [331 x 132] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0004-04.png)
+
 
 _Figure 1: Examples of the prohibited modification of equipment (addition of tape, filing off fork drop-out safety lugs)_ 
 
-**==> picture [278 x 142] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0004-06.png)
+
 
 _Figure 2: Example of the prohibited modification of equipment (the carbon cover added to the chainring_ 
 
@@ -137,13 +151,19 @@ The addition of handlebar tape to improve a rider's grip and any addition of adh
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [171 x 227] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0005-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0005-02.png)
+
 
 _Figure 3: Example of application the adhesive tape on the Time Trial disc wheel_ 
 
-**==> picture [209 x 157] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0005-04.png)
+
 
 _Figure 4: Illustration of the addition of the adhesive tape to cover bolts access_ **ARTICLE 1.3.003** 
 
@@ -157,7 +177,9 @@ _If the seized equipment is found not to comply with the requirements of the UCI
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0006-01.png)
+
 
 ## **ARTICLE 1.3.003 BIS** 
 
@@ -191,7 +213,9 @@ If there is any doubt, it is preferable to present new equipment to the UCI whic
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0007-01.png)
+
 
 _“If at the start of a competition or stage the commissaires' panel considers that a rider arrives with a technical innovation or an_ equipment _not yet accepted by the UCI, it shall refuse to permit the rider to start with such an innovation._ 
 
@@ -225,7 +249,9 @@ _When assessing a request for use of_ equipment _which is not yet available for 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0008-01.png)
+
 
 _Use of equipment under prototype authorisation in track events and/or in the context of a particular performance (best performance, world record, hour record or other) shall not be authorised._ 
 
@@ -255,7 +281,9 @@ _1. Devices which capture or transmit the following types of data are authorised
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0009-01.png)
+
 
 _- Positioning: information related to the location of the rider or the bicycle;_ 
 
@@ -291,7 +319,9 @@ Such equipment is not considered as technological innovations in the sense of th
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0010-01.png)
+
 
 Moreover, as these equipment must be non-removable, they are considered as an integral part of the weight of the bicycle, as defined in the article 1.3.019. They will be left on the bicycle during a minimum bicycle weight check done by the Commissaires. 
 
@@ -327,7 +357,9 @@ Bicycles used in road and cyclo-cross events must be fitted with an efficient br
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0011-01.png)
+
 
 Hydraulic brake systems on rims are authorized provided that their attachment to the bicycle does not contravene any regulations (brake hoods must not become extensions, etc.). Disc brake systems are authorized. 
 
@@ -361,11 +393,15 @@ _“Except where stated to the contrary, the technical specifications given in t
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0012-01.png)
+
 
 _The specific characteristics of bicycles used in mountain bike, BMX, BMX Freestyle, trials, indoor cycling and paracycling for riders with disabilities are set out in the part regulating the discipline in question.”_ 
 
-**==> picture [379 x 281] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0012-03.png)
+
 
 _Figure 5: Illustration of the parts of the bicycle covered by Articles 1.3.011 to 1.3.025_ 
 
@@ -385,7 +421,9 @@ _The tip of the saddle can be moved forward until the vertical line passing thro
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0013-01.png)
+
 
 _1.Either the tip of the saddle can be moved forward to a distance equal to or less than 50 mm._ 
 
@@ -397,7 +435,9 @@ In no case the peak of the saddle can exceed the vertical line passing through t
 
 If the exemption for the saddle is used, the rider cannot use the exemption for the extensions length in accordance with Article 1.3.023 
 
-**==> picture [452 x 302] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0013-07.png)
+
 
 ## **ARTICLE 1.3.014** 
 
@@ -409,13 +449,17 @@ It is important to grant the rider sufficient freedom to allow a comfortable pos
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0014-01.png)
+
 
 Checks on the horizontality of saddles are conducted in the road, track and cyclo-cross events by measuring the angle of incline of the saddle, considering the plane passing through the highest points at the front and rear of the saddle. This angle must be less than 9 degrees (positive or negative incline). 
 
 The commissaries are provided with a measuring device as shown in the Figure 6. Checks will not be systematic, but in the event of any doubt, the commissaires will place the device on the saddle to determine its angle of incline after having calibrated the device to the ground or the measuring jig. 
 
-**==> picture [127 x 84] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0014-04.png)
+
 
 _Figure 6: Official measuring device to check saddle inclination_ 
 
@@ -439,9 +483,13 @@ If the front or rear center is too short, this will reduce the bicycle's stabili
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [417 x 248] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0015-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0015-02.png)
+
 
 _Figure 7: Illustration of the minimum and maximum distances between the bottom bracket and front and rear wheel axles_ 
 
@@ -449,13 +497,17 @@ _Figure 7: Illustration of the minimum and maximum distances between the bottom 
 
 _“The distance between the internal extremities of the front forks shall not exceed 11.5 cm; the distance between the internal extremities of the rear triangle shall not exceed 14.5 cm.”_ 
 
-**==> picture [416 x 251] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0015-06.png)
+
 
 _Figure 8: Illustration of the maximum distances between the fork drop-outs and rear dropouts_ 
 
 15 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0016-00.png)
+
 
 ## CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
@@ -499,7 +551,9 @@ _In order to comply with the requirements and ensure compatibility between the c
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0017-01.png)
+
 
 _Wheels which meet the definition of traditional wheels do not need to follow the approval application procedure provided for in this article_ ~~_be certified._~~ _**Definition of Traditional wheels :** Criteria : Rim height: less than 25 mm Rim material: alloy_ 
 
@@ -525,7 +579,9 @@ _“The weight of the bicycle cannot be less than 6.8 kilograms.”_
 
 The minimum weight of the bicycle (in working order) is 6.800 kg, considered without on-board accessories in place, that is to say those items that may be removed during the event. The bottles, on-board computers and all others removable accessories must be removed during the weight check. However, the bottle cages, fixture systems and clippedon extensions are part of the bicycle and stay in place during the weighing. 
 
-**==> picture [191 x 128] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0017-14.png)
+
 
 _Figure 9: Measuring the weight of a bicycle_ 
 
@@ -533,7 +589,9 @@ _Figure 9: Measuring the weight of a bicycle_
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0018-01.png)
+
 
 ## **ARTICLE 1.3.020** 
 
@@ -543,7 +601,9 @@ _“For road, track, and for cyclo-cross competitions, the frame of the bicycle 
 
 The triangular shape is defined from a design using 80 mm-wide boxes for each tube. In order to comply with this rule, the nominal rear wheel axle must be located within the seat stay and chain stay boxes. Furthermore, the bottom bracket axle must be located inside the chain stay, seat tube and down tube boxes. The drawing below illustrates these conditions. 
 
-**==> picture [431 x 250] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0018-06.png)
+
 
 _Figure 10: Illustration of the bottom bracket and rear wheel axles inside the corresponding boxes_ 
 
@@ -553,9 +613,13 @@ This rule results from the Lugano Charter and has the objective of preserving th
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [421 x 240] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0019-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0019-02.png)
+
 
 _Figure 11: Example geometry of a bicycle that does not comply with UCI regulations_ 
 
@@ -573,9 +637,13 @@ The frame can completely fill the areas (rectangular boxes, compensation triangl
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [409 x 246] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0020-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0020-02.png)
+
 
 _Figure 12: General illustration of compensation triangles and boxes_ 
 
@@ -593,17 +661,25 @@ In this specific instance, there is no compensatory joint zone that can be added
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [289 x 200] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0021-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0021-02.png)
+
 
 _Figure 13: Illustration of the 160 mm rule_ 
 
-**==> picture [224 x 158] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0021-04.png)
+
 
 _Figure 14: Illustration of the maximum distance of 160 mm for a small frame size (A)_ 
 
-**==> picture [205 x 157] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0021-06.png)
+
 
 _Figure 15: Illustration of the maximum distance of 160 mm for a small frame size (B)_ 
 
@@ -613,9 +689,13 @@ The limit case where the 160 mm corresponds exactly to the intersection of the b
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [280 x 223] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0022-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0022-02.png)
+
 
 _Figure 16: Illustration of the limit case_ 
 
@@ -623,7 +703,9 @@ Lastly, for average and large frame sizes, the compensatory triangle behind the 
 
 The compensatory joint zone thus makes it possible to design a more homogeneous transition between the top tube and the down tube while permitting a better choice of the tube size for larger frames. Thus, the aerodynamic advantage of small frames disappears while at the same time avoiding taller riders making use of small frames to obtain this benefit. 
 
-**==> picture [247 x 260] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0022-06.png)
+
 
 _Figure 17: Illustration of the compensatory joint zone_ 
 
@@ -631,7 +713,9 @@ _Figure 17: Illustration of the compensatory joint zone_
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0023-01.png)
+
 
 ## STRAIGHT LINES 
 
@@ -639,7 +723,9 @@ _“It shall be constructed of straight or tapered tubular elements (which may b
 
 The frame tubes must be tubular without excessive curvature. The frame elements may be slightly curved, but a straight line must be able to be drawn within each element along its length. The start and finish points of each of these lines is shown on the diagram below. 
 
-**==> picture [421 x 240] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0023-05.png)
+
 
 _Figure 18: Illustration of the start and finish points of the straight lines required inside tubes_ 
 
@@ -665,7 +751,9 @@ _“The elements of the frame shall be laid out such that the joining points sha
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0024-01.png)
+
 
 _seat tube (4); the seat tube shall connect to the bottom bracket shell; the down tube (3) shall connect the bottom bracket shell to the bottom of the head tube. The rear triangles shall be formed by the chain stays (6), the seat stays (5) and the seat tube (4) with the seat stays anchored to the seat tube at points falling within the limits laid down for the slope of the top tube. The seat post shall comply with the dimensional restrictions that apply to the seat tube and may be attached to the frame anywhere on the seat tube and/or top tube. Additional frame components can be added between the head tube and the handlebar stem. These must be inside the dimension of the head tube box.”_ 
 
@@ -675,7 +763,9 @@ Manufacturers are free to adjust the positioning of the boxes provided that the 
 
 The bicycle must be designed and adjusted in such a manner that the rider can adopt a regulatory position as defined by Articles 1.3.022 and/or 1.3.023. 
 
-**==> picture [422 x 248] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0024-06.png)
+
 
 _Figure 19: General illustration of the shape and positioning of the 80 mm boxes_ 
 
@@ -683,11 +773,15 @@ _Figure 19: General illustration of the shape and positioning of the 80 mm boxes
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0025-01.png)
+
 
 A template formed by red boxes for each element is shown below. The points circled in green show the limits of the box lengths. The head tube box must be positioned in the same axis as the steerer tube. 
 
-**==> picture [416 x 246] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0025-03.png)
+
 
 _Figure 20: Illustration of the template showing the start and finish points of the 80 mm boxes for each element_ 
 
@@ -707,7 +801,9 @@ The start and finish points of the 80 mm boxes are the following:
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0026-01.png)
+
 
 - Chain stays: the front line of the box must pass through the point of intersection of the lower line of the seat tube box with the lower line of the chain stay box; the rear line of the box must not be located in excess of 60 mm behind the rear wheel axle center. 
 
@@ -717,7 +813,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 - Additional frame component between the head tube and the handlebar stem: the lower line of the box must be collinear with the upper line of the head tube box; the upper line of the box can be positioned at the desired height provided that the component  is entirely contained within the box. 
 
-**==> picture [423 x 253] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0026-06.png)
+
 
 _Figure 21: Illustration of the positioning of the seat post box_ 
 
@@ -729,13 +827,17 @@ Cable guides and the seat bolt do not have to be contained within the 80 mm boxe
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [56 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0027-01.png)
+
 
 **----- Start of picture text -----**<br>
 27<br>**----- End of picture text -----**<br>
 
 
-**==> picture [245 x 208] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0027-02.png)
+
 
 _Figure 22: Illustration of the unauthorized extension of the top tube box behind the seat tube_ 
 
@@ -755,11 +857,17 @@ All sections must be perpendicular to the front or upper edges (red lines in the
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [429 x 261] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0028-01.png)
 
-**==> picture [180 x 149] intentionally omitted <==**
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0028-02.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0028-03.png)
+
 
 _Figure 23: Illustrations of the areas of the frameset subject to the rule of minimum and maximum dimension_ 
 
@@ -785,7 +893,9 @@ Sections A to O on the illustration represent the limits of these areas and are 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0029-01.png)
+
 
 - Section E-E: a perpendicular section at the end of the seat tube passing through the 
 
@@ -843,17 +953,25 @@ The top tube may be inclined (sloping) provided that this frame element is conta
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [416 x 249] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0030-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0030-02.png)
+
 
 _Figure 24: Illustration of maximum allowed sloping top tube_ 
 
-**==> picture [203 x 149] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0030-04.png)
+
 
 _Figure 25: Lowest point (circled in green) that must be contained within the 160 mm-high horizontal box_ 
 
-**==> picture [166 x 144] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0030-06.png)
+
 
 _Figure 26: Highest point (circled in green) that must be contained within the 160 mm-high horizontal box_ 
 
@@ -867,9 +985,13 @@ The front line of the 80 mm seat stay box must cross the area of intersection be
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [419 x 249] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0031-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0031-02.png)
+
 
 _Figure 27: Illustration of the rule on the inclination of seat stays_ 
 
@@ -889,13 +1011,19 @@ By no means can the boxes of the top tube be used to cover a part of the fork.
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [263 x 373] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0032-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0032-02.png)
+
 
 _Figure 28: Illustration of the position of the boxes for a fork using a traditional internal steerer_ 
 
-**==> picture [352 x 232] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0032-04.png)
+
 
 _Figure 29: Illustration of the positioning of the axis of the head tube within the head tube box_ 
 
@@ -903,7 +1031,9 @@ _Figure 29: Illustration of the positioning of the axis of the head tube within 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [56 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0033-01.png)
+
 
 **----- Start of picture text -----**<br>
 33<br>**----- End of picture text -----**<br>
@@ -913,11 +1043,15 @@ Thus, forks must be able to be covered by the fork box in the case of a standard
 
 A protuberance integrated with the fork crown, that serves as a stem or a support for the stem for the handlebars and handlebar extensions, is allowed but must be restricted to its original function. A diversion of use in the form of an added extension is prohibited. 
 
-**==> picture [243 x 316] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0033-04.png)
+
 
 _Figure 30: Illustration of the position of the boxes for offset fork_ 
 
-**==> picture [181 x 181] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0033-06.png)
+
 
 _Figure 31: Illustration of a protuberance used as a stem._ 
 
@@ -925,7 +1059,9 @@ _Figure 31: Illustration of a protuberance used as a stem._
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0034-01.png)
+
 
 ## MULTIPLE ELEMENTS 
 
@@ -947,7 +1083,9 @@ The timing chip must be placed in a very close proximity to the front wheel axle
 
 The timing chip should not be orientated 90° from the original position (see below). 
 
-**==> picture [180 x 183] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0034-12.png)
+
 
 ## **ARTICLE 1.3.022** 
 
@@ -957,7 +1095,9 @@ _“In competitions other than those covered by article 1.3.023, only the tradit
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0035-01.png)
+
 
 _at the front by a vertical plane passing at horizontal distance of 100 mm from the axis of the front wheel spindle (see diagram «Structure (1A)»)._ 
 
@@ -971,7 +1111,9 @@ The traditional type of handlebars must be used in road races, cyclo-cross and t
 
 In no case shall the front of the handlebars exceed the vertical plane passing at horizontal distance of 100 mm from the the axis of the front wheel spindle; which is the control zone of the bicycle. The more forward the handlebar is positioned, the less maneuverable the bicycle will be and the less it will be easy to react quickly to an obstacle or a wind gust. Moreover, this would result in moving the center of gravity of the rider on the bicycle, which would increase even more the risks of loss of control. The area of positioning the handlebars is defined by the diagram below: 
 
-**==> picture [452 x 293] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0035-08.png)
+
 
 _Figure 32: Illustration of the box, marked out by lines A, B, C and D, within which the handlebars must be fully contained._ 
 
@@ -979,7 +1121,9 @@ _Figure 32: Illustration of the box, marked out by lines A, B, C and D, within w
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0036-01.png)
+
 
 _“The brake controls attached to the handlebars shall consist of two supports with levers. It must be possible to operate the brakes by pulling on the levers with the hands on the lever supports. Any extension to or reconfiguration of the supports to enable an alternative use is prohibited. A combined system of brake and gear controls is authorised.”_ 
 
@@ -991,33 +1135,51 @@ Electronic derailleurs are authorised in competition provided that they are cont
 
 The centre plane of the Brake Hood Body must align with the centre plane of the Traditional Handlebars (Drop area). In order to ensure that the braking system may be operated both safely and as designed (or intended), by pulling on the levers with the hands on the lever supports, a maximum inclination of 10 degrees is permitted between the two planes (see illustrations below). 
 
-**==> picture [380 x 229] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0036-07.png)
+
 
 36 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [416 x 465] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0037-01.png)
 
-**==> picture [211 x 197] intentionally omitted <==**
 
-**==> picture [199 x 191] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0037-02.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0037-03.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0037-04.png)
+
 
 37 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [200 x 81] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0038-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0038-02.png)
+
 
 _Figure 33: Illustration of the maximum permitted Brake Hood body inclination_ 
 
-**==> picture [209 x 185] intentionally omitted <==**
 
-**==> picture [213 x 55] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0038-04.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0038-05.png)
+
 
 _Figure 34 Illustration of the maximum permitted Brake Hood body inclination in combination with a flared traditional handlebars_ 
 
@@ -1031,11 +1193,17 @@ A template formed by red boxes for each element is shown below.
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [355 x 278] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0039-01.png)
 
-**==> picture [331 x 253] intentionally omitted <==**
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0039-02.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0039-03.png)
+
 
 _Figure 35 Illustrations (Example 1), (Example 2) of templates formed by red boxes for each element_ 
 
@@ -1047,7 +1215,9 @@ The start and finish points of the boxes are the following:
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0040-01.png)
+
 
 - Handlebars (2): The rear line of the box must pass through the point of intersection of the front line of the Stem (5) box with the lower or upper line of the Handlebar (2) box; the front line of the box must pass through the point of intersection of the rear line of the Handlebars (1) box with the upper or lower line of the Handlebar box (2). 
 
@@ -1073,9 +1243,13 @@ Sections A-A, B-B, C-C, D-D, F-F and E-E must be perpendicular to the red lines 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [383 x 302] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0041-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0041-02.png)
+
 
 _Figure 36 Illustration of minimum and maximum dimensions requirements_ 
 
@@ -1105,13 +1279,17 @@ MULTIPLE ELEMENTS
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0042-01.png)
+
 
 Multiple elements are authorized for the stem, the traditional handlebars and base bars. Individual tubes and the multiple tubes have to respect the maximum section dimension of 80 mm and the minimum section dimension of 10 mm. The multiple elements rule applies in the same areas than the rule of the minimum and ~~m~~ aximum dimension for the tubes. 
 
 In the case of the traditional handlebars and sections A-A, B-B, D-D and E-E, if one of the sections comprises multiple elements (not greater than 2), each element taken individually have to respect the maximum and minimum dimensions authorised in any direction. The requirement for the elements to respect the maximum and minimum dimensions in any direction in conjunction is not required. 
 
-**==> picture [347 x 200] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0042-04.png)
+
 
 _Figure 37: Example of a compliant section of an element formed by two tubes_ 
 
@@ -1133,9 +1311,13 @@ Handlebars/extensions/base bars that have already been available on the market d
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [415 x 300] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0043-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0043-02.png)
+
 
 ## **ARTICLE 1.3.023** 
 
@@ -1155,7 +1337,9 @@ _Category 1:       Less than 180.0 cm tall_
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0044-01.png)
+
 
 _For riders less than 180.0 cm tall, the horizontal distance between the vertical planes passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including all accessories, may be a maximum of 800 mm._ 
 
@@ -1203,11 +1387,15 @@ _In addition, all fixed time trial extension handlebars and forearm supports mus
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0045-01.png)
+
 
 _- Two isosceles compensation triangles of 40 mm sides are authorised at the joints between the stem and the base bar; - The maximum dimension of the cross section of the base bar is 80 mm; - The minimum dimension of the cross section of all fork accessory is 10 mm; - The maximum dimension of the cross section of the stem is 80 mm;_ 
 
-**==> picture [377 x 289] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0045-03.png)
+
 
 ## HEIGHT CATEGORIES 
 
@@ -1225,11 +1413,17 @@ A template formed by red boxes for each element is shown below.
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [337 x 278] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0046-01.png)
 
-**==> picture [303 x 270] intentionally omitted <==**
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0046-02.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0046-03.png)
+
 
 _Figure 38 Illustrations (Example 1), (Example 2) of templates formed by red boxes for each element_ 
 
@@ -1241,7 +1435,9 @@ The start and finish points of the boxes are the following:
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0047-01.png)
+
 
 - Base bar (2): The rear line of the box must pass through the point of intersection of the front line of the Stem (5) box with the lower or upper line of the Base bar (2) box; the front line of the box must pass through the point of intersection of the rear line of the Base bar (1) box with the upper or lower line of the Base bar box (2). 
 
@@ -1267,9 +1463,13 @@ Sections A-A, B-B, C-C and D-D must be perpendicular to the red lines in the dra
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [416 x 341] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0048-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0048-02.png)
+
 
 _Figure 39 Illustration of minimum and maximum dimensions requirements_ 
 
@@ -1293,7 +1493,9 @@ The regulations do not concern the transition zones between elements.
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0049-01.png)
+
 
 ## FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR 
 
@@ -1309,11 +1511,17 @@ A template formed by red boxes for each element is shown below.
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [359 x 214] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0050-01.png)
 
-**==> picture [343 x 284] intentionally omitted <==**
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0050-02.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0050-03.png)
+
 
 _Figure 40 Illustrations (A), (B) of templates formed by red boxes for each element_ 
 
@@ -1321,9 +1529,13 @@ _Figure 40 Illustrations (A), (B) of templates formed by red boxes for each elem
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [384 x 269] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0051-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0051-02.png)
+
 
 _Figure 41 Illustration (C) of templates formed by red boxes for each element_ 
 
@@ -1343,7 +1555,9 @@ In the case when both extensions are joined by part, the Extension (3) box must 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0052-01.png)
+
 
 An additional Mounting accessory box (6) of 125mm length may be added in between the Extension (3) box and the Forearm support box (5). The position of the box may vary but never cross the area defined by the vertical planes passing through the extremity point of the front line of the Forearm support box (5) and the rear line of the Extension (3) box. The maximum/minimum dimension of the cross section cannot exceed the section view length to width of 125mm x 50mm or 80mm (in case sections of extensions are joined by part). The box must be used solely for the adjustment and/or fixation purposes of the Forearm support box. The use of the box for any other reason is forbidden. 
 
@@ -1355,7 +1569,9 @@ The front line of the Forearm support box must be positioned at a minimum distan
 
 The minimum length of forearm supports is limited to 60 mm. 
 
-**==> picture [272 x 158] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0052-07.png)
+
 
 _Figure 42 Illustration of the Forearm support box position_ 
 
@@ -1373,13 +1589,17 @@ A tolerance of one millimeter is allowed for the elements to account for the thi
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0053-01.png)
+
 
 The blue areas of the illustration below show the parts must respect the requirement of minimum and maximum dimensions. 
 
 Sections A-A and B-B must be perpendicular to the red lines in the drawings. 
 
-**==> picture [415 x 255] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0053-04.png)
+
 
 _Figure 43 Illustration of minimum and maximum dimensions requirements_ 
 
@@ -1405,9 +1625,13 @@ Individual tubes and the multiple tubes have to respect the maximum section dime
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [347 x 200] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0054-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0054-02.png)
+
 
 _Figure 44: Example of a compliant section of an element formed by two tubes_ 
 
@@ -1421,9 +1645,13 @@ In case when both extensions are joined by part, the maximum dimension of the cr
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [203 x 417] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0055-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0055-02.png)
+
 
 _Figure 45 Illustration of extensions joined by part_ 
 
@@ -1441,7 +1669,9 @@ Sections A to B in the illustration below represent the limits of these areas an
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0056-01.png)
+
 
 - Section A-A: a perpendicular section passing through the point 5 mm from the extension on the upper line of the binding element. 
 
@@ -1449,7 +1679,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 The regulations do not concern the transition zones between elements. 
 
-**==> picture [292 x 207] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0056-05.png)
+
 
 _Figure 46: Illustration of the binding element_ 
 
@@ -1465,13 +1697,19 @@ The measurement is made from a horizontal perspective of the forearm support. If
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [381 x 185] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0057-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0057-02.png)
+
 
 _Figure 47 Examples of the vertical limits per each height category (as per provisions of article 1.3.023)_ 
 
-**==> picture [415 x 189] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0057-04.png)
+
 
 _Figure 48: Points of measurement for the vertical limits of the fixed additional time trial extensions and any accessories_ 
 
@@ -1479,9 +1717,13 @@ _Figure 48: Points of measurement for the vertical limits of the fixed additiona
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [416 x 284] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0058-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0058-02.png)
+
 
 _Figure 49 Illustration of the maximum inclination of each elbow rest_ 
 
@@ -1491,7 +1733,9 @@ The fixed additional time trial extension handlebar with all their accessories (
 
 To check, rotate the levers to the position that gives the maximum horizontal length and allow to rest, and then take the measurement allowed from the bottom bracket axle. 
 
-**==> picture [416 x 184] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0058-07.png)
+
 
 _Figure 50 Points of measurement for the horizontal distance from the bottom bracket axle_ 
 
@@ -1499,7 +1743,9 @@ _Figure 50 Points of measurement for the horizontal distance from the bottom bra
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0059-01.png)
+
 
 ## SITUATION AROUND POSITION FOR TRACK, ROAD AND CYCLO-CROSS EVENTS 
 
@@ -1517,9 +1763,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [419 x 391] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0060-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0060-02.png)
+
 
 **----- Start of picture text -----**<br>
 Handlebar - Type  Discipline  Event  Saddle  Handlebar<br>Road / Cyclo-cross  Mass events<br>Sprint<br>Team Sprint<br>Sprint – Flying Lap<br>100 mm max<br>Keirin<br>Traditional Handlebars<br>Points Race<br>Track  Elimination Race<br>Scratch<br>Madison  ----------------------------<br>750 mm max or 800<br>-50 mm max or 0  mm max / 100 mm<br>500m / 1km  vertical limit<br>(in case of exemption)<br>(in case of<br>Individual /<br>exemption)<br>Team Pursuit<br>OR<br>830 mm max / 120<br>mm vertical limit<br>(in case the height of<br>Extensions  the rider is 180-189,9<br>ITT / TTT /  cm tall)<br>Road<br>Mixed Time Trial  OR<br>850 mm max / 140<br>mm vertical limit<br>(in case the height of<br>the rider is 190 cm<br>tall or taller)<br>**----- End of picture text -----**<br>
@@ -1543,9 +1793,13 @@ Handlebars/extensions/base bars that have already been available on the market d
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [416 x 300] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0061-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0061-02.png)
+
 
 ## **ARTICLE 1.3.024** 
 
@@ -1563,19 +1817,29 @@ A protective screen, shown by the diagram below, is defined as a fixed element a
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [312 x 120] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0062-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0062-02.png)
+
 
 _Figure 52: Illustration of a protective screen_ 
 
 A cover is authorized insofar as it ensures only the cover of an object without artifices in its shape, its content and its volume. These covers must in no case constitute an excrescence. Moreover, all together with equipment, it must then comply with all UCI rules specified to each piece of equipment. 
 
-**==> picture [210 x 149] intentionally omitted <==**
 
-**==> picture [194 x 147] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0062-05.png)
 
-**==> picture [279 x 182] intentionally omitted <==**
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0062-06.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0062-07.png)
+
 
 _Figure 53: Illustrations of authorized covers_ 
 
@@ -1585,15 +1849,21 @@ The image below illustrates non-compliance – a cover added to the frame to con
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [148 x 198] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0063-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0063-02.png)
+
 
 _Figure 54: Cover added to frame to conceal brake cables_ 
 
 The addition of a cover to a braking system, as shown in the image below, is authorized. The unit is considered to be integrated with the frame or fork. 
 
-**==> picture [240 x 188] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0063-05.png)
+
 
 _Figure 55: Brake integrated with the fork and fitted with a cover_ 
 
@@ -1613,17 +1883,23 @@ There are three scenarios for front brakes :
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0064-01.png)
+
 
 - Rim Brake system: For a standard fork (steerer tube inserted inside the head tube of the frame), if the cover does not extend to the stem, then the combination of the fork + brake + cover must fit inside the 80 mm box of the fork. 
 
-**==> picture [287 x 245] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0064-03.png)
+
 
 _Figure 56: Illustration of a cover that fits over the brake only_ 
 
 - Rim Brake system: For an offset fork, or a standard fork with a cover over the brake that extends to the stem, then the combination of the fork + brake + cover must fit inside the 80 mm boxes of the fork and frame head tube. 
 
-**==> picture [299 x 245] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0064-06.png)
+
 
 _Figure 57: Illustration of a cover that fits over the brake and extends to the stem_ 
 
@@ -1633,7 +1909,9 @@ _Figure 57: Illustration of a cover that fits over the brake and extends to the 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0065-01.png)
+
 
 With regards to covers over brakes, it is important to distinguish between the two different types of brake and the corresponding scenarios that apply : 
 
@@ -1657,9 +1935,13 @@ The regulation on the subject of fuselage form does not exempt manufacturers fro
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [275 x 261] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0066-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0066-02.png)
+
 
 _Figure 58: Illustration of the restriction around the fuselage form of elements_ 
 
@@ -1669,7 +1951,9 @@ _“A fairing shall be defined as the use or adaptation of a component of the bi
 
 If the seat tube mirrors the curve of the wheel it must not enclose it. It must be possible to insert a credit card freely and without bending between the tube and the wheel as shown by the illustrations below. 
 
-**==> picture [329 x 187] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0066-07.png)
+
 
 _Figure 59: Illustration of wheel fairing_ 
 
@@ -1677,9 +1961,13 @@ _Figure 59: Illustration of wheel fairing_
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [250 x 188] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0067-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0067-02.png)
+
 
 _Figure 60: Insertion of a credit card between the wheel and frame to check that a fairing is not present_ 
 
@@ -1699,9 +1987,13 @@ Bottles are only allowed to be positioned on the down tube and seat tube inside 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [292 x 165] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0068-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0068-02.png)
+
 
 _Figure 61 Illustration of a physical (left) and a visual (right) space between the bottle and the tube to which it is attached._ 
 
@@ -1713,9 +2005,13 @@ The illustration below shows a bottle that complies with the current regulations
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [416 x 445] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0069-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0069-02.png)
+
 
 _Figure 62: Illustration of the areas of a bottle where the dimensions are subject to regulations_ 
 
@@ -1731,13 +2027,17 @@ The box may overlap the down tube and/or the seat tube.
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0070-01.png)
+
 
 The bottle cage must be used solely for the secure fixation of the bottle. The use of the bottle cage for any other reason is forbidden. A tolerance of 5mm is allowed during the onsite checks. 
 
 It should be noted that bottle cages that are integrated must be submitted by a manufacturer to the UCI during the approval procedure for framesets, and in any case before use in competition. 
 
-**==> picture [416 x 259] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0070-04.png)
+
 
 _Figure 63: Illustration of the positioning of the bottle cage boxes_ 
 
@@ -1761,11 +2061,15 @@ There is a significant risk of camelback systems or any similar devices being us
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0071-01.png)
+
 
 - It is mandatory for all riders who want to use a camelback system to present it to the commissaires before the start of the race at the risk of being disqualified. 
 
-**==> picture [250 x 155] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0071-03.png)
+
 
 _Figure 64: Example of the use of a non-compliant camelback system_ 
 
@@ -1795,7 +2099,9 @@ On the track, the transmission exclusively must consist of three distinct elemen
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0072-01.png)
+
 
 No additional elements are authorized (the chain tensioner, a derailleur, etc.). For safety reasons and in line with this constraint, chainrings and sprockets must be of a circular shape. 
 
@@ -1831,7 +2137,9 @@ To bring consistency in the visibility of the identification number within the U
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0073-01.png)
+
 
 Please note, a technique used to place the identification number is not restricted to the pinon techniques as long as the identification number complies with Articles 1.3.029 and 1.3.076. 
 
@@ -1875,7 +2183,9 @@ _In all disciplines concerned wearing a rigid safety helmet is recommended outsi
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0074-01.png)
+
 
 _- wearing the helmet in accordance with the security regulations in order to ensure full protection, including but not limited to a correct adjustment on the head as well as a correct adjustment of the chin strap;_ 
 
@@ -1895,7 +2205,9 @@ _Width (W) can be less or equal to 300 mm ;_
 
 _Height (H) can be less or equal to 210 mm ;_ 
 
-**==> picture [407 x 225] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0074-11.png)
+
 
 It is prohibited to add a detachable cover to a helmet. The composition of the helmet material and its surface condition are not subject to any regulations. However, additions to the helmet are not allowed (cover, tape, etc.). The use of mechanical or electronic systems in or on the helmet is also prohibited, unless the system (together with the helmet) is compliant with provisions stated in Article 1.3.002. 
 
@@ -1907,7 +2219,9 @@ Add-on helmet visors or covers are authorized provided that they are supplied by
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0075-01.png)
+
 
 Compliance with the dimensional restrictions is not compulsory for helmets that on 1 January 2023, are: 
 
@@ -1923,7 +2237,9 @@ _“Items of clothing may not modify the morphology of the rider and any non-ess
 
 _Modifications to the surface roughness of clothing are authorized but may only be the result of threading, weaving or assembling of the fabric. Surface roughness modifications shall be limited to a profile difference of 1mm at most._ 
 
-**==> picture [400 x 64] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0075-09.png)
+
 
 _The measure of surface roughness modification shall be made without pressure or traction on the clothing._ 
 
@@ -1941,15 +2257,23 @@ Gloves used in track competition must not be mittens that only have one, two or 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [174 x 132] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0076-01.png)
 
-**==> picture [98 x 180] intentionally omitted <==**
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0076-02.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0076-03.png)
+
 
 _Figure 66: Example of a mitten forbidden in track competition_ 
 
-**==> picture [286 x 139] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0076-05.png)
+
 
 _Figure 67: Example of forbidden product and equipment_ 
 
@@ -1959,9 +2283,13 @@ Non-essential items forbidden by article 1.3.033 of the UCI Regulations shall in
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
 
-**==> picture [159 x 216] intentionally omitted <==**
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0077-01.png)
+
+
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0077-02.png)
+
 
 _Figure 68: Example of a substance applied on the body_ 
 
@@ -1971,7 +2299,9 @@ _“Socks and overshoes used in competition may not rise above the height define
 
 In order to clarify the socks height regulation and have a fair height between riders, thefollowing height is now imposed. 
 
-**==> picture [237 x 171] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0077-07.png)
+
 
 _Figure 69: Example of forbidden product and equipment_ 
 
@@ -1983,7 +2313,9 @@ _“During competitions, riders' attendants may not bear any advertising matter 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-**==> picture [57 x 32] intentionally omitted <==**
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0078-01.png)
+
 
 ## **TRACKING MODIFICATIONS (HIGHLIGHTED IN RED)** 
 

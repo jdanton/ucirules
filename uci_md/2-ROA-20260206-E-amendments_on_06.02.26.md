@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 6.02.2026 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 
@@ -73,7 +75,9 @@ converter: pymupdf4llm
 
 - the criteria used to determine the starting order of a time trial event or prologue; the criteria shall determine the order of teams; each team shall determine the starting order of its riders. 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0002-00.png)
+
 
 ## MEMORANDUM 
 
@@ -129,7 +133,9 @@ _(text introduced on 8.02.21; modified on 01.11.22; 6.02.26)._
 
 6.02.2026 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0003-01.png)
+
 
 ## MEMORANDUM 
 
@@ -171,7 +177,9 @@ _(chapter introduced on 1.01.20)._
 
 6.02.2026 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0004-01.png)
+
 
 ## MEMORANDUM 
 

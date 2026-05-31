@@ -5,7 +5,9 @@ source_sha256: 21d0d185ea9c633b99b22c4516a9d80f8bd7c56f0362ad7ac84f65e180da206e
 converter: pymupdf4llm
 ---
 
-**==> picture [159 x 31] intentionally omitted <==**
+
+![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0001-00.png)
+
 
 Sprint zone protocol for stages "expected to finish in bunch sprints" Decision of the UCI Management Committee of 18 December 2024 Applicable while published on the UCI website 
 
@@ -207,7 +209,9 @@ Page **5** /
 
 **Union Cycliste Internationale** 6 janvier 2025 
 
-**==> picture [483 x 217] intentionally omitted <==**
+
+![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0006-00.png)
+
 
 ## – Example no. 2 A clearly established breakaway of a sole rider (or small group of riders) finishes ahead followed by the next group in a bunch sprint 
 
@@ -221,7 +225,9 @@ Page **5** /
 
 - For all subsequent groups, only time gaps in excess of 3 seconds will be considered. 
 
-**==> picture [483 x 216] intentionally omitted <==**
+
+![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0006-07.png)
+
 
 Page **6** / 
 

@@ -5,7 +5,9 @@ source_sha256: dc0f6794fef7aa33ec126149ae6267955cbb97998015f626188337feac27c43d
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2026_UCI_Gran_Fondo_World_Championships_-_Qualification_System_ENG.pdf-0001-00.png)
+
 
 ## **QUALIFICATION SYSTEM FOR THE 2026 UCI GRAN FONDO WORLD CHAMPIONSHIPS (NISEKO, JAPAN)** 
 

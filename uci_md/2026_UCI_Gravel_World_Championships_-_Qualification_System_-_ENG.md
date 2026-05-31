@@ -5,7 +5,9 @@ source_sha256: 88bef3930b0aff994ad07c48f30f369d01bbb7c9ec4f3496eae27ed75845537e
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.pdf-0001-00.png)
+
 
 ## **QUALIFICATION SYSTEM FOR THE 2026 UCI GRAVEL WORLD CHAMPIONSHIPS (NANNUP, AUSTRALIA)** 
 

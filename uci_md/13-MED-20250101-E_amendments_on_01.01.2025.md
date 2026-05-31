@@ -5,7 +5,9 @@ source_sha256: c2c5d7d400f109d48826d978aa3a5d3902e27265688152658bc1c03d73f7179a
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/13-MED-20250101-E_amendments_on_01.01.2025.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 

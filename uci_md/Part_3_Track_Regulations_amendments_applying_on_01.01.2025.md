@@ -5,7 +5,9 @@ source_sha256: 64cb9edd160380d1cdc192c512fb1841cff3ad1b5ad1fd9ac2daf1e471056c57
 converter: pymupdf4llm
 ---
 
-**==> picture [156 x 39] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_applying_on_01.01.2025.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 
@@ -57,7 +59,9 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [156 x 39] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_applying_on_01.01.2025.pdf-0002-00.png)
+
 
 **3.2.175** ~~In order to reach the maximum riders allowed on the track as per article 3.1.009, qualifying heats shall take place to reduce the number of riders entered according to the chart below:~~ 
 
@@ -112,7 +116,9 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [156 x 39] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_applying_on_01.01.2025.pdf-0003-00.png)
+
 
 ## **§ 18 Tempo Race** 
 
@@ -150,7 +156,9 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [156 x 39] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_applying_on_01.01.2025.pdf-0004-00.png)
+
 
 Standing start: Men: Team Sprint (on 250m track only), 1 km, 4 km, 4 km team, hour record Women: Team Sprint (on 250m track only), 500 m 1km, 3 4 km, 4 km team, hour record Junior Men: Team Sprint (on 250m track only), 1 km, 3 km, 4 km team Junior Women:  Team Sprint (on 250m track only), 500 m 1km, 2 3 km, 4 km team 
 

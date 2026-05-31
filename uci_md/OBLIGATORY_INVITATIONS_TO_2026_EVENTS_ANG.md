@@ -5,7 +5,9 @@ source_sha256: 2a85a61e69d28481cfa8689285f90e51fa7de6cbbdd90975334baf726acbc40e
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/OBLIGATORY_INVITATIONS_TO_2026_EVENTS_ANG.pdf-0001-00.png)
+
 
 ## OBLIGATORY INVITATIONS TO 2026 EVENTS 
 

@@ -5,9 +5,13 @@ source_sha256: 6108baea752e503faf230e3d204e7cdbae4adf8b42fae081c8c186446ec9a52d
 converter: pymupdf4llm
 ---
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0001-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0001-01.png)
+
 
 (version on 01.01.2024) 
 
@@ -53,9 +57,13 @@ Any derogation from the provisions of this agreement to the detriment of the rid
 
 1/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0002-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0002-01.png)
+
 
 ## **DISPUTES** 
 
@@ -91,9 +99,13 @@ The contract shall be drawn up in writing by means of a form corresponding to th
 
 2/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0003-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0003-01.png)
+
 
 agreed by and between the signatories and approved by the UCI as an insertion in its regulations as a standard contract. 
 
@@ -145,9 +157,13 @@ During this period the rider shall retain the status of new professional even if
 
 3/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0004-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0004-01.png)
+
 
 agent and the two principal partners is less than the duration of the contract as determined under the first paragraph of point 2 above but equal to at least one year, the duration of the new professional’s contract may be limited to the remaining duration of the contract with the principal partner or the longer of the contracts with the two principal partners. 
 
@@ -195,9 +211,13 @@ The fixed remuneration shall be paid in cash, in the currency stipulated in the 
 
 4/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0005-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0005-01.png)
+
 
 The payment must be made by transfer on the rider's bank account as indicated in the contract. Only the proof of the execution of the bank transfer shall be accepted as proof of payment. 
 
@@ -245,9 +265,13 @@ _(text modified on 01.01.13)_
 
 5/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0006-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0006-01.png)
+
 
 ## **Art. 17** 
 
@@ -289,9 +313,13 @@ _(text modified on 01.01.13)_
 
 6/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0007-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0007-01.png)
+
 
 ## **Art. 22** 
 
@@ -331,9 +359,13 @@ Risks relating to sports or sports activities that are not connected to the prep
 
 7/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0008-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0008-01.png)
+
 
 motor vehicle, whether ground-based or not), ice sports, contact sports, potholing, rafting, rockclimbing, deep-sea diving, whether in a participant, instructor, official or in any other capacity apart from that of spectator may be excluded from the coverage. 
 
@@ -375,9 +407,13 @@ The parties agree that EU GDPR (General Data Protection Regulation) or equivalen
 
 8/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0009-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0009-01.png)
+
 
 the rider’s personal data must adhere to the definitions and principles expressed in the EU GDPR. Appendix 3 contains guidelines for the preparation of a "Privacy Notice", compliant with the requirements of the EU GDPR, to be used by each team according to its own situation and to the relevant legislation provided by each country. 
 
@@ -391,9 +427,13 @@ Adam Hansen President
 
 9/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0010-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0010-01.png)
+
 
 ## **APPENDIX 1** 
 
@@ -439,9 +479,13 @@ Signature of the paying agent:
 
 10/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0011-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0011-01.png)
+
 
 ## **APPENDIX 2** 
 
@@ -482,9 +526,13 @@ Tel. number:
 
 11/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0012-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0012-01.png)
+
 
 ## **Appendix 3** 
 
@@ -540,9 +588,13 @@ If a Team obtains Riders’ Personal Data indirectly (i.e. via third parties) it
 
 12/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0013-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0013-01.png)
+
 
 ## **III. Which categories of Personal Data are usually processed by Teams?** 
 
@@ -578,9 +630,13 @@ Purposes of processing may include the followings:
 
 13/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0014-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0014-01.png)
+
 
 ## **B)** _**Purposes connected with the fulfilment of obligations relating to the registration and participation of the Riders in national and international competitions, in particular:**_ 
 
@@ -626,9 +682,13 @@ For the purposes referred to in Point IV, letter C, the legal basis of the Proce
 
 14/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0015-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0015-01.png)
+
 
 For the purposes referred to in Point IV, letters D, E, F and G, the legal basis of the Processing may be the explicit consent given by the Rider. 
 
@@ -668,9 +728,13 @@ These recipients may include:
 
 15/16 
 
-**==> picture [164 x 51] intentionally omitted <==**
 
-**==> picture [133 x 63] intentionally omitted <==**
+![](images/Joint_Agreements_20240101-E_.pdf-0016-00.png)
+
+
+
+![](images/Joint_Agreements_20240101-E_.pdf-0016-01.png)
+
 
 services, classification management services, race secretariat management services, race registration management services, etc.). 
 

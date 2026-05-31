@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20261019-E-amendments_on_19.10.26.pdf-0001-01.png)
+
 
 ## **PART II - ROAD RACES** 
 

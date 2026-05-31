@@ -5,7 +5,9 @@ source_sha256: a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1
 converter: pymupdf4llm
 ---
 
-**==> picture [394 x 438] intentionally omitted <==**
+
+![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0001-00.png)
+
 
 **----- Start of picture text -----**<br>
 CONSTITUTION<br>**----- End of picture text -----**<br>
@@ -13,7 +15,9 @@ CONSTITUTION<br>**----- End of picture text -----**<br>
 
 # VERSION ON 25.09.2025 
 
-**==> picture [69 x 31] intentionally omitted <==**
+
+![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0001-02.png)
+
 
 ## **TABLE OF CONTENT** 
 
@@ -1378,7 +1382,9 @@ CONSTITUTION | ENFORCEMENT
 
 43 
 
-**==> picture [394 x 438] intentionally omitted <==**
+
+![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0044-00.png)
+
 
 **----- Start of picture text -----**<br>
 STANDING<br>ORDERS OF<br>THE CONGRESS<br>**----- End of picture text -----**<br>
@@ -1386,7 +1392,9 @@ STANDING<br>ORDERS OF<br>THE CONGRESS<br>**----- End of picture text -----**<br>
 
 VERSION ON 25.09.2025 
 
-**==> picture [69 x 31] intentionally omitted <==**
+
+![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0044-02.png)
+
 
 _**Article 1**_ 
 

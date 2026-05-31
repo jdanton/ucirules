@@ -5,7 +5,9 @@ source_sha256: fd3321d28a7378df6fb8b43428c364ed550a8202a4a3ccd1d013b6450b4cafe1
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Memorandum-Modifications_of_the_Rules_concerning_the_Mandatory_Medical_File.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 

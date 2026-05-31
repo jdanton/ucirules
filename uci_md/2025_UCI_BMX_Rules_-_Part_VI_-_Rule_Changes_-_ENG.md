@@ -5,7 +5,9 @@ source_sha256: ac8feb86739c33fd894e19554958c73fd759d0bb84519ce2c335607aaaadd2c6
 converter: pymupdf4llm
 ---
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 

@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 27.09.2024 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_01012025.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 
@@ -188,7 +190,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 **3.2.153** In the case the event is stopped for any reason, and it is not possible to restart and **bis** complete the event before the end of the competition, the commissaires’ panel shall decide pursuant to the table below: 
 
-**==> picture [384 x 228] intentionally omitted <==**
+
+![](images/Part_3_Track_Regulations_amendments_01012025.pdf-0005-03.png)
+
 
 **----- Start of picture text -----**<br>
 DECISIONS<br>Interrupted before  Interrupted after  Interruption after the<br>completion of the  completion of the  completion of the First<br>qualification round  qualification round,  round<br>before completion of the<br>First round<br>No final classification.  Classification according  Riders qualified for<br>No results will be  to the results from the  the gold medal final<br>submitted and no UCI  qualification round  will be awarded 2 [nd]<br>points will be awarded.  place, and riders<br>qualified for the<br>bronze medal final will<br>be awarded 4 [th]  place.<br>All other riders will be<br>ranked according to<br>the rules applicable<br>for this event<br>**----- End of picture text -----**<br>

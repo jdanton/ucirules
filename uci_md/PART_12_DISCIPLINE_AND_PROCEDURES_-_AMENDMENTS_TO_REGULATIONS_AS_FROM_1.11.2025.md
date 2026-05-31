@@ -5,7 +5,9 @@ source_sha256: aed0da8892df8c27c3f333cc20aa88cebd14e1327ae84d3c0c020e824dc7640f
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_1.11.2025.pdf-0001-00.png)
+
 
 ## MEMORANDUM 
 

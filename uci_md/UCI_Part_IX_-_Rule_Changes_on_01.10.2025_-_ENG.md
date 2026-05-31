@@ -5,7 +5,9 @@ source_sha256: 13ca8b3c49c36ef882494f1d27415a29fc001f3ab92315c0923e9771c6e6cea8
 converter: pymupdf4llm
 ---
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/UCI_Part_IX_-_Rule_Changes_on_01.10.2025_-_ENG.pdf-0001-00.png)
+
 
 MEMORANDUM 01.10.2025 
 

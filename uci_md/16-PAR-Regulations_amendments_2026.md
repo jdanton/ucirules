@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 06.10.2025 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/16-PAR-Regulations_amendments_2026.pdf-0001-01.png)
+
 
 ## **Rules Amendments applying on 01.01.2026** 
 

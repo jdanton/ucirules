@@ -5,7 +5,9 @@ source_sha256: a783f66018fa0cbc21224af4696e7df42046354e0698744e6045508bb06a3e48
 converter: pymupdf4llm
 ---
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2-ROA-20250101-E_amendments_on_01.01.2025_-_updated_23.12.24_Merged.pdf-0001-00.png)
+
 
 ## **PART II – ROAD RACES Rules amendments applying on 01.01.2025** 
 
@@ -1049,7 +1051,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2-ROA-20250101-E_amendments_on_01.01.2025_-_updated_23.12.24_Merged.pdf-0025-00.png)
+
 
 ## **2.12.007 Table of race incidents relating to road events** 
 
@@ -1231,7 +1235,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 23 December 2024 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/2-ROA-20250101-E_amendments_on_01.01.2025_-_updated_23.12.24_Merged.pdf-0036-01.png)
+
 
 ## MEMORANDUM 
 

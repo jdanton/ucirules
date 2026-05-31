@@ -1580,11 +1580,17 @@ TRACK RACES
 
 **UCI CYCLING REGULATIONS** 
 
-**==> picture [303 x 228] intentionally omitted <==**
 
-**==> picture [303 x 228] intentionally omitted <==**
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0034-01.png)
 
-**==> picture [303 x 227] intentionally omitted <==**
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0034-02.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0034-03.png)
+
 
 _Figure 1_ 
 
@@ -1770,9 +1776,13 @@ TRACK RACES
 
 _(article introduced on 01.01.25)_ 
 
-**==> picture [303 x 228] intentionally omitted <==**
 
-**==> picture [45 x 12] intentionally omitted <==**
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0039-05.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0039-06.png)
+
 
 **----- Start of picture text -----**<br>
 Figure 1<br>**----- End of picture text -----**<br>
@@ -1786,17 +1796,25 @@ TRACK RACES
 
 **UCI CYCLING REGULATIONS** 
 
-**==> picture [304 x 227] intentionally omitted <==**
 
-**==> picture [303 x 228] intentionally omitted <==**
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-01.png)
 
-**==> picture [303 x 228] intentionally omitted <==**
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-02.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-03.png)
+
 
 _Figure 2_ 
 
 _Figure 3_ 
 
-**==> picture [48 x 11] intentionally omitted <==**
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-06.png)
+
 
 **----- Start of picture text -----**<br>
 Figure 4<br>**----- End of picture text -----**<br>
@@ -1810,25 +1828,37 @@ TRACK RACES
 
 **UCI CYCLING REGULATIONS** 
 
-**==> picture [303 x 228] intentionally omitted <==**
 
-**==> picture [303 x 228] intentionally omitted <==**
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-01.png)
 
-**==> picture [303 x 228] intentionally omitted <==**
 
-**==> picture [45 x 11] intentionally omitted <==**
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-02.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-03.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-04.png)
+
 
 **----- Start of picture text -----**<br>
 Figure 5<br>**----- End of picture text -----**<br>
 
 
-**==> picture [48 x 11] intentionally omitted <==**
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-05.png)
+
 
 **----- Start of picture text -----**<br>
 Figure 6<br>**----- End of picture text -----**<br>
 
 
-**==> picture [45 x 11] intentionally omitted <==**
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-06.png)
+
 
 **----- Start of picture text -----**<br>
 Figure 7<br>**----- End of picture text -----**<br>
@@ -3995,9 +4025,13 @@ TRACK RACES
 
 ## **3.6.028** 
 
-**==> picture [412 x 194] intentionally omitted <==**
 
-**==> picture [401 x 261] intentionally omitted <==**
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0090-06.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0090-07.png)
+
 
 E0126 
 
@@ -4083,7 +4117,9 @@ For tracks of less than 200 m, the handlebar grips shall be 920 mm from the grou
 
 ## **3.6.051** 
 
-**==> picture [139 x 255] intentionally omitted <==**
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0092-12.png)
+
 
 E0126 
 
@@ -4270,11 +4306,17 @@ TRACK RACES
 
 **UCI CYCLING REGULATIONS** 
 
-**==> picture [330 x 404] intentionally omitted <==**
 
-**==> picture [177 x 215] intentionally omitted <==**
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0097-01.png)
 
-**==> picture [109 x 160] intentionally omitted <==**
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0097-02.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0097-03.png)
+
 
 Diagram showing the inner fence at different heights 
 
@@ -4388,7 +4430,9 @@ TRACK RACES
 
 - Team Sprint: three square markings (each a 9 cm[2] ), spaced 1.5 m apart, shall be used. The first marking, positioned on the inside of the track and defining the position of the others, shall coincide with the first marking used for the Team Pursuit. The third marking shall coincide with the fourth Team Pursuit starting position marking. The second marking, positioned between the first and third, is the only marking applied exclusively for the Team Sprint event and shall be coloured red. 
 
-**==> picture [305 x 401] intentionally omitted <==**
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0100-02.png)
+
 
 Diagram of the Starting Position Track Markings 
 
@@ -4426,7 +4470,9 @@ At the places where the area outside the track is at a level 1.5 metres or more 
 
 Where there is a difference in the height of the outer fence, the transition between these heights must not exceed an angle of 45°. 
 
-**==> picture [327 x 275] intentionally omitted <==**
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0101-09.png)
+
 
 E0126 
 
@@ -4436,9 +4482,13 @@ TRACK RACES
 
 **UCI CYCLING REGULATIONS** 
 
-**==> picture [126 x 195] intentionally omitted <==**
 
-**==> picture [215 x 131] intentionally omitted <==**
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0102-01.png)
+
+
+
+![](images/PART_3_E_-_As_of_01.01.2026.pdf-0102-02.png)
+
 
 Diagram showing the outer fence at different heights 
 

@@ -419,7 +419,9 @@ E0126
 
 **8.1.011** Competition surface 
 
-**==> picture [455 x 273] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0010-03.png)
+
 
 - **Inner circle:** Circle around the middle point of the competition surface with a diametre of 50 centimetres. 
 
@@ -471,7 +473,9 @@ _(article introduced on 01.01.16)_
 
    - It is not allowed to apply the support lines at the competition surface. They only are used here to understand the following explanations. 
 
-**==> picture [336 x 266] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0011-10.png)
+
 
 - **Middle longitudinal axis (support line A):** Line parallel to the long side of the competition surface through the middle of the competition surface. 
 
@@ -497,7 +501,9 @@ _(text modified on 01.01.16)_
 
    - The bicycle has to be constructed in a way that it is not possible to damage the competition surface. 
 
-**==> picture [343 x 242] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0012-07.png)
+
 
 - **Cranks:** Length from centre bottom bracket bearing to centre pedal pivot shaft 130 – 170 mm. 
 
@@ -563,7 +569,9 @@ E0126
 
    - In all competitions or championships, it is only allowed to use the evaluation sheet shown on this page. 
 
-**==> picture [422 x 596] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0014-03.png)
+
 
 _(text modified on 01.01.16; 01.01.18)_ 
 
@@ -842,7 +850,9 @@ _(text modified on 01.01.16)_
 
 ## **8.2.016** Free-hand (frh.) 
 
-**==> picture [79 x 79] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0020-05.png)
+
 
 If free-hand (frh.) is written in the name of a figure all riders have to ride the entire way of stretch free-hand. 
 
@@ -872,7 +882,9 @@ Except figures with the text “raiser” all figures have to be performed with 
 
 Exceptions are described in the explanations of figures. 
 
-**==> picture [70 x 58] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0020-20.png)
+
 
 _(text modified on 01.01.16)_ 
 
@@ -890,7 +902,9 @@ If “raiser” is written in the name of a figure, the total way of stretch of 
 
 ## _(text modified on 01.01.16)_ 
 
-**==> picture [67 x 66] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0021-04.png)
+
 
 ## **8.2.021** Forward 
 
@@ -898,7 +912,9 @@ All figures have to be performed in forward direction, if they are not marked in
 
 At all figures with both wheels on the floor, turns, squats and jumps forward is determined by the bicycle. At all raiser figures the direction of the riders’ face is decisive for the forward direction. 
 
-**==> picture [67 x 72] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0021-08.png)
+
 
 ## _(text modified on 01.01.16)_ 
 
@@ -908,7 +924,9 @@ When figures are marked in the name of the figure with “backward” they have 
 
 At all figures with both wheels on the floor, turns, squats and jumps the backward motion is determined by the movement of the rolling bicycle. At all raiser figures the direction against the riders’ face is decisive for the backward direction. 
 
-**==> picture [75 x 75] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0021-13.png)
+
 
 ## _(text modified on 01.01.16)_ 
 
@@ -1156,7 +1174,9 @@ E0126
 
 _(text modified on 01.01.16)_ 
 
-**==> picture [164 x 129] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0026-02.png)
+
 
 ## **8.2.043** Half circle (HC.) 
 
@@ -1170,13 +1190,17 @@ An eight is formed by two circles. Both circles must have the same diametre with
 
 The circles have to be executed each in one half of the competition surface. The competition surface is split in two by an imaginary straight line, which runs through the inner circle. 
 
-**==> picture [163 x 128] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0026-09.png)
+
 
 ## **8.2.045** Half eight (S) 
 
 A half eight is formed by two half circles. Both half circles must have the same diametre with a minimum of 4 metres. One circle has to be performed clockwise, the other half circle has to be performed anti-clockwise. The change of direction has to be performed within the inner circle. The inner circle has to be crossed once during the execution of a S. The sequence of the figure starts at the longitudinal or transversal axis of the competition surface. The half circles have to be executed at two, across from each other, placed quarters of the competition surface (one half circle in each quarter). 
 
-**==> picture [163 x 128] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0026-12.png)
+
 
 The competition surface is split in 4 quarters by the longitudinal and transversal axis. 
 
@@ -1242,7 +1266,9 @@ E0126
 
 Each rider executes an eight. The sequence of the figure starts on the inner circle, where both riders ride from opposite directions, with a touch of hands of the riders (except handstand). The figure ends after completing the total way of stretch with a touch of hands (except handstand) of the riders, again on the inner circle. 
 
-**==> picture [163 x 128] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0028-04.png)
+
 
 - **8.2.051** Counter circle (Count. C) 
 
@@ -1250,7 +1276,9 @@ Each rider executes each on a separate half of the competition surface a complet
 
 The sequence of the figure starts and ends on the inner circle with a touch of hands of the riders. The way of stretch which is executed during the handlebar-turn belongs to the content of the total way of stretch of the counter circle. 
 
-**==> picture [163 x 129] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0028-08.png)
+
 
 _(text modified on 01.01.16)_ 
 
@@ -1570,7 +1598,9 @@ E0126
 
 Stand in front of the handlebar, back directed to the saddle. One foot on the frontpin, other foot on the down tube. 
 
-**==> picture [54 x 47] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-07.png)
+
 
 ## **1031** 
 
@@ -1578,7 +1608,9 @@ Stand in front of the handlebar, back directed to the saddle. One foot on the fr
 
 Stand with one foot on the frontpin, handlebar in front of the rider, chest directed to the saddle. The free leg has to be stretched in moving direction, without touching the handlebar with the legs. 
 
-**==> picture [54 x 44] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-11.png)
+
 
 **1032** 
 
@@ -1598,13 +1630,21 @@ Stand with one foot on the left rear-pin, other foot on the left front-pin (or c
 
 Stand with one foot on the left rear-pin, other foot on the left front-pin (or counterwise), chest directed to the saddle, without touching the handlebar with the leg. 
 
-**==> picture [54 x 44] intentionally omitted <==**
 
-**==> picture [54 x 45] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-21.png)
 
-**==> picture [54 x 45] intentionally omitted <==**
 
-**==> picture [54 x 45] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-22.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-23.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-24.png)
+
 
 **1036 1037 1038 1039** 
 
@@ -1616,9 +1656,13 @@ Knee of one leg across the saddle, without extending the outer edge of the saddl
 
 Pushing one foot through the frame and placing foot on the front-pin. Free leg stretched forward, seat in the frame. 
 
-**==> picture [54 x 47] intentionally omitted <==**
 
-**==> picture [60 x 34] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-30.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-31.png)
+
 
 **1040 1041** 
 
@@ -1650,9 +1694,13 @@ One leg through the frame, feet standing on the pedals, chest directed to the sa
 
 Standing upright with one foot solely on the down tube, other foot solely on the saddle tube, chest directed to the handlebar. Without touching the feet each other and without touching the handlebar with the leg. 
 
-**==> picture [54 x 43] intentionally omitted <==**
 
-**==> picture [54 x 52] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0037-11.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0037-12.png)
+
 
 **1071 1076** 
 
@@ -1668,7 +1716,9 @@ E0126
 
 Standing upright with one foot solely on the down tube, other foot solely on the saddle tube, chest directed to the saddle. Without touching the feet each other and without touching the handlebar with the leg. 
 
-**==> picture [54 x 51] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-03.png)
+
 
 **1077** 
 
@@ -1680,7 +1730,9 @@ Standing upright with one foot solely on the down tube, other foot solely on the
 
 Lying with front of the body on the handlebar, head directed to the saddle, closed legs stretched horizontally in moving direction. 
 
-**==> picture [55 x 35] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-09.png)
+
 
 **1091** 
 
@@ -1688,7 +1740,9 @@ Lying with front of the body on the handlebar, head directed to the saddle, clos
 
 **a-b:** Lying with front of on the saddle, closed legs stretched horizontally backwards. 
 
-**==> picture [56 x 40] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-13.png)
+
 
 **1092** 
 
@@ -1702,9 +1756,13 @@ Lying with back of the body in a straight line on the handlebar, stretched legs 
 
 Walking with feet on the front wheel tyre, both hands on the handlebar, chest directed to the saddle. The way of stretch for this figure has to be ¼ circle. 
 
-**==> picture [54 x 34] intentionally omitted <==**
 
-**==> picture [54 x 48] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-20.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-21.png)
+
 
 **1093 1096** 
 
@@ -1712,7 +1770,9 @@ Walking with feet on the front wheel tyre, both hands on the handlebar, chest di
 
 Stand free with one foot on the saddle and the other foot on the handlebar. 
 
-**==> picture [54 x 63] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-25.png)
+
 
 **1101 1102** 
 
@@ -1720,7 +1780,9 @@ Stand free with one foot on the saddle and the other foot on the handlebar.
 
 Stand free with feet on the saddle. 
 
-**==> picture [54 x 64] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-29.png)
+
 
 ## **1103** 
 
@@ -1780,23 +1842,33 @@ Arms stretched, hands placed on the handlebar-grips, legs stretched, chest direc
 
 ## **L-shape hold sidewards** 
 
-**==> picture [67 x 59] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-12.png)
+
 
 **1113a** 
 
-**==> picture [67 x 58] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-14.png)
+
 
 ## **1113b** 
 
-**==> picture [67 x 57] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-16.png)
+
 
 **1113c** 
 
-**==> picture [57 x 49] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-18.png)
+
 
 ## **1115** 
 
-**==> picture [54 x 48] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-20.png)
+
 
 **1116** 
 
@@ -1812,13 +1884,19 @@ Arms stretched, one hand placed on the saddle, other hand placed on the handleba
 
 Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-**==> picture [54 x 48] intentionally omitted <==**
 
-**==> picture [54 x 65] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-28.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-29.png)
+
 
 **1118** 
 
-**==> picture [28 x 9] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-31.png)
+
 
 **----- Start of picture text -----**<br>
 1121<br>**----- End of picture text -----**<br>
@@ -1836,7 +1914,9 @@ E0126
 
 Shoulderstand with one shoulder on the saddle or crossbar, boths hands on the handlebar. Legs closed and stretched straight upwards. 
 
-**==> picture [54 x 59] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0041-03.png)
+
 
 ## **1122** 
 
@@ -1924,7 +2004,9 @@ E0126
 
 **a:** From sidestand foot-cranking jump with half turn of the front wheel, then squat over the handlebar to handlebarseat reverse. The foot has to be removed from the pedal during the jump. 
 
-**==> picture [78 x 39] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-03.png)
+
 
 **1172** 
 
@@ -1944,9 +2026,13 @@ E0126
 
 **a:** From sidestand foot cranking with half turn of the front wheel to backhang. The foot has to be removed from the pedal during the jump. 
 
-**==> picture [78 x 42] intentionally omitted <==**
 
-**==> picture [78 x 39] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-13.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-14.png)
+
 
 **1173** 
 
@@ -1958,7 +2044,9 @@ E0126
 
 The tactical enlargement of the turning jumps is possible from two to seven, three to eight, from four to nine and from five to ten turning jumps. 
 
-**==> picture [78 x 39] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-20.png)
+
 
 **1175** 
 
@@ -2123,25 +2211,45 @@ In squat position with one foot on the crossbar, free leg horizontally stretched
 
 Knee on the saddle, trunk bent-forward to the handlebar, free leg stretched backwards in straight line with trunk and head. 
 
-**==> picture [71 x 50] intentionally omitted <==**
 
-**==> picture [72 x 48] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-21.png)
 
-**==> picture [71 x 47] intentionally omitted <==**
 
-**==> picture [72 x 51] intentionally omitted <==**
 
-**==> picture [71 x 48] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-22.png)
 
-**==> picture [77 x 51] intentionally omitted <==**
 
-**==> picture [71 x 50] intentionally omitted <==**
 
-**==> picture [78 x 44] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-23.png)
 
-**==> picture [72 x 50] intentionally omitted <==**
 
-**==> picture [78 x 44] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-24.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-25.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-26.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-27.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-28.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-29.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-30.png)
+
 
 ## **2022** 
 
@@ -2189,17 +2297,29 @@ From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possi
 
 **a-f:** Stand free with feet on the handlebar-grips, back directed to the saddle. 
 
-**==> picture [71 x 44] intentionally omitted <==**
 
-**==> picture [69 x 38] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-15.png)
 
-**==> picture [71 x 56] intentionally omitted <==**
 
-**==> picture [71 x 66] intentionally omitted <==**
 
-**==> picture [71 x 66] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-16.png)
 
-**==> picture [69 x 69] intentionally omitted <==**
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-17.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-18.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-19.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-20.png)
+
 
 ## **2061** 
 
@@ -2231,7 +2351,9 @@ E0126
 
 Stand free with feet on the handlebar-grips, chest directed to the saddle. 
 
-**==> picture [71 x 69] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-04.png)
+
 
 **2071** 
 
@@ -2239,7 +2361,9 @@ Stand free with feet on the handlebar-grips, chest directed to the saddle.
 
 Separate performed headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-**==> picture [54 x 66] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-08.png)
+
 
 ## **2073** 
 
@@ -2247,7 +2371,9 @@ Separate performed headstand on the saddle, both hands on the handlebar. Legs cl
 
 Separate performed shoulderstand with one shoulder on the saddle or crossbar, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-**==> picture [54 x 59] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-12.png)
+
 
 **2074** 
 
@@ -2255,7 +2381,9 @@ Separate performed shoulderstand with one shoulder on the saddle or crossbar, bo
 
 Separate performed handstand with one hand on the handlebar and the other hand on the saddle. Arms stretched, legs closed and stretched straight upwards, without leaning against handlebar-grip with the forearm and wrist. 
 
-**==> picture [68 x 89] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-16.png)
+
 
 **2076 a 2076 b 2076 c** 
 
@@ -2311,7 +2439,9 @@ E0126
 
 Seat on the saddle, chest directed to the handlebar, one foot on a pedal. The free leg has to be stretched over the crossbar to the opposite side of the bicycle and below the handlebar without holding on the front wheel with the foot. 
 
-**==> picture [74 x 48] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0055-04.png)
+
 
 **2147** 
 
@@ -2391,7 +2521,9 @@ E0126
 
 Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Hanging with chest-grip on the partner’s back, head downwards, upwards stretched and closed legs in straight line with the body. 
 
-**==> picture [54 x 63] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-03.png)
+
 
 **2270 2271** 
 
@@ -2399,7 +2531,9 @@ Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Hangi
 
 Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Stand with feet on the handlebar-grips. 
 
-**==> picture [54 x 67] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-07.png)
+
 
 **2276** 
 
@@ -2407,7 +2541,9 @@ Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Stand
 
 Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Handstand with both hands on the handlebargrips, arms stretched, legs closed and stretched straight upwards. 
 
-**==> picture [54 x 75] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-11.png)
+
 
 **2277 a 2277 b** 
 
@@ -2421,7 +2557,9 @@ Seat on the saddle, chest directed to the handlebar, feet on the pedals / From h
 
 Seat on the saddle, back directed to the handlebar, feet on the pedals. / Seat on the partner’s shoulders. 
 
-**==> picture [54 x 58] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-18.png)
+
 
 **2281 2282** 
 
@@ -2441,7 +2579,9 @@ E0126
 
 **a-d:** Seat on the handlebar, back directed to the saddle. The free leg stretched forward, horizontally. Other foot on the down tube. / Stand with feet each on a rear-pin. Both knees behind the saddle. 
 
-**==> picture [59 x 48] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-03.png)
+
 
 **2296** 
 
@@ -2471,21 +2611,35 @@ Seat on the handlebar, chest directed to the saddle, feet on the pedals. / Hangi
 
 Seat on the handlebar, chest directed to the saddle, feet on the pedals. / Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-**==> picture [54 x 48] intentionally omitted <==**
 
-**==> picture [54 x 63] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-18.png)
 
-**==> picture [54 x 58] intentionally omitted <==**
 
-**==> picture [54 x 78] intentionally omitted <==**
 
-**==> picture [54 x 65] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-19.png)
 
-**==> picture [54 x 65] intentionally omitted <==**
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-20.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-21.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-22.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-23.png)
+
 
 **2301 2302** 
 
-**==> picture [28 x 260] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-25.png)
+
 
 **----- Start of picture text -----**<br>
 2303<br>2304<br>2305<br>2306<br>**----- End of picture text -----**<br>
@@ -2529,19 +2683,33 @@ Pushing one foot through the frame and placing the foot on the front-pin. Free l
 
 Pushing one foot through the frame and placing the foot on the front-pin. Free leg stretched forward, seat in the frame. / One hand on the saddle, elbow supporting the body, other hand on the handlebar (handlebar-grip may be used as support for the forearm). Head in moving-direction, legs stretched backwards. 
 
-**==> picture [54 x 65] intentionally omitted <==**
 
-**==> picture [54 x 60] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-16.png)
 
-**==> picture [54 x 45] intentionally omitted <==**
 
-**==> picture [60 x 52] intentionally omitted <==**
 
-**==> picture [61 x 46] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-17.png)
 
-**==> picture [54 x 64] intentionally omitted <==**
 
-**==> picture [60 x 40] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-18.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-19.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-20.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-21.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-22.png)
+
 
 **2311 2316** 
 
@@ -2573,11 +2741,17 @@ Both hands behind the back on the handlebar, front wheel between the legs, feet 
 
 **a-b:** Both hands behind the back, on the handlebar, front wheel between the legs, feet on the pedals. / Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-**==> picture [62 x 47] intentionally omitted <==**
 
-**==> picture [54 x 65] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-07.png)
 
-**==> picture [54 x 65] intentionally omitted <==**
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-08.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-09.png)
+
 
 **2331** 
 
@@ -2599,13 +2773,21 @@ In front of the headtube hanging on the handlebar, chest directed to the saddle,
 
 **Backhang / Headstand; Saddle handlebar handstand a-b:** In front of the headtube hanging on the handlebar, chest directed to the saddle, frame between the legs, feet on the pedals. / Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. **c-d:** Like **a-b** until slash / Handstand with one hand on the handlebar and the other hand on the saddle. Arms stretched, legs closed and stretched straight upwards, without leaning against the handlebar-grips with the forearm or wrist. 
 
-**==> picture [57 x 48] intentionally omitted <==**
 
-**==> picture [57 x 66] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-20.png)
 
-**==> picture [57 x 67] intentionally omitted <==**
 
-**==> picture [57 x 65] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-21.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-22.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-23.png)
+
 
 **2341** 
 
@@ -2647,15 +2829,25 @@ Both stand with one foot on the saddle and the other foot on the handlebar.
 
 **a-b:** Stand with one foot on the saddle and the other foot on the handlebar. / Stand with feet each on a rear-pin. Both knees behind the saddle. 
 
-**==> picture [57 x 65] intentionally omitted <==**
 
-**==> picture [56 x 76] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-13.png)
 
-**==> picture [54 x 65] intentionally omitted <==**
 
-**==> picture [54 x 63] intentionally omitted <==**
 
-**==> picture [54 x 63] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-14.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-15.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-16.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-17.png)
+
 
 **2351 2352** 
 
@@ -2669,7 +2861,9 @@ Both stand with one foot on the saddle and the other foot on the handlebar.
 
 Stand with feet on the handlebar-grips. / Stand with feet each on a rear-pin. Both knees behind the saddle. **g-h:** The rider jumps from regular seat to the fronthandlebarstand; further according **a-b** . 
 
-**==> picture [54 x 67] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-24.png)
+
 
 **2358 a 2358 b 2358 g 2358 h** 
 
@@ -2709,15 +2903,25 @@ Headstand on the saddle, both hands on the handlebar. Legs closed and stretched 
 
 Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. / Shoulderstand with one shoulder on the crossbar, boths hands on the handlebar. Legs closed and stretched straight upwards. 
 
-**==> picture [54 x 66] intentionally omitted <==**
 
-**==> picture [57 x 65] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-15.png)
 
-**==> picture [56 x 48] intentionally omitted <==**
 
-**==> picture [54 x 67] intentionally omitted <==**
 
-**==> picture [54 x 65] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-16.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-17.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-18.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-19.png)
+
 
 **2359** 
 
@@ -2759,7 +2963,9 @@ Headstand on the saddle, both hands on the handlebar. Legs closed and stretched 
 
 Handstand with both hands on the handlebar-grips. Arms stretched, legs closed and stretched straight upwards. / Stand with feet on the saddle. 
 
-**==> picture [57 x 76] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0063-12.png)
+
 
 **2376 c 2376 d** 
 
@@ -2767,7 +2973,9 @@ Handstand with both hands on the handlebar-grips. Arms stretched, legs closed an
 
 Handstand with both hands on the handlebar-grips. Arms stretched, legs closed and stretched straight upwards. / Handstand with one hand on the handlebar and the other hand on the saddle. Arms stretched, legs closed and stretched straight upwards, without leaning against handlebar-grip with the forearm or wrist. 
 
-**==> picture [57 x 75] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0063-16.png)
+
 
 **2377** 
 
@@ -2815,7 +3023,9 @@ E0126
 
 Seat on the head tube, front wheel behind oneself, feet on the pedals. / Seat on the partner’s shoulders. 
 
-**==> picture [54 x 65] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0065-11.png)
+
 
 **2446 2447** 
 
@@ -2823,7 +3033,9 @@ Seat on the head tube, front wheel behind oneself, feet on the pedals. / Seat on
 
 Seat on the head tube, front wheel behind oneself, feet on the pedals. / Stand with feet on the partner’s shoulders. 
 
-**==> picture [54 x 84] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0065-15.png)
+
 
 **2448 2449** 
 
@@ -2877,9 +3089,13 @@ Diagonal pull **(8.2.068)**
 
 During the figure, two riders have to perform each a single ring left and two riders have to perform each a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-**==> picture [129 x 100] intentionally omitted <==**
 
-**==> picture [129 x 100] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-11.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-12.png)
+
 
 **4006** 
 
@@ -2899,9 +3115,13 @@ All riders have to ride, following each other, performing an eight (8).
 
 Eight **(8.2.044)** 
 
-**==> picture [129 x 98] intentionally omitted <==**
 
-**==> picture [128 x 99] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-22.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-23.png)
+
 
 **4007 a 4008 a 4010 a** 
 
@@ -3012,7 +3232,9 @@ All riders have to perform a 2 connnected wingmill. During the figure, each ride
 
 2 con. wingmill **(8.2.072)** 50cm-spinnings **(8.2.046)** 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0070-09.png)
+
 
 **4024 a 4024 b** 
 
@@ -3020,7 +3242,9 @@ All riders have to perform a 2 connnected wingmill. During the figure, each ride
 
 All riders have to form the grip connection of a 2 connected wingmill and have to release the grip connection in motion, then all riders have to perform 50cm-spinnings on the longitudinal axis or on the transversal axis. After completing the 50cm-spinnings the inside riders have to grip each other with their left hands above the inner circle and have to 
 
-**==> picture [129 x 98] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0070-13.png)
+
 
 **4024 c** 
 
@@ -3167,7 +3391,9 @@ E0126
 
 - D **2 con. f.e.o. longline 2 s.r.l. 2 s.r.r.** During the figure, two riders each have to perform a single ring left and two riders each have to perform a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-**==> picture [129 x 98] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0075-02.png)
+
 
 4082 b 
 
@@ -3221,7 +3447,9 @@ C **2 con. shortline 4 s.r.l.** During the figure, each rider has to perform a s
 
 Single ring left **(8.2.053)** 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0076-06.png)
+
 
 4086 d 4087 c 4088 f-g 4089 d 
 
@@ -3259,7 +3487,9 @@ Single ring left **(8.2.053)** Single ring right **(8.2.054)**
 
 Two riders each are connected by hand-inhand-grip, thus they form a pair of riders. Both pairs of riders are on the same, imaginary axis, which runs through the inner circle or parallel to the long or short side of the competition surface. The distance between the pairs of riders has to be equal. One rider of each pair has to stand on a spot, without 
 
-**==> picture [129 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0077-09.png)
+
 
 **4116 4117** 
 
@@ -3315,7 +3545,9 @@ A **Two outsiderings 4 s.r.r.** 4136 d During the figure, each rider has to perf
 
 B **Two outsiderings spinnings (T)** During the figure, each rider has to perform 50cm-spinnings. 50cm-spinnings **(8.2.046)** 
 
-**==> picture [128 x 99] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0079-05.png)
+
 
 4136 e 
 
@@ -3355,7 +3587,9 @@ All riders have to ride around the middle circle. Rider 1 has to grip with the r
 
 Rider 2 has to grip with the left hand backwards to the right shoulder of rider 3. Rider 3 has to grip with the left hand forward to the right shoulder of rider 4. 
 
-**==> picture [129 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0081-07.png)
+
 
 **4181** 
 
@@ -3371,7 +3605,9 @@ Rider 2 has to grip with the left hand to the right hand of rider 3.
 
 Rider 3 has to grip with the left hand to the right hand of rider 4. 
 
-**==> picture [129 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0081-15.png)
+
 
 **4182** 
 
@@ -3387,7 +3623,9 @@ E0126
 
 **UCI CYCLING REGULATIONS** 
 
-**==> picture [129 x 99] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0082-01.png)
+
 
 ## **Snake half circle / circle** 
 
@@ -3405,7 +3643,9 @@ All riders have to ride around the middle circle in right-left position, shifted
 
 Rider 1 has to grip with both hands to the own handlebar-grip. Rider 2 has to grip with the left hand the right shoulder of rider 1. Rider 3 has to grip with the right hand the left shoulder of rider 2. 
 
-**==> picture [129 x 97] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0082-10.png)
+
 
 **4191** 
 
@@ -3445,7 +3685,9 @@ Rider 2, 3, and 4 are still connected to each other by saddlegrip and have to pa
 
 Thus, the riders perform a pass through. 
 
-**==> picture [128 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0083-08.png)
+
 
 4197 a 
 
@@ -3576,7 +3818,9 @@ All riders have to perform an insidering.
 
 Insidering **(8.2.073)** 
 
-**==> picture [129 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0086-12.png)
+
 
 **4258 4259** 
 
@@ -3652,7 +3896,9 @@ Alternate ring **(8.2.058)**
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding once through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the mill the own half of the competition surface may be left. 
 
-**==> picture [129 x 97] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0089-14.png)
+
 
 4288 a 
 
@@ -3660,7 +3906,9 @@ The two other riders are shifted a half way of their stretch, each on one half o
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding twice through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the door, the own half of the competition surface may be left. 
 
-**==> picture [129 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0089-18.png)
+
 
 4288 b 4289 a 
 
@@ -3746,7 +3994,9 @@ Two riders have to form a door.
 
 The two other riders have to ride at equal distances, following each other, each once (half door ring) / each twice (door ring) through the space between the door. Thus, the riders who are passing the door perform an insidering. 
 
-**==> picture [132 x 100] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0092-04.png)
+
 
 **4307 a-b** 
 
@@ -3776,9 +4026,13 @@ Star inside **(8.2.061)**
 
 All riders have to ride with equal distances, following each other, around the middle circle. During the figure all riders have to perform a single ring left. After finishing the single ring left all riders have to form a star inside around the inner circle. 
 
-**==> picture [131 x 102] intentionally omitted <==**
 
-**==> picture [129 x 100] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0092-19.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0092-20.png)
+
 
 **4316 a 4317 a-f** 
 
@@ -3812,9 +4066,13 @@ Star outside **(8.2.062)**
 
 All riders have to ride with equal distances, following each other, around the middle circle. During the figure, all riders have to perform a single ring left. After finishing the single ring left all riders have to form a star outside around the inner circle. 
 
-**==> picture [133 x 100] intentionally omitted <==**
 
-**==> picture [129 x 100] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0093-10.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0093-11.png)
+
 
 **4326 a-b 4328 a-d** 
 
@@ -3836,7 +4094,9 @@ All riders have to perform an alternate-star.
 
 Alternate-star **(8.2.063)** 
 
-**==> picture [130 x 101] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0093-22.png)
+
 
 **4327** 
 
@@ -3854,9 +4114,13 @@ Starting position is the star inside. During the figure, all riders have to rele
 
 **End of figure:** In the position star outside / star inside. 
 
-**==> picture [129 x 100] intentionally omitted <==**
 
-**==> picture [29 x 9] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-04.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-05.png)
+
 
 **----- Start of picture text -----**<br>
 4331<br>**----- End of picture text -----**<br>
@@ -3876,9 +4140,13 @@ All riders are connected by a grip connection and have to stand on a common axis
 
 Turn on the spot **(8.2.047)** 
 
-**==> picture [129 x 100] intentionally omitted <==**
 
-**==> picture [129 x 100] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-13.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-14.png)
+
 
 **4341 4342** 
 
@@ -6806,9 +7074,13 @@ _(text modified on 01.09.25)_
 
    - The upper edge must be rounded and free of burrs. 
 
-**==> picture [276 x 96] intentionally omitted <==**
 
-**==> picture [86 x 79] intentionally omitted <==**
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0149-13.png)
+
+
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0149-14.png)
+
 
 _(text modified on 01.01.18)_ 
 
@@ -6832,7 +7104,9 @@ E0126
 
 - **8.7.018** All dimensions are external dimensions. 
 
-**==> picture [325 x 397] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0150-02.png)
+
 
 The 8 meter and 0.5 meter circles are only used for artistic cycling. Advertising is allowed in the shaded area as long as the surface conditions are equal to the none shaded area 
 
@@ -6858,7 +7132,9 @@ E0126
 
 **UCI CYCLING REGULATIONS** 
 
-**==> picture [250 x 228] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0151-01.png)
+
 
 _(text modified on 01.01.18)_ 
 
@@ -6896,7 +7172,9 @@ E0126
 
 - **8.7.031** The bicycles used shall be constructed in accordance with following guidelines and dimensions: 
 
-**==> picture [340 x 262] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0152-03.png)
+
 
 |Dimensions:|A = 150 - 180 mm|B = 395 - 455 mm|
 |---|---|---|
@@ -7643,23 +7921,33 @@ E0126
 
 Picture 1 - Goal 
 
-**==> picture [137 x 187] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-03.png)
+
 
 Picture 4 - Time wasting 
 
-**==> picture [129 x 186] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-05.png)
+
 
 Picture 2 - Advantage 
 
-**==> picture [133 x 185] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-07.png)
+
 
 Picture 5 – Goal not valid 
 
-**==> picture [136 x 174] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-09.png)
+
 
 Picture 6 - Time out 
 
-**==> picture [130 x 176] intentionally omitted <==**
+
+![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-11.png)
+
 
 INDOOR CYCLING 
 

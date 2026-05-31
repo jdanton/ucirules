@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 
@@ -45,7 +47,9 @@ MEMORANDUM
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0002-02.png)
+
 
 ## **Junior Development Teams** 
 
@@ -82,7 +86,9 @@ _(Article introduced on 1.01.26)_
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0003-01.png)
+
 
 ## MEMORANDUM 
 
@@ -99,7 +105,9 @@ _(Article introduced on 1.01.26)_
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0004-01.png)
+
 
 ## MEMORANDUM 
 
@@ -115,7 +123,9 @@ _(Article introduced on 1.01.26)_
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0005-01.png)
+
 
 ## MEMORANDUM 
 
@@ -132,7 +142,9 @@ _(Article introduced on 1.01.26)_
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0006-01.png)
+
 
 ## MEMORANDUM 
 
@@ -158,7 +170,9 @@ MEMORANDUM
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0007-02.png)
+
 
 > (5) _Women of the second year of Junior may be included in these teams, provided they have authorisation from the National Federation that issued their license._ 
 
@@ -198,7 +212,9 @@ _(text modified on 1.01.15; 1.01.18; 1.01.19; 1.04.21; 17.04.21; 1.01.26)._
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0008-01.png)
+
 
 ## MEMORANDUM 
 
@@ -254,7 +270,9 @@ MEMORANDUM
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0009-02.png)
+
 
 ## **4. Identification** 
 
@@ -288,7 +306,9 @@ _(text modified on 1.01.05; 1.01.13; 4.05.16 ; 1.01.26)._
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0010-01.png)
+
 
 ## MEMORANDUM 
 
@@ -326,7 +346,9 @@ _(text modified on 1.01.05; 1.07.12; 1.01.19; 1.01.26)._
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0011-01.png)
+
 
 ## MEMORANDUM 
 
@@ -346,7 +368,9 @@ Certain infringements of the table of race incidents may be sanctioned by the Di
 
 _(text modified on 01.08.24; 1.01.26)_ 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0012-00.png)
+
 
 ## MEMORANDUM 
 
@@ -374,7 +398,9 @@ _(text modified on 01.08.24; 1.01.26)_
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0013-00.png)
+
 
 ## MEMORANDUM 
 
@@ -403,7 +429,9 @@ _(text modified on 01.08.24; 1.01.26)_
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0014-01.png)
+
 
 ## MEMORANDUM 
 
@@ -433,7 +461,9 @@ This document forms an integral part of the UCI Regulations and is applied in ac
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0015-01.png)
+
 
 ## MEMORANDUM 
 
@@ -476,7 +506,9 @@ As far as possible and subject to the legislation applicable in the country in w
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0016-01.png)
+
 
 ## MEMORANDUM 
 
@@ -512,7 +544,9 @@ Representatives shall act in the collective interest of the parties that they re
 
 03.10.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0017-01.png)
+
 
 ## MEMORANDUM 
 

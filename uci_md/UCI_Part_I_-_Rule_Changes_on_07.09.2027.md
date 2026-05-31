@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 06.10.2025 
 
-**==> picture [167 x 41] intentionally omitted <==**
+
+![](images/UCI_Part_I_-_Rule_Changes_on_07.09.2027.pdf-0001-01.png)
+
 
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 07.09.2027** 
 

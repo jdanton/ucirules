@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 1 March 2026 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/11-JO-20260301-E_Amendments_on_01.03.2026.pdf-0001-01.png)
+
 
 ## MEMORANDUM 
 

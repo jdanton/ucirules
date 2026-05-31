@@ -278,7 +278,9 @@ First violation: Refusal to start, elimination or disqualification + 200 CHF fin
 
 Second violation: One-year suspension + 1000 CHF fine Third violation: Lifetime suspension + 5000 CHF fine 
 
-**==> picture [383 x 267] intentionally omitted <==**
+
+![](images/46fxAWEzYgjpQMqMe056AP_17-CES-20260101-E.pdf-0008-11.png)
+
 
 Using any software or hardware device to control trainer resistance besides that provided by the platform. 
 
@@ -316,7 +318,9 @@ Using any mechanical or electronic device that provides an unfair advantage in-r
 
 First violation: One-year suspension + 1000 CHF fine Second violation: Lifetime suspension + 5000 CHF fine 
 
-**==> picture [383 x 225] intentionally omitted <==**
+
+![](images/46fxAWEzYgjpQMqMe056AP_17-CES-20260101-E.pdf-0009-12.png)
+
 
 CYCLING ESPORTS 
 

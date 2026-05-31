@@ -5,7 +5,9 @@ source_sha256: 85c14ce1220a7c1076e54b305ad384619a8239d5f4461e88000eddaf036b643a
 converter: pymupdf4llm
 ---
 
-**==> picture [394 x 438] intentionally omitted <==**
+
+![](images/2023_UCI_ETHICS_EN_04-08-23.pdf-0001-00.png)
+
 
 **----- Start of picture text -----**<br>
 CODE OF ETHICS<br>**----- End of picture text -----**<br>
@@ -13,7 +15,9 @@ CODE OF ETHICS<br>**----- End of picture text -----**<br>
 
 # VERSION ON 04.08.2023 
 
-**==> picture [69 x 31] intentionally omitted <==**
+
+![](images/2023_UCI_ETHICS_EN_04-08-23.pdf-0001-02.png)
+
 
 ## TABLE OF CONTENTS 
 

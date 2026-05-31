@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0001-01.png)
+
 
 ## **PART II - ROAD RACES** 
 
@@ -32,7 +34,9 @@ MEMORANDUM 01.07.2025
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0002-01.png)
+
 
 |**International**<br>**Calendar**|**Category**<br>**of event**|**Class**||**Participation**|
 |---|---|---|---|---|
@@ -47,7 +51,9 @@ MEMORANDUM 01.07.2025
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0003-00.png)
+
 
 ## MEMORANDUM 
 
@@ -81,7 +87,9 @@ In order to compete in a UCI WorldTour race, riders must have submitted accurate
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0004-01.png)
+
 
 for a minimum period of 6 weeks and have been subject to testing in accordance with the athlete biological passport programme as implemented by the UCI. 
 
@@ -120,7 +128,9 @@ UCI ProTeams that accept the obligatory invitation from the organiser (except wi
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0005-01.png)
+
 
 ## **Provisions for UCI WorldTour one-day races** 
 
@@ -158,7 +168,9 @@ _(text modified on 1.01.06; 1.01.07; 1.10.10; 1.02.11; 1.07.11; 1.07.12; 1.10.13
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0006-01.png)
+
 
 ## **Chapter X  UCI RANKINGS** 
 
@@ -199,7 +211,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0007-00.png)
+
 
 ## MEMORANDUM 
 
@@ -243,7 +257,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0008-00.png)
+
 
 ## MEMORANDUM 
 
@@ -282,7 +298,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0009-00.png)
+
 
 MEMORANDUM 01.07.2025 
 
@@ -338,7 +356,9 @@ MEMORANDUM 01.07.2025
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0010-00.png)
+
 
 ## MEMORANDUM 
 
@@ -405,7 +425,9 @@ MEMORANDUM 01.07.2025
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0011-01.png)
+
 
 |Position|Men Elite|Men Elite|Men Elite||Men Under 23|Men Under 23|
 |---|---|---|---|---|---|---|
@@ -461,7 +483,9 @@ When two or three nations are organising joint National Championships, results w
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0012-00.png)
+
 
 ## MEMORANDUM 
 
@@ -531,7 +555,9 @@ If a continental confederation organises a separate team time trial event for th
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0013-01.png)
+
 
 Points shall be split between finishing male riders based on final mixed relay classification. Calculations shall be rounded to a hundredth of a point. 
 
@@ -589,7 +615,9 @@ If a continental confederation organises a separate team time trial event for th
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0014-00.png)
+
 
 ## MEMORANDUM 
 
@@ -655,7 +683,9 @@ _(article introduced on 1.01.16; modified on 1.01.17; 25.10.17; 22.10.18; 1.01.1
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0015-01.png)
+
 
 ## **§ 2 Elite and Under 23 Women’s UCI World Ranking** 
 
@@ -685,7 +715,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0016-00.png)
+
 
 ## MEMORANDUM 
 
@@ -723,7 +755,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0017-00.png)
+
 
 ## MEMORANDUM 
 
@@ -760,7 +794,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0018-01.png)
+
 
 ## **Results in prologue and stages in UCI Women’s WorldTour events** 
 
@@ -799,7 +835,9 @@ MEMORANDUM 01.07.2025
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0019-01.png)
+
 
 ## ~~**Wearing the race leader's jersey (per stage)**~~ 
 
@@ -853,7 +891,9 @@ MEMORANDUM 01.07.2025
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0020-01.png)
+
 
 |Position|~~UCI Women~~’~~s WorldTour~~|UCI ProSeries|Class 1|Class 2|
 |---|---|---|---|---|
@@ -914,7 +954,9 @@ MEMORANDUM 01.07.2025
 
 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0021-01.png)
+
 
 ## MEMORANDUM 
 
@@ -973,7 +1015,9 @@ When two or three nations are organising joint National Championships, results w
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0022-00.png)
+
 
 ## MEMORANDUM 
 
@@ -1037,7 +1081,9 @@ Where Elite and Under 23 compete in their continental championships or continent
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0023-00.png)
+
 
 ## MEMORANDUM 
 
@@ -1103,7 +1149,9 @@ Where Elite and Under 23 compete in their continental championships or continent
 
 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0024-00.png)
+
 
 MEMORANDUM 01.07.2025 
 
@@ -1158,7 +1206,9 @@ _(text modified on 1.01.16; 20.10.25 )._
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0025-01.png)
+
 
 _(paragraph introduced on 1.01.07)._ 
 
@@ -1208,7 +1258,9 @@ The number of days of racing per country shall not exceed 15% of the total numbe
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0026-01.png)
+
 
 A country of whom the total number of racing days on the UCI ProSeries exceeds the aforementioned limit will not be allowed to register additional events on the UCI ProSeries calendar. 
 
@@ -1240,7 +1292,9 @@ UCI ProSeries events may not be placed on the calendar between the end of the se
 
 MEMORANDUM 01.07.2025 
 
-**==> picture [159 x 27] intentionally omitted <==**
+
+![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0027-01.png)
+
 
 Minimum number of UCI ProTeams at the start for the ~~-~~ 5 relevant year 
 

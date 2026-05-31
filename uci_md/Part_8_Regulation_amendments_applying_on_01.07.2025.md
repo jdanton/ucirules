@@ -7,7 +7,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 16 June 2025 
 
-**==> picture [166 x 41] intentionally omitted <==**
+
+![](images/Part_8_Regulation_amendments_applying_on_01.07.2025.pdf-0001-01.png)
+
 
 ## **Regulation amendments applying on 01.07.25** 
 
@@ -136,7 +138,9 @@ Page **3** / **4**
 
 ## **8.11.002** _World Championships_ mode 
 
-**==> picture [455 x 289] intentionally omitted <==**
+
+![](images/Part_8_Regulation_amendments_applying_on_01.07.2025.pdf-0004-01.png)
+
 
 If a match ends in a draw in the rounds from the quarterfinals to the semifinals, a penalty shoot-out will decide the match. 
 
