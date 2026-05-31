@@ -23,9 +23,28 @@ A single pass in [`sync.py`](sync.py):
    extracting any figures/diagrams to `uci_md/images/`. Markdown and images for
    removed PDFs are deleted, and the manifest is rewritten.
 
-The manifest is the single source of truth for change detection. Each Markdown
+The manifest is keyed by **source URL** — each document's stable identity — so
+files can be renamed freely without desyncing change detection. Each Markdown
 file also carries a small YAML front-matter block (`source_pdf`, `source_url`,
 `source_sha256`) for traceability.
+
+### File naming
+
+Markdown files are named after their **content**: a descriptive slug derived
+from the document's title, joined by `__` to the original source filename (kept
+for uniqueness and traceability):
+
+```
+11-JO-20260301-E.pdf  ->  part-11-olympic-games__11-JO-20260301-E.md
+```
+
+The numbered Regulation Parts (and their amendments) are detected from the
+document title — or the source code when the doc just opens with "MEMORANDUM" —
+and named from a stable table (`PART_TITLES` in [`sync.py`](sync.py)), so all
+of e.g. Part 2's documents share the `part-02-road-races__…` prefix and sort
+together. Other documents (policies, lists, protocols, qualification systems)
+take a slug from their title heading. When the slug would just repeat the
+source name, the prefix is dropped (e.g. `preliminary-provisions.md`).
 
 ### Images
 
@@ -72,7 +91,7 @@ schedule (cron / CI) to keep a continuous history.
 | `sync.py` | ✅ | Download → checksum-diff → convert, in one pass |
 | `uci_md/` | ✅ | Generated Markdown, one file per regulation |
 | `uci_md/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
-| `uci_md/.manifest.json` | ✅ | URL + SHA-256 per document (drives delta detection) |
+| `uci_md/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
 | `.venv/` | ❌ | Local virtualenv |
 | PDFs | ❌ | Pulled to a temp dir per run; never committed |
 
