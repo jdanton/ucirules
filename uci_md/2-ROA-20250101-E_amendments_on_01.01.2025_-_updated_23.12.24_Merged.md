@@ -1,6 +1,6 @@
 ---
 source_pdf: 2-ROA-20250101-E_amendments_on_01.01.2025_-_updated_23.12.24_Merged.pdf
-source_bytes: 902892
+source_url: https://assets.ctfassets.net/761l7gh5x5an/6hs6bVOeexYUOpKqu0bIWU/5b042c3af786b55e35570f6da76a13f3/2-ROA-20250101-E_amendments_on_01.01.2025_-_updated_23.12.24_Merged.pdf
 source_sha256: a783f66018fa0cbc21224af4696e7df42046354e0698744e6045508bb06a3e48
 converter: pymupdf4llm
 ---

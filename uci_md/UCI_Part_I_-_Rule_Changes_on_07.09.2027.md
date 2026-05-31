@@ -1,6 +1,6 @@
 ---
 source_pdf: UCI_Part_I_-_Rule_Changes_on_07.09.2027.pdf
-source_bytes: 155434
+source_url: https://assets.ctfassets.net/761l7gh5x5an/gFZt3yFlmnizK9qvP7NdV/f22a3f71e8f9578a581f45e391818176/UCI_Part_I_-_Rule_Changes_on_07.09.2027.pdf
 source_sha256: e1da49ca6ad32f7bcfd880fadff2dc8a114edd108afc506cb6641cde686ec6a3
 converter: pymupdf4llm
 ---

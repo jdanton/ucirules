@@ -1,6 +1,6 @@
 ---
 source_pdf: Memorandum-Modifications_of_the_Rules_concerning_Ban_of_monoxide_carbon_inhalations_outside_medical_facilities.pdf
-source_bytes: 207963
+source_url: https://assets.ctfassets.net/761l7gh5x5an/5swcIms2xF2x1xIHE4isix/282b7a59a84f2606b2e6402e30e9447a/Memorandum-Modifications_of_the_Rules_concerning_Ban_of_monoxide_carbon_inhalations_outside_medical_facilities.pdf
 source_sha256: e87d4c20a00679e5d4e1f2b356e1a09460552af461f7727f35b4828e69020e3d
 converter: pymupdf4llm
 ---

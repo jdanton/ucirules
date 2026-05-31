@@ -1,6 +1,6 @@
 ---
 source_pdf: BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf
-source_bytes: 273583
+source_url: https://assets.ctfassets.net/761l7gh5x5an/64e6MN4YxtqT8UcQFdekcg/417ec0c0598582815229ec4336b38377/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf
 source_sha256: fe585eaadb38f11d2a9b4d6b5cd87d98169a0968cac1eaca94f2ddf3cbcf3610
 converter: pymupdf4llm
 ---

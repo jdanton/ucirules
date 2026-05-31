@@ -1,6 +1,6 @@
 ---
 source_pdf: 1-E_Amendments_on_01.01.2026.pdf
-source_bytes: 249907
+source_url: https://assets.ctfassets.net/761l7gh5x5an/5Xb7NjQq4EnBY3TsmuMDSF/de069b1786973522fcf9f14dbe9453fb/1-E_Amendments_on_01.01.2026.pdf
 source_sha256: efc994350db6b761f618aba9e564a43e352f631a8c25b0da929c060e18be2009
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf
-source_bytes: 234608
+source_url: https://assets.ctfassets.net/761l7gh5x5an/7EF2IRerppYiZ26ghcnu20/867c0c144f2705b441e48c7093603f13/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf
 source_sha256: 727782f9a4430403af07cc8fc13ea0fbc1ad8ddb22d478cbc05b3c0915efcdf3
 converter: pymupdf4llm
 ---

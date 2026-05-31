@@ -1,6 +1,6 @@
 ---
 source_pdf: 16-PAR-Regulations_amendments_2026.pdf
-source_bytes: 501025
+source_url: https://assets.ctfassets.net/761l7gh5x5an/1vh6Ipk6ALkIhmYRfboZTd/177085414a42a371f72aa6784bd4f197/16-PAR-Regulations_amendments_2026.pdf
 source_sha256: c83a2a2014c349d9bc807ce6ae511d5e680c13044a8a3c939d7d3cb083ac2a04
 converter: pymupdf4llm
 ---

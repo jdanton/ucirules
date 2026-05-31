@@ -1,6 +1,6 @@
 ---
 source_pdf: FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf
-source_bytes: 152845
+source_url: https://assets.ctfassets.net/761l7gh5x5an/2J7pd7f9f5jkhVNP7hyTfH/7839730f973d4e136f352e55e2fa8409/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf
 source_sha256: a7e1bc7f14738413d8712063c6d473e88292b1f1ca1f787e773e4cc244627641
 converter: pymupdf4llm
 ---

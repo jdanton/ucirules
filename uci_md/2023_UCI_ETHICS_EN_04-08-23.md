@@ -1,6 +1,6 @@
 ---
 source_pdf: 2023_UCI_ETHICS_EN_04-08-23.pdf
-source_bytes: 1756699
+source_url: https://assets.ctfassets.net/761l7gh5x5an/5ZszbcdPPoMq5cC82OxkTl/1bd65dd4b4e10902357c7bd727c9d77b/2023_UCI_ETHICS_EN_04-08-23.pdf
 source_sha256: 85c14ce1220a7c1076e54b305ad384619a8239d5f4461e88000eddaf036b643a
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: UCIProSeries_13052026.pdf
-source_bytes: 516406
+source_url: https://assets.ctfassets.net/761l7gh5x5an/4x2vC8gH7hE38xE4A20PVp/56b8c7f13550dfb37ef842f9041d6aa7/UCIProSeries_13052026.pdf
 source_sha256: b37b833557ae5593d490f11c3a61f94c0023363f151ee18d20b0980dedd5c03d
 converter: pymupdf4llm
 ---

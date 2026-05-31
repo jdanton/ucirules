@@ -1,6 +1,6 @@
 ---
 source_pdf: Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf
-source_bytes: 184593
+source_url: https://assets.ctfassets.net/761l7gh5x5an/1CSoHjBlqW2pTewl6rXxlh/df1703d6fa47a8b819291830f81bd9c2/Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf
 source_sha256: 07047d6b1e83389ba4973e3c8749ec5ac8ad775a63a158b6f6778b6389294b71
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: _In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf
-source_bytes: 232681
+source_url: https://assets.ctfassets.net/761l7gh5x5an/50QlrMa7ZcAumOJJDB1wdu/1c319a91b96ae1c79c631ff3b9dc7923/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf
 source_sha256: d8fd6dd38d8ee1bbdb84a0f484ed86fe12f58bda8b43a5a981de94c9a98873c8
 converter: pymupdf4llm
 ---

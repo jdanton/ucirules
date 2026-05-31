@@ -1,6 +1,6 @@
 ---
 source_pdf: 2-ROA-20251101-E-amendments_on_1.11.25.pdf
-source_bytes: 561410
+source_url: https://assets.ctfassets.net/761l7gh5x5an/5mVMnjLcvZ4wzgMJHt9lMz/e5de0c5f9a78fb94a8e124ce24fc6403/2-ROA-20251101-E-amendments_on_1.11.25.pdf
 source_sha256: 567434e3c751166f7bf4f1ef0377669f50411740f70f7ff9cae23523dd1249d9
 converter: pymupdf4llm
 ---

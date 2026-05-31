@@ -1,6 +1,6 @@
 ---
 source_pdf: 11-JO-20260301-E_Amendments_on_01.03.2026.pdf
-source_bytes: 291807
+source_url: https://assets.ctfassets.net/761l7gh5x5an/62yOW9g0rfiOt7LjHolXEU/16d97be52cb0c7851d097246b2190735/11-JO-20260301-E_Amendments_on_01.03.2026.pdf
 source_sha256: 1e5d29abf37646059a2f0fbb77b808678ffc17509159b3c1072408444f4812d5
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf
-source_bytes: 5879552
+source_url: https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/dd32f0ee4c9297e93eb7b0c1bea296fd/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf
 source_sha256: eb04425e201b023e86c5ad1219b601b5595f92f85c48b52e3c0dbf6c0a5c46a9
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: 2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.pdf
-source_bytes: 219125
+source_url: https://assets.ctfassets.net/761l7gh5x5an/4ssPO45UeJq3Vpla15aTfm/72cd79c19a5260f0fcf4aaafb507b0f3/2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.pdf
 source_sha256: 88bef3930b0aff994ad07c48f30f369d01bbb7c9ec4f3496eae27ed75845537e
 converter: pymupdf4llm
 ---

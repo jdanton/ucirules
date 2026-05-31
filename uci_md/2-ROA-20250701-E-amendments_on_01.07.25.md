@@ -1,6 +1,6 @@
 ---
 source_pdf: 2-ROA-20250701-E-amendments_on_01.07.25.pdf
-source_bytes: 197157
+source_url: https://assets.ctfassets.net/761l7gh5x5an/7BIcNmTrbFCG018F0G3lhA/e830462fac9664216f1a53d5905eec84/2-ROA-20250701-E-amendments_on_01.07.25.pdf
 source_sha256: 7fa277326c29a0dca546c557d6f1140a62dbf46205815834718e7057ec0de91d
 converter: pymupdf4llm
 ---

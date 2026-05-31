@@ -1,6 +1,6 @@
 ---
 source_pdf: Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf
-source_bytes: 206555
+source_url: https://assets.ctfassets.net/761l7gh5x5an/2L3eiPYTygsHZvO4dafs8d/428124048854e3fcab3df2aabc0a1475/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf
 source_sha256: 337b1aee5b2fb2d8326e7f33e12e946a1d9cfcfafd712e38623720bbbdf792f7
 converter: pymupdf4llm
 ---

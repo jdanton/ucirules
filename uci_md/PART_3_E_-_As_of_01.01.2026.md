@@ -1,6 +1,6 @@
 ---
 source_pdf: PART_3_E_-_As_of_01.01.2026.pdf
-source_bytes: 2465800
+source_url: https://assets.ctfassets.net/761l7gh5x5an/7IE4WjTvQLqeRF5aniDP34/ffccabbbc5b69d25994a5f656ecb2225/PART_3_E_-_As_of_01.01.2026.pdf
 source_sha256: e7352ecb88dae2d27bf0a01977c09ecfb36d599beb065cff7f6f92b408c15cb6
 converter: pymupdf4llm
 ---

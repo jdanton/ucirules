@@ -1,6 +1,6 @@
 ---
 source_pdf: PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_1.11.2025.pdf
-source_bytes: 169110
+source_url: https://assets.ctfassets.net/761l7gh5x5an/74UKd7z0ehMkAjmAXzqOIQ/94fb372a7c1ea0d36bbdbb2a526de8c4/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_1.11.2025.pdf
 source_sha256: aed0da8892df8c27c3f333cc20aa88cebd14e1327ae84d3c0c020e824dc7640f
 converter: pymupdf4llm
 ---

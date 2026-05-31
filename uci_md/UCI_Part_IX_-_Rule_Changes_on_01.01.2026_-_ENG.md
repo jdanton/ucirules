@@ -1,6 +1,6 @@
 ---
 source_pdf: UCI_Part_IX_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
-source_bytes: 240869
+source_url: https://assets.ctfassets.net/761l7gh5x5an/6drZqZV72vboZMMK80YH5j/bdc46bdcb483ffa03f85f54d4d22cf13/UCI_Part_IX_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
 source_sha256: 72ccb106bf15c9a62520036306408b810beb534153e38100803d4c57855c8cd9
 converter: pymupdf4llm
 ---

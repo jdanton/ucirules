@@ -1,6 +1,6 @@
 ---
 source_pdf: 2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf
-source_bytes: 1146843
+source_url: https://assets.ctfassets.net/761l7gh5x5an/42H9bdLhZapXY8bU7Y66xJ/c5cab52fd752fdae150d97eb9b8faf1c/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf
 source_sha256: d517b5e19bc546785b16058d545d811f490b44fa2f870b85a40ff2279578411b
 converter: pymupdf4llm
 ---

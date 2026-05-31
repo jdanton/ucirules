@@ -1,6 +1,6 @@
 ---
 source_pdf: Part_8_Regulation_amendments_applying_on_01.07.2025.pdf
-source_bytes: 276450
+source_url: https://assets.ctfassets.net/761l7gh5x5an/4SZyGyu6jke9EAVgMgAbbh/817b7cfb4e1772a70c567f4103df47d2/Part_8_Regulation_amendments_applying_on_01.07.2025.pdf
 source_sha256: 25e1732993ed3e0d1196661e04b8bf1bbc97c6babf515157de734b0cc13763fd
 converter: pymupdf4llm
 ---

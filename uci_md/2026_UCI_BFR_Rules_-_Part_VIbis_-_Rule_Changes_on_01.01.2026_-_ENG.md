@@ -1,6 +1,6 @@
 ---
 source_pdf: 2026_UCI_BFR_Rules_-_Part_VIbis_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
-source_bytes: 410867
+source_url: https://assets.ctfassets.net/761l7gh5x5an/74mXMQQSD1VJOU3Hm0RMgh/e4a5145364f688985655c60529d86de9/2026_UCI_BFR_Rules_-_Part_VIbis_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
 source_sha256: 39e4452c890afb9adbc60e51cfa1989d6386b984a0e753afcd05813bc5654f03
 converter: pymupdf4llm
 ---

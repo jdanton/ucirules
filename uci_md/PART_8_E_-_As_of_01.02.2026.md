@@ -1,6 +1,6 @@
 ---
 source_pdf: PART_8_E_-_As_of_01.02.2026.pdf
-source_bytes: 4737250
+source_url: https://assets.ctfassets.net/761l7gh5x5an/5sjOY2mlHAD9cuaRr1KrKd/c0aee1234992a5eca3846e477ae9256c/PART_8_E_-_As_of_01.02.2026.pdf
 source_sha256: 9fd5dee880bdfa07b03de63080ce3ffcabeaf84d25137ff7e25fc27ecf997e0e
 converter: pymupdf4llm
 ---

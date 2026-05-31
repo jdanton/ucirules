@@ -1,6 +1,6 @@
 ---
 source_pdf: Article2.2.001_Participation_Equipes_2026_20032026.pdf
-source_bytes: 1411226
+source_url: https://assets.ctfassets.net/761l7gh5x5an/3EjeIEEJpI38fDQOoc54AI/a0a1b2a14930864325e7c0ec17a9b72d/Article2.2.001_Participation_Equipes_2026_20032026.pdf
 source_sha256: d47224a528bd1d04e22c21b334effc75352a4ab7ff629e5e2f6befa256f1d942
 converter: pymupdf4llm
 ---

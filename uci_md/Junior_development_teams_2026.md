@@ -1,6 +1,6 @@
 ---
 source_pdf: Junior_development_teams_2026.pdf
-source_bytes: 673484
+source_url: https://assets.ctfassets.net/761l7gh5x5an/xN5hIsFGXYZwPm4yxtvxp/6d9ff7fd29712ad80e3a5e1824e4c080/Junior_development_teams_2026.pdf
 source_sha256: 970417b0815411e40a0a4a09a2489a2833dfe14186694ce5e60ef1161b88f7eb
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: 2-ROA-20261019-E-amendments_on_19.10.26.pdf
-source_bytes: 199551
+source_url: https://assets.ctfassets.net/761l7gh5x5an/1O8vZKfSFHCD5F17rTS9Lv/c288d685785715d23d1c224c1acddbe8/2-ROA-20261019-E-amendments_on_19.10.26.pdf
 source_sha256: 446c5e9cb2bc4987151052e9bbee2fd3ca4d861cbaa6b5376efc304581c652ee
 converter: pymupdf4llm
 ---

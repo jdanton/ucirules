@@ -1,6 +1,6 @@
 ---
 source_pdf: Joint_Agreements_20240101-E_.pdf
-source_bytes: 435037
+source_url: https://assets.ctfassets.net/761l7gh5x5an/nXiyjxTjj73r1gdoLytfQ/4437428f35e638b2348092db2fddfdea/Joint_Agreements_20240101-E_.pdf
 source_sha256: 6108baea752e503faf230e3d204e7cdbae4adf8b42fae081c8c186446ec9a52d
 converter: pymupdf4llm
 ---

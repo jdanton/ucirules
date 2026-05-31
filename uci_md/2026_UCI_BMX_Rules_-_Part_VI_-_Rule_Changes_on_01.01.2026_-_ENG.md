@@ -1,6 +1,6 @@
 ---
 source_pdf: 2026_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
-source_bytes: 430092
+source_url: https://assets.ctfassets.net/761l7gh5x5an/6sAirIbDCnWdiIXzjsnl96/fe6bfeb4eb009463365cf1c943b3f1e8/2026_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
 source_sha256: 47fb2f4d6bfed5367f09ae0d7ab195127d776f07c2d2bb3773a857049cb60540
 converter: pymupdf4llm
 ---

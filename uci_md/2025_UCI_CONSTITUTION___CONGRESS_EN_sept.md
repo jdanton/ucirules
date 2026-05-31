@@ -1,6 +1,6 @@
 ---
 source_pdf: 2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf
-source_bytes: 2074141
+source_url: https://assets.ctfassets.net/761l7gh5x5an/2uOSbE8gAbYJWGZF6Zdb0c/ba7c3629f110e9c45114ffbc057d6239/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf
 source_sha256: a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1
 converter: pymupdf4llm
 ---

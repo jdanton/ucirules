@@ -1,6 +1,6 @@
 ---
 source_pdf: PART_V_CYCLO-CROSS_-_RULES_AMENDMENTS_IN_FORCE_ON_01.07.2025.pdf
-source_bytes: 262244
+source_url: https://assets.ctfassets.net/761l7gh5x5an/6avGPQldkeSNm4VJVxBkYL/96c85ea667e7a2bbe7674ea1bb1a88a2/PART_V_CYCLO-CROSS_-_RULES_AMENDMENTS_IN_FORCE_ON_01.07.2025.pdf
 source_sha256: 413e14abbbd9eef4b6f46d6b133165601aa650aa1aad79871b54816cbdac7154
 converter: pymupdf4llm
 ---

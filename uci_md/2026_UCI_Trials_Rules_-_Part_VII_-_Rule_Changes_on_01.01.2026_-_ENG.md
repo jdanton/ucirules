@@ -1,6 +1,6 @@
 ---
 source_pdf: 2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
-source_bytes: 286996
+source_url: https://assets.ctfassets.net/761l7gh5x5an/42nORb31V3AuUM8Vtnjomk/691a80911977dbfaf8533253af791a27/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
 source_sha256: 74d7b66ffa2f9008cb586b47a52431e2cc2da7fecd2b178ab7af9f43335c83ff
 converter: pymupdf4llm
 ---

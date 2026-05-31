@@ -1,6 +1,6 @@
 ---
 source_pdf: UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
-source_bytes: 1260934
+source_url: https://assets.ctfassets.net/761l7gh5x5an/1KTLUdyYs5GpBYK6N17Arr/078292f84497b75614e7673d21dc5710/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf
 source_sha256: 651bbff9f9ad6ccef0d7fe6335e477361491f751ee6573edb9d9bba974135267
 converter: pymupdf4llm
 ---

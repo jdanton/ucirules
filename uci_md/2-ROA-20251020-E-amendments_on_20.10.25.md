@@ -1,6 +1,6 @@
 ---
 source_pdf: 2-ROA-20251020-E-amendments_on_20.10.25.pdf
-source_bytes: 957797
+source_url: https://assets.ctfassets.net/761l7gh5x5an/NAeT9EN3grfH1b8uTXoYv/937423b10b08168cecdd562162fc7372/2-ROA-20251020-E-amendments_on_20.10.25.pdf
 source_sha256: 7e9caf4a6b22e654f0b9499e091ad353a27dfb39ff6d682b5758894d683c02eb
 converter: pymupdf4llm
 ---

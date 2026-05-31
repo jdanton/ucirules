@@ -1,6 +1,6 @@
 ---
 source_pdf: Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf
-source_bytes: 279374
+source_url: https://assets.ctfassets.net/761l7gh5x5an/3Jr7WV5r0jjoXIOaLq0fCg/2f076a7932b1e4a0c760e3aee7aa8362/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf
 source_sha256: 3c94cde5af60a83c833c00e7cebcff298c2c623981d6a5cf5c6b987b01299554
 converter: pymupdf4llm
 ---

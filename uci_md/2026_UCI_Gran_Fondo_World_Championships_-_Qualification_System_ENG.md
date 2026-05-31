@@ -1,6 +1,6 @@
 ---
 source_pdf: 2026_UCI_Gran_Fondo_World_Championships_-_Qualification_System_ENG.pdf
-source_bytes: 228850
+source_url: https://assets.ctfassets.net/761l7gh5x5an/1FTq2wssjEzoMO93vJyF9D/816fb110b49af0b623ce069033531813/2026_UCI_Gran_Fondo_World_Championships_-_Qualification_System_ENG.pdf
 source_sha256: dc0f6794fef7aa33ec126149ae6267955cbb97998015f626188337feac27c43d
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: 2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG.pdf
-source_bytes: 456829
+source_url: https://assets.ctfassets.net/761l7gh5x5an/v3xLMwpHRPreGOS5B7uhk/fd285b78cb011c28e7ad898f43613256/2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG.pdf
 source_sha256: ac8feb86739c33fd894e19554958c73fd759d0bb84519ce2c335607aaaadd2c6
 converter: pymupdf4llm
 ---

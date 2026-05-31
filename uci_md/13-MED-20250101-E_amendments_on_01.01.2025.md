@@ -1,6 +1,6 @@
 ---
 source_pdf: 13-MED-20250101-E_amendments_on_01.01.2025.pdf
-source_bytes: 185506
+source_url: https://assets.ctfassets.net/761l7gh5x5an/52SfqiDfaPCXxVjBF2B58i/30b57630a1c5bd7ab668cfe513196ed9/13-MED-20250101-E_amendments_on_01.01.2025.pdf
 source_sha256: c2c5d7d400f109d48826d978aa3a5d3902e27265688152658bc1c03d73f7179a
 converter: pymupdf4llm
 ---

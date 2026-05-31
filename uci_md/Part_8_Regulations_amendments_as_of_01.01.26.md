@@ -1,6 +1,6 @@
 ---
 source_pdf: Part_8_Regulations_amendments_as_of_01.01.26.pdf
-source_bytes: 2718155
+source_url: https://assets.ctfassets.net/761l7gh5x5an/5CL163VQfJcM1ij7DX6c9R/63e199c6dce51e4ca03e72a33b97edff/Part_8_Regulations_amendments_as_of_01.01.26.pdf
 source_sha256: de101c53b901cb03ab5b05ae1505880c91a34b8552cfab205db4cf79b61bb66c
 converter: pymupdf4llm
 ---

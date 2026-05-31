@@ -1,6 +1,6 @@
 ---
 source_pdf: 2-ROA-20260206-E-amendments_on_06.02.26.pdf
-source_bytes: 268513
+source_url: https://assets.ctfassets.net/761l7gh5x5an/2qsIuXfqIF2NaTMMS4Gioc/bfd08f444c404aeb24737471a5fea7a0/2-ROA-20260206-E-amendments_on_06.02.26.pdf
 source_sha256: 86518a478d4ef6be3781aae0c6cc4df64f55f6de1d90a9bffd58551defcde6a9
 converter: pymupdf4llm
 ---

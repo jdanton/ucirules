@@ -1,6 +1,6 @@
 ---
 source_pdf: dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf
-source_bytes: 258200
+source_url: https://assets.ctfassets.net/761l7gh5x5an/6kmsw3GgD4yhv8r4im6d8W/f8c04a1b38d9349f0953d9277ae7e6d9/dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf
 source_sha256: 1b2692001b540ea043a38c078f819e3a37ea6c1158c53002453971c435049b7a
 converter: pymupdf4llm
 ---

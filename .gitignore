@@ -1,0 +1,12 @@
+# Python virtualenv
+.venv/
+__pycache__/
+*.pyc
+
+# We don't track the source PDFs — sync.py pulls them to a temp dir on each run.
+# The Markdown in uci_md/ (with its .manifest.json) is the source of truth.
+*.pdf
+uci_pdfs/
+
+# Scratch
+page.html

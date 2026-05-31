@@ -1,6 +1,6 @@
 ---
 source_pdf: Factors_2024.pdf
-source_bytes: 162615
+source_url: https://assets.ctfassets.net/761l7gh5x5an/27PPvp5fg1HTKTBAnvJg91/d22163750b9a7ae62b5afee7840e4f2b/Factors_2024.pdf
 source_sha256: 007aa557f1d611f9a0dd48b11667dd65c1f975e2990ca4e94ec25abc000c37d4
 converter: pymupdf4llm
 ---

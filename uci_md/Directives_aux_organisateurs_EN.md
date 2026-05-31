@@ -1,6 +1,6 @@
 ---
 source_pdf: Directives_aux_organisateurs_EN.pdf
-source_bytes: 110610
+source_url: https://assets.ctfassets.net/761l7gh5x5an/4BxcBW3Ez2KLl3NzIAaPH2/2f926a21a6d7deee00f21e74a5327f36/Directives_aux_organisateurs_EN.pdf
 source_sha256: ba1688aa1937a517ea0a2399f5b632f0355d081b1aaf7155bb225c07850d2144
 converter: pymupdf4llm
 ---

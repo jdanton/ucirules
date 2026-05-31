@@ -1,6 +1,6 @@
 ---
 source_pdf: preliminary-provisions.pdf
-source_bytes: 165756
+source_url: https://assets.ctfassets.net/761l7gh5x5an/4duDBFRJyx2nFmkbTgaucB/37540852baf261ba47bbd76509a0515e/preliminary-provisions.pdf
 source_sha256: 1518c0381ad3e8a6bd02d5c35c97c61682f8efc646ad90db6452f8f950be34de
 converter: pymupdf4llm
 ---

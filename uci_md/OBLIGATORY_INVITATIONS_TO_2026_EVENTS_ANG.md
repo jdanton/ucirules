@@ -1,6 +1,6 @@
 ---
 source_pdf: OBLIGATORY_INVITATIONS_TO_2026_EVENTS_ANG.pdf
-source_bytes: 262623
+source_url: https://assets.ctfassets.net/761l7gh5x5an/1OdDb4wFtapxklyz0ct6F5/e6461e82ab7e3e92dd88a9c64c6a2029/OBLIGATORY_INVITATIONS_TO_2026_EVENTS_ANG.pdf
 source_sha256: 2a85a61e69d28481cfa8689285f90e51fa7de6cbbdd90975334baf726acbc40e
 converter: pymupdf4llm
 ---

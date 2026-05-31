@@ -1,6 +1,6 @@
 ---
 source_pdf: policy-uci---national-federations-20190211-e.pdf
-source_bytes: 182327
+source_url: https://assets.ctfassets.net/761l7gh5x5an/5L9K3ja9pUw8pXUobi4oKg/3ce4da52b8e48ffa94cc0631738da623/policy-uci---national-federations-20190211-e.pdf
 source_sha256: f1961b6fcd370b43ce7e03fd3ab785b955cbf7f2da020df64557cf653285ac5d
 converter: pymupdf4llm
 ---

@@ -1,6 +1,6 @@
 ---
 source_pdf: ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.pdf
-source_bytes: 126515
+source_url: https://assets.ctfassets.net/761l7gh5x5an/2t2aAatMkSy7UpqYhw7TzA/577529ed5a2c7273a66cc1bcef7be747/ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.pdf
 source_sha256: 11c9ec31b01320b39b0fe3047bd8def74643c47d0e6b44d63e91b6238946e911
 converter: pymupdf4llm
 ---

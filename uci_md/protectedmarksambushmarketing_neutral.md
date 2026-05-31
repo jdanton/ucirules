@@ -1,6 +1,6 @@
 ---
 source_pdf: protectedmarksambushmarketing_neutral.pdf
-source_bytes: 172239
+source_url: https://assets.ctfassets.net/761l7gh5x5an/LIBc2inTfcSydoQFznedL/eb97d1a6a5425ec273c28f54d16ee566/protectedmarksambushmarketing_neutral.pdf
 source_sha256: ac38885e05df0a84337c78cb47a6280996361d937e88b9dda24c1576a17a3474
 converter: pymupdf4llm
 ---

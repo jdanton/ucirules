@@ -1,6 +1,6 @@
 ---
 source_pdf: 13-SEC-2023-02-15-ENG_-_version_to_be_published_10_february_2026.pdf
-source_bytes: 825528
+source_url: https://assets.ctfassets.net/761l7gh5x5an/1E5md2JnFdQViirOf8fsi6/7905de92a0d113be193ed5963671d0a0/13-SEC-2023-02-15-ENG_-_version_to_be_published_10_february_2026.pdf
 source_sha256: e8a711b7f815adec4ae8ffb0daa5a839539bde0f86a25fecad4ae6b531fde9d3
 converter: pymupdf4llm
 ---
