@@ -20,7 +20,7 @@ never need to be kept on disk. Commit uci_md/ to git and the delta report
 tells you exactly what each sync changed.
 
 Usage:
-    ./sync.py [--out uci_md] [--force] [--dry-run]
+    ./sync.py [--out uci_md] [--force] [--dry-run] [--docs] [--ghdeploy]
 """
 from __future__ import annotations
 
@@ -35,6 +35,8 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+import subprocess
+import properdocs
 import pymupdf4llm
 
 PAGE_URL = "https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat"
@@ -278,9 +280,11 @@ def clear_images(images_dir: Path, stem: str) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--out", default="uci_md", help="Markdown output dir (default: uci_md)")
+    ap.add_argument("--out", default="./docs/docs", help="Markdown output dir (default: /ucirules/docs)")
     ap.add_argument("--force", action="store_true", help="re-convert all, ignoring the manifest")
     ap.add_argument("--dry-run", action="store_true", help="report the delta but write nothing")
+    ap.add_argument("--docs", action="store_true", help="Generate documentation pages")
+    ap.add_argument("--ghdeploy", action="store_true", help="Automagically generate documentation pages and deploy to /gh-pages/ branch")
     args = ap.parse_args()
 
     out = Path(args.out)
@@ -350,11 +354,18 @@ def main() -> int:
             clear_images(images_dir, old[u]["stem"])
             del manifest[u]
             print(f"  deleted {old[u]['name']}")
+        
+    if args.docs:
+        subprocess.run(["properdocs", "build"], cwd="docs")
+        print(f"\nDocs generated")
+
+    if args.ghdeploy:
+        subprocess.run(["properdocs", "gh-deploy"], cwd="docs")
+        print(f"\nDeployed to /gh-pages/ branch")
 
     manifest_path.write_text(json.dumps(dict(sorted(manifest.items())), indent=2) + "\n")
     print(f"\nManifest updated: {manifest_path}")
     return 0
-
 
 if __name__ == "__main__":
     raise SystemExit(main())
