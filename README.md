@@ -6,7 +6,8 @@ as searchable, diffable Markdown.
 The PDFs are published on UCI's CDN and change over time. [`sync.py`](sync.py)
 pulls the current set, detects what changed since the last run, and regenerates
 only the affected Markdown — so `git diff` after a sync shows exactly which
-regulations were amended.
+regulations were amended. It can also publish the Markdown as a browsable
+[ProperDocs](https://properdocs.org/) site (see [Usage](#usage)).
 
 ## How it works
 
@@ -22,8 +23,13 @@ A single pass in [`sync.py`](sync.py):
 4. **Convert** only the added and changed PDFs to Markdown (via `pymupdf4llm`),
    extracting any figures/diagrams to `docs/docs/images/`. Markdown and images for
    removed PDFs are deleted, and the manifest is rewritten.
-5. **Build site** (optional) By passing the `--docs` argument you can generate files for a documentation-style static site using [ProperDocs](https://github.com/ProperDocs/properdocs). These can then be deployed to github pages, or elsewhere, if you wish.
-6. **Deploy to github pages** (optional) By passing the `--ghdeploy` argument you can deploy directly to a `/gh-pages/` branch. This will be available at `[yourusername].github.io/ucirules`
+5. **Build site** (optional) — with `--docs`, render the Markdown into a
+   documentation-style static site using [ProperDocs](https://properdocs.org/)
+   (a MkDocs-style generator). The site uses the Read the Docs theme, configured
+   in [`docs/properdocs.yml`](docs/properdocs.yml); the build output lands in
+   `docs/site/` and can be deployed to GitHub Pages, or anywhere else.
+6. **Deploy to GitHub Pages** (optional) — with `--ghdeploy`, build and push the
+   site to the `gh-pages` branch, served at `https://<username>.github.io/ucirules`.
 
 The manifest is keyed by **source URL** — each document's stable identity — so
 files can be renamed freely without desyncing change detection. Each Markdown
@@ -86,9 +92,9 @@ Options: `--out DIR` (default `./docs/docs`), `--dry-run`, `--force`, `--docs`, 
 
 `--docs` / `--ghdeploy` first run the sync, then build (and deploy) the site —
 add `--no-sync` to build straight from the committed Markdown with no network
-access. The build step needs `properdocs` and a theme installed (see
-[`requirements.txt`](requirements.txt)); the built site lands in `docs/site/`
-(gitignored).
+access. The build step needs `properdocs` and its Read the Docs theme installed
+(both in [`requirements.txt`](requirements.txt)); the built site lands in
+`docs/site/` (gitignored).
 
 ## Change-control workflow
 
@@ -105,10 +111,12 @@ schedule (cron / CI) to keep a continuous history.
 
 | Path | Tracked | Description |
 |------|:------:|-------------|
-| `sync.py` | ✅ | Download → checksum-diff → convert, in one pass |
+| `sync.py` | ✅ | Download → checksum-diff → convert; optionally build/deploy the site |
 | `docs/docs/` | ✅ | Generated Markdown, one file per regulation |
 | `docs/docs/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
 | `docs/docs/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
+| `docs/properdocs.yml` | ✅ | ProperDocs site config (Read the Docs theme) |
+| `docs/site/` | ❌ | Built static site (output of `--docs`); rebuild any time |
 | `.venv/` | ❌ | Local virtualenv |
 | PDFs | ❌ | Pulled to a temp dir per run; never committed |
 
