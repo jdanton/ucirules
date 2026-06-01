@@ -5,1872 +5,1347 @@ source_sha256: 335abaa09acee9f48973e480eec11dba1d480eb8d6afca431964af27137ee8f2
 converter: pymupdf4llm
 ---
 
-**UCI CYCLING REGULATIONS**
+**UCI CYCLING REGULATIONS** 
 
-# **PART 12 DISCIPLINE AND PROCEDURES**
+## **PART 12 DISCIPLINE AND PROCEDURES** 
 
-Version on 1 November 2025
+Version on 1 November 2025 
 
-**TABLE OF CONTENTS**
+## **TABLE OF CONTENTS** 
 
+|**Chapter**|**I**<br>**PRELIMINARY PROVISIONS**|**2**|
+|---|---|---|
+|**Chapter**|**II**<br>**GENERAL SECTION**|**4**|
+|**Chapter**|**III**<br>**DISCIPLINARY MEASURES**|**7**|
+|§ 1|Warning|7|
+|§ 2|Reprimand|7|
+|§ 3|Disqualification|7|
+|§ 4|Fine|8|
+|§ 5|Return of prizes|9|
+|§ 6|Suspension|9|
+|§ 7|Prohibition of exercising any activity related to cycling|10|
+|§ 8|Educational measures|10|
+|§ 9|Other disciplinary measures|10|
+|§ 10|Provisional measures|10|
+|**Chapter**|**IV**<br>**INFRINGEMENTS**|**12**|
+|§ 1|Infringements related to race incidents|12|
+|§ 2|Specific infringements|12|
+|§ 3|Infringements specific to each discipline|14|
+|§ 4|Infringements specific to organisers|14|
+|§ 5|Other infringements|15|
+|**Chapter**|**V**<br>**ORGANISATION**|**16**|
+|§ 1|Commissaires’ Panel|16|
+|§ 2|Disciplinary Commission|16|
+|§ 3|National Federations|18|
+|§ 4|Court of Arbitration for Sport (CAS)|19|
+|**Chapter**|**VI**<br>**PROCEDURE – DISCIPLINARY COMMISSION**|**20**|
+|§ 1|Preliminary provision|20|
+|§ 2|Assignment of cases|20|
+|§ 3|Impartiality and challenge|20|
+|§ 4|Procedure|21|
+|§ 5|Evidence|22|
+|§ 6|Notification, time limits and entry of decisions into effect|22|
+|§ 7|Procedural costs|23|
+|§ 8|Acceptance of Consequences|23|
+|§ 9|Official languages|23|
+|§ 10|Road Sub-Committee|24|
+|**Chapter**|**VII**<br>**PROCEDURE - ARBITRAL BOARD**|**25**|
+|§ 1|General information|25|
+|§ 2|UCI Arbitral Board|25|
 
-**Chapter I** **PRELIMINARY PROVISIONS** **2**
 
 
-**Chapter II** **GENERAL SECTION** **4**
+E1125 
 
+1 
 
-**Chapter III** **DISCIPLINARY MEASURES** **7**
-§ 1 Warning 7
-§ 2 Reprimand 7
-§ 3 Disqualification 7
-§ 4 Fine 8
-§ 5 Return of prizes 9
-§ 6 Suspension 9
-§ 7 Prohibition of exercising any activity related to cycling 10
-§ 8 Educational measures 10
-§ 9 Other disciplinary measures 10
-§ 10 Provisional measures 10
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-**Chapter IV** **INFRINGEMENTS** **12**
-§ 1 Infringements related to race incidents 12
-§ 2 Specific infringements 12
-§ 3 Infringements specific to each discipline 14
-§ 4 Infringements specific to organisers 14
-§ 5 Other infringements 15
+## **PART 12 DISCIPLINE AND PROCEDURES** 
 
+- **12.1.000** Unless otherwise provided for in the UCI Regulations, this Part governs: 
 
-**Chapter V** **ORGANISATION** **16**
-§ 1 Commissaires’ Panel 16
-§ 2 Disciplinary Commission 16
-§ 3 National Federations 18
-§ 4 Court of Arbitration for Sport (CAS) 19
+   - infringements of the UCI Constitution and Regulations and related sanctions as well as disciplinary procedures (Chapters I to VI); 
 
+   - competence and procedures in the case of disputes submitted to the UCI Arbitral Board (Chapter VII). 
 
-**Chapter VI** **PROCEDURE – DISCIPLINARY COMMISSION** **20**
-§ 1 Preliminary provision 20
-§ 2 Assignment of cases 20
-§ 3 Impartiality and challenge 20
-§ 4 Procedure 21
-§ 5 Evidence 22
-§ 6 Notification, time limits and entry of decisions into effect 22
-§ 7 Procedural costs 23
-§ 8 Acceptance of Consequences 23
-§ 9 Official languages 23
-§ 10 Road Sub-Committee 24
+## **Chapter I  PRELIMINARY PROVISIONS** 
 
+## **Purpose** 
 
-**Chapter VII** **PROCEDURE - ARBITRAL BOARD** **25**
-§ 1 General information 25
-§ 2 UCI Arbitral Board 25
+- **12.1.001** Chapters I to VI of this Part 12 describe infringements of the rules of the UCI Regulations. These Chapters also determine the associated sanctions for such infringements, govern the organisation of the authorities responsible for issuing judgments and set out the applicable procedural rules to be followed before these authorities. 
 
+## **Material scope of application** 
 
-E1125 DISCIPLINE AND PROCEDURES 1
+- **12.1.002** This Part 12 applies to any infringement committed within the scope of, or in relation to, an event or activity authorised or organised by the UCI, a Continental Confederation or an affiliated National Federation. Outside this framework, this Part 12 applies when there are serious infringements of the UCI Constitution and/or in the event of an infringement of the UCI Regulations if no other body has jurisdiction. 
 
+This Part must be incorporated in the corresponding regulations of the National Federations. 
 
-**UCI CYCLING REGULATIONS**
+## **Personal scope of application** 
 
-# **PART 12 DISCIPLINE AND PROCEDURES**
+- **12.1.003** The following persons/entities shall be subject to this Part 12: 
 
+   - a) National Federations and Continental Confederations; 
 
-**12.1.000** Unless otherwise provided for in the UCI Regulations, this Part governs:
+   - b) Licence holders, as well as any person without a licence who participates in an event or activity authorised or organised by the UCI, a Continental Confederation or an affiliated National Federation; 
 
-       - infringements of the UCI Constitution and Regulations and related sanctions as well
+   - c) Teams and groups of Teams; 
 
-as disciplinary procedures (Chapters I to VI);
+   - d) organisers of cycling events; 
 
-       - competence and procedures in the case of disputes submitted to the UCI Arbitral
+   - e) commissaires; 
 
-Board (Chapter VII).
+   - f) riders’ agents; 
 
-## **Chapter I PRELIMINARY PROVISIONS**
+   - g) individuals subject to the UCI Code of Ethics; 
 
+   - h) any person or entity representing or working on behalf of the UCI, excluding UCI employees; 
 
-**Purpose**
-**12.1.001** Chapters I to VI of this Part 12 describe infringements of the rules of the UCI Regulations.
-These Chapters also determine the associated sanctions for such infringements, govern
-the organisation of the authorities responsible for issuing judgments and set out the
-applicable procedural rules to be followed before these authorities.
+   - i) any person or entity representing or working for a team, a group of teams, or an organiser of cycling events. 
 
-**Material scope of application**
-**12.1.002** This Part 12 applies to any infringement committed within the scope of, or in relation to,
-an event or activity authorised or organised by the UCI, a Continental Confederation or
-an affiliated National Federation. Outside this framework, this Part 12 applies when there
-are serious infringements of the UCI Constitution and/or in the event of an infringement
-of the UCI Regulations if no other body has jurisdiction.
+## **Temporal scope of application** 
 
-This Part must be incorporated in the corresponding regulations of the National
-Federations.
+- **12.1.004** This Part 12 shall apply, without restriction, to all events occurring after its entry into effect. 
 
-**Personal scope of application**
-**12.1.003** The following persons/entities shall be subject to this Part 12:
+The material provisions of this Part 12 shall also apply to prior events if these material provisions are more favourable to the individual(s) concerned and if the UCI's judicial 
 
+E1125 
 
-a) National Federations and Continental Confederations;
+2 
 
+DISCIPLINE AND PROCEDURES 
 
-b) Licence holders, as well as any person without a licence who participates in an
+**UCI CYCLING REGULATIONS** 
 
-event or activity authorised or organised by the UCI, a Continental Confederation
-or an affiliated National Federation;
+bodies (including the appeals body if necessary) rule on these events after the entry of this Part 12 into effect. 
 
+The procedural rules of this Part 12 shall apply from the entry into effect of this Part 12. 
 
-c) Teams and groups of Teams;
+## **Geographical scope of application** 
 
+- **12.1.005** This Part 12 applies to the territories of all National Federations affiliated to the UCI. 
 
-d) organisers of cycling events;
+## **Applicability and implementation of decisions** 
 
+- **12.1.006** Disciplinary measures imposed under the UCI Regulations are enforceable in the territories of these National Federations. 
 
-e) commissaires;
+National Federations (and their members and licence holders) must respect and implement decisions taken by the UCI. A failure of recognition or implementation shall represent an infringement that may lead to the sanctions set out by these regulations. 
 
+The UCI may extend the effects of a National Federation’s decision to global application if the decision has been made in accordance with rules and a procedure that comply with the provisions of these regulations. In this case, paragraph 2 above shall apply in the event of a failure of implementation. 
 
-f) riders’ agents;
+National Federations shall inform the UCI, without delay, of any suspension or prohibition of operation pronounced by their judicial bodies. 
 
+## **Applicable rules of law** 
 
-g) individuals subject to the UCI Code of Ethics;
+- **12.1.007** In the event of an omission in this Part 12, the competent body shall issue a ruling in accordance with the general principles of law. 
 
+It shall be guided by the customary rules of the UCI or, failing that, by the rules it would establish if it had to act as a legislator. 
 
-h) any person or entity representing or working on behalf of the UCI, excluding UCI
+## **Gender and number** 
 
-employees;
+- **12.1.008** The male gender may be used generically in this Part for the sake of brevity. In this case, it shall also apply to the female gender. Furthermore, the singular may refer to the plural and vice versa unless a specific mention of the gender or number arises from the subject or objective of the regulation. 
 
+E1125 
 
-i) any person or entity representing or working for a team, a group of teams, or an
-organiser of cycling events.
+3 
 
+DISCIPLINE AND PROCEDURES 
 
-**Temporal scope of application**
-**12.1.004** This Part 12 shall apply, without restriction, to all events occurring after its entry into
-effect.
+**UCI CYCLING REGULATIONS** 
 
+## **Chapter II  GENERAL SECTION** 
 
-The material provisions of this Part 12 shall also apply to prior events if these material
-provisions are more favourable to the individual(s) concerned and if the UCI's judicial
+## **Principles** 
 
+- **12.2.001** Unsporting behaviour, race incidents and infringements of the UCI Constitution, Regulations, decisions and directives shall be punished by disciplinary measures. 
 
-E1125 DISCIPLINE AND PROCEDURES 2
+The disciplinary measures provided for in this Part may be enacted for offences committed before, during or after an event, as well as for offences committed outside an event, provided that there is a sufficient link to an activity governed by the UCI. 
 
+The jurisdiction of the UCI Ethics Commission and criminal prosecution authorities remain reserved. 
 
-**UCI CYCLING REGULATIONS**
+## **General measures** 
 
+- **12.2.002** If a person or entity to whom this Part applies infringes the provisions of this Part, the UCI Regulations or any other rule established by the UCI, then one or more of the following disciplinary measures shall be imposed: 
 
-bodies (including the appeals body if necessary) rule on these events after the entry of
-this Part 12 into effect.
+   - a) warning; 
 
-The procedural rules of this Part 12 shall apply from the entry into effect of this Part 12.
+   - b) reprimand; 
 
+   - c) disqualification; 
 
-**Geographical scope of application**
-**12.1.005** This Part 12 applies to the territories of all National Federations affiliated to the UCI.
+   - d) fine; 
 
-**Applicability and implementation of decisions**
-**12.1.006** Disciplinary measures imposed under the UCI Regulations are enforceable in the
-territories of these National Federations.
+   - e) return of prizes, medals, etc.; 
 
-National Federations (and their members and licence holders) must respect and
-implement decisions taken by the UCI. A failure of recognition or implementation shall
-represent an infringement that may lead to the sanctions set out by these regulations.
+   - f) suspension of activities relating to cycling; 
 
+   - g) permanent ban of activities relating to cycling; 
 
-The UCI may extend the effects of a National Federation’s decision to global application
-if the decision has been made in accordance with rules and a procedure that comply
-with the provisions of these regulations. In this case, paragraph 2 above shall apply in
-the event of a failure of implementation.
+   - h) educational measures; 
 
+   - i) other disciplinary measures. 
 
-National Federations shall inform the UCI, without delay, of any suspension or prohibition
-of operation pronounced by their judicial bodies.
+## **Determination of disciplinary measures** 
 
+- **12.2.003** The Disciplinary Commission shall determine the type and extent of disciplinary measures, taking into account all the circumstances and in particular any aggravating or mitigating circumstances. 
 
-**Applicable rules of law**
-**12.1.007** In the event of an omission in this Part 12, the competent body shall issue a ruling in
-accordance with the general principles of law.
+## **Combination of sanctions** 
 
-It shall be guided by the customary rules of the UCI or, failing that, by the rules it would
-establish if it had to act as a legislator.
+- **12.2.004** Unless otherwise stated, the disciplinary measures established by this Part may be combined. 
 
-**Gender and number**
-**12.1.008** The male gender may be used generically in this Part for the sake of brevity. In this case,
-it shall also apply to the female gender. Furthermore, the singular may refer to the plural
-and vice versa unless a specific mention of the gender or number arises from the subject
-or objective of the regulation.
+## **Repeat offences** 
 
+- **12.2.005** The disciplinary measure set out by a provision of the Regulations may be increased in the event of repeat offences up to a doubling of the amount of the fine or duration of the suspension. 
 
-E1125 DISCIPLINE AND PROCEDURES 3
+## **Provision of information** 
 
+- **12.2.006** When information is provided by a person or entity who is to be sanctioned and this is crucial to the discovery of a serious breach of the UCI Regulations, the Disciplinary Commission may, at its discretion, freely reduce the effects of, or renounce, the disciplinary sanction on the former. 
 
-**UCI CYCLING REGULATIONS**
+## **Publication** 
 
-## **Chapter II GENERAL SECTION**
+- **12.2.007** Disciplinary decisions may be published or be the subject of a press release on the UCI website and/or, at the request of the UCI, on National Federation websites. 
 
+E1125 
 
-**Principles**
-**12.2.001** Unsporting behaviour, race incidents and infringements of the UCI Constitution,
-Regulations, decisions and directives shall be punished by disciplinary measures.
+4 
 
+DISCIPLINE AND PROCEDURES 
 
-The disciplinary measures provided for in this Part may be enacted for offences
-committed before, during or after an event, as well as for offences committed outside an
-event, provided that there is a sufficient link to an activity governed by the UCI.
+**UCI CYCLING REGULATIONS** 
 
+## **Statute of limitations** 
 
-The jurisdiction of the UCI Ethics Commission and criminal prosecution authorities
-remain reserved.
+- **12.2.008** Unless otherwise specified, any infringement described by this Part 12 shall be timebarred if it has not been reported to the Disciplinary Commission within one year of the date on which it was discovered. 
 
+Unless otherwise specified, any infringement under this Part 12 shall be time-barred after three years from the date of commission. The time-bar period shall be interrupted for the duration of the disciplinary proceedings, including any appeal. 
 
-**General measures**
-**12.2.002** If a person or entity to whom this Part applies infringes the provisions of this Part, the
-UCI Regulations or any other rule established by the UCI, then one or more of the
-following disciplinary measures shall be imposed:
+If an infringement has been concealed by its author in contravention of the principles of good faith, the period shall be calculated from the time at which the infringement is revealed. 
 
+## **Culpability** 
 
-a) warning;
-b) reprimand;
-c) disqualification;
-d) fine;
-e) return of prizes, medals, etc.;
-f) suspension of activities relating to cycling;
-g) permanent ban of activities relating to cycling;
-h) educational measures;
-i) other disciplinary measures.
+- **12.2.009** Disciplinary infringements are punishable whether committed intentionally or through negligence. 
 
+## **Attempted commission** 
 
-**Determination of disciplinary measures**
-**12.2.003** The Disciplinary Commission shall determine the type and extent of disciplinary
-measures, taking into account all the circumstances and in particular any aggravating or
-mitigating circumstances.
+- **12.2.010** An attempt to commit a disciplinary infringement shall also be sanctioned by disciplinary means, but may be subject to reduced disciplinary measures. 
 
-**Combination of sanctions**
-**12.2.004** Unless otherwise stated, the disciplinary measures established by this Part may be
-combined.
+## **Participation** 
 
-**Repeat offences**
-**12.2.005** The disciplinary measure set out by a provision of the Regulations may be increased in
-the event of repeat offences up to a doubling of the amount of the fine or duration of the
-suspension.
+- **12.2.011** Any person participating in a disciplinary infringement as an instigator or accomplice may also be subject to disciplinary measures. 
 
-**Provision of information**
-**12.2.006** When information is provided by a person or entity who is to be sanctioned and this is
-crucial to the discovery of a serious breach of the UCI Regulations, the Disciplinary
-Commission may, at its discretion, freely reduce the effects of, or renounce, the
-disciplinary sanction on the former.
+## **Obligation to report** 
 
-**Publication**
-**12.2.007** Disciplinary decisions may be published or be the subject of a press release on the UCI
-website and/or, at the request of the UCI, on National Federation websites.
+- **12.2.012** All individuals who are subject to these regulations have the obligation to report any infringement of the regulations that has been noted to the UCI. 
 
+A failure of this obligation to report shall constitute an infringement. 
 
-E1125 DISCIPLINE AND PROCEDURES 4
+## **Obligation to cooperate** 
 
+- **12.2.013** All individuals who are subject to these regulations have the obligation to cooperate with any and all requests for information and/or documentation and/or material by the UCI or the Disciplinary Commission. 
 
-**UCI CYCLING REGULATIONS**
+A failure of this obligation to cooperate shall constitute an infringement. 
 
+Any attempt to obstruct, delay, or hinder investigations or ongoing proceedings, including but not limited to providing false or misleading information, withholding relevant information, refusing to comply with legitimate requests, or engaging in any conduct that disrupts the process, shall also constitute an infringement. 
 
-**Statute of limitations**
-**12.2.008** Unless otherwise specified, any infringement described by this Part 12 shall be timebarred if it has not been reported to the Disciplinary Commission within one year of the
-date on which it was discovered.
+_(article added on 20.06.25)_ 
 
+## **Investigations** 
 
-Unless otherwise specified, any infringement under this Part 12 shall be time-barred after
-three years from the date of commission. The time-bar period shall be interrupted for the
-duration of the disciplinary proceedings, including any appeal.
+- **12.2.014** The UCI, at its sole discretion and initiative, may conduct investigations ex-officio into potential infringements of the UCI Regulations. 
 
+For serious infringements, including but not limited to breaches of articles 12.4.003 and 12.4.003 bis, the UCI may exercise enhanced investigative powers, as outlined below, in order to protect the integrity of cycling and to effectively address the severity of the infringement. 
 
-If an infringement has been concealed by its author in contravention of the principles of
-good faith, the period shall be calculated from the time at which the infringement is
-revealed.
+E1125 
 
+DISCIPLINE AND PROCEDURES 
 
-**Culpability**
-**12.2.009** Disciplinary infringements are punishable whether committed intentionally or through
-negligence.
+5 
 
-**Attempted commission**
-**12.2.010** An attempt to commit a disciplinary infringement shall also be sanctioned by disciplinary
-means, but may be subject to reduced disciplinary measures.
+**UCI CYCLING REGULATIONS** 
 
-**Participation**
-**12.2.011** Any person participating in a disciplinary infringement as an instigator or accomplice may
-also be subject to disciplinary measures.
+In exercising these powers, the UCI shall consider all relevant circumstances, including but not limited to the gravity of the infringement, the urgency of the matter, the severity of potential sanctions, and the possibility of establishing the infringement using less intrusive methods of investigation, ensuring that the application of these powers is both proportional and necessary for the investigation at hand. 
 
-**Obligation to report**
-**12.2.012** All individuals who are subject to these regulations have the obligation to report any
-infringement of the regulations that has been noted to the UCI.
+These powers may include, but are not limited to, the following actions: 
 
-A failure of this obligation to report shall constitute an infringement.
+- a) attend an interview before the UCI, or to answer any question, or to provide a written statement setting out their knowledge of any relevant facts and circumstances; 
 
+- b) provide (or procure to the best of their ability the provision by any third party) for inspection, copying and/or downloading any records or file in hardcopy or electronic format, that the UCI reasonably believes may contain relevant information (such as itemised telephone bills, bank statements, ledgers, notes, files, correspondence, emails, messages, servers); 
 
-**Obligation to cooperate**
-**12.2.013** All individuals who are subject to these regulations have the obligation to cooperate with
-any and all requests for information and/or documentation and/or material by the UCI or
-the Disciplinary Commission.
+- c) provide (or procure to the best of their ability the provision by any third party) for inspection, copying and/or downloading any electronic storage device in which the UCI reasonably believes relevant information may be stored (such as cloudbased servers, computers, hard drives, tapes, disks, mobile telephones, laptop computers, tablets and other mobile storage devices); 
 
+- d) provide full and unlimited access to their premises for the purpose of conducting unannounced inspections, securing information, records, articles, material or other things that are the subject of a request; 
 
-A failure of this obligation to cooperate shall constitute an infringement.
+- e) provide passwords, login credentials and other identifying information required to access electronically stored records that are the subject of a request. 
 
-Any attempt to obstruct, delay, or hinder investigations or ongoing proceedings, including
-but not limited to providing false or misleading information, withholding relevant
-information, refusing to comply with legitimate requests, or engaging in any conduct that
-disrupts the process, shall also constitute an infringement.
+_(article added on 20.06.25)_ 
 
-_(article added on 20.06.25)_
+## **Confidentiality** 
 
-**Investigations**
-**12.2.014** The UCI, at its sole discretion and initiative, may conduct investigations ex-officio into
+- **12.2.015** Any information, record, article or material provided to the UCI under this provision will be kept confidential except when it becomes necessary to disclose such information, record, article or thing to pursue the investigation of and/or to bring, or as part of, proceedings relating to a violation of the UCI Regulations, or when such information, record, article or thing is reported to administrative, professional or judicial authorities pursuant to an investigation or prosecution of non-sporting laws or regulations, or is otherwise required by law. 
 
-potential infringements of the UCI Regulations.
+_(article added on 20.06.25)_ 
 
-For serious infringements, including but not limited to breaches of articles 12.4.003 and
-12.4.003 bis, the UCI may exercise enhanced investigative powers, as outlined below,
-in order to protect the integrity of cycling and to effectively address the severity of the
-infringement.
+## **Suspended sentence** 
 
+- **12.2.016** The Disciplinary Commission may decide to suspend the execution of all or part of the above-mentioned sanctions and set out, at its discretion, the conditions for such suspended sentence, which may include: 
 
-E1125 DISCIPLINE AND PROCEDURES 5
+   - the absence of violations of the UCI Regulations for a defined period of time; 
 
+   - taking part in training or educations programmes or other courses; 
 
-**UCI CYCLING REGULATIONS**
+   - making commitments or undertaking specific actions. 
 
+_(text modified on 2.02.24)_ 
 
-In exercising these powers, the UCI shall consider all relevant circumstances, including
-but not limited to the gravity of the infringement, the urgency of the matter, the severity
-of potential sanctions, and the possibility of establishing the infringement using less
-intrusive methods of investigation, ensuring that the application of these powers is both
-proportional and necessary for the investigation at hand.
+E1125 
 
-These powers may include, but are not limited to, the following actions:
+6 
 
-a) attend an interview before the UCI, or to answer any question, or to provide a
+DISCIPLINE AND PROCEDURES 
 
-written statement setting out their knowledge of any relevant facts and
-circumstances;
+**UCI CYCLING REGULATIONS** 
 
+## **Chapter III  DISCIPLINARY MEASURES** 
 
-b) provide (or procure to the best of their ability the provision by any third party) for
+## **§ 1 Warning** 
 
-inspection, copying and/or downloading any records or file in hardcopy or
-electronic format, that the UCI reasonably believes may contain relevant
-information (such as itemised telephone bills, bank statements, ledgers, notes,
-files, correspondence, emails, messages, servers);
+## **Definition** 
 
+- **12.3.001** A warning is a reminder of the content of a disciplinary rule. 
 
-c) provide (or procure to the best of their ability the provision by any third party) for
-inspection, copying and/or downloading any electronic storage device in which
-the UCI reasonably believes relevant information may be stored (such as cloudbased servers, computers, hard drives, tapes, disks, mobile telephones, laptop
-computers, tablets and other mobile storage devices);
+It may be delivered by a commissaire or by the Disciplinary Commission. 
 
+## **§ 2 Reprimand** 
 
-d) provide full and unlimited access to their premises for the purpose of conducting
+## **Definition** 
 
-unannounced inspections, securing information, records, articles, material or
-other things that are the subject of a request;
+- **12.3.002** A reprimand is a formal expression of disapproval issued to the author of an infringement. A reprimand is an official, written document. 
 
+## **§ 3 Disqualification** 
 
-e) provide passwords, login credentials and other identifying information required to
+## **Definition** 
 
-access electronically stored records that are the subject of a request.
+- **12.3.003** Disqualification may take the form of a rider or a team being forbidden to take the start, elimination from a race or a decision taken after the conclusion of the event. 
 
+_(text modified on 1.01.21)_ 
 
-_(article added on 20.06.25)_
+## **Consequences of disqualification** 
 
+- **12.3.004** The disqualification of a rider or team shall invalidate all results and classifications achieved in the events in question and the forfeiture of all related prizes, points and medals. 
 
-**Confidentiality**
-**12.2.015** Any information, record, article or material provided to the UCI under this provision will
+Unless expressly stated otherwise, the placing of a disqualified rider or team shall be taken by the next rider or team in the classification, such that all placings are always occupied. As an exception, in a multiphase event which involves the direct competition of two or more riders or teams, a rider or team shall not take the place of a disqualified rider or team if direct competition has not taken place between them in the last phase. 
 
-be kept confidential except when it becomes necessary to disclose such information,
-record, article or thing to pursue the investigation of and/or to bring, or as part of,
-proceedings relating to a violation of the UCI Regulations, or when such information,
-record, article or thing is reported to administrative, professional or judicial authorities
-pursuant to an investigation or prosecution of non-sporting laws or regulations, or is
-otherwise required by law.
+A rider disqualified from a stage race shall not be permitted to participate in any other event for the duration of the race for which he was penalised, failing which he may be sanctioned by the Disciplinary Commission. 
 
+Unless otherwise specified, the disqualification of a rider or team occurring after the publication of a UCI ranking that is taken into account for the allocation of quotas (e.g. according to the qualification system for the Olympic Games or UCI World Championships), mandatory team invitations, or the evaluation of sporting criteria for UCI WorldTour and UCI Women's WorldTour licences, shall not result in any subsequent changes to the allocation of quotas. When a quota or invitation is allocated on an individual basis, the resulting disqualification and/or loss of UCI points shall be taken into account, even after the publication of quotas or invitations. 
 
-_(article added on 20.06.25)_
+_(text modified on 1.01.21, 1.11.25)_ 
 
-**Suspended sentence**
-**12.2.016** The Disciplinary Commission may decide to suspend the execution of all or part of the
-above-mentioned sanctions and set out, at its discretion, the conditions for such
-suspended sentence, which may include:
+E1125 
 
-      - the absence of violations of the UCI Regulations for a defined period of time;
+DISCIPLINE AND PROCEDURES 
 
-      - taking part in training or educations programmes or other courses;
+7 
 
-      - making commitments or undertaking specific actions.
+**UCI CYCLING REGULATIONS** 
 
-_(text modified on 2.02.24)_
+## **§ 4 Fine** 
 
+## **Definition** 
 
-E1125 DISCIPLINE AND PROCEDURES 6
+- **12.3.005** Except for fines for race incidents which are under the competence of the Commissaires’ panel as provided by specific provisions, any person or entity subject to this Part of the Regulations may be fined by the Disciplinary Commission between CHF 1,000 and CHF 100,000. 
 
+_(text modified on 15.02.19)._ 
 
-**UCI CYCLING REGULATIONS**
+## **Currency** 
 
-## **Chapter III DISCIPLINARY MEASURES**
+- **12.3.006** The fines established by the UCI Regulations are indicated in Swiss francs (CHF). The UCI or a National Federation invoicing a fine may, nevertheless, require the payment in another currency. In the event of settlement in another currency, the amount paid in the alternative currency must correspond to the amount in CHF at the rate in effect on the day of payment, net of any costs. 
 
+_(text modified on 15.02.19)._ 
 
-**§ 1** **Warning**
+## **Reduction of amounts** 
 
-**Definition**
-**12.3.001** A warning is a reminder of the content of a disciplinary rule.
+- **12.3.007** The Management Committee may reduce the amount of the fines fixed in the UCI Regulations for parties in different continents or countries at its discretion. 
 
+## **Time limits** 
 
-It may be delivered by a commissaire or by the Disciplinary Commission.
+- **12.3.008** Fines due to the UCI must be paid within one month of the dispatch of the invoice. The invoice shall be sent to the individual or entity concerned as well as to the relevant National Federation, club or team for information. 
 
+If the total amount due is not paid in full within one month of the due date, the offending party shall be automatically suspended until the full amount is paid. If the offending party is suspended for another reason, the suspension for non-payment shall be added to the duration of the other suspension. 
 
-**§ 2** **Reprimand**
+## **Joint and several liability** 
 
-**Definition**
-**12.3.002** A reprimand is a formal expression of disapproval issued to the author of an
-infringement. A reprimand is an official, written document.
+- **12.3.009** The team of the offending person at the time of the offense is jointly and severally liable for the payment of fines imposed on the person or entity concerned for any infringement of the UCI Regulations. This rule is also applicable to National Federations if the offending person was representing it at the time of the infringement. 
 
-**§ 3** **Disqualification**
+If necessary, the bank guarantee deposited with the UCI or National Federation may be called upon. 
 
-**Definition**
-**12.3.003** Disqualification may take the form of a rider or a team being forbidden to take the start,
-elimination from a race or a decision taken after the conclusion of the event.
+_(text modified on 15.02.19)._ 
 
-_(text modified on 1.01.21)_
+## **Collection of fines** 
 
-**Consequences of disqualification**
-**12.3.004** The disqualification of a rider or team shall invalidate all results and classifications
-achieved in the events in question and the forfeiture of all related prizes, points and
-medals.
+- **12.3.010** Fines imposed for race incidents in events on the international calendars of the various disciplines shall be collected by the UCI. The Management Committee may establish that a percentage of the fines collected should be directed to the National Federation of the organiser concerned in a manner that the Management Committee deems fit. 
 
+Fines imposed for race incidents relating to the national calendars of the various disciplines shall be collected by the National Federation of the event organiser. 
 
-Unless expressly stated otherwise, the placing of a disqualified rider or team shall be
-taken by the next rider or team in the classification, such that all placings are always
-occupied. As an exception, in a multiphase event which involves the direct competition
-of two or more riders or teams, a rider or team shall not take the place of a disqualified
-rider or team if direct competition has not taken place between them in the last phase.
+E1125 
 
+8 
 
-A rider disqualified from a stage race shall not be permitted to participate in any other
-event for the duration of the race for which he was penalised, failing which he may be
-sanctioned by the Disciplinary Commission.
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-Unless otherwise specified, the disqualification of a rider or team occurring after the
-publication of a UCI ranking that is taken into account for the allocation of quotas (e.g.
-according to the qualification system for the Olympic Games or UCI World
-Championships), mandatory team invitations, or the evaluation of sporting criteria for
-UCI WorldTour and UCI Women's WorldTour licences, shall not result in any subsequent
-changes to the allocation of quotas. When a quota or invitation is allocated on an
-individual basis, the resulting disqualification and/or loss of UCI points shall be taken into
-account, even after the publication of quotas or invitations.
+## **§ 5 Return of prizes** 
 
+## **Definition** 
 
-_(text modified on 1.01.21, 1.11.25)_
+- **12.3.011** A person or entity ordered to return a prize must send back the benefits received, in particular the prize money and symbolic objects (medals, cups, jerseys, etc.) as directed by the UCI administration. 
 
+## **Procedures for return** 
 
-E1125 DISCIPLINE AND PROCEDURES 7
+- **12.3.012** The prize must be returned to the entity that paid it (organiser, National Federation or centralised platform) within a month of the relevant notification. The prize will then be redistributed according to the amended classification. 
 
+The rider or team shall be automatically suspended if the prize has not been returned within one month of notification and for as long as the amount due has not been refunded. 
 
-**UCI CYCLING REGULATIONS**
+The preceding paragraph also applies to intermediaries or beneficiaries in possession of the prize from the moment that the return is requested. 
 
+_(text modified on 4.02.21)_ 
 
-**§ 4** **Fine**
+## **§ 6 Suspension** 
 
-**Definition**
-**12.3.005** Except for fines for race incidents which are under the competence of the Commissaires’
-panel as provided by specific provisions, any person or entity subject to this Part of the
-Regulations may be fined by the Disciplinary Commission between CHF 1,000 and
-CHF 100,000.
+## **Definition** 
 
-_(text modified on 15.02.19)._
+- **12.3.013** A person or entity who is the subject of a suspension may not, during the period of suspension, participate in any capacity in an event or activity authorised or organised by the UCI, a Continental Confederation or an affiliated National Federation. 
 
-**Currency**
-**12.3.006** The fines established by the UCI Regulations are indicated in Swiss francs (CHF). The
-UCI or a National Federation invoicing a fine may, nevertheless, require the payment in
-another currency. In the event of settlement in another currency, the amount paid in the
-alternative currency must correspond to the amount in CHF at the rate in effect on the
-day of payment, net of any costs.
+## **Liability of the suspended person or entity** 
 
-_(text modified on 15.02.19)._
+- **12.3.014** During a period of suspension, the suspended person or entity remains bound to all UCI Regulations and remains subject to the jurisdiction of the disciplinary bodies. 
 
-**Reduction of amounts**
-**12.3.007** The Management Committee may reduce the amount of the fines fixed in the UCI
-Regulations for parties in different continents or countries at its discretion.
+## **Financial assistance during the period of suspension** 
 
-**Time limits**
-**12.3.008** Fines due to the UCI must be paid within one month of the dispatch of the invoice. The
-invoice shall be sent to the individual or entity concerned as well as to the relevant
-National Federation, club or team for information.
+- **12.3.015** The suspended person or entity may not receive any financial assistance or other benefit in relation to their sporting activities for the period of suspension. 
 
+## **Suspension and other measures in application of the Anti-Doping rules** 
 
-If the total amount due is not paid in full within one month of the due date, the offending
-party shall be automatically suspended until the full amount is paid. If the offending party
-is suspended for another reason, the suspension for non-payment shall be added to the
-duration of the other suspension.
+- **12.3.016** The periods of ineligibility and other consequences established as a result of the UCI Anti-Doping Rules are reserved. Where appropriate, a suspension imposed in application of this Part 12 shall apply outside a period of ineligibility applicable as a result of the Anti-Doping rules. 
 
+## **Suspension of a team, association or any other organisation** 
 
-**Joint and several liability**
-**12.3.009** The team of the offending person at the time of the offense is jointly and severally liable
-for the payment of fines imposed on the person or entity concerned for any infringement
-of the UCI Regulations. This rule is also applicable to National Federations if the
-offending person was representing it at the time of the infringement.
+- **12.3.017** In the event of the suspension of a team, association or any other organisation, all licence holders who are members or otherwise linked shall also be suspended, unless authorised by the UCI Management Committee to exercise their activities in an individual capacity under appropriate conditions to be set by the Management Committee. 
 
-If necessary, the bank guarantee deposited with the UCI or National Federation may be
-called upon.
+## **Withdrawal of licence** 
 
-_(text modified on 15.02.19)._
+- **12.3.018** Suspension shall entail the withdrawal of the licence for the duration of the suspension. At the end of the suspension period, the suspended person shall not benefit from the return of his licence or the granting of a new licence, nor be accepted to participate in cycling events in any capacity whatsoever, until he has fulfilled all his obligations under this Part 12 and the UCI Regulations in general and complied with any decision taken in accordance with the UCI Regulations. 
 
-**Collection of fines**
-**12.3.010** Fines imposed for race incidents in events on the international calendars of the various
-disciplines shall be collected by the UCI. The Management Committee may establish
-that a percentage of the fines collected should be directed to the National Federation of
-the organiser concerned in a manner that the Management Committee deems fit.
+E1125 
 
+9 
 
-Fines imposed for race incidents relating to the national calendars of the various
-disciplines shall be collected by the National Federation of the event organiser.
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-E1125 DISCIPLINE AND PROCEDURES 8
+## **Participation of a suspended licence holder in a cycling event or other activity for which a licence is required** 
 
+- **12.3.019** Any participation of a suspended licence holder in a cycling event or any other action or activity by a suspended licence holder for which a licence is required shall be considered void and may lead to the imposition of a fine under the terms of this Part. 
 
-**UCI CYCLING REGULATIONS**
+In addition, the period of ineligibility initially imposed shall restart from the date of the unauthorised participation. This may be adjusted depending on the licence holder’s misconduct and the other circumstances of the case. 
 
+This provision shall be subsidiary to the provisions of the UCI Anti-Doping Rules for any suspension imposed under the UCI Anti-Doping Rules. 
 
-**§ 5** **Return of prizes**
+_(text modified on 5.05.23)._ 
 
-**Definition**
-**12.3.011** A person or entity ordered to return a prize must send back the benefits received, in
-particular the prize money and symbolic objects (medals, cups, jerseys, etc.) as directed
-by the UCI administration.
+## **Effectiveness of suspension** 
 
-**Procedures for return**
-**12.3.012** The prize must be returned to the entity that paid it (organiser, National Federation or
-centralised platform) within a month of the relevant notification. The prize will then be
-redistributed according to the amended classification.
+- **12.3.020** The suspension must be effective in sporting terms. It must be carried out within the period of normal activity of the person concerned. To this end, the date of entry into effect may be determined in a specific manner and the suspension spread over several periods. 
 
+## **§ 7 Prohibition of exercising any activity related to cycling** 
 
-The rider or team shall be automatically suspended if the prize has not been returned
-within one month of notification and for as long as the amount due has not been
-refunded.
+## **Definition** 
 
+- **12.3.021** A person may be prohibited from participating in activities that come under the jurisdiction of the UCI and/or National Federations. 
 
-The preceding paragraph also applies to intermediaries or beneficiaries in possession
-of the prize from the moment that the return is requested.
+## **§ 8 Educational measures** 
 
+## **Definition** 
 
-_(text modified on 4.02.21)_
+- **12.3.022** Educational measures may be proposed instead of, or in addition to, other disciplinary measures. 
 
-**§ 6** **Suspension**
+## **§ 9 Other disciplinary measures** 
 
-**Definition**
-**12.3.013** A person or entity who is the subject of a suspension may not, during the period of
-suspension, participate in any capacity in an event or activity authorised or organised by
-the UCI, a Continental Confederation or an affiliated National Federation.
+## **Definition** 
 
-**Liability of the suspended person or entity**
-**12.3.014** During a period of suspension, the suspended person or entity remains bound to all UCI
-Regulations and remains subject to the jurisdiction of the disciplinary bodies.
+- **12.3.023** The Disciplinary Commission may decide to impose other disciplinary measures not provided for in this section. 
 
-**Financial assistance during the period of suspension**
-**12.3.015** The suspended person or entity may not receive any financial assistance or other benefit
-in relation to their sporting activities for the period of suspension.
+## **§ 10 Provisional measures** 
 
-**Suspension and other measures in application of the Anti-Doping rules**
-**12.3.016** The periods of ineligibility and other consequences established as a result of the UCI
-Anti-Doping Rules are reserved. Where appropriate, a suspension imposed in
-application of this Part 12 shall apply outside a period of ineligibility applicable as a result
-of the Anti-Doping rules.
+## **Definition** 
 
-**Suspension of a team, association or any other organisation**
-**12.3.017** In the event of the suspension of a team, association or any other organisation, all
-licence holders who are members or otherwise linked shall also be suspended, unless
-authorised by the UCI Management Committee to exercise their activities in an individual
-capacity under appropriate conditions to be set by the Management Committee.
+- **12.3.024** When it is likely that an infringement has been committed but a decision on the merits cannot be taken sufficiently quickly, the Disciplinary Commission may, if it considers it necessary, order provisional measures including, in particular, the imposition of a provisional suspension. 
 
-**Withdrawal of licence**
-**12.3.018** Suspension shall entail the withdrawal of the licence for the duration of the suspension.
-At the end of the suspension period, the suspended person shall not benefit from the
-return of his licence or the granting of a new licence, nor be accepted to participate in
-cycling events in any capacity whatsoever, until he has fulfilled all his obligations under
-this Part 12 and the UCI Regulations in general and complied with any decision taken in
-accordance with the UCI Regulations.
+The Disciplinary Commission can also order provisional measures to ensure compliance with a sanction already in effect. 
 
+## **Proof** 
 
-E1125 DISCIPLINE AND PROCEDURES 9
+- **12.3.025** The Disciplinary Commission shall issue a ruling on the basis of the evidence available at the time of the decision. 
 
+E1125 
 
-**UCI CYCLING REGULATIONS**
+10 
 
+DISCIPLINE AND PROCEDURES 
 
-**Participation of a suspended licence holder in a cycling event or other activity for**
-**which a licence is required**
-**12.3.019** Any participation of a suspended licence holder in a cycling event or any other action or
-activity by a suspended licence holder for which a licence is required shall be considered
-void and may lead to the imposition of a fine under the terms of this Part.
+**UCI CYCLING REGULATIONS** 
 
+## **Decision and enforcement** 
 
-In addition, the period of ineligibility initially imposed shall restart from the date of the
-unauthorised participation. This may be adjusted depending on the licence holder’s
-misconduct and the other circumstances of the case.
+- **12.3.026** The Disciplinary Commission shall make its decision as soon as possible. The decision is immediately enforceable. 
 
+In urgent cases or when circumstances so require, the Commission does not need to hear the party or parties concerned before issuing a decision. 
 
-This provision shall be subsidiary to the provisions of the UCI Anti-Doping Rules for any
-suspension imposed under the UCI Anti-Doping Rules.
+## **Deduction of the duration of the provisional suspension** 
 
+- **12.3.027** If a suspension has been provisionally imposed, the duration of its actual application shall be deducted from any definitive suspension. 
 
-_(text modified on 5.05.23)._
+E1125 
 
+11 
 
-**Effectiveness of suspension**
-**12.3.020** The suspension must be effective in sporting terms. It must be carried out within the
-period of normal activity of the person concerned. To this end, the date of entry into
-effect may be determined in a specific manner and the suspension spread over several
-periods.
+DISCIPLINE AND PROCEDURES 
 
-**§ 7** **Prohibition of exercising any activity related to cycling**
+**UCI CYCLING REGULATIONS** 
 
-**Definition**
-**12.3.021** A person may be prohibited from participating in activities that come under the
-jurisdiction of the UCI and/or National Federations.
+## **Chapter IV INFRINGEMENTS** 
 
-**§ 8** **Educational measures**
+## **§ 1 Infringements related to race incidents** 
 
-**Definition**
-**12.3.022** Educational measures may be proposed instead of, or in addition to, other disciplinary
-measures.
+## **Definition** 
 
-**§ 9** **Other disciplinary measures**
+- **12.4.001** The infringements relating to race incidents are those listed in the tables of race incidents as set out in the articles below: 
 
-**Definition**
-**12.3.023** The Disciplinary Commission may decide to impose other disciplinary measures not
-provided for in this section.
+   - 2.12.007 for Road cycling and Para-cycling Road ; 
 
-**§ 10** **Provisional measures**
+   - 3.10.008 for Track cycling and Para-cycling Track ; 
 
-**Definition**
-**12.3.024** When it is likely that an infringement has been committed but a decision on the merits
-cannot be taken sufficiently quickly, the Disciplinary Commission may, if it considers it
-necessary, order provisional measures including, in particular, the imposition of a
-provisional suspension.
+   - 4.20.001 for Mountain Bike; 
 
+   - 5.6.004 for Cyclo-cross. 
 
-The Disciplinary Commission can also order provisional measures to ensure compliance
-with a sanction already in effect.
+These infringements are exclusively pronounced by Commissaires. They are not subject to appeal, except fines exceeding the following amounts: 
 
+a) Road: Column 1: fine over CHF 1,000. Column 2: fine over CHF 500. Column 3: fine over CHF 200. b) Track: Column 1: fine over CHF 500. Column 2: fine over CHF 300. Column 3: fine over CHF 200. 
 
-**Proof**
-**12.3.025** The Disciplinary Commission shall issue a ruling on the basis of the evidence available
-at the time of the decision.
+c) Cyclo-cross: Column 1: fine over CHF 200. Column 2: fine over CHF 100. d) Mountain Bike: Column 1: fine over CHF 200. Column 2: fine over CHF 100. 
 
+An appeal may be made within 10 days of notification of the decision. 
 
-E1125 DISCIPLINE AND PROCEDURES 10
+_(text modified on 11.02.20; 12.06.20; 3.06.21; 1.03.22; 5.05.23)._ 
 
+## **§ 2 Specific infringements** 
 
-**UCI CYCLING REGULATIONS**
+## **Definition** 
 
+- **12.4.002** The specific infringements listed below are the exclusive competence of the Disciplinary Commission, whether or not the circumstances in question relate to, or are equivalent to, the race incidents described by the tables. 
 
-**Decision and enforcement**
-**12.3.026** The Disciplinary Commission shall make its decision as soon as possible. The decision
-is immediately enforceable.
+## **Technological fraud** 
 
+_(numbering of section modified on 20.06.25)_ 
 
-In urgent cases or when circumstances so require, the Commission does not need to
-hear the party or parties concerned before issuing a decision.
+- **12.4.003** Any person or entity subject to this Part, who uses or intends to use unauthorised, fraudulent or deceptive technological devices, systems, methods, or other equipment to assist and/or facilitate the propulsion of a bicycle in a manner contrary to article 1.3.010, or engages in any related actions such as providing, requesting, receiving, or accepting such equipment or components with the intent of their use in an event, shall be considered to have committed technological fraud. 
 
+_(text modified on 20.06.25)_ 
 
-**Deduction of the duration of the provisional suspension**
-**12.3.027** If a suspension has been provisionally imposed, the duration of its actual application
-shall be deducted from any definitive suspension.
+E1125 
 
+12 
 
-E1125 DISCIPLINE AND PROCEDURES 11
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-**UCI CYCLING REGULATIONS**
+- **12.4.003** Technological fraud is an infringement of article 1.3.010 that is subject to a disciplinary **bis** sanction. 
 
-## **Chapter IV INFRINGEMENTS**
+Technological fraud occurs in the following circumstances: 
 
+- a) the presence, at any location related to a cycling event, of a bicycle that does not comply with the provisions of article 1.3.010 related to propulsion; 
 
-**§ 1** **Infringements related to race incidents**
+- b) the use by a rider, at any location related to a cycling event, of a bicycle that does not comply with the provisions of article 1.3.010 related to propulsion; 
 
-**Definition**
-**12.4.001** The infringements relating to race incidents are those listed in the tables of race incidents
-as set out in the articles below:
+- c) any act, communication, commission or omission aimed at providing equipment or components that do not comply with the provisions of article 1.3.010 for their use in an event, as well as any act related to such provision of equipment or components, including without being limited to requesting, receiving or accepting them, directly or indirectly, or any act related to dissimilating, fitting or preparing such equipment of components. 
 
+_(text modified on 20.06.25)_ 
 
-       - 2.12.007 for Road cycling and Para-cycling Road ;
+- **12.4.003** All riders and teams, or other entities that a rider may represent (in particular National **ter** Federations at races contested by national teams), are responsible for ensuring that all their bicycles comply with the provisions of article 1.3.010 at all times. 
 
-        - 3.10.008 for Track cycling and Para-cycling Track ;
+The presence and/or use of equipment that does not comply with the provisions of article 1.3.010 in breach of article 12.4.003bis, letters a) or b), shall constitute technological fraud by the rider and the team, or other entity the rider represents, irrespective of whether or not the bicycle has been used during the event. 
 
-       - 4.20.001 for Mountain Bike;
+Technological fraud is not subject to a statute of limitation. 
 
-       - 5.6.004 for Cyclo-cross.
+_(text modified on 20.06.25)_ 
 
-These infringements are exclusively pronounced by Commissaires. They are not subject
-to appeal, except fines exceeding the following amounts:
+## **Discrimination** 
 
+- **12.4.004** Any person or entity subject to this Part who, by word or deed, demeans, discriminates against or denigrates a person or group of persons in a manner that violates human dignity on the grounds of race, colour, sex, sexual orientation, religion, political belief, language, ethnic or national origin or social condition shall receive a disciplinary sanction. 
 
-a) Road: Column 1: fine over CHF 1,000.
-Column 2: fine over CHF 500.
-Column 3: fine over CHF 200.
+## **Threats** 
 
-b) Track: Column 1: fine over CHF 500.
-Column 2: fine over CHF 300.
-Column 3: fine over CHF 200.
+- **12.4.005** Any person or entity subject to this Part who makes threats shall receive a disciplinary sanction. 
 
-c) Cyclo-cross: Column 1: fine over CHF 200.
-Column 2: fine over CHF 100.
+## **Coercion** 
 
-d) Mountain Bike: Column 1: fine over CHF 200.
-Column 2: fine over CHF 100.
+- **12.4.006** Any person or entity subject to this Part who, by violent means, threats or in any other way, exerts pressure on a commissaire, classifier or any other authority, to urge them to take, not to take, or to withdraw a given decision shall receive a disciplinary sanction. 
 
+## **Endangerment** 
 
-An appeal may be made within 10 days of notification of the decision.
+- **12.4.007** Any person or entity subject to this Part who exposes another party to an immediate risk of death or injury by a deliberate act or behaviour that is contrary to the regulations regarding safety or care shall receive a disciplinary sanction. 
 
-_(text modified on 11.02.20; 12.06.20; 3.06.21; 1.03.22; 5.05.23)._
+E1125 
 
-**§ 2** **Specific infringements**
+13 
 
-**Definition**
-**12.4.002** The specific infringements listed below are the exclusive competence of the Disciplinary
-Commission, whether or not the circumstances in question relate to, or are equivalent
-to, the race incidents described by the tables.
+DISCIPLINE AND PROCEDURES 
 
-**Technological fraud**
-_(numbering of section modified on 20.06.25)_
+**UCI CYCLING REGULATIONS** 
 
-**12.4.003** Any person or entity subject to this Part, who uses or intends to use unauthorised,
-fraudulent or deceptive technological devices, systems, methods, or other equipment to
-assist and/or facilitate the propulsion of a bicycle in a manner contrary to article 1.3.010,
-or engages in any related actions such as providing, requesting, receiving, or accepting
-such equipment or components with the intent of their use in an event, shall be
-considered to have committed technological fraud.
+## **Fraud** 
 
+- **12.4.008** Any person or entity subject to this Part who defrauds, cheats or acts in an unfair manner in order to obtain a benefit shall receive a disciplinary sanction. The transmission of false information constitutes fraud for the purposes of this provision. 
 
-_(text modified on 20.06.25)_
+Fraud is subject to a statute of limitation of 5 years from the date of the offence. 
 
+## **Assault** 
 
-E1125 DISCIPLINE AND PROCEDURES 12
+- **12.4.009** Any person or entity subject to this Part who harms the physical integrity of a person shall receive a disciplinary sanction. 
 
+## **Defamation** 
 
-**UCI CYCLING REGULATIONS**
+- **12.4.010** Any false oral or written statements with the intention of damaging the reputation of a person shall receive a disciplinary sanction. 
 
+Any use of threatening, abusive or insulting words or behaviour, or display or publication of any writing, sign or other visible representation which is threatening, abusing or insulting shall receive a disciplinary sanction. 
 
-**12.4.003** Technological fraud is an infringement of article 1.3.010 that is subject to a disciplinary
-**bis** sanction.
+_(text modified on 5.05.23)._ 
 
+## **Suspension of a team registered with the UCI as a result of the Anti-Doping rules** 
 
-Technological fraud occurs in the following circumstances:
+- **12.4.011** The Disciplinary Commission may suspend a team in accordance with article 11.3 of the UCI Anti-Doping Rules 
 
+## **§ 3 Infringements specific to each discipline** 
 
-a) the presence, at any location related to a cycling event, of a bicycle that does not
+## **Definition** 
 
-comply with the provisions of article 1.3.010 related to propulsion;
+- **12.4.012** Infringements specific to each discipline may be provided for in the other Parts of the UCI Regulations. 
 
+## **§ 4 Infringements specific to organisers** 
 
-b) the use by a rider, at any location related to a cycling event, of a bicycle that does
+## **Principle** 
 
-not comply with the provisions of article 1.3.010 related to propulsion;
+- **12.4.013** The Disciplinary Commission is competent to pronounce disciplinary measures for Road cycling as per the table of article 2.12.012 or cases referred to it in accordance with article 2.12.010 B. 
 
+For the other disciplines, the Disciplinary Commission may pronounce disciplinary measures as it deems appropriate for the infringements described below. 
 
-c) any act, communication, commission or omission aimed at providing equipment
-or components that do not comply with the provisions of article 1.3.010 for their
-use in an event, as well as any act related to such provision of equipment or
-components, including without being limited to requesting, receiving or accepting
-them, directly or indirectly, or any act related to dissimilating, fitting or preparing
-such equipment of components.
+## **Safety failing** 
 
+- **12.4.014** Organisers are responsible for order and safety on the race route and in its immediate surroundings. An organiser is responsible for any incident and shall be liable to disciplinary measures unless it can prove that the organisational measures actually implemented met the applicable safety standards and that, taking into account the specific circumstances, these were sufficient in qualitative and quantitative terms. 
 
-_(text modified on 20.06.25)_
+## **Breach of contractual obligations** 
 
+- **12.4.015** An organiser may receive a disciplinary sanction in the event of an intentional breach of its contractual obligations. 
 
-**12.4.003** All riders and teams, or other entities that a rider may represent (in particular National
-**ter** Federations at races contested by national teams), are responsible for ensuring that all
-their bicycles comply with the provisions of article 1.3.010 at all times.
+## **Breach of regulatory obligations** 
 
+- **12.4.016** An organiser may receive a disciplinary sanction in the event of a serious or repeated breach of an obligation established by: the UCI Regulations; the prevailing organiser's 
 
-The presence and/or use of equipment that does not comply with the provisions of article
-1.3.010 in breach of article 12.4.003bis, letters a) or b), shall constitute technological
-fraud by the rider and the team, or other entity the rider represents, irrespective of
-whether or not the bicycle has been used during the event.
+E1125 
 
+14 
 
-Technological fraud is not subject to a statute of limitation.
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-_(text modified on 20.06.25)_
+guides for the different disciplines; the UCI WorldTour organiser's specifications; the various technical guides as well as any directives or other documents setting out the organiser’s obligations. 
 
+## **§ 5 Other infringements** 
 
-**Discrimination**
-**12.4.004** Any person or entity subject to this Part who, by word or deed, demeans, discriminates
-against or denigrates a person or group of persons in a manner that violates human
-dignity on the grounds of race, colour, sex, sexual orientation, religion, political belief,
-language, ethnic or national origin or social condition shall receive a disciplinary
-sanction.
+## **Definition** 
 
-**Threats**
-**12.4.005** Any person or entity subject to this Part who makes threats shall receive a disciplinary
-sanction.
+- **12.4.017** A person or entity who is subject to this Part 12 must behave in accordance with the principles of trustworthiness, integrity and fair play. 
 
-**Coercion**
-**12.4.006** Any person or entity subject to this Part who, by violent means, threats or in any other
-way, exerts pressure on a commissaire, classifier or any other authority, to urge them to
-take, not to take, or to withdraw a given decision shall receive a disciplinary sanction.
+These rules are breached by anyone who, in particular: 
 
-**Endangerment**
-**12.4.007** Any person or entity subject to this Part who exposes another party to an immediate risk
-of death or injury by a deliberate act or behaviour that is contrary to the regulations
-regarding safety or care shall receive a disciplinary sanction.
+- a) behaves in such a manner as to harm the image, reputation or interests of cycling or the UCI; 
 
+- b) fails to respect the decisions and/or instructions of judicial bodies, commissions or other UCI authorities; 
 
-E1125 DISCIPLINE AND PROCEDURES 13
+- c) does not comply with the instructions given by commissaires; 
 
+- d) behaves in a disreputable manner which contravenes the basic rules of decency; 
 
-**UCI CYCLING REGULATIONS**
+- e) seriously or repeatedly breaches any provision of a UCI regulation that is not specifically punished; 
 
+- f) behaves in another way that is unsporting. 
 
-**Fraud**
-**12.4.008** Any person or entity subject to this Part who defrauds, cheats or acts in an unfair manner
-in order to obtain a benefit shall receive a disciplinary sanction. The transmission of false
-information constitutes fraud for the purposes of this provision.
+_(text modified on 5.05.23)._ 
 
+E1125 
 
-Fraud is subject to a statute of limitation of 5 years from the date of the offence.
+15 
 
+DISCIPLINE AND PROCEDURES 
 
-**Assault**
-**12.4.009** Any person or entity subject to this Part who harms the physical integrity of a person
-shall receive a disciplinary sanction.
+**UCI CYCLING REGULATIONS** 
 
-**Defamation**
-**12.4.010** Any false oral or written statements with the intention of damaging the reputation of a
-person shall receive a disciplinary sanction.
+## **Chapter V  ORGANISATION** 
 
-Any use of threatening, abusive or insulting words or behaviour, or display or publication
-of any writing, sign or other visible representation which is threatening, abusing or
-insulting shall receive a disciplinary sanction.
+## **§ 1 Commissaires’ Panel** 
 
-_(text modified on 5.05.23)._
+## **Definition and jurisdiction** 
 
-**Suspension of a team registered with the UCI as a result of the Anti-Doping rules**
-**12.4.011** The Disciplinary Commission may suspend a team in accordance with article 11.3 of the
-UCI Anti-Doping Rules
+- **12.5.001** The Commissaires’ Panel is competent to judge and sanction all race incidents according to the tables of race incidents applicable to the different disciplines. Except for Road cycling, the Parts of the Regulations pertaining to the different disciplines may contain specific provisions conferring competence to the Commissaires’ Panel to sanction other infringements. 
 
-**§ 3** **Infringements specific to each discipline**
+Before making its decision, the Commissaires’ Panel may summon and hear the party concerned if the circumstances so warrant. 
 
-**Definition**
-**12.4.012** Infringements specific to each discipline may be provided for in the other Parts of the
-UCI Regulations.
+The Commissaires’ Panel may issue decisions on race incidents of which it becomes aware until the moment it is disbanded. 
 
-**§ 4** **Infringements specific to organisers**
+A race incident, whether it has been sanctioned, not sanctioned or escaped the attention of the Commissaires’ Panel, may not be reviewed, unless the improper conduct constitutes an infringement within the jurisdiction of the Disciplinary Commission in accordance with this Part. 
 
-**Principle**
-**12.4.013** The Disciplinary Commission is competent to pronounce disciplinary measures for Road
-cycling as per the table of article 2.12.012 or cases referred to it in accordance with article
-2.12.010 B.
+If a commissaire considers that a race incident is also likely to constitute an infringement within the jurisdiction of the Disciplinary Commission, he must report this to the UCI. 
 
+## **Notification** 
 
-For the other disciplines, the Disciplinary Commission may pronounce disciplinary
-measures as it deems appropriate for the infringements described below.
+- **12.5.002** Decisions are notified by means of the publication of a communiqué by the Commissaires’ Panel. They may also be notified verbally to the individual in question or his team. 
 
+Any appeal under the terms of article 12.4.001 must be lodged within ten days of notification of the decision. 
 
-**Safety failing**
-**12.4.014** Organisers are responsible for order and safety on the race route and in its immediate
-surroundings. An organiser is responsible for any incident and shall be liable to
-disciplinary measures unless it can prove that the organisational measures actually
-implemented met the applicable safety standards and that, taking into account the
-specific circumstances, these were sufficient in qualitative and quantitative terms.
+The Disciplinary Commission may, at its own initiative or upon request, decide to suspend the implementation of a decision by the Commissaires’ Panel. 
 
-**Breach of contractual obligations**
-**12.4.015** An organiser may receive a disciplinary sanction in the event of an intentional breach of
-its contractual obligations.
+## **§ 2 Disciplinary Commission** 
 
-**Breach of regulatory obligations**
-**12.4.016** An organiser may receive a disciplinary sanction in the event of a serious or repeated
-breach of an obligation established by: the UCI Regulations; the prevailing organiser's
+## **Composition** 
 
+- **12.5.003** The Disciplinary Commission is composed of a President and members appointed by the UCI Management Committee. 
 
-E1125 DISCIPLINE AND PROCEDURES 14
+The members of the Disciplinary Commission may not exercise any function for the UCI nor be UCI employees or Commission members, with the exception of the UCI Arbitral Board. 
 
+Three members of the Disciplinary Commission shall be make up the Disciplinary Commission’s Road Sub-Committee, which deals with cases related to road cycling as per articles 12.5.004 and 12.6.021 and subsequent. 
 
-**UCI CYCLING REGULATIONS**
+The President of the Disciplinary Commission cannot serve more than two terms of four years in total, whether continuously or interruptedly. He/she can continue to serve as a member in between terms as President or after reaching the term limit. 
 
+E1125 
 
-guides for the different disciplines; the UCI WorldTour organiser's specifications; the
-various technical guides as well as any directives or other documents setting out the
-organiser’s obligations.
+16 
 
-**§ 5** **Other infringements**
+DISCIPLINE AND PROCEDURES 
 
-**Definition**
-**12.4.017** A person or entity who is subject to this Part 12 must behave in accordance with the
-principles of trustworthiness, integrity and fair play.
+**UCI CYCLING REGULATIONS** 
 
+_(text modified on 5.05.23; 2.02.24)._ 
 
-These rules are breached by anyone who, in particular:
+## **Jurisdiction** 
 
+- **12.5.004** Unless otherwise specifically provided, the Disciplinary Commission has jurisdiction to judge and sanction infringements contained in this Part and the UCI Regulations. This jurisdiction may be exercised regardless of whether the alleged violation has already been sanctioned by the Commissaires’ Panel in accordance with the table of race incidents. 
 
-a) behaves in such a manner as to harm the image, reputation or interests of cycling
+The Disciplinary Commission also has jurisdiction concerning race incidents in the following circumstances: 
 
-or the UCI;
+- To hear appeals against the fines listed under the terms of article 12.4.001 lit. a to d. Such appeals must contain a description of the events and a copy of the decision by the Commissaires’ Panel that is contested. 
 
+- To decide in first instance all race incident infringements which i) may have an influence on the sporting conduct or result of an event, or ii) which concern the unauthorised use of equipment, or iii) which relate to the ineligibility of a rider to take part in an event, or iv) were susceptible of causing a risk of safety. In either of these circumstances, the Disciplinary Commission shall have jurisdiction to review the infringement in case the facts were not observed by the Commissaires’ Panel or in case all relevant facts for the assessment of the infringement were not available at the time the Commissaires’ Panel disbanded. In the latter case, the decision of the Disciplinary Commission replaces the decision of the Commissaires’ Panel, whether a sanction was imposed or not. The Disciplinary Commission may apply sanctions which are provided for in the discipline’s table of race incidents and/or those listed in article 12.1.002. 
 
-b) fails to respect the decisions and/or instructions of judicial bodies, commissions
+The Road Sub-Committee has jurisdiction to judge and sanction infringements under the jurisdiction of the Disciplinary Commission which meet the following cumulative requirements: 
 
-or other UCI authorities;
+- The infringement is committed in the context of UCI WorldTour and UCI ProSeries events for men and UCI Women’s WorldTour and UCI ProSeries for women; 
 
+- The circumstances do not warrant the imposition of sanctions in excess of 30 days of suspension and/or 5’000 CHF of fine; 
 
-c) does not comply with the instructions given by commissaires;
+- The main facts which are relevant for the assessment of the infringement are readily available. 
 
+The Disciplinary Commission shall assess the admissibility of the cases referred to it and may refer any case which it considers inadmissible or which does not fall within its competence to the UCI or any other competent judicial body. 
 
-d) behaves in a disreputable manner which contravenes the basic rules of decency;
+_(text modified on 3.06.21; 5.05.23; 2.02.24; 1.10.25)._ 
 
+## **Secretariat** 
 
-e) seriously or repeatedly breaches any provision of a UCI regulation that is not
+- **12.5.005** The UCI Management Committee shall provide the Disciplinary Commission with a Secretariat responsible for all administrative tasks, communications and notifications by the Disciplinary Commission. 
 
-specifically punished;
+All correspondence to the Disciplinary Commission shall be sent to the Secretariat at the following address: 
 
+E1125 
 
-f) behaves in another way that is unsporting.
+17 
 
+DISCIPLINE AND PROCEDURES 
 
-_(text modified on 5.05.23)._
+**UCI CYCLING REGULATIONS** 
 
+UCI Disciplinary Commission c/o Union Cycliste Internationale CH-1860 Aigle Disciplinary.Commission@uci.ch 
 
-E1125 DISCIPLINE AND PROCEDURES 15
+The Secretariat shall be responsible for sending any notifications and communications to parties on behalf of the Disciplinary Commission. Notifications and communications shall be sent to the email addresses provided by the parties. 
 
+## **Confidentiality** 
 
-**UCI CYCLING REGULATIONS**
+- **12.5.006** The Disciplinary Commission shall ensure that any information disclosed in respect of the procedure which is not in the public domain shall remain confidential. 
 
-## **Chapter V ORGANISATION**
+All parties, as well as the Secretariat, witnesses, experts, interpreters or any other person involved in the procedure are required to respect the confidential nature of any information of which they become aware during the procedure. 
 
+However, the above paragraph does not restrict the UCI's right to make public the existence and progress of an ongoing case, as well as its outcome. 
 
-**§ 1** **Commissaires’ Panel**
+## **§ 3 National Federations** 
 
-**Definition and jurisdiction**
-**12.5.001** The Commissaires’ Panel is competent to judge and sanction all race incidents
-according to the tables of race incidents applicable to the different disciplines. Except for
-Road cycling, the Parts of the Regulations pertaining to the different disciplines may
-contain specific provisions conferring competence to the Commissaires’ Panel to
-sanction other infringements.
+## **Competence** 
 
+- **12.5.007** Race incidents occurring during events on a national calendar are judged and sanctioned by the National Federation of the organiser of the event according to its own rules. 
 
-Before making its decision, the Commissaires’ Panel may summon and hear the party
-concerned if the circumstances so warrant.
+National Federations may not introduce other race incidents that constitute infringements, nor sanctions, other than those contained in this Part. 
 
+## **Obligation to prosecute** 
 
-The Commissaires’ Panel may issue decisions on race incidents of which it becomes
-aware until the moment it is disbanded.
+- **12.5.008** A National Federation shall be obliged to initiate a disciplinary procedure against the licence holders concerned whenever it becomes aware of an infringement of the UCI Regulations for which it is competent. 
 
+The National Federation must ensure a fair procedure for its licence holders. 
 
-A race incident, whether it has been sanctioned, not sanctioned or escaped the attention
-of the Commissaires’ Panel, may not be reviewed, unless the improper conduct
-constitutes an infringement within the jurisdiction of the Disciplinary Commission in
-accordance with this Part.
+## **Referral by the UCI** 
 
+- **12.5.009** If, in the event of an infringement of the UCI regulations, a National Federation does not act, the UCI, after having requested that this should happen, shall have the right to refer to the Disciplinary Commission which shall subsequently have exclusive competence to deal with the case. 
 
-If a commissaire considers that a race incident is also likely to constitute an infringement
-within the jurisdiction of the Disciplinary Commission, he must report this to the UCI.
+Moreover, the National Federation in question shall be liable to disciplinary sanctions. 
 
+## **UCI Appeals** 
 
-**Notification**
-**12.5.002** Decisions are notified by means of the publication of a communiqué by the
-Commissaires’ Panel. They may also be notified verbally to the individual in question or
-his team.
+- **12.5.010** The UCI shall have the right to appeal any disciplinary decision made by a National Federation. This right shall be set out in the regulations of National Federations. Failing this, an appeal may be lodged with the Disciplinary Commission which shall then have exclusive jurisdiction. 
 
+## **Delegation of competence** 
 
-Any appeal under the terms of article 12.4.001 must be lodged within ten days of
-notification of the decision.
+- **12.5.011** The Disciplinary Commission shall exercise the Management Committee’s competence to impose fines on National Federations. The competence of the Management Committee to suspend National Federations cannot be delegated. 
 
+E1125 
 
-The Disciplinary Commission may, at its own initiative or upon request, decide to
-suspend the implementation of a decision by the Commissaires’ Panel.
+18 
 
+DISCIPLINE AND PROCEDURES 
 
-**§ 2** **Disciplinary Commission**
+**UCI CYCLING REGULATIONS** 
 
-**Composition**
-**12.5.003** The Disciplinary Commission is composed of a President and members appointed by
-the UCI Management Committee.
+## **Appeals to the UCI** 
 
+- **12.5.012** If, according to a National Federation’s regulations, a licence holder does not have the option to bring an appeal regarding a decision against him, he may lodge an appeal with the UCI Disciplinary Commission if a suspension of one month or more has been imposed. This appeal must be lodged within 30 days of the communication or, failing that, of the publication of the decision taken. The Disciplinary Commission decides in the final instance. 
 
-The members of the Disciplinary Commission may not exercise any function for the UCI
-nor be UCI employees or Commission members, with the exception of the UCI Arbitral
-Board.
+## **§ 4 Court of Arbitration for Sport (CAS)** 
 
+## **Appeals** 
 
-Three members of the Disciplinary Commission shall be make up the Disciplinary
-Commission’s Road Sub-Committee, which deals with cases related to road cycling as
-per articles 12.5.004 and 12.6.021 and subsequent.
+- **12.5.013** Decisions of the Disciplinary Commission may be appealed to the Court of Arbitration for Sport. 
 
+Only the UCI and the parties to the procedure may appeal the decision of the Disciplinary Commission. 
 
-The President of the Disciplinary Commission cannot serve more than two terms of four
-years in total, whether continuously or interruptedly. He/she can continue to serve as a
-member in between terms as President or after reaching the term limit.
+## **Time limits for appeal** 
 
+- **12.5.014** Appeals must be filed with the Court of Arbitration for Sport within 21 days of the date the appellant was notified of the appealable decision. 
 
-E1125 DISCIPLINE AND PROCEDURES 16
+E1125 
 
+19 
 
-**UCI CYCLING REGULATIONS**
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-_(text modified on 5.05.23; 2.02.24)._
+## **Chapter VI PROCEDURE – DISCIPLINARY COMMISSION** 
 
+## **§ 1 Preliminary provision** 
 
-**Jurisdiction**
-**12.5.004** Unless otherwise specifically provided, the Disciplinary Commission has jurisdiction to
-judge and sanction infringements contained in this Part and the UCI Regulations. This
-jurisdiction may be exercised regardless of whether the alleged violation has already
-been sanctioned by the Commissaires’ Panel in accordance with the table of race
-incidents.
+## **Principle** 
 
+- **12.6.001** The provisions of this chapter are intended to ensure the simple, efficient and speedy handling of the cases submitted, in particular through the cooperation of the parties and representatives involved, while respecting the essential procedural guarantees and in particular the right to be heard. 
 
-The Disciplinary Commission also has jurisdiction concerning race incidents in the
-following circumstances:
+Except in cases of appeal pursuant to article 12.4.001, cases are referred to the Disciplinary Commission solely by the UCI. 
 
+The Disciplinary Commission shall determine the applicable procedure taking into account all procedural guarantees. 
 
-         - To hear appeals against the fines listed under the terms of article 12.4.001 lit. a to d.
-Such appeals must contain a description of the events and a copy of the decision by
-the Commissaires’ Panel that is contested.
+Any procedural issue which is not provided for in this Part or in the UCI Regulations shall be decided by the Disciplinary Commission. 
 
+_(text modified on 5.05.23)._ 
 
-         - To decide in first instance all race incident infringements which i) may have an
-influence on the sporting conduct or result of an event, or ii) which concern the
-unauthorised use of equipment, or iii) which relate to the ineligibility of a rider to take
-part in an event, or iv) were susceptible of causing a risk of safety. In either of these
-circumstances, the Disciplinary Commission shall have jurisdiction to review the
-infringement in case the facts were not observed by the Commissaires’ Panel or in
-case all relevant facts for the assessment of the infringement were not available at
-the time the Commissaires’ Panel disbanded. In the latter case, the decision of the
-Disciplinary Commission replaces the decision of the Commissaires’ Panel, whether
-a sanction was imposed or not. The Disciplinary Commission may apply sanctions
-which are provided for in the discipline’s table of race incidents and/or those listed in
-article 12.1.002.
+## **§ 2 Assignment of cases** 
 
+## **Appointment of the judge by the Secretariat** 
 
-The Road Sub-Committee has jurisdiction to judge and sanction infringements under the
-jurisdiction of the Disciplinary Commission which meet the following cumulative
-requirements:
+- **12.6.002** As soon as the procedure is opened, the Secretariat shall appoint a single judge from among the members of the Disciplinary Commission in consultation with the President of the Disciplinary Commission. 
 
-         - The infringement is committed in the context of UCI WorldTour and UCI ProSeries
-events for men and UCI Women’s WorldTour and UCI ProSeries for women;
+Depending on the circumstances, the Secretariat may decide to appoint a panel of three judges. 
 
-         - The circumstances do not warrant the imposition of sanctions in excess of 30 days
-of suspension and/or 5’000 CHF of fine;
+## **§ 3 Impartiality and challenge** 
 
+## **Impartiality** 
 
-         - The main facts which are relevant for the assessment of the infringement are readily
-available.
+- **12.6.003** The Disciplinary Commission takes decisions in a completely impartial manner. 
 
-The Disciplinary Commission shall assess the admissibility of the cases referred to it
-and may refer any case which it considers inadmissible or which does not fall within its
-competence to the UCI or any other competent judicial body.
+## **Challenge** 
 
+- **12.6.004** If the impartiality of a member of the Disciplinary Commission can legitimately be questioned, he cannot be appointed to rule on the case in question. 
 
-_(text modified on 3.06.21; 5.05.23; 2.02.24; 1.10.25)._
+Members of the Disciplinary Commission shall immediately disclose any circumstance likely to affect their impartiality. 
 
+Any request for challenge must be sent to the Secretariat within seven (7) days of the party requesting the challenge becoming aware of, or ought reasonably to have become aware of, the motive of the challenge. 
 
-**Secretariat**
-**12.5.005** The UCI Management Committee shall provide the Disciplinary Commission with a
-Secretariat responsible for all administrative tasks, communications and notifications by
-the Disciplinary Commission.
+A decision concerning a challenge request against a member of the Disciplinary Commission shall be taken by the Commission’s President, after having invited the member in question to submit his observations in writing. The decision cannot be the subject of a separate appeal. 
 
+If the request for challenge concerns the President of the Disciplinary Commission, the Secretariat shall appoint another member to decide on the request. 
 
-All correspondence to the Disciplinary Commission shall be sent to the Secretariat at the
-following address:
+E1125 
 
+20 
 
-E1125 DISCIPLINE AND PROCEDURES 17
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-**UCI CYCLING REGULATIONS**
+## **§ 4 Procedure** 
 
+## **Language of the procedure** 
 
-UCI Disciplinary Commission
-c/o Union Cycliste Internationale
+- **12.6.005** The procedure is conducted in one of the two official languages of the UCI, namely English or French. 
 
-CH-1860 Aigle
-Disciplinary.Commission@uci.ch
+The Disciplinary Commission shall determine the language to be used during the procedure. A document drawn up in another language must be accompanied by a translation into the language of the procedure, at the expense of the party submitting the document. 
 
+The Disciplinary Commission is free to accept or disregard a document submitted in a language other than that of the procedure. The Disciplinary Commission may dispense with the translation of documents in a language understood by the parties and the Disciplinary Commission. 
 
-The Secretariat shall be responsible for sending any notifications and communications
-to parties on behalf of the Disciplinary Commission. Notifications and communications
-shall be sent to the email addresses provided by the parties.
+## **Written procedure - Hearing** 
 
+- **12.6.006** The procedure may be conducted in writing. The parties present written observations and evidence. 
 
-**Confidentiality**
-**12.5.006** The Disciplinary Commission shall ensure that any information disclosed in respect of
-the procedure which is not in the public domain shall remain confidential.
+The Disciplinary Commission may, on its own initiative or at the request of one of the parties, summon the parties to a hearing. 
 
+The hearings may be conducted by electronic means (telephone or video conference). 
 
-All parties, as well as the Secretariat, witnesses, experts, interpreters or any other
-person involved in the procedure are required to respect the confidential nature of any
-information of which they become aware during the procedure.
+The hearing shall be conducted in the language of the procedure. Each party may be assisted, at its own expense, by an independent interpreter. The parties are responsible for ensuring the participation in the hearing of the interpreters required for the witnesses and experts they have requested. The Disciplinary Commission may dispense with interpreting for a language understood by the parties and the Disciplinary Commission. 
 
+The Disciplinary Commission may limit or refuse the appearance of a witness or expert, or all or part of their testimony, if it is not considered relevant. 
 
-However, the above paragraph does not restrict the UCI's right to make public the
-existence and progress of an ongoing case, as well as its outcome.
+After the conclusion of the hearing, the parties are not authorised to provide additional evidence or written conclusions, unless the Disciplinary Commission decides otherwise. 
 
+The Disciplinary Commission may proceed and render its decision even if a party, witness, expert or interpreter does not appear at the hearing. 
 
-**§ 3** **National Federations**
+## **Further investigation** 
 
-**Competence**
-**12.5.007** Race incidents occurring during events on a national calendar are judged and
-sanctioned by the National Federation of the organiser of the event according to its own
-rules.
+- **12.6.007** In principle, the Disciplinary Commission reaches a decision on the basis of information submitted by the parties. However, the Commission may proceed with further investigative measures. 
 
+The Disciplinary Commission may, in particular, and at any time, require one or more parties to provide further written submissions, produce complementary documentation or submit decorations from additional witnesses. 
 
-National Federations may not introduce other race incidents that constitute
-infringements, nor sanctions, other than those contained in this Part.
+The Commission may also conduct investigations (summons of witnesses, appointing an expert, etc.). 
 
+E1125 
 
-**Obligation to prosecute**
-**12.5.008** A National Federation shall be obliged to initiate a disciplinary procedure against the
-licence holders concerned whenever it becomes aware of an infringement of the UCI
-Regulations for which it is competent.
+21 
 
+DISCIPLINE AND PROCEDURES 
 
-The National Federation must ensure a fair procedure for its licence holders.
+**UCI CYCLING REGULATIONS** 
 
+## **§ 5 Evidence** 
 
-**Referral by the UCI**
-**12.5.009** If, in the event of an infringement of the UCI regulations, a National Federation does not
-act, the UCI, after having requested that this should happen, shall have the right to refer
-to the Disciplinary Commission which shall subsequently have exclusive competence to
-deal with the case.
+## **Miscellaneous means of evidence** 
 
+- **12.6.008** Infringements may be established by any reliable means of evidence. 
 
-Moreover, the National Federation in question shall be liable to disciplinary sanctions.
+The means of evidence are, in particular: 
 
+- a) documents; 
 
-**UCI Appeals**
-**12.5.010** The UCI shall have the right to appeal any disciplinary decision made by a National
-Federation. This right shall be set out in the regulations of National Federations. Failing
-this, an appeal may be lodged with the Disciplinary Commission which shall then have
-exclusive jurisdiction.
+- b) official reports; 
 
-**Delegation of competence**
-**12.5.011** The Disciplinary Commission shall exercise the Management Committee’s competence
-to impose fines on National Federations. The competence of the Management
-Committee to suspend National Federations cannot be delegated.
+- c) the statements of the parties; 
 
+- d) witness statements; 
 
-E1125 DISCIPLINE AND PROCEDURES 18
+- e) audio or video recordings; 
 
+- f) expert opinions; 
 
-**UCI CYCLING REGULATIONS**
+- g) any other evidence relevant to the case. 
 
+## **Statements made by commissaires** 
 
-**Appeals to the UCI**
-**12.5.012** If, according to a National Federation’s regulations, a licence holder does not have the
-option to bring an appeal regarding a decision against him, he may lodge an appeal with
-the UCI Disciplinary Commission if a suspension of one month or more has been
-imposed. This appeal must be lodged within 30 days of the communication or, failing
-that, of the publication of the decision taken. The Disciplinary Commission decides in the
-final instance.
+- **12.6.009** Statements made by commissaires in reports and minutes shall have probative force unless proven otherwise. 
 
-**§ 4** **Court of Arbitration for Sport (CAS)**
+## **Free assessment of evidence** 
 
-**Appeals**
-**12.5.013** Decisions of the Disciplinary Commission may be appealed to the Court of Arbitration
-for Sport.
+- **12.6.010** The Disciplinary Commission freely assesses the evidence. In particular, it may take into consideration the attitude of the parties, for example failure to comply with a personal summons, refusal to answer a question from the Disciplinary Commission or produce the required means of evidence. 
 
+## **Burden and standard of proof** 
 
-Only the UCI and the parties to the procedure may appeal the decision of the Disciplinary
-Commission.
+- **12.6.011** The burden of proof for infringements of the provisions of this Part shall lie with the UCI. The UCI shall establish the infringement of a provision of the UCI Regulations to the comfortable satisfaction of the Disciplinary Commission. 
 
+## **§ 6 Notification, time limits and entry of decisions into effect** 
 
-**Time limits for appeal**
-**12.5.014** Appeals must be filed with the Court of Arbitration for Sport within 21 days of the date
-the appellant was notified of the appealable decision.
+## **Principle** 
 
+- **12.6.012** Unless otherwise provided for in this Part 12, the Disciplinary Commission shall fix the procedural time limits. 
 
-E1125 DISCIPLINE AND PROCEDURES 19
+If a party does not respond within the time limit set by the Disciplinary Commission, the latter may nevertheless proceed to investigate the case and pronounce its decision. 
 
+Once it has been referred to, the Disciplinary Commission is not bound by the conclusions of the parties. 
 
-**UCI CYCLING REGULATIONS**
+## **Notification** 
 
-## **Chapter VI PROCEDURE – DISCIPLINARY COMMISSION**
+- **12.6.013** A communication shall be considered as notified as soon as it has been sent to the addressees by email, unless the Disciplinary Commission decides otherwise. The burden of proof that the addressee was, without his fault, not in a position to have knowledge of such communication shall be on the addressee. 
 
+Notifications may also be sent to the addressee’s National Federation. These shall be considered to have been received by the addressee three days after dispatch to the National Federation. 
 
-**§ 1** **Preliminary provision**
+E1125 
 
-**Principle**
-**12.6.001** The provisions of this chapter are intended to ensure the simple, efficient and speedy
-handling of the cases submitted, in particular through the cooperation of the parties and
-representatives involved, while respecting the essential procedural guarantees and in
-particular the right to be heard.
+22 
 
-Except in cases of appeal pursuant to article 12.4.001, cases are referred to the
-Disciplinary Commission solely by the UCI.
+DISCIPLINE AND PROCEDURES 
 
+**UCI CYCLING REGULATIONS** 
 
-The Disciplinary Commission shall determine the applicable procedure taking into
-account all procedural guarantees.
+## **Extension of time limits** 
 
-Any procedural issue which is not provided for in this Part or in the UCI Regulations shall
-be decided by the Disciplinary Commission.
+- **12.6.014** The Disciplinary Commission may, upon a reasoned request, extend the time limits, provided that the request is made before the expiry of the initial time limit set by the Disciplinary Commission or established in compliance with this Part. 
 
-_(text modified on 5.05.23)._
+## **Entry into effect of decisions** 
 
-**§ 2** **Assignment of cases**
+- **12.6.015** Unless otherwise specified, decisions shall enter into effect immediately after notification of the operative part. 
 
-**Appointment of the judge by the Secretariat**
-**12.6.002** As soon as the procedure is opened, the Secretariat shall appoint a single judge from
-among the members of the Disciplinary Commission in consultation with the President
-of the Disciplinary Commission.
+The Disciplinary Commission may decide to communicate the operative part of the decision to the parties before providing the associated reasons. 
 
+## **§ 7 Procedural costs** 
 
-Depending on the circumstances, the Secretariat may decide to appoint a panel of three
-judges.
+## **Procedural costs in the event of the termination of the procedure without imposition of a sanction** 
 
+- **12.6.016** Unless otherwise decided, the UCI shall bear the costs of a procedure in the event of the termination of the procedure without the imposition of a sanction. 
 
-**§ 3** **Impartiality and challenge**
+A party may be obliged to pay all or part of the costs in the event of the termination of the procedure when it can be reproached for having initiated the procedure or hindering the progress of the procedure. 
 
-**Impartiality**
-**12.6.003** The Disciplinary Commission takes decisions in a completely impartial manner.
+## **Procedural costs in the event of a sanction** 
 
-**Challenge**
-**12.6.004** If the impartiality of a member of the Disciplinary Commission can legitimately be
-questioned, he cannot be appointed to rule on the case in question.
+- **12.6.017** The party that is sanctioned bears the costs of the procedure. 
 
+If several parties are sanctioned, the costs of the procedure are distributed according to the parties’ degrees of culpability. 
 
-Members of the Disciplinary Commission shall immediately disclose any circumstance
-likely to affect their impartiality.
+The procedural costs may be reduced to a contribution or waived depending on the circumstances, in particular taking into account the financial situation of the parties. 
 
+## **Procedural allowance** 
 
-Any request for challenge must be sent to the Secretariat within seven (7) days of the
-party requesting the challenge becoming aware of, or ought reasonably to have become
-aware of, the motive of the challenge.
+- **12.6.018** No allowances are awarded for procedures brought before the Disciplinary Commission apart from in exceptional circumstances and at the discretion of the Disciplinary Commission. 
 
+## **§ 8 Acceptance of Consequences** 
 
-A decision concerning a challenge request against a member of the Disciplinary
-Commission shall be taken by the Commission’s President, after having invited the
-member in question to submit his observations in writing. The decision cannot be the
-subject of a separate appeal.
+## **Principle** 
 
+- **12.6.019** The UCI may propose an Acceptance of Consequences to any person or entity who acknowledges the facts alleged against them. Such acceptance shall constitute an agreement between the UCI and the person or entity concerned and shall terminate the proceedings. 
 
-If the request for challenge concerns the President of the Disciplinary Commission, the
-Secretariat shall appoint another member to decide on the request.
+The agreement must be ratified by the Disciplinary Commission. 
 
+## **§ 9 Official languages** 
 
-E1125 DISCIPLINE AND PROCEDURES 20
+## **Principle** 
 
+- **12.6.020** This Part exists in the UCI’s two official languages, French and English. In the case of any discrepancy, the French version shall prevail. 
 
-**UCI CYCLING REGULATIONS**
+E1125 
 
+23 
 
-**§ 4** **Procedure**
+DISCIPLINE AND PROCEDURES 
 
-**Language of the procedure**
-**12.6.005** The procedure is conducted in one of the two official languages of the UCI, namely
-English or French.
+**UCI CYCLING REGULATIONS** 
 
-The Disciplinary Commission shall determine the language to be used during the
-procedure. A document drawn up in another language must be accompanied by a
-translation into the language of the procedure, at the expense of the party submitting the
-document.
+## **§ 10 Road Sub-Committee** 
 
-The Disciplinary Commission is free to accept or disregard a document submitted in a
-language other than that of the procedure. The Disciplinary Commission may dispense
-with the translation of documents in a language understood by the parties and the
-Disciplinary Commission.
+- **12.6.021** The rules of procedure of the Disciplinary Commission shall apply to the proceedings before the Road Sub-Committee insofar as they do not contradict any of provisions below. In case of discrepancy, the articles below shall prevail. 
 
-**Written procedure - Hearing**
-**12.6.006** The procedure may be conducted in writing. The parties present written observations
-and evidence.
+- **12.6.022** The UCI shall determine if a case is submitted to the Disciplinary Commission or the Road Sub-Committee. Such decision shall not be subject to appeal. 
 
+- **12.6.023** Cases referred to the Road Sub-Committee shall be dealt with by a Single Judge appointed by the Secretariat of the Disciplinary Commission. 
 
-The Disciplinary Commission may, on its own initiative or at the request of one of the
-parties, summon the parties to a hearing.
+- **12.6.024** The Road Sub-Committee shall conduct proceedings in an expedited manner and, in any case, shall adjudicate cases within 30 days of the UCI’s referral. 
 
+- **12.6.025** The Single Judge appointed to deal with the case shall either adjudicate on the basis of the UCI’s referral or summon a hearing by video-conference. In case the Single Judge summons a video-conference, it shall be held within 15 days of the UCI’s referral. 
 
-The hearings may be conducted by electronic means (telephone or video conference).
+- **12.6.026** In case the Single Judge determines that they are not able to adjudicate the case in a fair manner without further procedural steps, they shall refer the case back to the UCI for referral to the Disciplinary Commission. 
 
+- **12.6.027** The Single Judge shall notify the operative part of their decision. In case a sanction is imposed, the party against whom the proceedings are directed may request the reasoned decision on condition of paying a fee of 3’000 CHF. 
 
-The hearing shall be conducted in the language of the procedure. Each party may be
-assisted, at its own expense, by an independent interpreter. The parties are responsible
-for ensuring the participation in the hearing of the interpreters required for the witnesses
-and experts they have requested. The Disciplinary Commission may dispense with
-interpreting for a language understood by the parties and the Disciplinary Commission.
+- **12.6.028** The costs of the Road Sub-Committee, except the fee for issuance of a reasoned decision as per article 12.6.028, are born by the UCI. 
 
+- **12.6.029** Appeals against decisions of the Road Sub-Committee may be filed with the Court of Arbitration for Sport (CAS) within a deadline of 10 days from receipt of the reasoned decision. 
 
-The Disciplinary Commission may limit or refuse the appearance of a witness or expert,
-or all or part of their testimony, if it is not considered relevant.
+_(text modified on 2.02.24)_ 
 
+E1125 
 
-After the conclusion of the hearing, the parties are not authorised to provide additional
-evidence or written conclusions, unless the Disciplinary Commission decides otherwise.
+24 
 
+DISCIPLINE AND PROCEDURES 
 
-The Disciplinary Commission may proceed and render its decision even if a party,
-witness, expert or interpreter does not appear at the hearing.
+**UCI CYCLING REGULATIONS** 
 
+## **Chapter VII  PROCEDURE - ARBITRAL BOARD** 
 
-**Further investigation**
-**12.6.007** In principle, the Disciplinary Commission reaches a decision on the basis of information
-submitted by the parties. However, the Commission may proceed with further
-investigative measures.
+## **§ 1 General information** 
 
+- **12.7.001** Unless otherwise specified, any dispute between licence holders or persons or authorities subject to the UCI Constitution and Regulations over the application or interpretation thereof, shall be submitted to the UCI Arbitral Board (hereinafter Arbitral Board). 
 
-The Disciplinary Commission may, in particular, and at any time, require one or more
-parties to provide further written submissions, produce complementary documentation
-or submit decorations from additional witnesses.
+_(text modified on 6.04.05; 1.01.10)._ 
 
+- **12.7.002** A case shall be lodged by means of a petition. 
 
-The Commission may also conduct investigations (summons of witnesses, appointing
-an expert, etc.).
+_(text modified on 1.01.10)._ 
 
+- **12.7.003** [abrogated on 1.01.10]. 
 
-E1125 DISCIPLINE AND PROCEDURES 21
+- **12.7.004** Disputes between National Federations shall be submitted to CAS in accordance with article 75 of the UCI Constitution. 
 
+_(text modified on 1.01.10)._ 
 
-**UCI CYCLING REGULATIONS**
+- **12.7.005** Licence holders and other parties subject to the UCI Constitution and Regulations shall submit all disputes and disagreements to the authorities stipulated in the Constitution and Regulations. 
 
+Any person, organisation or body which fails to enact the decision promptly and in full shall be suspended as of right until the decision has been completely implemented. 
 
-**§ 5** **Evidence**
+_(text modified on 1.07.00_ ). 
 
-**Miscellaneous means of evidence**
-**12.6.008** Infringements may be established by any reliable means of evidence.
+- **12.7.006** An appeal may only be brought before the ordinary courts after all the appeals provided for by the UCI Constitution and Regulations have been exhausted. 
 
+- **12.7.007** Any court action initiated against the UCI shall be brought exclusively before the competent court of the Swiss canton in which the UCI has its headquarters, even when third-party or guarantee proceedings are involved. The plaintiff may not claim any related actions whatsoever. 
 
-The means of evidence are, in particular:
+## **§ 2 UCI Arbitral Board** 
 
+## **Competence** 
 
-a) documents;
-b) official reports;
-c) the statements of the parties;
-d) witness statements;
-e) audio or video recordings;
-f) expert opinions;
-g) any other evidence relevant to the case.
+- **12.7.008** Unless otherwise specified, the Arbitral Board shall decide on: 
 
+   - a) any dispute between licence holders and/or persons and/or entities subject to the UCI Constitution and Regulations when a dispute concerns the application or interpretation thereof; 
 
-**Statements made by commissaires**
-**12.6.009** Statements made by commissaires in reports and minutes shall have probative force
-unless proven otherwise.
+   - b) any other form of contractual dispute between the same parties as far as it relates to the sport of cycling and that the parties have not expressly agreed an alternative system of resolution of the dispute. In particular, this shall apply to contracts between riders and teams. In case of doubt, the competence of the Arbitral Board is presumed. 
 
-**Free assessment of evidence**
-**12.6.010** The Disciplinary Commission freely assesses the evidence. In particular, it may take into
-consideration the attitude of the parties, for example failure to comply with a personal
-summons, refusal to answer a question from the Disciplinary Commission or produce
-the required means of evidence.
+E1125 
 
-**Burden and standard of proof**
-**12.6.011** The burden of proof for infringements of the provisions of this Part shall lie with the UCI.
-The UCI shall establish the infringement of a provision of the UCI Regulations to the
-comfortable satisfaction of the Disciplinary Commission.
+25 
 
-**§ 6** **Notification, time limits and entry of decisions into effect**
+DISCIPLINE AND PROCEDURES 
 
-**Principle**
-**12.6.012** Unless otherwise provided for in this Part 12, the Disciplinary Commission shall fix the
-procedural time limits.
+**UCI CYCLING REGULATIONS** 
 
+The competences of the Licence Commission and the Court of Arbitration for Sport (hereinafter CAS) are reserved. 
 
-If a party does not respond within the time limit set by the Disciplinary Commission, the
-latter may nevertheless proceed to investigate the case and pronounce its decision.
+_(text modified on 6.04.05; 1.01.10)._ 
 
+- **12.7.009** The Arbitral Board does not have competence over affairs concerning disciplinary matters, doping, safety and the conditions of sport or the World Championships or Olympic Games. 
 
-Once it has been referred to, the Disciplinary Commission is not bound by the
-conclusions of the parties.
+- **12.7.010** The Arbitral Board shall seek to resolve disputes by conciliation whenever possible. In this context, the sole arbitrator or panel may apply appropriate measures at any time. 
 
+The sole arbitrator or panel may, at any time, decide to resolve the dispute in accordance with the Arbitral Board’s rules of procedure. 
 
-**Notification**
-**12.6.013** A communication shall be considered as notified as soon as it has been sent to the
-addressees by email, unless the Disciplinary Commission decides otherwise. The
-burden of proof that the addressee was, without his fault, not in a position to have
-knowledge of such communication shall be on the addressee.
+An agreement by the parties may be the subject of a decision by the Arbitral Board. 
 
+_(text modified on 6.04.05; 1.01.10; 1.01.16)._ 
 
-Notifications may also be sent to the addressee’s National Federation. These shall be
-considered to have been received by the addressee three days after dispatch to the
-National Federation.
+## **Procedures Rules of Procedure of the Arbitral Board** 
 
+## **Composition of the panel** 
 
-E1125 DISCIPLINE AND PROCEDURES 22
+- **12.7.011** Subject to the provisions below, cases brought before the Arbitral Board shall be heard by a panel of three members. 
 
+A member is appointed by the plaintiff and one by the defendant. The President of the panel is appointed by the President of the Arbitral Board. 
 
-**UCI CYCLING REGULATIONS**
+The appointment by the plaintiff shall be made with the petition and the appointment by the defendant within the time limit set by the President of the Arbitral Board. If a party should fail to appoint a member, the appointment is made by the President of the Arbitral Board. 
 
+In the event that there are multiple plaintiffs or defendants, the appointment shall be made by the mutual agreement of the parties in question (plaintiffs and/or defendants respectively). Failing agreement and the communication of the name of the appointed arbitrator within the set deadline, the appointment shall be made by the President of the Arbitral Board. 
 
-**Extension of time limits**
-**12.6.014** The Disciplinary Commission may, upon a reasoned request, extend the time limits,
-provided that the request is made before the expiry of the initial time limit set by the
-Disciplinary Commission or established in compliance with this Part.
+If the President has appointed a member of the panel, he may not himself become a member of the panel. 
 
-**Entry into effect of decisions**
-**12.6.015** Unless otherwise specified, decisions shall enter into effect immediately after notification
-of the operative part.
+The President may delegate other tasks incumbent on him under the rules of procedure to a person appointed in accordance with article 12.7.012 below. 
 
+_(text modified on 1.01.10)._ 
 
-The Disciplinary Commission may decide to communicate the operative part of the
-decision to the parties before providing the associated reasons.
+- **12.7.012** The Arbitral Board is composed of a President and members appointed by the UCI Management Committee. 
 
+The members of the Arbitral Board may not exercise any function for the UCI nor be UCI employees or Commission members, with the exception of the UCI Disciplinary Commission. 
 
-**§ 7** **Procedural costs**
+E1125 
 
-**Procedural costs in the event of the termination of the procedure without**
-**imposition of a sanction**
-**12.6.016** Unless otherwise decided, the UCI shall bear the costs of a procedure in the event of
-the termination of the procedure without the imposition of a sanction.
+26 
 
+DISCIPLINE AND PROCEDURES 
 
-A party may be obliged to pay all or part of the costs in the event of the termination of
-the procedure when it can be reproached for having initiated the procedure or hindering
-the progress of the procedure.
+**UCI CYCLING REGULATIONS** 
 
+The President of the Arbitral Board cannot serve more than two terms of four years in total, whether continuously or interruptedly. He/she can continue to serve as a member in between terms as President or after reaching the term limit. 
 
-**Procedural costs in the event of a sanction**
-**12.6.017** The party that is sanctioned bears the costs of the procedure.
+_(text modified on 1.01.10; 5.05.23)._ 
 
+- **12.7.013** The panel shall be composed of a single member in the following cases: 
 
-If several parties are sanctioned, the costs of the procedure are distributed according to
-the parties’ degrees of culpability.
+   - with the agreement of the parties. In this case, the single member shall be appointed by the mutual consent of the parties or, failing agreement on this point, by the President of the Arbitral Board, and in any case, from among the people appointed according to article 12.7.012; 
 
+   - upon the decision of the President of the Arbitral Board (particularly in urgent cases or when the disputed sum is less than CHF 50,000). 
 
-The procedural costs may be reduced to a contribution or waived depending on the
-circumstances, in particular taking into account the financial situation of the parties.
+The sole arbitrator may not have the nationality of one of the parties, unless the other party so agrees. In this regard, the UCI is considered to be a party without nationality. 
 
+The reference to the “President of the panel” or the “panel” in this chapter not only includes the “President of the panel” of three arbitrators and the complete “panel” of three arbitrators, but also, if applicable, its single member, i.e. the sole arbitrator. 
 
-**Procedural allowance**
-**12.6.018** No allowances are awarded for procedures brought before the Disciplinary Commission
-apart from in exceptional circumstances and at the discretion of the Disciplinary
-Commission.
+_(text modified on 1.01.10)._ 
 
-**§ 8** **Acceptance of Consequences**
+- **12.7.014** Any arbitrator with a personal interest in a case must withdraw from it. 
 
-**Principle**
-**12.6.019** The UCI may propose an Acceptance of Consequences to any person or entity who
-acknowledges the facts alleged against them. Such acceptance shall constitute an
-agreement between the UCI and the person or entity concerned and shall terminate the
-proceedings.
+- **12.7.015** Any dispute concerning the composition of the panel shall be settled by the President of the Arbitral Board or, if it involves him personally, by his deputy. 
 
+_(text modified on 1.01.10)._ 
 
-The agreement must be ratified by the Disciplinary Commission.
+## **Introduction and preparation** 
 
+- **12.7.016** All cases are lodged by means of a petition including: 
 
-**§ 9** **Official languages**
+   - i. the surname and first name or denomination of the plaintiff, 
 
-**Principle**
-**12.6.020** This Part exists in the UCI’s two official languages, French and English. In the case of
-any discrepancy, the French version shall prevail.
+   - ii. the full address of the domicile or headquarters of the plaintiff, 
 
+   - iii. if necessary, the elected domicile to which all communications on the procedure will be sent, 
 
-E1125 DISCIPLINE AND PROCEDURES 23
+   - iv. the subject of the petition, 
 
+   - v. the party or parties against whom the petition is being lodged with his (their) full address(es), 
 
-**UCI CYCLING REGULATIONS**
+   - vi. the reasons for the petition, 
 
+   - vii. the plaintiff’s signature, viii. a list of enclosures accompanying the petition. 
 
-**§ 10** **Road Sub-Committee**
+      - Items i, ii, iv, v, vi and vii shall be mandatory, failing which the petition shall be invalid. 
 
-**12.6.021** The rules of procedure of the Disciplinary Commission shall apply to the proceedings
-before the Road Sub-Committee insofar as they do not contradict any of provisions
-below. In case of discrepancy, the articles below shall prevail.
+_(text modified on 1.01.10)._ 
 
-**12.6.022** The UCI shall determine if a case is submitted to the Disciplinary Commission or the
-Road Sub-Committee. Such decision shall not be subject to appeal.
+- **12.7.017** The petition shall be sent to the Arbitral Board and to UCI headquarters. The UCI Secretariat shall send a copy of the petition and enclosures to each defendant. 
 
-**12.6.023** Cases referred to the Road Sub-Committee shall be dealt with by a Single Judge
-appointed by the Secretariat of the Disciplinary Commission.
+_(text modified on 1.01.10)._ 
 
-**12.6.024** The Road Sub-Committee shall conduct proceedings in an expedited manner and, in
-any case, shall adjudicate cases within 30 days of the UCI’s referral.
+E1125 
 
-**12.6.025** The Single Judge appointed to deal with the case shall either adjudicate on the basis of
-the UCI’s referral or summon a hearing by video-conference. In case the Single Judge
-summons a video-conference, it shall be held within 15 days of the UCI’s referral.
+27 
 
-**12.6.026** In case the Single Judge determines that they are not able to adjudicate the case in a
-fair manner without further procedural steps, they shall refer the case back to the UCI
-for referral to the Disciplinary Commission.
+DISCIPLINE AND PROCEDURES 
 
-**12.6.027** The Single Judge shall notify the operative part of their decision. In case a sanction is
-imposed, the party against whom the proceedings are directed may request the
-reasoned decision on condition of paying a fee of 3’000 CHF.
+**UCI CYCLING REGULATIONS** 
 
-**12.6.028** The costs of the Road Sub-Committee, except the fee for issuance of a reasoned
-decision as per article 12.6.028, are born by the UCI.
+- **12.7.018** The President of the panel, or, in cases of urgency, the President of the Arbitral Board, shall set the time limits within which the defendant(s) must provide a response and associated documents. 
 
-**12.6.029** Appeals against decisions of the Road Sub-Committee may be filed with the Court of
-Arbitration for Sport (CAS) within a deadline of 10 days from receipt of the reasoned
-decision.
+The President of the panel shall lead the procedure. Where necessary, the President shall authorise other written exchanges and set the relevant time limits. 
 
+Briefs and documentation submitted after the set deadlines shall not be taken into account during the discussions, except with the agreement of all the parties or the decision of the President of the panel. 
 
-_(text modified on 2.02.24)_
+_(text modified on 1.01.10)._ 
 
+- **12.7.019** Each party shall send its briefs and documentation, as well as any other communication, to the secretariat of the Arbitral Board, each of the members of the panel and each other party. 
 
-E1125 DISCIPLINE AND PROCEDURES 24
+_(text modified on 1.01.10)._ 
 
+- **12.7.020** Any party wishing to have witnesses or an expert examined shall communicate the identity of such persons by its last brief at the latest. The party shall itself notify these persons to attend. 
 
-**UCI CYCLING REGULATIONS**
+In this case, the other parties shall automatically be entitled to have other witnesses or experts examined. If their last brief has already been presented, they shall communicate the identity of the persons to be examined as soon as possible. 
 
-## **Chapter VII PROCEDURE - ARBITRAL BOARD**
+- **12.7.021** The panel may order any investigative measure. 
 
+_(text modified on 1.01.10)._ 
 
-**§ 1** **General information**
+- **12.7.022** Should a party waive the presentation of a brief, an investigative measure or a hearing, it shall make this known as soon as possible. 
 
-**12.7.001** Unless otherwise specified, any dispute between licence holders or persons or
+## **Hearing** 
 
-authorities subject to the UCI Constitution and Regulations over the application or
-interpretation thereof, shall be submitted to the UCI Arbitral Board (hereinafter Arbitral
-Board).
+- **12.7.023** The President of the panel shall determine the place and date of the hearing at which the parties as well as any experts and witnesses will be heard. 
 
-_(text modified on 6.04.05; 1.01.10)._
+Notification to attend the hearing shall be issued by fax or registered letter. 
 
-**12.7.002** A case shall be lodged by means of a petition.
+Should the parties give their consent, a decision may be rendered without a hearing. Even without such consent and if the circumstances so justify, the panel may decide to render a decision without a hearing, based on the documentation. The decision shall be made after consulting the parties. 
 
-_(text modified on 1.01.10)._
+_(text modified on 1.01.10)._ 
 
-**12.7.003** [abrogated on 1.01.10].
+- **12.7.024** In principle, hearings shall take place at the UCI headquarters in Aigle. However, the panel may decide to hold hearings at a different venue. During the hearing, the panel may be assisted by a clerk who shall not participate in the deliberations. 
 
-**12.7.004** Disputes between National Federations shall be submitted to CAS in accordance with
+_(text modified on 1.01.10)._ 
 
-article 75 of the UCI Constitution.
+E1125 
 
-_(text modified on 1.01.10)._
+28 
 
-**12.7.005** Licence holders and other parties subject to the UCI Constitution and Regulations shall
+DISCIPLINE AND PROCEDURES 
 
-submit all disputes and disagreements to the authorities stipulated in the Constitution
-and Regulations.
+**UCI CYCLING REGULATIONS** 
 
-Any person, organisation or body which fails to enact the decision promptly and in full
-shall be suspended as of right until the decision has been completely implemented.
+- **12.7.025** Hearings shall be public unless otherwise decided by the panel at the request of one of the parties. 
 
-_(text modified on 1.07.00_ ).
+- **12.7.026** Each party shall be entitled to be represented by a lawyer or another person of its choice. The representative shall give proof of his authorisation in writing upon request. 
 
-**12.7.006** An appeal may only be brought before the ordinary courts after all the appeals provided
+Each party shall be heard as well as any witnesses and experts summoned. 
 
-for by the UCI Constitution and Regulations have been exhausted.
+_(text modified on 1.01.10)._ 
 
-**12.7.007** Any court action initiated against the UCI shall be brought exclusively before the
+## **Non-participation in the procedure** 
 
-competent court of the Swiss canton in which the UCI has its headquarters, even when
-third-party or guarantee proceedings are involved. The plaintiff may not claim any related
-actions whatsoever.
+- **12.7.027** The fact of a duly notified party not participating in the procedure shall not prevent the panel from proceeding. This is particularly the case if the defending party or parties do not file a brief or do not appear. 
 
-**§ 2** **UCI Arbitral Board**
+_(text modified on 1.01.10)._ 
 
-**Competence**
-**12.7.008** Unless otherwise specified, the Arbitral Board shall decide on:
+## **Decision** 
 
-a) any dispute between licence holders and/or persons and/or entities subject to the
+- **12.7.028** The decision shall be rendered as soon as possible after the conclusion of discussions and shall be adopted by a majority vote. 
 
-UCI Constitution and Regulations when a dispute concerns the application or
-interpretation thereof;
-b) any other form of contractual dispute between the same parties as far as it relates
+   - The decision shall mention the identity of the members who took part in the deliberations. 
 
-to the sport of cycling and that the parties have not expressly agreed an
-alternative system of resolution of the dispute. In particular, this shall apply to
-contracts between riders and teams. In case of doubt, the competence of the
-Arbitral Board is presumed.
+The original of the decision shall be signed by the President of the panel. 
 
+_(text modified on 1.01.10)._ 
 
-E1125 DISCIPLINE AND PROCEDURES 25
+- **12.7.029** The decision shall be dated and reasoned. However, the panel may announce the operative part of the decision immediately following its deliberations and give its explanations later. 
 
+- **12.7.030** A copy of the decision shall be sent to each party. 
 
-**UCI CYCLING REGULATIONS**
+   - The original shall be filed with the UCI Secretariat. 
 
+## **Costs** 
 
-The competences of the Licence Commission and the Court of Arbitration for Sport
-(hereinafter CAS) are reserved.
+- **12.7.031** The decision shall mention the costs of the procedure, including the fees of panel members. 
 
-_(text modified on 6.04.05; 1.01.10)._
+- **12.7.032** The costs of the procedure established by the Secretariat shall be met by the parties in the proportions established by the panel. The assignment of costs mainly takes into account the outcome of the procedure but also all the circumstances. A party may be required to contribute to the costs of the opposing party. 
 
-**12.7.009** The Arbitral Board does not have competence over affairs concerning disciplinary
+The parties may be asked to pay advances at the beginning of, or during, the procedure. If the plaintiff(s) do not pay the required advances within the set deadline, a final deadline will be established; if settlement is not received by this date, the petition will be considered to have been withdrawn. If advances are sought in relation to an investigative measure requested by the parties, this measure shall not proceed if the advances have not been paid. 
 
-matters, doping, safety and the conditions of sport or the World Championships or
-Olympic Games.
+_(text modified on 1.01.10)._ 
 
-**12.7.010** The Arbitral Board shall seek to resolve disputes by conciliation whenever possible. In
+## **Procedural language** 
 
-this context, the sole arbitrator or panel may apply appropriate measures at any time.
+- **12.7.033** The petition shall be drafted in French or English. The language of the petition shall be the language of the procedure, unless otherwise agreed by the parties or by a decision 
 
-The sole arbitrator or panel may, at any time, decide to resolve the dispute in accordance
-with the Arbitral Board’s rules of procedure.
+E1125 
 
-An agreement by the parties may be the subject of a decision by the Arbitral Board.
+29 
 
-_(text modified on 6.04.05; 1.01.10; 1.01.16)._
+DISCIPLINE AND PROCEDURES 
 
-**Procedures**
-**Rules of Procedure of the Arbitral Board**
+**UCI CYCLING REGULATIONS** 
 
-**Composition of the panel**
-**12.7.011** Subject to the provisions below, cases brought before the Arbitral Board shall be heard
+of the panel. All procedural documents shall therefore be written in that language, failing which they shall be considered invalid. 
 
-by a panel of three members.
+_(text modified on 1.01.10)._ 
 
-A member is appointed by the plaintiff and one by the defendant. The President of the
-panel is appointed by the President of the Arbitral Board.
+- **12.7.034** The panel may order the translation of documents written in a language other than French or English. 
 
-The appointment by the plaintiff shall be made with the petition and the appointment by
-the defendant within the time limit set by the President of the Arbitral Board. If a party
-should fail to appoint a member, the appointment is made by the President of the Arbitral
-Board.
+_(text modified on 1.01.10)._ 
 
-In the event that there are multiple plaintiffs or defendants, the appointment shall be
-made by the mutual agreement of the parties in question (plaintiffs and/or defendants
-respectively). Failing agreement and the communication of the name of the appointed
-arbitrator within the set deadline, the appointment shall be made by the President of the
-Arbitral Board.
+- **12.7.035** The parties may use a language other than the procedural language during hearings provided that they arrange for interpreting services and bear the associated costs. 
 
-If the President has appointed a member of the panel, he may not himself become a
-member of the panel.
+_(text modified on 1.01.10)._ 
 
-The President may delegate other tasks incumbent on him under the rules of procedure
-to a person appointed in accordance with article 12.7.012 below.
+## **Appeals** 
 
-_(text modified on 1.01.10)._
+- **12.7.036** The decisions of the Arbitral Board may be appealed to the Court of Arbitration for Sport in Lausanne (CAS). An appeal must be lodged within thirty days of the receipt of the reasoned decision. 
 
-**12.7.012** The Arbitral Board is composed of a President and members appointed by the UCI
+_(text modified on 6.04.05; 1.01.10)._ 
 
-Management Committee.
+E1125 
 
+30 
 
-The members of the Arbitral Board may not exercise any function for the UCI nor be UCI
-employees or Commission members, with the exception of the UCI Disciplinary
-Commission.
-
-
-E1125 DISCIPLINE AND PROCEDURES 26
-
-
-**UCI CYCLING REGULATIONS**
-
-
-The President of the Arbitral Board cannot serve more than two terms of four years in
-total, whether continuously or interruptedly. He/she can continue to serve as a member
-in between terms as President or after reaching the term limit.
-
-_(text modified on 1.01.10; 5.05.23)._
-
-**12.7.013** The panel shall be composed of a single member in the following cases:
-
-
-
-
-      - with the agreement of the parties. In this case, the single member shall be appointed
-
-by the mutual consent of the parties or, failing agreement on this point, by the
-President of the Arbitral Board, and in any case, from among the people appointed
-according to article 12.7.012;
-
-      - upon the decision of the President of the Arbitral Board (particularly in urgent cases
-
-or when the disputed sum is less than CHF 50,000).
-
-The sole arbitrator may not have the nationality of one of the parties, unless the other
-party so agrees. In this regard, the UCI is considered to be a party without nationality.
-
-The reference to the “President of the panel” or the “panel” in this chapter not only
-includes the “President of the panel” of three arbitrators and the complete “panel” of
-three arbitrators, but also, if applicable, its single member, i.e. the sole arbitrator.
-
-_(text modified on 1.01.10)._
-
-**12.7.014** Any arbitrator with a personal interest in a case must withdraw from it.
-
-**12.7.015** Any dispute concerning the composition of the panel shall be settled by the President of
-
-the Arbitral Board or, if it involves him personally, by his deputy.
-
-_(text modified on 1.01.10)._
-
-**Introduction and preparation**
-**12.7.016** All cases are lodged by means of a petition including:
-
-i. the surname and first name or denomination of the plaintiff,
-ii. the full address of the domicile or headquarters of the plaintiff,
-iii. if necessary, the elected domicile to which all communications on the procedure
-
-will be sent,
-iv. the subject of the petition,
-v. the party or parties against whom the petition is being lodged with his (their) full
-address(es),
-vi. the reasons for the petition,
-vii. the plaintiff’s signature,
-viii. a list of enclosures accompanying the petition.
-
-Items i, ii, iv, v, vi and vii shall be mandatory, failing which the petition shall be
-invalid.
-
-_(text modified on 1.01.10)._
-
-**12.7.017** The petition shall be sent to the Arbitral Board and to UCI headquarters.
-The UCI Secretariat shall send a copy of the petition and enclosures to each defendant.
-
-_(text modified on 1.01.10)._
-
-
-E1125 DISCIPLINE AND PROCEDURES 27
-
-
-**UCI CYCLING REGULATIONS**
-
-
-**12.7.018** The President of the panel, or, in cases of urgency, the President of the Arbitral Board,
-
-shall set the time limits within which the defendant(s) must provide a response and
-associated documents.
-
-The President of the panel shall lead the procedure. Where necessary, the President
-shall authorise other written exchanges and set the relevant time limits.
-
-Briefs and documentation submitted after the set deadlines shall not be taken into
-account during the discussions, except with the agreement of all the parties or the
-decision of the President of the panel.
-
-
-_(text modified on 1.01.10)._
-
-**12.7.019** Each party shall send its briefs and documentation, as well as any other communication,
-
-to the secretariat of the Arbitral Board, each of the members of the panel and each other
-party.
-
-_(text modified on 1.01.10)._
-
-**12.7.020** Any party wishing to have witnesses or an expert examined shall communicate the
-
-identity of such persons by its last brief at the latest. The party shall itself notify these
-persons to attend.
-
-In this case, the other parties shall automatically be entitled to have other witnesses or
-experts examined. If their last brief has already been presented, they shall communicate
-the identity of the persons to be examined as soon as possible.
-
-**12.7.021** The panel may order any investigative measure.
-
-_(text modified on 1.01.10)._
-
-**12.7.022** Should a party waive the presentation of a brief, an investigative measure or a hearing,
-
-it shall make this known as soon as possible.
-
-**Hearing**
-**12.7.023** The President of the panel shall determine the place and date of the hearing at which
-
-the parties as well as any experts and witnesses will be heard.
-
-Notification to attend the hearing shall be issued by fax or registered letter.
-
-Should the parties give their consent, a decision may be rendered without a hearing.
-Even without such consent and if the circumstances so justify, the panel may decide to
-render a decision without a hearing, based on the documentation. The decision shall be
-made after consulting the parties.
-
-_(text modified on 1.01.10)._
-
-**12.7.024** In principle, hearings shall take place at the UCI headquarters in Aigle. However, the
-
-panel may decide to hold hearings at a different venue. During the hearing, the panel
-may be assisted by a clerk who shall not participate in the deliberations.
-
-_(text modified on 1.01.10)._
-
-
-E1125 DISCIPLINE AND PROCEDURES 28
-
-
-**UCI CYCLING REGULATIONS**
-
-
-**12.7.025** Hearings shall be public unless otherwise decided by the panel at the request of one of
-
-the parties.
-
-**12.7.026** Each party shall be entitled to be represented by a lawyer or another person of its choice.
-
-The representative shall give proof of his authorisation in writing upon request.
-
-Each party shall be heard as well as any witnesses and experts summoned.
-
-
-_(text modified on 1.01.10)._
-
-**Non-participation in the procedure**
-**12.7.027** The fact of a duly notified party not participating in the procedure shall not prevent the
-panel from proceeding. This is particularly the case if the defending party or parties do
-not file a brief or do not appear.
-
-_(text modified on 1.01.10)._
-
-**Decision**
-**12.7.028** The decision shall be rendered as soon as possible after the conclusion of discussions
-
-and shall be adopted by a majority vote.
-The decision shall mention the identity of the members who took part in the deliberations.
-
-The original of the decision shall be signed by the President of the panel.
-
-_(text modified on 1.01.10)._
-
-**12.7.029** The decision shall be dated and reasoned. However, the panel may announce the
-
-operative part of the decision immediately following its deliberations and give its
-explanations later.
-
-**12.7.030** A copy of the decision shall be sent to each party.
-The original shall be filed with the UCI Secretariat.
-
-**Costs**
-**12.7.031** The decision shall mention the costs of the procedure, including the fees of panel
-
-members.
-
-**12.7.032** The costs of the procedure established by the Secretariat shall be met by the parties in
-
-the proportions established by the panel. The assignment of costs mainly takes into
-account the outcome of the procedure but also all the circumstances. A party may be
-required to contribute to the costs of the opposing party.
-
-The parties may be asked to pay advances at the beginning of, or during, the procedure.
-If the plaintiff(s) do not pay the required advances within the set deadline, a final deadline
-will be established; if settlement is not received by this date, the petition will be
-considered to have been withdrawn. If advances are sought in relation to an investigative
-measure requested by the parties, this measure shall not proceed if the advances have
-not been paid.
-
-_(text modified on 1.01.10)._
-
-**Procedural language**
-**12.7.033** The petition shall be drafted in French or English. The language of the petition shall be
-the language of the procedure, unless otherwise agreed by the parties or by a decision
-
-
-E1125 DISCIPLINE AND PROCEDURES 29
-
-
-**UCI CYCLING REGULATIONS**
-
-
-of the panel. All procedural documents shall therefore be written in that language, failing
-which they shall be considered invalid.
-
-_(text modified on 1.01.10)._
-
-**12.7.034** The panel may order the translation of documents written in a language other than
-
-French or English.
-
-_(text modified on 1.01.10)._
-
-**12.7.035** The parties may use a language other than the procedural language during hearings
-
-provided that they arrange for interpreting services and bear the associated costs.
-
-_(text modified on 1.01.10)._
-
-**Appeals**
-**12.7.036** The decisions of the Arbitral Board may be appealed to the Court of Arbitration for Sport
-
-in Lausanne (CAS). An appeal must be lodged within thirty days of the receipt of the
-reasoned decision.
-
-_(text modified on 6.04.05; 1.01.10)._
-
-
-E1125 DISCIPLINE AND PROCEDURES 30
-
+DISCIPLINE AND PROCEDURES 
 

@@ -5,48 +5,47 @@ source_sha256: 970417b0815411e40a0a4a09a2489a2833dfe14186694ce5e60ef1161b88f7eb
 converter: pymupdf4llm
 ---
 
-**Junior development teams - 2026 season**
+
+![](images/Junior_development_teams_2026.pdf-0001-00.png)
 
 
-_**Equipes de développement junior - saison 2026**_
+## **Junior development teams - 2026 season** 
+
+## _**Equipes de développement junior - saison 2026**_ 
 
 
-The junior development teams for the 2026 season are following.
+![](images/Junior_development_teams_2026.pdf-0001-03.png)
 
 
-**Union Cycliste Internationale**
-9 avril 2026
+The junior development teams for the 2026 season are following. 
+
+Page **1** / **3** 
+
+**Union Cycliste Internationale** 9 avril 2026 
 
 
-
-![](images/Junior_development_teams_2026.pdf-0-0.png)
-
-![](images/Junior_development_teams_2026.pdf-0-1.png)
-
-Page **1** / **3**
-
-
-![](images/Junior_development_teams_2026.pdf-1-0.png)
-
-_Veuillez trouver ci-après les équipes de développement junior pour la saison 2026._
-
-
-**Union Cycliste Internationale**
-9 avril 2026
+![](images/Junior_development_teams_2026.pdf-0002-00.png)
 
 
 
-Page **2** / **3**
+![](images/Junior_development_teams_2026.pdf-0002-01.png)
 
 
-The teams listed in the table below are the junior development teams registered for the 2026 season, in
-accordance with Article 2.1.004bis of the UCI Regulations.
+_Veuillez trouver ci-après les équipes de développement junior pour la saison 2026._ 
 
-_Les équipes figurant dans le tableau ci-dessous sont les équipes de développement junior enregistrées pour la_
-_saison 2026, conformément à l’article 2.1.004bis du Règlement UCI._
+Page **2** / **3** 
+
+**Union Cycliste Internationale** 9 avril 2026 
 
 
-|Junior development team / Equipe de développement junior|Women - Men / Femmes - Hommes|Nationality / Nationalité|
+![](images/Junior_development_teams_2026.pdf-0003-00.png)
+
+
+The teams listed in the table below are the junior development teams registered for the 2026 season, in accordance with Article 2.1.004bis of the UCI Regulations. 
+
+_Les équipes figurant dans le tableau ci-dessous sont les équipes de développement junior enregistrées pour la saison 2026, conformément à l’article 2.1.004bis du Règlement UCI._ 
+
+|**Junior development team / Equipe de développementjunior**|**Women - Men / Femmes - Hommes**|**Nationality / Nationalité**|
 |---|---|---|
 |AS BIKE RACING / FRANCE LITERIE|Women / Femmes|FRANCE|
 |ASVILLEMUR DEVO U19|Men / Hommes|FRANCE|
@@ -55,7 +54,7 @@ _saison 2026, conformément à l’article 2.1.004bis du Règlement UCI._
 |CREF VENDEE CYCLISME|Men / Hommes|FRANCE|
 |DECATHLON CMA CGM JUNIORS TEAM|Men / Hommes|FRANCE|
 |ESPOIR CYCLISTE SAINT ETIENNE LOIRE|Men / Hommes|FRANCE|
-|GERMAN JUNIOR RACING | TRV|Men / Hommes|GERMANY|
+|GERMAN JUNIOR RACING|TRV|Men / Hommes|GERMANY|
 |GROUPAMA - FDJ UNITED|Men / Hommes|FRANCE|
 |GUERIN ENERGIES - L2A AGENCEMENT U19|Men / Hommes|FRANCE|
 |MAPEI MERIDA KAŇKOVSKÝ|Men / Hommes|CZECHIA|
@@ -77,11 +76,7 @@ _saison 2026, conformément à l’article 2.1.004bis du Règlement UCI._
 
 
 
-**Union Cycliste Internationale**
-9 avril 2026
+Page **3** / **3** 
 
-
-
-Page **3** / **3**
-
+**Union Cycliste Internationale** 9 avril 2026 
 

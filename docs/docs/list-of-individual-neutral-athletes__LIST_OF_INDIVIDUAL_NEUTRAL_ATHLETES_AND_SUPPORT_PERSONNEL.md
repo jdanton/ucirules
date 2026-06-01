@@ -5,18 +5,17 @@ source_sha256: baffd386d9bc61000ac9e71d11e7707387193dbcec01f53bf40790ea76a6bebb
 converter: pymupdf4llm
 ---
 
-# **LIST OF INDIVIDUAL NEUTRAL ATHLETES**
 
-The below riders of Russian and Belarusian sporting nationality have been granted Individual Neutral Athlete
-(AIN) status in accordance with the Ad Hoc Rules and its Annex 1.
-
-Only the riders of Russian or Belarusian sporting nationality listed below are allowed to register in events as
-Individual Neutral Athletes (e.g. UEC Continental Championships, UCI World Cup*, UCI World
-Championships). This authorisation remains valid for as long as the Ad Hoc Rules regarding Russia and Belarus
-remain in force or until withdrawal of the status by the UCI.
+![](images/LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.pdf-0001-00.png)
 
 
-|Riders of RUSSIAN sporting nationality|Col2|Col3|
+## **LIST OF INDIVIDUAL NEUTRAL ATHLETES** 
+
+The below riders of Russian and Belarusian sporting nationality have been granted Individual Neutral Athlete (AIN) status in accordance with the Ad Hoc Rules and its Annex 1. 
+
+Only the riders of Russian or Belarusian sporting nationality listed below are allowed to register in events as Individual Neutral Athletes (e.g. UEC Continental Championships, UCI World Cup*, UCI World Championships). This authorisation remains valid for as long as the Ad Hoc Rules regarding Russia and Belarus remain in force or until withdrawal of the status by the UCI. 
+
+|**Riders of RUSSIAN sporting nationality**|**Riders of RUSSIAN sporting nationality**|**Riders of RUSSIAN sporting nationality**|
 |---|---|---|
 |**Name**|**UCI ID**|**AIN status valid as from**|
 |ABAIDULLINA Inna|100 360 768 09|21/12/2023|
@@ -55,19 +54,11 @@ remain in force or until withdrawal of the status by the UCI.
 
 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **1** / **8** 
 
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
-
-
-
-Page **1** / **8**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 
 |EFIMOVA Viktoriya|101 154 961 63|15/08/2025|
 |---|---|---|
@@ -123,19 +114,11 @@ Page **1** / **8**
 
 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **2** / **8** 
 
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
-
-
-
-Page **2** / **8**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 
 |KRUGLOVA Ekaterina|100 663 516 20|04/09/2025|
 |---|---|---|
@@ -191,19 +174,11 @@ Page **2** / **8**
 
 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **3** / **8** 
 
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
-
-
-
-Page **3** / **8**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 
 |SHVEDOV Yaroslav|101 273 644 18|15/03/2024|
 |---|---|---|
@@ -243,7 +218,8 @@ Page **3** / **8**
 |ZHIDKOV Leon|100 781 689 47|27/03/2026|
 
 
-|Riders of BELARUSIAN sporting nationality|Col2|Col3|
+
+|**Riders of BELARUSIAN sporting nationality**|**Riders of BELARUSIAN sporting nationality**|**Riders of BELARUSIAN sporting nationality**|
 |---|---|---|
 |**Name**|**UCI ID**|**AIN status valid as from**|
 |ABRAMENKA Alina|100 159 788 13|19/06/2023|
@@ -260,19 +236,11 @@ Page **3** / **8**
 
 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **4** / **8** 
 
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
-
-
-
-Page **4** / **8**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 
 |CHUYANKOVA Iryna|100 611 419 12|19/06/2023|
 |---|---|---|
@@ -328,62 +296,37 @@ Page **4** / **8**
 
 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **5** / **8** 
 
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
-
-
-
-Page **5** / **8**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 
 |YARASH Uladzislau|100 794 122 64|18/09/2023|
 |---|---|---|
 |ZAITSAU Artsiom|100 090 172 43|27/09/2023|
 
 
-*In accordance with the UCI Regulations, riders may also take part in UCI World Cup events in certain
-disciplines with their teams (i.e. not as Individual Neutral Athletes).
 
-**Last updated: 21/05/2026**
-_Note: This list is updated regularly. Names may be added at any time upon assessment of the relevant applications._
-_Names may also be withdrawn in case the person concerned is found to no longer meet the requirements for the status_
-_of Individual Neutral Athlete._
+*In accordance with the UCI Regulations, riders may also take part in UCI World Cup events in certain disciplines with their teams (i.e. not as Individual Neutral Athletes). 
 
+## **Last updated: 21/05/2026** 
 
+_Note: This list is updated regularly. Names may be added at any time upon assessment of the relevant applications. Names may also be withdrawn in case the person concerned is found to no longer meet the requirements for the status of Individual Neutral Athlete._ 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **6** / **8** 
 
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: legal@uci.ch Suisse 
 
+## **LIST OF SUPPORT PERSONNEL OF INDIVIDUAL NEUTRAL ATHLETES** 
 
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
+The persons listed below have been granted status as Support Personnel of an Individual Neutral Athlete in accordance with the Ad Hoc Rules and its Annex 1. 
 
+The granting of such status enables its holders to register at the events where their supported athlete(s) register and take part as an Individual Neutral Athlete(s). 
 
+This authorisation remains valid for as long as the Ad Hoc Rules regarding Russia and Belarus remain in force or until withdrawal of the status by the UCI. 
 
-Page **6** / **8**
-
-
-# **LIST OF SUPPORT PERSONNEL OF INDIVIDUAL NEUTRAL ATHLETES**
-
-The persons listed below have been granted status as Support Personnel of an Individual Neutral Athlete in
-accordance with the Ad Hoc Rules and its Annex 1.
-
-The granting of such status enables its holders to register at the events where their supported athlete(s)
-register and take part as an Individual Neutral Athlete(s).
-
-This authorisation remains valid for as long as the Ad Hoc Rules regarding Russia and Belarus remain in force
-or until withdrawal of the status by the UCI.
-
-
-|Support Personnel of RUSSIAN sporting nationality|Col2|Col3|
+|**Support Personnel of RUSSIAN sporting nationality**|**Support Personnel of RUSSIAN sporting nationality**|**Support Personnel of RUSSIAN sporting nationality**|
 |---|---|---|
 |**Name**|**UCI ID**|**Status valid as from**|
 |ABRAMYAN Iralky|100 023 150 48|29/08/2025|
@@ -416,7 +359,8 @@ or until withdrawal of the status by the UCI.
 |YUSUPOV Ravil|101 510 294 85|14/05/2024|
 
 
-|Support Personnel of BELARUSIAN sporting nationality|Col2|Col3|
+
+|**Support Personnel of BELARUSIAN sporting nationality**|**Support Personnel of BELARUSIAN sporting nationality**|**Support Personnel of BELARUSIAN sporting nationality**|
 |---|---|---|
 |**Name**|**UCI ID**|**Status valid as from**|
 |ANTSARYDZE Lasha|100 126 070 51|30/01/2024|
@@ -424,19 +368,11 @@ or until withdrawal of the status by the UCI.
 
 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **7** / **8** 
 
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
-
-
-
-Page **7** / **8**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 
 |BARAZNA Tamara|100 511 126 17|22/07/2024|
 |---|---|---|
@@ -462,24 +398,14 @@ Page **7** / **8**
 |ZINKEVICH Viktar|100 550 588 00|30/05/2025|
 
 
-**Last updated: 21/05/2026**
-_Note: This list is updated regularly. Names may be added at any time upon assessment of the relevant applications._
-_Names may also be withdrawn in case the person concerned is found to no longer meet the requirements for the status_
-_of Support Personnel of an Individual Neutral Athlete._
 
+## **Last updated: 21/05/2026** 
 
+_Note: This list is updated regularly. Names may be added at any time upon assessment of the relevant applications. Names may also be withdrawn in case the person concerned is found to no longer meet the requirements for the status of Support Personnel of an Individual Neutral Athlete._ 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Page **8** / **8** 
 
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-T: +41 24 468 58 11
-E: [legal@uci.ch](mailto:legal@uci.ch)
-
-
-
-Page **8** / **8**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 

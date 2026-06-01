@@ -40,7 +40,7 @@
     "sha256": "2a85a61e69d28481cfa8689285f90e51fa7de6cbbdd90975334baf726acbc40e"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/1Sb2ZmnrtT8mzNr0MVw2fz/03abc6532026586e935f2a58f471536d/2024.09.09_UCI_Regulations_for_Results_Management.pdf": {
-    "name": "uci-regulations-for-results-management-uci-rmr__2024.09.09_UCI_Regulations_for_Results_Management.md",
+    "name": "uci-regulations-for-results-management__2024.09.09_UCI_Regulations_for_Results_Management.md",
     "stem": "2024.09.09_UCI_Regulations_for_Results_Management",
     "sha256": "c0171adfd60339aba064c7813c14648547a0e5e8486e8dce32746abd3347671c"
   },
@@ -55,7 +55,7 @@
     "sha256": "c83a2a2014c349d9bc807ce6ae511d5e680c13044a8a3c939d7d3cb083ac2a04"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/27PPvp5fg1HTKTBAnvJg91/d22163750b9a7ae62b5afee7840e4f2b/Factors_2024.pdf": {
-    "name": "2024-competition-factors-april-2024__Factors_2024.md",
+    "name": "2024-competition-factors__Factors_2024.md",
     "stem": "Factors_2024",
     "sha256": "007aa557f1d611f9a0dd48b11667dd65c1f975e2990ca4e94ec25abc000c37d4"
   },
@@ -75,7 +75,7 @@
     "sha256": "481f0279914441fd5e38491820d4a8935e0f355120092a9a5fe349a9a8d7cdce"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2L3eiPYTygsHZvO4dafs8d/428124048854e3fcab3df2aabc0a1475/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf": {
-    "name": "Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.md",
+    "name": "guidelines-uci-way-in-way-out-system__Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.md",
     "stem": "Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26",
     "sha256": "337b1aee5b2fb2d8326e7f33e12e946a1d9cfcfafd712e38623720bbbdf792f7"
   },
@@ -95,12 +95,12 @@
     "sha256": "86518a478d4ef6be3781aae0c6cc4df64f55f6de1d90a9bffd58551defcde6a9"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2t2aAatMkSy7UpqYhw7TzA/577529ed5a2c7273a66cc1bcef7be747/ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.pdf": {
-    "name": "ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.md",
+    "name": "conditions-of-participation-for-individual-neutral-riders-of__ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.md",
     "stem": "ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024",
     "sha256": "11c9ec31b01320b39b0fe3047bd8def74643c47d0e6b44d63e91b6238946e911"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2uOSbE8gAbYJWGZF6Zdb0c/ba7c3629f110e9c45114ffbc057d6239/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf": {
-    "name": "2025_UCI_CONSTITUTION___CONGRESS_EN_sept.md",
+    "name": "article-2-objectives__2025_UCI_CONSTITUTION___CONGRESS_EN_sept.md",
     "stem": "2025_UCI_CONSTITUTION___CONGRESS_EN_sept",
     "sha256": "a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1"
   },
@@ -200,7 +200,7 @@
     "sha256": "b37b833557ae5593d490f11c3a61f94c0023363f151ee18d20b0980dedd5c03d"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/50QlrMa7ZcAumOJJDB1wdu/1c319a91b96ae1c79c631ff3b9dc7923/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf": {
-    "name": "_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.md",
+    "name": "implementation-of-in-race-communication-test-protocol___In-race_communication__test_protocol_for_the_2024_season_07.08.2024.md",
     "stem": "_In-race_communication__test_protocol_for_the_2024_season_07.08.2024",
     "sha256": "d8fd6dd38d8ee1bbdb84a0f484ed86fe12f58bda8b43a5a981de94c9a98873c8"
   },
@@ -220,7 +220,7 @@
     "sha256": "c499bf26b79561af6a7a4f339ab41e577a2cd5a6ad3304585c212dd6cdc56ecf"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/5L9K3ja9pUw8pXUobi4oKg/3ce4da52b8e48ffa94cc0631738da623/policy-uci---national-federations-20190211-e.pdf": {
-    "name": "policy-for-the-collecting-processing-and-sharing-of__policy-uci---national-federations-20190211-e.md",
+    "name": "policy-for-the-collecting-processing__policy-uci---national-federations-20190211-e.md",
     "stem": "policy-uci---national-federations-20190211-e",
     "sha256": "f1961b6fcd370b43ce7e03fd3ab785b955cbf7f2da020df64557cf653285ac5d"
   },
@@ -235,7 +235,7 @@
     "sha256": "efc994350db6b761f618aba9e564a43e352f631a8c25b0da929c060e18be2009"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/5ZszbcdPPoMq5cC82OxkTl/1bd65dd4b4e10902357c7bd727c9d77b/2023_UCI_ETHICS_EN_04-08-23.pdf": {
-    "name": "preamble-3__2023_UCI_ETHICS_EN_04-08-23.md",
+    "name": "officials__2023_UCI_ETHICS_EN_04-08-23.md",
     "stem": "2023_UCI_ETHICS_EN_04-08-23",
     "sha256": "85c14ce1220a7c1076e54b305ad384619a8239d5f4461e88000eddaf036b643a"
   },
@@ -275,7 +275,7 @@
     "sha256": "4b48943d13131d5923f771ffbbd836e58f8c4c0a1c00b7f41568678629828dad"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/6VZjHyC0y9NstLG8c8SBxF/d4b350e2b95fac1dbeadedfed7e9dcc7/2024.09.09_UCI_Regulations_for_therapeutic_use_exemptions.pdf": {
-    "name": "uci-regulations-for-therapeutic-use-exemptions-uci-tuer__2024.09.09_UCI_Regulations_for_therapeutic_use_exemptions.md",
+    "name": "uci-regulations-for-therapeutic-use-exemptions__2024.09.09_UCI_Regulations_for_therapeutic_use_exemptions.md",
     "stem": "2024.09.09_UCI_Regulations_for_therapeutic_use_exemptions",
     "sha256": "ae335aacc6fe96f1d5c1a4bd47917bbe31db7142b2bfee47e56b479d712b8676"
   },
@@ -365,7 +365,7 @@
     "sha256": "baffd386d9bc61000ac9e71d11e7707387193dbcec01f53bf40790ea76a6bebb"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/87c993648e0af4f60fb1366879b4beee/2024.09.09_UCI_Regulations_for_Testing_and_Investigations.pdf": {
-    "name": "uci-testing-and-investigations-regulations-uci-tir__2024.09.09_UCI_Regulations_for_Testing_and_Investigations.md",
+    "name": "uci-testing-and-investigations-regulations__2024.09.09_UCI_Regulations_for_Testing_and_Investigations.md",
     "stem": "2024.09.09_UCI_Regulations_for_Testing_and_Investigations",
     "sha256": "12ba9b05002d9642a2005e1d47aa2ae18f2edf433d978cb1c87ef1f105053fc6"
   },
@@ -410,7 +410,7 @@
     "sha256": "a1bf9545d1de38e915288f3955f2c58b3d2d835822c571c675b4f2b70717acd7"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/YJGaLYiiXnNOv7PW2I3Jz/25d00049802472d0004ce0d29682d8a1/Arrivees_Sprint_Massif_06.01.2025-E.pdf": {
-    "name": "sprint-zone-protocol-for-stages-expected-to-finish__Arrivees_Sprint_Massif_06.01.2025-E.md",
+    "name": "implementation-of-sprint-zone-protocol__Arrivees_Sprint_Massif_06.01.2025-E.md",
     "stem": "Arrivees_Sprint_Massif_06.01.2025-E",
     "sha256": "21d0d185ea9c633b99b22c4516a9d80f8bd7c56f0362ad7ac84f65e180da206e"
   },

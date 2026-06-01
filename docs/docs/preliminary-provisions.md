@@ -5,84 +5,53 @@ source_sha256: 1518c0381ad3e8a6bd02d5c35c97c61682f8efc646ad90db6452f8f950be34de
 converter: pymupdf4llm
 ---
 
-**UCI CYCLING REGULATIONS**
+**UCI CYCLING REGULATIONS** 
 
-# **PRELIMINARY PROVISIONS**
+## **PRELIMINARY PROVISIONS** 
 
-**Version on 05.02.2019**
+## **Version on 05.02.2019** 
 
+- **1** The present UCI Cycling Regulations (hereinafter referred to as “the Regulations”) shall be applicable to all cycling races. 
 
-**1** The present UCI Cycling Regulations (hereinafter referred to as “the Regulations”) shall
+Nevertheless, National Federations may, in their national regulations applicable to races on their own national calendar, rule on any provisions herein marked by the letter (N). Where no such national regulations exist, organisers of races registered on the national calendar shall strive to respect the provisions in question to the greatest extent possible and in accordance with the circumstances. 
 
-be applicable to all cycling races.
+- **2** _Provisions in italics shall apply solely during World Championships and, depending on the case, during the Olympic Games”._ 
 
-Nevertheless, National Federations may, in their national regulations applicable to
-races on their own national calendar, rule on any provisions herein marked by the letter
-(N). Where no such national regulations exist, organisers of races registered on the
-national calendar shall strive to respect the provisions in question to the greatest extent
-possible and in accordance with the circumstances.
+- **3** National Federations shall include the Regulations when publishing their own regulations which shall, moreover, contain a clause expressly stating that the Regulations form part of their own regulations. 
 
-**2** _Provisions in italics shall apply solely during World Championships and, depending on_
+- **4** A specific provision of the Regulations shall constitute an exception to any general provision with which it would be incompatible. 
 
-_the case, during the Olympic Games”._
+- **5** Participation in a cycling race, in whatever capacity, shall imply acceptance of all provisions of the Regulations applying thereto. 
 
-**3** National Federations shall include the Regulations when publishing their own
+- **6** The UCI cannot be held responsible for any infringements of the law committed in connection with cycling, even if the Regulations be invoked to justify a such infringements. 
 
-regulations which shall, moreover, contain a clause expressly stating that the
-Regulations form part of their own regulations.
+- **7** In these Regulations the masculine gender is used, for no other reason than simplicity, in relation to any physical person. It is a mere formality to indicate both the feminine and masculine gender. 
 
-**4** A specific provision of the Regulations shall constitute an exception to any general
+- **8** The word “rider” means any man or woman practising a cycling discipline governed by the present Regulations, also where in certain disciplines another word is more usual. 
 
-provision with which it would be incompatible.
+- **9** Except where provided otherwise, the amendments to these regulations enter into force on the date of their publication on UCI's web site. 
 
-**5** Participation in a cycling race, in whatever capacity, shall imply acceptance of all
+_(article introduced on 1.01.09)._ 
 
-provisions of the Regulations applying thereto.
+- **10** When collecting, processing and/or sharing data of licence ‐ holders and/or any other person involved in cycling, National Federations shall comply with the Policy for the Collecting, Processing and Sharing of Data between affiliated National Federations and the UCI, which is published as an appendix and forms an integral part of the UCI Regulations. 
 
-**6** The UCI cannot be held responsible for any infringements of the law committed in
+National Federations shall also include the Policy in their respective regulations, in accordance with point 3 above. 
 
-connection with cycling, even if the Regulations be invoked to justify a such
-infringements.
+_(article introduced on 1.01.09; text modified on 5.02.19)._ 
 
-**7** In these Regulations the masculine gender is used, for no other reason than simplicity,
-in relation to any physical person. It is a mere formality to indicate both the feminine
-and masculine gender.
+E0219 
 
-**8** The word “rider” means any man or woman practising a cycling discipline governed by
+1 
 
-the present Regulations, also where in certain disciplines another word is more usual.
+PRELIMINARY PROVISIONS 
 
-**9** Except where provided otherwise, the amendments to these regulations enter into
-force on the date of their publication on UCI's web site.
+**UCI CYCLING REGULATIONS** 
 
-_(article introduced on 1.01.09)._
+- **11** In the event of divergence between the English and the French texts, the text in its original language shall prevail. 
 
-**10** When collecting, processing and/or sharing data of licence   - holders and/or any other
+The original language of the different parts of the Regulations is: 
 
-person involved in cycling, National Federations shall comply with the Policy for the
-Collecting, Processing and Sharing of Data between affiliated National Federations and
-the UCI, which is published as an appendix and forms an integral part of the UCI
-Regulations.
-
-National Federations shall also include the Policy in their respective regulations, in
-accordance with point 3 above.
-
-_(article introduced on 1.01.09; text modified on 5.02.19)._
-
-
-E0219 PRELIMINARY PROVISIONS 1
-
-
-**UCI CYCLING REGULATIONS**
-
-
-**11** In the event of divergence between the English and the French texts, the text in its
-
-original language shall prevail.
-
-The original language of the different parts of the Regulations is:
-
-|Preliminary provisions|Col2|French|
+|Preliminary provisions||French|
 |---|---|---|
 |UCI Constitution||French|
 |Part 1|General Organisation|French|
@@ -104,9 +73,11 @@ The original language of the different parts of the Regulations is:
 
 
 
-_(text modified on 25.09.08; 18.06.10; 30.09.10; 1.05.14; 24.09.15)._
+_(text modified on 25.09.08; 18.06.10; 30.09.10; 1.05.14; 24.09.15)._ 
 
+E0219 
 
-E0219 PRELIMINARY PROVISIONS 2
+2 
 
+PRELIMINARY PROVISIONS 
 

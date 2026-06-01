@@ -5,15 +5,15 @@ source_sha256: eca0d3b94c5416083f45d4f2a4eefa9f1bf17a7595535d998aa72cbbe8ce6e73
 converter: pymupdf4llm
 ---
 
-**LIST OF RIDERS AND SUPPORT PERSONNEL INELIGIBLE TO TAKE PART IN EVENTS ON THE UCI**
 
-**INTERNATIONAL CALENDAR**
+![](images/LIST_OF_RIDERS_AND_SUPPORT_PERSONNEL_INELIGIBLE_TO_TAKE_PART_IN_EVENTS_ON_THE_UCI_INTERNATIONAL_CALENDAR.pdf-0001-00.png)
 
-The persons listed below of Russian or Belarusian sporting nationality are ineligible to participate in events
-on the UCI International Calendar due to non-compliance with the Ad-hoc Rules and its Annex 1. This
-ineligibility will apply for as long as the Ad Hoc Rules regarding Russia and Belarus remain in force
 
-|Name|Sporting Nationality|UCI ID|Ineligible as from|
+## **LIST OF RIDERS AND SUPPORT PERSONNEL INELIGIBLE TO TAKE PART IN EVENTS ON THE UCI INTERNATIONAL CALENDAR** 
+
+The persons listed below of Russian or Belarusian sporting nationality are ineligible to participate in events on the UCI International Calendar due to non-compliance with the Ad-hoc Rules and its Annex 1. This ineligibility will apply for as long as the Ad Hoc Rules regarding Russia and Belarus remain in force 
+
+|**Name**|**Sporting Nationality**|**UCI ID**|**Ineligible as from**|
 |---|---|---|---|
 |OBYDENNOV Aleksei|Russia|100 085 232 50|01/06/2023|
 |BURKALOV Danila|Russia|100 349 561 54|15/11/2023|
@@ -31,24 +31,13 @@ ineligibility will apply for as long as the Ad Hoc Rules regarding Russia and Be
 
 
 
-**Last updated: 27/11/2024**
-_Note: This list is updated regularly. Names may be added at any time if any rider is found not to meet the requirements_
-_of neutrality set out in the Ad-hoc Rules and Annex 1. Names of riders may also be withdrawn if they submit_
-_documentation which justifies a reconsideration of the UCI’s declaration of ineligibility._
+## **Last updated: 27/11/2024** 
 
+_Note: This list is updated regularly. Names may be added at any time if any rider is found not to meet the requirements of neutrality set out in the Ad-hoc Rules and Annex 1. Names of riders may also be withdrawn if they submit documentation which justifies a reconsideration of the UCI’s declaration of ineligibility._ 
 
+Page **1** / **1** 
 
-Allée Ferdi Kübler 12
-1860 Aigle
-Suisse
+Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-
-
-T: +41 24 468 58 11
-E: legal@uci.ch
-
-
-
-Page **1** / **1**
-
+T: +41 24 468 58 11 E: legal@uci.ch 
 

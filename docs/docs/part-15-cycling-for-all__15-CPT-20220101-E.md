@@ -5,939 +5,708 @@ source_sha256: fab07e006c3c9db2dcd4113713a58e55383ae72a9f7b14e54fc3eadb0b8f75a7
 converter: pymupdf4llm
 ---
 
-**UCI CYCLING REGULATIONS**
+**UCI CYCLING REGULATIONS** 
 
-# **PART 15 CYCLING FOR ALL**
+## **PART 15 CYCLING FOR ALL** 
 
-**Version on 01.01.2022**
+**Version on 01.01.2022** 
 
-### **TABLE OF CONTENTS** **Contents**
+## **TABLE OF CONTENTS** 
 
-**Chapter I GENERAL PROVISIONS ...................................................................................... 2**
+## **Contents** 
 
+|**Chapter**|**I GENERAL PROVISIONS ...................................................................................... 2**|
+|---|---|
+|§ 1|Participation ............................................................................................................. 2|
+|§ 2|Entries and responsibility of participants ................................................................... 2|
+|§ 3|Organisation ............................................................................................................. 3|
+|**Chapter**|**II CYCLOSPORTIVE EVENT ................................................................................... 5**|
+|§ 1|Course and safety .................................................................................................... 5|
+|§ 2|First aid .................................................................................................................... 5|
+|§ 3|Feeding .................................................................................................................... 6|
+|§ 4|Communications ...................................................................................................... 6|
+|§ 5|Technical assistance ................................................................................................ 6|
+|§ 6|Timekeeping and classification ................................................................................. 6|
+|**Chapter**|**IIIGRAVEL .............................................................................................................. 7**|
+|**Chapter**|**IV MASTERS (ROAD) ............................................................................................. 9**|
+|§ 1|Participation in events on the UCI masters calendar ................................................ 9|
+|§ 2|Events ...................................................................................................................... 9|
+|**Chapter**|**V UCI GRAN FONDO WORLD SERIES AND WORLD CHAMPIONSHIPS .......... 10**|
+|§ 1|General Provisions ................................................................................................. 10|
+|§ 2|UCI Gran Fondo World Championships ................................................................. 12|
+|**Chapter**|**VI UCI GRAVEL WORLD SERIE AND WORLD CHAMPIONSHIPS ..................... 14**|
+|§ 1|General Provisions ................................................................................................. 14|
+|§ 2|UCI Gravel World Championships .......................................................................... 15|
 
-§ 1 Participation ............................................................................................................. 2
-§ 2 Entries and responsibility of participants ................................................................... 2
-§ 3 Organisation ............................................................................................................. 3
-**Chapter II CYCLOSPORTIVE EVENT ................................................................................... 5**
 
 
-§ 1 Course and safety .................................................................................................... 5
-§ 2 First aid .................................................................................................................... 5
-§ 3 Feeding .................................................................................................................... 6
-§ 4 Communications ...................................................................................................... 6
-§ 5 Technical assistance ................................................................................................ 6
-§ 6 Timekeeping and classification ................................................................................. 6
-**Chapter III GRAVEL .............................................................................................................. 7**
+CYCLING FOR ALL 
 
+E0619 
 
-**Chapter IV MASTERS (ROAD) ............................................................................................. 9**
+1 
 
+**UCI CYCLING REGULATIONS** 
 
-§ 1 Participation in events on the UCI masters calendar ................................................ 9
-§ 2 Events ...................................................................................................................... 9
-**Chapter V UCI GRAN FONDO WORLD SERIES AND WORLD CHAMPIONSHIPS .......... 10**
+## **PART 15 CYCLING FOR ALL** 
 
+## **Chapter I GENERAL PROVISIONS** 
 
-§ 1 General Provisions ................................................................................................. 10
-§ 2 UCI Gran Fondo World Championships ................................................................. 12
-**Chapter VI UCI GRAVEL WORLD SERIE AND WORLD CHAMPIONSHIPS ..................... 14**
+## **§ 1 Participation** 
 
+- **15.1.001** Unless provided otherwise, participation in cycling for all events is open to the holders of a cycling for all, masters and junior licence within the limits of the events’ particular regulations. 
 
-§ 1 General Provisions ................................................................................................. 14
-§ 2 UCI Gravel World Championships .......................................................................... 15
+The minimal age to take part in each type of event is set by the organiser’s national federation, in accordance with the current national regulations. 
 
+Rider’s age shall be determined by the difference between the year of the event and the year of his birth. 
 
-E0619 CYCLING FOR ALL 1
+_(text modified on 26.06.07; 25.06.19)_ 
 
+- **15.1.002** Unless provided otherwise, riders may ride under a day licence issued by the organiser's national federation and given by the latter at the time of entry. 
 
-**UCI CYCLING REGULATIONS**
+The licence shall clearly set out the date of validity. The national federation shall ensure that for the duration of the licence, a day licence holder benefits from the same insurance cover as that provided with an annual licence. 
 
-## **PART 15 CYCLING FOR ALL**
+_(text modified on 25.06.19)_ 
 
-### **Chapter I GENERAL PROVISIONS**
+- **15.1.003** Unless provided otherwise, participation by persons not holding a licence is possible under conditions laid down by the organiser’s national federation, inter alia as regards the requirement to present a medical certificate of fitness to practice cycle sport and proof of insurance cover. 
 
+_(text modified on 25.06.19)_ 
 
-**§ 1** **Participation**
+- **15.1.004** A rider belonging to a UCI WorldTeam, a UCI professional continental team or a UCI continental team may take part in cycling for all events under the conditions set out in article 2.2.008. 
 
-**15.1.001** Unless provided otherwise, participation in cycling for all events is open to the holders of
-a cycling for all, masters and junior licence within the limits of the events’ particular
-regulations.
+_(text modified on 25.06.19)_ 
 
-The minimal age to take part in each type of event is set by the organiser’s national
-federation, in accordance with the current national regulations.
+- **15.1.005** (N) A rider belonging to a national team, a regional team or a club may take part in cycling for all events under the conditions set by the national federation of the country where the event is held. 
 
-Rider’s age shall be determined by the difference between the year of the event and the
-year of his birth.
+## **§ 2 Entries and responsibility of participants** 
 
-_(text modified on 26.06.07; 25.06.19)_
+- **15.1.006** Advance registration with the organiser is obligatory. The organiser shall allocate a race number and/or a frame number to each participant. 
 
-**15.1.002** Unless provided otherwise, riders may ride under a day licence issued by the organiser's
+CYCLING FOR ALL 
 
-national federation and given by the latter at the time of entry.
+E0122 
 
-The licence shall clearly set out the date of validity. The national federation shall ensure
-that for the duration of the licence, a day licence holder benefits from the same insurance
-cover as that provided with an annual licence.
+2 
 
-_(text modified on 25.06.19)_
+**UCI CYCLING REGULATIONS** 
 
-**15.1.003** Unless provided otherwise, participation by persons not holding a licence is possible
+- **15.1.007** By the act of entering, the participant confirms that he accepts and undertakes to respect the regulations of the UCI and the national federation, as well as the special regulations for the event. 
 
-under conditions laid down by the organiser’s national federation, inter alia as regards
-the requirement to present a medical certificate of fitness to practice cycle sport and
-proof of insurance cover.
+He also undertakes to comply with the directions of the organisers and the safety and emergency services. 
 
+Each participant shall accept the risks involved in taking part, including health risks, the risk of falls and collisions, and risks relating to road traffic and bad weather conditions. 
 
-_(text modified on 25.06.19)_
+## **Health** 
 
-**15.1.004** A rider belonging to a UCI WorldTeam, a UCI professional continental team or a UCI
+- **15.1.008** It is the responsibility of each rider to ensure before riding an event that he is in perfect health and capable of the physical effort required for to ride the event which he has entered. 
 
-continental team may take part in cycling for all events under the conditions set out in
-article 2.2.008.
+The organiser may require participants to give written confirmation that they are aware of the inherent risks of such an event and that they are fully responsible for any health problems. They may also require each participant to provide a medical certificate to the effect that there is no contraindication to the practice of cycle sport, in accordance with the regulations of his national federation. 
 
+In no event may the UCI be held responsible for accidents or health problems to a rider connected with participation in a cycling for all event. 
 
-_(text modified on 25.06.19)_
+## **Insurance** 
 
-**15.1.005** (N) A rider belonging to a national team, a regional team or a club may take part in cycling
+- **15.1.009** Each participant must ensure in advance that he is properly covered for accidents and third-party liability, notably at his national federation. 
 
-for all events under the conditions set by the national federation of the country where the
-event is held.
+## **Conduct of participants** 
 
-**§ 2** **Entries and responsibility of participants**
+- **15.1.010** Participants must at all times respect the relevant road traffic regulations. 
 
-**15.1.006** Advance registration with the organiser is obligatory. The organiser shall allocate a race
+- **15.1.011** Participants shall demonstrate a proper sporting spirit. 
 
-number and/or a frame number to each participant.
+- **15.1.012** Participants shall behave in a manner which respects the environment. 
 
+## **§ 3 Organisation** 
 
-E0122 CYCLING FOR ALL 2
+## **Information for participants** 
 
+- **15.1.013** The organiser must make available detailed information to participants, which includes the following: 
 
-**UCI CYCLING REGULATIONS**
+   - type of the event, special regulations for the event, a detailed description of the course, and a description of services. 
 
+## **Programme – Event technical guide** 
 
-**15.1.007** By the act of entering, the participant confirms that he accepts and undertakes to respect
+- **15.1.014** (N) The programme - technical guide shall cover all details of organisation, including: 
 
-the regulations of the UCI and the national federation, as well as the special regulations
-for the event.
+   - Full contact details for the organiser 
 
-He also undertakes to comply with the directions of the organisers and the safety and
-emergency services.
+   - 
 
-Each participant shall accept the risks involved in taking part, including health risks, the
-risk of falls and collisions, and risks relating to road traffic and bad weather conditions.
+   - 
 
-**Health**
-**15.1.008** It is the responsibility of each rider to ensure before riding an event that he is in perfect
+   - The special regulations for the event 
 
-health and capable of the physical effort required for to ride the event which he has
-entered.
+   - The number of times the event has been run previously 
 
-The organiser may require participants to give written confirmation that they are aware
-of the inherent risks of such an event and that they are fully responsible for any health
-problems. They may also require each participant to provide a medical certificate to the
-effect that there is no contraindication to the practice of cycle sport, in accordance with
-the regulations of his national federation.
+- The number of riders the last time the event was run 
 
-In no event may the UCI be held responsible for accidents or health problems to a rider
-connected with participation in a cycling for all event.
+- 
 
-**Insurance**
-**15.1.009** Each participant must ensure in advance that he is properly covered for accidents and
+- 
 
-third-party liability, notably at his national federation.
+   - The number of riders expected and any applicable limits on field size 
 
-**Conduct of participants**
-**15.1.010** Participants must at all times respect the relevant road traffic regulations.
+   - The type of event 
 
-**15.1.011** Participants shall demonstrate a proper sporting spirit.
+- A detailed description of the course(s) with profile, distance, feeds, first aid posts and technical assistance posts 
 
-**15.1.012** Participants shall behave in a manner which respects the environment.
+- 
 
-**§ 3** **Organisation**
+- A description of the services provided for riders. 
 
-**Information for participants**
-**15.1.013** The organiser must make available detailed information to participants, which includes
+CYCLING FOR ALL 
 
-the following:
-type of the event, special regulations for the event, a detailed description of the course,
-and a description of services.
+E0122 
 
-**Programme – Event technical guide**
-**15.1.014** (N) The programme - technical guide shall cover all details of organisation, including:
+3 
 
-      - Full contact details for the organiser
+**UCI CYCLING REGULATIONS** 
 
-      - The special regulations for the event
+## **Environment** 
 
-      - The number of times the event has been run previously
+- **15.1.015** The organiser must take all appropriate measures for the protection of the environment. 
 
-      - The number of riders the last time the event was run
+- **15.1.016** The organiser must restore the course and its surroundings to its original condition immediately after the event has finished. 
 
-      - The number of riders expected and any applicable limits on field size
+CYCLING FOR ALL 
 
-      - The type of event
+E0122 
 
-      - A detailed description of the course(s) with profile, distance, feeds, first aid posts
-and technical assistance posts
+4 
 
-      - A description of the services provided for riders.
+**UCI CYCLING REGULATIONS** 
 
+## **Chapter II CYCLOSPORTIVE EVENT** 
 
-E0122 CYCLING FOR ALL 3
+## **§ 1 Course and safety** 
 
+## **Course directions** 
 
-**UCI CYCLING REGULATIONS**
+- **15.2.001** The course must be clearly marked using arrows and signs, and by marshals. 
 
+- **15.2.002** Where an event uses multiple courses, these must be clearly identified. The points at which the different courses separate must be marked at least 500 meter beforehand. 
 
-**Environment**
-**15.1.015** The organiser must take all appropriate measures for the protection of the environment.
+- **15.2.003** The organiser must clearly mark all areas which present a significant risk well in advance (dangerous corner on descents, bad road surfaces, roadworks, etc.). 
 
-**15.1.016** The organiser must restore the course and its surroundings to its original condition
+- **15.2.004** At the foot of particularly difficult climbs or mountain passes, a panel shall indicate the average and maximum gradients, the total climb, the distance to the summit and the maximum altitude. 
 
-immediately after the event has finished.
+- **15.2.005** Signage must be removed immediately following the event. 
 
+## **Marshals** 
 
-E0122 CYCLING FOR ALL 4
+- **15.2.006** The organiser shall take on a sufficient number of marshals in order to ensure rider safety and control traffic. 
 
+Motorised marshals will be added to the team as required. 
 
-**UCI CYCLING REGULATIONS**
+A marshal must be stationed at all major junctions and at least at junctions where riders do not have priority under the normal rules of the road. 
 
-### **Chapter II CYCLOSPORTIVE EVENT**
+- **15.2.007** The marshals must be readily identifiable by a distinctive sign or uniform. 
 
+- **15.2.008** The marshals shall be provided with a flag and/or a whistle. 
 
-**§ 1** **Course and safety**
+- **15.2.009** The marshals must be clearly informed about their role and provided with a list of emergency contacts. 
 
-**Course directions**
-**15.2.001** The course must be clearly marked using arrows and signs, and by marshals.
+## **Following vehicles** 
 
-**15.2.002** Where an event uses multiple courses, these must be clearly identified. The points at
+- **15.2.010** The organiser's official vehicles must be marked with a distinctive sign. 
 
-which the different courses separate must be marked at least 500 meter beforehand.
+- **15.2.011** There will be at least a lead car and a broom wagon. The number of following vehicles will be appropriate for the number of participants. 
 
-**15.2.003** The organiser must clearly mark all areas which present a significant risk well in advance
+- **15.2.012** Personal following vehicles are forbidden. If necessary, the rider will be disqualified by the organiser. 
 
-(dangerous corner on descents, bad road surfaces, roadworks, etc.).
+## **§ 2 First aid** 
 
-**15.2.004** At the foot of particularly difficult climbs or mountain passes, a panel shall indicate the
+- **15.2.013** Without prejudice to applicable legal, administrative and regulatory requirements, the organiser must provide a first aid post and additional first aid posts as appropriate for the length and layout of the course. 
 
-average and maximum gradients, the total climb, the distance to the summit and the
-maximum altitude.
+At least one doctor and an adequate number of qualified paramedics must be ready to intervene rapidly, at any time and at any point on the course. 
 
-**15.2.005** Signage must be removed immediately following the event.
+CYCLING FOR ALL 
 
-**Marshals**
-**15.2.006** The organiser shall take on a sufficient number of marshals in order to ensure rider safety
+E0122 
 
-and control traffic.
+5 
 
+**UCI CYCLING REGULATIONS** 
 
-Motorised marshals will be added to the team as required.
+- **15.2.014** The members of the first aid services shall be stationed at fixed posts and mobile units, as appropriate to the length and configuration of the course. 
 
-A marshal must be stationed at all major junctions and at least at junctions where riders
-do not have priority under the normal rules of the road.
+- **15.2.015** The principal first aid post must be readily identifiable and situated close to the finishing line. 
 
-**15.2.007** The marshals must be readily identifiable by a distinctive sign or uniform.
+- **15.2.016** The members of the first aid service must be readily identifiable by a sign or uniform which they alone may wear. 
 
-**15.2.008** The marshals shall be provided with a flag and/or a whistle.
+- **15.2.017** The members of the first aid services shall be positioned at sensitive areas of the course. 
 
-**15.2.009** The marshals must be clearly informed about their role and provided with a list of
+- **15.2.018** The organiser must take all the measures required to allow the treatment and rapid evacuation of the injured at any point on the course. 
 
-emergency contacts.
+- **15.2.019** A briefing with the organiser, the person in charge of the first aid services and the marshals shall be held before the event. 
 
-**Following vehicles**
-**15.2.010** The organiser's official vehicles must be marked with a distinctive sign.
+## **§ 3 Feeding** 
 
-**15.2.011** There will be at least a lead car and a broom wagon. The number of following vehicles
+- **15.2.020** The feed zones must be judiciously located on the course. Their number will be appropriate to the length of the course. 
 
-will be appropriate for the number of participants.
+- **15.2.021** The feed zones must be signed. A panel shall indicate the presence of the next feed zone at least 500 meters beforehand. 
 
-**15.2.012** Personal following vehicles are forbidden. If necessary, the rider will be disqualified by
+- **15.2.022** The feed zones must be located far enough off the road that they do not hinder traffic and allow riders who wish to do so to pass without stopping. 
 
-the organiser.
+- **15.2.023** The feed zones must be large enough to accommodate substantial numbers of riders. 
 
-**§ 2** **First aid**
+## **§ 4 Communications** 
 
-**15.2.013** Without prejudice to applicable legal, administrative and regulatory requirements, the
+- **15.2.024** A suitable communications system will need to be set up between the members of the organisation team and the safety and first aid services. 
 
-organiser must provide a first aid post and additional first aid posts as appropriate for the
-length and layout of the course.
+## **§ 5 Technical assistance** 
 
+- **15.2.025** A mechanical assistance service will be provided. 
 
-At least one doctor and an adequate number of qualified paramedics must be ready to
-intervene rapidly, at any time and at any point on the course.
+## **§ 6 Timekeeping and classification** 
 
+- **15.2.026** (N) The timing shall be used to produce rankings for the men's and women's categories and age groups. Additional categories may be permitted (club, etc.). 
 
-E0122 CYCLING FOR ALL 5
+## **15.2.027** Cash prizes are forbidden. 
 
+CYCLING FOR ALL 
 
-**UCI CYCLING REGULATIONS**
+E0122 
 
+6 
 
-**15.2.014** The members of the first aid services shall be stationed at fixed posts and mobile units,
+**UCI CYCLING REGULATIONS** 
 
-as appropriate to the length and configuration of the course.
-**15.2.015** The principal first aid post must be readily identifiable and situated close to the finishing
+## **Chapter III GRAVEL** 
 
-line.
+[chapter abrogated on 27.02.15; introduced on 01.01.22] 
 
-**15.2.016** The members of the first aid service must be readily identifiable by a sign or uniform
+## **§ 1 General Provision** 
 
-which they alone may wear.
+- **15.3.001** Gravel discipline is a form of cycling that combines elements of both road and mountainbike disciplines and consisting mostly of distance riding over unpaved roads. 
 
-**15.2.017** The members of the first aid services shall be positioned at sensitive areas of the course.
+- **15.3.001** As Gravel races combine elements of road and mountain-bike disciplines, some **bis** general provisions of the UCI Regulations of these two disciplines may apply in relation to the organisation of gravel events. Specific provisions governing the Gravel discipline are mentioned in this chapter III. 
 
-**15.2.018** The organiser must take all the measures required to allow the treatment and rapid
+## **Events** 
 
-evacuation of the injured at any point on the course.
+- **15.3.002** Gravel events are competitive mass-participation events with a mass-start (or in waves with intervals between the start groups) fully timed for all participants and split results per age group and gender. 
 
-**15.2.019** A briefing with the organiser, the person in charge of the first aid services and the
+Gravel events may be one-day cycling events or multi-day cycling events. 
 
-marshals shall be held before the event.
+Gravel events shall have the following course characteristics: 
 
-**§ 3** **Feeding**
+- Gravel races shall take place on any type of unsurfaced roads and can include gravel, forest fire-roads, farm roads and tracks and cobbles. 
 
-**15.2.020** The feed zones must be judiciously located on the course. Their number will be
+- Tarmac surfaced roads should not total more than 20% (twenty percent) of the race distance. 
 
-appropriate to the length of the course.
+- The course should avoid grass and meadows. 
 
-**15.2.021** The feed zones must be signed. A panel shall indicate the presence of the next feed
+- Singletrack sections should be kept to a minimum and only be included in the course where required to link other sections and only where an alternative route for essential event vehicles (for example medical services) is available. 
 
-zone at least 500 meters beforehand.
+## **Eligibility and age categories** 
 
-**15.2.022** The feed zones must be located far enough off the road that they do not hinder traffic
+- **15.3.003** Gravel events are open to anyone aged 19 or above and holding a valid licence. Race organisers are free to determine the age categories. 
 
-and allow riders who wish to do so to pass without stopping.
+## **Course distances and start order** 
 
-**15.2.023** The feed zones must be large enough to accommodate substantial numbers of riders.
+- **15.3.004** Course distances should be a minimum of 50 km and a maximum of 200 km, considering course difficulty and elevation gain. Race organisers can propose a shorter distance for older age categories. There shall only be one official distance per age category per event. 
 
-**§ 4** **Communications**
+Men and women must have a separate start and be considered as separate races. Collusion or any assistance (pacing, feeding, mechanical assistance, etc.) between riders in separate races is forbidden. 
 
-**15.2.024** A suitable communications system will need to be set up between the members of the
+## **Material and Equipment** 
 
-organisation team and the safety and first aid services.
+- **15.3.005** Any style of bike shall be permitted. E-bikes and mountain bikes are not allowed. 
 
-**§ 5** **Technical assistance**
+Handlebars can be of any shape but must be of a one-piece construction with no barends or clip-on extensions allowed (triathlon handlebars and any other handlebars extension system are forbidden). 
 
-**15.2.025** A mechanical assistance service will be provided.
+CYCLING FOR ALL 
 
-**§ 6** **Timekeeping and classification**
+E0122 
 
-**15.2.026** (N) The timing shall be used to produce rankings for the men's and women's categories
+7 
 
-and age groups. Additional categories may be permitted (club, etc.).
+**UCI CYCLING REGULATIONS** 
 
-**15.2.027** Cash prizes are forbidden.
+The wearing of a hard-shell helmet is mandatory. 
 
+## **Feed and technical assistance zones** 
 
-E0122 CYCLING FOR ALL 6
+- **15.3.006** Feeding and technical assistance shall only be available in designated zones (Feed and technical assistance zones). 
 
+   - Feed and technical assistance zones should be available at minimum every 25 km. 
 
-**UCI CYCLING REGULATIONS**
+## **Conduct of participants** 
 
-### **Chapter III GRAVEL**
+- **15.3.007** Each participant must observe all the provisions of the UCI Regulations and the competition guide of the event. Every participant shall follow the directions of the organisation and appointed commissaires/officials and agree with any penalties that may be applied. 
 
-[chapter abrogated on 27.02.15; introduced on 01.01.22]
+Without prejudice to the rules of conduct outlined in articles 1.2.079 to 1.2.082 of the UCI Regulations, each participant agrees that fair-play and respect are essential values and commits to abide by those fundamental principles when taking part in gravel events. 
 
-**§ 1 General Provision**
+## **Infringements related to race incidents and Penalties** 
 
-**15.3.001** Gravel discipline is a form of cycling that combines elements of both road and mountain
-bike disciplines and consisting mostly of distance riding over unpaved roads.
+- **15.3.008** Without prejudice of Part 12 of the UCI Regulations, infringements related to race incidents and failure to abide by the UCI Regulations or by the events rules set out in the competition guide of the event may result in a participant being awarded time penalties, warning, or disqualification of the event. Penalties will be decided and imposed by the appointed commissaires/officials. 
 
-**15.3.001** As Gravel races combine elements of road and mountain-bike disciplines, some
-**bis** general provisions of the UCI Regulations of these two disciplines may apply in relation
+CYCLING FOR ALL 
 
-to the organisation of gravel events. Specific provisions governing the Gravel discipline
-are mentioned in this chapter III.
+E0122 
 
-**Events**
-**15.3.002** Gravel events are competitive mass-participation events with a mass-start (or in waves
+8 
 
-with intervals between the start groups) fully timed for all participants and split results per
-age group and gender.
+**UCI CYCLING REGULATIONS** 
 
-Gravel events may be one-day cycling events or multi-day cycling events.
+## **Chapter IV MASTERS (ROAD)** 
 
-Gravel events shall have the following course characteristics:
+## **§ 1 Participation in events on the UCI masters calendar** 
 
+- **15.4.001** Unless provided otherwise, a rider aged 30 or above who holds a masters licence is permitted to take part in UCI masters calendar events with the following exceptions: 
 
-        - Gravel races shall take place on any type of unsurfaced roads and can include gravel,
+   - I. Any rider who has during the current year been a member of a team registered with the UCI. 
 
-forest fire-roads, farm roads and tracks and cobbles.
+   - II. Any rider who has taken part in a world championships, the olympic games, continental championships or games, regional games, the Commonwealth games, or a World Cup during the current year, other than events for masters. 
 
-       - Tarmac surfaced roads should not total more than 20% (twenty percent) of the race
+   - III. Any rider who has ridden in an event on the UCI international calendar for the current year other than events on the masters calendar. 
 
-distance.
+_(text modified on 26.06.07; 01.10.10; 25.06.19)_ 
 
-       - The course should avoid grass and meadows.
+- **15.4.002** Unless provided otherwise, for events of the UCI masters calendar, riders may ride under a temporary or day licence issued by their national federation. 
 
+_(text modified on 01.10.10; 25.06.19)_ 
 
-       - Singletrack sections should be kept to a minimum and only be included in the course
+- **15.4.003** The licence shall set out clearly the start and end dates of its period of validity. The national federation shall ensure that the holder of a temporary or day licence benefits, for the period of validity of that licence, from the same insurance cover and the same benefits as those granted with an annual licence. 
 
-where required to link other sections and only where an alternative route for essential
-event vehicles (for example medical services) is available.
+## **§ 2 Events** 
 
-**Eligibility and** **age categories**
-**15.3.003** Gravel events are open to anyone aged 19 or above and holding a valid licence. Race
-organisers are free to determine the age categories.
+- **15.4.004** The organisation of road races for the masters category is governed by Part 2 Road races with the exception of the provisions below: 
 
-**Course distances and start order**
-**15.3.004** Course distances should be a minimum of 50 km and a maximum of 200 km, considering
-course difficulty and elevation gain. Race organisers can propose a shorter distance for
-older age categories. There shall only be one official distance per age category per
-event.
+## **One-day race** 
 
-Men and women must have a separate start and be considered as separate races.
-Collusion or any assistance (pacing, feeding, mechanical assistance, etc.) between
-riders in separate races is forbidden.
-
-**Material and Equipment**
-**15.3.005** Any style of bike shall be permitted. E-bikes and mountain bikes are not allowed.
-
-Handlebars can be of any shape but must be of a one-piece construction with no barends or clip-on extensions allowed (triathlon handlebars and any other handlebars
-extension system are forbidden).
-
-
-E0122 CYCLING FOR ALL 7
-
-
-**UCI CYCLING REGULATIONS**
-
-
-The wearing of a hard-shell helmet is mandatory.
-
-**Feed and technical assistance zones**
-**15.3.006** Feeding and technical assistance shall only be available in designated zones (Feed and
-technical assistance zones).
-Feed and technical assistance zones should be available at minimum every 25 km.
-
-**Conduct of participants**
-**15.3.007** Each participant must observe all the provisions of the UCI Regulations and the
-competition guide of the event. Every participant shall follow the directions of the
-organisation and appointed commissaires/officials and agree with any penalties that may
-be applied.
-
-Without prejudice to the rules of conduct outlined in articles 1.2.079 to 1.2.082 of the UCI
-Regulations, each participant agrees that fair-play and respect are essential values and
-commits to abide by those fundamental principles when taking part in gravel events.
-
-**Infringements related to race incidents and** **Penalties**
-**15.3.008** Without prejudice of Part 12 of the UCI Regulations, infringements related to race
-
-incidents and failure to abide by the UCI Regulations or by the events rules set out in the
-competition guide of the event may result in a participant being awarded time penalties,
-warning, or disqualification of the event. Penalties will be decided and imposed by the
-appointed commissaires/officials.
-
-
-E0122 CYCLING FOR ALL 8
-
-
-**UCI CYCLING REGULATIONS**
-
-### **Chapter IV MASTERS (ROAD)**
-
-
-**§ 1** **Participation in events on the UCI masters calendar**
-
-**15.4.001** Unless provided otherwise, a rider aged 30 or above who holds a masters licence is
-permitted to take part in UCI masters calendar events with the following exceptions:
-
-       - I. Any rider who has during the current year been a member of a team registered
-with the UCI.
-
-       - II. Any rider who has taken part in a world championships, the olympic games,
-continental championships or games, regional games, the Commonwealth
-games, or a World Cup during the current year, other than events for masters.
-
-       - III. Any rider who has ridden in an event on the UCI international calendar for
-the current year other than events on the masters calendar.
-
-_(text modified on 26.06.07; 01.10.10; 25.06.19)_
-
-
-**15.4.002** Unless provided otherwise, for events of the UCI masters calendar, riders may ride under
-
-a temporary or day licence issued by their national federation.
-
-
-_(text modified on 01.10.10; 25.06.19)_
-
-**15.4.003** The licence shall set out clearly the start and end dates of its period of validity. The
-
-national federation shall ensure that the holder of a temporary or day licence benefits,
-for the period of validity of that licence, from the same insurance cover and the same
-benefits as those granted with an annual licence.
-
-**§ 2** **Events**
-
-**15.4.004** The organisation of road races for the masters category is governed by Part 2 Road
-
-races with the exception of the provisions below:
-
-**One-day race**
-**15.4.005** The maximum distance is determined as follows:
-
-
-
-
-
-
+## **15.4.005** The maximum distance is determined as follows: 
 
 |Age<br>category|30-34|35-39|40-44|45-49|50-54|55-59|60-64|65-69|70+|
 |---|---|---|---|---|---|---|---|---|---|
-|MM|120 km|120 km|120 km|120 km|80 km|80 km|80 km|40 km|40 km|
-|WM|80 km|80 km|40 km|40 km|40 km|40 km|40 km|40 km|40 km|
-
-
-_(text modified on 01.10.10)_
-
-**Individual time trial**
-**15.4.006** The maximum distance is determined as follows:
+|MM|120 km||||80 km|||40 km||
+|WM|80 km||40 km|||||||
 
 
 
+_(text modified on 01.10.10)_ 
 
+## **Individual time trial** 
 
-
+## **15.4.006** The maximum distance is determined as follows: 
 
 |Age<br>category|30-34|35-39|40-44|45-49|50-54|55-59|60-64|65-69|70+|
 |---|---|---|---|---|---|---|---|---|---|
-|MM|40 km|40 km|40 km|40 km|30 km|30 km|30 km|20 km|20 km|
-|WM|30 km|30 km|30 km|30 km|20 km|20 km|20 km|20 km|20 km|
+|MM|40 km||||30 km|||20 km||
+|WM|30 km||||20 km|||||
 
 
-E0122 CYCLING FOR ALL 9
 
+CYCLING FOR ALL 
 
-**UCI CYCLING REGULATIONS**
+E0122 
 
-### **Chapter V UCI GRAN FONDO WORLD SERIES AND WORLD** **CHAMPIONSHIPS**
+9 
 
-_(chapter introduced on 01.10.10)_
-_(text modified on 25.06.19)_
+**UCI CYCLING REGULATIONS** 
 
-**§ 1** **General Provisions**
+## **Chapter V UCI GRAN FONDO WORLD SERIES AND WORLD CHAMPIONSHIPS** 
 
-**15.5.001** The UCI Gran Fondo World Series and World Championships and all related rights shall
+_(chapter introduced on 01.10.10) (text modified on 25.06.19)_ 
 
-be the exclusive property of the UCI.
+## **§ 1 General Provisions** 
 
-_(text modified on 01.01.16, 01.09.17)_
+- **15.5.001** The UCI Gran Fondo World Series and World Championships and all related rights shall be the exclusive property of the UCI. 
 
-**15.5.001** Participation in the UCI Gran Fondo World Series and World Championships is
-**bis** open to holders of Cycling for all, Masters and Elite licences.
+_(text modified on 01.01.16, 01.09.17)_ 
 
-_(article introduced on 25.06.19)_
+- **15.5.001** Participation in the UCI Gran Fondo World Series and World Championships is **bis** open to holders of Cycling for all, Masters and Elite licences. 
 
-**Events**
-**15.5.002** The UCI Gran Fondo World Series is composed by individual Cycling for all road cycling
+_(article introduced on 25.06.19)_ 
 
-competitions.
+## **Events** 
 
-A UCI Gran Fondo World Series event is a competitive mass-participation event with a
-mass-start (or in waves with intervals between the start groups) fully timed for all
-participants and split results per age group and gender.
+- **15.5.002** The UCI Gran Fondo World Series is composed by individual Cycling for all road cycling competitions. 
 
-A UCI Gran Fondo World Series event has three different categories:
+A UCI Gran Fondo World Series event is a competitive mass-participation event with a mass-start (or in waves with intervals between the start groups) fully timed for all participants and split results per age group and gender. 
 
-       - Fully closed roads: Competitive mass participation event with a mass-start in which
+A UCI Gran Fondo World Series event has three different categories: 
 
-riders can use the whole road during a certain time frame (time to be set by the
-organisers). Roads are closed for the full length and duration of the event for all
-participants. No traffic on the course (except event’s vehicles).
+- Fully closed roads: Competitive mass participation event with a mass-start in which riders can use the whole road during a certain time frame (time to be set by the organisers). Roads are closed for the full length and duration of the event for all participants. No traffic on the course (except event’s vehicles). 
 
-        - Rolling road closure: Competitive mass participation event with a mass-start in which
+- Rolling road closure: Competitive mass participation event with a mass-start in which riders can use the whole road during a certain time frame (time to be set by the organisers). Roads are closed from the moment the first riders approach until a dedicated time after the first riders have passed (time to be set by the organisers). Road traffic regulations must be respected for all riders being outside of the defined time set by the organiser. 
 
-riders can use the whole road during a certain time frame (time to be set by the
-organisers). Roads are closed from the moment the first riders approach until a
-dedicated time after the first riders have passed (time to be set by the organisers).
-Road traffic regulations must be respected for all riders being outside of the defined
-time set by the organiser.
+- Open roads: Competitive mass participation event with a mass-start in which riders must respect road traffic regulations during the whole course. 
 
-       - Open roads: Competitive mass participation event with a mass-start in which riders
+The UCI Gran Fondo World Championships (formerly called Road Master World Championships / UWCT Final) is the last event of the series, open to riders qualified through the series. 
 
-must respect road traffic regulations during the whole course.
+_(text modified on 01.01.16; 01.09.17)_ 
 
-The UCI Gran Fondo World Championships (formerly called Road Master World
-Championships / UWCT Final) is the last event of the series, open to riders qualified
-through the series.
+- **15.5.003** The organisation of UCI Gran Fondo World Series events is governed by Part 2 Road races with the exception of the provision 15.5.004. 
 
-_(text modified on 01.01.16; 01.09.17)_
+## **15.5.004 Age categories** : 
 
-**15.5.003** The organisation of UCI Gran Fondo World Series events is governed by Part 2 Road
+Races shall be organised for the following age categories: 
 
-races with the exception of the provision 15.5.004.
+CYCLING FOR ALL 
 
-**15.5.004** **Age categories** :
-Races shall be organised for the following age categories:
+E0122 
 
+10 
 
-E0122 CYCLING FOR ALL 10
+**UCI CYCLING REGULATIONS** 
 
+19-34   35 - 39     40 - 44   45 - 49     50 - 54     55 - 59     60 - 64    65 - 69 and any further 5-year (70-74, 75-79 etc) category for which riders have entered. 
 
-**UCI CYCLING REGULATIONS**
+## **Course distances** : 
 
+- The course distances are determined as follows: 
 
-19-34  35 - 39   40 - 44  45 - 49   50 - 54   55 - 59   60 - 64  65 - 69 and any further
-5-year (70-74, 75-79 etc) category for which riders have entered.
+- Road races: Courses must measure between 80 and 225 km, considering course difficulty and elevation gain. Race organisers can propose a shorter distance for older age categories. There shall only be one official distance per age category per event. 
 
-**Course distances** :
-The course distances are determined as follows:
+- Time trial: The length of the course must be between 15 and 40 km, considering course difficulty and elevation gain. 
 
-         - Road races: Courses must measure between 80 and 225 km, considering course
-difficulty and elevation gain. Race organisers can propose a shorter distance for
-older age categories. There shall only be one official distance per age category per
-event.
+All course distances in UCI Gran Fondo World Series and World Championships events must be approved by the UCI. 
 
-         - Time trial: The length of the course must be between 15 and 40 km, considering
-course difficulty and elevation gain.
+_(text modified on 27.02.15; 01.01.16, 01.11.18; 25.06.19)_ 
 
+## **Exclusivity** 
 
-All course distances in UCI Gran Fondo World Series and World Championships
-events must be approved by the UCI.
+- **15.5.005** Cycling events that belong to the UCI Gran Fondo World Series shall not be part of or otherwise linked to any other international series of events. 
 
-_(text modified on 27.02.15; 01.01.16, 01.11.18; 25.06.19)_
+_(text modified on 01.01.16)_ 
 
-**Exclusivity**
-**15.5.005** Cycling events that belong to the UCI Gran Fondo World Series shall not be part of or
+## **Date protection** 
 
-otherwise linked to any other international series of events.
+- **15.5.006** The dates of UCI Gran Fondo World Series events shall be approved by the UCI. Only one UCI Gran Fondo World Series event per continent shall be held on any given weekend. 
 
+_(text modified on 27.02.15; 01.01.16)_ 
 
-_(text modified on 01.01.16)_
+## **Use of the UCI Gran Fondo World Series logo** 
 
-**Date protection**
-**15.5.006** The dates of UCI Gran Fondo World Series events shall be approved by the UCI. Only
+- **15.5.007** The right to use the brand UCI Gran Fondo World Series is granted by the UCI to the organiser, subject to the conditions set out in this section and by the UCI Gran Fondo World Series organiser’s guide in force. 
 
-one UCI Gran Fondo World Series event per continent shall be held on any given
-weekend.
+_(text modified on 01.01.16)_ 
 
+## **Inclusion** 
 
-_(text modified on 27.02.15; 01.01.16)_
+- **15.5.008** Inclusion in the series implies acceptance by the organiser of the UCI Gran Fondo World Series organiser’s guide and an undertaking on his part to organise the event in accordance with UCI Regulations and other applicable provisions. 
 
-**Use of the UCI Gran Fondo World Series logo**
-**15.5.007** The right to use the brand UCI Gran Fondo World Series is granted by the UCI to the
+_(text modified on 01.01.16)_ 
 
-organiser, subject to the conditions set out in this section and by the UCI Gran Fondo
-World Series organiser’s guide in force.
+## **UCI Gran Fondo World Series organiser’s guide** 
 
+- **15.5.009** The UCI Gran Fondo World Series organiser’s guide sets out the conditions for inclusion and the special regulations for the series. UCI Gran Fondo World Series events (World Championships included) are otherwise governed by the Cycling for all regulations. 
 
-_(text modified on 01.01.16)_
+_(text modified on 01.01.16)_ 
 
-**Inclusion**
-**15.5.008** Inclusion in the series implies acceptance by the organiser of the UCI Gran Fondo World
+## **Qualification for the UCI Gran Fondo World Championships** 
 
-Series organiser’s guide and an undertaking on his part to organise the event in
-accordance with UCI Regulations and other applicable provisions.
+- **15.5.010** The UCI Management Committee shall decide the qualification system each year. 
 
-_(text modified on 01.01.16)_
+_(text modified on 01.01.16; 01.09.17; 25.06.19)_ 
 
-**UCI Gran Fondo World Series organiser’s guide**
-**15.5.009** The UCI Gran Fondo World Series organiser’s guide sets out the conditions for inclusion
+CYCLING FOR ALL 
 
-and the special regulations for the series. UCI Gran Fondo World Series events (World
-Championships included) are otherwise governed by the Cycling for all regulations.
+E0122 
 
+11 
 
-_(text modified on 01.01.16)_
+**UCI CYCLING REGULATIONS** 
 
-**Qualification for the UCI Gran Fondo World Championships**
-**15.5.010** The UCI Management Committee shall decide the qualification system each year.
+## **§ 2 UCI Gran Fondo World Championships** 
 
+- **15.5.011** All licence holders according to article 15.5.001bis may participate in the UCI Gran Fondo World Championships, apart from: 
 
-_(text modified on 01.01.16; 01.09.17; 25.06.19)_
+   - a) Any rider who has during the current year been a member of a team registered with the UCI. 
 
+   - b) Any rider who has taken part in a World Championships, the Olympic Games, Continental games, regional games, the Commonwealth Games, or a World Cup during the current year. 
 
-E0122 CYCLING FOR ALL 11
+   - c) Any rider who scored UCI points in the year of the World Championships. 
 
+Riders taking part in the UCI Gran Fondo World Championships must hold a valid licence from issued by their respective national federation (day licences being excluded), must hold a UCI ID and must be adequately insured against accidents and civil responsibility in the country in which the UCI Gran Fondo World Championships are held. 
 
-**UCI CYCLING REGULATIONS**
+_(text modified on 27.02.15; 01.01.16; 01.09.17; 25.06.19)_ 
 
+- **15.5.012** Riders taking part in the UCI Gran Fondo World Championships shall represent their country and wear a jersey of their choice representative of their nationality. 
 
-**§ 2** **UCI Gran Fondo World Championships**
+_(text modified on 01.01.16, 01.11.18)_ 
 
-**15.5.011** All licence holders according to article 15.5.001bis may participate in the UCI Gran
+- **15.5.013** All the details specific to the UCI Gran Fondo World Championships may be obtained directly from the organiser or on the UCI web site. 
 
-Fondo World Championships, apart from:
+_(text modified on 01.01.16)_ 
 
-a) Any rider who has during the current year been a member of a team registered
-with the UCI.
-b) Any rider who has taken part in a World Championships, the Olympic Games,
-Continental games, regional games, the Commonwealth Games, or a World
-Cup during the current year.
-c) Any rider who scored UCI points in the year of the World Championships.
+- **15.5.014** The championships are organised in the age group 19-34 and further 5-year age-groups: 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 6 ~~5+-6~~ 9, 70-74, 75-79, etc. 
 
-Riders taking part in the UCI Gran Fondo World Championships must hold a valid licence
-from issued by their respective national federation (day licences being excluded), must
-hold a UCI ID and must be adequately insured against accidents and civil responsibility
-in the country in which the UCI Gran Fondo World Championships are held.
+_(text modified on 27.02.15; 01.01.16; 25.06.19)_ 
 
+- **15.5.015** All age groups as stated in 15.4.014 will have their own title, regardless of the number of riders who have taken part in the race in the relevant age group. 
 
-_(text modified on 27.02.15; 01.01.16; 01.09.17; 25.06.19)_
+_(text modified on 27.02.15; 01.01.16; 25.06.19)_ 
 
-**15.5.012** Riders taking part in the UCI Gran Fondo World Championships shall represent their
+- **15.5.016** The start of the UCI Gran Fondo World Championships will be organised per age group with at least separated starts between men and women. 
 
-country and wear a jersey of their choice representative of their nationality.
+_(text modified on 27.02.15; 01.01.16)_ 
 
+- **15.5.017** The UCI Gran Fondo World Champion jersey must be worn by World Champions in the following events. 
 
-_(text modified on 01.01.16, 01.11.18)_
+For riders with a master, amateur or cycling for all license: 
 
-**15.5.013** All the details specific to the UCI Gran Fondo World Championships may be obtained
+- In all masters’, cycling-for-all and amateur events in the discipline in which they won the World Champion title; 
 
-directly from the organiser or on the UCI web site.
+- In all UCI Gran Fondo World Series events in the discipline in which they won the World Champion title; 
 
+- In events where amateurs/masters/cycling for all riders race together with elite riders, it is allowed for UCI Gran Fondo World Champions to wear the UCI Gran Fondo World Champion jersey in those events of the discipline in which they won the World Champion title. 
 
-_(text modified on 01.01.16)_
+For riders with an elite license: 
 
-**15.5.014** The championships are organised in the age group 19-34 and further 5-year age-groups:
+CYCLING FOR ALL 
 
-35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 6 ~~5+-6~~ 9, 70-74, 75-79, etc.
+E0122 
 
+12 
 
-_(text modified on 27.02.15; 01.01.16; 25.06.19)_
+**UCI CYCLING REGULATIONS** 
 
-**15.5.015** All age groups as stated in 15.4.014 will have their own title, regardless of the number of
+- In UCI Gran Fondo World Series events in the discipline in which they won the World Champion title; 
 
-riders who have taken part in the race in the relevant age group.
+- In events where amateurs/masters/cycling for all riders race together with elite riders, it is allowed for UCI Gran Fondo World Champions with an Elite license to wear the UCI Gran Fondo World Champion jersey in the discipline in which they won the World Champion title; 
 
+- It is forbidden for UCI Gran Fondo World Champions to wear their World Champion jersey in Elite events of the UCI international calendar. 
 
-_(text modified on 27.02.15; 01.01.16; 25.06.19)_
+_(article introduced on 01.09.17)_ 
 
-**15.5.016** The start of the UCI Gran Fondo World Championships will be organised per age group
+CYCLING FOR ALL 
 
-with at least separated starts between men and women.
+E0122 
 
+13 
 
-_(text modified on 27.02.15; 01.01.16)_
+**UCI CYCLING REGULATIONS** 
 
-**15.5.017** The UCI Gran Fondo World Champion jersey must be worn by World Champions in the
-following events.
-For riders with a master, amateur or cycling for all license:
+## **Chapter VI UCI GRAVEL WORLD SERIE AND WORLD CHAMPIONSHIPS** 
 
-      - In all masters’, cycling-for-all and amateur events in the discipline in which they
-won the World Champion title;
+## **§ 1 General Provisions** 
 
-      - In all UCI Gran Fondo World Series events in the discipline in which they won
-the World Champion title;
+- **15.6.001** The UCI Gravel World Series and UCI Gravel World Championships and all related rights shall be the exclusive property of the UCI. 
 
-      - In events where amateurs/masters/cycling for all riders race together with elite
-riders, it is allowed for UCI Gran Fondo World Champions to wear the UCI Gran
-Fondo World Champion jersey in those events of the discipline in which they
-won the World Champion title.
+- **15.6.001** Participation in the UCI Gravel World Series and UCI Gravel World Championships is **bis** open to holders of Cycling for all, Masters and Elite licences. 
 
+## **Events** 
 
-For riders with an elite license:
+- **15.6.002** The UCI Gravel World Series is composed by individual Cycling for all gravel cycling competitions. 
 
+A UCI Gravel World Series event is a competitive mass-participation event with a massstart (or in waves with intervals between the start groups) fully timed for all participants and split results per age group and gender. 
 
-E0122 CYCLING FOR ALL 12
+A UCI Gravel World Series event shall have the following course characteristics: 
 
+- Gravel races shall take place on any type of unsurfaced roads and can include gravel, forest fire-roads, farm roads and tracks and cobbles. 
 
-**UCI CYCLING REGULATIONS**
+- Tarmac surfaced roads should not total more than 20% (twenty percent) of the race distance. 
 
+- The course should avoid grass and meadows. 
 
-      - In UCI Gran Fondo World Series events in the discipline in which they won the
-World Champion title;
+- Singletrack sections should be kept to a minimum and only be included in the course where required to link other sections and only where an alternative route for essential event vehicles (for example medical services) is available. 
 
-      - In events where amateurs/masters/cycling for all riders race together with elite
-riders, it is allowed for UCI Gran Fondo World Champions with an Elite license
-to wear the UCI Gran Fondo World Champion jersey in the discipline in which
-they won the World Champion title;
+The UCI Gravel World Championships is the last event of the series, open to riders qualified through the series. 
 
-      - It is forbidden for UCI Gran Fondo World Champions to wear their World
-Champion jersey in Elite events of the UCI international calendar.
+## **Eligibility and age categories** 
 
-_(article introduced on 01.09.17)_
+- **15.6.003** UCI Gravel World Series events are open to anyone aged 19 or above and holding a valid licence as per art. 15.6.001bis. 
 
+The age category is determined as follows: 19-34;35–39;40–44;45–49;50–54;55–59;60–64;65-69; 70-74; 75-79, etc 
 
-E0122 CYCLING FOR ALL 13
+## **Course distances and start order** 
 
+- **15.6.004** Course distances should be a minimum of 50 km and a maximum of 200 km, considering course difficulty and elevation gain. Race organisers can propose a shorter distance for older age categories. There shall only be one official distance per age category per event. 
 
-**UCI CYCLING REGULATIONS**
+All course distances in UCI Gravel World Series and UCI Gravel World Championships events must be approved by the UCI. 
 
-### **Chapter VI UCI GRAVEL WORLD SERIE AND WORLD CHAMPIONSHIPS**
+Men and women must have a separate start and be considered as separate races. Collusion or any assistance (pacing, feeding, mechanical assistance, etc.) between riders in separate races is forbidden. 
 
+CYCLING FOR ALL 
 
-**§ 1** **General Provisions**
+E0122 
 
-**15.6.001** The UCI Gravel World Series and UCI Gravel World Championships and all related rights
+14 
 
-shall be the exclusive property of the UCI.
+**UCI CYCLING REGULATIONS** 
 
-**15.6.001** Participation in the UCI Gravel World Series and UCI Gravel World Championships is
-**bis** open to holders of Cycling for all, Masters and Elite licences.
+## **Material and Equipment** 
 
-**Events**
-**15.6.002** The UCI Gravel World Series is composed by individual Cycling for all gravel cycling
+- **15.6.005** Any style of bike shall be permitted. E-bikes are not allowed. 
 
-competitions.
+Handlebars can be of any shape but must be of a one-piece construction with no barends or clip-on extensions allowed (triathlon handlebars and any other handlebars extension system are forbidden). 
 
-A UCI Gravel World Series event is a competitive mass-participation event with a massstart (or in waves with intervals between the start groups) fully timed for all participants
-and split results per age group and gender.
+The wearing of a hard-shell helmet is mandatory. 
 
-A UCI Gravel World Series event shall have the following course characteristics:
+## **Feed and technical assistance zones** 
 
+- **15.6.006** Feeding and technical assistance shall only be available in designated zones (Feed and technical assistance zones). 
 
-        - Gravel races shall take place on any type of unsurfaced roads and can include gravel,
+   - Feed and technical assistance zones should be available at minimum every 25 km. 
 
-forest fire-roads, farm roads and tracks and cobbles.
+## **Exclusivity** 
 
-       - Tarmac surfaced roads should not total more than 20% (twenty percent) of the race
+- **15.6.007** Cycling events that belong to the UCI Gravel World Series shall not be part of or otherwise linked to any other international series of events. 
 
-distance.
+## **Date protection** 
 
-       - The course should avoid grass and meadows.
+- **15.6.008** The dates of UCI Gravel World Series events shall be approved by the UCI. Only one UCI Gravel World Series event per continent shall be held on any given weekend. 
 
+## **Use of the UCI Gravel World Series logo** 
 
-       - Singletrack sections should be kept to a minimum and only be included in the course
+- **15.6.009** The right to use the brand UCI Gravel World Series is granted by the UCI to the organiser, subject to the conditions set out in this section and by the UCI Gravel World Series organiser’s guide in force. No commercial exploitation of the UCI Gravel World Series logo is allowed without obtaining the prior authorisation from the UCI. 
 
-where required to link other sections and only where an alternative route for essential
-event vehicles (for example medical services) is available.
+## **Inclusion** 
 
-The UCI Gravel World Championships is the last event of the series, open to riders
-qualified through the series.
+- **15.6.010** Inclusion in the series implies acceptance by the organiser of the UCI Gravel World Series organiser’s guide and an undertaking on his part to organise the event in accordance with UCI Regulations and other applicable provisions. 
 
-**Eligibility and** **age categories**
-**15.6.003** UCI Gravel World Series events are open to anyone aged 19 or above and holding a
-valid licence as per art. 15.6.001bis.
+## **UCI Gravel World Series organiser’s guide** 
 
-The age category is determined as follows:
-19-34;35–39;40–44;45–49;50–54;55–59;60–64;65-69; 70-74; 75-79, etc
+- **15.6.011** The UCI Gravel World Series organiser’s guide sets out the conditions for inclusion and the special regulations for the series. UCI Gravel World Series events (UCI Gravel World Championships included) are otherwise governed by the Cycling for all regulations (Part XV). 
 
-**Course distances and start order**
-**15.6.004** Course distances should be a minimum of 50 km and a maximum of 200 km, considering
-course difficulty and elevation gain. Race organisers can propose a shorter distance for
-older age categories. There shall only be one official distance per age category per
-event.
+## **Qualification for the UCI Gravel World Championships** 
 
+- **15.6.012** The UCI Management Committee shall decide the qualification system each year. 
 
-All course distances in UCI Gravel World Series and UCI Gravel World Championships
-events must be approved by the UCI.
+## **§ 2 UCI Gravel World Championships** 
 
-Men and women must have a separate start and be considered as separate races.
-Collusion or any assistance (pacing, feeding, mechanical assistance, etc.) between
-riders in separate races is forbidden.
+- **15.6.013** All licence holders according to article 15.6.001bis may participate in the UCI Gravel World Championships. 
 
+Riders taking part in the UCI Gravel World Championships must hold a valid licence issued by their respective national federation (day licences being excluded), must hold a UCI ID and must be adequately insured against accidents and civil responsibility in the country in which the UCI Gravel Championships are held. 
 
-E0122 CYCLING FOR ALL 14
+CYCLING FOR ALL 
 
+E0122 
 
-**UCI CYCLING REGULATIONS**
+15 
 
+**UCI CYCLING REGULATIONS** 
 
-**Material and Equipment**
-**15.6.005** Any style of bike shall be permitted. E-bikes are not allowed.
+- **15.6.014** Riders taking part in the UCI Gravel World Championships shall represent their country and wear a jersey of their choice representative of their nationality. 
 
-Handlebars can be of any shape but must be of a one-piece construction with no barends or clip-on extensions allowed (triathlon handlebars and any other handlebars
-extension system are forbidden).
+- **15.6.015** All the details specific to the UCI Gravel World Championships may be obtained directly from the organiser or on the UCI website. 
 
-The wearing of a hard-shell helmet is mandatory.
+- **15.6.016** The UCI Gravel World Championships are organised in the age group 19-34 and further 5-year age-groups:35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69; 70-74, 75-79, etc. 
 
-**Feed and technical assistance zones**
-**15.6.006** Feeding and technical assistance shall only be available in designated zones (Feed and
-technical assistance zones).
-Feed and technical assistance zones should be available at minimum every 25 km.
+- **15.6.017** All age groups as stated in 15.6.016 will have their own title regardless of the number of riders who have taken part in the race in the relevant age groups. 
 
-**Exclusivity**
-**15.6.007** Cycling events that belong to the UCI Gravel World Series shall not be part of or
+- **15.6.018** The start of the UCI Gravel World Championships will be organised per age group with at least separated starts between men and women. 
 
-otherwise linked to any other international series of events.
+- **15.6.019** The UCI Gravel World Champion jersey must be worn by UCI World Champions in the following events. 
 
-**Date protection**
-**15.6.008** The dates of UCI Gravel World Series events shall be approved by the UCI. Only one
+   - For riders with a Master or Cycling for all license: 
 
-UCI Gravel World Series event per continent shall be held on any given weekend.
+   - In all Masters and Cycling-for-all events in the discipline in which they won the World Champion title; 
 
-**Use of the UCI Gravel World Series logo**
-**15.6.009** The right to use the brand UCI Gravel World Series is granted by the UCI to the
+   - In all UCI Gravel World Series events in the discipline in which they won the World Champion title; 
 
-organiser, subject to the conditions set out in this section and by the UCI Gravel World
-Series organiser’s guide in force. No commercial exploitation of the UCI Gravel World
-Series logo is allowed without obtaining the prior authorisation from the UCI.
+   - In events where Masters/Cycling for all riders race together with Elite riders, it is allowed for UCI Gravel World Champions to wear the UCI Gravel World Champion jersey in those events of the discipline in which they won the World Champion title. 
 
-**Inclusion**
-**15.6.010** Inclusion in the series implies acceptance by the organiser of the UCI Gravel World
+   - For riders with an Elite license: 
 
-Series organiser’s guide and an undertaking on his part to organise the event in
-accordance with UCI Regulations and other applicable provisions.
+   - In UCI Gravel World Series events in the discipline in which they won the World Champion title; 
 
-**UCI Gravel World Series organiser’s guide**
-**15.6.011** The UCI Gravel World Series organiser’s guide sets out the conditions for inclusion and
+   - In events where Masters/Cycling for all riders race together with Elite riders, it is allowed for UCI Gravel World Champions with an Elite license to wear the UCI Gravel World Champion jersey in the discipline in which they won the World Champion title. 
 
-the special regulations for the series. UCI Gravel World Series events (UCI Gravel World
-Championships included) are otherwise governed by the Cycling for all regulations (Part
-XV).
+CYCLING FOR ALL 
 
-**Qualification for the UCI Gravel World Championships**
-**15.6.012** The UCI Management Committee shall decide the qualification system each year.
+E0122 
 
-**§ 2** **UCI Gravel World Championships**
-
-**15.6.013** All licence holders according to article 15.6.001bis may participate in the UCI Gravel
-
-World Championships.
-
-
-Riders taking part in the UCI Gravel World Championships must hold a valid licence
-issued by their respective national federation (day licences being excluded), must hold
-a UCI ID and must be adequately insured against accidents and civil responsibility in the
-country in which the UCI Gravel Championships are held.
-
-
-E0122 CYCLING FOR ALL 15
-
-
-**UCI CYCLING REGULATIONS**
-
-
-**15.6.014** Riders taking part in the UCI Gravel World Championships shall represent their country
-
-and wear a jersey of their choice representative of their nationality.
-
-**15.6.015** All the details specific to the UCI Gravel World Championships may be obtained directly
-
-from the organiser or on the UCI website.
-
-**15.6.016** The UCI Gravel World Championships are organised in the age group 19-34 and further
-
-5-year age-groups:35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69; 70-74, 75-79, etc.
-
-**15.6.017** All age groups as stated in 15.6.016 will have their own title regardless of the number of
-
-riders who have taken part in the race in the relevant age groups.
-
-**15.6.018** The start of the UCI Gravel World Championships will be organised per age group with
-
-at least separated starts between men and women.
-
-**15.6.019** The UCI Gravel World Champion jersey must be worn by UCI World Champions in the
-following events.
-
-For riders with a Master or Cycling for all license:
-
-     - In all Masters and Cycling-for-all events in the discipline in which they won the World
-Champion title;
-
-     - In all UCI Gravel World Series events in the discipline in which they won the World
-Champion title;
-
-     - In events where Masters/Cycling for all riders race together with Elite riders, it is
-allowed for UCI Gravel World Champions to wear the UCI Gravel World Champion
-jersey in those events of the discipline in which they won the World Champion title.
-
-
-For riders with an Elite license:
-
-     - In UCI Gravel World Series events in the discipline in which they won the World
-Champion title;
-
-     - In events where Masters/Cycling for all riders race together with Elite riders, it is
-allowed for UCI Gravel World Champions with an Elite license to wear the UCI
-Gravel World Champion jersey in the discipline in which they won the World
-Champion title.
-
-
-E0122 CYCLING FOR ALL 16
-
+16 
 
