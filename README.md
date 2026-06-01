@@ -18,16 +18,16 @@ A single pass in [`sync.py`](sync.py):
 2. **Download** all PDFs into a temporary directory (removed when the run ends —
    PDFs are never kept on disk).
 3. **Checksum** each PDF (SHA-256) and compare against
-   [`docs/docs/.manifest.json`](docs/docs/.manifest.json) from the previous run to
+   [`docs/.manifest.json`](docs/.manifest.json) from the previous run to
    classify every document as added / changed / removed / unchanged.
 4. **Convert** only the added and changed PDFs to Markdown (via `pymupdf4llm`),
-   extracting any figures/diagrams to `docs/docs/images/`. Markdown and images for
+   extracting any figures/diagrams to `docs/images/`. Markdown and images for
    removed PDFs are deleted, and the manifest is rewritten.
 5. **Build site** (optional) — with `--docs`, render the Markdown into a
    documentation-style static site using [ProperDocs](https://properdocs.org/)
    (a MkDocs-style generator). The site uses the Read the Docs theme, configured
-   in [`docs/properdocs.yml`](docs/properdocs.yml); the build output lands in
-   `docs/site/` and can be deployed to GitHub Pages, or anywhere else.
+   in [`properdocs.yml`](properdocs.yml); the build output lands in `site/`
+   and can be deployed to GitHub Pages, or anywhere else.
 6. **Deploy to GitHub Pages** (optional) — with `--ghdeploy`, build and push the
    site to the `gh-pages` branch, served at `https://<username>.github.io/ucirules`.
 
@@ -56,7 +56,7 @@ source name, the prefix is dropped (e.g. `preliminary-provisions.md`).
 
 ### Images
 
-Figures are rendered to PNGs under `docs/docs/images/`, named
+Figures are rendered to PNGs under `docs/images/`, named
 `<document>.pdf-<page>-<index>.png`, and referenced from the Markdown with
 relative links (`![](images/...)`). Because each image is namespaced by its
 source document, the per-document figures are easy to find, and `clear_images`
@@ -88,19 +88,19 @@ python3 -m venv .venv
 ./.venv/bin/python sync.py --docs --no-sync
 ```
 
-Options: `--out DIR` (default `./docs/docs`), `--dry-run`, `--force`, `--docs`, `--ghdeploy`, `--no-sync`.
+Options: `--out DIR` (default `./docs`), `--dry-run`, `--force`, `--docs`, `--ghdeploy`, `--no-sync`.
 
 `--docs` / `--ghdeploy` first run the sync, then build (and deploy) the site —
 add `--no-sync` to build straight from the committed Markdown with no network
 access. The build step needs `properdocs` and its Read the Docs theme installed
 (both in [`requirements.txt`](requirements.txt)); the built site lands in
-`docs/site/` (gitignored).
+`site/` (gitignored).
 
 ## Change-control workflow
 
 ```bash
 ./.venv/bin/python sync.py
-git add docs/docs/
+git add docs/
 git commit -m "Sync UCI regulations $(date +%F)"
 ```
 
@@ -112,11 +112,11 @@ schedule (cron / CI) to keep a continuous history.
 | Path | Tracked | Description |
 |------|:------:|-------------|
 | `sync.py` | ✅ | Download → checksum-diff → convert; optionally build/deploy the site |
-| `docs/docs/` | ✅ | Generated Markdown, one file per regulation |
-| `docs/docs/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
-| `docs/docs/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
-| `docs/properdocs.yml` | ✅ | ProperDocs site config (Read the Docs theme) |
-| `docs/site/` | ❌ | Built static site (output of `--docs`); rebuild any time |
+| `docs/` | ✅ | Generated Markdown, one file per regulation |
+| `docs/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
+| `docs/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
+| `properdocs.yml` | ✅ | ProperDocs site config (Read the Docs theme) |
+| `site/` | ❌ | Built static site (output of `--docs`); rebuild any time |
 | `.venv/` | ❌ | Local virtualenv |
 | PDFs | ❌ | Pulled to a temp dir per run; never committed |
 

@@ -14,9 +14,9 @@ uniqueness and traceability, e.g.:
 
     11-JO-20260301-E.pdf  ->  part-11-olympic-games__11-JO-20260301-E.md
 
-The manifest (uci_md/.manifest.json) is keyed by source URL — the stable
+The manifest (docs/.manifest.json) is keyed by source URL — the stable
 identity of each document — so renames never desync change detection. PDFs
-never need to be kept on disk. Commit uci_md/ to git and the delta report
+never need to be kept on disk. Commit docs/ to git and the delta report
 tells you exactly what each sync changed.
 
 Usage:
@@ -364,15 +364,18 @@ def build_docs(deploy: bool) -> None:
 
     properdocs is invoked through the running interpreter (`-m`) rather than a
     bare `properdocs` so it resolves from the same environment as this script,
-    even when that venv's bin/ isn't on PATH."""
+    even when that venv's bin/ isn't on PATH. It runs from the script's own
+    directory, where properdocs.yml lives, so the build doesn't depend on the
+    caller's working directory."""
     cmd = "gh-deploy" if deploy else "build"
-    subprocess.run([sys.executable, "-m", "properdocs", cmd], cwd="docs", check=True)
+    root = Path(__file__).resolve().parent
+    subprocess.run([sys.executable, "-m", "properdocs", cmd], cwd=root, check=True)
     print(f"\n{'Deployed to /gh-pages/ branch' if deploy else 'Docs generated'}")
 
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--out", default="./docs/docs", help="Markdown output dir (default: ./docs/docs)")
+    ap.add_argument("--out", default="./docs", help="Markdown output dir (default: ./docs)")
     ap.add_argument("--force", action="store_true", help="re-convert all, ignoring the manifest")
     ap.add_argument("--dry-run", action="store_true", help="report the delta but write nothing")
     ap.add_argument("--docs", action="store_true", help="build the docs site from the Markdown")
