@@ -28,6 +28,7 @@ import argparse
 import hashlib
 import json
 import re
+import subprocess
 import sys
 import tempfile
 import unicodedata
@@ -35,8 +36,6 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-import subprocess
-import properdocs
 import pymupdf4llm
 
 PAGE_URL = "https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat"
@@ -280,7 +279,7 @@ def clear_images(images_dir: Path, stem: str) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--out", default="./docs/docs", help="Markdown output dir (default: /ucirules/docs)")
+    ap.add_argument("--out", default="./docs/docs", help="Markdown output dir (default: ./docs/docs)")
     ap.add_argument("--force", action="store_true", help="re-convert all, ignoring the manifest")
     ap.add_argument("--dry-run", action="store_true", help="report the delta but write nothing")
     ap.add_argument("--docs", action="store_true", help="Generate documentation pages")
@@ -354,18 +353,19 @@ def main() -> int:
             clear_images(images_dir, old[u]["stem"])
             del manifest[u]
             print(f"  deleted {old[u]['name']}")
-        
+
     if args.docs:
-        subprocess.run(["properdocs", "build"], cwd="docs")
-        print(f"\nDocs generated")
+        subprocess.run(["properdocs", "build"], cwd="docs", check=True)
+        print("\nDocs generated")
 
     if args.ghdeploy:
-        subprocess.run(["properdocs", "gh-deploy"], cwd="docs")
-        print(f"\nDeployed to /gh-pages/ branch")
+        subprocess.run(["properdocs", "gh-deploy"], cwd="docs", check=True)
+        print("\nDeployed to /gh-pages/ branch")
 
     manifest_path.write_text(json.dumps(dict(sorted(manifest.items())), indent=2) + "\n")
     print(f"\nManifest updated: {manifest_path}")
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())

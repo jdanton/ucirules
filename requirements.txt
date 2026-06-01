@@ -1,0 +1,8 @@
+# Runtime dependencies for sync.py
+#
+# PDF -> Markdown conversion (always required).
+pymupdf4llm
+
+# Documentation site build/deploy. Only invoked by `sync.py --docs` /
+# `--ghdeploy`, which shell out to the `properdocs` CLI.
+properdocs>=1.6.7
