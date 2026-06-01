@@ -77,9 +77,18 @@ python3 -m venv .venv
 
 # Deploy to github pages branch
 ./.venv/bin/python sync.py --ghdeploy
+
+# Rebuild the site from the existing Markdown, without re-downloading the PDFs
+./.venv/bin/python sync.py --docs --no-sync
 ```
 
-Options: `--out DIR` (default `./docs/docs`), `--dry-run`, `--force`, `--docs`, `--ghdeploy`.
+Options: `--out DIR` (default `./docs/docs`), `--dry-run`, `--force`, `--docs`, `--ghdeploy`, `--no-sync`.
+
+`--docs` / `--ghdeploy` first run the sync, then build (and deploy) the site —
+add `--no-sync` to build straight from the committed Markdown with no network
+access. The build step needs `properdocs` and a theme installed (see
+[`requirements.txt`](requirements.txt)); the built site lands in `docs/site/`
+(gitignored).
 
 ## Change-control workflow
 

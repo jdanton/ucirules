@@ -20,7 +20,7 @@ never need to be kept on disk. Commit uci_md/ to git and the delta report
 tells you exactly what each sync changed.
 
 Usage:
-    ./sync.py [--out uci_md] [--force] [--dry-run] [--docs] [--ghdeploy]
+    ./sync.py [--out DIR] [--force] [--dry-run] [--docs] [--ghdeploy] [--no-sync]
 """
 from __future__ import annotations
 
@@ -36,7 +36,8 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-import pymupdf4llm
+# pymupdf4llm is imported lazily inside sync_markdown() — it pulls in the heavy
+# PyMuPDF stack, which a docs-only build (--docs --no-sync) shouldn't require.
 
 PAGE_URL = "https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat"
 # PDF URLs are embedded in escaped JSON inside the page HTML.
@@ -277,15 +278,10 @@ def clear_images(images_dir: Path, stem: str) -> None:
         p.unlink()
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--out", default="./docs/docs", help="Markdown output dir (default: ./docs/docs)")
-    ap.add_argument("--force", action="store_true", help="re-convert all, ignoring the manifest")
-    ap.add_argument("--dry-run", action="store_true", help="report the delta but write nothing")
-    ap.add_argument("--docs", action="store_true", help="Generate documentation pages")
-    ap.add_argument("--ghdeploy", action="store_true", help="Automagically generate documentation pages and deploy to /gh-pages/ branch")
-    args = ap.parse_args()
-
+def sync_markdown(args) -> bool:
+    """Download PDFs, convert the added/changed ones to Markdown, and rewrite
+    the manifest. Returns False if the run short-circuited (dry run, so the
+    docs step should be skipped too), True otherwise."""
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     manifest_path = out / MANIFEST_NAME
@@ -318,11 +314,11 @@ def main() -> int:
 
         if args.dry_run:
             print("\n(dry run — nothing written)")
-            return 0
+            return False
 
         if not todo and not removed:
             print("\nNothing to do — Markdown is up to date.")
-            return 0
+            return True
 
         images_dir = out / IMG_DIR
         images_dir.mkdir(exist_ok=True)
@@ -331,6 +327,8 @@ def main() -> int:
         link_prefix = images_dir.as_posix() + "/"
 
         manifest = dict(old)
+        if todo:
+            import pymupdf4llm  # heavy import; only needed when converting PDFs
         for u in todo:
             stem, (path, digest) = by_url[u], current[by_url[u]]
             clear_images(images_dir, stem)  # drop stale figures before re-rendering
@@ -354,16 +352,46 @@ def main() -> int:
             del manifest[u]
             print(f"  deleted {old[u]['name']}")
 
-    if args.docs:
-        subprocess.run(["properdocs", "build"], cwd="docs", check=True)
-        print("\nDocs generated")
-
-    if args.ghdeploy:
-        subprocess.run(["properdocs", "gh-deploy"], cwd="docs", check=True)
-        print("\nDeployed to /gh-pages/ branch")
-
     manifest_path.write_text(json.dumps(dict(sorted(manifest.items())), indent=2) + "\n")
     print(f"\nManifest updated: {manifest_path}")
+    return True
+
+
+def build_docs(deploy: bool) -> None:
+    """Build the docs site (and optionally deploy it) from the Markdown already
+    on disk. `properdocs gh-deploy` builds as part of deploying, so a deploy
+    doesn't also need a separate build pass.
+
+    properdocs is invoked through the running interpreter (`-m`) rather than a
+    bare `properdocs` so it resolves from the same environment as this script,
+    even when that venv's bin/ isn't on PATH."""
+    cmd = "gh-deploy" if deploy else "build"
+    subprocess.run([sys.executable, "-m", "properdocs", cmd], cwd="docs", check=True)
+    print(f"\n{'Deployed to /gh-pages/ branch' if deploy else 'Docs generated'}")
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--out", default="./docs/docs", help="Markdown output dir (default: ./docs/docs)")
+    ap.add_argument("--force", action="store_true", help="re-convert all, ignoring the manifest")
+    ap.add_argument("--dry-run", action="store_true", help="report the delta but write nothing")
+    ap.add_argument("--docs", action="store_true", help="build the docs site from the Markdown")
+    ap.add_argument("--ghdeploy", action="store_true", help="build the docs site and deploy it to the gh-pages branch")
+    ap.add_argument("--no-sync", action="store_true",
+                    help="skip the PDF sync; build/deploy docs from the existing Markdown")
+    args = ap.parse_args()
+
+    if args.no_sync:
+        if not (args.docs or args.ghdeploy):
+            sys.exit("--no-sync does nothing without --docs or --ghdeploy.")
+    elif not sync_markdown(args):
+        return 0  # dry run short-circuits before touching the docs site
+
+    # The docs site is built from Markdown on disk, so it runs whether or not
+    # the sync found changes — and a dry run never writes the site.
+    if (args.docs or args.ghdeploy) and not args.dry_run:
+        build_docs(deploy=args.ghdeploy)
+
     return 0
 
 
