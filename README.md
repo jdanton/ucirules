@@ -22,7 +22,8 @@ A single pass in [`sync.py`](sync.py):
 4. **Convert** only the added and changed PDFs to Markdown (via `pymupdf4llm`),
    extracting any figures/diagrams to `docs/docs/images/`. Markdown and images for
    removed PDFs are deleted, and the manifest is rewritten.
-5. **Build site** (optional) By passing the `--docs` command you can generate files for a documentation-style static site using [ProperDocs](https://github.com/ProperDocs/properdocs). These can then be deployed to github pages, or elsewhere, if you wish.
+5. **Build site** (optional) By passing the `--docs` argument you can generate files for a documentation-style static site using [ProperDocs](https://github.com/ProperDocs/properdocs). These can then be deployed to github pages, or elsewhere, if you wish.
+6. **Deploy to github pages** (optional) By passing the `--ghpages` argument you can deploy directly to a `/gh-pages/` branch. This will be available at `[yourusername].github.io/ucirules`
 
 The manifest is keyed by **source URL** — each document's stable identity — so
 files can be renamed freely without desyncing change detection. Each Markdown
