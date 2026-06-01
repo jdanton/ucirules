@@ -1,0 +1,11 @@
+# Runtime dependencies for sync.py
+#
+# PDF -> Markdown conversion (always required).
+pymupdf4llm
+
+# Documentation site build/deploy. Only invoked by `sync.py --docs` /
+# `--ghdeploy`, which shell out to the `properdocs` CLI. properdocs ships no
+# themes itself; the Read the Docs theme (set in docs/properdocs.yml) is a
+# separate package.
+properdocs>=1.6.7
+properdocs-theme-readthedocs>=1.6.5

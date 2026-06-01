@@ -17,11 +17,13 @@ A single pass in [`sync.py`](sync.py):
 2. **Download** all PDFs into a temporary directory (removed when the run ends —
    PDFs are never kept on disk).
 3. **Checksum** each PDF (SHA-256) and compare against
-   [`uci_md/.manifest.json`](uci_md/.manifest.json) from the previous run to
+   [`docs/docs/.manifest.json`](docs/docs/.manifest.json) from the previous run to
    classify every document as added / changed / removed / unchanged.
 4. **Convert** only the added and changed PDFs to Markdown (via `pymupdf4llm`),
-   extracting any figures/diagrams to `uci_md/images/`. Markdown and images for
+   extracting any figures/diagrams to `docs/docs/images/`. Markdown and images for
    removed PDFs are deleted, and the manifest is rewritten.
+5. **Build site** (optional) By passing the `--docs` argument you can generate files for a documentation-style static site using [ProperDocs](https://github.com/ProperDocs/properdocs). These can then be deployed to github pages, or elsewhere, if you wish.
+6. **Deploy to github pages** (optional) By passing the `--ghdeploy` argument you can deploy directly to a `/gh-pages/` branch. This will be available at `[yourusername].github.io/ucirules`
 
 The manifest is keyed by **source URL** — each document's stable identity — so
 files can be renamed freely without desyncing change detection. Each Markdown
@@ -48,7 +50,7 @@ source name, the prefix is dropped (e.g. `preliminary-provisions.md`).
 
 ### Images
 
-Figures are rendered to PNGs under `uci_md/images/`, named
+Figures are rendered to PNGs under `docs/docs/images/`, named
 `<document>.pdf-<page>-<index>.png`, and referenced from the Markdown with
 relative links (`![](images/...)`). Because each image is namespaced by its
 source document, the per-document figures are easy to find, and `clear_images`
@@ -59,7 +61,7 @@ removes a document's old figures before re-rendering so nothing is orphaned.
 ```bash
 # One-time setup
 python3 -m venv .venv
-./.venv/bin/pip install pymupdf4llm
+./.venv/bin/pip install -r requirements.txt
 
 # Sync (run anytime to pull the latest and regenerate changed docs)
 ./.venv/bin/python sync.py
@@ -69,15 +71,30 @@ python3 -m venv .venv
 
 # Rebuild everything from scratch, ignoring the manifest
 ./.venv/bin/python sync.py --force
+
+# Generate docs-style static site pages which can be deployed
+./.venv/bin/python sync.py --docs
+
+# Deploy to github pages branch
+./.venv/bin/python sync.py --ghdeploy
+
+# Rebuild the site from the existing Markdown, without re-downloading the PDFs
+./.venv/bin/python sync.py --docs --no-sync
 ```
 
-Options: `--out DIR` (default `uci_md`), `--dry-run`, `--force`.
+Options: `--out DIR` (default `./docs/docs`), `--dry-run`, `--force`, `--docs`, `--ghdeploy`, `--no-sync`.
+
+`--docs` / `--ghdeploy` first run the sync, then build (and deploy) the site —
+add `--no-sync` to build straight from the committed Markdown with no network
+access. The build step needs `properdocs` and a theme installed (see
+[`requirements.txt`](requirements.txt)); the built site lands in `docs/site/`
+(gitignored).
 
 ## Change-control workflow
 
 ```bash
 ./.venv/bin/python sync.py
-git add uci_md/
+git add docs/docs/
 git commit -m "Sync UCI regulations $(date +%F)"
 ```
 
@@ -89,9 +106,9 @@ schedule (cron / CI) to keep a continuous history.
 | Path | Tracked | Description |
 |------|:------:|-------------|
 | `sync.py` | ✅ | Download → checksum-diff → convert, in one pass |
-| `uci_md/` | ✅ | Generated Markdown, one file per regulation |
-| `uci_md/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
-| `uci_md/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
+| `docs/docs/` | ✅ | Generated Markdown, one file per regulation |
+| `docs/docs/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
+| `docs/docs/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
 | `.venv/` | ❌ | Local virtualenv |
 | PDFs | ❌ | Pulled to a temp dir per run; never committed |
 
