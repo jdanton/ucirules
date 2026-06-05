@@ -129,6 +129,8 @@ git commit -m "Sync UCI regulations $(date +%F)"
 The commit diff is a human-readable record of what UCI changed. Run on a
 schedule (cron / CI) to keep a continuous history.
 
+Each successful sync also appends a timestamped entry to `docs/index.md`.
+
 ## Layout
 
 | Path | Tracked | Description |
