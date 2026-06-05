@@ -3,11 +3,17 @@
 Tracks the [UCI Cycling Regulations](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat)
 as searchable, diffable Markdown.
 
+📖 **Live site: <https://jdanton.github.io/ucirules/>** — the Markdown published
+as a searchable [ProperDocs](https://properdocs.org/) site on GitHub Pages.
+
 The PDFs are published on UCI's CDN and change over time. [`sync.py`](sync.py)
 pulls the current set, detects what changed since the last run, and regenerates
 only the affected Markdown — so `git diff` after a sync shows exactly which
 regulations were amended. It can also publish the Markdown as a browsable
 [ProperDocs](https://properdocs.org/) site (see [Usage](#usage)).
+
+> **Unofficial mirror.** The PDFs on [uci.org](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat)
+> remain the authoritative source; this site is for search and change-tracking.
 
 ## How it works
 
@@ -29,7 +35,8 @@ A single pass in [`sync.py`](sync.py):
    in [`properdocs.yml`](properdocs.yml); the build output lands in `site/`
    and can be deployed to GitHub Pages, or anywhere else.
 6. **Deploy to GitHub Pages** (optional) — with `--ghdeploy`, build and push the
-   site to the `gh-pages` branch, served at `https://<username>.github.io/ucirules`.
+   site to the `gh-pages` branch, served at
+   <https://jdanton.github.io/ucirules/>.
 
 The manifest is keyed by **source URL** — each document's stable identity — so
 files can be renamed freely without desyncing change detection. Each Markdown
@@ -117,6 +124,7 @@ schedule (cron / CI) to keep a continuous history.
 | `docs/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
 | `properdocs.yml` | ✅ | ProperDocs site config (Read the Docs theme) |
 | `site/` | ❌ | Built static site (output of `--docs`); rebuild any time |
+| `gh-pages` branch | — | Published site served at <https://jdanton.github.io/ucirules/> (pushed by `--ghdeploy`) |
 | `.venv/` | ❌ | Local virtualenv |
 | PDFs | ❌ | Pulled to a temp dir per run; never committed |
 
