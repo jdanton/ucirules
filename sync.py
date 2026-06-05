@@ -34,6 +34,7 @@ import tempfile
 import unicodedata
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone
 from pathlib import Path
 
 # pymupdf4llm is imported lazily inside sync_markdown() — it pulls in the heavy
@@ -44,6 +45,7 @@ PAGE_URL = "https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat"
 PDF_RE = re.compile(r'assets\.ctfassets\.net/[^\\"]+\.pdf')
 MANIFEST_NAME = ".manifest.json"
 IMG_DIR = "images"  # figures extracted from PDFs, stored under <out>/images/
+INDEX_NAME = "index.md"
 UA = {"User-Agent": "Mozilla/5.0 (uci-regulations-sync)"}
 
 # Stable titles for the numbered Regulation Parts. Amendment documents often
@@ -268,6 +270,46 @@ def front_matter(pdf_name: str, url: str, digest: str) -> str:
     )
 
 
+def append_diff_log(repo_root: Path, added: list[str], changed: list[str], removed: list[str]) -> None:
+    """Append a timestamped sync summary to docs/index.md."""
+    index_path = repo_root / "docs" / INDEX_NAME
+    if not index_path.exists():
+        index_path.write_text(
+            "# UCI Regulations → Markdown\n\n"
+            "Tracks the UCI Cycling Regulations as searchable, diffable Markdown.\n\n",
+            encoding="utf-8",
+        )
+
+    content = index_path.read_text(encoding="utf-8")
+    history_header = "## Sync history\n"
+    if history_header not in content:
+        content = content.rstrip() + "\n\n" + history_header
+
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    parts: list[str] = [f"!!! note \"{timestamp}\"\n\n"]
+    if added:
+        parts.append("    ### added\n")
+        parts.extend(f"    - docs/{name}\n" for name in sorted(added))
+        parts.append("\n")
+    if changed:
+        parts.append("    ### changed\n")
+        parts.extend(f"    - docs/{name}\n" for name in sorted(changed))
+        parts.append("\n")
+    if removed:
+        parts.append("    ### removed\n")
+        parts.extend(f"    - docs/{name}\n" for name in sorted(removed))
+        parts.append("\n")
+    entry = "".join(parts)
+
+    if history_header in content:
+        before, after = content.split(history_header, 1)
+        content = before + history_header + entry + after.lstrip("\n")
+    else:
+        content += entry
+
+    index_path.write_text(content, encoding="utf-8")
+
+
 def clear_images(images_dir: Path, stem: str) -> None:
     """Remove any figures previously extracted for this document.
 
@@ -327,6 +369,9 @@ def sync_markdown(args) -> bool:
         link_prefix = images_dir.as_posix() + "/"
 
         manifest = dict(old)
+        added_docs: list[str] = []
+        changed_docs: list[str] = []
+        removed_docs: list[str] = []
         if todo:
             import pymupdf4llm  # heavy import; only needed when converting PDFs
         for u in todo:
@@ -338,15 +383,21 @@ def sync_markdown(args) -> bool:
             )
             md = md.replace(link_prefix, IMG_DIR + "/")
             name = output_name(md, stem)
-            # If a change renamed the doc, drop the file under its old name.
             if u in old and old[u]["name"] != name:
-                (out / old[u]["name"]).unlink(missing_ok=True)
+                renamed_from = old[u]["name"]
+                (out / renamed_from).unlink(missing_ok=True)
+                removed_docs.append(renamed_from)
+            if u in old:
+                changed_docs.append(name)
+            else:
+                added_docs.append(name)
             (out / name).write_text(front_matter(stem + ".pdf", u, digest) + md, encoding="utf-8")
             manifest[u] = {"name": name, "stem": stem, "sha256": digest}
             n_imgs = len(list(images_dir.glob(f"{stem}.pdf-*")))
             print(f"  wrote {name} ({len(md):,} chars, {n_imgs} image(s))")
 
         for u in removed:
+            removed_docs.append(old[u]["name"])
             (out / old[u]["name"]).unlink(missing_ok=True)
             clear_images(images_dir, old[u]["stem"])
             del manifest[u]
@@ -354,6 +405,10 @@ def sync_markdown(args) -> bool:
 
     manifest_path.write_text(json.dumps(dict(sorted(manifest.items())), indent=2) + "\n")
     print(f"\nManifest updated: {manifest_path}")
+
+    if added_docs or changed_docs or removed_docs:
+        append_diff_log(Path(__file__).resolve().parent, added_docs, changed_docs, removed_docs)
+        print(f"Appended sync history to: docs/{INDEX_NAME}")
     return True
 
 
