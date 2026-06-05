@@ -8,4 +8,4 @@ pymupdf4llm
 # themes itself; the Read the Docs theme (set in docs/properdocs.yml) is a
 # separate package.
 properdocs>=1.6.7
-mkdocs-material>9.7.6
+mkdocs-material>=9.7.6

@@ -281,24 +281,33 @@ def append_diff_log(repo_root: Path, added: list[str], changed: list[str], remov
         )
 
     content = index_path.read_text(encoding="utf-8")
-    if "## Sync history" not in content:
-        content = content.rstrip() + "\n\n## Sync history\n\n"
+    history_header = "## Sync history\n"
+    if history_header not in content:
+        content = content.rstrip() + "\n\n" + history_header
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-    parts: list[str] = [f"### {timestamp}\n\n"]
+    parts: list[str] = [f"!!! note \"{timestamp}\"\n\n"]
     if added:
-        parts.append("- added:\n")
-        parts.extend(f"  - docs/{name}\n" for name in sorted(added))
+        parts.append("    ### added\n")
+        parts.extend(f"    - docs/{name}\n" for name in sorted(added))
         parts.append("\n")
     if changed:
-        parts.append("- changed:\n")
-        parts.extend(f"  - docs/{name}\n" for name in sorted(changed))
+        parts.append("    ### changed\n")
+        parts.extend(f"    - docs/{name}\n" for name in sorted(changed))
         parts.append("\n")
     if removed:
-        parts.append("- removed:\n")
-        parts.extend(f"  - docs/{name}\n" for name in sorted(removed))
+        parts.append("    ### removed\n")
+        parts.extend(f"    - docs/{name}\n" for name in sorted(removed))
         parts.append("\n")
-    index_path.write_text(content + "".join(parts), encoding="utf-8")
+    entry = "".join(parts)
+
+    if history_header in content:
+        before, after = content.split(history_header, 1)
+        content = before + history_header + entry + after.lstrip("\n")
+    else:
+        content += entry
+
+    index_path.write_text(content, encoding="utf-8")
 
 
 def clear_images(images_dir: Path, stem: str) -> None:

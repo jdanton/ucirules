@@ -1,6 +1,10 @@
 site_name: UCI Regulations → Markdown
 theme:
   name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
   - Home: index.md
   - "Part 1 – General Organisation of Cycling as a Sport":
@@ -84,11 +88,14 @@ nav:
       - "Part 17 — Cycling Esports (in force 01.01.2026) · 46fxAWEzYgjpQMqMe056AP_17-CES-20260101-E": part-17-cycling-esports__46fxAWEzYgjpQMqMe056AP_17-CES-20260101-E.md
   - Other documents:
       - "2024 Competition Factors": 2024-competition-factors__Factors_2024.md
+      - "2024 Competition Factors April 2024": 2024-competition-factors-april-2024__Factors_2024.md
       - "Clarification Guide of the UCI Technical Regulation (01.04.2024)": clarification-guide-of-the-uci-technical-regulation__Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.md
+      - "Congress EN Sept (25.09.2025)": 2025_UCI_CONSTITUTION___CONGRESS_EN_sept.md
       - "Directives for Organisers Following the Measures Taken by the UCI in Response to the Situation in Ukraine": directives-for-organisers-following-the-measures-taken-by__Directives_aux_organisateurs_EN.md
       - "Hydration Testing and Weigh-in Procedure": hydration-testing-and-weigh-in-procedure__FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.md
       - "Implementation of Sprint Zone Protocol (06.01.2025)": implementation-of-sprint-zone-protocol__Arrivees_Sprint_Massif_06.01.2025-E.md
       - "Implementation of “In-Race Communication” Test Protocol (07.08.2024)": implementation-of-in-race-communication-test-protocol___In-race_communication__test_protocol_for_the_2024_season_07.08.2024.md
+      - "In-Race Communication” Test Protocol for the 2024 Season (07.08.2024)": _In-race_communication__test_protocol_for_the_2024_season_07.08.2024.md
       - "Joint Agreements (01.01.2024)": joint-agreements__Joint_Agreements_20240101-E_.md
       - "Junior Development Teams - 2026 Season": junior-development-teams-2026-season__Junior_development_teams_2026.md
       - "List of Individual Neutral Athletes": list-of-individual-neutral-athletes__LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.md
@@ -96,13 +103,16 @@ nav:
       - "Obligatory Invitations to 2026 Events": obligatory-invitations-to-2026-events__OBLIGATORY_INVITATIONS_TO_2026_EVENTS_ANG.md
       - "Participation Equipes Continentales UCI – Epreuves UCI Proseries | Saison 2026": participation-equipes-continentales-uci-epreuves-uci-proseries-saison__UCIProSeries_13052026.md
       - "Policy for the Collecting, Processing (11.02.2019)": policy-for-the-collecting-processing__policy-uci---national-federations-20190211-e.md
+      - "Policy for the Collecting, Processing and Sharing of Data Between Affiliated National Federations and the UCI (11.02.2019)": policy-for-the-collecting-processing-and-sharing-of__policy-uci---national-federations-20190211-e.md
       - "Preliminary Provisions (05.02.2019)": preliminary-provisions.md
       - "Qualification System for the 2026 UCI Gran Fondo World Championships (Niseko, Japan)": qualification-system-for-the-2026-uci-gran-fondo__2026_UCI_Gran_Fondo_World_Championships_-_Qualification_System_ENG.md
       - "Qualification System for the 2026 UCI Gravel World Championships (Nannup, Australia)": qualification-system-for-the-2026-uci-gravel-world__2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.md
       - "Road Teams’ Participation - 2026 Season": road-teams-participation-2026-season__Article2.2.001_Participation_Equipes_2026_20032026.md
       - "Special Provisions for Littering (21.06.2021)": special-provisions-for-littering__dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.md
+      - "Sprint Zone Protocol for Stages \"Expected to Finish in Bunch Sprints (06.01.2025)": sprint-zone-protocol-for-stages-expected-to-finish__Arrivees_Sprint_Massif_06.01.2025-E.md
       - "UCI Anti-Doping Tribunal Procedural Rules": uci-anti-doping-tribunal-procedural-rules__2023.01.01_UCI_ADT_Rules_final.md
-      - "UCI Code of Ethics (04.08.2023)": officials__2023_UCI_ETHICS_EN_04-08-23.md
+      - "UCI Code of Ethics (04.08.2023) · 2023_UCI_ETHICS_EN_04-08-23": officials__2023_UCI_ETHICS_EN_04-08-23.md
+      - "UCI Code of Ethics (04.08.2023) · 2023_UCI_ETHICS_EN_04-08-23": preamble-3__2023_UCI_ETHICS_EN_04-08-23.md
       - "UCI Constitution and Congress (25.09.2025)": article-2-objectives__2025_UCI_CONSTITUTION___CONGRESS_EN_sept.md
       - "UCI Regulations for Results Management": uci-regulations-for-results-management__2024.09.09_UCI_Regulations_for_Results_Management.md
       - "UCI Regulations for Therapeutic Use Exemptions": uci-regulations-for-therapeutic-use-exemptions__2024.09.09_UCI_Regulations_for_therapeutic_use_exemptions.md
