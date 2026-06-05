@@ -1,6 +1,6 @@
 site_name: UCI Regulations → Markdown
 theme:
-  name: readthedocs
+  name: material
 nav:
   - Home: index.md
   - "Part 1 – General Organisation of Cycling as a Sport":
