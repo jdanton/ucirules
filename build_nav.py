@@ -41,6 +41,20 @@ OVERRIDES = {
         "Restart Protocol for Road Cycling",
     "FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy":
         "Cycling Esports Hydration Testing and Weigh-In Policy",
+    # Title heading is split across two lines ("UCI REGULATIONS FOR" /
+    # "TESTING AND INVESTIGATIONS"), so auto-detection truncates it.
+    "2026.06.05_UCI_Regulations_for_Testing_and_Investigations":
+        "UCI Testing and Investigations Regulations",
+    # These say "PART IV CYCLO-CROSS" in the source (Part IV is Mountain Bike);
+    # Cyclo-cross is Part 5, so title/group them there. See PART_OVERRIDE.
+    "Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments": "Cyclo-cross Rule Changes",
+    "Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments": "Cyclo-cross Rule Changes",
+}
+
+# Force a document's Part grouping when the source's own Part label is wrong.
+PART_OVERRIDE = {
+    "Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments": "5",
+    "Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments": "5",
 }
 
 _DATE_YMD = re.compile(r"(?<!\d)(20\d{2})(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])(?!\d)")
@@ -169,8 +183,11 @@ def load_titles() -> dict[str, str]:
 
 
 def part_of(filename: str, md: str) -> str | None:
+    stem = src_stem(filename)
+    if stem in PART_OVERRIDE:
+        return PART_OVERRIDE[stem]
     cands = sync.title_candidates(md)
-    return sync.detect_part_in_title(cands) or sync.detect_part_from_stem(src_stem(filename))
+    return sync.detect_part_in_title(cands) or sync.detect_part_from_stem(stem)
 
 
 def main() -> None:
