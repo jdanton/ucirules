@@ -3,6 +3,7 @@ theme:
   name: readthedocs
 nav:
   - Home: index.md
+  - What changed: whats-changed.md
   - "Part 1 – General Organisation of Cycling as a Sport":
       - "Part 1 — General Organisation of Cycling as a Sport (in force 01.07.2026)": part-01-general-organisation-of-cycling-as-a-sport__1-GEN-20260701-E.md
       - "Part 1 — General Organisation of Cycling as a Sport (amendments 01.01.2026) · 1-E_Amendments_on_01.01.2026": part-01-general-organisation-of-cycling-as-a-sport__1-E_Amendments_on_01.01.2026.md

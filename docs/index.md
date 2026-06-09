@@ -13,6 +13,8 @@ as searchable, diffable Markdown.
 > - Forward-dated rule changes for **2027** and **2028** (Parts 1, 2, 3).
 > - A new **UCI Testing and Investigations Regulations** (05.06.2026) and TIR
 >   amendments, plus refreshed **Ad Hoc Rules** and neutral-rider annex.
+>
+> 👉 See **[What changed](whats-changed.md)** for an article-by-article summary.
 
 The PDFs are published on UCI's CDN and change over time.
 

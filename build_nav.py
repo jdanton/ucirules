@@ -191,7 +191,8 @@ def part_of(filename: str, md: str) -> str | None:
 
 
 def main() -> None:
-    files = sorted(f.name for f in DOCS.glob("*.md") if f.name != "index.md")
+    meta_pages = {"index.md", "whats-changed.md"}  # not regulation documents
+    files = sorted(f.name for f in DOCS.glob("*.md") if f.name not in meta_pages)
     existing = load_titles()           # preserve manual edits
     titles, parts = {}, {}
     for name in files:
@@ -229,6 +230,8 @@ def main() -> None:
         return (0 if "amendment" not in t.lower() else 1, t)
 
     nav = ["nav:", "  - Home: index.md"]
+    if (DOCS / "whats-changed.md").exists():
+        nav.append("  - What changed: whats-changed.md")
     for p in order:
         members = sorted(groups[p], key=sort_key)
         if not members:
