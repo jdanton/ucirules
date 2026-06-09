@@ -1,0 +1,64 @@
+name: Monthly UCI rules sync
+
+# Pulls the latest UCI regulations, converts changed PDFs to Markdown,
+# regenerates the titles/nav, commits to the default branch, and redeploys
+# the docs site to gh-pages. Runs on a schedule and on demand.
+
+on:
+  schedule:
+    # 06:00 UTC on the 1st of every month. Adjust as needed: https://crontab.guru
+    - cron: "0 6 1 * *"
+  workflow_dispatch: {}
+
+# Needed to push the synced Markdown to the default branch and to gh-pages.
+permissions:
+  contents: write
+
+# Never let two syncs run at once (they both push to the repo).
+concurrency:
+  group: uci-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # full history so gh-deploy can update gh-pages
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git identity
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync regulations from UCI
+        run: python sync.py
+
+      - name: Rebuild page titles and nav
+        run: python build_nav.py
+
+      - name: Commit changes and deploy
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No regulation changes this run — nothing to commit or deploy."
+            exit 0
+          fi
+          echo "Changes detected:"
+          git status --short
+          git add -A
+          git commit -m "Monthly UCI sync ($(date -u +%F))"
+          git push
+          # Build from the just-committed Markdown (no second download) and
+          # push the rendered site to the gh-pages branch.
+          python sync.py --ghdeploy --no-sync

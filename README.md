@@ -129,6 +129,27 @@ git commit -m "Sync UCI regulations $(date +%F)"
 The commit diff is a human-readable record of what UCI changed. Run on a
 schedule (cron / CI) to keep a continuous history.
 
+### Scheduled sync (GitHub Actions)
+
+[`.github/workflows/monthly-sync.yml`](.github/workflows/monthly-sync.yml) runs
+the whole flow **on the 1st of each month** (and on demand): it installs the
+dependencies, runs `sync.py`, regenerates the titles/nav with `build_nav.py`,
+and — only if something changed — commits the new Markdown to the default
+branch and redeploys the site to `gh-pages`. No external infrastructure or
+secrets are required; it uses the built-in `GITHUB_TOKEN` (the workflow grants
+itself `contents: write`).
+
+```bash
+# Trigger a run by hand (e.g. to test it) instead of waiting for the schedule:
+gh workflow run monthly-sync.yml
+gh run watch
+```
+
+The automated run handles the mechanical sync + deploy. The narrative
+[What changed](docs/whats-changed.md) summary is written separately (it reads
+the amendment text), so refresh that by hand after a sync that you want to
+annotate.
+
 ## Layout
 
 | Path | Tracked | Description |
@@ -137,6 +158,7 @@ schedule (cron / CI) to keep a continuous history.
 | `docs/` | ✅ | Generated Markdown, one file per regulation |
 | `docs/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
 | `docs/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
+| `.github/workflows/monthly-sync.yml` | ✅ | Scheduled monthly sync + deploy (GitHub Actions) |
 | `build_nav.py` | ✅ | Scans `docs/` → clean page titles + grouped nav |
 | `titles.yml` | ✅ | `{filename: title}` mapping (editable; drives the nav) |
 | `properdocs.yml` | ✅ | ProperDocs site config + generated `nav:` |
