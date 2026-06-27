@@ -76,8 +76,30 @@ def clean_markdown(md: str) -> str:
     # ("_Riders_ ," -> "Riders ,"); tidy that, then collapse blank-line gaps.
     md = re.sub(r" +([,;:])", r"\1", md)
     md = re.sub(r" +\.(\s|$)", r".\1", md)
+    # Tidy spaced apostrophes the converter leaves ("Rider ’ s" -> "Rider’s",
+    # and the italic-wrapped "_Rider_ ’ _s_" -> "_Rider’s_").
+    md = re.sub(r"_ ’ _([A-Za-z])_", r"’\1_", md)
+    md = re.sub(r"([A-Za-z]) ['’] ([A-Za-z])", lambda m: m.group(0).replace(" ", ""), md)
     md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip() + "\n"
+
+
+_BANNER_MARK = "Amendment — tracked changes."
+_BANNER = (
+    "> **" + _BANNER_MARK + "** This document shows UCI’s amendments as tracked "
+    "changes: ~~struck-through~~ text is being removed and the adjacent plain text "
+    "is its replacement. Some character-level edits (numbers, word fragments) from "
+    "the source PDF may display imperfectly — for the clean, in-force wording see "
+    "the consolidated regulation in the sidebar or the "
+    "[official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).\n"
+)
+
+
+def add_amendment_banner(md: str) -> str:
+    """Prepend an explanatory banner to docs that carry tracked changes."""
+    if "~~" not in md or _BANNER_MARK in md:
+        return md
+    return _BANNER + "\n" + md
 
 
 _IMG_REF = re.compile(r"!\[\]\(images/([^)]+\.png)\)")

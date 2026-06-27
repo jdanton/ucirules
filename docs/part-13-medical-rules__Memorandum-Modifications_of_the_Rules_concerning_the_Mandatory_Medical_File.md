@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6WlKUtPYFvKGW0AiGH2SRz/eba
 source_sha256: fd3321d28a7378df6fb8b43428c364ed550a8202a4a3ccd1d013b6450b4cafe1
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/Memorandum-Modifications_of_the_Rules_concerning_the_Mandatory_Medical_File.pdf-0001-00.png)
 
 ## MEMORANDUM 

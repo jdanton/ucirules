@@ -554,7 +554,7 @@ Page **24** of **52**
 
    - c) The relevant evidence in support of those facts that the _UCI_ considers demonstrate that the _Rider_ or other _Person_ may have committed (an) antidoping rule violation(s); 
 
-   - d) The _Rider_ or other _Person_ ’ _s_ right to provide an explanation within a reasonable deadline; 
+   - d) The _Rider_ or other _Person’s_ right to provide an explanation within a reasonable deadline; 
 
    - e) The opportunity for the _Rider_ or other _Person_ to provide _Substantial Assistance_ as set out in _UCI_ ADR Article 10.7.1 _,_ to admit the anti-doping rule violation and potentially benefit from a one-year reduction in the period of _Ineligibility_ in _UCI_ ADR Article 10.8.1 (if applicable) or seek to enter into a case resolution agreement in _UCI_ ADR Article 10.8.2 or an Acceptance of Consequences under _UCI_ ADR 8.2; and 
 
@@ -684,7 +684,7 @@ Page **29** of **52**
 
 ## **7.0 Charge** 
 
-- **7.1** If, after receipt of the _Rider_ or other _Person_ ’ _s_ explanation or expiry of the deadline to provide such explanation, the _UCI_ is (still) satisfied that the _Rider_ or other _Person_ has committed (an) anti-doping rule violation(s), the _UCI_ shall promptly charge the _Rider_ or other _Person_ with the anti-doping rule violation(s) they are asserted to have breached. 
+- **7.1** If, after receipt of the _Rider_ or other _Person’s_ explanation or expiry of the deadline to provide such explanation, the _UCI_ is (still) satisfied that the _Rider_ or other _Person_ has committed (an) anti-doping rule violation(s), the _UCI_ shall promptly charge the _Rider_ or other _Person_ with the anti-doping rule violation(s) they are asserted to have breached. 
 
 In this letter of charge, the _UCI_: 
 

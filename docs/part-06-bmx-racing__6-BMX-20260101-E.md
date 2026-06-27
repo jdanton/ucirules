@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/122Ylx2XJjbqzh6xPCu7sK/fe7
 source_sha256: f483e83f6d3b398ecb8f1ec363e1994639cdfe444ba35dd933c798a4b7b5525a
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ## **PART 6 BMX RACING** 
 
 **Version on 01.01.2026** 

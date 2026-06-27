@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/62yOW9g0rfiOt7LjHolXEU/16d
 source_sha256: 1e5d29abf37646059a2f0fbb77b808678ffc17509159b3c1072408444f4812d5
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 1 March 2026 
 
 ![](images/11-JO-20260301-E_Amendments_on_01.03.2026.pdf-0001-01.png)

@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/MiBPXV3F9Y4jGKqffTUNr/9005
 source_sha256: cd5a0185206086a7a47a752610569a8db09bf9cc4a62f7fb9b7b7f848632b818
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Version on 01.07.2026** 
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 

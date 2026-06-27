@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2uOSbE8gAbYJWGZF6Zdb0c/ba7
 source_sha256: a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0001-00.png)
 
 **----- Start of picture text -----**<br>

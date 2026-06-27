@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/dd3
 source_sha256: eb04425e201b023e86c5ad1219b601b5595f92f85c48b52e3c0dbf6c0a5c46a9
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0001-00.png)
 
 ## **CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION** 

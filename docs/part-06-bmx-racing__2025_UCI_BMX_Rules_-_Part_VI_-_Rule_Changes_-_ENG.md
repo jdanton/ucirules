@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/v3xLMwpHRPreGOS5B7uhk/fd28
 source_sha256: ac8feb86739c33fd894e19554958c73fd759d0bb84519ce2c335607aaaadd2c6
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG.pdf-0001-00.png)
 
 ## MEMORANDUM 
@@ -486,7 +488,7 @@ Within the context of each individual ~~event U~~ CI BMX Racing World Cup event,
 
 After the final stage of the UCI BMX Racing World Cup, the UCI will award special UCI BMX Racing World Cup trophies to the top three riders in the UCI BMX Racing World Cup ranking for each category. 
 
-~~Each season~~ Additionally, the UCI shall give the first-place overall finisher in each category the title of “UCI BMX Racing World Cup Winner”. This winner shall be the highest ranked rider in the UCI BMX Racing World Cup ranking following the last UCI BMX Racing World Cup stage in that season. This title shall remain the property of the UCI and may not be used in conjunction with any product endorsement or for any other commercial purpose ’ without ~~it s~~ the prior express consent of the UCI. ~~After the final stage of the UCI BMX Racing World Cup, the UCI will award special UCI World Cup trophies to the top three riders in the UCI BMX Racing World Cup ranking for each category.~~ 
+~~Each season~~ Additionally, the UCI shall give the first-place overall finisher in each category the title of “UCI BMX Racing World Cup Winner”. This winner shall be the highest ranked rider in the UCI BMX Racing World Cup ranking following the last UCI BMX Racing World Cup stage in that season. This title shall remain the property of the UCI and may not be used in conjunction with any product endorsement or for any other commercial purpose’without ~~it s~~ the prior express consent of the UCI. ~~After the final stage of the UCI BMX Racing World Cup, the UCI will award special UCI World Cup trophies to the top three riders in the UCI BMX Racing World Cup ranking for each category.~~ 
 
 ~~Additionally, the highest ranked male participating in the Under 23 category and the highest ranked female participating in the Under 23 category within the UCI BMX Racing World Cup ranking following each event shall be recognized.~~ 
 

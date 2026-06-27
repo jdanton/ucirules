@@ -26,6 +26,7 @@ def main() -> None:
         front, body = (m.group(1), m.group(2)) if m else ("", text)
         body = clean_md.clean_markdown(body)
         body = clean_md.prune_tiny_images(body, DOCS / "images")
+        body = clean_md.add_amendment_banner(body)
         cleaned = front + body
         if cleaned != text:
             f.write_text(cleaned, encoding="utf-8")

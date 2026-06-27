@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1KTLUdyYs5GpBYK6N17Arr/078
 source_sha256: 651bbff9f9ad6ccef0d7fe6335e477361491f751ee6573edb9d9bba974135267
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
 
 ## MEMORANDUM 

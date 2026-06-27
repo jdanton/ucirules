@@ -468,7 +468,7 @@ _[Comment to Article 9.2: Where Anti-Doping Organizations are relying upon the R
 
 - **9.3** The _TUE_ application shall be dealt with in accordance with the principles of strict medical confidentiality. The members of all relevant TUECs, any consulted independent experts and the relevant staff of the _UCI_ shall conduct all of their activities relating to the process in strict confidence and shall sign appropriate confidentiality agreements. In particular, they shall keep the following information confidential: 
 
-   - a) All medical information provided by the _Rider_ and physician(s) involved in the _Rider_ ’ _s_ care; and 
+   - a) All medical information provided by the _Rider_ and physician(s) involved in the _Rider’s_ care; and 
 
    - b) All details of the application, including the name of the physician(s) involved in the process. 
 

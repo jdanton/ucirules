@@ -342,6 +342,7 @@ def sync_markdown(args) -> bool:
             md = clean_md.clean_markdown(md)  # strip printed TOCs and page furniture
             md = clean_md.prune_tiny_images(md, images_dir)  # drop stray number-images
             name = output_name(md, stem)
+            md = clean_md.add_amendment_banner(md)  # note tracked-change docs
             # If a change renamed the doc, drop the file under its old name.
             if u in old and old[u]["name"] != name:
                 (out / old[u]["name"]).unlink(missing_ok=True)

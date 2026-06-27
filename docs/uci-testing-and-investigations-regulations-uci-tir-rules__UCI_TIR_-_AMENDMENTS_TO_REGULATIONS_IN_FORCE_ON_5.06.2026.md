@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7eOPBFpvGU9U1qJqYFmtBd/8af
 source_sha256: 4195bf5180ca68b454a832633e72613783728917dda0e9fc23797b64a3701f2f
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/UCI_TIR_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_ON_5.06.2026.pdf-0001-00.png)
 
 ## MEMORANDUM 
@@ -28,7 +30,7 @@ _[Comment to Annex D.3.1 c): Part of the sixty (60) minute wait includes the Rid
 
 ## **I.2 Requirements** 
 
-- **I.2.I** Planning shall consider the _Rider_ ’ _s_ whereabouts information to ensure _Sample_ collection does not occur within ~~two~~ sixty ( ~~26~~ 0) ~~hours~~ minutes of the _Rider_ ’ _s_ training, participation in _Competition_ or other similar physical activity. If the _Rider_ has trained or competed less than ~~two~~ sixty ( ~~26~~ 0) ~~hours~~ minutes before the time the _Rider_ has been notified of their selection, the DCO or other designated _Sample_ Collection Personnel shall chaperone the _Rider_ until this ~~two hours~~ 60 minutes period has 
+- **I.2.I** Planning shall consider the _Rider’s_ whereabouts information to ensure _Sample_ collection does not occur within ~~two~~ sixty ( ~~26~~ 0) ~~hours~~ minutes of the _Rider’s_ training, participation in _Competition_ or other similar physical activity. If the _Rider_ has trained or competed less than ~~two~~ sixty ( ~~26~~ 0) ~~hours~~ minutes before the time the _Rider_ has been notified of their selection, the DCO or other designated _Sample_ Collection Personnel shall chaperone the _Rider_ until this ~~two hours~~ 60 minutes period has 
 
 elapsed. 
 

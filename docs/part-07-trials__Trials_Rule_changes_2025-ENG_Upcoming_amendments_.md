@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3Jr7WV5r0jjoXIOaLq0fCg/2f0
 source_sha256: 3c94cde5af60a83c833c00e7cebcff298c2c623981d6a5cf5c6b987b01299554
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
 
 ## MEMORANDUM 

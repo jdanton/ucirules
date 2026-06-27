@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/ERSIpwioDU4yk69S3eVre/718e
 source_sha256: 336178d11e91161a2d46038c38ce4b148929db02f96bab12f0ef8de85e91c40f
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 8.06.2026 
 
 ![](images/ADT_Rules_-_amendments_on_1.07.26.pdf-0001-01.png)

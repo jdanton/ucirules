@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/YJGaLYiiXnNOv7PW2I3Jz/25d0
 source_sha256: 21d0d185ea9c633b99b22c4516a9d80f8bd7c56f0362ad7ac84f65e180da206e
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0001-00.png)
 
 Sprint zone protocol for stages "expected to finish in bunch sprints" Decision of the UCI Management Committee of 18 December 2024 Applicable while published on the UCI website 

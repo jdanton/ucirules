@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4j05LGT7utAvK9EjXMPogW/18d
 source_sha256: c52549fa0338f24f5a1fc57fd15d865c9d3e1ce156efecd917638f511ff1e719
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0001-00.png)
 
 ## MEMORANDUM 

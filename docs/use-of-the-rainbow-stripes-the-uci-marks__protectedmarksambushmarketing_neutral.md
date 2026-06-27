@@ -46,5 +46,4 @@ This measure applies worldwide and across all platforms.
 
 Similarly, any commercial or promotional activity on the competition venue -  i.e. any area used in relation to the competition, including but not limited to the sport circuit, the hospitality area, the podium, the commercial partners’ area and any other locations, areas and/or facilities in connection with the competition, including catering licensees – is strictly forbidden unless conducted with express prior consent of the UCI or of the UCI-appointed Organizing Committee. 
 
-For more information, please contact legal@uci.ch. 
-
+For more information, please contact legal@uci.ch.

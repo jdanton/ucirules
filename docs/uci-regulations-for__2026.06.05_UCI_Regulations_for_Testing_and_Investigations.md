@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/731
 source_sha256: 13a4c2353f06d87bd2d39ea01c3bd5cb619defacef0fdf850d00248dcfd37649
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 UCI Anti-Doping Regulations 
 
 ## **UCI REGULATIONS FOR** 
@@ -1236,9 +1238,9 @@ asked to provide an additional _Sample_. If the _Rider_ refuses to provide an ad
 
    - h) The _Rider_ ' _s_ home address, email address and telephone number; 
 
-   - i) The _Rider_ ’ _s_ sport and discipline (in accordance with the TDSSA); 
+   - i) The _Rider’s_ sport and discipline (in accordance with the TDSSA); 
 
-   - j) The name of the _Rider_ ’ _s_ coach and doctor (if applicable); 
+   - j) The name of the _Rider’s_ coach and doctor (if applicable); 
 
    - k) The _Sample_ code number and reference to the equipment manufacturer; and where the _Sample_ collected is dried blood spot, detailed information on the model of the dried blood spot _Sample_ Collection Equipment (e.g., catalogue number) if the equipment manufacturer commercializes several dried blood spot _Sample_ collection kits; 
 
@@ -1268,7 +1270,7 @@ UCI TIR – February 2023
 
 - w) _Rider_ consent or otherwise for the use of the _Sample(s)_ for research purposes; 
 
-- x) The name and signature of the _Rider_ ’ _s_ representative (if applicable), as per Article 7.4.6; 
+- x) The name and signature of the _Rider’s_ representative (if applicable), as per Article 7.4.6; 
 
 - y) The name and signature of the _Rider_ 
 
@@ -1338,7 +1340,7 @@ _[Comment to 9.3.2:  Anti-Doping Organizations should discuss transportation req
 
 - **9.3.4** The DCO shall send all relevant _Sample_ Collection Session documentation to the _Sample_ Collection Authority, using the _Sample_ Collection Authority’s authorized transport method (which may include electronic transmission), as soon as practicable after the completion of the _Sample_ Collection Session. 
 
-- **9.3.5** If the _Samples_ with accompanying documentation or the _Sample_ Collection Session documentation are not received at their respective intended destinations, or if a _Sample_ ’ _s_ integrity, identity or security may have been compromised during transport, the _Sample_ Collection Authority shall check the Chain of Custody, and the _Testing_ Authority shall consider whether the _Samples_ should be voided. 
+- **9.3.5** If the _Samples_ with accompanying documentation or the _Sample_ Collection Session documentation are not received at their respective intended destinations, or if a _Sample’s_ integrity, identity or security may have been compromised during transport, the _Sample_ Collection Authority shall check the Chain of Custody, and the _Testing_ Authority shall consider whether the _Samples_ should be voided. 
 
 UCI TIR – February 2023 
 
@@ -1484,7 +1486,7 @@ _[Comment to A.4.1: The Testing Authority in the case of a Rider with an intelle
 
 UCI TIR – February 2023 
 
-- **A.4.5** The DCO may decide that alternative _Sample_ Collection Equipment or an alternative _Doping Control_ Station will be used when required to enable the _Rider_ to provide the _Sample_, as long as the _Sample_ ’ _s_ integrity, identity and security will not be affected. 
+- **A.4.5** The DCO may decide that alternative _Sample_ Collection Equipment or an alternative _Doping Control_ Station will be used when required to enable the _Rider_ to provide the _Sample_, as long as the _Sample’s_ integrity, identity and security will not be affected. 
 
 - **A.4.6** _Riders_ who are using urine collection or drainage systems are required to eliminate existing urine from such systems before providing a urine _Sample_ for analysis. Where possible, the existing urine collection or drainage system should be replaced with a new, unused catheter or drainage system prior to collection of the _Sample_ .. 
 
@@ -1542,7 +1544,7 @@ UCI TIR – February 2023
 
 ## **C.1. Objective** 
 
-To collect a _Rider_ ’ _s_ urine _Sample_ in a manner that ensures: 
+To collect a _Rider’s_ urine _Sample_ in a manner that ensures: 
 
 - a) Consistency with relevant principles of internationally recognized standard precautions in healthcare settings so that the health and safety of the _Rider_ and _Sample_ Collection Personnel are not compromised; 
 
@@ -1572,11 +1574,11 @@ The collection of a urine _Sample_ begins with ensuring the _Rider_ is informed 
 
 UCI TIR – February 2023 
 
-- **C.4.2** The DCO shall ensure that the _Rider_ is offered a choice of _Sample_ collection vessels for collecting the _Sample_. If the nature of an _Rider_ ’ _s_ impairment requires that they must use additional or other equipment as provided for in Annex A - Modifications for _Riders_ with Impairments, the DCO shall inspect that equipment to ensure that it will not affect the integrity, identity or security of the _Sample_. 
+- **C.4.2** The DCO shall ensure that the _Rider_ is offered a choice of _Sample_ collection vessels for collecting the _Sample_. If the nature of an _Rider’s_ impairment requires that they must use additional or other equipment as provided for in Annex A - Modifications for _Riders_ with Impairments, the DCO shall inspect that equipment to ensure that it will not affect the integrity, identity or security of the _Sample_. 
 
 - **C.4.3** When the _Rider_ selects a collection vessel, and for selection of all other _Sample_ Collection Equipment that directly holds the urine _Sample_, the DCO will instruct the _Rider_ to check that all seals on the selected equipment are intact and the equipment has not been tampered with. If the _Rider_ is not satisfied with the selected equipment, they may select another. If the _Rider_ is not satisfied with any of the equipment available for selection, this shall be recorded by the DCO. If the DCO does not agree with the _Rider_ that all of the equipment available for the selection is unsatisfactory, the DCO shall instruct the _Rider_ to proceed with the _Sample_ Collection Session. If the DCO agrees with the _Rider_ that all of the equipment available for the selection is unsatisfactory, the DCO shall terminate the urine _Sample_ collection, and this shall be recorded by the DCO. 
 
-- **C.4.4** The _Rider_ shall retain control of the collection vessel and any _Sample_ provided until the _Sample_ (or partial _Sample_ ) is sealed, unless assistance is required by reason of a _Rider_ ’ _s_ impairment as provided for in Annex A - Modifications for _Riders_ with Impairments. Additional assistance may be provided in exceptional circumstances to any _Rider_ by the _Rider’s_ representative or _Sample_ Collection Personnel during the _Sample_ Collection Session where authorized by the _Rider_ and agreed to by the DCO. 
+- **C.4.4** The _Rider_ shall retain control of the collection vessel and any _Sample_ provided until the _Sample_ (or partial _Sample_ ) is sealed, unless assistance is required by reason of a _Rider’s_ impairment as provided for in Annex A - Modifications for _Riders_ with Impairments. Additional assistance may be provided in exceptional circumstances to any _Rider_ by the _Rider’s_ representative or _Sample_ Collection Personnel during the _Sample_ Collection Session where authorized by the _Rider_ and agreed to by the DCO. 
 
 - **C.4.5** The DCO/Chaperone who witnesses the passing of the _Sample_ shall be of the same gender as the _Rider_ providing the _Sample_ and where applicable, based on the gender of the _Event_ the _Rider_ competed in. 
 
@@ -1584,7 +1586,7 @@ UCI TIR – February 2023
 
 - **C.4.7** The DCO/Chaperone and _Rider_ shall proceed to an area of privacy to collect a _Sample_. 
 
-- **C.4.8** The DCO/Chaperone shall ensure an unobstructed view of the _Sample_ leaving the _Rider_ ’ _s_ body and shall continue to observe the _Sample_ after provision until the _Sample_ is securely sealed. In order to ensure a clear and unobstructed view of the passing of the _Sample_, the DCO/Chaperone shall instruct the _Rider_ to remove or adjust any clothing which restricts the DCO’s/Chaperone’s clear view of _Sample_ provision. 
+- **C.4.8** The DCO/Chaperone shall ensure an unobstructed view of the _Sample_ leaving the _Rider’s_ body and shall continue to observe the _Sample_ after provision until the _Sample_ is securely sealed. In order to ensure a clear and unobstructed view of the passing of the _Sample_, the DCO/Chaperone shall instruct the _Rider_ to remove or adjust any clothing which restricts the DCO’s/Chaperone’s clear view of _Sample_ provision. 
 
 - **C.4.9** The DCO/Chaperone shall ensure that urine passed by the _Rider_ is collected in the collection vessel to its maximum capacity and thereafter the _Rider_ is encouraged to fully empty their bladder into the toilet. The DCO shall verify, in full view of the _Rider_, that the Suitable Volume of Urine for Analysis has been provided. 
 
@@ -1612,7 +1614,7 @@ UCI TIR – February 2023
 
 ## **D.1. Objective** 
 
-To collect a _Rider_ ’ _s_ blood _Sample_ by venipuncture in a manner that ensures: 
+To collect a _Rider’s_ blood _Sample_ by venipuncture in a manner that ensures: 
 
 - a) Consistency with relevant principles of internationally recognized standard precautions in healthcare settings, and is collected by a suitably qualified _Person_, so that the health and safety of the _Rider_ and _Sample_ Collection Personnel are not compromised; 
 
@@ -1922,13 +1924,13 @@ UCI TIR – February 2023
 
 ## **I.1. Objective** 
 
-To collect a _Rider_ ’ _s_ blood _Sample_ by venipuncture _,_ intended for use in connection with the measurement of individual _Rider_ blood variables within the framework of the hematological module of the _Athlete Biological Passport_ program, in a manner appropriate for such use. The requirements of this Annex are additional requirements to those contained in Annex D – Collection of Venous Blood _Samples_. 
+To collect a _Rider’s_ blood _Sample_ by venipuncture _,_ intended for use in connection with the measurement of individual _Rider_ blood variables within the framework of the hematological module of the _Athlete Biological Passport_ program, in a manner appropriate for such use. The requirements of this Annex are additional requirements to those contained in Annex D – Collection of Venous Blood _Samples_. 
 
 ## **I.2.** 
 
 ## **Requirements** 
 
-- **I.2.1** Planning shall consider the _Rider_ ’ _s_ whereabouts information to ensure _Sample_ collection does not occur within sixty (60) minutes of the _Rider_ ’ _s_ training, participation in _Competition_ or other similar physical activity. If the _Rider_ has trained or competed less than sixty (60) minutes before the time the _Rider_ has been notified of their selection, the DCO or other designated _Sample_ Collection Personnel shall chaperone the _Rider_ until this sixty-minute period has elapsed. 
+- **I.2.1** Planning shall consider the _Rider’s_ whereabouts information to ensure _Sample_ collection does not occur within sixty (60) minutes of the _Rider’s_ training, participation in _Competition_ or other similar physical activity. If the _Rider_ has trained or competed less than sixty (60) minutes before the time the _Rider_ has been notified of their selection, the DCO or other designated _Sample_ Collection Personnel shall chaperone the _Rider_ until this sixty-minute period has elapsed. 
 
 _(text modified on 5.06.26)_ 
 
@@ -2050,7 +2052,7 @@ UCI TIR – February 2023
 
 ## **J.1 Objective** 
 
-To collect a _Rider_ ’ _s_ blood as dried blood spot _Sample_ in a manner that ensures _:_ 
+To collect a _Rider’s_ blood as dried blood spot _Sample_ in a manner that ensures _:_ 
 
 - a) Consistency with relevant principles of internationally recognized standard precautions in healthcare settings, and is collected by a suitably trained _Person_, so that the health and safety of the _Rider_ and _Sample_ Collection Personnel are not compromised; 
 

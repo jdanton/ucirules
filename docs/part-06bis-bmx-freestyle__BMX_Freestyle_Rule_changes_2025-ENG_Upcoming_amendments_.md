@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/64e6MN4YxtqT8UcQFdekcg/417
 source_sha256: fe585eaadb38f11d2a9b4d6b5cd87d98169a0968cac1eaca94f2ddf3cbcf3610
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
 
 MEMORANDUM 26.09.2024 

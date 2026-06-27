@@ -4,6 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/NAeT9EN3grfH1b8uTXoYv/9374
 source_sha256: 7e9caf4a6b22e654f0b9499e091ad353a27dfb39ff6d682b5758894d683c02eb
 converter: pymupdf4llm
 ---
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
 MEMORANDUM 01.07.2025 
 
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0001-01.png)
