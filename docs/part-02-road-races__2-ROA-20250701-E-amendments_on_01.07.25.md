@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7BIcNmTrbFCG018F0G3lhA/e83
 source_sha256: 7fa277326c29a0dca546c557d6f1140a62dbf46205815834718e7057ec0de91d
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 01.07.2025 
 
@@ -50,7 +50,7 @@ If a rider is leading more than one classification, the order of priority of the
 
 4. others (young rider, combined, etc.); the order of priority among these other jerseys shall be set by the organiser. 
 
-In this situation, the organiser may require another rider next on the relevant classification to wear a jersey which is not being worn by the leader of that classification. However, if this rider must wear his world, continental or national champion's jersey, ~~or the leader's jersey of a UCI cup, circuit, series or classification~~, he shall wear that jersey. 
+In this situation, the organiser may require another rider next on the relevant classification to wear a jersey which is not being worn by the leader of that classification. However, if this rider must wear his world, continental or national champion's jersey, <del>or the leader's jersey of a UCI cup, circuit, series or classification</del>, he shall wear that jersey. 
 
 In the situation where the leader of a classification does not take the start of a stage, the virtual leader of the relevant classification is allowed to wear the related distinctive jersey, subject to the consent of both the organiser and the president of the commissaires’ panel. 
 

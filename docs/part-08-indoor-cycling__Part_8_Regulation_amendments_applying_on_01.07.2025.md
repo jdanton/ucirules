@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4SZyGyu6jke9EAVgMgAbbh/817
 source_sha256: 25e1732993ed3e0d1196661e04b8bf1bbc97c6babf515157de734b0cc13763fd
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 16 June 2025 
 
@@ -99,25 +99,25 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 
 Page **2** / **4** 
 
-||~~**N° teams TOTAL**~~|~~**4**~~|~~**5**~~|~~**10**~~|~~**10**~~|~~**11**~~|~~**12**~~|~~**13**~~|~~**14**~~|~~**15**~~|~~**16**~~|~~**17**~~|~~**18**~~|~~**19**~~|~~**20**~~|~~**21**~~|
+||<del>**N° teams TOTAL**</del>|<del>**4**</del>|<del>**5**</del>|<del>**10**</del>|<del>**10**</del>|<del>**11**</del>|<del>**12**</del>|<del>**13**</del>|<del>**14**</del>|<del>**15**</del>|<del>**16**</del>|<del>**17**</del>|<del>**18**</del>|<del>**19**</del>|<del>**20**</del>|<del>**21**</del>|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||~~**N° teams League**~~<br>~~**A**~~|~~**4**~~|~~**5**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|~~**6**~~|
-||~~N° games Group~~<br>~~phase~~|~~6~~|~~10~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|~~15~~|
-||~~Quarterfinal~~||~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|
-||~~Lucky Loser~~||~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|
-||~~Semifinal~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|~~2~~|
-||~~Match for 3rdplace~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|
-||~~Final~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|
-||~~**N° teams League**~~<br>~~**B**~~||||~~**4**~~|~~**5**~~|~~**6**~~|~~**7**~~|~~**4**~~|~~**5**~~|~~**5**~~|~~**6**~~|~~**6**~~|~~**5**~~|~~**6**~~|~~**5**~~|
-||~~N° games Group~~<br>~~phase~~||||~~6~~|~~10~~|~~15~~|~~21~~|~~6~~|~~10~~|~~10~~|~~15~~|~~15~~|~~10~~|~~15~~|~~10~~|
-||~~Relegation~~||||~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|
-||~~**N° teams League**~~<br>~~**C**~~||||||||~~**4**~~|~~**4**~~|~~**5**~~|~~**5**~~|~~**6**~~|~~**4**~~|~~**4**~~|~~**5**~~|
-||~~N° games Group~~<br>~~phase~~||||||||~~6~~|~~6~~|~~10~~|~~10~~|~~15~~|~~6~~|~~6~~|~~10~~|
-||~~Relegation~~||||||||~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|~~1~~|
-||~~**N° teams League**~~<br>~~**D**~~|||||||||||||~~**4**~~|~~**4**~~|~~**5**~~|
-||~~N° games Group~~<br>~~phase~~|||||||||||||~~6~~|~~6~~|~~10~~|
-||~~Relegation~~|||||||||||||~~1~~|~~1~~|~~1~~|
-||~~**N°games TOTAL**~~|~~**10**~~|~~**17**~~|~~**22**~~|~~**29**~~|~~**33**~~|~~**38**~~|~~**44**~~|~~**36**~~|~~**40**~~|~~**44**~~|~~**49**~~|~~**54**~~|~~**47**~~|~~**52**~~|~~**55**~~|
+||<del>**N° teams League**</del><br><del>**A**</del>|<del>**4**</del>|<del>**5**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|<del>**6**</del>|
+||<del>N° games Group</del><br><del>phase</del>|<del>6</del>|<del>10</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|<del>15</del>|
+||<del>Quarterfinal</del>||<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|
+||<del>Lucky Loser</del>||<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|
+||<del>Semifinal</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|<del>2</del>|
+||<del>Match for 3rdplace</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|
+||<del>Final</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|
+||<del>**N° teams League**</del><br><del>**B**</del>||||<del>**4**</del>|<del>**5**</del>|<del>**6**</del>|<del>**7**</del>|<del>**4**</del>|<del>**5**</del>|<del>**5**</del>|<del>**6**</del>|<del>**6**</del>|<del>**5**</del>|<del>**6**</del>|<del>**5**</del>|
+||<del>N° games Group</del><br><del>phase</del>||||<del>6</del>|<del>10</del>|<del>15</del>|<del>21</del>|<del>6</del>|<del>10</del>|<del>10</del>|<del>15</del>|<del>15</del>|<del>10</del>|<del>15</del>|<del>10</del>|
+||<del>Relegation</del>||||<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|
+||<del>**N° teams League**</del><br><del>**C**</del>||||||||<del>**4**</del>|<del>**4**</del>|<del>**5**</del>|<del>**5**</del>|<del>**6**</del>|<del>**4**</del>|<del>**4**</del>|<del>**5**</del>|
+||<del>N° games Group</del><br><del>phase</del>||||||||<del>6</del>|<del>6</del>|<del>10</del>|<del>10</del>|<del>15</del>|<del>6</del>|<del>6</del>|<del>10</del>|
+||<del>Relegation</del>||||||||<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|<del>1</del>|
+||<del>**N° teams League**</del><br><del>**D**</del>|||||||||||||<del>**4**</del>|<del>**4**</del>|<del>**5**</del>|
+||<del>N° games Group</del><br><del>phase</del>|||||||||||||<del>6</del>|<del>6</del>|<del>10</del>|
+||<del>Relegation</del>|||||||||||||<del>1</del>|<del>1</del>|<del>1</del>|
+||<del>**N°games TOTAL**</del>|<del>**10**</del>|<del>**17**</del>|<del>**22**</del>|<del>**29**</del>|<del>**33**</del>|<del>**38**</del>|<del>**44**</del>|<del>**36**</del>|<del>**40**</del>|<del>**44**</del>|<del>**49**</del>|<del>**54**</del>|<del>**47**</del>|<del>**52**</del>|<del>**55**</del>|
 
 _(article introduced on 01.01.13; text modified on 01.01.24; 01.07.25)_ 
 

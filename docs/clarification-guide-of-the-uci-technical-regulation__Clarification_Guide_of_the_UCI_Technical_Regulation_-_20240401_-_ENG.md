@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/dd3
 source_sha256: eb04425e201b023e86c5ad1219b601b5595f92f85c48b52e3c0dbf6c0a5c46a9
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0001-00.png)
 
@@ -108,7 +108,7 @@ The UCI put at disposal on the UCI website the list of homologated Road, Time-Tr
 
 ## **ARTICLE 1.3.002** 
 
-_“The UCI shall not be liable for any consequences deriving from the choice of the equipment used by licence holders, nor for any defects it may have or its non-compliance. Equipment used must meet all relevant ISO quality and safety requirements_ ~~_for bicycles_~~ _(as referenced for illustration purposes in the Clarification Guide published on the UCI website) as well as any other standards applicable in the country of the event.”_ 
+_“The UCI shall not be liable for any consequences deriving from the choice of the equipment used by licence holders, nor for any defects it may have or its non-compliance. Equipment used must meet all relevant ISO quality and safety requirements_ <del>_for bicycles_</del> _(as referenced for illustration purposes in the Clarification Guide published on the UCI website) as well as any other standards applicable in the country of the event.”_ 
 
 _“The licence-holder shall use the_ equipment _which is certified and compliant with quality and safety standards as provided by the manufacturer, without any modification whatsoever. The licence-holder shall be entirely and exclusively liable for any modification made to the_ equipment _, in particular in the event of an incident, and may be subject to disciplinary sanctions in accordance with the UCI Regulations.”_ 
 
@@ -390,7 +390,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _1.Either the tip of the saddle can be moved forward to a distance equal to or less than 50 mm._ 
 
-_2.The fixed time trial extension_ ~~_s_~~ _handlebar can be adapted, in accordance with the rider height categories defined in Article 1.3.023.”_ 
+_2.The fixed time trial extension_ <del>_s_</del> _handlebar can be adapted, in accordance with the rider height categories defined in Article 1.3.023.”_ 
 
 The withdrawn position of the saddle is measured from the tip of the saddle to the vertical plane passing through the center of the bottom bracket axle. 
 
@@ -462,39 +462,39 @@ _Figure 8: Illustration of the maximum distances between the fork drop-outs and 
 
 ## **ARTICLE 1.3.018** 
 
-_“Wheels of the bicycle may vary in diameter between 700_ ~~_cm_~~ _m maximum and 550_ ~~_cm_~~ _m minimum, including the tyre. For the cyclo-cross_ ~~_bicycle_~~ _the width of the tyre (measured between the widest parts) shall not exceed 33 mm and it may not incorporate any form of spikes or studs._ 
+_“Wheels of the bicycle may vary in diameter between 700_ <del>_cm_</del> _m maximum and 550_ <del>_cm_</del> _m minimum, including the tyre. For the cyclo-cross_ <del>_bicycle_</del> _the width of the tyre (measured between the widest parts) shall not exceed 33 mm and it may not incorporate any form of spikes or studs._ 
 
-~~_For massed start competitions iI_~~ _n the disciplines road, track and cyclo-cross, only wheel designs granted prior approval by the UCI may be used. Wheels approved in mass start competitions in the disciplines of road and cyclo-cross shall have at least 12 spokes; spokes can be round, flattened or oval, as far as no dimension of their sections exceeds 10 mm._ 
+<del>_For massed start competitions iI_</del> _n the disciplines road, track and cyclo-cross, only wheel designs granted prior approval by the UCI may be used. Wheels approved in mass start competitions in the disciplines of road and cyclo-cross shall have at least 12 spokes; spokes can be round, flattened or oval, as far as no dimension of their sections exceeds 10 mm._ 
 
 _Wheels used in the road, track and cyclo-cross disciplines must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2. Fulfilment of these requirements concerns both the front wheels and the rear wheels, independent of materials, brake systems and other characteristics. Manufacturers must apply for approval by providing declaration of conformity to the UCI. Detailed procedure and template can be found in the section “Equipment” on the UCI Website._ 
 
 _In order to comply with the requirements and ensure compatibility between the components, rims must comply with the standard ISO 5775-2 and tyres with the standard ISO 5775-1._ 
 
-~~_In order to be granted approval wheels must have been subjected to the Vertical Drop Test which consists of:_~~ 
+<del>_In order to be granted approval wheels must have been subjected to the Vertical Drop Test which consists of:_</del> 
 
-## ~~_**Test method: Vertical Drop Test**_~~ 
+## <del>_**Test method: Vertical Drop Test**_</del> 
 
-~~_Vertical drop test (neutralization of the rebound of the anvil)_~~ 
+<del>_Vertical drop test (neutralization of the rebound of the anvil)_</del> 
 
-## ~~_**Energy level:**_~~ 
+## <del>_**Energy level:**_</del> 
 
-~~_40 Joules_~~ 
+<del>_40 Joules_</del> 
 
-## ~~_**Impact striker geometry:**_~~ 
+## <del>_**Impact striker geometry:**_</del> 
 
-~~_Flat steel anvil, the impact surface is covered with a silicone rubber pad of 20 mm thickness (Hardness Shore A=50 +/- 5, Compression set of 40% acc. To ASTM D395 Method B). The rubber pad requires to be undamaged._~~ 
+<del>_Flat steel anvil, the impact surface is covered with a silicone rubber pad of 20 mm thickness (Hardness Shore A=50 +/- 5, Compression set of 40% acc. To ASTM D395 Method B). The rubber pad requires to be undamaged._</del> 
 
-## ~~_**Impact mass:**_~~ 
+## <del>_**Impact mass:**_</del> 
 
-~~_Range of  6 – 10 kg_~~ 
+<del>_Range of  6 – 10 kg_</del> 
 
-~~_Energy must always remain at 40 Joules at the hit with a +/- 5% tolerance._~~ 
+<del>_Energy must always remain at 40 Joules at the hit with a +/- 5% tolerance._</del> 
 
-## ~~_**Hitting point:**_~~ 
+## <del>_**Hitting point:**_</del> 
 
-~~_One hit at 90° from valve hole, adjusted to have the impact point of anvil between the spokes In order to be certified as passed, the alloy and/or carbon wheels shall have - No visible cracks or delamination_~~ 
+<del>_One hit at 90° from valve hole, adjusted to have the impact point of anvil between the spokes In order to be certified as passed, the alloy and/or carbon wheels shall have - No visible cracks or delamination_</del> 
 
-~~_- No change in lateral profile or in lateral run out in excess of 1.0 mm - No change in radial profile or in radial run out in excess of 1.0 mm_~~ 
+<del>_- No change in lateral profile or in lateral run out in excess of 1.0 mm - No change in radial profile or in radial run out in excess of 1.0 mm_</del> 
 
 16 
 
@@ -502,7 +502,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0017-01.png)
 
-_Wheels which meet the definition of traditional wheels do not need to follow the approval application procedure provided for in this article_ ~~_be certified._~~ _**Definition of Traditional wheels:** Criteria: Rim height: less than 25 mm Rim material: alloy_ 
+_Wheels which meet the definition of traditional wheels do not need to follow the approval application procedure provided for in this article_ <del>_be certified._</del> _**Definition of Traditional wheels:** Criteria: Rim height: less than 25 mm Rim material: alloy_ 
 
 _Spokes: minimum of 20 steel spokes which are detachable and all components must be identifiable and commercially available_ 
 
@@ -512,9 +512,9 @@ _Notwithstanding this article, the choice and use of wheels remains subject to a
 
 _(text modified on 01.01.02; 01.01.03; 01.09.03; 01.01.05; 01.07.10; 01.10.13; 01.01.16, 25.06.19, 01.01.24)_ 
 
-~~This regulation applies to road races and cyclo-cross.~~ There is a distinction between standard and non-standard wheels. The latter must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2 and must comply with the standard ISO 5775-2 and tyres with the standard ISO 5775-1 ~~pass a vertical drop test using a specific procedure~~ in order to be included in the list of wheels authorised for competition. This document entitled "List of Approved Wheels” and further detailed information on the test procedure for non-standard wheels are available on the UCI website under the "Equipment" heading. 
+<del>This regulation applies to road races and cyclo-cross.</del> There is a distinction between standard and non-standard wheels. The latter must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2 and must comply with the standard ISO 5775-2 and tyres with the standard ISO 5775-1 <del>pass a vertical drop test using a specific procedure</del> in order to be included in the list of wheels authorised for competition. This document entitled "List of Approved Wheels” and further detailed information on the test procedure for non-standard wheels are available on the UCI website under the "Equipment" heading. 
 
-~~The procedure does not apply to time trials on the road or track events.~~ 
+<del>The procedure does not apply to time trials on the road or track events.</del> 
 
 The list of approved wheels under the previous procedure, in force until the 31 December 2015, is also available on the UCI website under the “Equipment” heading. The wheels included in this list are still allowed in competition. 
 
@@ -1106,7 +1106,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0042-01.png)
 
-Multiple elements are authorized for the stem, the traditional handlebars and base bars. Individual tubes and the multiple tubes have to respect the maximum section dimension of 80 mm and the minimum section dimension of 10 mm. The multiple elements rule applies in the same areas than the rule of the minimum and ~~m~~ aximum dimension for the tubes. 
+Multiple elements are authorized for the stem, the traditional handlebars and base bars. Individual tubes and the multiple tubes have to respect the maximum section dimension of 80 mm and the minimum section dimension of 10 mm. The multiple elements rule applies in the same areas than the rule of the minimum and <del>m</del> aximum dimension for the tubes. 
 
 In the case of the traditional handlebars and sections A-A, B-B, D-D and E-E, if one of the sections comprises multiple elements (not greater than 2), each element taken individually have to respect the maximum and minimum dimensions authorised in any direction. The requirement for the elements to respect the maximum and minimum dimensions in any direction in conjunction is not required. 
 
@@ -1142,7 +1142,7 @@ _“For road time trials and for individual pursuit, team pursuit and Kilometre/
 
 _The traditional type of handlebars or the base bar must be positioned in the area defined in article 1.3.022 (A, B, C, D)._ 
 
-_The default horizontal distance between_ ~~_the_~~ _vertical planes_ ~~_line_~~ _passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including controls or fixed levers, may not exceed 750 mm._ 
+_The default horizontal distance between_ <del>_the_</del> _vertical planes_ <del>_line_</del> _passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including controls or fixed levers, may not exceed 750 mm._ 
 
 _The default height difference between the midpoint of the forearm support and the highest or lowest point of the extension (including accessory) must be less than 100 mm._ 
 
@@ -1278,7 +1278,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ## FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR 
 
-The maximum inclination of each forearm support should be measured in relation to the reference plane. The regulation regarding the 30 degrees as well as the 125mm and 50mm ~~4 cm~~ aim to avoid any fairing by using large extensions or a too big inclination. 
+The maximum inclination of each forearm support should be measured in relation to the reference plane. The regulation regarding the 30 degrees as well as the 125mm and 50mm <del>4 cm</del> aim to avoid any fairing by using large extensions or a too big inclination. 
 
 The article must be understood so that the extension can be of a 50mm maximal section (width and height). On this extension, one part, the “ _forearm support_ ” can be wider than 50mm and can go up to 125mm wide (projected surface). This part can be of a 125mm maximal length. 
 
@@ -1380,7 +1380,7 @@ The regulations do not concern the transition zones between elements.
 
 Multiple elements are authorized for the stem and base bars. 
 
-Individual tubes and the multiple tubes have to respect the maximum section dimension of 80 mm and the minimum section dimension of 10 mm. The multiple elements rule applies in the same areas than the rule of the minimum and ~~m~~ aximum dimension for the tubes. 
+Individual tubes and the multiple tubes have to respect the maximum section dimension of 80 mm and the minimum section dimension of 10 mm. The multiple elements rule applies in the same areas than the rule of the minimum and <del>m</del> aximum dimension for the tubes. 
 
 53 
 

@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6drZqZV72vboZMMK80YH5j/bdc
 source_sha256: 72ccb106bf15c9a62520036306408b810beb534153e38100803d4c57855c8cd9
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 06.10.2025 
 
@@ -26,7 +26,7 @@ _(article introduced on 01.01.04; text modified on 01.01.06; 01.02.12; 01.01.21;
 
 - **9.2.034** For the Men Elite, Women Elite, Men Under 23 and Men Junior XCO events and the Men Elite and Men Junior DHI events, the maximum number of riders (apart from 
 
-reserves) for each ~~team~~ nation is determined on the basis of the classification by nation of the previous year's World Championships, as per the table below: 
+reserves) for each <del>team</del> nation is determined on the basis of the classification by nation of the previous year's World Championships, as per the table below: 
 
 |Nations ranked|Maximum number of riders<br>(except reserves)|
 |---|---|
@@ -115,13 +115,13 @@ For all DHI events (Men Elite, Women Elite, Men Junior and Women Junior), riders
 
 - Women Junior: top 20 riders in the qualifying round. 
 
-~~For the final in the Men Elite and Women Elite, the~~ “ ~~protected riders~~ ” ~~are:~~ 
+<del>For the final in the Men Elite and Women Elite, the</del> “ <del>protected riders</del> ” <del>are:</del> 
 
-- ~~Riders ranked in the top 10 Women Elite and the top 20 Men Elite of the final world cup standings of the current season.~~ 
+- <del>Riders ranked in the top 10 Women Elite and the top 20 Men Elite of the final world cup standings of the current season.</del> 
 
-~~In case the UCI world cup final is held after the UCI World Championships, riders ranked in the top 10 Women Elite and the 20 Men Elite of the latest world cup standings of the current season.~~ 
+<del>In case the UCI world cup final is held after the UCI World Championships, riders ranked in the top 10 Women Elite and the 20 Men Elite of the latest world cup standings of the current season.</del> 
 
-~~Event~~ “ ~~protected riders~~ ” ~~must start in the qualifying round in order to be entitled to ride the final.~~ 
+<del>Event</del> “ <del>protected riders</del> ” <del>must start in the qualifying round in order to be entitled to ride the final.</del> 
 
 (*) The start order of the riders within the team must be confirmed by the national federations during the riders’ confirmation. Taking each nation in turn on the basis of the classification by nation of the concerned category from the most recent mountain bike World Championships, a place is allocated to the next rider in sequence. 
 
@@ -163,9 +163,9 @@ The scores gained in the ½ Finals round do not count in the Final round.
 
 ## Final procedure 
 
-At the Final round ~~, it will be applied the six by six system:~~ the number of riders eligible to compete will be determined as per above rules and then adjusted accordingly: Before the start, the ~~six~~ riders will be presented on the stage ~~start podium~~, in inverse order to the position obtained in the ½ Finals round. After the presentation, they must go to section one. The order to start will be determined by the result obtained in the ½ Finals round. Riders that obtained the lowest ranked ~~sixth place~~ shall start first in section one and so on. The same principle applies for the remaining sections. Once a rider finishes a section, the next rider has maximum thirty seconds to start the section. After this thirty second the sections time is running. In case of slight injury, 
+At the Final round <del>, it will be applied the six by six system:</del> the number of riders eligible to compete will be determined as per above rules and then adjusted accordingly: Before the start, the <del>six</del> riders will be presented on the stage <del>start podium</del>, in inverse order to the position obtained in the ½ Finals round. After the presentation, they must go to section one. The order to start will be determined by the result obtained in the ½ Finals round. Riders that obtained the lowest ranked <del>sixth place</del> shall start first in section one and so on. The same principle applies for the remaining sections. Once a rider finishes a section, the next rider has maximum thirty seconds to start the section. After this thirty second the sections time is running. In case of slight injury, 
 
-the other rider must overtake and start the section in front of him/her. In case of tie, article 7.1.047 of the UCI Trials Regulations shall apply. Competitors taking part in the Final must have two bicycles at their disposal. The spare second bicycle shall remain in the rider’s area for the duration of the competition and may be retrieved as a replacement for the first bicycle. ~~A rider qualified for the Final who chooses not to compete in the Final shall get seventh placed in the Final classification and shall (in the Final) be replaced by the seventh placed rider in the ½ Finals. Two qualified riders choosing not to compete in the Final shall get seventh and eighth placed in the final classification and shall be replaced by the seventh and eighth placed riders in the ½ Finals (in the Finals), etc. Two qualified riders choosing not to compete in the Final shall get seventh and eighth placed in the final classification and shall be replaced by the seventh and eighth placed riders in the ½ Finals (in the Finals), etc.~~ 
+the other rider must overtake and start the section in front of him/her. In case of tie, article 7.1.047 of the UCI Trials Regulations shall apply. Competitors taking part in the Final must have two bicycles at their disposal. The spare second bicycle shall remain in the rider’s area for the duration of the competition and may be retrieved as a replacement for the first bicycle. <del>A rider qualified for the Final who chooses not to compete in the Final shall get seventh placed in the Final classification and shall (in the Final) be replaced by the seventh placed rider in the ½ Finals. Two qualified riders choosing not to compete in the Final shall get seventh and eighth placed in the final classification and shall be replaced by the seventh and eighth placed riders in the ½ Finals (in the Finals), etc. Two qualified riders choosing not to compete in the Final shall get seventh and eighth placed in the final classification and shall be replaced by the seventh and eighth placed riders in the ½ Finals (in the Finals), etc.</del> 
 
 A rider qualified for the Final who chooses not to compete in the Final shall be placed in the classification being the first place in the ½ Final classification, he/she shall be replaced by the rider ranked following him/her in the classification. The same principle shall be applied if more riders decide not to compete in the Final. 
 
@@ -173,11 +173,11 @@ _(text modified on 01.02.11; 13.03.15; 30.01.17; 01.01.25; 01.01.26)_
 
 ## **Para Cycling (participation)** 
 
-- **9.2.062** National Federations register their riders through the same online registration system no later than ~~three~~ four weeks before the first race of the World Championships. At the time of registration, up to six substitutes can be added to the team for all classes combined. The registration shall give details of the number of persons making up each delegation, the riders registered for each race as well as their sport class, the accommodation used during the World Championships, full contact details of the team manager and each athlete’s time of arrival. 
+- **9.2.062** National Federations register their riders through the same online registration system no later than <del>three</del> four weeks before the first race of the World Championships. At the time of registration, up to six substitutes can be added to the team for all classes combined. The registration shall give details of the number of persons making up each delegation, the riders registered for each race as well as their sport class, the accommodation used during the World Championships, full contact details of the team manager and each athlete’s time of arrival. 
 
-After the registration deadline ( ~~3~~ four weeks before the World Championships), late registrations will be invoiced CHF 200.- per athlete. 
+After the registration deadline ( <del>3</del> four weeks before the World Championships), late registrations will be invoiced CHF 200.- per athlete. 
 
-Starters must be confirmed in each sport class at the official confirmation time as announced in the technical programme of the ~~event~~ competition. 
+Starters must be confirmed in each sport class at the official confirmation time as announced in the technical programme of the <del>event</del> competition. 
 
 Last-minute changes of registered athletes can only be achieved by means of a medical certificate 24 hours before the start of the race. 
 
@@ -185,35 +185,35 @@ _(text modified on 03.02.17; 01.07.18; 01.01.26)_
 
 - **9.2.065** At World Championships, in each of the Para Cycling events, the outgoing world champion will be given an additional slot for the event in which he was a world champion. If the outgoing world champion cannot participate at the World Championships, this place is not accumulated in the quota of the nation. 
 
-~~One (1) additional slot for individual time trial, pursuit and 500m / 1000m will be awarded to nations which have reached the maximum number of participants and wishing to enter an athlete under 16 years of age.~~ 
+<del>One (1) additional slot for individual time trial, pursuit and 500m / 1000m will be awarded to nations which have reached the maximum number of participants and wishing to enter an athlete under 16 years of age.</del> 
 
 _(article introduced on 01.10.13; text modified on 01.01.19; 01.01.26)_ 
 
 ## **Athletes’ eligibility** 
 
-- **9.2.067** Except the reigning world champion, athletes participating in the UCI Para Cycling World Championships must have participated in at least one UCI Para Cycling event on the UCI International Calendar (National Championships, Class 2, Class 1, World Cup, ~~or~~ Continental Championships, Regional Games, World Championships or Paralympic Games) during the last 12 months, but no later than 30 days before the event, defined as the Qualification Period. 
+- **9.2.067** Except the reigning world champion, athletes participating in the UCI Para Cycling World Championships must have participated in at least one UCI Para Cycling event on the UCI International Calendar (National Championships, Class 2, Class 1, World Cup, <del>or</del> Continental Championships, Regional Games, World Championships or Paralympic Games) during the last 12 months, but no later than 30 days before the event, defined as the Qualification Period. 
 
 _(article introduced on 01.10.13; text modified on 20.12.17; 01.07.20; 01.01.26)_ 
 
 ## **Earning slots for the World Championships Para Cycling Track** 
 
-- **9.2.068** ~~A nation that has earned UCI track points at a C1, C2 or Continental Championships event during the Qualification Period in a specific sport class has the right to enter an ‐~~ 
+- **9.2.068** <del>A nation that has earned UCI track points at a C1, C2 or Continental Championships event during the Qualification Period in a specific sport class has the right to enter an ‐</del> 
 
-- ~~athlete in that sport class in the upcoming UCI Para cycling Track World Championships.~~ 
+- <del>athlete in that sport class in the upcoming UCI Para cycling Track World Championships.</del> 
 
    - A nation earns 1 slot in a specific Sport Class if any of its athlete has earned UCI Para Cycling Track Individual Ranking points during the Qualification Period in the respective Sport Class. 
 
 _(article introduced on 01.10.13; text modified on 01.01.19; 01.07.20; 01.01.26)_ 
 
-- **9.2.069** ~~A nation may enter two athletes in a sport class in which an athlete earned track C1 or track Continental Championships points in that sport class during the Qualification Period. One of the two registered athletes must have earned points in one of the abovementioned events.~~ 
+- **9.2.069** <del>A nation may enter two athletes in a sport class in which an athlete earned track C1 or track Continental Championships points in that sport class during the Qualification Period. One of the two registered athletes must have earned points in one of the abovementioned events.</del> 
 
    - A nation earns 2 slots in a specific Sport Class if any athlete has earned UCI Para Cycling Track Individual Ranking points during the Qualification Period in the respective Sport Class. At least one athlete must be in the top 20 of the UCI Para Cycling Track Individual Ranking. 
 
 _(article introduced on 01.10.13; text modified on 01.01.19; 01.07.20; 01.01.26)_ 
 
-- **9.2.069** ~~A nation may enter three athletes in a sport class in which two athletes have earned~~ **bis** ~~track C1 or track Continental Championships points in that sport class, including at ‐~~ 
+- **9.2.069** <del>A nation may enter three athletes in a sport class in which two athletes have earned</del> **bis** <del>track C1 or track Continental Championships points in that sport class, including at ‐</del> 
 
-- ~~least one athlete in the top 10 and first half of the UCI Para cycling track ranking during the Qualification Period. Two of the three athletes must have C1 points.~~ 
+- <del>least one athlete in the top 10 and first half of the UCI Para cycling track ranking during the Qualification Period. Two of the three athletes must have C1 points.</del> 
 
    - A nation earns 3 slots in a specific Sport Class if at minimum 2 athletes have earned UCI Para Cycling Track Individual Ranking points during the Qualification Period in the respective Sport Class. At least one athlete must be in the top 20 of the UCI Para Cycling Track Individual Ranking. 
 

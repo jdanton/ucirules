@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/NAeT9EN3grfH1b8uTXoYv/9374
 source_sha256: 7e9caf4a6b22e654f0b9499e091ad353a27dfb39ff6d682b5758894d683c02eb
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 01.07.2025 
 
@@ -26,7 +26,7 @@ MEMORANDUM 01.07.2025
 |Continental games||JC|-National teams, in accordance with<br>the specific regulations of the event|
 |Regional games||JR|-National teams, in accordance with<br>the regionalgames(seepart X)|
 |UCI WorldTour|ME|1.UWT<br>2.UWT|-UCI WorldTeams (see Art. 2.15.127)<br>-Invited UCI ProTeams<br>-National team of the organising<br>country in events determined by the<br>PCC|
-|UCI Europe Tour|ME<br>MU|1.Pro<br>2.Pro|-UCI WorldTeams (max~~70%~~72%)<br>-UCI ProTeams<br>-UCI continental teams of the country<br>(1)<br>-UCI cyclo-cross professional teams<br>of the country(1)<br>-Foreign<br>UCI<br>continental<br>teams<br>(max. 2)(1)<br>-National team of the country of the<br>organiser|
+|UCI Europe Tour|ME<br>MU|1.Pro<br>2.Pro|-UCI WorldTeams (max<del>70%</del>72%)<br>-UCI ProTeams<br>-UCI continental teams of the country<br>(1)<br>-UCI cyclo-cross professional teams<br>of the country(1)<br>-Foreign<br>UCI<br>continental<br>teams<br>(max. 2)(1)<br>-National team of the country of the<br>organiser|
 |||1.1<br>2.1|-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 
 MEMORANDUM 01.07.2025 
@@ -37,12 +37,12 @@ MEMORANDUM 01.07.2025
 |---|---|---|---|---|
 |||1.2<br>2.2||-UCI ProTeams of the country<br>-UCI foreign UCI ProTeams (max. 2)<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
 ||MU|Ncup<br>1.2<br>Ncup<br>2.2||-National teams<br>-Regional and club teams (max 16%)<br>(2)<br>-Mixed teams|
-|UCI America Tour<br>UCI Asia Tour<br>UCI Oceania Tour<br>UCI Africa Tour|ME|1.Pro<br>2.Pro||-UCI WorldTeams (max~~65%~~72%)<br>-UCI ProTeams<br>-UCI continental teams(1)<br>-UCI cyclo-cross professional teams<br>(1)<br>-National teams|
+|UCI America Tour<br>UCI Asia Tour<br>UCI Oceania Tour<br>UCI Africa Tour|ME|1.Pro<br>2.Pro||-UCI WorldTeams (max<del>65%</del>72%)<br>-UCI ProTeams<br>-UCI continental teams(1)<br>-UCI cyclo-cross professional teams<br>(1)<br>-National teams|
 |||1.1<br>2.1||-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 |||1.2<br>2.2||-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-African mixed teams(3)|
 ||MU|1.2<br>2.2||-UCI ProTeams of the country<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-Mixed teams|
 |||Ncup<br>1.2<br>Ncup<br>2.2||-National teams<br>-Regional and club teams (max 16%)<br>(2)<br>-Mixed teams|
-|Women Elite|WE|1.WWT<br>2.WWT||-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br>~~- UCI women~~’~~s continental teams~~<br>~~- UCI cyclo-cross professional teams~~<br>-National team from the country of the<br>organiser with the agreement of the<br>UCI<br>- (4)|
+|Women Elite|WE|1.WWT<br>2.WWT||-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br><del>- UCI women</del>’<del>s continental teams</del><br><del>- UCI cyclo-cross professional teams</del><br>-National team from the country of the<br>organiser with the agreement of the<br>UCI<br>- (4)|
 
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0003-00.png)
 
@@ -52,9 +52,9 @@ MEMORANDUM 01.07.2025
 
 |**International**<br>**Calendar**|**Category**<br>**of event**|**Class**|||**Participation**|
 |---|---|---|---|---|---|
-|||1.Pro<br>2.Pro||-<br>-<br>-<br>-<br>~~-~~|UCI Women’s WorldTeams (min 4)<br>UCI Women’s ProTeams<br>UCI women’s continental teams<br>UCI cyclo-cross professional teams<br> National teams<br> ~~Regional and club teams from the~~<br>~~country of the organiser (max 2)~~|
+|||1.Pro<br>2.Pro||-<br>-<br>-<br>-<br><del>-</del>|UCI Women’s WorldTeams (min 4)<br>UCI Women’s ProTeams<br>UCI women’s continental teams<br>UCI cyclo-cross professional teams<br> National teams<br> <del>Regional and club teams from the</del><br><del>country of the organiser (max 2)</del>|
 |||||<br>||
-|||||~~- ~~||
+|||||<del>- </del>||
 |||1.1<br>2.1||- <br>- <br>- <br>- <br>- <br>-|UCI Women’s WorldTeams (min 1,<br>max 7)<br>UCI Women’s ProTeams<br>UCI women’s continental teams<br>UCI cyclo-cross professional teams<br>National teams<br>Regional and club teams|
 ||WE<br>WU|1.2<br>2.2||- <br>- <br>- <br>- <br>- <br>-|UCI Women’s ProTeams<br>UCI women’s continental teams<br>UCI cyclo-cross professional teams<br>National teams(5)<br>Regional and club teams(5)<br>Mixed teams(5)|
 |Men Junior|MJ|1.Ncup<br>2.Ncup||- <br>- <br>-|National teams<br>Regional and club teams (max 16%)<br>(2)<br>Mixed teams|
@@ -91,9 +91,9 @@ The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, a
 |**Number of**<br>**UCI WorldTeams**|**Obligatory**<br>**Invitation of best**<br>**UCI ProTeams(2)**|**Remaining wild cards**<br>**for Organisers**|**Remaining wild cards**<br>**for Organisers**|
 |---|---|---|---|
 |||**Grands Tours (3) (4)**|**Other stage races**|
-|18|~~2~~3|~~3~~2|~~5~~4|
-|17|~~3~~4|~~3~~2|~~5~~4|
-|16|~~3~~4|~~4~~3|~~6~~5|
+|18|<del>2</del>3|<del>3</del>2|<del>5</del>4|
+|17|<del>3</del>4|<del>3</del>2|<del>5</del>4|
+|16|<del>3</del>4|<del>4</del>3|<del>6</del>5|
 
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
@@ -248,19 +248,19 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 ## **Results in prologue and stages in UCI WorldTour events** 
 
-|Position|Tour de<br>France|Giro<br>d'Italia,<br>La Vuelta<br>Ciclista a<br>España|Santos Tour Down<br>Under,UAE Tour,<br>Paris - Nice,<br>Tirreno - Adriatico,<br>Tour de<br>Romandie,<br>Critérium du<br>Dauphiné, Tour de<br>Suisse|Volta Ciclista a<br>Catalunya,<br>Itzulia Basque<br>Country, Tour<br>de Pologne,<br>Renewi Tour,<br>Tour of Guangxi||~~UAE Tour,~~<br>~~Tour of~~<br>~~Guangxi~~|~~UAE Tour,~~<br>~~Tour of~~<br>~~Guangxi~~|
+|Position|Tour de<br>France|Giro<br>d'Italia,<br>La Vuelta<br>Ciclista a<br>España|Santos Tour Down<br>Under,UAE Tour,<br>Paris - Nice,<br>Tirreno - Adriatico,<br>Tour de<br>Romandie,<br>Critérium du<br>Dauphiné, Tour de<br>Suisse|Volta Ciclista a<br>Catalunya,<br>Itzulia Basque<br>Country, Tour<br>de Pologne,<br>Renewi Tour,<br>Tour of Guangxi||<del>UAE Tour,</del><br><del>Tour of</del><br><del>Guangxi</del>|<del>UAE Tour,</del><br><del>Tour of</del><br><del>Guangxi</del>|
 |---|---|---|---|---|---|---|---|
 |||||||||
-|**1**|210|180|60|50|||~~40~~|
-|**2**|150|130|40|30|||~~25~~|
-|**3**|110|95|30|25|||~~20~~|
-|**4**|90|80|25|20|||~~15~~|
-|**5**|70|60|20|15|||~~10~~|
-|**6**|55|45|15|10|||~~8~~|
-|**7**|45|40|10|8|||~~6~~|
-|**8**|40|35|8|6|||~~3~~|
-|**9**|35|30|5|3|||~~2~~|
-|**10**|30|25|2|1|||~~1~~|
+|**1**|210|180|60|50|||<del>40</del>|
+|**2**|150|130|40|30|||<del>25</del>|
+|**3**|110|95|30|25|||<del>20</del>|
+|**4**|90|80|25|20|||<del>15</del>|
+|**5**|70|60|20|15|||<del>10</del>|
+|**6**|55|45|15|10|||<del>8</del>|
+|**7**|45|40|10|8|||<del>6</del>|
+|**8**|40|35|8|6|||<del>3</del>|
+|**9**|35|30|5|3|||<del>2</del>|
+|**10**|30|25|2|1|||<del>1</del>|
 |**11**|25|20||||||
 |**12**|20|15||||||
 |**13**|15|10||||||
@@ -283,35 +283,35 @@ MEMORANDUM 01.07.2025
 
 ## **Wearing the race leader’s jersey in a UCI WorldTour event (per stage)** 
 
-|Position|Tour de<br>France|Giro<br>d'Italia,<br>La Vuelta<br>Ciclista a<br>España|Santos Tour<br>Down Under,<br>UAE Tour, Paris -<br>Nice, Tirreno -<br>Adriatico, Tour de<br>Romandie,<br>Critérium du<br>Dauphiné, Tour<br>de Suisse|Volta Ciclista a<br>Catalunya,<br>Itzulia Basque<br>Country, Tour de<br>Pologne,<br>Renewi Tour,<br>Tour of Guangxi||~~UAE Tour,~~<br>~~Tour of~~<br>~~Guangxi~~|~~UAE Tour,~~<br>~~Tour of~~<br>~~Guangxi~~|
+|Position|Tour de<br>France|Giro<br>d'Italia,<br>La Vuelta<br>Ciclista a<br>España|Santos Tour<br>Down Under,<br>UAE Tour, Paris -<br>Nice, Tirreno -<br>Adriatico, Tour de<br>Romandie,<br>Critérium du<br>Dauphiné, Tour<br>de Suisse|Volta Ciclista a<br>Catalunya,<br>Itzulia Basque<br>Country, Tour de<br>Pologne,<br>Renewi Tour,<br>Tour of Guangxi||<del>UAE Tour,</del><br><del>Tour of</del><br><del>Guangxi</del>|<del>UAE Tour,</del><br><del>Tour of</del><br><del>Guangxi</del>|
 |---|---|---|---|---|---|---|---|
-|||||||<br> <br>~~G~~||
-|**1**|25|20|10|8|||~~6~~|
+|||||||<br> <br><del>G</del>||
+|**1**|25|20|10|8|||<del>6</del>|
 
 ## **Final results in continental calendar events** 
 
 |Position|UCI ProSeries|UCI ProSeries|Class 1|Class 2|1.2U et<br>2.2U|Ncup<br>Tour de<br>l’Avenir|Ncup|
 |---|---|---|---|---|---|---|---|
-|**1**||~~200 2~~50|125|40|30|140|70|
-|**2**||~~150 1~~70|85|30|25|110|55|
-|**3**||~~125 1~~40|70|25|20|80|40|
-|**4**||~~100~~120|60|20|15|60|30|
-|**5**||~~85 1~~00|50|15|10|50|25|
-|**6**||~~70 ~~80|40|10|5|40|20|
-|**7**||~~60~~70|35|5|3|30|15|
-|**8**||~~50 ~~60|30|3|1|20|10|
-|**9**||~~40 ~~50|25|3|1|10|5|
-|**10**||~~35~~40|20|3|1|6|3|
+|**1**||<del>200 2</del>50|125|40|30|140|70|
+|**2**||<del>150 1</del>70|85|30|25|110|55|
+|**3**||<del>125 1</del>40|70|25|20|80|40|
+|**4**||<del>100</del>120|60|20|15|60|30|
+|**5**||<del>85 1</del>00|50|15|10|50|25|
+|**6**||<del>70 </del>80|40|10|5|40|20|
+|**7**||<del>60</del>70|35|5|3|30|15|
+|**8**||<del>50 </del>60|30|3|1|20|10|
+|**9**||<del>40 </del>50|25|3|1|10|5|
+|**10**||<del>35</del>40|20|3|1|6|3|
 |**11**||30|15|||3||
-|**12**||~~25 2~~0|10|||3||
-|**13**||~~20~~10|5|||3||
-|**14**||~~15 ~~10|5|||3||
-|**15**||~~10 ~~10|5|||3||
-|**16**||~~5~~6|3|||1||
-|**17**||~~5~~ 6|3|||1||
-|**18**||~~5~~ 6|3|||1||
-|**19**||~~5 6~~|3|||1||
-|**20**||~~5~~ 6|3|||1||
+|**12**||<del>25 2</del>0|10|||3||
+|**13**||<del>20</del>10|5|||3||
+|**14**||<del>15 </del>10|5|||3||
+|**15**||<del>10 </del>10|5|||3||
+|**16**||<del>5</del>6|3|||1||
+|**17**||<del>5</del> 6|3|||1||
+|**18**||<del>5</del> 6|3|||1||
+|**19**||<del>5 6</del>|3|||1||
+|**20**||<del>5</del> 6|3|||1||
 
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0010-00.png)
 
@@ -321,11 +321,11 @@ MEMORANDUM 01.07.2025
 
 |Position|UCI ProSeries|Class 1|Class 2|1.2U et<br>2.2U|Ncup<br>Tour de<br>l’Avenir|Ncup|
 |---|---|---|---|---|---|---|
-|**21**|~~5~~ 6|3|||||
-|**22**|~~5~~6|3|||||
-|**23**|~~5 6~~|3|||||
-|**24**|~~5~~6|3|||||
-|**25**|~~5 6~~|3|||||
+|**21**|<del>5</del> 6|3|||||
+|**22**|<del>5</del>6|3|||||
+|**23**|<del>5 6</del>|3|||||
+|**24**|<del>5</del>6|3|||||
+|**25**|<del>5 6</del>|3|||||
 |**26**|5||||||
 |**27**|5||||||
 |**28**|5||||||
@@ -346,7 +346,7 @@ MEMORANDUM 01.07.2025
 
 |Position|UCI ProSeri<br>es|Class 1|Class 2|2.2U|Ncup<br>Tour de<br>l’Avenir|Ncup|
 |---|---|---|---|---|---|---|
-|**1**|~~20~~25|14|7|5|15|12|
+|**1**|<del>20</del>25|14|7|5|15|12|
 |**2**|15|5|3|1|9|8|
 |**3**|10|3|1||5|4|
 |**4**|5||||||
@@ -742,12 +742,12 @@ MEMORANDUM 01.07.2025
 
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0019-01.png)
 
-## ~~**Wearing the race leader's jersey (per stage)**~~ 
+## <del>**Wearing the race leader's jersey (per stage)**</del> 
 
-|~~Position~~||~~UCI Women~~’~~s~~<br>~~WorldTour~~|~~UCI Women~~’~~s~~<br>~~WorldTour~~||~~UCI ProSeries~~||~~Class 1~~||~~Class 2~~|
+|<del>Position</del>||<del>UCI Women</del>’<del>s</del><br><del>WorldTour</del>|<del>UCI Women</del>’<del>s</del><br><del>WorldTour</del>||<del>UCI ProSeries</del>||<del>Class 1</del>||<del>Class 2</del>|
 |---|---|---|---|---|---|---|---|---|---|
 |||||||||||
-|~~**Leader**~~|||~~8~~||~~5~~||~~3~~||~~1~~|
+|<del>**Leader**</del>|||<del>8</del>||<del>5</del>||<del>3</del>||<del>1</del>|
 
 ## **Wearing the race leader’s jersey in a UCI Women’s WorldTour event (per stage)** 
 
@@ -755,73 +755,73 @@ MEMORANDUM 01.07.2025
 |---|---|---|---|---|
 |**1**|25|20|10|8|
 
-## ~~**One-day events and stage races (final classification)**~~ **Final results in Continental Calendar Events** 
+## <del>**One-day events and stage races (final classification)**</del> **Final results in Continental Calendar Events** 
 
-|Position|~~UCI Women~~’~~s WorldTour~~|UCI ProSeries|UCI ProSeries|UCI ProSeries|Class 1|Class 2|
+|Position|<del>UCI Women</del>’<del>s WorldTour</del>|UCI ProSeries|UCI ProSeries|UCI ProSeries|Class 1|Class 2|
 |---|---|---|---|---|---|---|
-|**1**|~~400~~||~~200 2~~50||125|40|
-|**2**|~~320~~||~~150 1~~70||85|30|
-|**3**|~~260~~||~~125 1~~40||70|25|
-|**4**|~~220~~||~~100 ~~120||60|20|
-|**5**|~~180~~||~~85 ~~100||50|15|
-|**6**|~~140~~|||70 80|40|10|
-|**7**|~~120~~|||~~60 ~~70|35|5|
-|**8**|~~100~~|||~~50 ~~60|30|3|
-|**9**|~~80~~|||~~40 ~~50|25|3|
-|**10**|~~68~~|||~~35 ~~40|20|3|
-|**11**|~~56~~|||30|15||
-|**12**|~~48~~|||~~25 20~~|10||
-|**13**|~~40~~|||~~20 ~~10|5||
-|**14**|~~32~~|||~~15~~10|5||
-|**15**|~~28~~|||~~10 ~~10|5||
-|**16**|~~24~~|||~~5~~6|3||
-|**17**|~~24~~|||~~5  ~~6|3||
-|**18**|~~24~~|||~~5  ~~6|3||
-|**19**|~~24~~|||~~5 ~~6|3||
-|**20**|~~24~~|||~~5 ~~6|3||
-|**21**|~~16~~|||~~5 ~~6|3||
-|**22**|~~16~~|||~~5 ~~6|3||
-|**23**|~~16~~|||~~5~~6|3||
-|**24**|~~16~~|||~~5 ~~6|3||
-|**25**|~~16~~|||~~5~~6|3||
-|**26**|~~16~~|||~~3 ~~5|||
+|**1**|<del>400</del>||<del>200 2</del>50||125|40|
+|**2**|<del>320</del>||<del>150 1</del>70||85|30|
+|**3**|<del>260</del>||<del>125 1</del>40||70|25|
+|**4**|<del>220</del>||<del>100 </del>120||60|20|
+|**5**|<del>180</del>||<del>85 </del>100||50|15|
+|**6**|<del>140</del>|||70 80|40|10|
+|**7**|<del>120</del>|||<del>60 </del>70|35|5|
+|**8**|<del>100</del>|||<del>50 </del>60|30|3|
+|**9**|<del>80</del>|||<del>40 </del>50|25|3|
+|**10**|<del>68</del>|||<del>35 </del>40|20|3|
+|**11**|<del>56</del>|||30|15||
+|**12**|<del>48</del>|||<del>25 20</del>|10||
+|**13**|<del>40</del>|||<del>20 </del>10|5||
+|**14**|<del>32</del>|||<del>15</del>10|5||
+|**15**|<del>28</del>|||<del>10 </del>10|5||
+|**16**|<del>24</del>|||<del>5</del>6|3||
+|**17**|<del>24</del>|||<del>5  </del>6|3||
+|**18**|<del>24</del>|||<del>5  </del>6|3||
+|**19**|<del>24</del>|||<del>5 </del>6|3||
+|**20**|<del>24</del>|||<del>5 </del>6|3||
+|**21**|<del>16</del>|||<del>5 </del>6|3||
+|**22**|<del>16</del>|||<del>5 </del>6|3||
+|**23**|<del>16</del>|||<del>5</del>6|3||
+|**24**|<del>16</del>|||<del>5 </del>6|3||
+|**25**|<del>16</del>|||<del>5</del>6|3||
+|**26**|<del>16</del>|||<del>3 </del>5|||
 
 MEMORANDUM 01.07.2025 
 
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0020-01.png)
 
-|Position|~~UCI Women~~’~~s WorldTour~~|UCI ProSeries|Class 1|Class 2|
+|Position|<del>UCI Women</del>’<del>s WorldTour</del>|UCI ProSeries|Class 1|Class 2|
 |---|---|---|---|---|
-|**27**|~~16~~|~~3~~5|||
-|**28**|~~16~~|~~3 ~~5|||
-|**29**|~~16~~|~~3 ~~5|||
-|**30**|~~16~~|~~3 ~~5|||
-|**31**|~~8~~|3|||
-|**32**|~~8~~|3|||
-|**33**|~~8~~|3|||
-|**34**|~~8~~|3|||
-|**35**|~~8~~|3|||
-|**36**|~~8~~|3|||
-|**37**|~~8~~|3|||
-|**38**|~~8~~|3|||
-|**39**|~~8~~|3|||
-|**40**|~~8~~|3|||
+|**27**|<del>16</del>|<del>3</del>5|||
+|**28**|<del>16</del>|<del>3 </del>5|||
+|**29**|<del>16</del>|<del>3 </del>5|||
+|**30**|<del>16</del>|<del>3 </del>5|||
+|**31**|<del>8</del>|3|||
+|**32**|<del>8</del>|3|||
+|**33**|<del>8</del>|3|||
+|**34**|<del>8</del>|3|||
+|**35**|<del>8</del>|3|||
+|**36**|<del>8</del>|3|||
+|**37**|<del>8</del>|3|||
+|**38**|<del>8</del>|3|||
+|**39**|<del>8</del>|3|||
+|**40**|<del>8</del>|3|||
 
-## ~~**Stages and half-stages**~~ 
+## <del>**Stages and half-stages**</del> 
 
-||~~Position~~|~~Position~~||~~UCI Women~~’~~s~~<br>~~WorldTour~~|~~UCI Women~~’~~s~~<br>~~WorldTour~~||~~UCI ProSeries~~||~~Class 1~~||~~Class 2~~|
+||<del>Position</del>|<del>Position</del>||<del>UCI Women</del>’<del>s</del><br><del>WorldTour</del>|<del>UCI Women</del>’<del>s</del><br><del>WorldTour</del>||<del>UCI ProSeries</del>||<del>Class 1</del>||<del>Class 2</del>|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||
-|||~~**1**~~|||~~50~~||~~25~~||~~16~~||~~8~~|
-|||~~**2**~~|||~~40~~||~~20~~||~~12~~||~~5~~|
-|||~~**3**~~|||~~30~~||~~15~~||~~8~~||~~3~~|
-|||~~**4**~~|||~~25~~||~~12~~||~~6~~||~~1~~|
-|||~~**5**~~|||~~20~~||~~10~~||~~5~~|||
-|||~~**6**~~|||~~18~~||~~8~~||~~4~~|||
-|||~~**7**~~|||~~15~~||~~6~~||~~3~~|||
-|||~~**8**~~|||~~10~~||~~4~~||~~2~~|||
-|||~~**9**~~|||~~8~~|||||||
-|||~~**10**~~|||~~6~~|||||||
+|||<del>**1**</del>|||<del>50</del>||<del>25</del>||<del>16</del>||<del>8</del>|
+|||<del>**2**</del>|||<del>40</del>||<del>20</del>||<del>12</del>||<del>5</del>|
+|||<del>**3**</del>|||<del>30</del>||<del>15</del>||<del>8</del>||<del>3</del>|
+|||<del>**4**</del>|||<del>25</del>||<del>12</del>||<del>6</del>||<del>1</del>|
+|||<del>**5**</del>|||<del>20</del>||<del>10</del>||<del>5</del>|||
+|||<del>**6**</del>|||<del>18</del>||<del>8</del>||<del>4</del>|||
+|||<del>**7**</del>|||<del>15</del>||<del>6</del>||<del>3</del>|||
+|||<del>**8**</del>|||<del>10</del>||<del>4</del>||<del>2</del>|||
+|||<del>**9**</del>|||<del>8</del>|||||||
+|||<del>**10**</del>|||<del>6</del>|||||||
 
 ## **Prologue, stages and half-stages in continental calendar events** 
 
@@ -912,11 +912,11 @@ When two or three nations are organising joint National Championships, results w
 |**23**|5||||
 |**24**|5||||
 |**25**|5||||
-|**26**|~~3~~5||||
-|**27**|~~3~~5||||
-|**28**|~~3~~5||||
-|**29**|~~3~~5||||
-|**30**|~~3~~5||||
+|**26**|<del>3</del>5||||
+|**27**|<del>3</del>5||||
+|**28**|<del>3</del>5||||
+|**29**|<del>3</del>5||||
+|**30**|<del>3</del>5||||
 |**31**|3||||
 |**32**|3||||
 |**33**|3||||
@@ -937,24 +937,24 @@ Where Elite and Under 23 compete in their continental championships or continent
 ||_Olympic Games and World_|_Olympic Games and World_|_Olympic Games and World_|_World Championships_|_World Championships_|
 |---|---|---|---|---|---|
 |_Position_|_Elite Road Race_||_Elite Time Trial_|_U23 Road_<br>_Race_|_U23 Individual_<br>_Time Trial_|
-|**_1_**||~~600~~900|~~350~~455|200|125|
-|**_2_**||~~475~~715|~~250~~325|150|85|
-|**_3_**||~~400~~600|~~200~~260|125|70|
-|**_4_**||~~325~~490|~~150~~195|100|60|
-|**_5_**||~~275~~410|~~125~~165|85|50|
-|**_6_**||~~225~~340|~~100~~130|70|40|
-|**_7_**||~~175 2~~65|~~85~~110|60|35|
-|**_8_**||~~150 2~~25|~~70~~90|50|30|
-|**_9_**||~~125 1~~90|~~60~~80|40|25|
-|**_10_**||~~100~~150|~~50~~65|35|20|
-|**_11_**||~~85 1~~30|~~40~~55|30|15|
-|**_12_**||~~70 1~~05|~~30~~40|25|10|
-|**_13_**||~~60~~90|~~25~~30|20|5|
-|**_14_**||~~50~~75|~~20~~25|15|5|
-|**_15_**||~~40~~60|~~15~~20|10|5|
-|**_16_**||~~35~~50|~~10~~15|5|3|
-|**_17_**||~~30~~45|~~5~~10|5|3|
-|**_18_**||~~30~~45|~~5~~10|5|3|
+|**_1_**||<del>600</del>900|<del>350</del>455|200|125|
+|**_2_**||<del>475</del>715|<del>250</del>325|150|85|
+|**_3_**||<del>400</del>600|<del>200</del>260|125|70|
+|**_4_**||<del>325</del>490|<del>150</del>195|100|60|
+|**_5_**||<del>275</del>410|<del>125</del>165|85|50|
+|**_6_**||<del>225</del>340|<del>100</del>130|70|40|
+|**_7_**||<del>175 2</del>65|<del>85</del>110|60|35|
+|**_8_**||<del>150 2</del>25|<del>70</del>90|50|30|
+|**_9_**||<del>125 1</del>90|<del>60</del>80|40|25|
+|**_10_**||<del>100</del>150|<del>50</del>65|35|20|
+|**_11_**||<del>85 1</del>30|<del>40</del>55|30|15|
+|**_12_**||<del>70 1</del>05|<del>30</del>40|25|10|
+|**_13_**||<del>60</del>90|<del>25</del>30|20|5|
+|**_14_**||<del>50</del>75|<del>20</del>25|15|5|
+|**_15_**||<del>40</del>60|<del>15</del>20|10|5|
+|**_16_**||<del>35</del>50|<del>10</del>15|5|3|
+|**_17_**||<del>30</del>45|<del>5</del>10|5|3|
+|**_18_**||<del>30</del>45|<del>5</del>10|5|3|
 
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0023-00.png)
 
@@ -965,48 +965,48 @@ Where Elite and Under 23 compete in their continental championships or continent
 ||_Olympic Games and World_|_Olympic Games and World_|_World Championships_|_World Championships_|
 |---|---|---|---|---|
 |_Position_|_Elite Road Race_|_Elite Time Trial_|_U23 Road_<br>_Race_|_U23 Individual_<br>_Time Trial_|
-|**_19_**|~~30~~45|5|5|3|
-|**_20_**|~~30~~45|5|5|3|
-|**21**|~~30~~45|3|5||
-|**22**|~~20~~30|3|5||
-|**23**|~~20~~30|3|5||
-|**24**|~~20~~30|3|5||
-|**25**|~~20~~30|3|5||
-|**26**|~~20~~30||5||
-|**27**|~~20~~30||5||
-|**28**|~~20~~30||5||
-|**29**|~~20~~30||5||
-|**30**|~~20~~30||5||
-|**31**|~~20~~30||3||
-|**32**|~~10~~15||3||
-|**33**|~~10~~15||3||
-|**34**|~~10~~15||3||
-|**35**|~~10~~15||3||
-|**36**|~~10~~15||3||
-|**37**|~~10~~15||3||
-|**38**|~~10~~15||3||
-|**39**|~~10~~15||3||
-|**40**|~~10~~15||3||
-|**41**|~~10~~15||||
-|**42**|~~10~~15||||
-|**43**|~~10~~15||||
-|**44**|~~10~~15||||
-|**45**|~~10~~15||||
-|**46**|~~10~~15||||
-|**47**|~~10~~15||||
-|**48**|~~10~~15||||
-|**49**|~~10~~15||||
-|**50**|~~10~~15||||
-|**51**|~~5~~10||||
-|**52**|~~5~~10||||
-|**53**|~~5~~10||||
-|**54**|~~5~~10||||
-|**55**|~~5~~10||||
-|**56**|~~3~~5||||
-|**57**|~~3~~5||||
-|**58**|~~3~~5||||
-|**59**|~~3~~5||||
-|**60**|~~3~~5||||
+|**_19_**|<del>30</del>45|5|5|3|
+|**_20_**|<del>30</del>45|5|5|3|
+|**21**|<del>30</del>45|3|5||
+|**22**|<del>20</del>30|3|5||
+|**23**|<del>20</del>30|3|5||
+|**24**|<del>20</del>30|3|5||
+|**25**|<del>20</del>30|3|5||
+|**26**|<del>20</del>30||5||
+|**27**|<del>20</del>30||5||
+|**28**|<del>20</del>30||5||
+|**29**|<del>20</del>30||5||
+|**30**|<del>20</del>30||5||
+|**31**|<del>20</del>30||3||
+|**32**|<del>10</del>15||3||
+|**33**|<del>10</del>15||3||
+|**34**|<del>10</del>15||3||
+|**35**|<del>10</del>15||3||
+|**36**|<del>10</del>15||3||
+|**37**|<del>10</del>15||3||
+|**38**|<del>10</del>15||3||
+|**39**|<del>10</del>15||3||
+|**40**|<del>10</del>15||3||
+|**41**|<del>10</del>15||||
+|**42**|<del>10</del>15||||
+|**43**|<del>10</del>15||||
+|**44**|<del>10</del>15||||
+|**45**|<del>10</del>15||||
+|**46**|<del>10</del>15||||
+|**47**|<del>10</del>15||||
+|**48**|<del>10</del>15||||
+|**49**|<del>10</del>15||||
+|**50**|<del>10</del>15||||
+|**51**|<del>5</del>10||||
+|**52**|<del>5</del>10||||
+|**53**|<del>5</del>10||||
+|**54**|<del>5</del>10||||
+|**55**|<del>5</del>10||||
+|**56**|<del>3</del>5||||
+|**57**|<del>3</del>5||||
+|**58**|<del>3</del>5||||
+|**59**|<del>3</del>5||||
+|**60**|<del>3</del>5||||
 
 ## _**Final results of team time trial mixed relay world championships**_ 
 
@@ -1089,7 +1089,7 @@ _(paragraph introduced on 01.01.08)._
 
 ## **UCI Men Junior Nations’ Cup ranking** 
 
-- **2.14.040** The points for the UCI Men Junior Nations’ Cup count towards ~~are awarded only~~ the individual ranking and a ranking by nations which cumulates the ~~by totalling the~~ individual points scored. ~~Only a classification by nations is kept.~~ 
+- **2.14.040** The points for the UCI Men Junior Nations’ Cup count towards <del>are awarded only</del> the individual ranking and a ranking by nations which cumulates the <del>by totalling the</del> individual points scored. <del>Only a classification by nations is kept.</del> 
 
 For team time trial events and stages the points on the scale shall be awarded to the teams. 
 
@@ -1139,21 +1139,21 @@ UCI ProSeries events may not be placed on the calendar between the end of the se
 
    1. the sporting level according to the start lists of the two editions preceding the application for registration with, as a minimum, the following participation levels: 
 
-|||~~**2019** ~~||~~**2020** ~~||~~**2021**~~|~~**2022 2**~~**026**<br>**and**<br>**subsequent**|
+|||<del>**2019** </del>||<del>**2020** </del>||<del>**2021**</del>|<del>**2022 2**</del>**026**<br>**and**<br>**subsequent**|
 |---|---|---|---|---|---|---|---|
 |**Events in Europe**||||||||
-|Minimum<br>number<br>of<br>UCI<br>WorldTeams<br>and<br>UCI<br>ProTeams at the start for the<br>relevant year|<br> <br>|~~10~~||~~11~~||~~12~~|13|
-|Minimum<br>number<br>of<br>UCI<br>WorldTeams at the start for the<br>relevant year|<br>|~~-~~||~~3~~||~~3~~|4|
-|Minimum<br>number<br>of<br>UCI<br>ProTeams at the start for the<br>relevant year|<br>|~~-~~||~~-~~||~~-~~|6|
+|Minimum<br>number<br>of<br>UCI<br>WorldTeams<br>and<br>UCI<br>ProTeams at the start for the<br>relevant year|<br> <br>|<del>10</del>||<del>11</del>||<del>12</del>|13|
+|Minimum<br>number<br>of<br>UCI<br>WorldTeams at the start for the<br>relevant year|<br>|<del>-</del>||<del>3</del>||<del>3</del>|4|
+|Minimum<br>number<br>of<br>UCI<br>ProTeams at the start for the<br>relevant year|<br>|<del>-</del>||<del>-</del>||<del>-</del>|6|
 |**Events outside Europe**||||||||
-|Minimum<br>number<br>of<br>UCI<br>WorldTeams<br>and<br>UCI<br>ProTeams at the start for the<br>relevant year|<br> <br>|~~6~~||~~6~~||~~8~~|10|
-|Minimum<br>number<br>of<br>UCI<br>WorldTeams at the start for the<br>relevant year|<br>|~~-~~||~~-~~||~~1~~|3|
+|Minimum<br>number<br>of<br>UCI<br>WorldTeams<br>and<br>UCI<br>ProTeams at the start for the<br>relevant year|<br> <br>|<del>6</del>||<del>6</del>||<del>8</del>|10|
+|Minimum<br>number<br>of<br>UCI<br>WorldTeams at the start for the<br>relevant year|<br>|<del>-</del>||<del>-</del>||<del>1</del>|3|
 
 MEMORANDUM 01.07.2025 
 
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0027-01.png)
 
-Minimum number of UCI ProTeams at the start for the ~~-~~ 5 relevant year 
+Minimum number of UCI ProTeams at the start for the <del>-</del> 5 relevant year 
 
 2. the format, structure and nature of the event, contributing to the image of UCI ProSeries’ elite events; 
 

@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5Xb7NjQq4EnBY3TsmuMDSF/de0
 source_sha256: efc994350db6b761f618aba9e564a43e352f631a8c25b0da929c060e18be2009
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 16.06.2025 
 
@@ -20,7 +20,7 @@ converter: pymupdf4llm
 
 ## **§ 2 Technical specifications** 
 
-- **1.3.017** The distance between ~~the internal extremities of~~ the two legs of the front fork ~~s~~ shall not exceed 11,5 cm, measured from inside to inside; the distance between ~~the internal extremities of~~ the two sides of the rear triangle shall not exceed 14,5 cm, measured from inside to inside. 
+- **1.3.017** The distance between <del>the internal extremities of</del> the two legs of the front fork <del>s</del> shall not exceed 11,5 cm, measured from inside to inside; the distance between <del>the internal extremities of</del> the two sides of the rear triangle shall not exceed 14,5 cm, measured from inside to inside. 
 
 For equipment used in track events, the distance between the two legs of the front fork, at the lower extremity, shall not exceed 11,5 cm, measured from inside to inside; the distance between the two sides of the rear triangle, at the rear extremity, shall not exceed 14,5 cm, measured from inside to inside. 
 

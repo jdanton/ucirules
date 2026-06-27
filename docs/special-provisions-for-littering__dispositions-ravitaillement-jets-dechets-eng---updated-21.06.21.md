@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6kmsw3GgD4yhv8r4im6d8W/f8c
 source_sha256: 1b2692001b540ea043a38c078f819e3a37ea6c1158c53002453971c435049b7a
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf-0001-00.png)
 
@@ -85,7 +85,7 @@ Page 2 / 4
 ||**Column 1**||**Column 2**||**Column 3**|
 |---|---|---|---|---|---|
 ||**Games and Championships**<br>Olympic Games<br>Elite World Championships<br>**Men Elite events**<br>UCI WorldTour||**Games and Championships**<br>Under-23 and Junior World<br>Championships<br>Continental Championships<br>Continental Games<br>**Men Elite events**<br>UCI ProSeries<br>Class 1<br>**Women Elite events**<br>UCI Women’s WorldTour<br>UCI ProSeries<br>Para-cycling<br>Paralympic Games<br>World Championships<br>World Cups||**Men Elite events**<br>Class 2<br>**Women Elite events**<br>Class 1 and Class 2<br>**Men Under 23 events**<br>UCI Nations’ Cup<br>Other events<br>**Other events**<br>UCI Junior Nations’ Cups<br>Junior events<br>National events<br>Other events<br>Para-cycling:<br>Other events|
-|8.3<br>Rider or team staff disposing of waste or other objects outside of litter zones, or not returned to team or organisation staff, not collected by team staff, thrown at a<br>spectator. Disposing of waste or other objects in a careless or dangerous manner (e.g. bottle or other object remaining or bouncing back on the road, thrown directly or<br>with excessive force~~a~~t spectator, causing dangerous manoeuvre by other rider or vehicle, causing spectator to move onto the road).||||||
+|8.3<br>Rider or team staff disposing of waste or other objects outside of litter zones, or not returned to team or organisation staff, not collected by team staff, thrown at a<br>spectator. Disposing of waste or other objects in a careless or dangerous manner (e.g. bottle or other object remaining or bouncing back on the road, thrown directly or<br>with excessive force<del>a</del>t spectator, causing dangerous manoeuvre by other rider or vehicle, causing spectator to move onto the road).||||||
 
 Page 3 / 4 
 

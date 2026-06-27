@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7IE4WjTvQLqeRF5aniDP34/ffc
 source_sha256: e7352ecb88dae2d27bf0a01977c09ecfb36d599beb065cff7f6f92b408c15cb6
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ## **PART 3 TRACK RACES** 
 
@@ -1800,7 +1800,7 @@ The relay is considered as passed, as soon as both riders are no longer in conta
 
 _(text modified on 01.01.02; 14.10.16; 12.06.20; 17.10.2022, 01.08.23)_ 
 
-- **3.2.162** Where there is a draw on ~~p~~ oints, the places in the final sprint shall decide. 
+- **3.2.162** Where there is a draw on <del>p</del> oints, the places in the final sprint shall decide. 
 
 Any team that gains a lap is awarded 20 points. 
 
@@ -3081,7 +3081,7 @@ TRACK RACES
 
 Riders who are classified as finishers according to the specific UCI Regulations, will be ranked, and will score UCI points, according to those specific regulations. 
 
-Unless otherwise provided for in a specific provision of the UCI Regulations, riders who do not start, or who do not finish any of the events will have this indicated in their results, and will score UCI points, according to the following, based on the event type: The reason for not finishing will be indicated by one of the following result mark ~~:~~ DNS – Did Not Start: the rider did not come to the start line and did not start the race. DNF – Did Not Finish: the rider started the race but did not finish the race due to one of the following reasons: recognised mishap, withdrawn by the commissaires, withdrawn by the race doctor 
+Unless otherwise provided for in a specific provision of the UCI Regulations, riders who do not start, or who do not finish any of the events will have this indicated in their results, and will score UCI points, according to the following, based on the event type: The reason for not finishing will be indicated by one of the following result mark <del>:</del> DNS – Did Not Start: the rider did not come to the start line and did not start the race. DNF – Did Not Finish: the rider started the race but did not finish the race due to one of the following reasons: recognised mishap, withdrawn by the commissaires, withdrawn by the race doctor 
 
 ABD – Abandon: the rider started the race but did not finish the race due to one of the following reasons: unrecognised mishap or not finishing the race by their own decision. DSQ – Disqualified: the rider may or may not have started the race but was removed from the classification by the commissaires due to the breach or application of an article of the UCI Regulations. 
 
@@ -3966,7 +3966,7 @@ The loads calculation must be certified by a structural engineer and provided du
 
 The inner fence shall be continuous and free of gaps wherever possible. Where unavoidable, any gaps shall be less than 1 cm, including those between the bottom of the fence and the safety zone. 
 
-In places where the level of the safety zone is at a level 1.5 m or more than the actual track centre, additional protective measures such as nets, panels, or the like, shall be ~~erected~~ installed in order to prevent athletes being subjected to injury. In velodromes requesting their initial homologation after 1[st] January 2026, in places where the level of the safety zone is at a level 1.5 m or more than the actual track centre, the inner fence must have a minimum height of 2 m. This minimum height shall be measured at the location of the drop. 
+In places where the level of the safety zone is at a level 1.5 m or more than the actual track centre, additional protective measures such as nets, panels, or the like, shall be <del>erected</del> installed in order to prevent athletes being subjected to injury. In velodromes requesting their initial homologation after 1[st] January 2026, in places where the level of the safety zone is at a level 1.5 m or more than the actual track centre, the inner fence must have a minimum height of 2 m. This minimum height shall be measured at the location of the drop. 
 
 Where there is a difference in the height of the inner fence, the transition between these heights must not exceed an angle of 45°. 
 
@@ -4314,7 +4314,7 @@ _(text modified on 25.10.21)_
 
 - **3.7.008** During the season, a rider cannot join a UCI Track Team outside from the UCI Track Team registration period going from 2 months to 2 weeks before the start of the new Track Individual Classification, January 1[st]. 
 
-_(text modified on 30.09.10; 25.10.21; 17.10.202_ ~~_2)_~~ 
+_(text modified on 30.09.10; 25.10.21; 17.10.202_ <del>_2)_</del> 
 
 ## **§ 2 Legal and Financial Status** 
 

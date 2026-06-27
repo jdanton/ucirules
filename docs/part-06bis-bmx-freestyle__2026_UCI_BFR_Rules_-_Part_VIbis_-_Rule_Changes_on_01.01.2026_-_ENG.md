@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/74mXMQQSD1VJOU3Hm0RMgh/e4a
 source_sha256: 39e4452c890afb9adbc60e51cfa1989d6386b984a0e753afcd05813bc5654f03
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2026_UCI_BFR_Rules_-_Part_VIbis_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
 
@@ -18,7 +18,7 @@ converter: pymupdf4llm
 
 - **6bis.3.004** The organisation of a BMX Freestyle Competition may decide to limit the number of entries in any category, but only if this limit is announced in the Competition Guide for the Competition. Otherwise, the organiser can not refuse the entry of any license-holder, without prejudice to the provisions set down in article 1.2.022. Likewise, the organiser can not refuse to allow a rider who has completed the registration process to start, without prejudice to any other provisions of these regulations that may apply. 
 
-In principle, BMX Freestyle Competitions registered on the UCI International BMX Freestyle Calendar are open competitions, in which riders of any nationality who have a valid license may enter. ~~Competitions in which either or both of the Men Elite or Women Elite categories are open only to invited riders shall not be registered on the UCI International BMX Freestyle Calendar.~~ 
+In principle, BMX Freestyle Competitions registered on the UCI International BMX Freestyle Calendar are open competitions, in which riders of any nationality who have a valid license may enter. <del>Competitions in which either or both of the Men Elite or Women Elite categories are open only to invited riders shall not be registered on the UCI International BMX Freestyle Calendar.</del> 
 
 The organiser is not allowed to accept any entries after the riders’ confirmation deadline found in the Competition Guide. The Commissaire appointed to supervise the Competition shall rule in the event of a dispute. 
 
@@ -28,7 +28,7 @@ _(text modified on 02.02.19; 01.01.26)_
 
 ## **Special format events** 
 
-- **6bis.3.029** Events in the specialities of BMX Freestyle Park or BMX Freestyle Flatland which do not follow the provisions of Chapter VI ~~.bis below~~ may apply, through the national federation in accordance with the process set out in articles 1.2.001 et seq., for registration on the UCI International Calendar. 
+- **6bis.3.029** Events in the specialities of BMX Freestyle Park or BMX Freestyle Flatland which do not follow the provisions of Chapter VI <del>.bis below</del> may apply, through the national federation in accordance with the process set out in articles 1.2.001 et seq., for registration on the UCI International Calendar. 
 
 The UCI’s assessment of whether an event can be registered on the UCI International Calendar shall be based on legitimate objectives including, without being limited to, the integrity and fairness of sporting competitions, ethical values in sport, athletes’ health and safety, the integrity of the sporting calendar. Events which do not comply with such principles shall not be registered on the UCI International Calendar. In such a case, the UCI may determine that they shall not be authorised for licence holders in accordance with article 1.2.019. 
 
@@ -42,7 +42,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Chapter VI UCI BMX FREESTYLE COMPETITIONS** 
 
-- **6bis.6.003** A BMX Freestyle Park Competition ~~for each category~~ may be composed of the phases (qualification, semi-final or final) described below, and within each phase, a number of heats. A BMX Freestyle Flatland Competition may be composed of the phases (qualification or final) described below, and within each phase, a number of heats. 
+- **6bis.6.003** A BMX Freestyle Park Competition <del>for each category</del> may be composed of the phases (qualification, semi-final or final) described below, and within each phase, a number of heats. A BMX Freestyle Flatland Competition may be composed of the phases (qualification or final) described below, and within each phase, a number of heats. 
 
 For Park Competitions, a heat is a group which comprises 4-6 riders. In the case of 7 entries, the heat will consist of 7 riders. 
 
@@ -59,7 +59,7 @@ The combination of phases and heats (if applicable) for a category depends on th
 |16 - 31 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 12 in qualification<br>advance to final|Qualification<br>as<br>below:<br>2 heats of 6 in final|
 |More than 31 entries|3 phases:<br>Qualification x 1<br>Semi-final x 1<br>Final x 1|Top 24 in qualification<br>advance to semi-final<br>Top 12 in semi-final<br>advance to final|Qualification<br>as<br>below:<br>4 heats of 6 in<br>semi-final<br>2 heats of 6 in final|
 
-**Number of heats:** The number of heats in each round is found in the table above. For the ~~qualification~~ qualifying phase, the number of heats should be chosen such that as many heats as possible have 4-6 riders. 
+**Number of heats:** The number of heats in each round is found in the table above. For the <del>qualification</del> qualifying phase, the number of heats should be chosen such that as many heats as possible have 4-6 riders. 
 
 Page **2** / **7** 
 
@@ -76,8 +76,8 @@ Whenever it is not possible for all heats to have 6 riders, a number of heats wi
 ||3 - 4 entries||1 phase:<br>Final x 1||All<br>entered<br>riders<br>participate in the final|
 ||5 - 8 entries||2 phases:<br>Qualification x 1<br>Final x 1||Top 4 in qualification<br>advance to final|
 ||9 – 15 entries||2 phases:<br>Qualification x 1<br>Final x 1||Top 8 in qualification<br>advance to final|
-||~~16 - 21 entries~~<br>More than 16 entries||~~3 ~~2phases:<br>Qualification x 1<br>~~Semi-final x 1~~<br>Final x 1||~~Top 12 in qualification~~<br>~~advance to semi-final~~<br>Top~~8~~12ins~~emi-final~~<br>qualificationadvance to<br>Final|
-||~~More than 21 entries~~||~~3 phases:~~<br>~~Qualification x 1~~<br>~~Semi-final x 1~~<br>~~Final x 1~~||~~Top 16 in qualification~~<br>~~advance to semi-final~~<br>~~Top~~<br>~~8~~<br>~~in~~<br>~~semi-final~~<br>~~advance to final~~|
+||<del>16 - 21 entries</del><br>More than 16 entries||<del>3 </del>2phases:<br>Qualification x 1<br><del>Semi-final x 1</del><br>Final x 1||<del>Top 12 in qualification</del><br><del>advance to semi-final</del><br>Top<del>8</del>12ins<del>emi-final</del><br>qualificationadvance to<br>Final|
+||<del>More than 21 entries</del>||<del>3 phases:</del><br><del>Qualification x 1</del><br><del>Semi-final x 1</del><br><del>Final x 1</del>||<del>Top 16 in qualification</del><br><del>advance to semi-final</del><br><del>Top</del><br><del>8</del><br><del>in</del><br><del>semi-final</del><br><del>advance to final</del>|
 
 ## _(text modified on 01.02.18; 02.02.19; 11.02.20; 08.02.21; 01.01.26)_ 
 
@@ -91,7 +91,7 @@ In general, riders do their first run in the start order defined in article 6bis
 
 ## Flatland Competitions 
 
-At ~~all q~~ ualifying phases of the Competition, within each heat, each rider shall do 1 run; this run shall be done by the riders in the start order defined in article 6bis.6.005. 
+At <del>all q</del> ualifying phases of the Competition, within each heat, each rider shall do 1 run; this run shall be done by the riders in the start order defined in article 6bis.6.005. 
 
 T: +41 24 468 58 11 Page **3** / **7** E: admin@uci.ch 
 
@@ -107,7 +107,7 @@ At final phases of the Competition, within each heat, each rider shall do 2 runs
 
 Each judge shall give each rider a score of between 0.00 and 99.99, taking into account the rider’s entire performance. The scores of individual judges are not given for each run. 
 
-In the ~~Pre-Qualification (if held) and the~~ qualification phase, scores given by all judges for each rider are averaged; this average score is the official score of the rider’s performance over 2 runs for the heat in question. In the semi-final and final phase, scores given by all judges for each rider are averaged; the final score is the best score of the 2 runs during the semi-final and final phase. Each average score is reported accurate to 2 decimal places; any fractions of points beyond this are dropped (no rounding of scores is done). 
+In the <del>Pre-Qualification (if held) and the</del> qualification phase, scores given by all judges for each rider are averaged; this average score is the official score of the rider’s performance over 2 runs for the heat in question. In the semi-final and final phase, scores given by all judges for each rider are averaged; the final score is the best score of the 2 runs during the semi-final and final phase. Each average score is reported accurate to 2 decimal places; any fractions of points beyond this are dropped (no rounding of scores is done). 
 
 ## Flatland Competitions 
 
@@ -127,7 +127,7 @@ Within each heat, each rider shall do 2 runs. Each run will have a duration of o
 
 ## Flatland Competitions 
 
-During the ~~Within each~~ qualifying phase, each rider shall do 1 run. Each run will have a duration of between 2 and 3 minutes; the duration of a run for ~~each~~ the qualifying phase of the Competition will be set in the ~~Competition~~ technical guide. In the final phase, each rider shall do 2 runs. Each run will have a duration between 1 and 3 minutes; the duration of a run for the final phase of the Competition will be set in the technical guide. In case of bad weather or an unusually high number of entries, the organiser can decide to reduce the duration of a run to the minimum prior to the start of the Phase in question. 
+During the <del>Within each</del> qualifying phase, each rider shall do 1 run. Each run will have a duration of between 2 and 3 minutes; the duration of a run for <del>each</del> the qualifying phase of the Competition will be set in the <del>Competition</del> technical guide. In the final phase, each rider shall do 2 runs. Each run will have a duration between 1 and 3 minutes; the duration of a run for the final phase of the Competition will be set in the technical guide. In case of bad weather or an unusually high number of entries, the organiser can decide to reduce the duration of a run to the minimum prior to the start of the Phase in question. 
 
 _(text modified on 01.02.18; 01.01.26)_ 
 
@@ -145,9 +145,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - The start order and group of riders into heats are done in reverse order of the classification from the Qualification Phase. 
 
-## ~~Flatland Competitions~~ 
+## <del>Flatland Competitions</del> 
 
-~~The start order is done in reverse order of the classification of the Qualification Phase.~~ 
+<del>The start order is done in reverse order of the classification of the Qualification Phase.</del> 
 
 _(text modified on: 01.02.18; 01.01.26)_ 
 
@@ -155,7 +155,7 @@ _(text modified on: 01.02.18; 01.01.26)_
 
 ## **Competition format** 
 
-- **6bis.10.003** The UCI BMX Freestyle World Championships is generally held in accordance with the Competition format and procedures outlined in Part VIbis of the UCI Regulations. Competition Specific regulations may be defined in the ~~Competition~~ technical guide at the UCI’s discretion. In the event of a conflict between such a specific regulation and an article of Part VIbis, then the specific regulation found in the ~~Competition~~ technical guide shall apply. 
+- **6bis.10.003** The UCI BMX Freestyle World Championships is generally held in accordance with the Competition format and procedures outlined in Part VIbis of the UCI Regulations. Competition Specific regulations may be defined in the <del>Competition</del> technical guide at the UCI’s discretion. In the event of a conflict between such a specific regulation and an article of Part VIbis, then the specific regulation found in the <del>Competition</del> technical guide shall apply. 
 
 ## **Chapter XI UCI BMX FREESTYLE RANKING** 
 
@@ -201,7 +201,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - The UCI points allocated shall remain valid until the next National Championships or for a maximum of 12 months if no National Championships are organised. 
 
-- ~~I. Regional Games; no UCI points will be awarded.~~ 
+- <del>I. Regional Games; no UCI points will be awarded.</del> 
 
 _(text modified on 01.01.25; 01.01.26)_ 
 

@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/52SfqiDfaPCXxVjBF2B58i/30b
 source_sha256: c2c5d7d400f109d48826d978aa3a5d3902e27265688152658bc1c03d73f7179a
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/13-MED-20250101-E_amendments_on_01.01.2025.pdf-0001-00.png)
 
@@ -14,7 +14,7 @@ converter: pymupdf4llm
 
 ## **§ 2 UCI World Championships, UCI World Cup events, UCI World Tour, UCI Women’s World Tour and UCI ProSeries events** 
 
-- **13.4.012** The rules of this §2 apply to UCI World Championships, UCI World Cup events, ~~and to the races of the~~ UCI World Tour, UCI Women‘s WorldTour and UCI ProSeries events. 
+- **13.4.012** The rules of this §2 apply to UCI World Championships, UCI World Cup events, <del>and to the races of the</del> UCI World Tour, UCI Women‘s WorldTour and UCI ProSeries events. 
 
 ## **Equipment** 
 
@@ -26,7 +26,7 @@ The LOC shall provide
 
 1. On road races, a car, preferably a convertible, for the doctor who shall act as first responder during an accident and provide acute medical care; 
 
-2. ~~Two~~ Three or more ambulances to provide immediate aid to accident victims and equipped to give emergency cardio-pulmonary resuscitation and advanced life support; at least one ambulance must be available at all times when the other ambulance(s) is/are in use. 
+2. <del>Two</del> Three or more ambulances to provide immediate aid to accident victims and equipped to give emergency cardio-pulmonary resuscitation and advanced life support; at least one ambulance must be available at all times when the other ambulance(s) is/are in use. 
 
 3. Depending on the nature of the event, the proximity of hospitals and the suitability of evacuation routes, the following vehicles shall be provided in addition: 
 
@@ -52,7 +52,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 behind the president of the commissaires’ panel; 
 
-2. The first ambulance remains behind the team managers' cars, with the main peloton; ~~a second ambulance~~ the remaining ambulances remain at the back of the race, close to the broom wagon; one of the assistant doctors must be in one of these two ambulances; 
+2. The first ambulance remains behind the team managers' cars, with the main peloton; <del>a second ambulance</del> the remaining ambulances remain at the back of the race, close to the broom wagon; one of the assistant doctors must be in one of these two ambulances; 
 
 3. If a motorbike is available, it shall have the second assistant doctor on board and stay with any breaks during flat stages, but be available anywhere on the course during mountain stages. 
 

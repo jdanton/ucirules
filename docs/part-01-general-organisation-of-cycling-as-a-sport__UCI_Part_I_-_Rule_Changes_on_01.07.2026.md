@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6mWZF699dl7xZhIOWSbuVX/04b
 source_sha256: 288dc95f89a1c405aac3ab0bb813fbf05b0bd1ca9d057d54f79fc56920f4cf92
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 08.06.2026 
 
@@ -40,7 +40,7 @@ _(text modified on 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.01.08; 01.07.10; 0
 
 ## **§ 2 Technical Specifications** 
 
-- **1.3.10bis** Except where stated to the contrary, the following technical specifications shall apply to bicycles used in road, track and cyclo-cross competitions ~~racing~~. 
+- **1.3.10bis** Except where stated to the contrary, the following technical specifications shall apply to bicycles used in road, track and cyclo-cross competitions <del>racing</del>. 
 
 The specific characteristics of bicycles used in mountain bike, gravel, BMX Racing, BMX Freestyle, trials, indoor cycling and paracycling for riders with disabilities are set out in the part Regulating the discipline in question. 
 

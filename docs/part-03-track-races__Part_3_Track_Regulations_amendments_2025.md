@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6u6WdNRhjfjnBzjgUp9FTL/010
 source_sha256: cfe72844e84b90deae1d24598de3b6a72679f3d18fa9385fe666b6fd7abc9bef
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 16.06.2025 
 
@@ -49,7 +49,7 @@ _(text modified on 14.10.16; 01.01.26)_
 
 ## **Lap counter and bell** 
 
-**3.2.017** Unless otherwise provided in a specific provision, the start of the sprint lap(s), **bis** including the last lap, of a race shall be indicated by a bell. The bell shall be rung when the ~~leader on the track~~ head of the race crosses the finish line, and again for any rider or group of riders who may also score points in a sprint. Points will be awarded, or the race will be over upon the next time the ~~leader on the track~~ head of the race crosses the finish line. The final determination as to who the ~~leader on the track~~ head of the race shall be made by the president of the commissaires’ panel. Either the president, or a commissaire designated by the president, shall indicate the ~~leader on the track~~ head of the race during bunch events ~~races.~~ 
+**3.2.017** Unless otherwise provided in a specific provision, the start of the sprint lap(s), **bis** including the last lap, of a race shall be indicated by a bell. The bell shall be rung when the <del>leader on the track</del> head of the race crosses the finish line, and again for any rider or group of riders who may also score points in a sprint. Points will be awarded, or the race will be over upon the next time the <del>leader on the track</del> head of the race crosses the finish line. The final determination as to who the <del>leader on the track</del> head of the race shall be made by the president of the commissaires’ panel. Either the president, or a commissaire designated by the president, shall indicate the <del>leader on the track</del> head of the race during bunch events <del>races.</del> 
 
 _(article introduced on 04.03.19; modified on 01.10.19; 01.01.25, 01.01.26)_ 
 
@@ -73,7 +73,7 @@ _(article introduced on 04.03.19; modified on 01.10.19; 12.06.20; 01.01.26)_
 
 ## **Seeding** 
 
-**3.2.021** For all competitions, other than ~~Nations~~ World Cup, World Championships and **bis** Olympic Games, rider and teams shall be seeded according to the following table: ~~their current UCI Individual Track Ranking Classification.~~ 
+**3.2.021** For all competitions, other than <del>Nations</del> World Cup, World Championships and **bis** Olympic Games, rider and teams shall be seeded according to the following table: <del>their current UCI Individual Track Ranking Classification.</del> 
 
 ||**Events**||**UCI Ranking to use**|
 |---|---|---|---|
@@ -81,9 +81,9 @@ _(article introduced on 04.03.19; modified on 01.10.19; 12.06.20; 01.01.26)_
 |-<br>Elimination Race<br>-<br>Omnium<br>-<br>Scratch Race<br>-<br>Points Race<br>-<br>Individual Pursuit||UCI Individual Ranking<br>(Endurance)||
 |-<br>Madison<br>-<br>Team Pursuit<br>-<br>Team Sprint||UCI Nation Rankings<br>(specific to the event)||
 
-Riders/teams with no ranking shall be seeded last in random order by the commissaires’ panel. In the case where qualification heats are held for a bunch ~~race~~ event, riders in the subsequent race and finals shall be seeded according to the results from these heats. 
+Riders/teams with no ranking shall be seeded last in random order by the commissaires’ panel. In the case where qualification heats are held for a bunch <del>race</del> event, riders in the subsequent race and finals shall be seeded according to the results from these heats. 
 
-For ~~Nations~~ _World Cup_, _World Championships_ and _Olympic Games_, riders and teams shall be seeded by the UCI. When applicable, the current World Champion will have the best seed. 
+For <del>Nations</del> _World Cup_, _World Championships_ and _Olympic Games_, riders and teams shall be seeded by the UCI. When applicable, the current World Champion will have the best seed. 
 
 _(article introduced on 01.02.11; text modified on 01.10.12; 12.06.20, 01.01.26)_ 
 
@@ -101,7 +101,7 @@ A team or a rider which causes a further false start or suffer a further recogni
 
 A team or a rider which causes a further false start or suffer a further recognised mishap during the finals loses the final. 
 
-If a team or rider stops after suffering a mishap and the starter determines it is not a recognised mishap, the team or rider shall be ~~disqualified~~ eliminated (DNF) from the qualifying round of the event, or be relegated in the following rounds. 
+If a team or rider stops after suffering a mishap and the starter determines it is not a recognised mishap, the team or rider shall be <del>disqualified</del> eliminated (DNF) from the qualifying round of the event, or be relegated in the following rounds. 
 
 _(article introduced on 04.03.19; text modified on 01.08.23; 01.01.26)_ 
 
@@ -117,9 +117,9 @@ _(text modified on 01.01.02; 01.01.04; 01.10.11; 01.08.23; 01.01.26)_
 
 1. In the case of a fall, the starter may stop the race. 
 
-If the fall is caused by a competitor riding too slowly in a ~~curve~~ bend or by any other unintentional fault, the race shall be restarted and the rider not at fault shall decide their starting position. In a three or four up heat, the riders not at fault shall decide their starting positions according to the order of the last draw. 
+If the fall is caused by a competitor riding too slowly in a <del>curve</del> bend or by any other unintentional fault, the race shall be restarted and the rider not at fault shall decide their starting position. In a three or four up heat, the riders not at fault shall decide their starting positions according to the order of the last draw. 
 
-If the fall ~~be~~ is intentionally caused by a competitor, that competitor shall be relegated or disqualified from the competition according to the gravity of the fault committed and the other competitor declared the winner. In three or four up heat, the race shall be immediately restarted with the remaining two or three riders. 
+If the fall <del>be</del> is intentionally caused by a competitor, that competitor shall be relegated or disqualified from the competition according to the gravity of the fault committed and the other competitor declared the winner. In three or four up heat, the race shall be immediately restarted with the remaining two or three riders. 
 
 If the fall is not caused by a competitor committing a fault, the commissaires’ panel shall decide whether the race is to be restarted with the riders in the same order or whether the positions at the time of the fall should be considered final. 
 
@@ -147,25 +147,25 @@ This event shall be organised in two phases:
 
 1. The qualifying round to select the 4 best teams on the basis of their times; 2. The finals. 
 
-The teams having made the two best times shall ride off the final for ~~first~~ 1[st] and ~~second~~ 2[nd] places, the two others shall ride off the final for ~~third~~ 3[rd] and ~~fourth~~ 4[th] places. 
+The teams having made the two best times shall ride off the final for <del>first</del> 1[st] and <del>second</del> 2[nd] places, the two others shall ride off the final for <del>third</del> 3[rd] and <del>fourth</del> 4[th] places. 
 
 First round: 
 
-At ~~Nations~~ World Cup, Continental Championships, the World Championships and the Olympic Games, the 8 teams recording the best times in the qualifying rounds shall be matched in the first round as follows: 
+At <del>Nations</del> World Cup, Continental Championships, the World Championships and the Olympic Games, the 8 teams recording the best times in the qualifying rounds shall be matched in the first round as follows: 
 
-The team having obtained the 7 ~~6~~[t][h] fastest time against the one having obtained the ~~7~~ 8[th] fastest time. 
+The team having obtained the 7 <del>6</del>[t][h] fastest time against the one having obtained the <del>7</del> 8[th] fastest time. 
 
-The team having obtained the 5[th] fastest time against the one having obtained the 6 ~~8~~[t][h] fastest time. 
+The team having obtained the 5[th] fastest time against the one having obtained the 6 <del>8</del>[t][h] fastest time. 
 
 The team having obtained the 2[nd] fastest time against the one having obtained the 3[rd] fastest time. 
 
 The team having obtained the fastest time against the one having obtained the 4[th] fastest time. 
 
-~~The heats shall be ridden in the inverse order to that stated below. If an odd number of teams qualify to the first round (5 or 7 teams), the team to take the track alone must be the qualified team that recorded the slowest time.~~ 
+<del>The heats shall be ridden in the inverse order to that stated below. If an odd number of teams qualify to the first round (5 or 7 teams), the team to take the track alone must be the qualified team that recorded the slowest time.</del> 
 
 ## Finals: 
 
-The winners of the last two heats in the first round shall ride the final for ~~first~~ 1[st] and ~~second~~ 2[nd] places. 
+The winners of the last two heats in the first round shall ride the final for <del>first</del> 1[st] and <del>second</del> 2[nd] places. 
 
 The remaining 6 teams shall be ranked according to their times from the first round and shall dispute the finals as follows: 
 
@@ -181,11 +181,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 _(text modified on 01.01.02; 26.08.04; 26.06.07; 01.02.11; 20.06.14; 14.10.16, 01.08.23; 01.01.26)_ 
 
-**3.2.086** In the last two heats of the first round, if one team catches the other, the starter shall fire the gun and the catching team is declared the winner. The catching team ~~and~~ shall stop as soon as possible in order to allow the other team to finish the distance and thus to record a time. In this case, if one or both teams catch their opponents, the times from the qualifying round shall be used to determine which of the two teams shall finish in the home straight. 
+**3.2.086** In the last two heats of the first round, if one team catches the other, the starter shall fire the gun and the catching team is declared the winner. The catching team <del>and</del> shall stop as soon as possible in order to allow the other team to finish the distance and thus to record a time. In this case, if one or both teams catch their opponents, the times from the qualifying round shall be used to determine which of the two teams shall finish in the home straight. 
 
 During the finals, if one team is caught by the other, the race is over, and the catching team shall be declared the winner. The starter shall fire the gun to indicate that the race is over. Additionally, the Starter shall also fire the gun for each team as they finish their race if neither team catches the other. 
 
-~~In both situations above, a pistol shot marks the end of the race at the moment on which the team crosses its finish line at the full distance or at the moment on which one team catches the other.~~ 
+<del>In both situations above, a pistol shot marks the end of the race at the moment on which the team crosses its finish line at the full distance or at the moment on which one team catches the other.</del> 
 
 _(text modified on 20.06.19; 01.10.19, 01.01.26)_ 
 
@@ -246,7 +246,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS**|
 |---|---|---|---|---|---|---|
 ||||||||
-|1st ROUND|Composition:<br>4 HEATS of 7 riders<br>A<br>B<br>C<br>D<br>R1<br>R2<br>R3<br>R4<br>R8<br>R7<br>R6<br>R5<br>R9<br>R10<br>R11<br>R12<br>R16<br>R15<br>R14<br>R13<br>R17<br>R18<br>R19<br>R20<br>R24<br>R23<br>R22<br>R21<br>R25<br>R26<br>R27<br>R28<br>Abbreviations: «R» Rank on the last UCI Individual ~~Keirin~~SprintRanking. In the absence of rank, drawing lots.<br>Results:<br>*QA1<br>*QB1<br>*QC1<br>*QD1<br>*QA2<br>*QB2<br>*QC2<br>*QD2<br>QA3<br>QB3<br>QC3<br>QD3<br>QA4<br>QB4<br>QC4<br>QD4<br>QA5<br>QB5<br>QC5<br>QD5<br>QA6<br>QB6<br>QC6<br>QD6<br>QA7<br>QB7<br>QC7<br>QD7<br>*Riders qualified for 2nd Round (Semi-finals) – the other riders participate in the repechages|4 HEATS of 7 riders<br>A||B<br>C<br>D|||
+|1st ROUND|Composition:<br>4 HEATS of 7 riders<br>A<br>B<br>C<br>D<br>R1<br>R2<br>R3<br>R4<br>R8<br>R7<br>R6<br>R5<br>R9<br>R10<br>R11<br>R12<br>R16<br>R15<br>R14<br>R13<br>R17<br>R18<br>R19<br>R20<br>R24<br>R23<br>R22<br>R21<br>R25<br>R26<br>R27<br>R28<br>Abbreviations: «R» Rank on the last UCI Individual <del>Keirin</del>SprintRanking. In the absence of rank, drawing lots.<br>Results:<br>*QA1<br>*QB1<br>*QC1<br>*QD1<br>*QA2<br>*QB2<br>*QC2<br>*QD2<br>QA3<br>QB3<br>QC3<br>QD3<br>QA4<br>QB4<br>QC4<br>QD4<br>QA5<br>QB5<br>QC5<br>QD5<br>QA6<br>QB6<br>QC6<br>QD6<br>QA7<br>QB7<br>QC7<br>QD7<br>*Riders qualified for 2nd Round (Semi-finals) – the other riders participate in the repechages|4 HEATS of 7 riders<br>A||B<br>C<br>D|||
 |||R1||R2|R3|R4|
 |||R8||R7|R6|R5|
 |||R9||R10|R11|R12|
@@ -254,7 +254,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||R17||R18|R19|R20|
 |||R24||R23|R22|R21|
 |||R25||R26|R27|R28|
-|||||~~Keirin~~SprintRanking. In the absence of rank, drawing lots.|||
+|||||<del>Keirin</del>SprintRanking. In the absence of rank, drawing lots.|||
 |||*QA1||*QB1|*QC1|*QD1|
 |||*QA2||*QB2|*QC2|*QD2|
 |||QA3||QB3|QC3|QD3|
@@ -287,14 +287,14 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|**COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMESAND UCI TRACK WORLD**<br>**CHAMPIONSHIPS**|
 |---|---|---|---|---|---|---|---|
 |||||||||
-|1st ROUND|Composition:<br>5 HEATS of 6 riders<br>A<br>B<br>C<br>D<br>E<br>R1<br>R2<br>R3<br>R4<br>R5<br>R10<br>R9<br>R8<br>R7<br>R6<br>R11<br>R12<br>R13<br>R14<br>R15<br>R20<br>R19<br>R18<br>R17<br>R16<br>R21<br>R22<br>R23<br>R24<br>R25<br>R30<br>R29<br>R28<br>R27<br>R26<br>Abbreviations: «R» Rank on the last UCI Individual~~Keirin~~SprintRanking. In the absence of rank, drawing<br>lots.<br>Results:<br>*QA1<br>*QB1<br>*QC1<br>*QD1<br>*QE1<br>*QA2<br>*QB2<br>*QC2<br>*QD2<br>*QE2<br>QA3<br>QB3<br>QC3<br>QD3<br>QE3<br>QA4<br>QB4<br>QC4<br>QD4<br>QE4<br>QA5<br>QB5<br>QC5<br>QD5<br>QE5<br>QA6<br>QB6<br>QC6<br>QD6<br>QE6<br>*Riders qualified for 2nd Round (1/4-finals) – the other riders participate in the repechages|5 HEATS of 6 riders<br>A<br>B<br>C<br>D|||||E|
+|1st ROUND|Composition:<br>5 HEATS of 6 riders<br>A<br>B<br>C<br>D<br>E<br>R1<br>R2<br>R3<br>R4<br>R5<br>R10<br>R9<br>R8<br>R7<br>R6<br>R11<br>R12<br>R13<br>R14<br>R15<br>R20<br>R19<br>R18<br>R17<br>R16<br>R21<br>R22<br>R23<br>R24<br>R25<br>R30<br>R29<br>R28<br>R27<br>R26<br>Abbreviations: «R» Rank on the last UCI Individual<del>Keirin</del>SprintRanking. In the absence of rank, drawing<br>lots.<br>Results:<br>*QA1<br>*QB1<br>*QC1<br>*QD1<br>*QE1<br>*QA2<br>*QB2<br>*QC2<br>*QD2<br>*QE2<br>QA3<br>QB3<br>QC3<br>QD3<br>QE3<br>QA4<br>QB4<br>QC4<br>QD4<br>QE4<br>QA5<br>QB5<br>QC5<br>QD5<br>QE5<br>QA6<br>QB6<br>QC6<br>QD6<br>QE6<br>*Riders qualified for 2nd Round (1/4-finals) – the other riders participate in the repechages|5 HEATS of 6 riders<br>A<br>B<br>C<br>D|||||E|
 |||R1|R2||R3|R4|R5|
 |||R10|R9||R8|R7|R6|
 |||R11|R12||R13|R14|R15|
 |||R20|R19||R18|R17|R16|
 |||R21|R22||R23|R24|R25|
 |||R30|R29||R28|R27|R26|
-|||on the last UCI Individual||~~Keirin~~SprintRanking. In the absence of rank, drawing||||
+|||on the last UCI Individual||<del>Keirin</del>SprintRanking. In the absence of rank, drawing||||
 |||*QA1|*QB1||*QC1|*QD1|*QE1|
 |||*QA2|*QB2||*QC2|*QD2|*QE2|
 |||QA3|QB3||QC3|QD3|QE3|
@@ -330,7 +330,7 @@ E: admin@uci.ch
 
 _(text modified on 01.01.02; 30.03.09; 19.06.09; 21.06.18; 04.03.19; 12.06.20, 01.01.26)_ 
 
-- **3.2.139** The start shall be given when the pacer approaches the pursuit line in the sprinters’ lane. At the start, riders shall take their positions determined by the draw ~~, directly behind the pacer,~~ for at least the first lap, failing which the race shall be stopped and riders that failed to comply shall be disqualified. In the restart, the remaining riders shall again take their same relative positions behind the pacer. 
+- **3.2.139** The start shall be given when the pacer approaches the pursuit line in the sprinters’ lane. At the start, riders shall take their positions determined by the draw <del>, directly behind the pacer,</del> for at least the first lap, failing which the race shall be stopped and riders that failed to comply shall be disqualified. In the restart, the remaining riders shall again take their same relative positions behind the pacer. 
 
 _(text modified on 01.01.02; 1.02.03; 19.06.09; 14.10.16; 01.01.2026)_ 
 
@@ -342,7 +342,7 @@ _(text modified on 01.01.02; 20.09.05; 04.03.19; 01.01.26)_
 
 ## **Organisation of the event** 
 
-- **3.2.145** This event shall be organised in three phases at ~~Nations~~ World Cup, Continental Championships, World Championships and Olympic Games: 
+- **3.2.145** This event shall be organised in three phases at <del>Nations</del> World Cup, Continental Championships, World Championships and Olympic Games: 
 
    1. The qualifying round to select the 8 best teams on the basis of their times; 
 
@@ -380,17 +380,17 @@ _(text modified on 01.01.02; 14.10.16, 01.08.23; 01.01.26)_
 
 **3.2.247** In competitions for which the number or riders entered exceeds the track limit and **bis** there is no existing qualification system to establish the number of participating riders, their selection shall be determined as follows: 
 
-All riders entered shall first participate in ~~qualifying~~ Points Race qualifying heats run over the distance and with the number of sprints, ~~as per the regulations for Points Race qualifying heats~~ specified in the first table of the article 3.2.117, which applies to qualifying heats of international competitions, regardless of the class of competition. The heats shall be run in such a way so as to qualify up to the track maximum number of riders, without necessarily qualifying the maximum number of riders permitted. An equal number of riders shall be eliminated from each heat, at a minimum of 2 riders per heat, among the riders who have started the race. 
+All riders entered shall first participate in <del>qualifying</del> Points Race qualifying heats run over the distance and with the number of sprints, <del>as per the regulations for Points Race qualifying heats</del> specified in the first table of the article 3.2.117, which applies to qualifying heats of international competitions, regardless of the class of competition. The heats shall be run in such a way so as to qualify up to the track maximum number of riders, without necessarily qualifying the maximum number of riders permitted. An equal number of riders shall be eliminated from each heat, at a minimum of 2 riders per heat, among the riders who have started the race. 
 
-All riders not qualifying to participate in the Omnium shall be placed jointly in last position. Any riders not finishing any of the qualifying rounds for whatever reason shall not be placed ( ~~DNF~~ ). 
+All riders not qualifying to participate in the Omnium shall be placed jointly in last position. Any riders not finishing any of the qualifying rounds for whatever reason shall not be placed ( <del>DNF</del> ). 
 
 _(article introduced on 18.06.10, text modified on 01.08.23, 01.01.25, 01.01.26)_ 
 
 - **3.2.249** [abrogated on 01.01.26] 
 
-~~Any rider failing to attempt to start in one of the events shall not be allowed to take part in the subsequent events but shall be considered to have abandoned the omnium. He shall therefore figure last in the final classification with the provision~~ “ ~~DNF~~ ” ~~(did not finish~~ ). 
+<del>Any rider failing to attempt to start in one of the events shall not be allowed to take part in the subsequent events but shall be considered to have abandoned the omnium. He shall therefore figure last in the final classification with the provision</del> “ <del>DNF</del> ” <del>(did not finish</del> ). 
 
-~~_(text modified on 01.08.23)_~~ 
+<del>_(text modified on 01.08.23)_</del> 
 
 - **3.2.249** For all the races, riders shall be lined up in single file along the railing and in the 
 
@@ -400,11 +400,11 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-- **bis** sprinters lane in the order listed on the start list. For the Scratch Race, this order shall be based on the latest UCI ~~Omnium~~ Endurance Ranking. For the Points Race, Elimination, and Tempo Race, this order shall be based on the current intermediate Omnium classification. 
+- **bis** sprinters lane in the order listed on the start list. For the Scratch Race, this order shall be based on the latest UCI <del>Omnium</del> Endurance Ranking. For the Points Race, Elimination, and Tempo Race, this order shall be based on the current intermediate Omnium classification. 
 
 _(article introduced on 01.02.11; modified on 01.07.17; 01.10.17: 01.01.26)_ 
 
-- **3.2.251** ~~Any rider abandoning any of the events shall be considered to have abandoned the~~ **bis** ~~omnium and shall be recorded in the final classification after the last placed rider with the provision~~ “ ~~DNF~~ ” ~~(did not finish) and no rank, as per article 3.3.012.~~ 
+- **3.2.251** <del>Any rider abandoning any of the events shall be considered to have abandoned the</del> **bis** <del>omnium and shall be recorded in the final classification after the last placed rider with the provision</del> “ <del>DNF</del> ” <del>(did not finish) and no rank, as per article 3.3.012.</del> 
 
 Any rider failing to start in one of the events or abandoning any of the events shall not be allowed to continue in the Omnium and shall be recorded in the final classification, in accordance with article 3.3.012. 
 
@@ -424,7 +424,7 @@ _(text modified on 18.06.10; 01.02.11; 20.06.14; 15.03.16; 01.10.19; 12.06.20, 0
 
 - **3.3.002** A classification by nation for men and women, of elite and junior categories, is also drawn up for each competition referred to in article 3.3.009 and shall be the exclusive property of the UCI. 
 
-For team events (Madison excluded), points for the ~~Ranking by Nations is calculated by summing the points in each competition~~ UCI Nation Ranking in a competition are summed up to the following maximum quota, equal to the regular number of riders composing the team. 
+For team events (Madison excluded), points for the <del>Ranking by Nations is calculated by summing the points in each competition</del> UCI Nation Ranking in a competition are summed up to the following maximum quota, equal to the regular number of riders composing the team. 
 
 MEN WOMEN Team Pursuit: 4 Team Pursuit: 4 Team Sprint: 3 Team Sprint: 3 
 
@@ -436,7 +436,7 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-For ~~the Madison ranking, the Endurance ranking and the Sprint ranking~~ all events, the UCI Nation Ranking is calculated by summing the points in each competition as follows: 
+For <del>the Madison ranking, the Endurance ranking and the Sprint ranking</del> all events, the UCI Nation Ranking is calculated by summing the points in each competition as follows: 
 
 - when applicable, the best Olympic Games result in each of the events included in the respective ranking. 
 
@@ -444,7 +444,7 @@ For ~~the Madison ranking, the Endurance ranking and the Sprint ranking~~ all ev
 
 - the best Continental Championships result (as per the maximum number of riders by nationality stipulated in article 10.1.005) in each of the events included in the respective ranking. 
 
-- the best ~~Nations~~ World Cup result (as per the maximum number of riders by nationality stipulated in article 3.4.007) in each of the events included in the respective ranking. 
+- the best <del>Nations</del> World Cup result (as per the maximum number of riders by nationality stipulated in article 3.4.007) in each of the events included in the respective ranking. 
 
 - the best 3 Class 1 results (including Regional Games) in each of the events included in the respective ranking. 
 
@@ -472,7 +472,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Classification of competitions** 
 
-- **3.3.009** Olympic Games UCI World Championships UCI ~~Nations~~ World Cup Continental Championships ~~UCI Track Champions League~~ 
+- **3.3.009** Olympic Games UCI World Championships UCI <del>Nations</del> World Cup Continental Championships <del>UCI Track Champions League</del> 
 
    - Class 1 & Class 2 competitions (including Regional Games) National Championships 
 
@@ -488,9 +488,9 @@ _(text modified au 25.02.13; 15.03.16; 25.10.21, 01.08.23, 01.01.26)_
 
    - the Continental Championships result 
 
-   - the best UCI ~~Nations~~ World Cup result 
+   - the best UCI <del>Nations</del> World Cup result 
 
-   - ~~the UCI Track Champions League results~~ 
+   - <del>the UCI Track Champions League results</del> 
 
    - the best 3 Class 1 results (including Regional Games) 
 
@@ -502,9 +502,9 @@ _(text modified on 12.06.20; 25.10.21, 01.08.23; 01.01.25, 01.01.26)_
 
 ## **UCI Track Team Ranking** 
 
-## ~~**UCI Track Champions League**~~ 
+## <del>**UCI Track Champions League**</del> 
 
-- **3.3.010** [abrogated on 01.01.26] ~~The points for each event of the UCI Track Champions~~ **quarter** ~~League are those awarded to an international competition of class 2. Points are awarded for each event to the specific UCI Individual Ranking per event. Additional UCI points are awarded for the overall standings at the end of the UCI Track Champions League. Overall standings are established for Sprint events (Sprint and Keirin), and for Endurance events (Scratch and Elimination), for both categories Men and Women. Points of these overall standings are then equally divided and added to the UCI Individual Rankings. For Sprint events, points are allocated to UCI Individual Rankings of Sprint and Keirin, and for Endurance events to UCI Individual Rankings of Scratch, Elimination, Points race and Omnium, as per the following table:~~ 
+- **3.3.010** [abrogated on 01.01.26] <del>The points for each event of the UCI Track Champions</del> **quarter** <del>League are those awarded to an international competition of class 2. Points are awarded for each event to the specific UCI Individual Ranking per event. Additional UCI points are awarded for the overall standings at the end of the UCI Track Champions League. Overall standings are established for Sprint events (Sprint and Keirin), and for Endurance events (Scratch and Elimination), for both categories Men and Women. Points of these overall standings are then equally divided and added to the UCI Individual Rankings. For Sprint events, points are allocated to UCI Individual Rankings of Sprint and Keirin, and for Endurance events to UCI Individual Rankings of Scratch, Elimination, Points race and Omnium, as per the following table:</del> 
 
 Page **13** / **38** 
 
@@ -512,53 +512,53 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-|||||||~~ELITE~~<br>~~Men and Women~~|~~ELITE~~<br>~~Men and Women~~|~~ELITE~~<br>~~Men and Women~~|~~ELITE~~<br>~~Men and Women~~|~~ELITE~~<br>~~Men and Women~~|~~ELITE~~<br>~~Men and Women~~|
+|||||||<del>ELITE</del><br><del>Men and Women</del>|<del>ELITE</del><br><del>Men and Women</del>|<del>ELITE</del><br><del>Men and Women</del>|<del>ELITE</del><br><del>Men and Women</del>|<del>ELITE</del><br><del>Men and Women</del>|<del>ELITE</del><br><del>Men and Women</del>|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||~~Rank~~||~~**Overall**~~||~~**Points Allocation per specialisation in the UCI Individual**~~<br>~~**Rankings**~~|||||||
+||<del>Rank</del>||<del>**Overall**</del>||<del>**Points Allocation per specialisation in the UCI Individual**</del><br><del>**Rankings**</del>|||||||
 |||||||||||||
-||||||~~Sprint events~~||||~~Endurance events~~|||
+||||||<del>Sprint events</del>||||<del>Endurance events</del>|||
 |||||||||||||
-||~~1~~|||~~900(2 x 450)~~|||||||~~900(4 x 225)~~|
-||~~2~~|||~~800(2 x 400)~~|||||||~~800(4 x 200)~~|
-||~~3~~|||~~750(2 x 375)~~||||||~~750(4 x 187.5)~~||
+||<del>1</del>|||<del>900(2 x 450)</del>|||||||<del>900(4 x 225)</del>|
+||<del>2</del>|||<del>800(2 x 400)</del>|||||||<del>800(4 x 200)</del>|
+||<del>3</del>|||<del>750(2 x 375)</del>||||||<del>750(4 x 187.5)</del>||
 |||||||||||||
-||~~4~~|||~~700(2 x 350)~~|||||||~~700(4 x 175)~~|
-||~~5~~|||~~650(2 x 325)~~||||||~~650(4 x 162.5)~~||
+||<del>4</del>|||<del>700(2 x 350)</del>|||||||<del>700(4 x 175)</del>|
+||<del>5</del>|||<del>650(2 x 325)</del>||||||<del>650(4 x 162.5)</del>||
 |||||||||||||
-||~~6~~|||~~600(2 x 300)~~|||||||~~600(4 x 150)~~|
-||~~7~~|||~~550(2 x 275)~~||||||~~550(4 x 137.5)~~||
+||<del>6</del>|||<del>600(2 x 300)</del>|||||||<del>600(4 x 150)</del>|
+||<del>7</del>|||<del>550(2 x 275)</del>||||||<del>550(4 x 137.5)</del>||
 |||||||||||||
-||~~8~~|||~~500(2 x 250)~~|||||||~~500(4 x 125)~~|
-||~~9~~|||~~450(2 x 225)~~||||||~~450(4 x 112.5)~~||
+||<del>8</del>|||<del>500(2 x 250)</del>|||||||<del>500(4 x 125)</del>|
+||<del>9</del>|||<del>450(2 x 225)</del>||||||<del>450(4 x 112.5)</del>||
 |||||||||||||
-||~~10~~|||~~400(2 x 200)~~|||||||~~400(4 x 100)~~|
-||~~11~~|||~~360(2 x 180)~~|||||||~~360(4 x 90)~~|
-||~~12~~|||~~320(2 x 160)~~|||||||~~320(4 x 80)~~|
-||~~13~~|||~~280(2 x 140)~~|||||||~~280(4 x 70)~~|
-||~~14~~|||~~240(2 x 120)~~|||||||~~240(4 x 60)~~|
-||~~15~~|||~~200(2 x 100)~~|||||||~~200(4 x 50)~~|
-||~~16~~|||~~175(2 x 87.5)~~||||||~~175(4 x 43.75)~~||
+||<del>10</del>|||<del>400(2 x 200)</del>|||||||<del>400(4 x 100)</del>|
+||<del>11</del>|||<del>360(2 x 180)</del>|||||||<del>360(4 x 90)</del>|
+||<del>12</del>|||<del>320(2 x 160)</del>|||||||<del>320(4 x 80)</del>|
+||<del>13</del>|||<del>280(2 x 140)</del>|||||||<del>280(4 x 70)</del>|
+||<del>14</del>|||<del>240(2 x 120)</del>|||||||<del>240(4 x 60)</del>|
+||<del>15</del>|||<del>200(2 x 100)</del>|||||||<del>200(4 x 50)</del>|
+||<del>16</del>|||<del>175(2 x 87.5)</del>||||||<del>175(4 x 43.75)</del>||
 |||||||||||||
-||~~17~~||||~~150(2 x 75)~~||||||~~150(4 x 37.5)~~|
-||~~18~~|||~~125(2 x 62.5)~~||||||~~125(4 x 31.25)~~||
+||<del>17</del>||||<del>150(2 x 75)</del>||||||<del>150(4 x 37.5)</del>|
+||<del>18</del>|||<del>125(2 x 62.5)</del>||||||<del>125(4 x 31.25)</del>||
 
-~~_(article introduced on 25.10.21)_~~ 
+<del>_(article introduced on 25.10.21)_</del> 
 
-**3.3.011** The order of precedence between riders, nations or ~~UCI Track Teams~~ on equal points in the respective rankings shall be determined according to their classification of competitions in the following order: 
+**3.3.011** The order of precedence between riders, nations or <del>UCI Track Teams</del> on equal points in the respective rankings shall be determined according to their classification of competitions in the following order: 
 
 1. UCI World Championships; 
 
-2. UCI ~~Nations~~ World Cup; 
+2. UCI <del>Nations</del> World Cup; 
 
 3. Continental Championships; 
 
-~~4. Ligue des Champions Piste UCI~~ 
+<del>4. Ligue des Champions Piste UCI</del> 
 
-4. ~~5~~ International competition of Class 1; 
+4. <del>5</del> International competition of Class 1; 
 
-5. ~~6~~ International competition of Class 2; 
+5. <del>6</del> International competition of Class 2; 
 
-6. ~~7~~ National Championships. 
+6. <del>7</del> National Championships. 
 
 If they still stand equal, precedence shall be awarded to the rider with the best classification in the most recent event of the same class of competitions. 
 
@@ -574,21 +574,21 @@ T: +41 24 468 58 11
 
 E: admin@uci.ch 
 
-## **Chapter IV UCI TRACK** ~~**NATIONS**~~ **WORLD CUP** 
+## **Chapter IV UCI TRACK** <del>**NATIONS**</del> **WORLD CUP** 
 
 ## **Participation** 
 
 **3.4.004** The competitions shall be for national teams. Riders shall be aged 18 (2[nd] year juniors) and over. 
 
-The participation in the individual events shall be restricted to riders with at least 500 points in the respective UCI Track Ranking. Top 4 Junior riders at the most recent Junior World Championships in the bunch ~~races~~ events, Sprint or Keirin events can participate in the UCI Track ~~Nations W~~ orld Cup without the minimum points required, provided they are 2[nd] year juniors. 
+The participation in the individual events shall be restricted to riders with at least 500 points in the respective UCI Track Ranking. Top 4 Junior riders at the most recent Junior World Championships in the bunch <del>races</del> events, Sprint or Keirin events can participate in the UCI Track <del>Nations W</del> orld Cup without the minimum points required, provided they are 2[nd] year juniors. 
 
 For the Madison, participation shall be restricted to riders with at least 250 points in the respective UCI Track Ranking, or for riders who were in the top 4 teams in the Madison at the most recent Junior World Championships, provided they are 2[nd] year juniors. 
 
-To be eligible, each rider must have the minimum amount of points required either six weeks before the first round of the ~~Nations W~~ orld Cup, or in the latest update of the respective UCI Track Ranking. 
+To be eligible, each rider must have the minimum amount of points required either six weeks before the first round of the <del>Nations W</del> orld Cup, or in the latest update of the respective UCI Track Ranking. 
 
 For the development of track cycling, the UCI may grant dispensation of this requirement. Any request for dispensation must reach the UCI before the end of the registration period of each round. 
 
-The participation in each event of the ~~Nations W~~ orld Cup determines the eligibility of the national federations to the corresponding event of the World Championships according to article 9.2.027bis. 
+The participation in each event of the <del>Nations W</del> orld Cup determines the eligibility of the national federations to the corresponding event of the World Championships according to article 9.2.027bis. 
 
 _(text modified on 01.01.03; 21.01.06; 25.02.13; 10.04.13; 20.06.14; 15.03.16; 01.07.17; 05.03.18; 12.06.20; 25.10.21; 17.10.22; 01.01.25, 01.01.26)_ 
 
@@ -620,17 +620,17 @@ _(text modified on 01.01.02; 15.05.14; 01.02.15; 01.10.19, 01.01.25, 01.01.26)_
 
 ## **Width** 
 
-- **3.6.070** The width of the track must be constant throughout its length. Tracks approved in category A ~~categories 1 and 2~~ must have a minimum width of 7 metres. Tracks approved in category B ~~Other tracks~~ must have a width proportional to its length of 5 metres minimum. 
+- **3.6.070** The width of the track must be constant throughout its length. Tracks approved in category A <del>categories 1 and 2</del> must have a minimum width of 7 metres. Tracks approved in category B <del>Other tracks</del> must have a width proportional to its length of 5 metres minimum. 
 
 _(text modified on 01.01.02, 01.01.26)_ 
 
-- **3.6.072** A fence (inner fence) of a construction ensuring the adequate safety for riders to ~~at~~ a **bis** height of at least 120 cm above the level of the safety zone must be permanently installed ~~erected~~ on the inner edge of the safety zone. This requirement applies both during track competitions and outside of them, except in cases where there is no height difference or abrupt gradient between the safety zone and the track centre or within the track centre itself. In such cases, the inner fence must be installed (possibly temporarily) during competitions for all velodromes that received their initial homologation after 1 January 2026. 
+- **3.6.072** A fence (inner fence) of a construction ensuring the adequate safety for riders to <del>at</del> a **bis** height of at least 120 cm above the level of the safety zone must be permanently installed <del>erected</del> on the inner edge of the safety zone. This requirement applies both during track competitions and outside of them, except in cases where there is no height difference or abrupt gradient between the safety zone and the track centre or within the track centre itself. In such cases, the inner fence must be installed (possibly temporarily) during competitions for all velodromes that received their initial homologation after 1 January 2026. 
 
-~~except if the following conditions are met:~~ 
+<del>except if the following conditions are met:</del> 
 
-~~1. there are no height difference or abrupt gradient between the safety zone and the track centre or within the track centre, and~~ 
+<del>1. there are no height difference or abrupt gradient between the safety zone and the track centre or within the track centre, and</del> 
 
-~~2. inside the safety zone and at a distance of 10 m of the blue band, is no unauthorized person or object in accordance with article 3.6.072.~~ 
+<del>2. inside the safety zone and at a distance of 10 m of the blue band, is no unauthorized person or object in accordance with article 3.6.072.</del> 
 
 The inner fence must be stable, solidly mounted, and transparent and in no circumstances may any advertising boards be attached to it. It must present no protrusions or projecting parts and the upper edge of the inner fence shall be fitted with protective covering. 
 
@@ -648,11 +648,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 The loads calculation must be certified by a structural engineer and provided during the homologation process, prior to the installation of the track. 
 
-~~There must minimal gap between the bottom of the fence and the safety zone (less than 1 cm).~~ 
+<del>There must minimal gap between the bottom of the fence and the safety zone (less than 1 cm).</del> 
 
 The inner fence shall be continuous and free of gaps wherever possible. Where unavoidable, any gaps shall be less than 1 cm, including those between the bottom of the fence and the safety zone. 
 
-In places where the level of the ~~track proper s~~ afety zone is at a level 1.5 m or more ~~more than 1.5 m higher~~ than the actual track centre, additional protective measures such as nets, panels, or the like, shall be ~~erected~~ installed in order to prevent athletes being subjected to injury. In velodromes requesting their initial homologation after 1[st] January 2026, in places where the level of the safety zone is at a level 1.5 m or more than the actual track centre, the inner fence must have a minimum height of 2 m. This minimum height shall be measured at the location of the drop. 
+In places where the level of the <del>track proper s</del> afety zone is at a level 1.5 m or more <del>more than 1.5 m higher</del> than the actual track centre, additional protective measures such as nets, panels, or the like, shall be <del>erected</del> installed in order to prevent athletes being subjected to injury. In velodromes requesting their initial homologation after 1[st] January 2026, in places where the level of the safety zone is at a level 1.5 m or more than the actual track centre, the inner fence must have a minimum height of 2 m. This minimum height shall be measured at the location of the drop. 
 
 Where there is a difference in the height of the inner fence, the transition between these heights must not exceed an angle of 45°. 
 
@@ -700,7 +700,7 @@ _(text modified on 01.01.26)_
 
 ## **Pursuit lines** 
 
-**3.6.084** Two ~~red~~ white lines ~~half the width of the track~~ 4 m in length, perpendicular to the track and precisely in line with one another, shall be drawn at the precise midpoint of each of the straights to mark the finish points for pursuit events. 
+**3.6.084** Two <del>red</del> white lines <del>half the width of the track</del> 4 m in length, perpendicular to the track and precisely in line with one another, shall be drawn at the precise midpoint of each of the straights to mark the finish points for pursuit events. 
 
 _(text modified on 01.01.26)_ 
 
@@ -728,9 +728,9 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-## ~~**Fencing**~~ **Outer fence** 
+## <del>**Fencing**</del> **Outer fence** 
 
-**3.6.087** The outside edge of the track must be surrounded by a safety fence (outer fence) to protect riders and spectators. It must be stable and solidly mounted, with an overall height of at least 140 cm above the track for velodromes requesting their initial homologation after 1[st] July 2025. The inside part must be ~~completely~~ smooth, ~~and~~ unbroken and with n ~~o. It must present no protrusions or~~ projecting parts. 
+**3.6.087** The outside edge of the track must be surrounded by a safety fence (outer fence) to protect riders and spectators. It must be stable and solidly mounted, with an overall height of at least 140 cm above the track for velodromes requesting their initial homologation after 1[st] July 2025. The inside part must be <del>completely</del> smooth, <del>and</del> unbroken and with n <del>o. It must present no protrusions or</del> projecting parts. 
 
 The outer fence must support at least the following loads: 
 
@@ -778,7 +778,7 @@ For the World Cup, UCI World Championships, Continental Championships and the Ol
 
 Luminaires and positioning must be designed and angled to avoid glare for riders, spectators and television broadcast. 
 
-~~During competitions, at least 1400 Lux is required for the Elite World Championships and the Olympic Games (category 1 velodromes), at least 1000 Lux for category 2 velodromes and at least 500 Lux for category 3 and 4 velodromes.~~ 
+<del>During competitions, at least 1400 Lux is required for the Elite World Championships and the Olympic Games (category 1 velodromes), at least 1000 Lux for category 2 velodromes and at least 500 Lux for category 3 and 4 velodromes.</del> 
 
 _(text modified on 01.01.02, 01.01.26)._ 
 
@@ -790,47 +790,47 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **ACCOMMODATION FOR OFFICIALS** 
 
-## **Commissaires’ platform** ~~**Finish judge’s podium**~~ 
+## **Commissaires’ platform** <del>**Finish judge’s podium**</del> 
 
-- **3.6.091** A platform ~~podium~~ must be provided for the commissaires ~~judge at the finish~~, located in the track centre in line with the finish line. 
+- **3.6.091** A platform <del>podium</del> must be provided for the commissaires <del>judge at the finish</del>, located in the track centre in line with the finish line. 
 
 _(text modified on 01.01.26)._ 
 
-## ~~**Box for the commissaires’ panel**~~ 
+## <del>**Box for the commissaires’ panel**</del> 
 
 - **3.6.092** [abrogated on 01.01.26] 
 
-   - ~~Adequate accommodation must be provided for the commissaires on the track centre~~ 
+   - <del>Adequate accommodation must be provided for the commissaires on the track centre</del> 
 
-   - ~~adjacent to the finish line.~~ 
+   - <del>adjacent to the finish line.</del> 
 
-~~_(text modified on 01.01.02)_~~ 
+<del>_(text modified on 01.01.02)_</del> 
 
-## ~~**Box for the j**~~ **Judge-referee platform:** 
+## <del>**Box for the j**</del> **Judge-referee platform:** 
 
-- **3.6.093** ~~Provision~~ A platform must be provided for the judge-referee on the outside of the track. It must be in a quiet, isolated location overlooking the track with an unimpeded view, e.g. at the top of the stand above the finish line. Cable ducting must be provided from that location to the infield. During competitions, there must be a radio link between the referees and the other commissaires, including the starter and the president of the commissaires’ panel. 
+- **3.6.093** <del>Provision</del> A platform must be provided for the judge-referee on the outside of the track. It must be in a quiet, isolated location overlooking the track with an unimpeded view, e.g. at the top of the stand above the finish line. Cable ducting must be provided from that location to the infield. During competitions, there must be a radio link between the referees and the other commissaires, including the starter and the president of the commissaires’ panel. 
 
 _(text modified on 01.10.19, 01.01.26)_ 
 
-## ~~**Centre podium platform for the starter**~~ **Starter’s platform:** 
+## <del>**Centre podium platform for the starter**</del> **Starter’s platform:** 
 
-- **3.6.093** In the middle of the track centre in line with the pursuit lines, a ~~podium~~ platform must **bis** be provided for the starter. It must have an area of between 3 and 4 m[2] and must be raised above track level, to ensure the starter has an unobstructed view along the full length of both pursuit lines. 
+- **3.6.093** In the middle of the track centre in line with the pursuit lines, a <del>podium</del> platform must **bis** be provided for the starter. It must have an area of between 3 and 4 m[2] and must be raised above track level, to ensure the starter has an unobstructed view along the full length of both pursuit lines. 
 
 _(text modified on 01.01.02, 01.01.26)_ 
 
 ## **HOMOLOGATION OF VELODROMES** 
 
-**3.6.094** At the time of their homologation, velodromes shall be classified into ~~four~~ two categories on the basis of the technical quality of the track and installations, ~~The category determines the level of competition which can be organised in the velodrome,~~ as shown in the following table: 
+**3.6.094** At the time of their homologation, velodromes shall be classified into <del>four</del> two categories on the basis of the technical quality of the track and installations, <del>The category determines the level of competition which can be organised in the velodrome,</del> as shown in the following table: 
 
-||~~**CATEGORY**~~||~~**HOMOLOGATION**~~|~~**HOMOLOGATION**~~|~~**HOMOLOGATION**~~|~~**HOMOLOGATION**~~|||~~**LEVEL OF COMPETITIONS**~~|~~**LEVEL OF COMPETITIONS**~~|~~**LEVEL OF COMPETITIONS**~~|~~**LEVEL OF COMPETITIONS**~~|
+||<del>**CATEGORY**</del>||<del>**HOMOLOGATION**</del>|<del>**HOMOLOGATION**</del>|<del>**HOMOLOGATION**</del>|<del>**HOMOLOGATION**</del>|||<del>**LEVEL OF COMPETITIONS**</del>|<del>**LEVEL OF COMPETITIONS**</del>|<del>**LEVEL OF COMPETITIONS**</del>|<del>**LEVEL OF COMPETITIONS**</del>|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||||||||||||||
-||~~1~~||||~~UCI~~|||||~~Elite World Championships~~<br>~~and Olympic Games~~|||
+||<del>1</del>||||<del>UCI</del>|||||<del>Elite World Championships</del><br><del>and Olympic Games</del>|||
 ||||||||||||||
-||~~2~~||||~~UCI~~||||~~Nations Cup~~<br>~~Continental Championships~~<br>~~Junior World Championships~~||||
-||~~3~~||||~~UCI~~|||~~Other international competitions~~|||||
+||<del>2</del>||||<del>UCI</del>||||<del>Nations Cup</del><br><del>Continental Championships</del><br><del>Junior World Championships</del>||||
+||<del>3</del>||||<del>UCI</del>|||<del>Other international competitions</del>|||||
 ||||||||||||||
-||~~4~~|||~~NATIONAL~~<br>~~FEDERATION~~|||||||~~National competitions~~||
+||<del>4</del>|||<del>NATIONAL</del><br><del>FEDERATION</del>|||||||<del>National competitions</del>||
 ||||||||||||||
 ||||||||||||||
 ||||||||||||||
@@ -847,18 +847,18 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 _(text modified on 01.01.26)_ 
 
-**3.6.095** ~~Category 1 and 2 tracks~~ All tracks must meet the following criteria (calculated for a ~~maximum~~ minimum safe spee ~~ds~~ of at least ~~in the range~~ 85 km/h ~~to 110 km/h~~ ): 
+**3.6.095** <del>Category 1 and 2 tracks</del> All tracks must meet the following criteria (calculated for a <del>maximum</del> minimum safe spee <del>ds</del> of at least <del>in the range</del> 85 km/h <del>to 110 km/h</del> ): 
 
 |Length of the<br>track|250 m|285.714 m|333.33 m|400 m|
 |---|---|---|---|---|
 |Radius of bends|19-25 m|22-28 m|25-35 m|28-50 m|
 |Width|7-8 m|7-8 m|7-9 m|7-10 m|
 
-~~Other tracks must be designed to guarantee a minimum safe speed of at least 75 km/h.~~ 
+<del>Other tracks must be designed to guarantee a minimum safe speed of at least 75 km/h.</del> 
 
 _(text modified on 01.01.02, 01.01.26)_ 
 
-- **3.6.096** [abrogated on 01.01.26] ~~Requests for homologation shall be submitted to the UCI by the national federation of the country, in which the velodrome is located.~~ 
+- **3.6.096** [abrogated on 01.01.26] <del>Requests for homologation shall be submitted to the UCI by the national federation of the country, in which the velodrome is located.</del> 
 
 **3.6.097** The request for homologation must be sent to the UCI at least 2 months before the planned inspection date, by completing the homologation application form. It must be accompanied by a technical file complying with the UCI’s standard model. In any case, the national federation of the country, in which the velodrome is located, shall be informed and involved in the homologation process. 
 
@@ -866,7 +866,7 @@ The UCI may require any additional document or information.
 
 _(text modified on 01.01.02, 01.01.26)_ 
 
-**3.6.098** The ~~national federation~~ applicant for the homologation shall organise the inspection of the velodrome in the presence of a specialist responsible for carrying out the regulation measurements under the direction of a UCI delegate. On this occasion, a test of the track by a group of riders must be carried out. 
+**3.6.098** The <del>national federation</del> applicant for the homologation shall organise the inspection of the velodrome in the presence of a specialist responsible for carrying out the regulation measurements under the direction of a UCI delegate. On this occasion, a test of the track by a group of riders must be carried out. 
 
 All expenses incurred in connection with the inspection of the velodrome are to be covered by the applicant, the national federation being held jointly liable. 
 
@@ -888,11 +888,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - **3.7.019** Those UCI Track Teams registered with the UCI will receive the following benefits: 
 
-   ~~1. Inclusion on the UCI Track Team Ranking. (as per article 3.3.002bis)~~ 
+   <del>1. Inclusion on the UCI Track Team Ranking. (as per article 3.3.002bis)</del> 
 
    1. Information services and publications in addition to the regular distributions. 
 
-   ~~3. Direct entry services for major UCI competitions. (in compliance with article 3.4.004)~~ 
+   <del>3. Direct entry services for major UCI competitions. (in compliance with article 3.4.004)</del> 
 
    2. Where applicable, advertising space on specific series jerseys 
 
@@ -930,12 +930,12 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |---|---|---|---|---|
 ||Olympic Games||-|As per the regulations for cycling events at<br>the Olympic Games|
 ||UCI|World Championships|-|As per World Championships regulations|
-||UCI|~~Nations~~WorldCup|-|As per articles 3.4.004 to 3.4.007|
+||UCI|<del>Nations</del>WorldCup|-|As per articles 3.4.004 to 3.4.007|
 ||Continental Championships<br>Regional Games||-|See article 3.8.004|
-||~~UCI Track Champions League~~|||~~As per the regulations for the UCI Track~~<br>~~Champions League~~|
-||Class 1||Over the competition:<br>-<br>CL1 events for Men Elite and Women<br>Elite3)<br>-<br>Additional events: for: Junior (M/W), U23<br>(M/W), or Para-cycling (minimum 1<br>category)4)<br>-<br>Minimum 5 events ofClass 12)<br>Per event:<br>-<br>Minimum 4 participating nations1)<br>~~-~~<br>~~A rider needs 10 Track UCI points to~~<br>~~register in Elite and U23 events5)~~<br>-<br>Minimum distance as per UCI regulations<br>-<br>Minimal number of riders per event Elite<br>and U23:5)<br>•Sprint: 8 riders (article 3.2.031)<br>•Keirin: 10 riders (article 3.2.135)<br>•Bunchevents ~~races:~~15 riders<br>•Madison: 10 teams<br>-<br>Prize money for Elite events (as per the<br>UCI Financial Obligations)||
-||||~~-~~<br>-<br>-<br>•<br>•<br>•<br>•<br>-||
-||Class 2||Over the competition:<br>-<br>CL2 events for Men Elite or Women Elite<br>-<br>Additional events for: Junior (M/W), U23<br>(M/W),<br>Elite<br>(M/W)<br>or<br>Para-cycling<br>(minimum 1 category)4)<br>-<br>Minimum 3 eventsof Class 22)<br>Per event:<br>-<br>Minimum 3 participating nations1)<br>-<br>Minimum distance as per UCI regulations<br>-<br>Minimal number of riders per event Elite and<br>U23:5)<br>•Sprint: 8 riders (article 3.2.031)<br>•Keirin: 10 riders (article 3.2.135)<br>•Bunchevents~~races:~~12 riders<br>•Madison: 8 teams||
+||<del>UCI Track Champions League</del>|||<del>As per the regulations for the UCI Track</del><br><del>Champions League</del>|
+||Class 1||Over the competition:<br>-<br>CL1 events for Men Elite and Women<br>Elite3)<br>-<br>Additional events: for: Junior (M/W), U23<br>(M/W), or Para-cycling (minimum 1<br>category)4)<br>-<br>Minimum 5 events ofClass 12)<br>Per event:<br>-<br>Minimum 4 participating nations1)<br><del>-</del><br><del>A rider needs 10 Track UCI points to</del><br><del>register in Elite and U23 events5)</del><br>-<br>Minimum distance as per UCI regulations<br>-<br>Minimal number of riders per event Elite<br>and U23:5)<br>•Sprint: 8 riders (article 3.2.031)<br>•Keirin: 10 riders (article 3.2.135)<br>•Bunchevents <del>races:</del>15 riders<br>•Madison: 10 teams<br>-<br>Prize money for Elite events (as per the<br>UCI Financial Obligations)||
+||||<del>-</del><br>-<br>-<br>•<br>•<br>•<br>•<br>-||
+||Class 2||Over the competition:<br>-<br>CL2 events for Men Elite or Women Elite<br>-<br>Additional events for: Junior (M/W), U23<br>(M/W),<br>Elite<br>(M/W)<br>or<br>Para-cycling<br>(minimum 1 category)4)<br>-<br>Minimum 3 eventsof Class 22)<br>Per event:<br>-<br>Minimum 3 participating nations1)<br>-<br>Minimum distance as per UCI regulations<br>-<br>Minimal number of riders per event Elite and<br>U23:5)<br>•Sprint: 8 riders (article 3.2.031)<br>•Keirin: 10 riders (article 3.2.135)<br>•Bunchevents<del>races:</del>12 riders<br>•Madison: 8 teams||
 
 _1) In team events (Madison excluded), if a team is composed of riders from different nations (mixed team), the nation of the majority of riders shall prevail. In team events (Madison excluded), where no majority is possible, the nation of the participating rider shall not count. In Madison, the nations of all the riders taking part in the event shall be counted._ 
 
@@ -945,11 +945,11 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-- _2) Events_ ~~_= specialisations_~~ _from the Elite World Championships programme, organised_ ~~_in a category_~~ _for Men Elite and Women Elite categories. 3) Both categories must reach Class 1 requirements to maintain the event in class 1 the following year._ 
+- _2) Events_ <del>_= specialisations_</del> _from the Elite World Championships programme, organised_ <del>_in a category_</del> _for Men Elite and Women Elite categories. 3) Both categories must reach Class 1 requirements to maintain the event in class 1 the following year._ 
 
 - _4) Additional events can be of the competition class or lower (Class 1, Class 2 or National)_ 
 
-~~_5) The rider needs 10 UCI points in any Elite UCI track ranking on the day of the competition to take part in Elite or U23 events. No minimum UCI points is necessary in Individual Pursuit, Time Trial, Team Pursuit and Team Sprint or in Junior and Paracycling events._~~ 
+<del>_5) The rider needs 10 UCI points in any Elite UCI track ranking on the day of the competition to take part in Elite or U23 events. No minimum UCI points is necessary in Individual Pursuit, Time Trial, Team Pursuit and Team Sprint or in Junior and Paracycling events._</del> 
 
 _5) No minimum is necessary in other events (Individual Pursuit, Time Trial, Team Pursuit and Team Sprint)_ 
 
@@ -965,13 +965,13 @@ _(article modified on 01.01.04; 01.10.13; 3.03.14; 15.03.16; 05.03.18; 25.10.21;
 
    1. Any rider who was a member of any track team registered with the UCI in the current season. The season is the period referred to in the second indent of article 3.3.003. 
 
-   2. Any rider who has participated in any World Championships, Olympic Games, Continental Championships, Regional Games or ~~Nations~~ World Cup in the current year in the track discipline (para excluded), except for the races that are open to masters only. 
+   2. Any rider who has participated in any World Championships, Olympic Games, Continental Championships, Regional Games or <del>Nations</del> World Cup in the current year in the track discipline (para excluded), except for the races that are open to masters only. 
 
    3. [abrogated on 04.06.16] 
 
 _(text modified on 19.09.06; 30.01.09; 04.06.16; 05.03.18, 01.08.23, 01.01.26)_ 
 
-**3.9.002** All ~~applicants~~ participants for the UCI Masters Track World Championships must present a valid license to the competition’s headquarters in order to be given a race number and be permitted to participate. The license must have been issued by the rider’s UCI-affiliated national federation and must be valid for an entire calendar year. 
+**3.9.002** All <del>applicants</del> participants for the UCI Masters Track World Championships must present a valid license to the competition’s headquarters in order to be given a race number and be permitted to participate. The license must have been issued by the rider’s UCI-affiliated national federation and must be valid for an entire calendar year. 
 
 _(text modified on 01.08.23, 01.01.26)_ 
 
@@ -979,7 +979,7 @@ _(text modified on 01.08.23, 01.01.26)_
 
 There shall be no separate race for an age group if there are less than 12 participants in mass start events (i.e. points race) or less than 8 participants in the other events. 
 
-For team events, ~~a majority of the riders of a team shall have the same age group. Only one rider maximum in each team may be older than the age group.~~ 
+For team events, <del>a majority of the riders of a team shall have the same age group. Only one rider maximum in each team may be older than the age group.</del> 
 
 a team may include riders from more than one age category. However, the team must compete in the age category corresponding to the youngest rider. 
 
@@ -1082,7 +1082,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**3.10.008**<br>**Table of race incidents and specific infringements relating to track competitions**|**3.10.008**<br>**Table of race incidents and specific infringements relating to track competitions**|**3.10.008**<br>**Table of race incidents and specific infringements relating to track competitions**|**3.10.008**<br>**Table of race incidents and specific infringements relating to track competitions**|**3.10.008**<br>**Table of race incidents and specific infringements relating to track competitions**|**3.10.008**<br>**Table of race incidents and specific infringements relating to track competitions**|||
 |---|---|---|---|---|---|---|---|
 |||**Column 1**||**Column 2**|||**Column 3**|
-|||Olympic Games<br>Elite World Championships<br>~~Nations~~WorldCup||Junior World Championships<br>Continental Championships<br>Continental Games<br>Class 1 and 2 Men, U23 and Elite<br>Class 1 and 2 Women, U23 and<br>Elite<br>Para-cycling:<br>Paralympic Games<br>World Championships<br>World~~Nations~~Cup|||Class 1 and 2 Men, Junior<br>Class 1 and 2 Women, Junior<br>National events<br>Other events<br>Para-cycling:<br>Other competitions|
+|||Olympic Games<br>Elite World Championships<br><del>Nations</del>WorldCup||Junior World Championships<br>Continental Championships<br>Continental Games<br>Class 1 and 2 Men, U23 and Elite<br>Class 1 and 2 Women, U23 and<br>Elite<br>Para-cycling:<br>Paralympic Games<br>World Championships<br>World<del>Nations</del>Cup|||Class 1 and 2 Men, Junior<br>Class 1 and 2 Women, Junior<br>National events<br>Other events<br>Para-cycling:<br>Other competitions|
 |**1.**<br>**Procedures at the official meeting and ceremonies**||||||||
 |1.1<br>Failing to attend official<br>ceremonies (including press<br>conference, etc.)||Rider:500 fine and forfeiture of<br>prizes and points for respective<br>UCI rankings earned during the<br>event.||Rider:|||Rider:100 fine and forfeiture of<br>prizes and points for respective<br>UCI rankings earned during the<br>event.|
 |1.2<br>Non-compliant clothing<br>during podium and protocol<br>ceremonies||Rider:500 fine per rider involved||Rider:200 fine per rider involved|||Rider:100 fine per rider involved|
@@ -1116,17 +1116,17 @@ T: +41 24 468 58 11
 |||||||||
 |---|---|---|---|---|---|---|---|
 |**3.**|**Riders’ clothing and rider identification**|||||||
-|3.1|~~Use of~~Non-compliant<br>clothingdesign(form,<br>colour, layout)||Rider:200 to 500* fine, and/or<br>start refused or disqualification||Rider:100 to 300 fine*, and/or<br>start refused or disqualification||Rider:50 to 100 fine*, and/or start<br>refused or disqualification|
+|3.1|<del>Use of</del>Non-compliant<br>clothingdesign(form,<br>colour, layout)||Rider:200 to 500* fine, and/or<br>start refused or disqualification||Rider:100 to 300 fine*, and/or<br>start refused or disqualification||Rider:50 to 100 fine*, and/or start<br>refused or disqualification|
 |3.2|Use of non-compliant<br>clothing, helmet or<br>accessories||Rider:Start refused or<br>disqualification or elimination||Rider:Start refused or<br>disqualification or elimination||Rider:Start refused or<br>disqualification or elimination|
-|3.3~~2~~Riderat the start without<br>mandatory helmet|||Rider:Start refused||Rider:Start refused||Rider:Start refused|
-|3.4~~3 ~~Rider taking off mandatory<br>helmet during the race|||Rider:200 fine and disqualification||Rider:100 fine and disqualification||Rider:50 fine and disqualification|
-|3.5~~4 ~~Rider taking off mandatory<br>helmet after passing the<br>finish line|||Rider:200 fine, and/or warning or<br>disqualification||Rider:100 fine, and/or warning or<br>disqualification||Rider:50 fine, and/or warning or<br>disqualification|
-|3.6~~5 ~~Body number replicated on<br>a medium other than that<br>provided by the organiser|||Rider:Start refused||Rider:Start refused||Rider:Start refused|
-|3.7~~6 ~~Body number or<br>transponder missing, not<br>visible, modified, incorrectly<br>positioned|||Rider:200 to 500 fine *||Rider:100 to 200 fine *||Rider:50 to 100 fine *|
-|3.8~~7 ~~Incorrect body number or<br>incorrect transponder|||Rider:200 to 500 fine *||Rider:100 to 200 fine *||Rider:50 to 100 fine *|
-|3.9~~8~~ Different clothing (jersey,<br>shorts, skinsuit) for the<br>different riders of a team|||Rider:200 fine per rider involved||Rider:100 fine per rider involved||Rider:50 per rider involved|
-|3.10~~9 ~~Wearing tinted glasses or<br>visors while seated in the<br>waiting area for a race|||Rider:200||Rider:200||Rider:200|
-|3.11~~10~~ Riders in the same team<br>and race failing to wear a<br>distinguishing item on<br>them|||Rider:100 fine per rider involved<br>and/or warning||Rider:100 fine per rider involved<br>and/or warning||Rider:50 fine per rider involved<br>and/or warning|
+|3.3<del>2</del>Riderat the start without<br>mandatory helmet|||Rider:Start refused||Rider:Start refused||Rider:Start refused|
+|3.4<del>3 </del>Rider taking off mandatory<br>helmet during the race|||Rider:200 fine and disqualification||Rider:100 fine and disqualification||Rider:50 fine and disqualification|
+|3.5<del>4 </del>Rider taking off mandatory<br>helmet after passing the<br>finish line|||Rider:200 fine, and/or warning or<br>disqualification||Rider:100 fine, and/or warning or<br>disqualification||Rider:50 fine, and/or warning or<br>disqualification|
+|3.6<del>5 </del>Body number replicated on<br>a medium other than that<br>provided by the organiser|||Rider:Start refused||Rider:Start refused||Rider:Start refused|
+|3.7<del>6 </del>Body number or<br>transponder missing, not<br>visible, modified, incorrectly<br>positioned|||Rider:200 to 500 fine *||Rider:100 to 200 fine *||Rider:50 to 100 fine *|
+|3.8<del>7 </del>Incorrect body number or<br>incorrect transponder|||Rider:200 to 500 fine *||Rider:100 to 200 fine *||Rider:50 to 100 fine *|
+|3.9<del>8</del> Different clothing (jersey,<br>shorts, skinsuit) for the<br>different riders of a team|||Rider:200 fine per rider involved||Rider:100 fine per rider involved||Rider:50 per rider involved|
+|3.10<del>9 </del>Wearing tinted glasses or<br>visors while seated in the<br>waiting area for a race|||Rider:200||Rider:200||Rider:200|
+|3.11<del>10</del> Riders in the same team<br>and race failing to wear a<br>distinguishing item on<br>them|||Rider:100 fine per rider involved<br>and/or warning||Rider:100 fine per rider involved<br>and/or warning||Rider:50 fine per rider involved<br>and/or warning|
 
 Page **33** / **38** 
 

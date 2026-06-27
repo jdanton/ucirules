@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/9VSK0I6lQaYOxrkaAxBdw/123f
 source_sha256: 830ae605b36a8b096b66cc6d557d0331e579b02a17486327e175c9c8de037b09
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 8.06.2026 
 
@@ -28,7 +28,7 @@ The Disciplinary Commission also has jurisdiction concerning race incidents in t
 
 The Road Sub-Committee has jurisdiction to judge and sanction infringements under the jurisdiction of the Disciplinary Commission which meet the following cumulative requirements: 
 
-- ~~The infringement is committed in the context of UCI WorldTour and UCI ProSeries events for men and UCI Women~~ ’ ~~s WorldTour and UCI ProSeries for women;~~ 
+- <del>The infringement is committed in the context of UCI WorldTour and UCI ProSeries events for men and UCI Women</del> ’ <del>s WorldTour and UCI ProSeries for women;</del> 
 
 - The circumstances do not warrant the imposition of sanctions in excess of 30 days of suspension and/or 5’000 CHF of fine; 
 
@@ -44,7 +44,7 @@ _(text modified on 3.06.21; 5.05.23; 2.02.24; 1.10.25; 1.07.26)._
 
 _(section introduced on 2.02.24)_ 
 
-- **12.6.027** The Single Judge shall notify the operative part of their decision. In case a sanction is imposed, the party against whom the proceedings are directed may request the reasoned decision on condition of paying a fee of 1’000 ~~3~~ ’ ~~000~~ CHF. 
+- **12.6.027** The Single Judge shall notify the operative part of their decision. In case a sanction is imposed, the party against whom the proceedings are directed may request the reasoned decision on condition of paying a fee of 1’000 <del>3</del> ’ <del>000</del> CHF. 
 
 _(text modified on 1.07.26)._ 
 

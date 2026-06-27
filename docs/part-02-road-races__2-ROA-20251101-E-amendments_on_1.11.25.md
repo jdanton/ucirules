@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5mVMnjLcvZ4wzgMJHt9lMz/e5d
 source_sha256: 567434e3c751166f7bf4f1ef0377669f50411740f70f7ff9cae23523dd1249d9
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0001-00.png)
 
@@ -38,7 +38,7 @@ MEMORANDUM 3.10.2025
 |---|---|---|---|---|---|
 ||||1.1<br>2.1||-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 ||||1.2<br>2.2||-UCI ProTeams of the country<br>-UCI foreign UCI ProTeams (max. 2)<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
-||~~MU~~||~~Ncup~~<br>~~1.2~~<br>~~Ncup~~<br>~~2.2~~||~~- National teams~~<br>~~- Regional and club teams (max 16%)~~<br>~~(2)~~<br>~~- Mixed teams~~|
+||<del>MU</del>||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>||<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
 |UCI America Tour<br>UCI Asia Tour<br>UCI Oceania Tour<br>UCI Africa Tour|ME||1.Pro<br>2.Pro||-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams(1)<br>-UCI cyclo-cross professional teams<br>(1)<br>-National teams|
 ||||1.1<br>2.1||-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 
@@ -51,8 +51,8 @@ MEMORANDUM 3.10.2025
 |**International**<br>**Calendar**|**Categor**<br>**y**<br>**of**<br>**event**||**Class**||**Participation**|
 |---|---|---|---|---|---|
 ||||1.2<br>2.2||-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-African mixed teams(3)|
-||MU||1.2<br>2.2||~~- UCI ProTeams of the country~~<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-Mixed teams|
-||||~~Ncup~~<br>~~1.2~~<br>~~Ncup~~<br>~~2.2~~||~~- National teams~~<br>~~- Regional and club teams (max 16%)~~<br>~~(2)~~<br>~~- Mixed teams~~|
+||MU||1.2<br>2.2||<del>- UCI ProTeams of the country</del><br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-Mixed teams|
+||||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>||<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
 |Women Elite|WE||1.WWT<br>2.WWT||-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br>-National team from the country of the<br>organiser with the agreement of the<br>UCI|
 ||||1.Pro<br>2.Pro||- UCI Women’s WorldTeams (min 4)<br>- UCI Women’s ProTeams<br>- UCI women’s continental teams<br>- UCI cyclo-cross professional teams<br>- National teams|
 
@@ -93,7 +93,7 @@ _(text modified on 1.01.99; 1.01.05; 1.01.06; 1.10.06; 25.09.07; 1.01.08; 1.1.09
 
 ## **2.1.007  Obligatory invitations to events on the international calendar bis Provisions for Grand Tours and UCI WorldTour stage races** 
 
-The organiser must invite the best UCI ProTeams on ~~the UCI World Team Ranking~~ UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)], according to the following: 
+The organiser must invite the best UCI ProTeams on <del>the UCI World Team Ranking</del> UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)], according to the following: 
 
 |**Number**<br>**of**<br>**UCI WorldTeams**|**Obligatory**<br>**Invitation of best**<br>**UCI ProTeams(2)(4)**|**Remaining**<br>**for Organisers**|**wild**<br>**cards**|
 |---|---|---|---|
@@ -140,7 +140,7 @@ The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, a
 
 ## **Provisions for UCI Women’s WorldTour events** 
 
-The organiser must send an invitation to ~~all UCI Women's WorldTeams and to~~ the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)], in accordance with the following provisions. 
+The organiser must send an invitation to <del>all UCI Women's WorldTeams and to</del> the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)], in accordance with the following provisions. 
 
 In the event that the number of UCI Women's WorldTeams is less than 13, the number of obligatory invitations to UCI Women’s ProTeams, based on the abovementioned ranking, shall be increased accordingly in order to ensure a minimum number of 15 invitations to UCI WorldTeams and UCI Women’s ProTeam. 
 
@@ -254,9 +254,9 @@ _3. the start order of nations which are not ranked in the women’s UCI world r
 
 _1. for the world championships only, the nation which won the previous world champion title;_ 
 
-_2. The nations ranked according to th_ ~~_e the latest standings of the Under 23 nations’ cup;_~~ _last published men’s UCI world ranking Under 23 by nation_ 
+_2. The nations ranked according to th_ <del>_e the latest standings of the Under 23 nations’ cup;_</del> _last published men’s UCI world ranking Under 23 by nation_ 
 
-_3. The start order of nations which are not ranked in the_ ~~_Under 23 nations’ cup_~~ _last published men’s UCI world ranking Under 23 by nation shall be determined by drawing lots._ 
+_3. The start order of nations which are not ranked in the_ <del>_Under 23 nations’ cup_</del> _last published men’s UCI world ranking Under 23 by nation shall be determined by drawing lots._ 
 
 ## _**Women Under 23**_ 
 
@@ -306,7 +306,7 @@ _(article introduced on 01.11.25)._
 
 ## **UCI world ranking by teams** 
 
-- **2.10.004** The UCI world ranking by teams shall be drawn up at least once a week by ~~**BisT**~~ **er** adding 
+- **2.10.004** The UCI world ranking by teams shall be drawn up at least once a week by <del>**BisT**</del> **er** adding 
 
 the points obtained from the start of the season by the 20 best riders under contract with each team at the time of the ranking. This ranking is reset to zero at the start of the season. 
 
@@ -348,28 +348,28 @@ For team time trial events and stages the points on the scale shall be awarded t
 
 ## **Final results in continental calendar events** 
 
-|Positio<br>n|UCI ProSeri<br>es|Class 1|Class 2|1.2U<br>et<br>2.2U|~~Ncup~~<br>~~Tour~~<br>~~de~~<br>~~l~~’~~Avenir~~|~~Ncup~~|
+|Positio<br>n|UCI ProSeri<br>es|Class 1|Class 2|1.2U<br>et<br>2.2U|<del>Ncup</del><br><del>Tour</del><br><del>de</del><br><del>l</del>’<del>Avenir</del>|<del>Ncup</del>|
 |---|---|---|---|---|---|---|
-|**1**|200|125|40|30|~~140~~|~~70~~|
-|**2**|150|85|30|25|~~110~~|~~55~~|
-|**3**|125|70|25|20|~~80~~|~~40~~|
-|**4**|100|60|20|15|~~60~~|~~30~~|
-|**5**|85|50|15|10|~~50~~|~~25~~|
-|**6**|70|40|10|5|~~40~~|~~20~~|
-|**7**|60|35|5|3|~~30~~|~~15~~|
-|**8**|50|30|3|1|~~20~~|~~10~~|
-|**9**|40|25|3|1|~~10~~|~~5~~|
-|**10**|35|20|3|1|~~6~~|~~3~~|
-|**11**|30|15|||~~3~~||
-|**12**|25|10|||~~3~~||
-|**13**|20|5|||~~3~~||
-|**14**|15|5|||~~3~~||
-|**15**|10|5|||~~3~~||
-|**16**|5|3|||~~1~~||
-|**17**|5|3|||~~1~~||
-|**18**|5|3|||~~1~~||
-|**19**|5|3|||~~1~~||
-|**20**|5|3|||~~1~~||
+|**1**|200|125|40|30|<del>140</del>|<del>70</del>|
+|**2**|150|85|30|25|<del>110</del>|<del>55</del>|
+|**3**|125|70|25|20|<del>80</del>|<del>40</del>|
+|**4**|100|60|20|15|<del>60</del>|<del>30</del>|
+|**5**|85|50|15|10|<del>50</del>|<del>25</del>|
+|**6**|70|40|10|5|<del>40</del>|<del>20</del>|
+|**7**|60|35|5|3|<del>30</del>|<del>15</del>|
+|**8**|50|30|3|1|<del>20</del>|<del>10</del>|
+|**9**|40|25|3|1|<del>10</del>|<del>5</del>|
+|**10**|35|20|3|1|<del>6</del>|<del>3</del>|
+|**11**|30|15|||<del>3</del>||
+|**12**|25|10|||<del>3</del>||
+|**13**|20|5|||<del>3</del>||
+|**14**|15|5|||<del>3</del>||
+|**15**|10|5|||<del>3</del>||
+|**16**|5|3|||<del>1</del>||
+|**17**|5|3|||<del>1</del>||
+|**18**|5|3|||<del>1</del>||
+|**19**|5|3|||<del>1</del>||
+|**20**|5|3|||<del>1</del>||
 |**21**|5|3|||||
 |**22**|5|3|||||
 |**23**|5|3|||||
@@ -397,11 +397,11 @@ MEMORANDUM 3.10.2025
 
 **- Prologue, stages and half stages in continental calendar events** 
 
-|Positio<br>n|UCI ProSeri<br>es|Class 1|Class 2|2.2U|~~Ncup~~<br>~~Tour~~<br>~~de~~<br>~~l~~’~~Avenir~~|~~Ncup~~|
+|Positio<br>n|UCI ProSeri<br>es|Class 1|Class 2|2.2U|<del>Ncup</del><br><del>Tour</del><br><del>de</del><br><del>l</del>’<del>Avenir</del>|<del>Ncup</del>|
 |---|---|---|---|---|---|---|
-|**1**|20|14|7|5|~~15~~|~~12~~|
-|**2**|15|5|3|1|~~9~~|~~8~~|
-|**3**|10|3|1||~~5~~|~~4~~|
+|**1**|20|14|7|5|<del>15</del>|<del>12</del>|
+|**2**|15|5|3|1|<del>9</del>|<del>8</del>|
+|**3**|10|3|1||<del>5</del>|<del>4</del>|
 |**4**|5||||||
 |**5**|3||||||
 
@@ -409,8 +409,8 @@ MEMORANDUM 3.10.2025
 
 |**stage)**|||||||
 |---|---|---|---|---|---|---|
-|Positi<br>on|UCI ProSer<br>ies|Class 1|Class 2|2.2U|~~Ncup~~<br>~~Tour~~<br>~~de~~<br>~~l~~’~~Avenir~~|~~Ncup~~|
-|**1**|5|3|1|1|~~2~~|~~1~~|
+|Positi<br>on|UCI ProSer<br>ies|Class 1|Class 2|2.2U|<del>Ncup</del><br><del>Tour</del><br><del>de</del><br><del>l</del>’<del>Avenir</del>|<del>Ncup</del>|
+|**1**|5|3|1|1|<del>2</del>|<del>1</del>|
 
 _(article introduced on 1.01.16; modified on 1.01.17; 25.10.17; 22.10.18; 1.01.19; 23.10.19, 1.01.23; 17.06.24, 01.11.25)._ 
 
@@ -418,7 +418,7 @@ _(article introduced on 1.01.16; modified on 1.01.17; 25.10.17; 22.10.18; 1.01.1
 
 - **2.10.045** The UCI world ranking for women UCI teams – 2 years shall be drawn up at least once a week by adding the points of each women UCI team in the UCI world ranking for women UCI teams of the “n-1” year established at the end of their respective season (as per article 2.1.001), with the points of each women UCI team in the UCI world ranking by women UCI teams of the current “n” season that was reset to zero at the beginning of the aforementioned season. 
 
-~~The UCI world ranking for women UCI teams – 3 years shall be drawn up at least once a week by adding the points of each women UCI team in the UCI world ranking for women UCI teams of the~~ “ ~~n-2~~ ” ~~and~~ “ ~~n-1~~ ” ~~years established at the end of their respective season (as per article 2.1.001), with the points of each women UCI team in the UCI world ranking by women UCI teams of the current~~ “ ~~n~~ ” ~~season that was reset to zero at the beginning of the aforementioned season.~~ 
+<del>The UCI world ranking for women UCI teams – 3 years shall be drawn up at least once a week by adding the points of each women UCI team in the UCI world ranking for women UCI teams of the</del> “ <del>n-2</del> ” <del>and</del> “ <del>n-1</del> ” <del>years established at the end of their respective season (as per article 2.1.001), with the points of each women UCI team in the UCI world ranking by women UCI teams of the current</del> “ <del>n</del> ” <del>season that was reset to zero at the beginning of the aforementioned season.</del> 
 
 The “UCI world ranking for women UCI teams – 3 years” cumulates the points of the best riders per team concerned up to a maximum of 10. The teams concerned by this ranking are all UCI WorldTeams and UCI ProTeams registered at the time of publication of the ranking and irrespective of their status over the course of the relevant period. The ranking shall be drawn up at least once a week by adding the points since the previous ranking. For each of the season over the period, the points are counted from the first race until the last race of the season according to article 2.1.001. 
 
@@ -436,7 +436,7 @@ Ties between teams shall be resolved by counting the greatest number of 1st plac
 
 ## 3.10.2025 
 
-count towards the “UCI World ranking for women UCI teams – 3 years” over the course of the period of the ranking ~~of their best 8 riders on the UCI individual world ranking during races run in the course of the current season~~.. If there is still a tie between teams, it will be resolved by the greatest number of 2nd places, then 3rd places, etc. 
+count towards the “UCI World ranking for women UCI teams – 3 years” over the course of the period of the ranking <del>of their best 8 riders on the UCI individual world ranking during races run in the course of the current season</del>.. If there is still a tie between teams, it will be resolved by the greatest number of 2nd places, then 3rd places, etc. 
 
 ( _article introduced on 1.11.21; modified on 1.11.25_ ). 
 
@@ -454,7 +454,7 @@ _(chapter introduced on 1.01.19)._
 
 ||**Column 1**||**Column 2**||**Column 3**|
 |---|---|---|---|---|---|
-||**Games and Championships**<br>Olympic Games<br>Elite UCI World Championships<br>**Men Elite events**<br>UCI WorldTour||**Games and Championships**<br>Under-23 and Junior UCI World<br>Championships<br>Continental Championships<br>Continental Games<br>National Championships Elite ME-<br>WE<br>**Men Elite events**<br>UCI ProSeries<br>Class 1<br>**Women Elite events**<br>UCI Women’s WorldTour<br>UCI ProSeries<br>Para-cycling<br>Paralympic Games<br>UCI World Championships<br>UCI World Cups||**Men Elite events**<br>Class 2<br>**Women Elite events**<br>Class 1 and Class 2<br>**Men Under 23 events**<br>~~UCI Nations~~’~~Cup~~<br>Other events<br>**Other events**<br>UCI Junior Nations’ Cups<br>Junior events<br>National events<br>Other events<br>Para-cycling:<br>Other events|
+||**Games and Championships**<br>Olympic Games<br>Elite UCI World Championships<br>**Men Elite events**<br>UCI WorldTour||**Games and Championships**<br>Under-23 and Junior UCI World<br>Championships<br>Continental Championships<br>Continental Games<br>National Championships Elite ME-<br>WE<br>**Men Elite events**<br>UCI ProSeries<br>Class 1<br>**Women Elite events**<br>UCI Women’s WorldTour<br>UCI ProSeries<br>Para-cycling<br>Paralympic Games<br>UCI World Championships<br>UCI World Cups||**Men Elite events**<br>Class 2<br>**Women Elite events**<br>Class 1 and Class 2<br>**Men Under 23 events**<br><del>UCI Nations</del>’<del>Cup</del><br>Other events<br>**Other events**<br>UCI Junior Nations’ Cups<br>Junior events<br>National events<br>Other events<br>Para-cycling:<br>Other events|
 
 _(text modified on 1.07.19; 24.09.19; 23.10.19; 1.04.21; 17.04.21; 10.06.21; 1.01.23; 1.01.24; 1.08.24, 1.01.25; 1.04.25; 1.11.25)_ 
 
@@ -572,221 +572,221 @@ MEMORANDUM 3.10.2025
 
       - ’ 
 
-      - ~~to the first African nation based on the UCI Africa Tour s under 23 final nations ranking of the year before the race takes place;~~ 
+      - <del>to the first African nation based on the UCI Africa Tour s under 23 final nations ranking of the year before the race takes place;</del> 
 
-      - ~~_to the first 3 American nations based on the UCI America Tour’s under 23 final nations ranking of the year before the race takes place;_~~ 
-
-      - ’ 
-
-      - ~~to the first 2 Asian nations based on the UCI Asia Tour s under 23 final nations ranking of the year before the race takes place;~~ 
+      - <del>_to the first 3 American nations based on the UCI America Tour’s under 23 final nations ranking of the year before the race takes place;_</del> 
 
       - ’ 
 
-      - ~~to the 18 first European nations based on the UCI Europe Tour s under 23 final nations ranking of the year before the race takes place;~~ 
+      - <del>to the first 2 Asian nations based on the UCI Asia Tour s under 23 final nations ranking of the year before the race takes place;</del> 
 
       - ’ 
 
-      - ~~to the first 2 Oceanian nations based on the UCI Oceania Tour s under 23 final nations ranking of the year before the race takes place.~~ 
+      - <del>to the 18 first European nations based on the UCI Europe Tour s under 23 final nations ranking of the year before the race takes place;</del> 
 
-- ~~**2.14.021** The organiser of an event which takes place from July on, must invite the first 15 nations ranked in the UCI Men Under 23 Nations~~ ’ ~~Cup ranking published 60 days before the event of the year in question.~~ 
+      - ’ 
 
-   - ~~_(text modified on 1.01.08; 26.01.08; 1.01.15; 22.10.18)._~~ _[article abrogated on 01.11.25]._ 
+      - <del>to the first 2 Oceanian nations based on the UCI Oceania Tour s under 23 final nations ranking of the year before the race takes place.</del> 
 
-- ~~**2.14.022** The organiser must accept the participation of the above-mentioned nations which have accepted the invitation.~~ 
+- <del>**2.14.021** The organiser of an event which takes place from July on, must invite the first 15 nations ranked in the UCI Men Under 23 Nations</del> ’ <del>Cup ranking published 60 days before the event of the year in question.</del> 
 
-- ~~**2.14.023** UCI Men Under 23 Nations~~ ’ ~~Cup events are raced in teams of 6 riders. No team may take part with less than 4 riders.~~ _[article abrogated on 01.11.25]._ 
+   - <del>_(text modified on 1.01.08; 26.01.08; 1.01.15; 22.10.18)._</del> _[article abrogated on 01.11.25]._ 
 
-## ~~**UCI Men Under 23 Nations’ Cup ranking**~~ 
+- <del>**2.14.022** The organiser must accept the participation of the above-mentioned nations which have accepted the invitation.</del> 
 
-   - ~~**2.14.024** The UCI Men Under 23 Nations~~ ’ ~~Cup awards points, but only to nations.~~ _[article abrogated on 01.11.25]._ 
+- <del>**2.14.023** UCI Men Under 23 Nations</del> ’ <del>Cup events are raced in teams of 6 riders. No team may take part with less than 4 riders.</del> _[article abrogated on 01.11.25]._ 
 
-   - ~~**2.14.025** Only the first rider from each nation scores points based on his place in the event.~~ 
+## <del>**UCI Men Under 23 Nations’ Cup ranking**</del> 
+
+   - <del>**2.14.024** The UCI Men Under 23 Nations</del> ’ <del>Cup awards points, but only to nations.</del> _[article abrogated on 01.11.25]._ 
+
+   - <del>**2.14.025** Only the first rider from each nation scores points based on his place in the event.</del> 
 
 - _[article abrogated on 01.11.25]._ 
 
-## ~~**Scale of points**~~ 
+## <del>**Scale of points**</del> 
 
-## ~~**2.14.026  General Provisions**~~ 
+## <del>**2.14.026  General Provisions**</del> 
 
-~~For team time trial events and stages the points on the scale shall be awarded to the teams.~~ 
+<del>For team time trial events and stages the points on the scale shall be awarded to the teams.</del> 
 
-~~The awarding of points for stage races is in accordance with article 2.6.001 regarding the duration of the event.~~ 
+<del>The awarding of points for stage races is in accordance with article 2.6.001 regarding the duration of the event.</del> 
 
-## ~~**Final results in UCI Men Under 23 Nation’s Cup stage races**~~ 
+## <del>**Final results in UCI Men Under 23 Nation’s Cup stage races**</del> 
 
-||~~Position~~||~~Stage races~~|
+||<del>Position</del>||<del>Stage races</del>|
 |---|---|---|---|
-||~~**1**~~||~~30~~|
-||~~**2**~~||~~25~~|
-||~~**3**~~||~~20~~|
-||~~**4**~~||~~17~~|
-||~~**5**~~||~~16~~|
-||~~**6**~~||~~15~~|
-||~~**7**~~||~~14~~|
-||~~**8**~~||~~13~~|
-||~~**9**~~||~~12~~|
-||~~**10**~~||~~11~~|
-||~~**11**~~||~~10~~|
+||<del>**1**</del>||<del>30</del>|
+||<del>**2**</del>||<del>25</del>|
+||<del>**3**</del>||<del>20</del>|
+||<del>**4**</del>||<del>17</del>|
+||<del>**5**</del>||<del>16</del>|
+||<del>**6**</del>||<del>15</del>|
+||<del>**7**</del>||<del>14</del>|
+||<del>**8**</del>||<del>13</del>|
+||<del>**9**</del>||<del>12</del>|
+||<del>**10**</del>||<del>11</del>|
+||<del>**11**</del>||<del>10</del>|
 
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0020-00.png)
 
 MEMORANDUM 3.10.2025 
 
-|~~Position~~||~~Stage races~~|
+|<del>Position</del>||<del>Stage races</del>|
 |---|---|---|
-|~~**12**~~||~~9~~|
-|~~**13**~~||~~8~~|
-|~~**14**~~||~~7~~|
-|~~**15**~~||~~6~~|
-|~~**16**~~||~~5~~|
-|~~**17**~~||~~4~~|
-|~~**18**~~||~~3~~|
-|~~**19**~~||~~2~~|
-|~~**20**~~||~~1~~|
+|<del>**12**</del>||<del>9</del>|
+|<del>**13**</del>||<del>8</del>|
+|<del>**14**</del>||<del>7</del>|
+|<del>**15**</del>||<del>6</del>|
+|<del>**16**</del>||<del>5</del>|
+|<del>**17**</del>||<del>4</del>|
+|<del>**18**</del>||<del>3</del>|
+|<del>**19**</del>||<del>2</del>|
+|<del>**20**</del>||<del>1</del>|
 
-## ~~**Results in prologue and stages**~~ 
+## <del>**Results in prologue and stages**</del> 
 
-|~~Position~~||~~Prologue~~<br>~~and~~<br>~~stages~~|
+|<del>Position</del>||<del>Prologue</del><br><del>and</del><br><del>stages</del>|
 |---|---|---|
-|~~**1**~~||~~3~~|
-|~~**2**~~||~~2~~|
-|~~**3**~~||~~1~~|
+|<del>**1**</del>||<del>3</del>|
+|<del>**2**</del>||<del>2</del>|
+|<del>**3**</del>||<del>1</del>|
 
-## ~~**Final results in UCI Men Under 23 Nation’s Cup one-day races**~~ 
+## <del>**Final results in UCI Men Under 23 Nation’s Cup one-day races**</del> 
 
-|~~Position~~||~~One-day races~~|
+|<del>Position</del>||<del>One-day races</del>|
 |---|---|---|
-|~~**1**~~||~~20~~|
-|~~**2**~~||~~17~~|
-|~~**3 **~~||~~15~~|
-|~~**4**~~||~~13~~|
-|~~**5 **~~||~~11~~|
-|~~**6 **~~||~~10~~|
-|~~**7**~~||~~9~~|
-|~~**8 **~~||~~8~~|
-|~~**9 **~~||~~7~~|
-|~~**10**~~||~~6~~|
-|~~**11**~~||~~5~~|
-|~~**12**~~||~~4~~|
-|~~**13**~~||~~3~~|
-|~~**14**~~||~~2~~|
-|~~**15**~~||~~1~~|
+|<del>**1**</del>||<del>20</del>|
+|<del>**2**</del>||<del>17</del>|
+|<del>**3 **</del>||<del>15</del>|
+|<del>**4**</del>||<del>13</del>|
+|<del>**5 **</del>||<del>11</del>|
+|<del>**6 **</del>||<del>10</del>|
+|<del>**7**</del>||<del>9</del>|
+|<del>**8 **</del>||<del>8</del>|
+|<del>**9 **</del>||<del>7</del>|
+|<del>**10**</del>||<del>6</del>|
+|<del>**11**</del>||<del>5</del>|
+|<del>**12**</del>||<del>4</del>|
+|<del>**13**</del>||<del>3</del>|
+|<del>**14**</del>||<del>2</del>|
+|<del>**15**</del>||<del>1</del>|
 
-## ~~**Final results in the Continental Championships**~~ 
+## <del>**Final results in the Continental Championships**</del> 
 
-|~~Position~~||~~Euroean~~||~~Continental~~||~~Asian,~~<br>~~African,~~<br>~~American~~<br>~~and~~<br>~~Oceanian Championships~~|~~Asian,~~<br>~~African,~~<br>~~American~~<br>~~and~~<br>~~Oceanian Championships~~|~~Asian,~~<br>~~African,~~<br>~~American~~<br>~~and~~<br>~~Oceanian Championships~~|
+|<del>Position</del>||<del>Euroean</del>||<del>Continental</del>||<del>Asian,</del><br><del>African,</del><br><del>American</del><br><del>and</del><br><del>Oceanian Championships</del>|<del>Asian,</del><br><del>African,</del><br><del>American</del><br><del>and</del><br><del>Oceanian Championships</del>|<del>Asian,</del><br><del>African,</del><br><del>American</del><br><del>and</del><br><del>Oceanian Championships</del>|
 |---|---|---|---|---|---|---|---|---|
-|||~~p~~<br>~~Championships~~|||||||
-|||~~Men Under 23~~<br>~~Road Race~~||~~Men Under 23~~<br>~~Ind. Time Trial~~||~~Men Under 23~~<br>~~Road Race~~||~~Men Under 23~~<br>~~Ind. Time Trial~~|
-|~~**1**~~||~~10~~||~~10~~||~~8~~||~~8~~|
-|~~**2**~~||~~8~~||~~8~~||~~5~~||~~5~~|
-|~~**3**~~||~~6~~||~~6~~||~~3~~||~~3~~|
-|~~**4**~~||~~5~~||~~5~~||~~1~~||~~1~~|
-|~~**5**~~||~~4~~||~~4~~|||||
-|~~**6**~~||~~3~~||~~3~~|||||
-|~~**7**~~||~~2~~||~~2~~|||||
-|~~**8**~~||~~1~~||~~1~~|||||
+|||<del>p</del><br><del>Championships</del>|||||||
+|||<del>Men Under 23</del><br><del>Road Race</del>||<del>Men Under 23</del><br><del>Ind. Time Trial</del>||<del>Men Under 23</del><br><del>Road Race</del>||<del>Men Under 23</del><br><del>Ind. Time Trial</del>|
+|<del>**1**</del>||<del>10</del>||<del>10</del>||<del>8</del>||<del>8</del>|
+|<del>**2**</del>||<del>8</del>||<del>8</del>||<del>5</del>||<del>5</del>|
+|<del>**3**</del>||<del>6</del>||<del>6</del>||<del>3</del>||<del>3</del>|
+|<del>**4**</del>||<del>5</del>||<del>5</del>||<del>1</del>||<del>1</del>|
+|<del>**5**</del>||<del>4</del>||<del>4</del>|||||
+|<del>**6**</del>||<del>3</del>||<del>3</del>|||||
+|<del>**7**</del>||<del>2</del>||<del>2</del>|||||
+|<del>**8**</del>||<del>1</del>||<del>1</del>|||||
 
-~~**Final results in the UCI Road World Championships** Position UCI Road World Championships~~ 
+<del>**Final results in the UCI Road World Championships** Position UCI Road World Championships</del> 
 
-~~Men Under 23~~ 
+<del>Men Under 23</del> 
 
-~~Men Under 23~~ 
+<del>Men Under 23</del> 
 
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0021-00.png)
 
 MEMORANDUM 3.10.2025 
 
-|||~~Road Race~~||~~Ind. Time Trial ~~|
+|||<del>Road Race</del>||<del>Ind. Time Trial </del>|
 |---|---|---|---|---|
-|~~**1**~~||~~50~~||~~30~~|
-|~~**2**~~||~~35~~||~~25~~|
-|~~**3**~~||~~30~~||~~20~~|
-|~~**4**~~||~~25~~||~~15~~|
-|~~**5**~~||~~20~~||~~10~~|
-|~~**6**~~||~~15~~||~~5~~|
-|~~**7**~~||~~10~~||~~3~~|
-|~~**8**~~||~~10~~||~~3~~|
-|~~**9**~~||~~10~~||~~3~~|
-|~~**10**~~||~~10~~||~~3~~|
-|~~**11**~~||~~5~~||~~2~~|
-|~~**12**~~||~~5~~||~~2~~|
-|~~**13**~~||~~5~~||~~2~~|
-|~~**14**~~||~~3~~||~~1~~|
-|~~**15**~~||~~3~~||~~1~~|
-|~~**16**~~||~~3~~|||
-|~~**17**~~||~~2~~|||
-|~~**18**~~||~~2~~|||
-|~~**19**~~||~~1~~|||
-|~~**20**~~||~~1~~|||
+|<del>**1**</del>||<del>50</del>||<del>30</del>|
+|<del>**2**</del>||<del>35</del>||<del>25</del>|
+|<del>**3**</del>||<del>30</del>||<del>20</del>|
+|<del>**4**</del>||<del>25</del>||<del>15</del>|
+|<del>**5**</del>||<del>20</del>||<del>10</del>|
+|<del>**6**</del>||<del>15</del>||<del>5</del>|
+|<del>**7**</del>||<del>10</del>||<del>3</del>|
+|<del>**8**</del>||<del>10</del>||<del>3</del>|
+|<del>**9**</del>||<del>10</del>||<del>3</del>|
+|<del>**10**</del>||<del>10</del>||<del>3</del>|
+|<del>**11**</del>||<del>5</del>||<del>2</del>|
+|<del>**12**</del>||<del>5</del>||<del>2</del>|
+|<del>**13**</del>||<del>5</del>||<del>2</del>|
+|<del>**14**</del>||<del>3</del>||<del>1</del>|
+|<del>**15**</del>||<del>3</del>||<del>1</del>|
+|<del>**16**</del>||<del>3</del>|||
+|<del>**17**</del>||<del>2</del>|||
+|<del>**18**</del>||<del>2</del>|||
+|<del>**19**</del>||<del>1</del>|||
+|<del>**20**</del>||<del>1</del>|||
 
-~~_(text modified on 1.07.11; 1.01.17; 9.11.20, 17.06.24)._~~ _[article abrogated on 01.11.25]._ 
+<del>_(text modified on 1.07.11; 1.01.17; 9.11.20, 17.06.24)._</del> _[article abrogated on 01.11.25]._ 
 
-- ~~**2.14.027**~~ ~~_(text moved to Article 2.14.026 on 9.11.20)._~~ 
+- <del>**2.14.027**</del> <del>_(text moved to Article 2.14.026 on 9.11.20)._</del> 
 
-## ~~**Separating tied nations**~~ 
+## <del>**Separating tied nations**</del> 
 
-- ~~**2.14.028** At the end of each event, if there is a tie between nations in the general ranking, this will be decided by the most 1[s][t] and 2[nd] places etc., and by taking into consideration only the places that award points.~~ 
+- <del>**2.14.028** At the end of each event, if there is a tie between nations in the general ranking, this will be decided by the most 1[s][t] and 2[nd] places etc., and by taking into consideration only the places that award points.</del> 
 
-~~If there is still a tie, it will be their best ranking in the most recent race which will determine the ranking.~~ 
+<del>If there is still a tie, it will be their best ranking in the most recent race which will determine the ranking.</del> 
 
-~~A nations tie in the final ranking will be decided by the most 1[s][t] and 2[nd] places, etc~~ 
+<del>A nations tie in the final ranking will be decided by the most 1[s][t] and 2[nd] places, etc</del> 
 
 _[article abrogated on 01.11.25]._ 
 
-- ~~**2.14.029** For one-day races, the leading nation of the UCI Men Under 23 Nations~~ ’ ~~Cup ranking must be present on the podium for the awards ceremony.~~ 
+- <del>**2.14.029** For one-day races, the leading nation of the UCI Men Under 23 Nations</del> ’ <del>Cup ranking must be present on the podium for the awards ceremony.</del> 
 
-~~For stage races, the leading nation of the UCI Men Under 23 Nations~~ ’ ~~Cup ranking must be present on the podium at the start of the stage the following day and on the award ceremony podium for the last stage.~~ 
+<del>For stage races, the leading nation of the UCI Men Under 23 Nations</del> ’ <del>Cup ranking must be present on the podium at the start of the stage the following day and on the award ceremony podium for the last stage.</del> 
 
-- ~~**2.14.030** The UCI grants a distinctive emblem to riders from the leading nation of the UCI Men Under 23 Nations~~ ’ ~~Cup ranking and riders must wear this emblem during podium ceremonies, according to the UCI~~ ’ ~~s instructions.~~ 
+- <del>**2.14.030** The UCI grants a distinctive emblem to riders from the leading nation of the UCI Men Under 23 Nations</del> ’ <del>Cup ranking and riders must wear this emblem during podium ceremonies, according to the UCI</del> ’ <del>s instructions.</del> 
 
-~~_(text modified on 1.01.08; 1.01.17)._~~ _[article abrogated on 01.11.25 ]._ 
+<del>_(text modified on 1.01.08; 1.01.17)._</del> _[article abrogated on 01.11.25 ]._ 
 
-- ~~**2.14.031** The UCI grants a trophy to the first three nations of the final UCI Men Under 23 Nations~~ ’ ~~Cup ranking. The final ranking will be calculated after the last event of the season (in the sense of Article 2.1.001) counting toward the ranking.~~ 
+- <del>**2.14.031** The UCI grants a trophy to the first three nations of the final UCI Men Under 23 Nations</del> ’ <del>Cup ranking. The final ranking will be calculated after the last event of the season (in the sense of Article 2.1.001) counting toward the ranking.</del> 
 
 MEMORANDUM 3.10.2025 
 
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0022-01.png)
 
-~~_(text modified on 1.01.08; 9.11.20)._~~ _[article abrogated on 01.11.25 ]._ 
+<del>_(text modified on 1.01.08; 9.11.20)._</del> _[article abrogated on 01.11.25 ]._ 
 
-## ~~**2.14.032** The order of cars will be as follows:~~ 
+## <del>**2.14.032** The order of cars will be as follows:</del> 
 
-- ~~First race of the year:~~ 
+- <del>First race of the year:</del> 
 
-   ~~1. the car of the team which has won the previous UCI Men Under 23 Nations~~ ’ ~~Cup;~~ 
+   <del>1. the car of the team which has won the previous UCI Men Under 23 Nations</del> ’ <del>Cup;</del> 
 
-   ~~2. the cars of the national teams represented at the sports directors~~ ’ ~~meeting;~~ 
+   <del>2. the cars of the national teams represented at the sports directors</del> ’ <del>meeting;</del> 
 
-   ~~3. the cars of mixed teams, regional and club teams;~~ 
+   <del>3. the cars of mixed teams, regional and club teams;</del> 
 
-   ~~4. the cars of teams which failed to confirm their starting riders by the deadline set under article 1.2.090;~~ 
+   <del>4. the cars of teams which failed to confirm their starting riders by the deadline set under article 1.2.090;</del> 
 
-   ~~5. the cars of teams not represented at the sports directors~~ ’ ~~meeting.~~ 
+   <del>5. the cars of teams not represented at the sports directors</del> ’ <del>meeting.</del> 
 
-~~Within groups 2, 3, 4 and 5 the order shall be determined by drawing lots.~~ 
+<del>Within groups 2, 3, 4 and 5 the order shall be determined by drawing lots.</del> 
 
-~~The car of a team covered by point 1, 2 or 3, but which falls into the categories covered by points 4 or 5, will be in group 4 or 5 as appropriate.~~ 
+<del>The car of a team covered by point 1, 2 or 3, but which falls into the categories covered by points 4 or 5, will be in group 4 or 5 as appropriate.</del> 
 
-~~-~~ 
+<del>-</del> 
 
-- ~~Other events:~~ 
+- <del>Other events:</del> 
 
-   ~~1. the cars of the teams represented at the sports directors~~ ’ ~~meeting in the order of the ranking of the UCI Men Under 23 Nations~~ ’ ~~Cup, as established the day before the race;~~ 
+   <del>1. the cars of the teams represented at the sports directors</del> ’ <del>meeting in the order of the ranking of the UCI Men Under 23 Nations</del> ’ <del>Cup, as established the day before the race;</del> 
 
-   ~~2. the cars of the teams represented at the sports directors~~ ’ ~~meeting which have not yet earned any points in the UCI Men Under 23 Nations~~ ’ ~~Cup ranking;~~ 
+   <del>2. the cars of the teams represented at the sports directors</del> ’ <del>meeting which have not yet earned any points in the UCI Men Under 23 Nations</del> ’ <del>Cup ranking;</del> 
 
-   ~~3. the cars of the teams that have not confirmed their starting riders by the deadline set in article 1.2.090;~~ 
+   <del>3. the cars of the teams that have not confirmed their starting riders by the deadline set in article 1.2.090;</del> 
 
-   ~~4. the cars of the teams not represented at the sports directors~~ ’ ~~meeting.~~ 
+   <del>4. the cars of the teams not represented at the sports directors</del> ’ <del>meeting.</del> 
 
-~~In groups 2, 3 and 4, the order is fixed by drawing lots.~~ 
+<del>In groups 2, 3 and 4, the order is fixed by drawing lots.</del> 
 
-~~The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate.~~ 
+<del>The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate.</del> 
 
-~~The rules above shall apply to the first stage of a stage race. The order of cars for subsequent stages shall be determined by the individual general classification by time.~~ 
+<del>The rules above shall apply to the first stage of a stage race. The order of cars for subsequent stages shall be determined by the individual general classification by time.</del> 
 
-~~_(text modified on 1.01.08; 26.01.08, 1.01.23). [_~~ _article abrogated on 01.11.25]._ 
+<del>_(text modified on 1.01.08; 26.01.08, 1.01.23). [_</del> _article abrogated on 01.11.25]._ 
 
 ## **Chapter XV  UCI WORLDTOUR** 
 
@@ -832,7 +832,7 @@ _(text modified on 1.01.15; 12.01.17; 01.11.25)._
 
 - **2.15.128** In the event of unjustified absence, withdrawal or giving up an event or when an invitation is declined in a manner that does not comply with Articles 2.15.127 and 2.15.191, the UCI WorldTeam shall be liable to: 
 
-   - A fine of ~~between CHF 10,000 and CHF 40,000 2~~ 0’000 CHF. For stage races, this fine shall be multiplied by the number of days of racing in which the UCI WorldTeam fails to take part; and 
+   - A fine of <del>between CHF 10,000 and CHF 40,000 2</del> 0’000 CHF. For stage races, this fine shall be multiplied by the number of days of racing in which the UCI WorldTeam fails to take part; and 
 
    - a deduction of UCI points on the UCI World Ranking by teams corresponding to the number of points granted for the winner of the UCI WorldTour event according to article 2.10.008. 
 
@@ -844,9 +844,9 @@ MEMORANDUM 3.10.2025
 
 writing between the team and the organiser. In the case of services in kind, their counter-value will be defined in consideration of the amount that would effectively have been paid by the organiser. 
 
-The UCI may decide not to ~~open a disciplinary action~~ not to demand payment of the aforementioned amounts in case of absence, withdrawal or giving up of a UCI WorldTeam, in case the two cumulative conditions below are fulfilled: 
+The UCI may decide not to <del>open a disciplinary action</del> not to demand payment of the aforementioned amounts in case of absence, withdrawal or giving up of a UCI WorldTeam, in case the two cumulative conditions below are fulfilled: 
 
-- The UCI WorldTeam ~~beforehand~~ before the start of the event submitted to the UCI a formal motivated request for absence, withdrawal or giving up following an abnormal situation pertaining to doping; 
+- The UCI WorldTeam <del>beforehand</del> before the start of the event submitted to the UCI a formal motivated request for absence, withdrawal or giving up following an abnormal situation pertaining to doping; 
 
 - The organiser of the UCI WorldTour event agreed in writing to the absence, withdrawal or giving up of the UCI WorldTeam. 
 
@@ -856,7 +856,7 @@ On the third offence committed during the period of validity of the licence, the
 
 On the fifth offence committed during the period of validity of the licence, the licence shall be automatically revoked. 
 
-~~Events that were not registered on the UCI WorldTour calendar in 2016 shall be taken into consideration for application of article 2.15.128 above, subject to the UCI WorldTeam having accepted the UCI WorldTour event~~ ’ ~~s invitation to participate, in accordance with article 2.15.190.~~ 
+<del>Events that were not registered on the UCI WorldTour calendar in 2016 shall be taken into consideration for application of article 2.15.128 above, subject to the UCI WorldTeam having accepted the UCI WorldTour event</del> ’ <del>s invitation to participate, in accordance with article 2.15.190.</del> 
 
 _(text modified on 1.01.15; 8.11.16; 12.01.17; 1.01.17; 25.10.17; 8.02.21; 01.11.25)._ 
 
@@ -864,13 +864,13 @@ _(text modified on 1.01.15; 8.11.16; 12.01.17; 1.01.17; 25.10.17; 8.02.21; 01.11
 
 - **2.15.190** UCI WorldTour events must accept the participation of all UCI WorldTeams. 
 
-~~In accordance with article 2.15.127, the UCI WorldTeams have a duty to participate in all the UCI WorldTour events registered on the UCI WorldTour calendar in 2016.~~ 
+<del>In accordance with article 2.15.127, the UCI WorldTeams have a duty to participate in all the UCI WorldTour events registered on the UCI WorldTour calendar in 2016.</del> 
 
 _(text modified on 1.01.15; 12.01.17; 01.11.25)._ 
 
-- **2.15.191** All events registered on the UCI WorldTour calendar (except the obligatory participation events listed in article 2.15.127) ~~for the first time in 2017 and thereafter~~ shall be obliged to invite and accept the participation of all UCI WorldTeams to take part in their event. 
+- **2.15.191** All events registered on the UCI WorldTour calendar (except the obligatory participation events listed in article 2.15.127) <del>for the first time in 2017 and thereafter</del> shall be obliged to invite and accept the participation of all UCI WorldTeams to take part in their event. 
 
-UCI WorldTeams must ~~be invited~~ inform the UCI of the event for which they wish to decline their participation for the following season, if any, no later than 10[th] December. ~~and UCI WorldTeams shall respond within 60 days of receipt of the invitation. Such invitation and response shall in any case comply with the deadlines stipulated article 1.2.049. T~~ he UCI will inform the organiser who will be required to provide as many additional invitations to UCI ProTeams as the number of UCI WorldTeams which declined. The additional invitations to UCI ProTeams are in addition to obligatory invitations as defined by article 2.1.007bis. 
+UCI WorldTeams must <del>be invited</del> inform the UCI of the event for which they wish to decline their participation for the following season, if any, no later than 10[th] December. <del>and UCI WorldTeams shall respond within 60 days of receipt of the invitation. Such invitation and response shall in any case comply with the deadlines stipulated article 1.2.049. T</del> he UCI will inform the organiser who will be required to provide as many additional invitations to UCI ProTeams as the number of UCI WorldTeams which declined. The additional invitations to UCI ProTeams are in addition to obligatory invitations as defined by article 2.1.007bis. 
 
 A maximum of four UCI WorldTeams may decline their participation in the same event. If more than four have selected the same event, the four teams with the lowest ranking on the UCI World Ranking by teams from the previous 
 
@@ -880,9 +880,9 @@ MEMORANDUM 3.10.2025
 
 season will be authorised not to participate. The other teams will be allowed to select a different event for which less than four UCI WorldTeams have declined participation within 15 days of the UCI’s notification. 
 
-~~The registration of such event on the UCI WorldTour calendar may be withdrawn by the Professional Cycling Council in case of breach of the obligation to invite all UCI WorldTeams.~~ 
+<del>The registration of such event on the UCI WorldTour calendar may be withdrawn by the Professional Cycling Council in case of breach of the obligation to invite all UCI WorldTeams.</del> 
 
-The events shall only invite other teams within the number of places available after receipt of responses according to the above-mentioned process. ~~from the UCI WorldTeams to the above-mentioned invitation.~~ 
+The events shall only invite other teams within the number of places available after receipt of responses according to the above-mentioned process. <del>from the UCI WorldTeams to the above-mentioned invitation.</del> 
 
 The obligations of UCI WorldTeams with respect to participation in these events is set out in article 2.15.127 ff. 
 
@@ -906,7 +906,7 @@ _(chapter replaced on 1.01.09)._
 
 - **2.17.004** A UCI Continental team or UCI women’s continental team will comprise riders who may or may not be professional, in the elite and/or under 23 categories. It must have minimum 10 riders for UCI continental teams, 8 for UCI women’s continental teams and a maximum of 16 riders for both categories. 
 
-However, a UCI continental team shall also have the right to add up to 4 riders specialising in other endurance cycling disciplines (cyclo-cross; mountain bike: cross country; track: endurance ranking ~~points race, scratch, pursuit, omnium~~ ) as long as the riders in question are among the top 150 of the last final UCI individual classification. 
+However, a UCI continental team shall also have the right to add up to 4 riders specialising in other endurance cycling disciplines (cyclo-cross; mountain bike: cross country; track: endurance ranking <del>points race, scratch, pursuit, omnium</del> ) as long as the riders in question are among the top 150 of the last final UCI individual classification. 
 
 A UCI women’s continental team may also add 4 riders specialising in one of the disciplines listed in the preceding paragraph, as long as the riders in question are among the top 150 of the final UCI individual classification for that discipline. 
 

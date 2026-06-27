@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4iN4LFhlXOSXXSp1p2vtGC/6bb
 source_sha256: b2030be7360c49f57c5b7b3fbd98e4a49144861f989ac90eaef26262a7a7d2f6
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0001-00.png)
 
@@ -20,7 +20,7 @@ converter: pymupdf4llm
 
 - **5.1.008** The provisions of articles 13.4.001 to 13.4.011 concerning medical services shall apply to **bis** all cyclo-cross competitions. 
 
-~~At least one ambulance and~~. At each competition, at least one (1) basic first aid post and ~~at least are required at all races. For each event, at least one (1) doctor and~~ at least four (4) people qualified to perform first aid under the laws of the country shall be present for the duration of the competition. 
+<del>At least one ambulance and</del>. At each competition, at least one (1) basic first aid post and <del>at least are required at all races. For each event, at least one (1) doctor and</del> at least four (4) people qualified to perform first aid under the laws of the country shall be present for the duration of the competition. 
 
 The location of the first aid posts and first-aid personnel, mobile and/or fixed, will be determined under the responsibility of the course manager, in consideration of the location of: 
 
@@ -30,7 +30,7 @@ The location of the first aid posts and first-aid personnel, mobile and/or fixed
 
 - areas with difficult access. 
 
-~~Basic T~~ he medical coverage defined on the above paragraph shall be mandatory during all official training sessions, including those scheduled on the days preceding the race. ~~(UCI cyclocross world championships, UCI cyclo-cross world cup events and continental championships).~~ 
+<del>Basic T</del> he medical coverage defined on the above paragraph shall be mandatory during all official training sessions, including those scheduled on the days preceding the race. <del>(UCI cyclocross world championships, UCI cyclo-cross world cup events and continental championships).</del> 
 
 The special provisions of articles 13.4.012 to 13.4.031 apply to UCI cyclo-cross world championships and UCI cyclo-cross world cup events. 
 
@@ -106,15 +106,15 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Chapter II  UCI CYCLO-CROSS RANKING** 
 
-- **5.2.003** The UCI cyclo-cross ranking is drawn up ~~as follows:~~ 
+- **5.2.003** The UCI cyclo-cross ranking is drawn up <del>as follows:</del> 
 
-~~A. Men under 23 and men elite / women junior, women under 23 and women elite The UCI cyclo-cross ranking is drawn up~~ over a period of one year by adding the points won since the preceding ranking was drawn up. At the same time the remaining points obtained up to the same day of the previous year by each rider in international cyclo-cross competitions are deducted. The new ranking comes into force on the day of publication and stands until the publication of the subsequent ranking. 
+<del>A. Men under 23 and men elite / women junior, women under 23 and women elite The UCI cyclo-cross ranking is drawn up</del> over a period of one year by adding the points won since the preceding ranking was drawn up. At the same time the remaining points obtained up to the same day of the previous year by each rider in international cyclo-cross competitions are deducted. The new ranking comes into force on the day of publication and stands until the publication of the subsequent ranking. 
 
-## ~~B. Men junior~~ 
+## <del>B. Men junior</del> 
 
-~~The UCI cyclo-cross ranking for men junior is drawn up by summing the points won by each rider in international cyclo-cross events in the period from 1 September to 28 or 29 February.~~ 
+<del>The UCI cyclo-cross ranking for men junior is drawn up by summing the points won by each rider in international cyclo-cross events in the period from 1 September to 28 or 29 February.</del> 
 
-In case of riders having an equal number of points in the ranking, riders are ranked based on their best result with UCI points in each of the race groups listed below; if the tie cannot be broken by the results of the group 1. races, the results of the group 2. races are used; then the results of the group 3 races, and so on. ~~their place in the most recent result of the season, considering only places awarding UCI points will decide between them in the following order:~~ 
+In case of riders having an equal number of points in the ranking, riders are ranked based on their best result with UCI points in each of the race groups listed below; if the tie cannot be broken by the results of the group 1. races, the results of the group 2. races are used; then the results of the group 3 races, and so on. <del>their place in the most recent result of the season, considering only places awarding UCI points will decide between them in the following order:</del> 
 
 1. UCI cyclo-cross world championships; 
 

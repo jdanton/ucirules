@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6qYIYIddcAPjN248n7tVDI/952
 source_sha256: 32a35397be5c0111ea7d130ad504666c241a54aa6db61752697b23951dc732e8
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 **version on 01.01.2026** 
 
@@ -1086,7 +1086,7 @@ MOUNTAIN BIKE
 
 A single run format for the final must be used. Prior thereto, there shall be either: 
 
-   - One or two ~~a~~ qualifying run(s), called the qualifying round(s) following which a predetermined number of riders set by the particular race regulations are admitted to a final. The fastest rider of the final is declared the winner. 
+   - One or two <del>a</del> qualifying run(s), called the qualifying round(s) following which a predetermined number of riders set by the particular race regulations are admitted to a final. The fastest rider of the final is declared the winner. 
 
    - a seeding run that determines the start order for a single run in which the rider with the fastest time wins. 
 
@@ -2866,7 +2866,7 @@ The top 20 men juniors and top 10 women juniors from the qualifying round qualif
 
 The top 20 men elite and top 10 women elite from the qualifying round 1 qualify for the final. 
 
-The top ~~30~~ 10 men elite and top ~~10~~ 5 women elite from the qualifying round 2 qualify for the final. 
+The top <del>30</del> 10 men elite and top <del>10</del> 5 women elite from the qualifying round 2 qualify for the final. 
 
 If the final cannot take place due to unforeseen circumstances, the first qualifying round to take place determines the final result. 
 
@@ -3192,7 +3192,7 @@ _(text modified on 01.01.25; 01.01.26)._
 
 ## **Official ceremony** 
 
-**4.12.009** The official ceremony takes place immediately after each race ~~involved.~~ Riders arriving later than 5 minutes after they finished their race are fined. 
+**4.12.009** The official ceremony takes place immediately after each race <del>involved.</del> Riders arriving later than 5 minutes after they finished their race are fined. 
 
 The following riders must attend: 
 
@@ -3748,7 +3748,7 @@ E0126
 
 MOUNTAIN BIKE 
 
-For the cross-country Olympic (XCO) ranking only the types of events that meet the criteria set out in articles 4.2.001, 4.2.002, 4.2.008, 4.2.010 ~~,~~ 4.2.011 to 4.2.013 and 4.2.015 are eligible. 
+For the cross-country Olympic (XCO) ranking only the types of events that meet the criteria set out in articles 4.2.001, 4.2.002, 4.2.008, 4.2.010 <del>,</del> 4.2.011 to 4.2.013 and 4.2.015 are eligible. 
 
 For the cross-country marathon (XCM) ranking only the types of events that meet the criteria set out in articles 4.2.004 and the general classification of stage races are eligible. No UCI point is awarded separately for the individual stages forming part of stage races. 
 
@@ -4594,9 +4594,9 @@ E0123
 
 MOUNTAIN BIKE 
 
-||**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|<br>**Hors Classe /**<br>**Continental Series**|<br>**Hors Classe /**<br>**Continental Series**|**Classe 1**|**Classe 1**|**Classe 2 / COUPE du**<br>**MONDE XCE /**<br>XCE WORLD CUP/<br>Jeux régionaux /<br>Regional Games|**Classe 3  /**<br>~~**Jeux**~~<br>~~**réionaux /**~~|**XCO**<br>**JUNIOR**<br>**SERIE**|**XCO**<br>**Junior  /**<br>**Continent**<br>**al Series**|
+||**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|<br>**Hors Classe /**<br>**Continental Series**|<br>**Hors Classe /**<br>**Continental Series**|**Classe 1**|**Classe 1**|**Classe 2 / COUPE du**<br>**MONDE XCE /**<br>XCE WORLD CUP/<br>Jeux régionaux /<br>Regional Games|**Classe 3  /**<br><del>**Jeux**</del><br><del>**réionaux /**</del>|**XCO**<br>**JUNIOR**<br>**SERIE**|**XCO**<br>**Junior  /**<br>**Continent**<br>**al Series**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||~~**g**~~<br>~~**Regional**~~<br>~~**Games**~~|||
+||||||||||<del>**g**</del><br><del>**Regional**</del><br><del>**Games**</del>|||
 |**_Rang /_**<br>**_Place_**|**Elite**|**U23***|**Junior**|**Elite**|**U23***|**Elite**|**U23***|**Elite**|**Elite**|**Junior**|**Junior**|
 |**_1_**|100|50|40|100|60|60|15|30|10|90|20|
 |**_2_**|90|35|30|80|40|40|10|20|6|70|18|

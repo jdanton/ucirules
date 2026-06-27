@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3yzOk640gEd8yy8jeN0cYR/5d5
 source_sha256: a86963cb62eb5f4730d0f894045261bd9df37230830d07a66453851824628130
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ## **PART 17 CYCLING ESPORTS** 
 
@@ -146,7 +146,7 @@ _(text modified on 01.01.2026)_
 
 - **17.3.002** The Commissaire, if appointed, may request the verification of any performance. 
 
-The third party performance verification body may ask the platform provider and/or ~~a~~ riders for any reasonable data which will aid in verification including but not limited to previous ride data, video of height/weight verification, live-streamed calibration and performance tests. The third party performance verification body may also require riders to perform additional indoor or outdoor tests after the completion of the event to help verify a performance. 
+The third party performance verification body may ask the platform provider and/or <del>a</del> riders for any reasonable data which will aid in verification including but not limited to previous ride data, video of height/weight verification, live-streamed calibration and performance tests. The third party performance verification body may also require riders to perform additional indoor or outdoor tests after the completion of the event to help verify a performance. 
 
 _(text modified on 01.01.2026)_ 
 

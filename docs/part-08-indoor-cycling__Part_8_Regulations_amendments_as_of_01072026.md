@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/180T0aW1DfwEE7dxZnr395/2fb
 source_sha256: 20aa128ceea50c4ea304df4512fc7566972d7b05ace451ec2fa62f7c25a1685f
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 8 June 2026 
 
@@ -31,7 +31,7 @@ converter: pymupdf4llm
 |**B.**|**Junior League**|||
 |-|Up to 18 years|=|U19|
 |**C.**|**Elite Leagues**|||
-|-|Up to22 ~~23 ~~years  =||U23|
+|-|Up to22 <del>23 </del>years  =||U23|
 |-|From 19 years on  =||Elite|
 
 The league depends on the year of birth, i.e. throughout the year of a player’s 18th birthday he may play in the Junior league. 
@@ -53,7 +53,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||_N°Games Qualification_|_Second Round_|_Quarter-finals_|_Lucky Loser_|_Semi-finals_|_Match for 9th place_|_Match for 7th place_|_Match for 5th Place_|_Final 4_|_Match for 3rd place_|_Final_|_Relegation Game_|_Total_|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |_Men_<br>_Elite_<br>_League_||||||||||||||
-|_8 Teams_|_12_|~~_2_~~<br>~~_4_~~|~~_0 3_~~|_0_|~~_0 2_~~|_0_|~~_1_~~_0_|~~_1 0_~~|~~_6_~~_0_|_1_|_1_|_1_|~~_25_~~<br>_24_|
+|_8 Teams_|_12_|<del>_2_</del><br><del>_4_</del>|<del>_0 3_</del>|_0_|<del>_0 2_</del>|_0_|<del>_1_</del>_0_|<del>_1 0_</del>|<del>_6_</del>_0_|_1_|_1_|_1_|<del>_25_</del><br>_24_|
 |||||||||||||||
 |_Challenger_<br>_League_||||||||||||||
 |_3 Teams_|_6_|_0_|_0_|_0_|_0_|_0_|_0_|_0_||_0_|_0_|_0_|_6_|
@@ -106,25 +106,25 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |11|||1|:||6|||Qualification|||
 |12|||3|:||7|||Qualification|||
 |||||||||||||
-|13|||~~2A~~<br>4A|:||~~3B~~<br>4B||||2ndRound||
-|14|||~~2B~~<br>3A|:||~~3A~~<br>3B||||2ndRound||
+|13|||<del>2A</del><br>4A|:||<del>3B</del><br>4B||||2ndRound||
+|14|||<del>2B</del><br>3A|:||<del>3A</del><br>3B||||2ndRound||
 |15|||2A|:||2B||||2ndRound||
-|16|||~~4A~~<br>1A|:||~~4B~~<br>1B||||~~Place 7/8~~<br>2ndRound||
-|~~16~~|||~~L13~~|||~~L14~~||||~~Place 5/6~~||
+|16|||<del>4A</del><br>1A|:||<del>4B</del><br>1B||||<del>Place 7/8</del><br>2ndRound||
+|<del>16</del>|||<del>L13</del>|||<del>L14</del>||||<del>Place 5/6</del>||
 |17|||L16|:||W13|||Quarter Final|||
-|18|||~~L15~~<br>W15|:||~~Winner Challenger League~~<br>L14|||~~Relegation~~<br>Quarter Final|||
+|18|||<del>L15</del><br>W15|:||<del>Winner Challenger League</del><br>L14|||<del>Relegation</del><br>Quarter Final|||
 |19|||W14|:||||L15|Quarter Final|||
-|~~18~~|||~~1A~~|~~:~~||||~~1B~~|||~~Final 4~~|
-|~~19~~<br>20|||~~W13~~<br>L13|~~:~~||~~W14~~<br>Winner Challenger League|||~~Final 4~~<br>Relegation|||
+|<del>18</del>|||<del>1A</del>|<del>:</del>||||<del>1B</del>|||<del>Final 4</del>|
+|<del>19</del><br>20|||<del>W13</del><br>L13|<del>:</del>||<del>W14</del><br>Winner Challenger League|||<del>Final 4</del><br>Relegation|||
 |21|||W16|:||||W19|Semi Final|||
-|~~20~~<br>22|||~~1A~~<br>W17|||||~~W14~~<br>W18|~~Final 4~~<br>Semi Final|||
-|~~21~~|||~~1B~~|~~:~~||||~~W13~~|||~~Final 4~~|
-|~~22~~|||~~1A~~|||||~~W13~~|||~~Final 4~~|
-|~~23~~|||~~1B~~|||||~~W14~~|||~~Final 4~~|
+|<del>20</del><br>22|||<del>1A</del><br>W17|||||<del>W14</del><br>W18|<del>Final 4</del><br>Semi Final|||
+|<del>21</del>|||<del>1B</del>|<del>:</del>||||<del>W13</del>|||<del>Final 4</del>|
+|<del>22</del>|||<del>1A</del>|||||<del>W13</del>|||<del>Final 4</del>|
+|<del>23</del>|||<del>1B</del>|||||<del>W14</del>|||<del>Final 4</del>|
 |||||||||||||
-|~~24~~<br>23|~~2n~~|~~d~~|~~place F4~~<br>L21|~~:~~||~~3r~~|~~d place F4~~<br>L22||Bronze/Silver Game|||
+|<del>24</del><br>23|<del>2n</del>|<del>d</del>|<del>place F4</del><br>L21|<del>:</del>||<del>3r</del>|<del>d place F4</del><br>L22||Bronze/Silver Game|||
 |||||||||||||
-|~~25~~<br>24|~~1s~~|~~t place F4~~<br>W21||~~:~~||||~~W24~~<br>W22|Gold Game|||
+|<del>25</del><br>24|<del>1s</del>|<del>t place F4</del><br>W21||<del>:</del>||||<del>W24</del><br>W22|Gold Game|||
 
 _(article introduced on 01.01.13; text modified on 01.01.24; 01.07.25, 01.07.26)_ 
 

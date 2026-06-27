@@ -80,6 +80,9 @@ def clean_markdown(md: str) -> str:
     # and the italic-wrapped "_Rider_ ’ _s_" -> "_Rider’s_").
     md = re.sub(r"_ ’ _([A-Za-z])_", r"’\1_", md)
     md = re.sub(r"([A-Za-z]) ['’] ([A-Za-z])", lambda m: m.group(0).replace(" ", ""), md)
+    # The renderer doesn't enable ~~strikethrough~~, so tracked-change deletions
+    # show as literal tildes. Convert to <del> (raw HTML passes through).
+    md = re.sub(r"~~(.+?)~~", r"<del>\1</del>", md)
     md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip() + "\n"
 
@@ -87,17 +90,17 @@ def clean_markdown(md: str) -> str:
 _BANNER_MARK = "Amendment — tracked changes."
 _BANNER = (
     "> **" + _BANNER_MARK + "** This document shows UCI’s amendments as tracked "
-    "changes: ~~struck-through~~ text is being removed and the adjacent plain text "
-    "is its replacement. Some character-level edits (numbers, word fragments) from "
-    "the source PDF may display imperfectly — for the clean, in-force wording see "
-    "the consolidated regulation in the sidebar or the "
+    "changes: <del>struck-through</del> text is being removed and the adjacent plain "
+    "text is its replacement. Some character-level edits (numbers, word fragments) "
+    "from the source PDF may display imperfectly — for the clean, in-force wording "
+    "see the consolidated regulation in the sidebar or the "
     "[official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).\n"
 )
 
 
 def add_amendment_banner(md: str) -> str:
     """Prepend an explanatory banner to docs that carry tracked changes."""
-    if "~~" not in md or _BANNER_MARK in md:
+    if ("<del>" not in md and "~~" not in md) or _BANNER_MARK in md:
         return md
     return _BANNER + "\n" + md
 

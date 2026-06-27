@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2uOSbE8gAbYJWGZF6Zdb0c/ba7
 source_sha256: a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0001-00.png)
 
@@ -17,33 +17,33 @@ CONSTITUTION<br>**----- End of picture text -----**<br>
 
 ## **TABLE OF CONTENT** 
 
-|~~CHAPTER I~~|~~**IDENTITY - PURPOSE**~~|~~**3**~~|
+|<del>CHAPTER I</del>|<del>**IDENTITY - PURPOSE**</del>|<del>**3**</del>|
 |---|---|---|
-|~~CHAPTER II~~|~~**MEMBERS**~~|~~**5**~~|
-|~~CHAPTER III~~|~~**CONTINENTAL CONFEDERATIONS**~~|~~**16**~~|
-|~~CHAPTER IV~~|~~**CONGRESS**~~|~~**19**~~|
-|~~CHAPTER V~~|~~**MANAGEMENT COMMITTEE**~~|~~**25**~~|
-|~~CHAPTER VI~~|~~**EXECUTIVE COMMITTEE**~~|~~**32**~~|
-|~~CHAPTER VII~~|~~**PRESIDENT**~~|~~**33**~~|
-|~~CHAPTER VIII~~|~~**EXTERNAL REPRESENTATION**~~|~~**34**~~|
-|~~CHAPTER IX~~|~~**JUDICIAL BODIES**~~|~~**35**~~|
-|~~CHAPTER X~~|~~**ADMINISTRATION**~~|~~**36**~~|
-|~~CHAPTER XI~~|~~**FINANCES**~~|~~**37**~~|
-|~~CHAPTER XII~~|~~**FINANCIAL CONTROL AND TRANSPARENCY**~~|~~**38**~~|
-|~~CHAPTER XIII~~|~~**COURT OF ARBITRATION FOR SPORT**~~|~~**39**~~|
-|~~CHAPTER XIV~~|~~**OFFICIAL LANGUAGES**~~|~~**40**~~|
-|~~CHAPTER XV~~|~~S~~~~**YMBOLS, LOGOS, DISTINCTIONS**~~|~~**41**~~|
-|~~CHAPTER XVI~~|~~**FINAL PROVISIONS**~~|~~**42**~~|
-|~~CHAPTER XVII~~|~~**DISSOLUTION**~~|~~**42**~~|
-|~~CHAPTER XVIII~~|~~**ENFORCEMENT**~~|~~**43**~~|
+|<del>CHAPTER II</del>|<del>**MEMBERS**</del>|<del>**5**</del>|
+|<del>CHAPTER III</del>|<del>**CONTINENTAL CONFEDERATIONS**</del>|<del>**16**</del>|
+|<del>CHAPTER IV</del>|<del>**CONGRESS**</del>|<del>**19**</del>|
+|<del>CHAPTER V</del>|<del>**MANAGEMENT COMMITTEE**</del>|<del>**25**</del>|
+|<del>CHAPTER VI</del>|<del>**EXECUTIVE COMMITTEE**</del>|<del>**32**</del>|
+|<del>CHAPTER VII</del>|<del>**PRESIDENT**</del>|<del>**33**</del>|
+|<del>CHAPTER VIII</del>|<del>**EXTERNAL REPRESENTATION**</del>|<del>**34**</del>|
+|<del>CHAPTER IX</del>|<del>**JUDICIAL BODIES**</del>|<del>**35**</del>|
+|<del>CHAPTER X</del>|<del>**ADMINISTRATION**</del>|<del>**36**</del>|
+|<del>CHAPTER XI</del>|<del>**FINANCES**</del>|<del>**37**</del>|
+|<del>CHAPTER XII</del>|<del>**FINANCIAL CONTROL AND TRANSPARENCY**</del>|<del>**38**</del>|
+|<del>CHAPTER XIII</del>|<del>**COURT OF ARBITRATION FOR SPORT**</del>|<del>**39**</del>|
+|<del>CHAPTER XIV</del>|<del>**OFFICIAL LANGUAGES**</del>|<del>**40**</del>|
+|<del>CHAPTER XV</del>|<del>S</del><del>**YMBOLS, LOGOS, DISTINCTIONS**</del>|<del>**41**</del>|
+|<del>CHAPTER XVI</del>|<del>**FINAL PROVISIONS**</del>|<del>**42**</del>|
+|<del>CHAPTER XVII</del>|<del>**DISSOLUTION**</del>|<del>**42**</del>|
+|<del>CHAPTER XVIII</del>|<del>**ENFORCEMENT**</del>|<del>**43**</del>|
 ||||
-||~~**STANDING ORDERS OF THE CONGRESS**~~|~~**44**~~|
+||<del>**STANDING ORDERS OF THE CONGRESS**</del>|<del>**44**</del>|
 
 2 
 
-~~CHAPTER I~~ 
+<del>CHAPTER I</del> 
 
-~~**IDENTITY - PURPOSES**~~ 
+<del>**IDENTITY - PURPOSES**</del> 
 
 _**Article 1 Name and registered office**_ 
 
@@ -105,9 +105,9 @@ CONSTITUTION | IDENTITY - PURPOSES
 
 4 
 
-~~CHAPTER II~~ 
+<del>CHAPTER II</del> 
 
-~~**MEMBERS**~~ 
+<del>**MEMBERS**</del> 
 
 ## _**Article 4**_ 
 
@@ -467,9 +467,9 @@ _**Article 24 No claim for reimbursement or damages**_
 
 CONSTITUTION | MEMBERS 15 
 
-~~CHAPTER III~~ 
+<del>CHAPTER III</del> 
 
-## ~~**CONTINENTAL CONFEDERATIONS**~~ 
+## <del>**CONTINENTAL CONFEDERATIONS**</del> 
 
 ## _**Article 25**_ 
 
@@ -559,9 +559,9 @@ CONSTITUTION | CONTINENTAL CONFEDERATIONS 17
 
 18 CONSTITUTION | CONTINENTAL CONFEDERATIONS 
 
-~~CHAPTER IV~~ 
+<del>CHAPTER IV</del> 
 
-~~**CONGRESS**~~ 
+<del>**CONGRESS**</del> 
 
 ## _**Article 29**_ 
 
@@ -803,9 +803,9 @@ Unless otherwise decided by the Congress, the decisions of the Congress shall be
 
 24 CONSTITUTION | CONGRESS 
 
-~~CHAPTER V~~ 
+<del>CHAPTER V</del> 
 
-## ~~**MANAGEMENT COMMITTEE**~~ 
+## <del>**MANAGEMENT COMMITTEE**</del> 
 
 _**Article 47 Role**_ 
 
@@ -1053,9 +1053,9 @@ CONSTITUTION | MANAGEMENT COMMITTEE
 
 31 
 
-~~CHAPTER VI~~ 
+<del>CHAPTER VI</del> 
 
-~~**EXECUTIVE COMMITTEE**~~ 
+<del>**EXECUTIVE COMMITTEE**</del> 
 
 ## _**Article 60**_ 
 
@@ -1091,9 +1091,9 @@ The Executive Committee shall scrutinise candidates for director-general of the 
 
 32 CONSTITUTION | EXECUTIVE COMMITTEE 
 
-~~CHAPTER VII~~ 
+<del>CHAPTER VII</del> 
 
-~~**PRESIDENT**~~ 
+<del>**PRESIDENT**</del> 
 
 ## _**Article 63**_ 
 
@@ -1127,9 +1127,9 @@ The President of the UCI may serve a maximum of four mandates of four years.
 
 CONSTITUTION | PRESIDENT 33 
 
-~~CHAPTER VIII~~ 
+<del>CHAPTER VIII</del> 
 
-~~**EXTERNAL REPRESENTATION**~~ 
+<del>**EXTERNAL REPRESENTATION**</del> 
 
 _**Article 66 Representation**_ 
 
@@ -1143,9 +1143,9 @@ CONSTITUTION | EXTERNAL REPRESENTATION
 
 34 
 
-~~CHAPTER IX~~ 
+<del>CHAPTER IX</del> 
 
-## ~~**JUDICIAL BODIES**~~ 
+## <del>**JUDICIAL BODIES**</del> 
 
 ## _**Article 68**_ 
 
@@ -1171,9 +1171,9 @@ _**Article 69 Officials**_
 
 CONSTITUTION | JUDICIAL BODIES 35 
 
-~~CHAPTER X~~ 
+<del>CHAPTER X</del> 
 
-~~**ADMINISTRATION**~~ 
+<del>**ADMINISTRATION**</del> 
 
 ## _**Article 70**_ 
 
@@ -1191,9 +1191,9 @@ CONSTITUTION | JUDICIAL BODIES 35
 
 36 CONSTITUTION | ADMINISTRATION 
 
-~~CHAPTER XI~~ 
+<del>CHAPTER XI</del> 
 
-~~**FINANCES**~~ 
+<del>**FINANCES**</del> 
 
 ## _**Article 71**_ 
 
@@ -1213,9 +1213,9 @@ CONSTITUTION | JUDICIAL BODIES 35
 
 CONSTITUTION | FINANCES 37 
 
-~~CHAPTER XII~~ 
+<del>CHAPTER XII</del> 
 
-~~**FINANCIAL CONTROL**~~ 
+<del>**FINANCIAL CONTROL**</del> 
 
 ## _**Article 72**_ 
 
@@ -1231,9 +1231,9 @@ CONSTITUTION | FINANCES 37
 
 38 CONSTITUTION | FINANCIAL CONTROL 
 
-~~CHAPTER XIII~~ 
+<del>CHAPTER XIII</del> 
 
-~~**COURT OF ARBITRATION FOR SPORT**~~ 
+<del>**COURT OF ARBITRATION FOR SPORT**</del> 
 
 _**Article 73**_ 
 
@@ -1261,9 +1261,9 @@ In the absence of a choice of applicable law by the parties, the Court of Arbitr
 
 CONSTITUTION | COURT OF ARBITRATION FOR SPORT 39 
 
-~~CHAPTER XIV~~ 
+<del>CHAPTER XIV</del> 
 
-## ~~**OFFICIAL LANGUAGES**~~ 
+## <del>**OFFICIAL LANGUAGES**</del> 
 
 ## _**Article 78 Official languages**_ 
 
@@ -1285,9 +1285,9 @@ _**Article 80 Correspondence and meetings**_
 
 40 CONSTITUTION | OFFICIAL LANGUAGES 
 
-~~CHAPTER XV~~ 
+<del>CHAPTER XV</del> 
 
-~~**SYMBOLS, LOGOS, DISTINCTIONS**~~ 
+<del>**SYMBOLS, LOGOS, DISTINCTIONS**</del> 
 
 ## _**Article 81**_ 
 
@@ -1319,9 +1319,9 @@ The Management Committee may create and attribute other distinctions for meritor
 
 CONSTITUTION | SYMBOLS, LOGOS, DISTINCTIONS 41 
 
-~~CHAPTER XVI~~ 
+<del>CHAPTER XVI</del> 
 
-~~**FINAL PROVISIONS**~~ 
+<del>**FINAL PROVISIONS**</del> 
 
 _**Article 84**_ 
 
@@ -1333,9 +1333,9 @@ _**Article 84**_
 
 3. All claims against the UCI shall be referred exclusively to the Court of Arbitration for Sport. 
 
-## ~~CHAPTER XVII~~ 
+## <del>CHAPTER XVII</del> 
 
-## ~~**DISSOLUTION**~~ 
+## <del>**DISSOLUTION**</del> 
 
 ## _**Article 85**_ 
 
@@ -1359,9 +1359,9 @@ _**Article 86**_
 
 42 CONSTITUTION | FINAL PROVISIONS / DISSOLUTION 
 
-~~CHAPTER XVIII~~ 
+<del>CHAPTER XVIII</del> 
 
-~~**ENFORCEMENT**~~ 
+<del>**ENFORCEMENT**</del> 
 
 |**_Article_**|**_87_**||**_Enforcement_**|
 |---|---|---|---|

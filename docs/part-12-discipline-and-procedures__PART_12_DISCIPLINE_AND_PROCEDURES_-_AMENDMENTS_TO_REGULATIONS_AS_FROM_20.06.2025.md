@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/LO1l4h9SPu5rwstGnk2rm/1f33
 source_sha256: 5b473c92a615ae59105e5968a50b68a869bdac7897182a0d0392ec3d702278f5
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_20.06.2025.pdf-0001-00.png)
 
@@ -58,7 +58,7 @@ _(article added on 20.06.25)_
 
 ## **Suspended sentence** 
 
-- **12.2.01** ~~**36**~~ The Disciplinary Commission may decide to suspend the execution of all or part of the above-mentioned sanctions and set out, at its discretion, the conditions for such suspended sentence, which may include: 
+- **12.2.01** <del>**36**</del> The Disciplinary Commission may decide to suspend the execution of all or part of the above-mentioned sanctions and set out, at its discretion, the conditions for such suspended sentence, which may include: 
 
    - the absence of violations of the UCI Regulations for a defined period of time; 
 
@@ -82,9 +82,9 @@ _(text modified on 20.06.25)_
 
 Technological fraud occurs in the following circumstances: 
 
-- a) the presence, ~~within the scope or fringes of~~ at any location related to a cycling event, of a bicycle that does not comply with the provisions of article 1.3.010 related to propulsion; 
+- a) the presence, <del>within the scope or fringes of</del> at any location related to a cycling event, of a bicycle that does not comply with the provisions of article 1.3.010 related to propulsion; 
 
-- b) the use by a rider, ~~within the scope or fringes of~~ at any location related to a cycling event, of a bicycle that does not comply with the provisions of article 1.3.010 related to propulsion; 
+- b) the use by a rider, <del>within the scope or fringes of</del> at any location related to a cycling event, of a bicycle that does not comply with the provisions of article 1.3.010 related to propulsion; 
 
 - c) any act, communication, commission or omission aimed at providing equipment or components that do not comply with the provisions of article 1.3.010 for their use in an event, as well as any act related to such provision of equipment or components, including without being limited to requesting, receiving or accepting them, directly or indirectly, or any act related to dissimilating, fitting or preparing such equipment of components. 
 
@@ -92,8 +92,8 @@ _(text modified on 20.06.25)_
 
 - **12.4.003** All riders and teams, or other entities that a rider may represent (in particular National **ter** Federations at races contested by national teams), are responsible for ensuring that all their bicycles comply with the provisions of article 1.3.010 at all times. 
 
-The presence and/or use of equipment ~~a bicycle t~~ hat does not comply with the provisions of article 1.3.010 in breach of article 12.4.003bis, letters a) or b), ~~within the scope or fringes a cycling event~~ shall constitute technological fraud by the rider and the team, or other entity the rider represents, irrespective of whether or not the bicycle has been used during the event. 
+The presence and/or use of equipment <del>a bicycle t</del> hat does not comply with the provisions of article 1.3.010 in breach of article 12.4.003bis, letters a) or b), <del>within the scope or fringes a cycling event</del> shall constitute technological fraud by the rider and the team, or other entity the rider represents, irrespective of whether or not the bicycle has been used during the event. 
 
-Technological fraud is not subject to a statute of limitation ~~of 10 years from the date of the offence.~~ 
+Technological fraud is not subject to a statute of limitation <del>of 10 years from the date of the offence.</del> 
 
 _(text modified on 20.06.25)_

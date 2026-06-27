@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5DaVVhDSf9bsXNSCj1Hfvl/0ba
 source_sha256: 58b7b1ab906ef635b9e98717b72f1f5286a520b21f6474320926fdb3ab0e4ce5
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 8 June 2026 
 
@@ -18,12 +18,12 @@ converter: pymupdf4llm
 
 |**International**<br>**Calendar**|**Category**<br>**of event**|**Class**|**Participation**|
 |---|---|---|---|
-|Men Junior|MJ|1.Ncup<br>2.Ncup|- National teams<br>-Nationalmixed teams<br>- Regional~~and clubt~~eam~~s (max 16%)(2)~~<br>~~-~~Continental Confederation’s team<br>(excluding Grand Final)<br>~~-~~UCI World Cycling Centre’s team<br>(Grand Final only)|
+|Men Junior|MJ|1.Ncup<br>2.Ncup|- National teams<br>-Nationalmixed teams<br>- Regional<del>and clubt</del>eam<del>s (max 16%)(2)</del><br><del>-</del>Continental Confederation’s team<br>(excluding Grand Final)<br><del>-</del>UCI World Cycling Centre’s team<br>(Grand Final only)|
 |||1.1<br>2.1|- National teams<br>- Regional and club teams<br>- Mixed teams<br>-Junior development teams|
-|Women Junior|WJ|1.Ncup<br>2.Ncup|-<br>National teams<br>-<br>Nationalmixed teams<br>-<br>Regional~~and club~~teams<br>~~-~~<br>Continental Confederation’s team<br>(excluding Grand Final)<br>~~-~~<br>UCI World Cycling Centre’s team<br>(Grand Final only)|
+|Women Junior|WJ|1.Ncup<br>2.Ncup|-<br>National teams<br>-<br>Nationalmixed teams<br>-<br>Regional<del>and club</del>teams<br><del>-</del><br>Continental Confederation’s team<br>(excluding Grand Final)<br><del>-</del><br>UCI World Cycling Centre’s team<br>(Grand Final only)|
 |||1.1<br>2.1|- National teams<br>- Regional and club teams<br>- Mixed teams WJ 1<br>-Junior development teams|
 
-~~_(2) Only regional and club teams from the country of the organiser or border country and only if the national team of the country of the regional or club team is also taking part in the event._~~ 
+<del>_(2) Only regional and club teams from the country of the organiser or border country and only if the national team of the country of the regional or club team is also taking part in the event._</del> 
 
 _(text modified on 01.01.99; 01.01.05; 01.01.06; 01.10.06; 25.09.07; 01.01.08; 01.1.09; 01.07.09; 01.10.09; 01.10.10; 01.07.11; 01.07.12; 01.10.13; 01.01.14; 01.01.15; 01.01.16; 12.01.17; 01.02.17; 01.01.18; 23.10.19; 01.01.20; 09.11.20; 01.01.24; 01.07.24; 01.01.25; 20.10.25; 01.11.25; 01.01.26; 01.09.26)._ 
 
@@ -446,56 +446,56 @@ _(article introduced on 01.09.26)._
 
 _(article introduced on 01.09.26)._ 
 
-- ~~**§ 3 UCI Men Junior Nations’ Cup**~~ 
+- <del>**§ 3 UCI Men Junior Nations’ Cup**</del> 
 
-~~_(paragraph introduced on 01.01.08; a_~~ _brogated on 01.09.26)._ 
+<del>_(paragraph introduced on 01.01.08; a_</del> _brogated on 01.09.26)._ 
 
-## ~~**General**~~ 
+## <del>**General**</del> 
 
-- ~~**2.14.033** The UCI Men Junior Nations~~ ’ ~~Cup is the exclusive property of the UCI.~~ 
+- <del>**2.14.033** The UCI Men Junior Nations</del> ’ <del>Cup is the exclusive property of the UCI.</del> 
 
-- ~~**2.14.034** The UCI Men Junior Nations~~ ’ ~~Cup will consist of a number of one-day events and stage races determined each year by the UCI Management Committee. Points shall also be awarded for the road race of the UCI Men Junior Road World Championships in accordance with article 2.14.040.~~ 
+- <del>**2.14.034** The UCI Men Junior Nations</del> ’ <del>Cup will consist of a number of one-day events and stage races determined each year by the UCI Management Committee. Points shall also be awarded for the road race of the UCI Men Junior Road World Championships in accordance with article 2.14.040.</del> 
 
-~~_(text modified on 26.01.08; 22.10.18)._~~ 
+<del>_(text modified on 26.01.08; 22.10.18)._</del> 
 
-## ~~**Participation in the UCI Men Junior Nations’ Cup**~~ 
+## <del>**Participation in the UCI Men Junior Nations’ Cup**</del> 
 
-- ~~**2.14.035** The UCI Men Junior Nations~~ ’ ~~Cup is reserved for junior men riders.~~ 
+- <del>**2.14.035** The UCI Men Junior Nations</del> ’ <del>Cup is reserved for junior men riders.</del> 
 
-~~_(text modified on 26.01.08)._~~ 
+<del>_(text modified on 26.01.08)._</del> 
 
-- ~~**2.14.036** The events of the UCI Men Junior Nations~~ ’ ~~Cup are open to national teams and mixed teams.~~ 
+- <del>**2.14.036** The events of the UCI Men Junior Nations</del> ’ <del>Cup are open to national teams and mixed teams.</del> 
 
-- ~~**2.14.037** [article abrogated on 22.10.18].~~ 
+- <del>**2.14.037** [article abrogated on 22.10.18].</del> 
 
-- ~~**2.14.038** The organiser must send an invitation to the leading 25 National Federations in the final UCI Men Junior Nations~~ ’ ~~Cup ranking of the previous season.~~ 
+- <del>**2.14.038** The organiser must send an invitation to the leading 25 National Federations in the final UCI Men Junior Nations</del> ’ <del>Cup ranking of the previous season.</del> 
 
-~~The organiser must accept entries from nations that accept the invitation.~~ 
+<del>The organiser must accept entries from nations that accept the invitation.</del> 
 
-~~_(text modified on 01.01.08; 1.10.10; 22.10.18)._~~ 
+<del>_(text modified on 01.01.08; 1.10.10; 22.10.18)._</del> 
 
-- ~~**2.14.039** Events in the UCI Men Junior Nations~~ ’ ~~Cup are to be ridden by teams of maximum 6 riders. No team may start with fewer than 4 riders.~~ 
+- <del>**2.14.039** Events in the UCI Men Junior Nations</del> ’ <del>Cup are to be ridden by teams of maximum 6 riders. No team may start with fewer than 4 riders.</del> 
 
-## ~~**UCI Men Junior Nations’ Cup ranking**~~ 
+## <del>**UCI Men Junior Nations’ Cup ranking**</del> 
 
-- ~~**2.14.040** The points for the UCI Men Junior Nations~~ ’ ~~Cup count towards the individual ranking and a ranking by nations which cumulates the  individual points scored.~~ 
+- <del>**2.14.040** The points for the UCI Men Junior Nations</del> ’ <del>Cup count towards the individual ranking and a ranking by nations which cumulates the  individual points scored.</del> 
 
-~~For team time trial events and stages the points on the scale shall be awarded to the teams.~~ 
+<del>For team time trial events and stages the points on the scale shall be awarded to the teams.</del> 
 
-~~The awarding of points for stage races is in accordance with article 2.6.001 regarding the duration of the event.~~ 
+<del>The awarding of points for stage races is in accordance with article 2.6.001 regarding the duration of the event.</del> 
 
-~~_(text modified on 1.01.08; 1.07.11; 1.08.13; 1.01.17; 9.11.20; 20.10.25)_~~ 
+<del>_(text modified on 1.01.08; 1.07.11; 1.08.13; 1.01.17; 9.11.20; 20.10.25)_</del> 
 
-## ~~**Final results in UCI Men Junior Nation’s Cup stage races**~~ 
+## <del>**Final results in UCI Men Junior Nation’s Cup stage races**</del> 
 
-||~~Position~~||~~Stage races~~|
+||<del>Position</del>||<del>Stage races</del>|
 |---|---|---|---|
-||~~**1**~~||~~30~~|
-||~~**2**~~||~~25~~|
-||~~**3**~~||~~20~~|
-||~~**4**~~||~~17~~|
-||~~**5**~~||~~16~~|
-||~~**6**~~||~~15~~|
+||<del>**1**</del>||<del>30</del>|
+||<del>**2**</del>||<del>25</del>|
+||<del>**3**</del>||<del>20</del>|
+||<del>**4**</del>||<del>17</del>|
+||<del>**5**</del>||<del>16</del>|
+||<del>**6**</del>||<del>15</del>|
 
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0011-00.png)
 
@@ -503,65 +503,65 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-|~~**7**~~|~~14~~|
+|<del>**7**</del>|<del>14</del>|
 |---|---|
-|~~**8**~~|~~13~~|
-|~~**9**~~|~~12~~|
-|~~**10**~~|~~11~~|
-|~~**11**~~|~~10~~|
-|~~**12**~~|~~9~~|
-|~~**13**~~|~~8~~|
-|~~**14**~~|~~7~~|
-|~~**15**~~|~~6~~|
-|~~**16**~~|~~5~~|
-|~~**17**~~|~~4~~|
-|~~**18**~~|~~3~~|
-|~~**19**~~|~~2~~|
-|~~**20**~~|~~1~~|
+|<del>**8**</del>|<del>13</del>|
+|<del>**9**</del>|<del>12</del>|
+|<del>**10**</del>|<del>11</del>|
+|<del>**11**</del>|<del>10</del>|
+|<del>**12**</del>|<del>9</del>|
+|<del>**13**</del>|<del>8</del>|
+|<del>**14**</del>|<del>7</del>|
+|<del>**15**</del>|<del>6</del>|
+|<del>**16**</del>|<del>5</del>|
+|<del>**17**</del>|<del>4</del>|
+|<del>**18**</del>|<del>3</del>|
+|<del>**19**</del>|<del>2</del>|
+|<del>**20**</del>|<del>1</del>|
 
-## ~~**Results in prologue and stages**~~ 
+## <del>**Results in prologue and stages**</del> 
 
-|~~Position~~||~~Prologue and~~<br>~~stages~~|~~Prologue and~~<br>~~stages~~|
+|<del>Position</del>||<del>Prologue and</del><br><del>stages</del>|<del>Prologue and</del><br><del>stages</del>|
 |---|---|---|---|
-|~~**1**~~|||~~6~~|
-|~~**2**~~|||~~5~~|
-|~~**3**~~|||~~4~~|
-|~~**4**~~|||~~3~~|
-|~~**5**~~|||~~2~~|
-|~~**6**~~|||~~1~~|
+|<del>**1**</del>|||<del>6</del>|
+|<del>**2**</del>|||<del>5</del>|
+|<del>**3**</del>|||<del>4</del>|
+|<del>**4**</del>|||<del>3</del>|
+|<del>**5**</del>|||<del>2</del>|
+|<del>**6**</del>|||<del>1</del>|
 
-## ~~**Final results in UCI Men Junior Nation’s Cup one-day races**~~ 
+## <del>**Final results in UCI Men Junior Nation’s Cup one-day races**</del> 
 
-||~~Position~~||~~One-day races~~|
+||<del>Position</del>||<del>One-day races</del>|
 |---|---|---|---|
-||~~**1**~~||~~20~~|
-||~~**2**~~||~~17~~|
-||~~**3**~~||~~15~~|
-||~~**4**~~||~~13~~|
-||~~**5**~~||~~11~~|
-||~~**6**~~||~~10~~|
-||~~**7**~~||~~9~~|
-||~~**8**~~||~~8~~|
-||~~**9**~~||~~7~~|
-||~~**10**~~||~~6~~|
-||~~**11**~~||~~5~~|
-||~~**12**~~||~~4~~|
-||~~**13**~~||~~3~~|
-||~~**14**~~||~~2~~|
-||~~**15**~~||~~1~~|
+||<del>**1**</del>||<del>20</del>|
+||<del>**2**</del>||<del>17</del>|
+||<del>**3**</del>||<del>15</del>|
+||<del>**4**</del>||<del>13</del>|
+||<del>**5**</del>||<del>11</del>|
+||<del>**6**</del>||<del>10</del>|
+||<del>**7**</del>||<del>9</del>|
+||<del>**8**</del>||<del>8</del>|
+||<del>**9**</del>||<del>7</del>|
+||<del>**10**</del>||<del>6</del>|
+||<del>**11**</del>||<del>5</del>|
+||<del>**12**</del>||<del>4</del>|
+||<del>**13**</del>||<del>3</del>|
+||<del>**14**</del>||<del>2</del>|
+||<del>**15**</del>||<del>1</del>|
 
-## ~~**Final results in the Continental Championships**~~ 
+## <del>**Final results in the Continental Championships**</del> 
 
-||~~Position~~|||~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~||~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|
+||<del>Position</del>|||<del>European Continental</del><br><del>Championships</del>|<del>European Continental</del><br><del>Championships</del>|<del>European Continental</del><br><del>Championships</del>||<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||||~~Men Junior~~<br>~~Road Race~~|||~~Men Junior~~<br>~~Ind. Time Trial~~||~~Men Junior~~<br>~~Road Race~~||~~Men Junior Ind.~~<br>~~Time Trial~~||
+||||<del>Men Junior</del><br><del>Road Race</del>|||<del>Men Junior</del><br><del>Ind. Time Trial</del>||<del>Men Junior</del><br><del>Road Race</del>||<del>Men Junior Ind.</del><br><del>Time Trial</del>||
 |||||||||||||
-||~~**1**~~||~~10~~|||~~10~~||~~8~~|||~~8~~|
-||~~**2**~~||~~8~~|||~~8~~||~~5~~|||~~5~~|
-||~~**3**~~||~~6~~|||~~6~~||~~3~~|||~~3~~|
-||~~**4**~~||~~5~~|||~~5~~||~~1~~|||~~1~~|
-||~~**5**~~||~~4~~|||~~4~~||||||
-||~~**6**~~||~~3~~|||~~3~~||||||
+||<del>**1**</del>||<del>10</del>|||<del>10</del>||<del>8</del>|||<del>8</del>|
+||<del>**2**</del>||<del>8</del>|||<del>8</del>||<del>5</del>|||<del>5</del>|
+||<del>**3**</del>||<del>6</del>|||<del>6</del>||<del>3</del>|||<del>3</del>|
+||<del>**4**</del>||<del>5</del>|||<del>5</del>||<del>1</del>|||<del>1</del>|
+||<del>**5**</del>||<del>4</del>|||<del>4</del>||||||
+||<del>**6**</del>||<del>3</del>|||<del>3</del>||||||
 
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0012-00.png)
 
@@ -569,54 +569,54 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-||~~Position~~|||~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~||~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|
+||<del>Position</del>|||<del>European Continental</del><br><del>Championships</del>|<del>European Continental</del><br><del>Championships</del>|<del>European Continental</del><br><del>Championships</del>||<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||||~~Men Junior~~<br>~~Road Race~~|||~~Men Junior~~<br>~~Ind. Time Trial~~||~~Men Junior~~<br>~~Road Race~~||~~Men Junior Ind.~~<br>~~Time Trial~~||
+||||<del>Men Junior</del><br><del>Road Race</del>|||<del>Men Junior</del><br><del>Ind. Time Trial</del>||<del>Men Junior</del><br><del>Road Race</del>||<del>Men Junior Ind.</del><br><del>Time Trial</del>||
 |||||||||||||
-||~~**7**~~||~~2~~|||~~2~~||||||
-||~~**8**~~||~~1~~|||~~1~~||||||
+||<del>**7**</del>||<del>2</del>|||<del>2</del>||||||
+||<del>**8**</del>||<del>1</del>|||<del>1</del>||||||
 
-## ~~**Final results in the UCI Road World Championships**~~ 
+## <del>**Final results in the UCI Road World Championships**</del> 
 
-||~~Position~~|~~Position~~||~~UCI Road World~~|~~UCI Road World~~|~~Championships~~|~~Championships~~|
+||<del>Position</del>|<del>Position</del>||<del>UCI Road World</del>|<del>UCI Road World</del>|<del>Championships</del>|<del>Championships</del>|
 |---|---|---|---|---|---|---|---|
 |||||||||
-||||||~~Men Junior~~<br>~~Road Race~~||~~Men Junior~~<br>~~Ind. Time Trial~~|
-|||~~**1**~~|||~~20~~||~~20~~|
-|||~~**2**~~|||~~17~~||~~17~~|
-|||~~**3**~~|||~~15~~||~~15~~|
-|||~~**4**~~|||~~13~~||~~13~~|
-|||~~**5**~~|||~~11~~||~~11~~|
-|||~~**6**~~|||~~10~~||~~10~~|
-|||~~**7**~~|||~~9~~||~~9~~|
-|||~~**8**~~|||~~8~~||~~8~~|
-|||~~**9**~~|||~~7~~||~~7~~|
-|||~~**10**~~|||~~6~~||~~6~~|
-|||~~**11**~~|||~~5~~||~~5~~|
-|||~~**12**~~|||~~4~~||~~4~~|
-|||~~**13**~~|||~~3~~||~~3~~|
-|||~~**14**~~|||~~2~~||~~2~~|
-|||~~**15**~~|||~~1~~||~~1~~|
+||||||<del>Men Junior</del><br><del>Road Race</del>||<del>Men Junior</del><br><del>Ind. Time Trial</del>|
+|||<del>**1**</del>|||<del>20</del>||<del>20</del>|
+|||<del>**2**</del>|||<del>17</del>||<del>17</del>|
+|||<del>**3**</del>|||<del>15</del>||<del>15</del>|
+|||<del>**4**</del>|||<del>13</del>||<del>13</del>|
+|||<del>**5**</del>|||<del>11</del>||<del>11</del>|
+|||<del>**6**</del>|||<del>10</del>||<del>10</del>|
+|||<del>**7**</del>|||<del>9</del>||<del>9</del>|
+|||<del>**8**</del>|||<del>8</del>||<del>8</del>|
+|||<del>**9**</del>|||<del>7</del>||<del>7</del>|
+|||<del>**10**</del>|||<del>6</del>||<del>6</del>|
+|||<del>**11**</del>|||<del>5</del>||<del>5</del>|
+|||<del>**12**</del>|||<del>4</del>||<del>4</del>|
+|||<del>**13**</del>|||<del>3</del>||<del>3</del>|
+|||<del>**14**</del>|||<del>2</del>||<del>2</del>|
+|||<del>**15**</del>|||<del>1</del>||<del>1</del>|
 
-~~_(text modified on 1.01.08; 1.07.11; 1.08.13; 1.01.17; 9.11.20, 17.06.24)._~~ 
+<del>_(text modified on 1.01.08; 1.07.11; 1.08.13; 1.01.17; 9.11.20, 17.06.24)._</del> 
 
-- ~~**2.14.041** Only the national teams which participated in the event are included in the classification.~~ 
+- <del>**2.14.041** Only the national teams which participated in the event are included in the classification.</del> 
 
-   - ~~Only the first rider from each nation scores points based on his place in the event.~~ 
+   - <del>Only the first rider from each nation scores points based on his place in the event.</del> 
 
-~~_(text modified on 26.01.08; 25.10.17)._~~ 
+<del>_(text modified on 26.01.08; 25.10.17)._</del> 
 
-- ~~**2.14.042** Following each event, nations that are tied on points in the general classification shall be separated by the greatest number of 1[s][t] places, 2[nd] places, etc. considering only the places for which points are awarded.~~ 
+- <del>**2.14.042** Following each event, nations that are tied on points in the general classification shall be separated by the greatest number of 1[s][t] places, 2[nd] places, etc. considering only the places for which points are awarded.</del> 
 
-~~If there is still a tie, the best place in the most recent event shall decide the nations' rankings.~~ 
+<del>If there is still a tie, the best place in the most recent event shall decide the nations' rankings.</del> 
 
-~~Nations tied on points in the final classification shall be ranked on the basis of the largest number of 1[s][t] places, 2[nd] places, etc.~~ 
+<del>Nations tied on points in the final classification shall be ranked on the basis of the largest number of 1[s][t] places, 2[nd] places, etc.</del> 
 
-- ~~**2.14.043** For one-day events, the leading nation in the men junior nations cup classification shall appear on the podium for the official ceremony.~~ 
+- <del>**2.14.043** For one-day events, the leading nation in the men junior nations cup classification shall appear on the podium for the official ceremony.</del> 
 
-   - ~~For stage races, the nation leading the UCI Men Junior Nations~~ ’ ~~Cup ranking shall be presented on the start podium for each stage and the podium for the official ceremony after the final stage.~~ 
+   - <del>For stage races, the nation leading the UCI Men Junior Nations</del> ’ <del>Cup ranking shall be presented on the start podium for each stage and the podium for the official ceremony after the final stage.</del> 
 
-- ~~**2.14.044** The UCI shall award a distinctive mark to the riders of the nation which is leading the UCI Men Junior Nations~~ ’ ~~Cup classification and riders must wear~~ 
+- <del>**2.14.044** The UCI shall award a distinctive mark to the riders of the nation which is leading the UCI Men Junior Nations</del> ’ <del>Cup classification and riders must wear</del> 
 
 8 June 2026 
 
@@ -624,57 +624,57 @@ _(article introduced on 01.09.26)._
 
 ## MEMORANDUM 
 
-~~this emblem during podium ceremonies, according to the UCI~~ ’ ~~s instructions guidelines.~~ 
+<del>this emblem during podium ceremonies, according to the UCI</del> ’ <del>s instructions guidelines.</del> 
 
-~~_(text modified on 26.01.08; 1.01.17)._~~ 
+<del>_(text modified on 26.01.08; 1.01.17)._</del> 
 
-- ~~**2.14.045** The UCI shall award a trophy to the nation which wins the final classification of the UCI Men Junior Nations~~ ’ ~~Cup.~~ 
+- <del>**2.14.045** The UCI shall award a trophy to the nation which wins the final classification of the UCI Men Junior Nations</del> ’ <del>Cup.</del> 
 
-- ~~**2.14.046** The order of cars will be as follows:~~ 
+- <del>**2.14.046** The order of cars will be as follows:</del> 
 
-   - ~~First event of the year:~~ 
+   - <del>First event of the year:</del> 
 
-      ~~1. the car of the team which won the preceding UCI Men Junior Nations~~ ’ ~~Cup; for the first year of the competition, the car of the winner of the last UCI Men Junior Nations~~ ’ ~~Cup ranking for the preceding year;~~ 
+      <del>1. the car of the team which won the preceding UCI Men Junior Nations</del> ’ <del>Cup; for the first year of the competition, the car of the winner of the last UCI Men Junior Nations</del> ’ <del>Cup ranking for the preceding year;</del> 
 
-      ~~2. the cars of national teams represented at the sports directors~~ ’ ~~meeting;~~ 
+      <del>2. the cars of national teams represented at the sports directors</del> ’ <del>meeting;</del> 
 
-      ~~3. the cars of mixed teams, regional and club teams;~~ 
+      <del>3. the cars of mixed teams, regional and club teams;</del> 
 
-      ~~4. the cars of teams which failed to confirm their starting riders by the deadline set under article 1.2.090;~~ 
+      <del>4. the cars of teams which failed to confirm their starting riders by the deadline set under article 1.2.090;</del> 
 
-      ~~5. the cars of teams not represented at the sports directors~~ ’ ~~meeting.~~ 
+      <del>5. the cars of teams not represented at the sports directors</del> ’ <del>meeting.</del> 
 
-~~Within groups 2, 3, 4 and 5 the order is determined by drawing lots.~~ 
+<del>Within groups 2, 3, 4 and 5 the order is determined by drawing lots.</del> 
 
-~~The car of a team covered by point 1, 2 or 3, but which falls into the categories covered by points 4 or 5, will be in group 4 or 5 as appropriate.~~ 
+<del>The car of a team covered by point 1, 2 or 3, but which falls into the categories covered by points 4 or 5, will be in group 4 or 5 as appropriate.</del> 
 
-- ~~For the other events:~~ 
-
-   - ’ 
-
-   - ~~the cars of the teams represented at the sports directors meeting in the order of the UCI Men Junior Nations~~ ’ ~~Cup ranking, as established the day before the race;~~ 
+- <del>For the other events:</del> 
 
    - ’ 
 
-   - ~~the cars of the teams represented at the sports directors meeting which have not yet earned any points in the UCI Men Junior Nations~~ ’ ~~Cup ranking;~~ 
-
-   - ~~the cars of teams which failed to confirm their starting riders by the time limit set under article 1.2.090;~~ 
+   - <del>the cars of the teams represented at the sports directors meeting in the order of the UCI Men Junior Nations</del> ’ <del>Cup ranking, as established the day before the race;</del> 
 
    - ’ 
 
-   - ~~the cars of teams not represented at the sports directors meeting.~~ 
+   - <del>the cars of the teams represented at the sports directors meeting which have not yet earned any points in the UCI Men Junior Nations</del> ’ <del>Cup ranking;</del> 
 
-~~Within groups 2, 3 and 4 the order is determined by drawing lots.~~ 
+   - <del>the cars of teams which failed to confirm their starting riders by the time limit set under article 1.2.090;</del> 
 
-~~The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate.~~ 
+   - ’ 
 
-~~The rules above shall apply to the first stage of a stage race. The order of cars for subsequent stages shall be determined by the individual general classification by time.~~ 
+   - <del>the cars of teams not represented at the sports directors meeting.</del> 
 
-~~_(text modified on 1.01.08; 26.01.08, 1.01.23)._~~ 
+<del>Within groups 2, 3 and 4 the order is determined by drawing lots.</del> 
 
-~~**§ 4 UCI Women Junior Nations’ Cup**~~ 
+<del>The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate.</del> 
 
-~~_(paragraph introduced on 01.01.16; a_~~ _brogated on 01.07.26)._ 
+<del>The rules above shall apply to the first stage of a stage race. The order of cars for subsequent stages shall be determined by the individual general classification by time.</del> 
+
+<del>_(text modified on 1.01.08; 26.01.08, 1.01.23)._</del> 
+
+<del>**§ 4 UCI Women Junior Nations’ Cup**</del> 
+
+<del>_(paragraph introduced on 01.01.16; a_</del> _brogated on 01.07.26)._ 
 
 8 June 2026 
 
@@ -682,53 +682,53 @@ _(article introduced on 01.09.26)._
 
 ## MEMORANDUM 
 
-## ~~**General**~~ 
+## <del>**General**</del> 
 
-- ~~**2.14.047** The UCI Women Junior Nations~~ ’ ~~Cup is the exclusive property of the UCI.~~ 
+- <del>**2.14.047** The UCI Women Junior Nations</del> ’ <del>Cup is the exclusive property of the UCI.</del> 
 
-- ~~**2.14.048** The UCI Women Junior Nations~~ ’ ~~Cup will consist of a number of one-day events and stage races determined each year by the UCI Management Committee. Points shall also be awarded at the road race and individual time trial of the UCI Women Junior Road World Championships, in accordance with article 2.14.054.~~ 
+- <del>**2.14.048** The UCI Women Junior Nations</del> ’ <del>Cup will consist of a number of one-day events and stage races determined each year by the UCI Management Committee. Points shall also be awarded at the road race and individual time trial of the UCI Women Junior Road World Championships, in accordance with article 2.14.054.</del> 
 
-## ~~**Participation**~~ 
+## <del>**Participation**</del> 
 
-- ~~**2.14.049** The UCI Women Junior Nations~~ ’ ~~Cup is reserved for riders of the women junior category.~~ 
+- <del>**2.14.049** The UCI Women Junior Nations</del> ’ <del>Cup is reserved for riders of the women junior category.</del> 
 
-- ~~**2.14.050** The events of the UCI Women Junior Nations~~ ’ ~~Cup are open to national teams (one team maximum per nation), mixed teams as well as club and regional teams.~~ 
+- <del>**2.14.050** The events of the UCI Women Junior Nations</del> ’ <del>Cup are open to national teams (one team maximum per nation), mixed teams as well as club and regional teams.</del> 
 
-- ~~**2.14.051** The organiser must send an invitation to the leading 12 National Federations in the final UCI Women Junior Nations~~ ’ ~~Cup ranking of the previous season.~~ 
+- <del>**2.14.051** The organiser must send an invitation to the leading 12 National Federations in the final UCI Women Junior Nations</del> ’ <del>Cup ranking of the previous season.</del> 
 
-   - ~~The organiser must accept entries from nations which have accepted the invitation.~~ 
+   - <del>The organiser must accept entries from nations which have accepted the invitation.</del> 
 
-~~_(text modified on 22.10.18)._~~ 
+<del>_(text modified on 22.10.18)._</del> 
 
-- ~~**2.14.052** Events of the UCI Women Junior Nations~~ ’ ~~Cup are to be ridden by teams of maximum 6 riders. No team may start with fewer than 4 riders.~~ 
+- <del>**2.14.052** Events of the UCI Women Junior Nations</del> ’ <del>Cup are to be ridden by teams of maximum 6 riders. No team may start with fewer than 4 riders.</del> 
 
-## ~~**UCI Women Junior Nations’ Cup ranking**~~ 
+## <del>**UCI Women Junior Nations’ Cup ranking**</del> 
 
-- ~~**2.14.053** Only nations will be ranked in the UCI Women Junior Nations~~ ’ ~~Cup ranking. There is no individual ranking.~~ 
+- <del>**2.14.053** Only nations will be ranked in the UCI Women Junior Nations</del> ’ <del>Cup ranking. There is no individual ranking.</del> 
 
-~~Only the first rider from each nation scores points based on his place in the event.~~ 
+<del>Only the first rider from each nation scores points based on his place in the event.</del> 
 
-~~_(text modified on 1.01.17; 25.10.17)._~~ 
+<del>_(text modified on 1.01.17; 25.10.17)._</del> 
 
-## ~~**2.14.054  Points scale**~~ 
+## <del>**2.14.054  Points scale**</del> 
 
-- ~~For team time trial events and stages the points on the scale shall be awarded to the teams.~~ 
+- <del>For team time trial events and stages the points on the scale shall be awarded to the teams.</del> 
 
-~~The awarding of points for stage races is in accordance with article 2.6.001 regarding the duration of the event~~ 
+<del>The awarding of points for stage races is in accordance with article 2.6.001 regarding the duration of the event</del> 
 
-## ~~**Final results in UCI Women Junior Nation’s Cup stage races**~~ 
+## <del>**Final results in UCI Women Junior Nation’s Cup stage races**</del> 
 
-||~~Position~~||~~Stage races~~|
+||<del>Position</del>||<del>Stage races</del>|
 |---|---|---|---|
-||~~**1**~~||~~30~~|
-||~~**2**~~||~~25~~|
-||~~**3**~~||~~20~~|
-||~~**4**~~||~~17~~|
-||~~**5**~~||~~16~~|
-||~~**6**~~||~~15~~|
-||~~**7**~~||~~14~~|
-||~~**8**~~||~~13~~|
-||~~**9**~~||~~12~~|
+||<del>**1**</del>||<del>30</del>|
+||<del>**2**</del>||<del>25</del>|
+||<del>**3**</del>||<del>20</del>|
+||<del>**4**</del>||<del>17</del>|
+||<del>**5**</del>||<del>16</del>|
+||<del>**6**</del>||<del>15</del>|
+||<del>**7**</del>||<del>14</del>|
+||<del>**8**</del>||<del>13</del>|
+||<del>**9**</del>||<del>12</del>|
 
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0015-00.png)
 
@@ -736,65 +736,65 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-|~~**10**~~|~~11~~|
+|<del>**10**</del>|<del>11</del>|
 |---|---|
-|~~**11**~~|~~10~~|
-|~~**12**~~|~~9~~|
-|~~**13**~~|~~8~~|
-|~~**14**~~|~~7~~|
-|~~**15**~~|~~6~~|
-|~~**16**~~|~~5~~|
-|~~**17**~~|~~4~~|
-|~~**18**~~|~~3~~|
-|~~**19**~~|~~2~~|
-|~~**20**~~|~~1~~|
+|<del>**11**</del>|<del>10</del>|
+|<del>**12**</del>|<del>9</del>|
+|<del>**13**</del>|<del>8</del>|
+|<del>**14**</del>|<del>7</del>|
+|<del>**15**</del>|<del>6</del>|
+|<del>**16**</del>|<del>5</del>|
+|<del>**17**</del>|<del>4</del>|
+|<del>**18**</del>|<del>3</del>|
+|<del>**19**</del>|<del>2</del>|
+|<del>**20**</del>|<del>1</del>|
 
-## ~~**Results in prologue and stages**~~ 
+## <del>**Results in prologue and stages**</del> 
 
-||~~Position~~||~~Prologue and~~<br>~~stages~~|~~Prologue and~~<br>~~stages~~|
+||<del>Position</del>||<del>Prologue and</del><br><del>stages</del>|<del>Prologue and</del><br><del>stages</del>|
 |---|---|---|---|---|
-||~~**1**~~|||~~6~~|
-||~~**2**~~|||~~5~~|
-||~~**3**~~|||~~4~~|
-||~~**4**~~|||~~3~~|
-||~~**5**~~|||~~2~~|
-||~~**6**~~|||~~1~~|
+||<del>**1**</del>|||<del>6</del>|
+||<del>**2**</del>|||<del>5</del>|
+||<del>**3**</del>|||<del>4</del>|
+||<del>**4**</del>|||<del>3</del>|
+||<del>**5**</del>|||<del>2</del>|
+||<del>**6**</del>|||<del>1</del>|
 
-## ~~**Final results in UCI Women Junior Nation’s Cup one day races**~~ 
+## <del>**Final results in UCI Women Junior Nation’s Cup one day races**</del> 
 
 |||||
 |---|---|---|---|
-||~~Position~~||~~One-day races~~|
-||~~**1**~~||~~20~~|
-||~~**2**~~||~~17~~|
-||~~**3**~~||~~15~~|
-||~~**4**~~||~~13~~|
-||~~**5**~~||~~11~~|
-||~~**6**~~||~~10~~|
-||~~**7**~~||~~9~~|
-||~~**8**~~||~~8~~|
-||~~**9**~~||~~7~~|
-||~~**10**~~||~~6~~|
-||~~**11**~~||~~5~~|
-||~~**12**~~||~~4~~|
-||~~**13**~~||~~3~~|
-||~~**14**~~||~~2~~|
-||~~**15**~~||~~1~~|
+||<del>Position</del>||<del>One-day races</del>|
+||<del>**1**</del>||<del>20</del>|
+||<del>**2**</del>||<del>17</del>|
+||<del>**3**</del>||<del>15</del>|
+||<del>**4**</del>||<del>13</del>|
+||<del>**5**</del>||<del>11</del>|
+||<del>**6**</del>||<del>10</del>|
+||<del>**7**</del>||<del>9</del>|
+||<del>**8**</del>||<del>8</del>|
+||<del>**9**</del>||<del>7</del>|
+||<del>**10**</del>||<del>6</del>|
+||<del>**11**</del>||<del>5</del>|
+||<del>**12**</del>||<del>4</del>|
+||<del>**13**</del>||<del>3</del>|
+||<del>**14**</del>||<del>2</del>|
+||<del>**15**</del>||<del>1</del>|
 
-## ~~**Final results in the Continental Championships**~~ 
+## <del>**Final results in the Continental Championships**</del> 
 
-||~~Position~~||||~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~|||~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|
+||<del>Position</del>||||<del>European Continental</del><br><del>Championships</del>|<del>European Continental</del><br><del>Championships</del>|<del>European Continental</del><br><del>Championships</del>|||<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|<del>Asian, African, American and</del><br><del>Oceanian Championships</del>|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||~~Women Junior~~<br>~~Road Race~~||||~~Women Junior~~<br>~~Ind. Time Trial~~||~~Women Junior~~<br>~~Road Race~~|||~~Women Junior~~<br>~~Ind. Time Trial~~|
+||||<del>Women Junior</del><br><del>Road Race</del>||||<del>Women Junior</del><br><del>Ind. Time Trial</del>||<del>Women Junior</del><br><del>Road Race</del>|||<del>Women Junior</del><br><del>Ind. Time Trial</del>|
 ||||||||||||||
-||~~**1**~~|||~~10~~|||~~10~~|||~~8~~||~~8~~|
-||~~**2**~~|||~~8~~|||~~8~~|||~~5~~||~~5~~|
-||~~**3**~~|||~~6~~|||~~6~~|||~~3~~||~~3~~|
-||~~**4**~~|||~~5~~|||~~5~~|||~~1~~||~~1~~|
-||~~**5**~~|||~~4~~|||~~4~~||||||
-||~~**6**~~|||~~3~~|||~~3~~||||||
-||~~**7**~~|||~~2~~|||~~2~~||||||
-||~~**8**~~|||~~1~~|||~~1~~||||||
+||<del>**1**</del>|||<del>10</del>|||<del>10</del>|||<del>8</del>||<del>8</del>|
+||<del>**2**</del>|||<del>8</del>|||<del>8</del>|||<del>5</del>||<del>5</del>|
+||<del>**3**</del>|||<del>6</del>|||<del>6</del>|||<del>3</del>||<del>3</del>|
+||<del>**4**</del>|||<del>5</del>|||<del>5</del>|||<del>1</del>||<del>1</del>|
+||<del>**5**</del>|||<del>4</del>|||<del>4</del>||||||
+||<del>**6**</del>|||<del>3</del>|||<del>3</del>||||||
+||<del>**7**</del>|||<del>2</del>|||<del>2</del>||||||
+||<del>**8**</del>|||<del>1</del>|||<del>1</del>||||||
 
 8 June 2026 
 
@@ -802,48 +802,48 @@ _(article introduced on 01.09.26)._
 
 ## MEMORANDUM 
 
-## ~~**Final results in the UCI Road World Championships**~~ 
+## <del>**Final results in the UCI Road World Championships**</del> 
 
-||~~Position~~|~~Position~~||~~UCI Road World Championships~~|~~UCI Road World Championships~~|~~UCI Road World Championships~~|~~UCI Road World Championships~~|
+||<del>Position</del>|<del>Position</del>||<del>UCI Road World Championships</del>|<del>UCI Road World Championships</del>|<del>UCI Road World Championships</del>|<del>UCI Road World Championships</del>|
 |---|---|---|---|---|---|---|---|
 |||||||||
-|||||~~Women Junior~~<br>~~Road Race~~|||~~Women Junior~~<br>~~Ind. Time Trial~~|
+|||||<del>Women Junior</del><br><del>Road Race</del>|||<del>Women Junior</del><br><del>Ind. Time Trial</del>|
 |||||||||
-|||~~**1**~~|||~~20~~||~~20~~|
-|||~~**2**~~|||~~17~~||~~17~~|
-|||~~**3**~~|||~~15~~||~~15~~|
-|||~~**4**~~|||~~13~~||~~13~~|
-|||~~**5**~~|||~~11~~||~~11~~|
-|||~~**6**~~|||~~10~~||~~10~~|
-|||~~**7**~~|||~~9~~||~~9~~|
-|||~~**8**~~|||~~8~~||~~8~~|
-|||~~**9**~~|||~~7~~||~~7~~|
-|||~~**10**~~|||~~6~~||~~6~~|
-|||~~**11**~~|||~~5~~||~~5~~|
-|||~~**12**~~|||~~4~~||~~4~~|
-|||~~**13**~~|||~~3~~||~~3~~|
-|||~~**14**~~|||~~2~~||~~2~~|
-|||~~**15**~~|||~~1~~||~~1~~|
+|||<del>**1**</del>|||<del>20</del>||<del>20</del>|
+|||<del>**2**</del>|||<del>17</del>||<del>17</del>|
+|||<del>**3**</del>|||<del>15</del>||<del>15</del>|
+|||<del>**4**</del>|||<del>13</del>||<del>13</del>|
+|||<del>**5**</del>|||<del>11</del>||<del>11</del>|
+|||<del>**6**</del>|||<del>10</del>||<del>10</del>|
+|||<del>**7**</del>|||<del>9</del>||<del>9</del>|
+|||<del>**8**</del>|||<del>8</del>||<del>8</del>|
+|||<del>**9**</del>|||<del>7</del>||<del>7</del>|
+|||<del>**10**</del>|||<del>6</del>||<del>6</del>|
+|||<del>**11**</del>|||<del>5</del>||<del>5</del>|
+|||<del>**12**</del>|||<del>4</del>||<del>4</del>|
+|||<del>**13**</del>|||<del>3</del>||<del>3</del>|
+|||<del>**14**</del>|||<del>2</del>||<del>2</del>|
+|||<del>**15**</del>|||<del>1</del>||<del>1</del>|
 
-~~_(text modified on 9.11.20, 17.06.24)._~~ 
+<del>_(text modified on 9.11.20, 17.06.24)._</del> 
 
-## ~~**Separating tied nations**~~ 
+## <del>**Separating tied nations**</del> 
 
-- ~~**2.14.055** Following each event, nations that are tied on points in the general ranking shall be separated by the greatest number of 1[st] places, 2[n][d] places, etc. considering only the places for which points are awarded.~~ 
+- <del>**2.14.055** Following each event, nations that are tied on points in the general ranking shall be separated by the greatest number of 1[st] places, 2[n][d] places, etc. considering only the places for which points are awarded.</del> 
 
-~~If there is still a tie, the best place in the most recent event shall decide the nations' rankings.~~ 
+<del>If there is still a tie, the best place in the most recent event shall decide the nations' rankings.</del> 
 
-~~Nations tied on points in the final ranking shall be ranked on the basis of the largest number of 1[s][t] places, 2[nd] places, etc.~~ 
+<del>Nations tied on points in the final ranking shall be ranked on the basis of the largest number of 1[s][t] places, 2[nd] places, etc.</del> 
 
-- ~~**2.14.056** For one-day events, the leading nation in the UCI Women Junior Nations~~ ’ ~~Cup ranking shall appear on the podium for the official ceremony.~~ 
+- <del>**2.14.056** For one-day events, the leading nation in the UCI Women Junior Nations</del> ’ <del>Cup ranking shall appear on the podium for the official ceremony.</del> 
 
-~~For stage races, the nation leading the UCI Women Junior Nations~~ ’ ~~Cup ranking shall be presented on the start podium for each stage and on the finish podium for the official ceremony after the final stage.~~ 
+<del>For stage races, the nation leading the UCI Women Junior Nations</del> ’ <del>Cup ranking shall be presented on the start podium for each stage and on the finish podium for the official ceremony after the final stage.</del> 
 
-- ~~**2.14.057** The UCI shall award a distinctive mark to the riders of the nation which is leading the UCI Women Junior Nations~~ ’ ~~Cup ranking and riders must wear this emblem during podium ceremonies, according to the UCI~~ ’ ~~s instructions guidelines.~~ 
+- <del>**2.14.057** The UCI shall award a distinctive mark to the riders of the nation which is leading the UCI Women Junior Nations</del> ’ <del>Cup ranking and riders must wear this emblem during podium ceremonies, according to the UCI</del> ’ <del>s instructions guidelines.</del> 
 
-~~_(text modified on 1.01.17)_~~ 
+<del>_(text modified on 1.01.17)_</del> 
 
-- ~~**2.14.058** The UCI shall award a trophy to the nation which wins the final ranking of the UCI Women Junior Nations~~ ’ ~~Cup.~~ 
+- <del>**2.14.058** The UCI shall award a trophy to the nation which wins the final ranking of the UCI Women Junior Nations</del> ’ <del>Cup.</del> 
 
 8 June 2026 
 
@@ -851,36 +851,36 @@ _(article introduced on 01.09.26)._
 
 ## MEMORANDUM 
 
-- ~~**2.14.059** The order of team cars in the race will be determined as follows:~~ 
+- <del>**2.14.059** The order of team cars in the race will be determined as follows:</del> 
 
-   - ~~First event of the year:~~ 
+   - <del>First event of the year:</del> 
 
-      ~~1. the car of the team which won the preceding UCI Women Junior Nations~~ ’ ~~Cup (for the first year of the competition, the car of the winner of the last UCI Women Junior Nations~~ ’ ~~Cup ranking for the preceding year);~~ 
+      <del>1. the car of the team which won the preceding UCI Women Junior Nations</del> ’ <del>Cup (for the first year of the competition, the car of the winner of the last UCI Women Junior Nations</del> ’ <del>Cup ranking for the preceding year);</del> 
 
-      ~~2. the cars of national teams represented at the sports directors~~ ’ ~~meeting;~~ 
+      <del>2. the cars of national teams represented at the sports directors</del> ’ <del>meeting;</del> 
 
-      ~~3. the cars of mixed teams, regional and club teams;~~ 
+      <del>3. the cars of mixed teams, regional and club teams;</del> 
 
-      ~~4. the cars of teams which failed to confirm their starting riders by the deadline set under article 1.2.090;~~ 
+      <del>4. the cars of teams which failed to confirm their starting riders by the deadline set under article 1.2.090;</del> 
 
-      ~~5. the cars of teams not represented at the sports directors~~ ’ ~~meeting.~~ 
+      <del>5. the cars of teams not represented at the sports directors</del> ’ <del>meeting.</del> 
 
-~~Within groups 2, 3, 4 and 5 the order is determined by drawing lots.~~ 
+<del>Within groups 2, 3, 4 and 5 the order is determined by drawing lots.</del> 
 
-~~The car of a team covered by point 1, 2 or 3, but which falls into the categories covered by points 4 or 5, will be in group 4 or 5 as appropriate.~~ 
+<del>The car of a team covered by point 1, 2 or 3, but which falls into the categories covered by points 4 or 5, will be in group 4 or 5 as appropriate.</del> 
 
-- ~~For the other events:~~ 
+- <del>For the other events:</del> 
 
-   ~~1. the cars of the teams represented at the sports directors~~ ’ ~~meeting in the order of the UCI Women Junior Nations~~ ’ ~~Cup ranking, as established the day before the race;~~ 
+   <del>1. the cars of the teams represented at the sports directors</del> ’ <del>meeting in the order of the UCI Women Junior Nations</del> ’ <del>Cup ranking, as established the day before the race;</del> 
 
-   ~~2. the cars of the teams represented at the sports directors~~ ’ ~~meeting which have not yet earned any points in the UCI Women Junior Nations~~ ’ ~~Cup ranking;~~ 
+   <del>2. the cars of the teams represented at the sports directors</del> ’ <del>meeting which have not yet earned any points in the UCI Women Junior Nations</del> ’ <del>Cup ranking;</del> 
 
-   ~~3. the cars of teams which failed to confirm their starting riders by the time limit set under article 1.2.090;~~ 
+   <del>3. the cars of teams which failed to confirm their starting riders by the time limit set under article 1.2.090;</del> 
 
-   ~~4. the cars of teams not represented at the sports directors~~ ’ ~~meeting.~~ 
+   <del>4. the cars of teams not represented at the sports directors</del> ’ <del>meeting.</del> 
 
-~~Within groups 2, 3 and 4 the order is determined by drawing lots.~~ 
+<del>Within groups 2, 3 and 4 the order is determined by drawing lots.</del> 
 
-~~The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate.~~ 
+<del>The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate.</del> 
 
-~~The rules above shall apply to the first stage of a stage race. The order of team cars for subsequent stages shall be determined by the individual general classification by time.~~
+<del>The rules above shall apply to the first stage of a stage race. The order of team cars for subsequent stages shall be determined by the individual general classification by time.</del>

@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/En4oKXhwchOolBgpYQ5GV/45e5
 source_sha256: 4fce5e8556d1ca7d6d47eb3c00983e818e71ccf787c97d8dbc52249eb6cb7389
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 
 
@@ -511,7 +511,7 @@ _(text modified on 01.01.05; 01.02.12; 01.11.14; 01.01.23; 01.04.24; 01.01.2026)
 
 ## **Fixed time trial extension handlebar** 
 
-- **1.3.023** For road time trials and for track individual pursuit, team pursuit and Kilometre ~~/500m~~ time trial, a fixed time trial extension handlebar (consisting of 2 extensions with sections for each hand to hold and two forearm supports) may be used. 
+- **1.3.023** For road time trials and for track individual pursuit, team pursuit and Kilometre <del>/500m</del> time trial, a fixed time trial extension handlebar (consisting of 2 extensions with sections for each hand to hold and two forearm supports) may be used. 
 
 ## _Position and measurements_ 
 
@@ -593,7 +593,7 @@ All fixed time trial extension handlebars and forearm supports must conform to t
 
 18 
 
-- Forearm supports must be made up of two parts (one part for each forearm) and are only allowed if fixed time trial extension ~~s~~ handlebars are added; 
+- Forearm supports must be made up of two parts (one part for each forearm) and are only allowed if fixed time trial extension <del>s</del> handlebars are added; 
 
 - The maximum width of each forearm support is 125 mm; 
 
@@ -765,11 +765,11 @@ _(text modified on 05.05.03; 01.01.04; 01.08.04; 01.01.05; 01.02.07; 01.07.11; 0
 
 - team: 10,000 
 
-## ~~7. National champion~~ ’ ~~s jersey~~ 
+## <del>7. National champion</del> ’ <del>s jersey</del> 
 
-- ~~in breach of article 1.3.068, second paragraph:~~ 
+- <del>in breach of article 1.3.068, second paragraph:</del> 
 
-   - ~~rider: 200 to 10,000~~ 
+   - <del>rider: 200 to 10,000</del> 
 
 _The amounts of the fines set above are doubled in the event of an offence during a world championship._ 
 

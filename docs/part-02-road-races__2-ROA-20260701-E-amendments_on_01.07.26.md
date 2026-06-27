@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6VTlwWPZHAN3CMMv94Vm32/e80
 source_sha256: baa41818363219162dafc7b6403219df5598275e67708e2cd3988bf4c8853985
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 8 June 2026 
 
@@ -41,13 +41,13 @@ The organiser must invite the best UCI ProTeams on UCI World Ranking by Teams, a
 
 > _**(2)** As a matter of exception to article 1.2.049, the UCI ProTeam shall confirm its participation or not to the organiser at the latest 70 days before the event. In the UCI ProTeam declines the invitation or fails to confirm its participation within the aforementioned deadline the organiser may issue an additional wild card._ 
 
-> _**(3)** The organiser of a Grand Tour must guarantee the participation in the race of at least one UCI WorldTeam or UCI ProTeam from the country of the organiser amongst the 2_ ~~_32_~~ _participating teams._ 
+> _**(3)** The organiser of a Grand Tour must guarantee the participation in the race of at least one UCI WorldTeam or UCI ProTeam from the country of the organiser amongst the 2_ <del>_32_</del> _participating teams._ 
 
-> _(4)_ ~~_For the 2024 season, only the 50 best-ranked teams on the UCI World ranking by_~~ 
+> _(4)_ <del>_For the 2024 season, only the 50 best-ranked teams on the UCI World ranking by_</del> 
 
-~~_teams of the 2023 season shall be entitled to receive a “wild-card” invitation from a Grand Tour organiser._~~ 
+<del>_teams of the 2023 season shall be entitled to receive a “wild-card” invitation from a Grand Tour organiser._</del> 
 
-~~_For the 2025 season, only the 40 best-ranked teams on the UCI World ranking by teams of the 2024 season shall be entitled to receive a “wild-card” invitation from a_~~ 
+<del>_For the 2025 season, only the 40 best-ranked teams on the UCI World ranking by teams of the 2024 season shall be entitled to receive a “wild-card” invitation from a_</del> 
 
 Page **1** / **21** 
 
@@ -61,7 +61,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## MEMORANDUM 
 
-## ~~_Grand Tour organiser._~~ 
+## <del>_Grand Tour organiser._</del> 
 
 _From the 2026 season onwards, only the 30 best ranked teams on the UCI World ranking by teams of the previous season shall be entitled to receive a “wild-card” invitation from a Grand Tour organiser._ 
 
@@ -165,7 +165,7 @@ The use of lightweight barriers (e.g. plastic) to cordon off the event route is 
 
 The event safety manager shall pay special attention to the final section of the race route and shall ensure that the safety requirements are observed. 
 
-~~and the final hundredth meters before the finish in particular and shall ensure that the safety conditions are observed~~. 
+<del>and the final hundredth meters before the finish in particular and shall ensure that the safety conditions are observed</del>. 
 
 The finishing straight should be as long as possible, at least 200 meters. This is especially important for events likely to finish in bunch sprints. 
 
@@ -245,7 +245,7 @@ _(numbering of the paragraph modified on 04.05.16)_
 
 ## (…) 
 
-- **2.2.040** Should ~~the exclusion occur~~ a driver and/or passenger(s) be excluded by the Commissaires’ Panel during a UCI WorldTour, a UCI Women’s WorldTour or a UCI ProSeries (ME or WE) event, ~~the driver (and/or passenger(s) if (also) excluded)~~ they shall ~~not be allowed to take part either in any event~~ be automatically suspended, within the meaning of article 12.3.013, until the ~~date~~ conclusion of the next event of the same series ~~but no longer than 7 calendar days, starting the day after the incident~~ or a duration of 7 days starting the day after the exclusion, whichever is the shorter. 
+- **2.2.040** Should <del>the exclusion occur</del> a driver and/or passenger(s) be excluded by the Commissaires’ Panel during a UCI WorldTour, a UCI Women’s WorldTour or a UCI ProSeries (ME or WE) event, <del>the driver (and/or passenger(s) if (also) excluded)</del> they shall <del>not be allowed to take part either in any event</del> be automatically suspended, within the meaning of article 12.3.013, until the <del>date</del> conclusion of the next event of the same series <del>but no longer than 7 calendar days, starting the day after the incident</del> or a duration of 7 days starting the day after the exclusion, whichever is the shorter. 
 
 _(text modified on 1.01.05; 4.05.16; 1.01.19; 23.10.19, 1.01.23; 01.07.26)._ 
 
@@ -267,13 +267,13 @@ _(numbering of the paragraph modified on 04.05.16)_
 
 ## **Information prior to the race** 
 
-- **2.2.049** The organisers shall, during the days preceding the event, provide the various press institutions with a maximum of information regarding their event: itinerary, list of riders participating, starting procedures, etc. They shall, in particular, provide all accredited persons with the lists of the riders entered for the event (at race headquarters by ~~fax and/or e~~ mail) and shall do so no later than Friday at noon for an event run over the week-end or no later than noon on the day preceding a race run during the week. 
+- **2.2.049** The organisers shall, during the days preceding the event, provide the various press institutions with a maximum of information regarding their event: itinerary, list of riders participating, starting procedures, etc. They shall, in particular, provide all accredited persons with the lists of the riders entered for the event (at race headquarters by <del>fax and/or e</del> mail) and shall do so no later than Friday at noon for an event run over the week-end or no later than noon on the day preceding a race run during the week. 
 
 _(text modified on 01.01.05; 01.07.26)._ 
 
 ## **Telecommunications** 
 
-- **2.2.080** The organisers shall make available to press personnel such means of transmission as they require (telephone, ~~fax,~~ Internet). The press shall make their requirements known on the accreditation request form. 
+- **2.2.080** The organisers shall make available to press personnel such means of transmission as they require (telephone, <del>fax,</del> Internet). The press shall make their requirements known on the accreditation request form. 
 
 _(text modified on 01.01.05; 01.07.26)._ 
 
@@ -281,7 +281,7 @@ _(text modified on 01.01.05; 01.07.26)._
 
 **(…)** 
 
-Transmission media required: - Telephone yes/no ~~- Fax yes/no~~ - Internet access point yes/no Firm – Publication – Agency seal: 
+Transmission media required: - Telephone yes/no <del>- Fax yes/no</del> - Internet access point yes/no Firm – Publication – Agency seal: 
 
 _(text modified on 01.01.05; 04.05.16; 01.07.26)._ 
 
@@ -353,9 +353,9 @@ The duration of new events of classes 1 and 2 is limited to 6 days, unless an ex
 
 ## MEMORANDUM 
 
-## **Junior events** ~~**men's and women's**~~ **world circuits** 
+## **Junior events** <del>**men's and women's**</del> **world circuits** 
 
-The duration of new events is limited to ~~4~~ 5 days, unless an exemption is made by the UCI Management Committee. 
+The duration of new events is limited to <del>4</del> 5 days, unless an exemption is made by the UCI Management Committee. 
 
 _(text modified on 01.01.05; 01.01.08; 01.01.09; 01.07.12; 01.10.13; 01.01.15; 01.07.18; 01.01.20; 01.07.26)_ 
 
@@ -365,11 +365,11 @@ _(numbering of the articles modified on 01.01.05; articles 2.6.003 bis and 2.6.0
 
 ## **UCI WorldTour and UCI Women’s WorldTour events** 
 
-1. the cars of teams represented at the sports directors’ meeting and having confirmed their starters within the time limits set out in article 1.2.090, in the order of the ranking of starting riders on the last Men’s individual UCI World ~~men individual~~ ranking (for UCI WorldTour events) or Women’s individual UCI World ~~UCI Women~~ ’ ~~s WorldTour individual~~ rankin ~~g*~~ (for UCI Women’s WorldTour events); 
+1. the cars of teams represented at the sports directors’ meeting and having confirmed their starters within the time limits set out in article 1.2.090, in the order of the ranking of starting riders on the last Men’s individual UCI World <del>men individual</del> ranking (for UCI WorldTour events) or Women’s individual UCI World <del>UCI Women</del> ’ <del>s WorldTour individual</del> rankin <del>g*</del> (for UCI Women’s WorldTour events); 
 
-2. the cars of UCI WorldTeams or UCI Women’s WorldTeams represented at the sports directors’ meeting and having confirmed their starters within the time limits and whose starting riders have not yet earned points in the men’s individual UCI World ~~individual r~~ anking or in the Women’s Individual UCI ~~World Women~~ ’ ~~s UCI Women~~ ’ ~~s WorldTour individual~~ ranking; 
+2. the cars of UCI WorldTeams or UCI Women’s WorldTeams represented at the sports directors’ meeting and having confirmed their starters within the time limits and whose starting riders have not yet earned points in the men’s individual UCI World <del>individual r</del> anking or in the Women’s Individual UCI <del>World Women</del> ’ <del>s UCI Women</del> ’ <del>s WorldTour individual</del> ranking; 
 
-3. the cars of other teams represented at the sports directors’ meeting which confirmed their starters within the time set and whose starting riders have not yet earned points in the Men’s individual UCI worl ~~d individual~~ ranking or in the Women’s Individual UCI World ~~UCI Women~~ ’ ~~s WorldTour individual~~ ranking; 
+3. the cars of other teams represented at the sports directors’ meeting which confirmed their starters within the time set and whose starting riders have not yet earned points in the Men’s individual UCI worl <del>d individual</del> ranking or in the Women’s Individual UCI World <del>UCI Women</del> ’ <del>s WorldTour individual</del> ranking; 
 
 4. the cars of teams represented at the sports directors’ meeting which failed to confirm their starters within the time set; 
 
@@ -395,7 +395,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 commissaires’ panel; any change shall be communicated to all followers through “radio-tour”. 
 
-~~* For the first UCI Women~~ ’ ~~s WorldTour event of the season, the UCI Women~~ ’ ~~s WorldTour individual ranking not having been established yet, the final ranking of the previous season will be used.~~ 
+<del>* For the first UCI Women</del> ’ <del>s WorldTour event of the season, the UCI Women</del> ’ <del>s WorldTour individual ranking not having been established yet, the final ranking of the previous season will be used.</del> 
 
 ## **Other events** 
 
@@ -417,7 +417,7 @@ _(text modified on 03.06.16; 01.01.19; 01.11.21; 01.07.26)._
 
 ## **Reporting results** 
 
-- **2.6.035** (N) The organiser must distribute the results to teams at the finish or, failing that, send them by ~~fax~~ email as soon as possible. 
+- **2.6.035** (N) The organiser must distribute the results to teams at the finish or, failing that, send them by <del>fax</del> email as soon as possible. 
 
 _(text modified on 01.01.99; 01.01.05; 01.07.26)._ 
 
@@ -613,7 +613,7 @@ The bank,
 
 - b. Full address to which any call on the guarantee can be sent; 
 
-- c. Telephone ~~and fax~~ numbers of the department of the bank which handles the calling up of the guarantee; 
+- c. Telephone <del>and fax</del> numbers of the department of the bank which handles the calling up of the guarantee; 
 
 - d. E-mail address. 
 

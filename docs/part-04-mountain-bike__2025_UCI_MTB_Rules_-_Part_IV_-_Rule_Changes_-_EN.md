@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/42H9bdLhZapXY8bU7Y66xJ/c5c
 source_sha256: d517b5e19bc546785b16058d545d811f490b44fa2f870b85a40ff2279578411b
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0001-00.png)
 
@@ -24,7 +24,7 @@ converter: pymupdf4llm
 
 Separate under 23 XCO UCI World Cup events are organised for men and women. The first 5 men under 23 and the first 5 women under 23 of the last UCI XCO individual ranking of the preceding year can decide whether they want to race the entire UCI World Cup season as elite or under 23. All other under 23 riders must race the UCI World Cup season in the under 23 category. 
 
-Separate under 23 XCO hors class and class 1 events may be organized for men and women, in this case separate results must be submitted for both categories. ~~If the under 23 events are organised on a different day from the elite events, under 23 riders my take part in both events.~~ During class 2 and class 3 XCO events under 23, men and women, will compete with the elite categories. As such no separate results must be submitted for the under 23 categories at class 2 and class 3 XCO events. 
+Separate under 23 XCO hors class and class 1 events may be organized for men and women, in this case separate results must be submitted for both categories. <del>If the under 23 events are organised on a different day from the elite events, under 23 riders my take part in both events.</del> During class 2 and class 3 XCO events under 23, men and women, will compete with the elite categories. As such no separate results must be submitted for the under 23 categories at class 2 and class 3 XCO events. 
 
 _(text modified on 1.10.13; 1.01.22; 1.01.25)_ 
 
@@ -32,7 +32,7 @@ _(text modified on 1.10.13; 1.01.22; 1.01.25)_
 
 **4.1.006** Except for the UCI World Championships, UCI World Cup and Continental Series, downhill events are open to all riders aged 17 or over. 
 
-At the UCI World Championships, ~~and a~~ t the UCI World Cup and at the Continental Series, separate junior events must be organized for men and women (aged 17 and 18). 
+At the UCI World Championships, <del>and a</del> t the UCI World Cup and at the Continental Series, separate junior events must be organized for men and women (aged 17 and 18). 
 
 For all other downhill events on the international calendar, the UCI points are awarded in relation to the riders’ time and not to their category. To ensure that this rule is correctly applied, only one combined result needs to be sent to the UCI. 
 
@@ -50,9 +50,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## Enduro - EDR 
 
-- **4.1.007** ~~Enduro events are open to all riders aged 17 or over. No separate results must be~~ 
+- **4.1.007** <del>Enduro events are open to all riders aged 17 or over. No separate results must be</del> 
 
-- **bis** ~~submitted for the juniors, under 23 or elite categories.~~ 
+- **bis** <del>submitted for the juniors, under 23 or elite categories.</del> 
 
 Except for the UCI World Championships and UCI World Cup, enduro events are open to all riders aged 17 or over. 
 
@@ -102,7 +102,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0003-00.png)
 
-   - No stage ~~r~~ ace, in HC or C1, may be organised during the Continental championships on the same day(s) as any cross-country (XC) race, on the concerned continent. 
+   - No stage <del>r</del> ace, in HC or C1, may be organised during the Continental championships on the same day(s) as any cross-country (XC) race, on the concerned continent. 
 
 - One-day races 
 
@@ -144,7 +144,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0004-00.png)
 
-Race entry fees for events on the international calendar are waived for any rider belonging to a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM. This applies only to the format in which the team has ~~elite~~ UCI MTB WORLD SERIES TEAM status and does not apply to stage races, eliminator and enduro events. _(text modified on 1.02.12; 1.10.13; 4.04.14; 1.01.16; 1.01.17; 1.01.19, 1.01.21; 1.01.22; 1.01.23; 1.01.24; 1.01.25)._ 
+Race entry fees for events on the international calendar are waived for any rider belonging to a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM. This applies only to the format in which the team has <del>elite</del> UCI MTB WORLD SERIES TEAM status and does not apply to stage races, eliminator and enduro events. _(text modified on 1.02.12; 1.10.13; 4.04.14; 1.01.16; 1.01.17; 1.01.19, 1.01.21; 1.01.22; 1.01.23; 1.01.24; 1.01.25)._ 
 
 ## **§ 4 Technical delegate** 
 
@@ -158,9 +158,9 @@ _(text modified on 1.01.25)_
 
 - **§ 7 Equipment** 
 
-- **4.1.041** ~~During~~ In the context of MTB races ~~no~~ riders registered for the event are not permitted to use an ~~E-Mountain Bike~~ EPAC, in the sense of article 1.3.010bis, on the course at any time during training ~~and~~ or competition. 
+- **4.1.041** <del>During</del> In the context of MTB races <del>no</del> riders registered for the event are not permitted to use an <del>E-Mountain Bike</del> EPAC, in the sense of article 1.3.010bis, on the course at any time during training <del>and</del> or competition. 
 
-~~E-Mountain Bikes~~ EPACs are exclusively allowed in training and competition at ~~the~~ E-Mountain Bike ~~competitions~~ events ~~as specified~~ pursuant to ~~in~~ Chapter VIII. _(article introduced on 1.01.18, text modified on 1.01.19; 1.01.20; 1.01.23; 1.01.25)._ 
+<del>E-Mountain Bikes</del> EPACs are exclusively allowed in training and competition at <del>the</del> E-Mountain Bike <del>competitions</del> events <del>as specified</del> pursuant to <del>in</del> Chapter VIII. _(article introduced on 1.01.18, text modified on 1.01.19; 1.01.20; 1.01.23; 1.01.25)._ 
 
 ## **§ 10 UCI International Elite Number System** 
 
@@ -208,7 +208,7 @@ _(text modified on 1.10.13; 4.04.14; 1.01.17; 1.01.23; 1.01.25)_
 
 For UCI World Cup events they must furthermore include the following four areas: 
 
-- one part for ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS; 
+- one part for <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS; 
 
 - one part for UCI MTB TEAMS; 
 
@@ -234,13 +234,13 @@ For the Olympic Games, UCI World Championships, UCI World Cup events and contine
 
 For the Olympic Games, UCI World Championships and continental championships, accreditations are issued by the commissaires' panel. 
 
-For UCI World Cup events season long accreditations issued to the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS and UCI MTB TEAMS by the UCI. For the national federations or individual riders passes are prepared by the organiser and handed out at registration: they obtain 1 accreditation per registered rider per zone. Note that for a double feed/technical assistance zone they only obtain 1 accreditation per registered rider. _(text modified on 1.01.20; 1.01.23; 1.01.24; 1.01.25)._ 
+For UCI World Cup events season long accreditations issued to the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS and UCI MTB TEAMS by the UCI. For the national federations or individual riders passes are prepared by the organiser and handed out at registration: they obtain 1 accreditation per registered rider per zone. Note that for a double feed/technical assistance zone they only obtain 1 accreditation per registered rider. _(text modified on 1.01.20; 1.01.23; 1.01.24; 1.01.25)._ 
 
 ## **§ 6 Technical assistance** 
 
 ## **4.2.049** 
 
-In addition to technical assistance in feed zones, technical assistance is permitted outside these zones only between riders who are members of the same ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM, UCI MTB TEAM or of the same national team. For the UCI World Championships, technical assistance is permitted only between riders of the same national team. 
+In addition to technical assistance in feed zones, technical assistance is permitted outside these zones only between riders who are members of the same <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM, UCI MTB TEAM or of the same national team. For the UCI World Championships, technical assistance is permitted only between riders of the same national team. 
 
 Riders may carry tools and spare parts provided that these do not involve any danger to the rider himself or the other competitors. _(text modified on 1.01.20; 1.01.23; 1.01.25)_ 
 
@@ -258,7 +258,7 @@ _(text modified on 1.01.25)_
 
 In stage races where there is a team general classification, there are only three types of teams that may compete for the classification: 
 
-− ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS 
+− <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS 
 
 - UCI MTB TEAMS 
 
@@ -284,9 +284,9 @@ _(text modified on 1.01.23; 1.01.25)._
 
 Downhill events are composed of: 
 
-A single run format for the final must be used. Prior thereto, there ~~This~~ shall be ~~involve~~ either: 
+A single run format for the final must be used. Prior thereto, there <del>This</del> shall be <del>involve</del> either: 
 
-- One or two ~~a~~ qualifying run(s), called the qualifying round(s) following which a predetermined number of riders set by the particular race regulations are admitted to a ~~semi-final or~~ final. The fastest rider of the final is declared the winner. 
+- One or two <del>a</del> qualifying run(s), called the qualifying round(s) following which a predetermined number of riders set by the particular race regulations are admitted to a <del>semi-final or</del> final. The fastest rider of the final is declared the winner. 
 
 - a seeding run that determines the start order for a single run in which the rider with the fastest time wins. 
 
@@ -331,7 +331,7 @@ At the discretion of the President of the Commissaires’ Panel, riders may be p
 
 ## **4.3.025** 
 
-The organiser must provide transport capable of carrying ~~100~~ 250 riders and their bikes per hour to the top of the course. _(text modified on 1.01.25)._ 
+The organiser must provide transport capable of carrying <del>100</del> 250 riders and their bikes per hour to the top of the course. _(text modified on 1.01.25)._ 
 
 ## **Chapter VI   PUMP TRACK** 
 
@@ -367,7 +367,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - **4.6.006** A competition consists of a free practice session, qualification and elimination heats. 
 
-At the start riders are positioned at least ~~10~~ 30 meters from the start/finish line and get ready with one foot on the ground. The distance between the starting point and start/finish line shall contain an adequate number of rollers and turns to gain maximum speed (without pedaling). The starting point should be a marked rectangular area, adequate to fit a bike in length and width (170 cm x 50 cm). Alternatively, a BMX type start gate may be used. If so, it should be used without the automated start procedure (no lights, nor sound) and still with one foot on the ground for the rider. The only start procedure notification should be a verbal “Riders Ready” from the starter. _(text modified on 1.01.21; 1.01.22; 1.01.25)_ 
+At the start riders are positioned at least <del>10</del> 30 meters from the start/finish line and get ready with one foot on the ground. The distance between the starting point and start/finish line shall contain an adequate number of rollers and turns to gain maximum speed (without pedaling). The starting point should be a marked rectangular area, adequate to fit a bike in length and width (170 cm x 50 cm). Alternatively, a BMX type start gate may be used. If so, it should be used without the automated start procedure (no lights, nor sound) and still with one foot on the ground for the rider. The only start procedure notification should be a verbal “Riders Ready” from the starter. _(text modified on 1.01.21; 1.01.22; 1.01.25)_ 
 
 ## Elimination heats 
 
@@ -579,19 +579,19 @@ _(text modified on 1.01.21; 1.01.25)._
 
 ## **§ 1 General** 
 
-~~The Events~~ Use of EPACs 
+<del>The Events</del> Use of EPACs 
 
 ## **4.8.001** 
 
-~~An E-Mountain Bike, is a bike operated with two energy sources, human pedal power and an electric engine, which only provides assistance when the rider is pedaling. Only~~ “ ~~Pedelec~~ ” ~~type of bikes are allowed in UCI event.~~ 
+<del>An E-Mountain Bike, is a bike operated with two energy sources, human pedal power and an electric engine, which only provides assistance when the rider is pedaling. Only</del> “ <del>Pedelec</del> ” <del>type of bikes are allowed in UCI event.</del> 
 
-Only EPACs, in the sense of article 1.3.010bis, are authorized for use in E- Mountain Bike events. ~~must be organised in accordance with the following bike standards:~~ 
+Only EPACs, in the sense of article 1.3.010bis, are authorized for use in E- Mountain Bike events. <del>must be organised in accordance with the following bike standards:</del> 
 
-~~Engine with a maximum continuous rated power of 250 watts~~ 
+<del>Engine with a maximum continuous rated power of 250 watts</del> 
 
-~~Engine assistance up to 25km/h~~ 
+<del>Engine assistance up to 25km/h</del> 
 
-~~Pedalling assistance only, although a start-up assistance not exceeding without pedalling is allowed~~ 
+<del>Pedalling assistance only, although a start-up assistance not exceeding without pedalling is allowed</del> 
 
 _(text modified on 1.01.25)_ 
 
@@ -607,15 +607,15 @@ Events format and characteristics
 
 **4.8.003** E-Mountain Bike events will be organised in the cross-country and Enduro formats and will be registered as Class 3 events. No UCI points will be awarded for E-Mountain Bike events. 
 
-The characteristics and formats of events, ~~bikes~~ specifications of EPACs, and ~~check~~ verification procedures ~~as well as the characteristics and format of each event~~ will be determined in the technical guide for each E-Mountain Bike event. The technical guide ~~officiates~~ serves as regulation ~~reference~~ for each specific event in such matter not governed by the UCI Regulations. _(text modified on 1.01.25)_ 
+The characteristics and formats of events, <del>bikes</del> specifications of EPACs, and <del>check</del> verification procedures <del>as well as the characteristics and format of each event</del> will be determined in the technical guide for each E-Mountain Bike event. The technical guide <del>officiates</del> serves as regulation <del>reference</del> for each specific event in such matter not governed by the UCI Regulations. _(text modified on 1.01.25)_ 
 
 Registration 
 
-- **4.8.004** The rider’s registration procedure is handled by the ~~UCI appointee~~ organizer of an E-Mountain Bike event. _(text modified on 1.01.25)_ 
+- **4.8.004** The rider’s registration procedure is handled by the <del>UCI appointee</del> organizer of an E-Mountain Bike event. _(text modified on 1.01.25)_ 
 
 Battery 
 
-- **4.8.005** Riders can only use the battery ~~in place~~ fitted on their bike at the start and cannot carry an additional battery during the competition. _(text modified on 1.01.25)_ 
+- **4.8.005** Riders can only use the battery <del>in place</del> fitted on their bike at the start and cannot carry an additional battery during the competition. _(text modified on 1.01.25)_ 
 
 ## **Chapter IX   UCI MOUNTAIN BIKE WORLD SERIES** 
 
@@ -629,7 +629,7 @@ The UCI Mountain Bike World Series is made up of the UCI World Cup in the race t
 
 - Downhill (see Chapter XI); 
 
-- ~~Marathon (see Chapter XII);~~ 
+- <del>Marathon (see Chapter XII);</del> 
 
 - Enduro (see Chapter XIII). 
 
@@ -639,7 +639,7 @@ _(text modified on 1.01.25)._
 
 ## Registration 
 
-**4.9.003** All riders must be registered using the ~~UCI~~ online registration system through a dedicated website provided by the UCI or its promoter, if any. ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS and UCI MTB TEAMS register their riders. National federations register the other riders who qualify under provisions on participation. 
+**4.9.003** All riders must be registered using the <del>UCI</del> online registration system through a dedicated website provided by the UCI or its promoter, if any. <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS and UCI MTB TEAMS register their riders. National federations register the other riders who qualify under provisions on participation. 
 
 A table showing the opening and closing dates for entries is published on the UCI website. 
 
@@ -653,7 +653,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0015-00.png)
 
-**4.9.005** Late entries from ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS, UCI MTB TEAMS, national federations and riders are refused unless authorised and subject to compliance with provisions for participation as well as payment of a fine of EUR 300. 
+**4.9.005** Late entries from <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS, UCI MTB TEAMS, national federations and riders are refused unless authorised and subject to compliance with provisions for participation as well as payment of a fine of EUR 300. 
 
 Late entries are entries handled after the on-line registration deadline and before the riders’ confirmation deadline. Passed the riders’ confirmation deadline late are not considered. 
 
@@ -667,7 +667,7 @@ Participation
 
 |**Category**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|
 |---|---|---|
-|XCO - men elite (aged 23 and over)<br>XCO - women elite (aged 23 and<br>over)|1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.<br>9.|UCI MTB WORLD SERIES TEAM, maximum 4 riders<br>per race and category<br>8 UCI MTB TEAM wildcards, maximum 4 riders per<br>race and category decided one month prior to the<br>event<br>Any rider ranked in the top 100 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>The national federations may enter a maximum of~~6 ~~3<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top five riders of any round of a Continental Series<br>limited to 1 round of the current UCI MTB World Cup<br>(Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Elite (from<br>2026)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, U23 (if<br>progressing into Elite category) (from 2026)<br>Current Olympic Champion, UCI World Champion,<br>Continental Champion, National Champions<br>~~Having obtained at least 60 UCI points in the UCI~~<br>~~XCO individual reference ranking (*).~~|
+|XCO - men elite (aged 23 and over)<br>XCO - women elite (aged 23 and<br>over)|1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.<br>9.|UCI MTB WORLD SERIES TEAM, maximum 4 riders<br>per race and category<br>8 UCI MTB TEAM wildcards, maximum 4 riders per<br>race and category decided one month prior to the<br>event<br>Any rider ranked in the top 100 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>The national federations may enter a maximum of<del>6 </del>3<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top five riders of any round of a Continental Series<br>limited to 1 round of the current UCI MTB World Cup<br>(Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Elite (from<br>2026)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, U23 (if<br>progressing into Elite category) (from 2026)<br>Current Olympic Champion, UCI World Champion,<br>Continental Champion, National Champions<br><del>Having obtained at least 60 UCI points in the UCI</del><br><del>XCO individual reference ranking (*).</del>|
 |XCO - men under 23 (aged from 19 to<br>22)<br>XCO - women under 23 (aged from 19<br>to 22)|1.<br>2.<br>3.|UCI MTB WORLD SERIES, maximum 4 riders per<br>race and category<br>8 UCI MTB TEAM wildcards, maximum 4 riders per<br>race and category decided one month prior to the<br>event<br>Any rider ranked in the top 200 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)|
 
 Page **15** / **54** 
@@ -678,20 +678,20 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0016-00.png)
 
-||||4.<br>5.<br>6.<br>7.<br>8.<br>~~9~~|The national federations may enter a maximum of~~6~~ 4<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top five riders of any round of a Continental Series,<br>limited to 1 round of the current UCI MTB World Cup<br>(Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, U23 (from<br>2026)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Junior (if<br>progressing into U23 category) (from 2026)<br>UCI World Champion, Continental Champion,<br>National Champions<br>~~Having obtained at least 80 UCI points in the UCI~~<br>~~XCO individual reference ranking (*)~~<br>~~The national federation of the organizing country may~~<br>~~register a supplementary team B of 6 maximum riders~~<br>~~(wearing national team clothing)~~<br>~~Riders belonging to a UCI ELITE MTB TEAM or a UCI~~<br>~~MTB TEAM~~|
+||||4.<br>5.<br>6.<br>7.<br>8.<br><del>9</del>|The national federations may enter a maximum of<del>6</del> 4<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top five riders of any round of a Continental Series,<br>limited to 1 round of the current UCI MTB World Cup<br>(Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, U23 (from<br>2026)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Junior (if<br>progressing into U23 category) (from 2026)<br>UCI World Champion, Continental Champion,<br>National Champions<br><del>Having obtained at least 80 UCI points in the UCI</del><br><del>XCO individual reference ranking (*)</del><br><del>The national federation of the organizing country may</del><br><del>register a supplementary team B of 6 maximum riders</del><br><del>(wearing national team clothing)</del><br><del>Riders belonging to a UCI ELITE MTB TEAM or a UCI</del><br><del>MTB TEAM</del>|
 |---|---|---|---|---|
-||||~~.~~<br>~~10~~||
-||||~~.~~<br>11.||
-||~~XCO - women under 23 (aged from 19~~<br>~~to 22)~~||~~1~~|~~Having obtained at least 20 UCI points in the UCI~~<br>~~XCO individual reference ranking (*)~~<br>~~The national federations may enter a maximum of 6~~<br>~~supplementary riders per category. These riders must~~<br>~~wear national team clothing.~~<br>~~The national federation of the organizing country may~~<br>~~register a supplementary team B of maximum 6 riders~~<br>~~(wearing national outfit required)~~<br>~~Riders belonging to a UCI ELITE MTB TEAM or a UCI~~<br>~~MTB TEAM~~|
-||||~~.~~<br>~~2~~||
-||||~~.~~<br>~~3~~||
-||||~~.~~<br>~~4~~||
-||||~~.~~||
+||||<del>.</del><br><del>10</del>||
+||||<del>.</del><br>11.||
+||<del>XCO - women under 23 (aged from 19</del><br><del>to 22)</del>||<del>1</del>|<del>Having obtained at least 20 UCI points in the UCI</del><br><del>XCO individual reference ranking (*)</del><br><del>The national federations may enter a maximum of 6</del><br><del>supplementary riders per category. These riders must</del><br><del>wear national team clothing.</del><br><del>The national federation of the organizing country may</del><br><del>register a supplementary team B of maximum 6 riders</del><br><del>(wearing national outfit required)</del><br><del>Riders belonging to a UCI ELITE MTB TEAM or a UCI</del><br><del>MTB TEAM</del>|
+||||<del>.</del><br><del>2</del>||
+||||<del>.</del><br><del>3</del>||
+||||<del>.</del><br><del>4</del>||
+||||<del>.</del>||
 ||XCC – men elite (aged 23 and over)<br>XCC – women elite (aged 23 and<br>over)<br>XCC – men under 23 (aged from 19 to<br>22)<br>XCC – women under 23 (aged from<br>19 to 22)|A maximum of 40 riders per gender already registered and<br>confirmed for the XCO event taking place during the same<br>weekend shall be allowed to start in the XCC event. The<br>riders shall be selected as per article 4.10.003 to reach a<br>total number of 40 riders per gender. No online<br>registration is required for the XCC event.<br>The same bike must be used for XCC and XCO. For XCC,<br>the minimum tyre width must be 45mm.|||
 
-~~(*)The date of such reference rankings is fixed and communicated by the UCI for each event of the UCI World Cup on the UCI website.~~ 
+<del>(*)The date of such reference rankings is fixed and communicated by the UCI for each event of the UCI World Cup on the UCI website.</del> 
 
-Riders registration can be done only by a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM, a UCI MTB TEAM or a national federation. 
+Riders registration can be done only by a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM, a UCI MTB TEAM or a national federation. 
 
 If a rider that confirmed his participation to the XCC event is not starting, he will not be allowed to start the XCO event on the same world cup round unless if the rider has been declared incapable of taking the start of the XCC event by the organiser’s chief medical officer or the team doctor. 
 
@@ -729,7 +729,7 @@ _(text modified on 1.01.25)._
 
 **4.10.002** Riders must display their handlebar numbers during training sessions and also their back number during the race. 
 
-A coach of a national team or a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM wishing the reconnoitre the course must request a handlebar number. The coach must also hold a valid licence and wear a helmet. 
+A coach of a national team or a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM wishing the reconnoitre the course must request a handlebar number. The coach must also hold a valid licence and wear a helmet. 
 
 _(text modified on 1.01.25)._ 
 
@@ -791,7 +791,7 @@ Riders with injury status shall be integrated in the start order in accordance w
 
 Riders with pregnancy status shall be integrated in the start order in accordance with article 4.10.012. 
 
-~~Teams and national federations who submitted a late registration which was approved by the UCI are allocated the next available highest race number, with the exception of the riders ranked in the top 16 (men elite, women elite, men under 23, women under 23) of the most recent UCI XCO World Cup standings for whom the race number is reserved (not applicable for the first UCI World Cup round of the season). However, they are called to the start line in the order specified earlier in this article~~ 
+<del>Teams and national federations who submitted a late registration which was approved by the UCI are allocated the next available highest race number, with the exception of the riders ranked in the top 16 (men elite, women elite, men under 23, women under 23) of the most recent UCI XCO World Cup standings for whom the race number is reserved (not applicable for the first UCI World Cup round of the season). However, they are called to the start line in the order specified earlier in this article</del> 
 
 _(text modified on 1.01.24; 1.01.25)_ 
 
@@ -801,7 +801,7 @@ _(text modified on 1.01.24; 1.01.25)_
 
 The following riders must attend: 
 
-- the first ~~five~~ three riders in the elite XCO events; 
+- the first <del>five</del> three riders in the elite XCO events; 
 
 - the first three riders in the elite XCC events; 
 
@@ -827,9 +827,9 @@ N.B - Bicycles cannot be taken onto the podium. However, an area is provided in 
 
 _(text modified on 1.01.25)._ 
 
-**4.10.009** A team standing is drawn up for each round of the UCI World cup. Only riders registered in a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM can score points for their team in accordance with the team standing table in article 4.10.010. 
+**4.10.009** A team standing is drawn up for each round of the UCI World cup. Only riders registered in a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM can score points for their team in accordance with the team standing table in article 4.10.010. 
 
-For cross-country, a mixed team classification ~~for men elite and a team classification for women elite~~ is drawn up. The team classification is drawn up by summing the total points (XCC and XCO) of the ~~3~~ 4 highest scoring riders of each team without making a distinction between men elite, men under 23, women elite and women under 23. Teams with only one or two or three riders scoring points are also included in the team classification. Tied teams will have their relative positions determined by their best ranked rider within the top 30 of the XCO event. Should there still be a tie, the order is determined by the best ranked rider within the top 30 of the XCC event. 
+For cross-country, a mixed team classification <del>for men elite and a team classification for women elite</del> is drawn up. The team classification is drawn up by summing the total points (XCC and XCO) of the <del>3</del> 4 highest scoring riders of each team without making a distinction between men elite, men under 23, women elite and women under 23. Teams with only one or two or three riders scoring points are also included in the team classification. Tied teams will have their relative positions determined by their best ranked rider within the top 30 of the XCO event. Should there still be a tie, the order is determined by the best ranked rider within the top 30 of the XCC event. 
 
 After each round of the UCI World Cup, the team standings is drawn up by adding the points won in the team classification per event. Ties are separated by the largest number of 1st places, 2nd places, etc. Should there still be a tie, the order is determined by the team classification for the most recent UCI World Cup round. 
 
@@ -1007,10 +1007,10 @@ Participation **4.11.001** UCI Downhill World Cup events are open to riders corr
 
 |**Category**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|
 |---|---|---|---|
-|DHI - men elite (aged 19 and over)<br>DHI - women elite (aged 19 and over)||1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.<br>~~9~~|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>8 UCI MTB TEAM wildcard, maximum 4 riders per<br>race and category decided one month prior to the<br>event<br>Any rider ranked in the top 50 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>The national federations may enter a maximum of 3<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>Top five riders of any round of a Continental<br>Series, limited to 1 round of the current UCI MTB<br>World Cup (Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Elite (from<br>2026)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Junior (if<br>progressing into Elite category) (from 2026)<br>Current UCI World Champion, Continental<br>Champion, National Champions<br>~~Having obtained at least 40 UCI points in the UCI~~<br>~~DHI individual reference ranking (*).~~<br>~~Riders belonging to a UCI ELITE MTB TEAM or a~~<br>~~UCI MTB TEAM~~|
-|||~~.~~<br>~~10~~||
-|||~~.~~||
-|DHI - men juniors (aged 17 and 18)<br>DHI – women juniors (aged 17 and 18)||1.<br>2.<br>3.<br>4.<br>5.<br>6.|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>8 UCI MTB TEAM wildcard, maximum 4 riders per<br>race and category decided one month prior to the<br>event<br>Any rider ranked in the top 100 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>The national federations may enter a maximum of~~6~~<br>4supplementary riders per category. These riders<br>must wear national team clothing.<br>Top five riders of any round of a Continental Series,<br>limited to 1 round of the current UCI MTB World Cup<br>(Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Junior (from<br>2026)|
+|DHI - men elite (aged 19 and over)<br>DHI - women elite (aged 19 and over)||1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.<br><del>9</del>|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>8 UCI MTB TEAM wildcard, maximum 4 riders per<br>race and category decided one month prior to the<br>event<br>Any rider ranked in the top 50 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>The national federations may enter a maximum of 3<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>Top five riders of any round of a Continental<br>Series, limited to 1 round of the current UCI MTB<br>World Cup (Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Elite (from<br>2026)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Junior (if<br>progressing into Elite category) (from 2026)<br>Current UCI World Champion, Continental<br>Champion, National Champions<br><del>Having obtained at least 40 UCI points in the UCI</del><br><del>DHI individual reference ranking (*).</del><br><del>Riders belonging to a UCI ELITE MTB TEAM or a</del><br><del>UCI MTB TEAM</del>|
+|||<del>.</del><br><del>10</del>||
+|||<del>.</del>||
+|DHI - men juniors (aged 17 and 18)<br>DHI – women juniors (aged 17 and 18)||1.<br>2.<br>3.<br>4.<br>5.<br>6.|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>8 UCI MTB TEAM wildcard, maximum 4 riders per<br>race and category decided one month prior to the<br>event<br>Any rider ranked in the top 100 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>The national federations may enter a maximum of<del>6</del><br>4supplementary riders per category. These riders<br>must wear national team clothing.<br>Top five riders of any round of a Continental Series,<br>limited to 1 round of the current UCI MTB World Cup<br>(Golden Ticket)<br>Top five riders from the final standings of any of the<br>Continental Series of the previous year, Junior (from<br>2026)|
 
 Page **23** / **54** 
 
@@ -1024,13 +1024,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    8. Current UCI World Champion 
 
-   ~~9. The national federation of the organising country may register a supplementary team B of maximum 6 riders (wearing national outfit required).~~ 
+   <del>9. The national federation of the organising country may register a supplementary team B of maximum 6 riders (wearing national outfit required).</del> 
 
-   ~~10. Riders belonging to a UCI ELITE MTB TEAM or a UCI MTB TEAM~~ 
+   <del>10. Riders belonging to a UCI ELITE MTB TEAM or a UCI MTB TEAM</del> 
 
-- ~~(*)The date of such reference rankings is fixed and communicated by the UCI for each event of the UCI World Cup on the UCI website.~~ 
+- <del>(*)The date of such reference rankings is fixed and communicated by the UCI for each event of the UCI World Cup on the UCI website.</del> 
 
-Riders registration can be done only by a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM, a UCI MTB TEAM or a national federation. 
+Riders registration can be done only by a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM, a UCI MTB TEAM or a national federation. 
 
 Criteria to award the 8 UCI MTB TEAM wildcards (as per point 2 of the participation criteria) per event will be based on the: 
 
@@ -1056,9 +1056,9 @@ Prior to making a decision, the UCI can request the production of information or
 
 _(text modified on 1.01.25)._ 
 
-## ~~Number allocation~~ 
+## <del>Number allocation</del> 
 
-- ~~**4.11.002** Race number allocation will be determined by the UCI appointee. Season long race numbers will be allocated to the top 10 men elite and top 5 women elite from the final standings of previous UCI World Cup season.~~ 
+- <del>**4.11.002** Race number allocation will be determined by the UCI appointee. Season long race numbers will be allocated to the top 10 men elite and top 5 women elite from the final standings of previous UCI World Cup season.</del> 
 
 _(article abrogated on 1.01.25)._ 
 
@@ -1066,7 +1066,7 @@ _(article abrogated on 1.01.25)._
 
 - A. men elite, women elite: 
 
-   1. riders ranked in the top ~~60~~ 20 men and the top ~~15~~ 10 women of the most recently published UCI World Cup standings (for the first event, as per the final world cup standings of the previous year), starting in reverse order. 
+   1. riders ranked in the top <del>60</del> 20 men and the top <del>15</del> 10 women of the most recently published UCI World Cup standings (for the first event, as per the final world cup standings of the previous year), starting in reverse order. 
 
    2. as per the most recently published UCI DHI individual ranking, starting in reverse order. 
 
@@ -1086,7 +1086,7 @@ Riders with pregnancy status shall be integrated in the start order in accordanc
 
 - B. men juniors, women juniors: 
 
-   1. riders ranked in the top ~~10~~ 20 men juniors and the top ~~3~~ 10 women juniors of the most recently published UCI World Cup standings (not applicable for the first UCI world cup round of the season), starting in reverse order. 
+   1. riders ranked in the top <del>10</del> 20 men juniors and the top <del>3</del> 10 women juniors of the most recently published UCI World Cup standings (not applicable for the first UCI world cup round of the season), starting in reverse order. 
 
    2. as per the most recently published UCI DHI individual ranking, starting in reverse order. 
 
@@ -1094,13 +1094,13 @@ Riders with pregnancy status shall be integrated in the start order in accordanc
 
 Riders with injury status shall be integrated in the start order in accordance with article 4.11.021. 
 
-~~Riders who submitted a late registration which was approved by the UCI are allocated the next available highest race number, with the exception of the riders ranked in the top 60 men elite, the top 15 women elite, the top 10 men juniors and the top 3 women juniors of the most recent UCI World Cup standings for whom the race number is reserved, plus season long race numbers that are reserved and will be called to the start line in the order specified earlier in this article.~~ 
+<del>Riders who submitted a late registration which was approved by the UCI are allocated the next available highest race number, with the exception of the riders ranked in the top 60 men elite, the top 15 women elite, the top 10 men juniors and the top 3 women juniors of the most recent UCI World Cup standings for whom the race number is reserved, plus season long race numbers that are reserved and will be called to the start line in the order specified earlier in this article.</del> 
 
 _(text modified on 1.01.24; 1.01.25)_ 
 
-**4.11.005** A transport system capable of carrying ~~150~~ 250 riders per hour up to the start line must be provided at all world cup venues. All loading and unloading of bicycles onto this transport system must be carried out by staff of the organisation. _(text modified on 1.01.25)._ 
+**4.11.005** A transport system capable of carrying <del>150</del> 250 riders per hour up to the start line must be provided at all world cup venues. All loading and unloading of bicycles onto this transport system must be carried out by staff of the organisation. _(text modified on 1.01.25)._ 
 
-**4.11.008** Riders who ~~train~~ ride on the course outside the specified training periods are disqualified from the event. 
+**4.11.008** Riders who <del>train</del> ride on the course outside the specified training periods are disqualified from the event. 
 
 The transport system closes 15 minutes before the end of the training times unless otherwise specified. A closing rider needs to be supplied by the organiser to clear the course between training sessions under the instructions of the president of the commissaires’ panel. 
 
@@ -1110,11 +1110,11 @@ _(text modified on 1.01.25)._
 
 **4.11.010** The downhill competition must include at minimum one qualifying round and a final. 
 
-The top ~~25~~ 20 men juniors and top 10 women juniors from the qualifying round qualify for the final. 
+The top <del>25</del> 20 men juniors and top 10 women juniors from the qualifying round qualify for the final. 
 
-The top ~~60~~ 20 men elite and top ~~15~~ 10 women elite from the qualifying round 1 qualify for the ~~semi-final~~ final. 
+The top <del>60</del> 20 men elite and top <del>15</del> 10 women elite from the qualifying round 1 qualify for the <del>semi-final</del> final. 
 
-The top ~~30~~ 10 men elite and top ~~10~~ 5 women elite from the ~~semi-finals~~ qualifying round 2 qualify for the final. 
+The top <del>30</del> 10 men elite and top <del>10</del> 5 women elite from the <del>semi-finals</del> qualifying round 2 qualify for the final. 
 
 Page **25** / **54** 
 
@@ -1124,39 +1124,39 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0026-00.png)
 
-If the final cannot take place due to unforeseen circumstances, the ~~last~~ first qualifying round to take place ~~, including semi-final as the case may be,~~ determines the final result. 
+If the final cannot take place due to unforeseen circumstances, the <del>last</del> first qualifying round to take place <del>, including semi-final as the case may be,</del> determines the final result. 
 
 _(text modified on 1.01.25)._ 
 
 - **4.11.012** Riders in the qualifying rounds must start at intervals of no less than 30 seconds. The intervals between the riders can be modified only by the president of the commissaires’ panel upon consultation with the UCI’s appointee. _(text modified on 1.01.25)._ 
 
-- **4.11.013** In the qualifying round ~~1, semi-final~~ and final round ~~s~~, riders are awarded UCI World Cup standing points as per the scale in article 4.11.020. However, in the last round of the UCI World Cup season, no standing points for the qualifying ~~or semi-final~~ round ~~s~~ will be given. The standing and UCI points will be awarded to the riders according to their position in the final only, as per points scale in article 4.11.020. 
+- **4.11.013** In the qualifying round <del>1, semi-final</del> and final round <del>s</del>, riders are awarded UCI World Cup standing points as per the scale in article 4.11.020. However, in the last round of the UCI World Cup season, no standing points for the qualifying <del>or semi-final</del> round <del>s</del> will be given. The standing and UCI points will be awarded to the riders according to their position in the final only, as per points scale in article 4.11.020. 
 
-UCI points will be awarded to the qualifying round ~~s~~ 1 and final as per annex 3. 
+UCI points will be awarded to the qualifying round <del>s</del> 1 and final as per annex 3. 
 
-No ~~UCI World Cup~~ points are awarded during the juniors qualifying rounds. _(text modified on 1.01.25)._ 
+No <del>UCI World Cup</del> points are awarded during the juniors qualifying rounds. _(text modified on 1.01.25)._ 
 
-- ~~**4.11.014**~~ 
+- <del>**4.11.014**</del> 
 
-~~Protected riders to the semi-final are:~~ 
+<del>Protected riders to the semi-final are:</del> 
 
-~~1. riders with season long race numbers (i.e. ranked in the top 5 women elite and the top 10 men elite of the final UCI World Cup standings of the previous season)~~ 
+<del>1. riders with season long race numbers (i.e. ranked in the top 5 women elite and the top 10 men elite of the final UCI World Cup standings of the previous season)</del> 
 
-~~2. the best ranked riders from the current UCI World Cup standings, that are not included in point 1 above, until a total of 10 women elite and 20 men elite are reached~~ 
+<del>2. the best ranked riders from the current UCI World Cup standings, that are not included in point 1 above, until a total of 10 women elite and 20 men elite are reached</del> 
 
-~~3. if any riders as described under 1. and 2. above do not confirm participation at an event they will not be replaced.~~ 
+<del>3. if any riders as described under 1. and 2. above do not confirm participation at an event they will not be replaced.</del> 
 
-~~Protected riders to the final are:~~ 
+<del>Protected riders to the final are:</del> 
 
-~~1. riders ranked in the top 3 women elite and top 3 men elite of the final UCI World Cup standings of the previous season~~ 
+<del>1. riders ranked in the top 3 women elite and top 3 men elite of the final UCI World Cup standings of the previous season</del> 
 
-~~2. the best ranked riders from the current UCI World Cup standings, that are not included in point 1 above, until a total of 5 women elite and 10 men elite are reached~~ 
+<del>2. the best ranked riders from the current UCI World Cup standings, that are not included in point 1 above, until a total of 5 women elite and 10 men elite are reached</del> 
 
-~~3. if any riders as described under 1. and 2. above do not confirm participation at an event they will not be replaced~~ 
+<del>3. if any riders as described under 1. and 2. above do not confirm participation at an event they will not be replaced</del> 
 
-~~4. men and women junior riders ranked in the top 3 of the current UCI World Cup standings. At the first UCI World Cup round of the season there will be no protected junior riders.~~ 
+<del>4. men and women junior riders ranked in the top 3 of the current UCI World Cup standings. At the first UCI World Cup round of the season there will be no protected junior riders.</del> 
 
-~~5. If a rider is announced as retired, he is not eligible anymore as protected rider. The announcement of the retired status shall be done in writing to the UCI before 31 December of the previous year.~~ 
+<del>5. If a rider is announced as retired, he is not eligible anymore as protected rider. The announcement of the retired status shall be done in writing to the UCI before 31 December of the previous year.</del> 
 
 Page **26** / **54** 
 
@@ -1166,23 +1166,23 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0027-00.png)
 
-~~For the first UCI World Cup round of the season, the top 10 women elite and the top 20 men elite of the final UCI World Cup standings of the previous season are~~ “ ~~protected~~ ” ~~for the semi-final.~~ 
+<del>For the first UCI World Cup round of the season, the top 10 women elite and the top 20 men elite of the final UCI World Cup standings of the previous season are</del> “ <del>protected</del> ” <del>for the semi-final.</del> 
 
-~~They must start in the qualifying round but qualify automatically for the semi-final in any case. If the times of the protected riders are not among the 15 best times for women elite or the 60 best times for men elite, they shall be allowed to ride in the semi-final in addition to the 15 women elite and 60 men elite riders already qualified.~~ 
+<del>They must start in the qualifying round but qualify automatically for the semi-final in any case. If the times of the protected riders are not among the 15 best times for women elite or the 60 best times for men elite, they shall be allowed to ride in the semi-final in addition to the 15 women elite and 60 men elite riders already qualified.</del> 
 
-~~For the first UCI World Cup round of the season, the top 5 women elite and the top 10 men elite of the final UCI World Cup standings of the previous season are~~ “ ~~protected~~ ” ~~for the final~~ 
+<del>For the first UCI World Cup round of the season, the top 5 women elite and the top 10 men elite of the final UCI World Cup standings of the previous season are</del> “ <del>protected</del> ” <del>for the final</del> 
 
-~~They must start in the semi-final round but qualify automatically for the final in any case. If the times of the protected riders are not among the 10 best times for women elite or the 30 best times for men elite, they shall be allowed to ride in the final in addition to the 10 women elite and 30 men elite riders already qualified~~ _(article abrogated on 1.01.25)._ 
+<del>They must start in the semi-final round but qualify automatically for the final in any case. If the times of the protected riders are not among the 10 best times for women elite or the 30 best times for men elite, they shall be allowed to ride in the final in addition to the 10 women elite and 30 men elite riders already qualified</del> _(article abrogated on 1.01.25)._ 
 
 ## **4.11.015** 
 
-The start order for the ~~semi-final, if applicable, and~~ final for elite will be determined on the basis of the reverse results of the ~~last~~ qualifying round 2 followed by the reverse results of the qualifying round 1. The start order for the final for junior will be determined on the basis of the reverse results of the qualifying round. ~~(the fastest rider starting last), except for the protected riders (defined in art. 4.11.014) and the fastest 5 men elite and 5 men junior and the fastest 2 women elite and 2 women junior non-protected riders, who will start as the last group of riders by order of the last qualifying result, reversed.~~ 
+The start order for the <del>semi-final, if applicable, and</del> final for elite will be determined on the basis of the reverse results of the <del>last</del> qualifying round 2 followed by the reverse results of the qualifying round 1. The start order for the final for junior will be determined on the basis of the reverse results of the qualifying round. <del>(the fastest rider starting last), except for the protected riders (defined in art. 4.11.014) and the fastest 5 men elite and 5 men junior and the fastest 2 women elite and 2 women junior non-protected riders, who will start as the last group of riders by order of the last qualifying result, reversed.</del> 
 
 _(text modified on 1.01.24; 1.01.25)_ 
 
 ## **4.11.016** 
 
-Riders in the ~~semi-final, if applicable, and~~ final must start at intervals of no less than one minute. The last 10 riders must start at intervals of at least 2 minutes. The intervals between the riders can be modified only by the president of the commissaires’ panel upon consultation with the UCI’s appointee. _(text modified on 1.01.25)._ 
+Riders in the <del>semi-final, if applicable, and</del> final must start at intervals of no less than one minute. The last 10 riders must start at intervals of at least 2 minutes. The intervals between the riders can be modified only by the president of the commissaires’ panel upon consultation with the UCI’s appointee. _(text modified on 1.01.25)._ 
 
 ## Official ceremony 
 
@@ -1192,7 +1192,7 @@ The official ceremony takes place immediately after each race. Riders arriving l
 
 ## The following riders must attend: 
 
-- the first ~~five~~ three riders in the elite events; 
+- the first <del>five</del> three riders in the elite events; 
 
 - the leader of the elite UCI World Cup standings after the event in question; 
 
@@ -1218,9 +1218,9 @@ _(text modified on 1.01.25)._
 
 ## **4.11.019** 
 
-A team standing is drawn up for each round of the UCI Downhill World Cup. Only riders registered in a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM can score points for their team in accordance with the team standing table in article 4.11.020. 
+A team standing is drawn up for each round of the UCI Downhill World Cup. Only riders registered in a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM can score points for their team in accordance with the team standing table in article 4.11.020. 
 
-For downhill, a mixed team classification is drawn up by summing the ~~3~~ 4 highest scored points of each team without making a distinction between men elite, men juniors, women elite and women juniors. Only the results of the finals are taken into account. Teams with only one, two or three riders scoring points are also included in the team classification. Tied teams will have their relative positions determined by their best placed rider. Should there still be a tie, the order is determined as follows: best placed men elite, best placed women elite, best placed men juniors, best placed women juniors. 
+For downhill, a mixed team classification is drawn up by summing the <del>3</del> 4 highest scored points of each team without making a distinction between men elite, men juniors, women elite and women juniors. Only the results of the finals are taken into account. Teams with only one, two or three riders scoring points are also included in the team classification. Tied teams will have their relative positions determined by their best placed rider. Should there still be a tie, the order is determined as follows: best placed men elite, best placed women elite, best placed men juniors, best placed women juniors. 
 
 After each round of the UCI World Cup, the team standings is drawn up by adding the points won in the team classification per event. Ties are separated by the largest number of 1st places, 2nd places, etc. Should there still be a tie, the order is determined by the team classification for the most recent UCI World Cup round. 
 
@@ -1230,21 +1230,21 @@ The riders of the team leading the team standings are given leaders’ handlebar
 
 - A. Downhill men and women elite 
 
-N.B. – In accordance with article 4.11.013, in the last round of the UCI World Cup season, no point for the qualifying round ~~and semi-final~~ will be given. 
+N.B. – In accordance with article 4.11.013, in the last round of the UCI World Cup season, no point for the qualifying round <del>and semi-final</del> will be given. 
 
-|**Position**|**Men elite**<br>**Qualifying**<br>**round1**<br>**points**|~~**Men**~~<br>~~**Elite**~~<br>~~**Semi-**~~<br>~~**Final**~~<br>~~**points**~~|**Men**<br>**Elite**<br>**Final**<br>**points**|**Women**<br>**elite**<br>**Qualifying**<br>**round1**<br>**points**|~~**Women**~~<br>~~**Elite**~~<br>~~**Semi-**~~<br>~~**Final**~~<br>~~**points**~~|**Women**<br>**Elite**<br>**Final**<br>**points**|
+|**Position**|**Men elite**<br>**Qualifying**<br>**round1**<br>**points**|<del>**Men**</del><br><del>**Elite**</del><br><del>**Semi-**</del><br><del>**Final**</del><br><del>**points**</del>|**Men**<br>**Elite**<br>**Final**<br>**points**|**Women**<br>**elite**<br>**Qualifying**<br>**round1**<br>**points**|<del>**Women**</del><br><del>**Elite**</del><br><del>**Semi-**</del><br><del>**Final**</del><br><del>**points**</del>|**Women**<br>**Elite**<br>**Final**<br>**points**|
 |---|---|---|---|---|---|---|
-|1|50|~~100~~|250|50|~~100~~|250|
-|2|40|~~80~~|210|40|~~80~~|210|
-|3|30|~~70~~|180|30|~~70~~|180|
-|4|25|~~65~~|160|25|~~60~~|150|
-|5|22|~~60~~|140|20|~~50~~|120|
-|6|20|~~58~~|125|16|~~40~~|90|
-|7|18|~~56~~|110|14|~~35~~|80|
-|8|17|~~54~~|95|12|~~30~~|70|
-|9|16|~~52~~|80|10|~~25~~|60|
-|10|15|~~50~~|75|5|~~20~~|50|
-|11|14|~~49~~|71|~~*5~~|~~18~~|48|
+|1|50|<del>100</del>|250|50|<del>100</del>|250|
+|2|40|<del>80</del>|210|40|<del>80</del>|210|
+|3|30|<del>70</del>|180|30|<del>70</del>|180|
+|4|25|<del>65</del>|160|25|<del>60</del>|150|
+|5|22|<del>60</del>|140|20|<del>50</del>|120|
+|6|20|<del>58</del>|125|16|<del>40</del>|90|
+|7|18|<del>56</del>|110|14|<del>35</del>|80|
+|8|17|<del>54</del>|95|12|<del>30</del>|70|
+|9|16|<del>52</del>|80|10|<del>25</del>|60|
+|10|15|<del>50</del>|75|5|<del>20</del>|50|
+|11|14|<del>49</del>|71|<del>*5</del>|<del>18</del>|48|
 
 Page **28** / **54** 
 
@@ -1254,49 +1254,49 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0029-00.png)
 
-|12|13|~~48~~|68||~~16~~|44|
+|12|13|<del>48</del>|68||<del>16</del>|44|
 |---|---|---|---|---|---|---|
-|13|12|~~47~~|65||~~14~~|40|
-|14|11|~~46~~|63||~~12~~|35|
-|15|10|~~45~~|60||~~10~~|30|
-|16|9|~~44~~|58||~~*10~~||
-|17|8|~~43~~|56||||
-|18|7|~~42~~|54||||
-|19|6|~~41~~|52||||
-|20|5|~~40~~|50||||
-|21||~~39~~|48||||
-|22||~~38~~|46||||
-|23||~~37~~|44||||
-|24||~~36~~|42||||
-|25||~~35~~|40||||
-|26||~~34~~|38||||
-|27||~~33~~|36||||
-|28||~~32~~|34||||
-|29||~~31~~|32||||
-|30||~~30~~|30||||
-|31||~~29~~|~~*30~~||||
-|32||~~28~~|||||
-|33||~~27~~|||||
-|34||~~26~~|||||
-|35||~~25~~|||||
-|36||~~24~~|||||
-|37||~~23~~|||||
-|38||~~22~~|||||
-|39||~~21~~|||||
-|40||~~20~~|||||
-|41||~~19~~|||||
-|42||~~18~~|||||
-|43||~~17~~|||||
-|44||~~16~~|||||
-|45||~~15~~|||||
-|46||~~14~~|||||
-|47||~~13~~|||||
-|48||~~12~~|||||
-|49||~~11~~|||||
-|50||~~10~~|||||
-|51||~~5~~|||||
-|52||~~5~~|||||
-|53||~~5~~|||||
+|13|12|<del>47</del>|65||<del>14</del>|40|
+|14|11|<del>46</del>|63||<del>12</del>|35|
+|15|10|<del>45</del>|60||<del>10</del>|30|
+|16|9|<del>44</del>|58||<del>*10</del>||
+|17|8|<del>43</del>|56||||
+|18|7|<del>42</del>|54||||
+|19|6|<del>41</del>|52||||
+|20|5|<del>40</del>|50||||
+|21||<del>39</del>|48||||
+|22||<del>38</del>|46||||
+|23||<del>37</del>|44||||
+|24||<del>36</del>|42||||
+|25||<del>35</del>|40||||
+|26||<del>34</del>|38||||
+|27||<del>33</del>|36||||
+|28||<del>32</del>|34||||
+|29||<del>31</del>|32||||
+|30||<del>30</del>|30||||
+|31||<del>29</del>|<del>*30</del>||||
+|32||<del>28</del>|||||
+|33||<del>27</del>|||||
+|34||<del>26</del>|||||
+|35||<del>25</del>|||||
+|36||<del>24</del>|||||
+|37||<del>23</del>|||||
+|38||<del>22</del>|||||
+|39||<del>21</del>|||||
+|40||<del>20</del>|||||
+|41||<del>19</del>|||||
+|42||<del>18</del>|||||
+|43||<del>17</del>|||||
+|44||<del>16</del>|||||
+|45||<del>15</del>|||||
+|46||<del>14</del>|||||
+|47||<del>13</del>|||||
+|48||<del>12</del>|||||
+|49||<del>11</del>|||||
+|50||<del>10</del>|||||
+|51||<del>5</del>|||||
+|52||<del>5</del>|||||
+|53||<del>5</del>|||||
 
 Page **29** / **54** 
 
@@ -1306,16 +1306,16 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0030-00.png)
 
-|54||~~5~~|||||
+|54||<del>5</del>|||||
 |---|---|---|---|---|---|---|
-|55||~~5~~|||||
-|56||~~5~~|||||
-|57||~~5~~|||||
-|58||~~5~~|||||
-|59||~~5~~|||||
-|60||~~5~~|||||
+|55||<del>5</del>|||||
+|56||<del>5</del>|||||
+|57||<del>5</del>|||||
+|58||<del>5</del>|||||
+|59||<del>5</del>|||||
+|60||<del>5</del>|||||
 
-~~* amount of points for each ranked rider~~ 
+<del>* amount of points for each ranked rider</del> 
 
 B. Downhill men and women juniors (finals only) 
 
@@ -1331,7 +1331,7 @@ B. Downhill men and women juniors (finals only)
 |8|26|15|
 |9|24|10|
 |10|22|5|
-|11|20|~~** 5~~|
+|11|20|<del>** 5</del>|
 |12|18||
 |13|16||
 |14|14||
@@ -1341,13 +1341,13 @@ B. Downhill men and women juniors (finals only)
 |18|8||
 |19|7||
 |20|6||
-|~~21~~|~~5~~||
-|~~22~~|~~4~~||
-|~~23~~|~~3~~||
-|~~24~~|~~2~~||
-|~~25~~|~~1~~||
+|<del>21</del>|<del>5</del>||
+|<del>22</del>|<del>4</del>||
+|<del>23</del>|<del>3</del>||
+|<del>24</del>|<del>2</del>||
+|<del>25</del>|<del>1</del>||
 
-~~* amount of points for each ranked rider~~ 
+<del>* amount of points for each ranked rider</del> 
 
 Page **30** / **54** 
 
@@ -1362,16 +1362,16 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |am standing|||||
 |---|---|---|---|---|
 |**Position**|**Men**<br>**Elite**<br>**points**|**Women**<br>**Elite**<br>**points**|**Men**<br>**Juniors**<br>**points**|**Women**<br>**Juniors**<br>**points**|
-|1|40|40|20|~~6 ~~20|
-|2|35|~~30~~ 35|15|~~4 1~~5|
-|3|32|~~20~~ 32|10|~~2 ~~10|
-|4|30|~~15~~ 25|8|8|
-|5|28|~~10~~ 20|6|6|
-|6|26|~~8 ~~15|5||
-|7|24|~~6 ~~10|4||
-|8|23|~~4 ~~8|3||
-|9|22|~~2 ~~7|2||
-|10|21|~~1 ~~6|1||
+|1|40|40|20|<del>6 </del>20|
+|2|35|<del>30</del> 35|15|<del>4 1</del>5|
+|3|32|<del>20</del> 32|10|<del>2 </del>10|
+|4|30|<del>15</del> 25|8|8|
+|5|28|<del>10</del> 20|6|6|
+|6|26|<del>8 </del>15|5||
+|7|24|<del>6 </del>10|4||
+|8|23|<del>4 </del>8|3||
+|9|22|<del>2 </del>7|2||
+|10|21|<del>1 </del>6|1||
 |11|20|5|||
 |12|19|4|||
 |13|18|3|||
@@ -1421,7 +1421,7 @@ _(article introduced on 1.01.25)._
 
 ## Age category 
 
-- **4.12.005** The age category for the UCI Marathon World Cup is 19 years or over. Holders of elite licences ~~or masters licences~~ may participate. 
+- **4.12.005** The age category for the UCI Marathon World Cup is 19 years or over. Holders of elite licences <del>or masters licences</del> may participate. 
 
 There are no separate races or results for under 23 or masters categories. _(text modified on 1.01.25)._ 
 
@@ -1449,7 +1449,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## Age category 
 
-**4.13.004** The age category for the UCI Enduro World Cup is 17 years old or over. Holders of elite licences ~~or masters licences~~ may participate. 
+**4.13.004** The age category for the UCI Enduro World Cup is 17 years old or over. Holders of elite licences <del>or masters licences</del> may participate. 
 
 At the UCI Enduro World Cup, separate junior events must be organized for men and women (aged 17 and 18). 
 
@@ -1489,11 +1489,11 @@ _(text modified on 1.01.25)._
 
 _(text modified on 1.01.18; 1.01.21; 1.01.22; 1.01.23; 1.01.25)._ 
 
-**4.16.006** A UCI endurance team ranking is calculated by adding the points of the 4 highest scoring riders of each team without making a distinction between men elite, men under 23, women elite and women under 23. ~~3 best placed men and the 3 best placed women of each UCI ELITE MTB TEAM and UCI MTB TEAM in the UCI XCO individual ranking.~~ 
+**4.16.006** A UCI endurance team ranking is calculated by adding the points of the 4 highest scoring riders of each team without making a distinction between men elite, men under 23, women elite and women under 23. <del>3 best placed men and the 3 best placed women of each UCI ELITE MTB TEAM and UCI MTB TEAM in the UCI XCO individual ranking.</del> 
 
-A UCI marathon team ranking is calculated by adding the points of the ~~3~~ 4 best placed men and the ~~3~~ 4 best placed women of each ~~UCI ELITE MTB TEAM~~ UCI MTB TEAM in the UCI XCM individual ranking. 
+A UCI marathon team ranking is calculated by adding the points of the <del>3</del> 4 best placed men and the <del>3</del> 4 best placed women of each <del>UCI ELITE MTB TEAM</del> UCI MTB TEAM in the UCI XCM individual ranking. 
 
-A UCI gravity team ranking is calculated using by adding the point of the 4 highest scored points of each team without making a distinction between men elite, men juniors, women elite and women juniors. Only the results of the finals are taken into account. ~~2 best placed DHI men, the best placed DHI woman, of each UCI ELITE MTB TEAM and UCI MTB TEAM in the concerned UCI individual ranking.~~ 
+A UCI gravity team ranking is calculated using by adding the point of the 4 highest scored points of each team without making a distinction between men elite, men juniors, women elite and women juniors. Only the results of the finals are taken into account. <del>2 best placed DHI men, the best placed DHI woman, of each UCI ELITE MTB TEAM and UCI MTB TEAM in the concerned UCI individual ranking.</del> 
 
 Page **33** / **54** 
 
@@ -1527,17 +1527,17 @@ _(text modified on 1.07.12; 1.01.17, 1.01.21; 1.01.23; 1.01.25)._
 
 - class XCO juniors one-day events: the best 4 results _(text modified on 1.10.13; 1.01.16; 1.01.18; 1.01.25)._ 
 
-## **Chapter XVIII** ~~**UCI ELITE MTB TEAM**~~ **UCI MTB WORLD SERIES TEAMS** 
+## **Chapter XVIII** <del>**UCI ELITE MTB TEAM**</del> **UCI MTB WORLD SERIES TEAMS** 
 
 ## **§ 1 Identity** 
 
-**4.18.001** A ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM is an entity consisting of: 
+**4.18.001** A <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM is an entity consisting of: 
 
 - minimum 3 riders, maximum 10 riders for cross-country (endurance); 
 
-- minimum ~~2~~ 3 riders, maximum 10 riders for downhill (gravity); 
+- minimum <del>2</del> 3 riders, maximum 10 riders for downhill (gravity); 
 
-- ~~minimum 2 riders, maximum 10 riders for enduro;~~ 
+- <del>minimum 2 riders, maximum 10 riders for enduro;</del> 
 
 - minimum 3 riders, maximum 10 riders for mixed teams. 
 
@@ -1547,13 +1547,13 @@ Development Team
 
 A UCI MTB WORLD SERIES TEAM can link with a UCI MTB Team, to be defined as their “development team” and shall report such information to the UCI. The UCI may require the production of documents to verify the nature of such link. UCI MTB WORLD SERIES TEAMS can select one rider from their development team to compete at a UCI World Cup within the maximum of 4 riders per race per category. 
 
-## ~~Temporary replacement riders~~ 
+## <del>Temporary replacement riders</del> 
 
-~~UCI ELITE MTB TEAMS can apply to the UCI to replace a rider that is unable to compete at a UCI World Cup on medical grounds. The rider needs to be a UCI registered rider and must compete in the same format and category as the rider they are temporarily replacing. They must race in the same clothing of the UCI ELITE MTB TEAM they will be riding for. This can be done outside the transfer period.~~ 
+<del>UCI ELITE MTB TEAMS can apply to the UCI to replace a rider that is unable to compete at a UCI World Cup on medical grounds. The rider needs to be a UCI registered rider and must compete in the same format and category as the rider they are temporarily replacing. They must race in the same clothing of the UCI ELITE MTB TEAM they will be riding for. This can be done outside the transfer period.</del> 
 
 ## Guest rider 
 
-In addition, a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM will have the opportunity to request to the UCI for 1 rider to be able to race at ~~a single~~ two 
+In addition, a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM will have the opportunity to request to the UCI for 1 rider to be able to race at <del>a single</del> two 
 
 Page **34** / **54** 
 
@@ -1565,13 +1565,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 UCI World Cup events within the season in either Elite, Junior or under 23 categories. This can be done outside the transfer period. _(text modified on 1.01.25)._ 
 
-- **4.18.001bis** Conditions for application for ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS: 
+- **4.18.001bis** Conditions for application for <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS: 
 
-   - Teams may apply for registration as a UCI ~~ELITE M~~ TB WORLD SERIES CROSS-COUNTRY TEAM if the team is ranked with ~~a total point of~~ 75 points or more in the UCI endurance team ranking calculated as per article 4.18.002. 
+   - Teams may apply for registration as a UCI <del>ELITE M</del> TB WORLD SERIES CROSS-COUNTRY TEAM if the team is ranked with <del>a total point of</del> 75 points or more in the UCI endurance team ranking calculated as per article 4.18.002. 
 
-   - Teams may apply for registration as a UCI ~~ELITE~~ MTB WORLD SERIES DOWNHILL TEAM if the team is ranked with 75 points or more ~~1 point~~ in the UCI gravity team ranking calculated as per article 4.18.002. 
+   - Teams may apply for registration as a UCI <del>ELITE</del> MTB WORLD SERIES DOWNHILL TEAM if the team is ranked with 75 points or more <del>1 point</del> in the UCI gravity team ranking calculated as per article 4.18.002. 
 
-   - ~~Teams may apply for registration as a UCI MTB ENDURO TEAM if the team is ranked with 1 point in the enduro team ranking calculated as per article 4.18.002.~~ 
+   - <del>Teams may apply for registration as a UCI MTB ENDURO TEAM if the team is ranked with 1 point in the enduro team ranking calculated as per article 4.18.002.</del> 
 
 _(text modified on 1.01.25)._ 
 
@@ -1579,9 +1579,9 @@ _(text modified on 1.01.25)._
 
 ## **4.18.002** 
 
-A maximum of 15 ~~UCI ELITE MTB TEAMS~~ UCI MTB WORLD SERIES TEAMS (per format cross-country, downhill ~~and enduro)~~ are recognized, on the basis of the UCI MTB TEAM rankings set out as per below: 
+A maximum of 15 <del>UCI ELITE MTB TEAMS</del> UCI MTB WORLD SERIES TEAMS (per format cross-country, downhill <del>and enduro)</del> are recognized, on the basis of the UCI MTB TEAM rankings set out as per below: 
 
-- For the UCI endurance team ranking, the riders individual UCI points in the first UCI individual ranking of the season calculated as per article 4.16.006 will be used to  determine the UCI ~~ELITE~~ MTB WORLD SERIES CROSS-COUNTRY TEAM status. 
+- For the UCI endurance team ranking, the riders individual UCI points in the first UCI individual ranking of the season calculated as per article 4.16.006 will be used to  determine the UCI <del>ELITE</del> MTB WORLD SERIES CROSS-COUNTRY TEAM status. 
 
 _[Comment: For the UCI MTB WORLD SERIES TEAM registration (as of the 2026 season), the team ranking is based on the individual UCI points of the riders in the team on the ranking on the last Tuesday of October of the previous year.]_ 
 
@@ -1589,9 +1589,9 @@ _[Comment: For the UCI MTB WORLD SERIES TEAM registration (as of the 2026 season
 
 _[Comment: For the UCI MTB WORLD SERIES TEAM registration (as of the 2026 season), the team ranking is based on the individual UCI points of the riders in the team on the ranking on the last Tuesday of October of the previous year.]_ 
 
-~~For the UCI team ranking, the final individual DHI UCI World Cup standings of the previous year and the DHI UCI World~~ 
+<del>For the UCI team ranking, the final individual DHI UCI World Cup standings of the previous year and the DHI UCI World</del> 
 
-~~Championships results by attributing points as per the table below will be used to determine the UCI MTB DOWNHILL TEAM status.~~ 
+<del>Championships results by attributing points as per the table below will be used to determine the UCI MTB DOWNHILL TEAM status.</del> 
 
 Page **35** / **54** 
 
@@ -1601,50 +1601,50 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0036-00.png)
 
-||||~~UCI World Cu final~~|~~UCI World Cu final~~|~~individual standins /~~|~~individual standins /~~|~~UCI World Championships results~~|~~UCI World Championships results~~|~~UCI World Championships results~~|
+||||<del>UCI World Cu final</del>|<del>UCI World Cu final</del>|<del>individual standins /</del>|<del>individual standins /</del>|<del>UCI World Championships results</del>|<del>UCI World Championships results</del>|<del>UCI World Championships results</del>|
 |---|---|---|---|---|---|---|---|---|---|
-||||~~p~~||~~g~~|||||
-||~~Position~~||~~Men Elite~~||~~Women Elite~~||~~Men Junior~~||~~Women Junior~~|
-||~~1~~||~~100~~||~~100~~||~~50~~||~~10~~|
-||~~2~~||~~80~~||~~80~~||~~40~~||~~9~~|
-||~~3~~||~~70~~||~~70~~||~~38~~||~~8~~|
-||~~4~~||~~60~~||~~60~~||~~36~~||~~7~~|
-||~~5~~||~~57~~||~~57~~||~~34~~||~~6~~|
-||~~6~~||~~55~~||~~55~~||~~32~~||~~5~~|
-||~~7~~||~~54~~||~~54~~||~~30~~||~~4~~|
-||~~8~~||~~53~~||~~53~~||~~28~~||~~3~~|
-||~~9~~||~~52~~||~~52~~||~~26~~||~~2~~|
-||~~10~~||~~51~~||~~51~~||~~24~~||~~1~~|
-||~~11~~||~~50~~||~~50~~||~~22~~|||
-||~~12~~||~~49~~||~~49~~||~~20~~|||
-||~~13~~||~~48~~||~~48~~||~~18~~|||
-||~~14~~||~~47~~||~~47~~||~~14~~|||
-||~~15~~||~~46~~||~~46~~||~~12~~|||
-||~~16~~||~~45~~||~~40~~||~~10~~|||
-||~~17~~||~~44~~||~~35~~||~~9~~|||
-||~~18~~||~~43~~||~~30~~||~~8~~|||
-||~~19~~||~~42~~||~~25~~||~~7~~|||
-||~~20~~||~~41~~||~~20~~||~~6~~|||
-||~~21~~||~~40~~||~~15~~||~~5~~|||
-||~~22~~||~~39~~||~~10~~||~~4~~|||
-||~~23~~||~~38~~||~~5~~||~~3~~|||
-||~~24~~||~~37~~||~~3~~||~~2~~|||
-||~~25~~||~~36~~||~~1~~||~~1~~|||
-||~~26~~||~~35~~|||||||
-||~~27~~||~~34~~|||||||
-||~~28~~||~~33~~|||||||
-||~~29~~||~~32~~|||||||
-||~~30~~||~~31~~|||||||
-||~~31~~||~~30~~|||||||
-||~~32~~||~~29~~|||||||
-||~~33~~||~~28~~|||||||
-||~~34~~||~~27~~|||||||
-||~~35~~||~~26~~|||||||
-||~~36~~||~~25~~|||||||
-||~~37~~||~~24~~|||||||
-||~~38~~||~~23~~|||||||
-||~~39~~||~~22~~|||||||
-||~~40~~||~~21~~|||||||
+||||<del>p</del>||<del>g</del>|||||
+||<del>Position</del>||<del>Men Elite</del>||<del>Women Elite</del>||<del>Men Junior</del>||<del>Women Junior</del>|
+||<del>1</del>||<del>100</del>||<del>100</del>||<del>50</del>||<del>10</del>|
+||<del>2</del>||<del>80</del>||<del>80</del>||<del>40</del>||<del>9</del>|
+||<del>3</del>||<del>70</del>||<del>70</del>||<del>38</del>||<del>8</del>|
+||<del>4</del>||<del>60</del>||<del>60</del>||<del>36</del>||<del>7</del>|
+||<del>5</del>||<del>57</del>||<del>57</del>||<del>34</del>||<del>6</del>|
+||<del>6</del>||<del>55</del>||<del>55</del>||<del>32</del>||<del>5</del>|
+||<del>7</del>||<del>54</del>||<del>54</del>||<del>30</del>||<del>4</del>|
+||<del>8</del>||<del>53</del>||<del>53</del>||<del>28</del>||<del>3</del>|
+||<del>9</del>||<del>52</del>||<del>52</del>||<del>26</del>||<del>2</del>|
+||<del>10</del>||<del>51</del>||<del>51</del>||<del>24</del>||<del>1</del>|
+||<del>11</del>||<del>50</del>||<del>50</del>||<del>22</del>|||
+||<del>12</del>||<del>49</del>||<del>49</del>||<del>20</del>|||
+||<del>13</del>||<del>48</del>||<del>48</del>||<del>18</del>|||
+||<del>14</del>||<del>47</del>||<del>47</del>||<del>14</del>|||
+||<del>15</del>||<del>46</del>||<del>46</del>||<del>12</del>|||
+||<del>16</del>||<del>45</del>||<del>40</del>||<del>10</del>|||
+||<del>17</del>||<del>44</del>||<del>35</del>||<del>9</del>|||
+||<del>18</del>||<del>43</del>||<del>30</del>||<del>8</del>|||
+||<del>19</del>||<del>42</del>||<del>25</del>||<del>7</del>|||
+||<del>20</del>||<del>41</del>||<del>20</del>||<del>6</del>|||
+||<del>21</del>||<del>40</del>||<del>15</del>||<del>5</del>|||
+||<del>22</del>||<del>39</del>||<del>10</del>||<del>4</del>|||
+||<del>23</del>||<del>38</del>||<del>5</del>||<del>3</del>|||
+||<del>24</del>||<del>37</del>||<del>3</del>||<del>2</del>|||
+||<del>25</del>||<del>36</del>||<del>1</del>||<del>1</del>|||
+||<del>26</del>||<del>35</del>|||||||
+||<del>27</del>||<del>34</del>|||||||
+||<del>28</del>||<del>33</del>|||||||
+||<del>29</del>||<del>32</del>|||||||
+||<del>30</del>||<del>31</del>|||||||
+||<del>31</del>||<del>30</del>|||||||
+||<del>32</del>||<del>29</del>|||||||
+||<del>33</del>||<del>28</del>|||||||
+||<del>34</del>||<del>27</del>|||||||
+||<del>35</del>||<del>26</del>|||||||
+||<del>36</del>||<del>25</del>|||||||
+||<del>37</del>||<del>24</del>|||||||
+||<del>38</del>||<del>23</del>|||||||
+||<del>39</del>||<del>22</del>|||||||
+||<del>40</del>||<del>21</del>|||||||
 
 Page **36** / **54** 
 
@@ -1654,41 +1654,41 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0037-00.png)
 
-|~~41~~|~~20~~||||
+|<del>41</del>|<del>20</del>||||
 |---|---|---|---|---|
-|~~42~~|~~19~~||||
-|~~43~~|~~18~~||||
-|~~44~~|~~17~~||||
-|~~45~~|~~16~~||||
-|~~46~~|~~15~~||||
-|~~47~~|~~14~~||||
-|~~48~~|~~13~~||||
-|~~49~~|~~12~~||||
-|~~50~~|~~11~~||||
-|~~51~~|~~10~~||||
-|~~52~~|~~9~~||||
-|~~53~~|~~8~~||||
-|~~54~~|~~7~~||||
-|~~55~~|~~6~~||||
-|~~56~~|~~5~~||||
-|~~57~~|~~4~~||||
-|~~58~~|~~3~~||||
-|~~59~~|~~2~~||||
-|~~60~~|~~1~~||||
+|<del>42</del>|<del>19</del>||||
+|<del>43</del>|<del>18</del>||||
+|<del>44</del>|<del>17</del>||||
+|<del>45</del>|<del>16</del>||||
+|<del>46</del>|<del>15</del>||||
+|<del>47</del>|<del>14</del>||||
+|<del>48</del>|<del>13</del>||||
+|<del>49</del>|<del>12</del>||||
+|<del>50</del>|<del>11</del>||||
+|<del>51</del>|<del>10</del>||||
+|<del>52</del>|<del>9</del>||||
+|<del>53</del>|<del>8</del>||||
+|<del>54</del>|<del>7</del>||||
+|<del>55</del>|<del>6</del>||||
+|<del>56</del>|<del>5</del>||||
+|<del>57</del>|<del>4</del>||||
+|<del>58</del>|<del>3</del>||||
+|<del>59</del>|<del>2</del>||||
+|<del>60</del>|<del>1</del>||||
 
-~~Tied UCI MTB DOWNHILL TEAMS have their positions determined by the place of their best rider in the final individual world cup standings of the previous year.~~ 
+<del>Tied UCI MTB DOWNHILL TEAMS have their positions determined by the place of their best rider in the final individual world cup standings of the previous year.</del> 
 
-~~-~~ 
+<del>-</del> 
 
-~~The ranking for UCI MTB ENDURO TEAMS will be calculated using the best three riders~~ ’ ~~results at each UCI Enduro World Cup round in the previous season to determine the UCI MTB WORLD SERIES TEAM status for enduro.~~ 
+<del>The ranking for UCI MTB ENDURO TEAMS will be calculated using the best three riders</del> ’ <del>results at each UCI Enduro World Cup round in the previous season to determine the UCI MTB WORLD SERIES TEAM status for enduro.</del> 
 
 Three (3) weekends after the UCI MTB TEAM registration deadline (as defined in article 4.19.011) the UCI will release the above teams ranking linked to the new team composition. 
 
-The top 15 ranked teams in the UCI MTB TEAM rankings are offered the opportunity to register as a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM. If these teams decline the opportunity, then the invitation is offered to the next team in the UCI MTB TEAM ranking. Invitations are only extended to teams ranked in the top 20. 
+The top 15 ranked teams in the UCI MTB TEAM rankings are offered the opportunity to register as a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM. If these teams decline the opportunity, then the invitation is offered to the next team in the UCI MTB TEAM ranking. Invitations are only extended to teams ranked in the top 20. 
 
 ## Wild cards 
 
-A maximum of five wild card invitations to be granted ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM status can be issued at the discretion of the UCI during the registration process. Criteria to award the wild cards will be based on the: 
+A maximum of five wild card invitations to be granted <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM status can be issued at the discretion of the UCI during the registration process. Criteria to award the wild cards will be based on the: 
 
 - UCI team ranking, current and previous season 
 
@@ -1722,21 +1722,21 @@ Multi-year UCI MTB WORLD SERIES TEAM status From 2026, the UCI will award multi-
 
 _(text modified on 1.01.25)._ 
 
-- **4.18.003** A ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM comprises of all the riders employed by the same paying agent, the paying agent itself, the sponsors and all the other persons contracted by the paying agent and/or the sponsors for the functioning of the team (team manager, coach, soigneur, mechanic, etc.). It must be designated by a specific name and registered with the UCI as provided in these regulations. 
+- **4.18.003** A <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM comprises of all the riders employed by the same paying agent, the paying agent itself, the sponsors and all the other persons contracted by the paying agent and/or the sponsors for the functioning of the team (team manager, coach, soigneur, mechanic, etc.). It must be designated by a specific name and registered with the UCI as provided in these regulations. 
 
 _(text modified on 1.01.25)._ 
 
-- **4.18.004** The sponsors are individuals or incorporated bodies who contribute to the funding of the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM. Among the sponsors, a maximum of two are designated as the principal partners of the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM. If neither of the two principal partners is the paying agent for the team, this paying agent may only be an individual or incorporated body whose sole trading income comes from advertising. _(text modified on 1.01.25)._ 
+- **4.18.004** The sponsors are individuals or incorporated bodies who contribute to the funding of the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM. Among the sponsors, a maximum of two are designated as the principal partners of the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM. If neither of the two principal partners is the paying agent for the team, this paying agent may only be an individual or incorporated body whose sole trading income comes from advertising. _(text modified on 1.01.25)._ 
 
-- **4.18.005** The principal partner(s) and the paying agent commit themselves to the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM for a whole number of calendar years. 
-
-_(text modified on 1.01.25)._ 
-
-- **4.18.006** The name of the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM must be that of the company or brand name of the principal partner or that of one of both of the two principal partners. 
+- **4.18.005** The principal partner(s) and the paying agent commit themselves to the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM for a whole number of calendar years. 
 
 _(text modified on 1.01.25)._ 
 
-- **4.18.007** No two ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS, their principal partners or paying agents, may bear the same name. Should application for a new and identical name be simultaneously made by two or more teams, priority is given to the team which has used the name for the longest time. _(text modified on 1.01.25)._ 
+- **4.18.006** The name of the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM must be that of the company or brand name of the principal partner or that of one of both of the two principal partners. 
+
+_(text modified on 1.01.25)._ 
+
+- **4.18.007** No two <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS, their principal partners or paying agents, may bear the same name. Should application for a new and identical name be simultaneously made by two or more teams, priority is given to the team which has used the name for the longest time. _(text modified on 1.01.25)._ 
 
 Page **38** / **54** 
 
@@ -1746,33 +1746,33 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0039-00.png)
 
-- **4.18.008** The nationality of the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM must be that of the country where the head office or the domicile of the paying agent is located. 
+- **4.18.008** The nationality of the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM must be that of the country where the head office or the domicile of the paying agent is located. 
 
 _(text modified on 1.01.25)._ 
 
 ## **§ 2 Legal and financial status** 
 
-- **4.18.009** The paying agent in a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM must be a physical person or incorporated body legally entitled to employ personnel. 
+- **4.18.009** The paying agent in a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM must be a physical person or incorporated body legally entitled to employ personnel. 
 
 _(text modified on 1.01.25)._ 
 
 ## **§ 3 Registration** 
 
-- **4.18.010** Each year ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS must register for the subsequent year directly with the  International Cycling Union. _(text modified on 1.01.25)._ 
+- **4.18.010** Each year <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS must register for the subsequent year directly with the  International Cycling Union. _(text modified on 1.01.25)._ 
 
-- **4.18.011** ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS must register their riders at the same time. 
+- **4.18.011** <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS must register their riders at the same time. 
 
    - _(text modified on 1.01.25)._ 
 
-- **4.18.012** ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS must submit their application for registration no later than 15 January of the registration year in question. No application received by the UCI after 15 January is considered. 
+- **4.18.012** <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS must submit their application for registration no later than 15 January of the registration year in question. No application received by the UCI after 15 January is considered. 
 
 For the UCI MTB WORLD SERIES TEAM registration (as of the 2026 season), the deadline will be 15 November of the previous year. 
 
-When applying for registration, ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM must indicate: 
+When applying for registration, <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM must indicate: 
 
 - 1 the exact name of the team; 
 
-- 2 address details (including telephone number, email address and fax number) to which all communications to the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM can be sent; 
+- 2 address details (including telephone number, email address and fax number) to which all communications to the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM can be sent; 
 
 - 3 the names and addresses of the principal partners, the paying agent, the manager, the team manager, the assistant team manager, the mechanics and other licence-holders; 
 
@@ -1782,9 +1782,9 @@ When applying for registration, ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM
 
 _(text modified on 1.07.12; 1.01.25)._ 
 
-- **4.18.013** Article 4.18.012 also applies to any changes to the riders and other staff for ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS. 
+- **4.18.013** Article 4.18.012 also applies to any changes to the riders and other staff for <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS. 
 
-Such changes are immediately submitted by the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS to the UCI. During the season, no rider already 
+Such changes are immediately submitted by the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS to the UCI. During the season, no rider already 
 
 Page **39** / **54** 
 
@@ -1794,25 +1794,25 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0040-00.png)
 
-registered with a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or UCI MTB TEAM for the current season may join another ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or UCI MTB TEAM outside the transfer period as in the team benefits document sent at registration confirmation unless approved as a replacement or additional rider (article 4.18.001) 
+registered with a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or UCI MTB TEAM for the current season may join another <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or UCI MTB TEAM outside the transfer period as in the team benefits document sent at registration confirmation unless approved as a replacement or additional rider (article 4.18.001) 
 
-During the season, a rider who is not registered in another team can be added to a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or UCI MTB TEAM only during the transfer period ~~as specified in the team benefits document sent at registration confirmation~~ set every season. _(text modified on 1.01.25)._ 
+During the season, a rider who is not registered in another team can be added to a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or UCI MTB TEAM only during the transfer period <del>as specified in the team benefits document sent at registration confirmation</del> set every season. _(text modified on 1.01.25)._ 
 
-- **4.18.014** Only ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS on the list approved by the UCI may receive benefits. _(text modified on 1.01.25)._ 
+- **4.18.014** Only <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS on the list approved by the UCI may receive benefits. _(text modified on 1.01.25)._ 
 
-- **4.18.015** By their annual registration, ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS and inter alia their paying agents and sponsors undertake to respect the Constitution and Regulations of the UCI and their respective National Federation and to participate in cycling events in a fair and sporting manner. The paying agent and principal partners are held jointly and severally liable for all the financial commitments of the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM to the UCI and the National Federations, including any fines. _(text modified on 1.01.25)._ 
+- **4.18.015** By their annual registration, <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS and inter alia their paying agents and sponsors undertake to respect the Constitution and Regulations of the UCI and their respective National Federation and to participate in cycling events in a fair and sporting manner. The paying agent and principal partners are held jointly and severally liable for all the financial commitments of the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM to the UCI and the National Federations, including any fines. _(text modified on 1.01.25)._ 
 
-- **4.18.016** The registration of the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM with the UCI involves a registration fee that the team must pay by 15 January of the year of registration. The amount is set annually by the UCI. After the publication of the UCI team rankings, as per art 4.18.002, the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM have to pay their remaining fee. 
+- **4.18.016** The registration of the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM with the UCI involves a registration fee that the team must pay by 15 January of the year of registration. The amount is set annually by the UCI. After the publication of the UCI team rankings, as per art 4.18.002, the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM have to pay their remaining fee. 
 
 For the UCI MTB WORLD SERIES TEAM registration (as of the 2026 season), the deadline will be 15 November of the previous year. _(text modified on 1.01.25)._ 
 
-- **4.18.017** When submitting their registration, each ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM must submit a colour graphic design of their Team race outfit, complete with sponsor logos. 
+- **4.18.017** When submitting their registration, each <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM must submit a colour graphic design of their Team race outfit, complete with sponsor logos. 
 
-~~All riders within a team are obliged to wear clothing that has identical major sponsor placement, identical color scheme, layout and identical overall look, although the colours of men and women~~ ’ ~~s outfit can be different. In this case two designs must be submitted.~~ 
+<del>All riders within a team are obliged to wear clothing that has identical major sponsor placement, identical color scheme, layout and identical overall look, although the colours of men and women</del> ’ <del>s outfit can be different. In this case two designs must be submitted.</del> 
 
-~~The rule is not applicable for UCI ELITE MTB DOWNHILL TEAMS.~~ _(text modified on 1.01.25)._ 
+<del>The rule is not applicable for UCI ELITE MTB DOWNHILL TEAMS.</del> _(text modified on 1.01.25)._ 
 
-- **4.18.018** ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAMS have the obligation to participate with minimum 1 rider at all UCI World Cup events. If this is not the case the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM status is removed immediately and the team is not able to register as a ~~UCI ELITE MTB~~ 
+- **4.18.018** <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAMS have the obligation to participate with minimum 1 rider at all UCI World Cup events. If this is not the case the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM status is removed immediately and the team is not able to register as a <del>UCI ELITE MTB</del> 
 
 Page **40** / **54** 
 
@@ -1822,21 +1822,21 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0041-00.png)
 
-~~TEAM~~ UCI MTB WORLD SERIES TEAM for the following season. In this case there is no refund of the registration fees. _(text modified on 1.01.25)._ 
+<del>TEAM</del> UCI MTB WORLD SERIES TEAM for the following season. In this case there is no refund of the registration fees. _(text modified on 1.01.25)._ 
 
 ## **§ 4 Contract of Employment** 
 
-- **4.18.019** A rider's membership of a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM requires a written contract of employment to be concluded which must contain as a minimum the provisions of the standard contract in article 4.18.025. 
+- **4.18.019** A rider's membership of a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM requires a written contract of employment to be concluded which must contain as a minimum the provisions of the standard contract in article 4.18.025. 
 
 The contract must also make provision for the payment of indemnities to the rider in the event of sickness and/or accident. 
 
 _(text modified on 1.01.25)._ 
 
-## **§ 7 Model contract between a rider and a** ~~**UCI ELITE MTB TEAM**~~ **UCI MTB WORLD SERIES TEAM** 
+## **§ 7 Model contract between a rider and a** <del>**UCI ELITE MTB TEAM**</del> **UCI MTB WORLD SERIES TEAM** 
 
 ## **4.18.025** 
 
-The UCI model contract between a rider and a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM can be found in annex 1 to these regulations. _(text modified on 1.01.25)._ 
+The UCI model contract between a rider and a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM can be found in annex 1 to these regulations. _(text modified on 1.01.25)._ 
 
 ## **Chapter XIX  UCI MTB TEAMS** 
 
@@ -1848,9 +1848,9 @@ The UCI model contract between a rider and a ~~UCI ELITE MTB TEAM~~ UCI MTB WORL
 
 - minimum 3 riders, maximum 10 riders for cross-country marathon; 
 
-- minimum ~~2~~ 3 riders, maximum 10 riders for downhill (gravity); 
+- minimum <del>2</del> 3 riders, maximum 10 riders for downhill (gravity); 
 
-- minimum ~~2~~ 3 riders, maximum 10 riders for enduro teams; 
+- minimum <del>2</del> 3 riders, maximum 10 riders for enduro teams; 
 
 - minimum 3 riders, maximum 10 riders for mixed teams. 
 
@@ -1858,13 +1858,13 @@ They are employed and/or sponsored by the same entity, for the purpose to take p
 
 - **4.19.001bis** Conditions for application for UCI MTB TEAMS: 
 
-   - Teams may apply for registration as a UCI MTB CROSS-COUNTRY TEAM, only if the team is ranked with ~~a total point of~~ 75 points or more in the endurance team ranking calculated as per article 4.18.002. 
+   - Teams may apply for registration as a UCI MTB CROSS-COUNTRY TEAM, only if the team is ranked with <del>a total point of</del> 75 points or more in the endurance team ranking calculated as per article 4.18.002. 
 
    - Teams may apply for registration as a UCI MTB MARATHON TEAM according to article 4.19.001. 
 
    - Teams may apply for registration as a UCI MTB DOWNHILL TEAM, only if the team is ranked with 75 points or more in the gravity team ranking calculated as per article 4.18.002. 
 
-~~Teams may apply for registration as a UCI MTB DOWNHILL TEAM if the team is ranked with 1 point in the gravity team ranking calculated as per article 4.18.002.~~ 
+<del>Teams may apply for registration as a UCI MTB DOWNHILL TEAM if the team is ranked with 1 point in the gravity team ranking calculated as per article 4.18.002.</del> 
 
 Page **41** / **54** 
 
@@ -1900,7 +1900,7 @@ _(text modified on 1.07.12; 1.01.25)._
 
 - **4.19.012** Article 4.19.011 also applies to any changes to the riders and other staff for UCI MTB TEAMS. 
 
-   - Such changes must be immediately submitted by the UCI MTB TEAMS to the UCI. During the season, no rider already registered with a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or UCI MTB TEAM for the current season may join another ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or UCI MTB TEAM outside the transfer period as specified in the team registration form. During the season, a rider can be added to a ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or UCI MTB TEAM only during the transfer period ~~as specified in the team benefits document sent at registration confirmation~~ set every season. 
+   - Such changes must be immediately submitted by the UCI MTB TEAMS to the UCI. During the season, no rider already registered with a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or UCI MTB TEAM for the current season may join another <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or UCI MTB TEAM outside the transfer period as specified in the team registration form. During the season, a rider can be added to a <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or UCI MTB TEAM only during the transfer period <del>as specified in the team benefits document sent at registration confirmation</del> set every season. 
 
 _(text modified on 1.01.25)._ 
 
@@ -1948,15 +1948,15 @@ For the UCI MTB TEAM registration (as of the 2026 season), the deadline will be 
 
 - **4.19.016** When submitting their registration, each UCI MTB TEAM must submit a colour graphic design of their Team jersey, complete with sponsor logos. 
 
-All riders within a team are obliged to wear clothing that has identical major sponsor placement, identical color scheme, layout and identical overall look ~~,~~ ’ ~~although the colours of men and women s outfit can be different.~~ In this case two designs must be submitted. 
+All riders within a team are obliged to wear clothing that has identical major sponsor placement, identical color scheme, layout and identical overall look <del>,</del> ’ <del>although the colours of men and women s outfit can be different.</del> In this case two designs must be submitted. 
 
-~~The rule is not applicable for MTB DOWNHILL TEAMS.~~ _(text modified on 1.01.25)._ 
+<del>The rule is not applicable for MTB DOWNHILL TEAMS.</del> _(text modified on 1.01.25)._ 
 
 ## **Chapter XX   MTB RACE INCIDENTS TABLE** 
 
 ## **4.20.001 Table of race incidents in accordance with article 12.4.001** 
 
-**Discipline** Mountain Bike Race incidents 1. Clothing, helmet and accessories 2.1 Presentation at the start with non-compliant clothing, helmet or accessories ~~(art. 1.3.033)~~ 2.2 Use of non-compliant clothing, helmet or accessories during an event ~~(art. 1.3.033)~~ 
+**Discipline** Mountain Bike Race incidents 1. Clothing, helmet and accessories 2.1 Presentation at the start with non-compliant clothing, helmet or accessories <del>(art. 1.3.033)</del> 2.2 Use of non-compliant clothing, helmet or accessories during an event <del>(art. 1.3.033)</del> 
 
 _(text modified on 1.01.00; 1.01.02; 1.01.03; 5.05.03; 1.01.04; 1.01.05; 1.01.06; 1.01.07; 1.01.09; 1.07.10; 1.10.10; 1.07.11; 1.10.11; 1.10.13; 7.03.14; 16.06.14; 1.01.15; 1.07.15; 1.01.16; 1.01.17; 1.07.17; 1.01.19; 1.01.20; 10.06.21; 1.01.23; 1.01.25)_ 
 
@@ -1972,7 +1972,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf-0044-00.png)
 
-paying agent for the ~~UCI ELITE MTB TEAM~~ UCI MTB WORLD SERIES TEAM or UCI MTB TEAM (name of the team), affiliated to the (name of the national federation) and whose principal partners are: 
+paying agent for the <del>UCI ELITE MTB TEAM</del> UCI MTB WORLD SERIES TEAM or UCI MTB TEAM (name of the team), affiliated to the (name of the national federation) and whose principal partners are: 
 
 1. (name and address) (where applicable, the paying agent itself) 
 
@@ -2519,8 +2519,8 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||**_60_**||||||||||
 ||ée Ferdi K<br>**_61_**|übler 12|T: +41 24|468 58 1|1||||||
 ||60 Aigle||E: admin|@uci.ch|||||||
-||itzerland|<br>~~* nombre deointsour chaue coureur classé /~~<br>~~_* amount ofoints for each ranked rider_~~|||||||||
-|||<br> ~~p p q~~<br> ~~_p_~~|||||||||
+||itzerland|<br><del>* nombre deointsour chaue coureur classé /</del><br><del>_* amount ofoints for each ranked rider_</del>|||||||||
+|||<br> <del>p p q</del><br> <del>_p_</del>|||||||||
 |||** For the final round,no world cup points will be awared for thequalifyinground,those world cup points will|||||||begiven to the final instead||
 
 Page **53** / **54** 

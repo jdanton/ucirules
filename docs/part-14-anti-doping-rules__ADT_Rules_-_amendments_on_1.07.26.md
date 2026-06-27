@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/ERSIpwioDU4yk69S3eVre/718e
 source_sha256: 336178d11e91161a2d46038c38ce4b148929db02f96bab12f0ef8de85e91c40f
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 8.06.2026 
 
@@ -32,7 +32,7 @@ converter: pymupdf4llm
 
    - e) “Rules”: The Tribunal Procedural Rules. 
 
-   - f) “Single Judge”: The member of the Tribunal appointed by the ~~Secretariat~~ President of the Tribunal to adjudicate a case. 
+   - f) “Single Judge”: The member of the Tribunal appointed by the <del>Secretariat</del> President of the Tribunal to adjudicate a case. 
 
    - g) “Tribunal”: The Anti-Doping Tribunal established in accordance with Article 8.3.1 ADR. 
 
@@ -54,7 +54,7 @@ _(text modified on 04.02.21; 1.07.26)_
 
 2. The names, postal and email addresses, and telephone numbers of the person(s) representing or assisting the Defendant shall be communicated to the Secretariat. 
 
-3. The UCI shall be represented by the ~~UCI Legal Anti-Doping Services~~ International 
+3. The UCI shall be represented by the <del>UCI Legal Anti-Doping Services</del> International 
 
 Testing Agency – ITA and/or by external counsel appointed by the latter. 
 

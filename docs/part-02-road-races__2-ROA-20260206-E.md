@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6FEzFHeA2oKMBGb5sdIvQ7/649
 source_sha256: 4b48943d13131d5923f771ffbbd836e58f8c4c0a1c00b7f41568678629828dad
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ## **PART 2 ROAD RACES** 
 
@@ -4843,7 +4843,7 @@ In the case of behaviour which represents an infringement that can be referred t
 
 _(text modified on 01.08.24)_ 
 
-- **2.12.005** Without prejudice to the competence of the Disciplinary Commission to impose sanctions for the same circumstances ~~,~~ pursuant to article 12.5.004 and/or for infringements of articles 12.4.002 and subsequent ~~,~~ - the race incidents described by the table of article 2.12.007 shall be sanctioned by the commissaires. 
+- **2.12.005** Without prejudice to the competence of the Disciplinary Commission to impose sanctions for the same circumstances <del>,</del> pursuant to article 12.5.004 and/or for infringements of articles 12.4.002 and subsequent <del>,</del> - the race incidents described by the table of article 2.12.007 shall be sanctioned by the commissaires. 
 
 _(text modified on 01.08.24)_ 
 
@@ -4923,7 +4923,7 @@ ROAD RACES
 |---|---|---|---|---|---|---|
 |3.5.3 Evading, refusing or<br>obstructing the installation<br>or discarding a timing or<br>tracking device||Rider:Start refused, elimination or<br>disqualification<br>Other team member:Exclusion||Rider:Start refused, elimination or<br>disqualification<br>Other team member:Exclusion||Rider:Start refused, elimination or<br>disqualification<br>Other team member:Exclusion|
 |3.6 Failure to return a body<br>number to a commissaire or<br>the broom wagon after<br>abandoning or failure to<br>inform a commissaire or the<br>broom wagon of abandoning||Rider:CHF 200 fine<br>Sport Director:CHF 200 fine per<br>rider involved||Rider:CHF 100 fine<br>Sport Director:CHF 100 fine per<br>rider involved||Rider:CHF 50 fine<br>Sport Director:CHF 50 fine per<br>rider involved|
-|3.7 Putting on or taking off<br>clothing contrary to the<br>regulations||Rider:CHF 200 fine<br>Sport Director:CHF 500 fine||Rider:CHF 100 fine<br>Sport~~s~~Director:CHF 200 fine||Rider:CHF 50 fine<br>Sport~~s~~Director:CHF 100 fine|
+|3.7 Putting on or taking off<br>clothing contrary to the<br>regulations||Rider:CHF 200 fine<br>Sport Director:CHF 500 fine||Rider:CHF 100 fine<br>Sport<del>s</del>Director:CHF 200 fine||Rider:CHF 50 fine<br>Sport<del>s</del>Director:CHF 100 fine|
 |3.8 Non-compliant rain jacket<br>(different design to that of the<br>standard team jersey or non-<br>transparent material) or team<br>name does not appear on<br>rain jacket||Team:CHF 500 fine (regardless<br>of the number of riders involved)||Team:CHF 200 fine (regardless<br>of the number of riders involved)||Team:Warning|
 |3.9 Different clothing (jersey,<br>shorts, rain jacket) for the<br>different riders of a team||Rider:CHF 500 fine per rider<br>involved<br>Team:CHF 500 fine (regardless<br>of the number of riders involved)||Rider:CHF 200 fine per rider<br>involved<br>Team:CHF 200 fine (regardless<br>of the number of riders involved)||Rider:CHF 50 fine per rider<br>involved<br>Team:CHF 50 fine (regardless of<br>the number of riders involved)|
 
@@ -4970,7 +4970,7 @@ ROAD RACES
 |Stage race||Rider(s):CHF 200 fine, 20%**<br>penalty in points and/or mountains<br>classifications and 10 seconds<br>penalty per infringement and 15<br>points from UCI rankings and/or<br>yellow card||Rider(s): CHF 100 fine, 20%**<br>penalty in points and/or mountains<br>classifications and 10 seconds<br>penalty per infringement and 5<br>points from UCI rankings and/or<br>yellow card||Rider(s):CHF 50 fine, 20%**<br>penalty in points and/or mountains<br>classifications and 10 seconds<br>penalty per infringement and 2<br>points from UCI rankings|
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may  order the<br>disqualification of the riders concerned.|||||
 |4.4 Prohibited assistance between riders during a circuit race or a circuit|||finish (riders not at the same distance in the race)||||
-|One-day race||Rider:CHF 500 fine per rider<br>involved and elimination or<br>disqualification of the riders<br>involved||Rider:CHF 200 fine per rider<br>involved and elimination or<br>disqualification~~per~~of the riders<br>involved||Rider:CHF 100 fine per rider<br>involved and elimination or<br>disqualification~~per~~of the riders<br>involved|
+|One-day race||Rider:CHF 500 fine per rider<br>involved and elimination or<br>disqualification of the riders<br>involved||Rider:CHF 200 fine per rider<br>involved and elimination or<br>disqualification<del>per</del>of the riders<br>involved||Rider:CHF 100 fine per rider<br>involved and elimination or<br>disqualification<del>per</del>of the riders<br>involved|
 
 E050224 
 
@@ -4978,7 +4978,7 @@ E050224
 
 ROAD RACES 
 
-|Stage race||Rider:CHF 500 fine per rider<br>involved and relegation of the<br>riders involved to last place on the<br>stage||Rider:CHF 200 fine per rider<br>involved and relegation of the<br>riders involved to last place on~~in~~<br>the stage||Rider:CHF 100 fine per rider<br>involved and relegation of the<br>riders involved to last place on~~in~~<br>the stage|
+|Stage race||Rider:CHF 500 fine per rider<br>involved and relegation of the<br>riders involved to last place on the<br>stage||Rider:CHF 200 fine per rider<br>involved and relegation of the<br>riders involved to last place on<del>in</del><br>the stage||Rider:CHF 100 fine per rider<br>involved and relegation of the<br>riders involved to last place on<del>in</del><br>the stage|
 |---|---|---|---|---|---|---|
 |||In addition to the above provisions,<br>circumstances or if an infringement<br>disqualify the riders involved|in serious cases, in cases of repeated infringement or aggravating<br>offers an advantage, the Commissaires’ Panel may eliminate or||||
 |4.5 Rider not completing the race<br>entirely through his or her own<br>effort and without the<br>assistance of any other person||Rider:CHF 500 fine, 100 points<br>from UCI rankings and elimination<br>or disqualification||Rider:CHF 200 fine, 50 points<br>from UCI rankings and elimination<br>or disqualification||Rider:CHF 100 fine, 20 points<br>from UCI rankings and elimination<br>or disqualification|
@@ -5034,7 +5034,7 @@ ROAD RACES
 |---|---|---|---|---|---|---|---|
 |4.10.5 One day-race, feeding on<br>foot outside the feeding zone||Rider:CHF 500 fine and/or<br>yellow card<br>Other licence holder:CHF 500<br>fine and/or yellow card||Rider:CHF 200 fine and/or<br>yellow card<br>Other licence holder:CHF 200<br>fine and/or yellow card|||Rider:CHF 100 fine<br>Other licence holder:CHF 100<br>fine|
 |4.10.6 Stages race, feeding on<br>foot outside the  feeding zone||Rider:CHF 500 fine and 20<br>second penalty per infringement<br>and 20% penalty in the points<br>and/or mountains classifications<br>and/or yellow card<br>Other licence holder:CHF 500<br>fine and/or yellow card||Rider:CHF 200 fine and 20<br>second penalty per infringement<br>and 20% penalty in the points<br>and/or mountains classifications<br>and/or yellow card<br>Other licence holder:CHF 200<br>fine and/or yellow card|||Rider:CHF 50 fine and 20<br>second penalty per infringement<br>and 20% penalty in the points<br>and/or mountains classifications<br>Other licence holder:CHF 100<br>fine|
-|4.11 Irregular feeding (“sticky<br>bottle” for a short distance~~)~~|<br> <br> <br> <br>|Rider:CHF 200 fine per<br>infringement and/or yellow card<br>Other licence holder:CHF 500<br>fine per infringement and/or yellow<br>card|<br> <br> <br> <br>|Rider:CHF 100 fine per<br>infringement and/or yellow card<br>Other licence holder:CHF 200<br>fine per infringement and/or yellow<br>card||Rider:CHF 50 fine per<br>infringement<br>Other licence holder: CHF 100<br>fine per infringement||
+|4.11 Irregular feeding (“sticky<br>bottle” for a short distance<del>)</del>|<br> <br> <br> <br>|Rider:CHF 200 fine per<br>infringement and/or yellow card<br>Other licence holder:CHF 500<br>fine per infringement and/or yellow<br>card|<br> <br> <br> <br>|Rider:CHF 100 fine per<br>infringement and/or yellow card<br>Other licence holder:CHF 200<br>fine per infringement and/or yellow<br>card||Rider:CHF 50 fine per<br>infringement<br>Other licence holder: CHF 100<br>fine per infringement||
 |4.12 Non-compliance with article<br>2.3.025 by a team assistant during<br>feeding (e.g. inappropriate<br>clothing or positioning, exceeding<br>the maximum number of staff, or<br>any other inappropriate<br>behaviour)|<br> <br> <br> <br>|Sport Director responsible for the<br>team: CHF 200 fine<br>Other licence holder:CHF 200<br>fine per infringement and/or yellow<br>card|<br> <br> <br> <br>|Sport Director responsible for the<br>team: CHF 100 fine<br>Other licence holder:CHF 100<br>fine per infringement and/or yellow<br>card||Sport Director responsible for the<br>team:CHF 50 fine<br>Other licence holder:CHF 50 fine<br>per infringement||
 
 E050224 
@@ -5175,7 +5175,7 @@ ROAD RACES
 |9.1.2 Starting on a bicycle that<br>has not been checked by the<br>commissaires in a team time trial||Team:CHF 1,000 fine and<br>elimination or disqualification||Team:CHF 500 fine and<br>elimination or disqualification||Team:CHF 200 fine and<br>elimination or disqualification|
 |9.2 Bicycles and equipment not<br>presented for checking at least 10<br>minutes before a rider’s start time<br>in an individual time trial, and 15<br>minutes before a team’s start time<br>in a team time trial.||Rider:CHF 500 fine per rider<br>involved<br>Sport Director:CHF 500 fine per<br>rider involved||Rider:CHF 200 fine per rider<br>involved<br>Sport Director:CHF 200 fine per<br>rider involved||Rider: CHF 50 fine per rider<br>involved<br>Sport Director:CHF 50 fine per<br>rider involved|
 |9.3 Rider or team failing to respect<br>regulation distances and gaps<br>during a time trial||Rider:CHF 200 fine per<br>infringement<br>Team:CHF 200 fine per<br>infringement||Rider:CHF 100 fine per<br>infringement<br>Team:CHF 200 fine per<br>infringement||Rider:CHF 50 fine per<br>infringement<br>Team:CHF 200 fine per<br>infringement|
-|9.3.1 Slipstreaming (individual<br>time trial)||Rider:CHF 200 fine per<br>infringement and time penalty in||Rider: CHF 100 fine per<br>infringement and time penalty in||Rider: CHF 50 fine per<br>infringement and time penalty~~as~~|
+|9.3.1 Slipstreaming (individual<br>time trial)||Rider:CHF 200 fine per<br>infringement and time penalty in||Rider: CHF 100 fine per<br>infringement and time penalty in||Rider: CHF 50 fine per<br>infringement and time penalty<del>as</del>|
 
 E050224 
 
@@ -5185,7 +5185,7 @@ ROAD RACES
 
 |||accordance with the table in<br>article 2.12.007 quarter||accordance with the table in<br>article 2.12.007 quarter||in accordance with the table in<br>article 2.12.007|
 |---|---|---|---|---|---|---|
-|9.3.2 Slipstreaming (team time<br>trial)||Rider:time penalty in accordance<br>with the table in article 2.12.007<br>quarter<br>for each rider of the teams<br>involved<br>Team:CHF 200 fine per<br>infringement||Rider:time penalty~~as~~in<br>accordance with the table in<br>article 2.12.007 quarter<br>for each rider of the teams<br>involved<br>Team:CHF 100 fine per<br>infringement||Rider: time penalty~~as~~in<br>accordance with the table in<br>article 2.12.007<br>for each rider of the teams<br>involved<br>Team:CHF 50 fine per<br>infringement|
+|9.3.2 Slipstreaming (team time<br>trial)||Rider:time penalty in accordance<br>with the table in article 2.12.007<br>quarter<br>for each rider of the teams<br>involved<br>Team:CHF 200 fine per<br>infringement||Rider:time penalty<del>as</del>in<br>accordance with the table in<br>article 2.12.007 quarter<br>for each rider of the teams<br>involved<br>Team:CHF 100 fine per<br>infringement||Rider: time penalty<del>as</del>in<br>accordance with the table in<br>article 2.12.007<br>for each rider of the teams<br>involved<br>Team:CHF 50 fine per<br>infringement|
 |9.4 Following vehicle failing to<br>respect a distance of 25 m during<br>an individual time trial||Rider:20 seconds per<br>infringement in the stage<br>classification concerned<br>Sport Director:CHF 500 fine per<br>infringement||Rider:20 seconds per<br>infringement in the stage<br>classification concerned<br>Sport Director:CHF 200 fine per<br>infringement||Rider:20 seconds per<br>infringement in the stage<br>classification concerned<br>Sport Director:CHF 100 fine per<br>infringement|
 |9.5 Assistance of any kind (nudging [poussette], guiding or pushing) among riders of the same team during a<br>imminent danger|||||team time trial, except in cases of||
 |One-day race||Rider:CHF 500 fine per rider<br>involved<br>Team:1 minute penalty||Rider:CHF 200 fine per rider<br>involved<br>Team:1 minute penalty||Rider:CHF 50 fine per rider<br>involved<br>Team:1 minute penalty|
@@ -6656,7 +6656,7 @@ _(text modified on 17.06.24)_
 
 Guarantee type: Performance bond 
 
-Guarantor: [ **INSERT NAME,** ~~**&**~~ **ADDRESS AND SWIFT CODE OF THE PAYING AGENT BANK** ] ("GUARANTOR") 
+Guarantor: [ **INSERT NAME,** <del>**&**</del> **ADDRESS AND SWIFT CODE OF THE PAYING AGENT BANK** ] ("GUARANTOR") 
 
 Applicant: [ **INSERT NAME & ADDRESS OF THE PAYING AGENT** ] ("APPLICANT") 
 
@@ -9899,7 +9899,7 @@ _(article introduced on 01.06.06; text modified on 01.04.11)._
 
 Guarantee type: Performance bond 
 
-Guarantor: [ **INSERT NAME,** ~~**&**~~ **ADDRESS AND SWIFT CODE OF THE PAYING AGENT BANK** ] ("GUARANTOR") 
+Guarantor: [ **INSERT NAME,** <del>**&**</del> **ADDRESS AND SWIFT CODE OF THE PAYING AGENT BANK** ] ("GUARANTOR") 
 
 Applicant: [ **INSERT NAME & ADDRESS OF THE PAYING AGENT** ] ("APPLICANT") 
 
@@ -13751,7 +13751,7 @@ ROAD RACES
 
 - **2.19.092** In addition, the UCI reserves the right to request teams to submit the text, in French or English, of their standard contract(s) with riders by 15 August. 
 
-- **2.19.093** The documents in question are submitted for information only. The UCI is under no obligation to examine them at this stage. However, without prejudice to other reasons for rejection, if a contract signed with a rider does not correspond to the standard contract specified in article 2.19.05 ~~5180,~~ it shall be rejected during the registration procedure. 
+- **2.19.093** The documents in question are submitted for information only. The UCI is under no obligation to examine them at this stage. However, without prejudice to other reasons for rejection, if a contract signed with a rider does not correspond to the standard contract specified in article 2.19.05 <del>5180,</del> it shall be rejected during the registration procedure. 
 
 The UCI Women’s ProTeam shall remain solely responsible for compliance of its documents with the requirements of the regulations and, where applicable, any compulsory legal requirements. 
 

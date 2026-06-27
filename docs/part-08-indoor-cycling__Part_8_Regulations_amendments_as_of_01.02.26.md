@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2KWJcLgQgKxRXQcyzWkNlx/33b
 source_sha256: 481f0279914441fd5e38491820d4a8935e0f355120092a9a5fe349a9a8d7cdce
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 01 February 2026 
 
@@ -16,7 +16,7 @@ MEMORANDUM 01 February 2026
 
 ## **PART 8 INDOOR CYCLING - ARTISTIC CYCLING** 
 
-- **8.4.039** Mistake-group 1g (~) ~~(valid for ACT4)~~ 
+- **8.4.039** Mistake-group 1g (~) <del>(valid for ACT4)</del> 
 
    - Devaluation when this kind of mistake occurs, before the first and between the figures, only once: 
 
@@ -28,21 +28,21 @@ MEMORANDUM 01 February 2026
 
 _(text modified on 01.01.16; 01.01.17; 01.01.20, 01.01.23, 01.02.26)_ 
 
-- **8.4.039** Mistake-group 1h (~) ~~(valid for ACT4)~~ **bis** Devaluation per kind of mistake, per rider and figure only once: 
+- **8.4.039** Mistake-group 1h (~) <del>(valid for ACT4)</del> **bis** Devaluation per kind of mistake, per rider and figure only once: 
 
    1. Only once or not crossing the inner circle during an eight; 2. Not crossing the inner circle during a half eight. 
 
 _(article integrated on 01.01.26, modified on 01.02.26)_ 
 
-## ~~**Leader’s jersey**~~ 
+## <del>**Leader’s jersey**</del> 
 
-- ~~**8.6.011** For each event, the UCI shall award a leader~~ ’ ~~s jersey at each competition of the series.~~ 
+- <del>**8.6.011** For each event, the UCI shall award a leader</del> ’ <del>s jersey at each competition of the series.</del> 
 
-~~The leader~~ ’ ~~s jersey may only be worn at UCI Artistic Cycling World Cup competitions, and in no other competition.~~ 
+<del>The leader</del> ’ <del>s jersey may only be worn at UCI Artistic Cycling World Cup competitions, and in no other competition.</del> 
 
-~~The colors of the leader~~ ’ ~~s jerseys are determined by the UCI.~~ 
+<del>The colors of the leader</del> ’ <del>s jerseys are determined by the UCI.</del> 
 
-~~Further details are regulated in article 1.3.055 bis.~~ 
+<del>Further details are regulated in article 1.3.055 bis.</del> 
 
 [abrogated on 01.02.26] 
 
@@ -54,13 +54,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **PART 8 INDOOR CYCLING - CYCLE BALL** 
 
-~~**Leader’s jersey**~~ 
+<del>**Leader’s jersey**</del> 
 
-- ~~**8.12.010** The UCI shall award a leader~~ ’ ~~s jersey at each competition of the series.~~ 
+- <del>**8.12.010** The UCI shall award a leader</del> ’ <del>s jersey at each competition of the series.</del> 
 
-~~The leader~~ ’ ~~s jersey may only be worn at UCI Cycle-ball World Cup competitions, and in no other competition.~~ 
+<del>The leader</del> ’ <del>s jersey may only be worn at UCI Cycle-ball World Cup competitions, and in no other competition.</del> 
 
-~~The colors of the leader~~ ’ ~~s jerseys are determined by the UCI as well as other details regulated in article 1.3.055 bis.~~ 
+<del>The colors of the leader</del> ’ <del>s jerseys are determined by the UCI as well as other details regulated in article 1.3.055 bis.</del> 
 
 [abrogated on 01.02.26] 
 

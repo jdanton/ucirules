@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/48ht0iakNWfszqkkd6KCkP/9a0
 source_sha256: 48e6f497a1383881903f383a937d4b34b609ac89b1263d53e6ed23e1b7a134d8
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 30.01.2026 
 
@@ -22,13 +22,13 @@ converter: pymupdf4llm
 
 - **1.1.002** No-one who does not hold the requisite licence may participate in a cycling event organised, sanctioned or supervised by the UCI, the UCI continental confederations, the UCI member national federations or their affiliates. 
 
-Participation by a person who does not hold the required licence shall lead to their exclusion or disqualification ~~be null and void, without prejudice to~~ as well as other penalties and proceedings pursuant to the regulations of the UCI and/or member national federation. Moreover, participation in a cycling event without the required licence shall not allow the individual to escape the jurisdiction of the disciplinary bodies of the UCI or the member national federations. 
+Participation by a person who does not hold the required licence shall lead to their exclusion or disqualification <del>be null and void, without prejudice to</del> as well as other penalties and proceedings pursuant to the regulations of the UCI and/or member national federation. Moreover, participation in a cycling event without the required licence shall not allow the individual to escape the jurisdiction of the disciplinary bodies of the UCI or the member national federations. 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
-- **1.1.004** Anyone requesting a licence thereby undertakes to respect the constitution and regulations of the UCI, the UCI continental confederations and the UCI member national ~~Ff~~ ederations, as well as to participate in cycling events in a sporting and fair manner. ~~HeT~~ hey shall undertake, in particular, to respect the obligations referred to in article 1.1.023. 
+- **1.1.004** Anyone requesting a licence thereby undertakes to respect the constitution and regulations of the UCI, the UCI continental confederations and the UCI member national <del>Ff</del> ederations, as well as to participate in cycling events in a sporting and fair manner. <del>HeT</del> hey shall undertake, in particular, to respect the obligations referred to in article 1.1.023. 
 
-As from the time of application for a licence and provided that the licence is issued, the applicant is responsible for any breach of the regulations that they commit ~~s~~ and ~~is s~~ ubject to the jurisdiction of the disciplinary bodies. 
+As from the time of application for a licence and provided that the licence is issued, the applicant is responsible for any breach of the regulations that they commit <del>s</del> and <del>is s</del> ubject to the jurisdiction of the disciplinary bodies. 
 
 Licence holders remain subject to the jurisdiction of the relevant disciplinary bodies for acts committed while applying for or while holding a licence, even if proceedings are started or continue after they cease to hold a licence. 
 
@@ -36,7 +36,7 @@ _(text modified on 01.01.04; 15.10.04; 01.02.26)_
 
 - **1.1.006** Federations shall issue licences according to such criteria as they may determine. They shall be responsible for monitoring compliance with these criteria. 
 
-Before the licence is issued, the ~~licence holder~~ applicant and the national federation must ensure _inter alia_ that the ~~licence holder~~ applicant is adequately insured against accidents and civil responsibility in every country where they intend to take part in cycling events ~~practices competitive cycle sport~~ or train ~~ing~~ throughout the year for which the licence is issued. 
+Before the licence is issued, the <del>licence holder</del> applicant and the national federation must ensure _inter alia_ that the <del>licence holder</del> applicant is adequately insured against accidents and civil responsibility in every country where they intend to take part in cycling events <del>practices competitive cycle sport</del> or train <del>ing</del> throughout the year for which the licence is issued. 
 
 Once the licence is issued, the licence holder and their team shall be entirely responsible for ensuring that the rider concerned only enters cycling events in countries where the insurance against accidents and for third-party liability are valid. The national federation and the UCI shall not be liable in any manner whatsoever in case a licence holder takes part in a cycling event in a country where their accident insurance or third-party liability insurance are not valid. The licence holder and their team shall be solely and exclusively liable for any such participation in a cycling event. 
 
@@ -72,7 +72,7 @@ The National Federation shall immediately inform the UCI of any decision – whe
 
 Any such decision may be appealed by the UCI and/or the applicant before the UCI Arbitral Board within 30 days of its notification. 
 
-This article ~~, in its current version,~~ shall apply to all licence applications made after its entry in force. As an exception, the previous version of this article shall be applied whenever any of the offences taken into consideration occurred at least partially before its entry in force and, based on the principle of _Lex Mitior_, the assessment would be favourable to the applicant. 
+This article <del>, in its current version,</del> shall apply to all licence applications made after its entry in force. As an exception, the previous version of this article shall be applied whenever any of the offences taken into consideration occurred at least partially before its entry in force and, based on the principle of _Lex Mitior_, the assessment would be favourable to the applicant. 
 
 As an exception to the above, the waiting period of 5 years to be observed in situations referred to in points 3 and 4 above does not apply to persons having signed an acceptance of consequences with the UCI before the adoption of the present article. 
 
@@ -84,7 +84,7 @@ _(text modified on 01.02.26)_
 
 ## **Issuing procedure** 
 
-- **1.1.011** The licence shall be issued by the federation of the country where, according to the legislation of that country, the applicant has ~~hist~~ heir main residence at the time of application. ~~THh~~ e licence holder shall remain affiliated to that federation until the expiry of the licence, even if they chang ~~es~~ country of residence. 
+- **1.1.011** The licence shall be issued by the federation of the country where, according to the legislation of that country, the applicant has <del>hist</del> heir main residence at the time of application. <del>THh</del> e licence holder shall remain affiliated to that federation until the expiry of the licence, even if they chang <del>es</del> country of residence. 
 
 _(text modified on 01.02.26)_ 
 
@@ -92,31 +92,31 @@ _(text modified on 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-- **1.1.014** Upon receipt of a licence application, the national federation shall respond within 30 days. ~~If a national federation does not respond to a licence application within 30 days of its being filed, the applicant may lodge his licence application with the UCI.~~ 
+- **1.1.014** Upon receipt of a licence application, the national federation shall respond within 30 days. <del>If a national federation does not respond to a licence application within 30 days of its being filed, the applicant may lodge his licence application with the UCI.</del> 
 
 _(text modified on 01.02.26)_ 
 
-- **1.1.015** If the ~~UCI or a n~~ ational federation deems that it cannot issue the requested licence, it shall inform the applicant to that effect stating its reasons ~~by registered letter with recorded delivery.~~ Similarly, the applicant shall be invited to defend ~~hist~~ heir application, as appropriate, before such person or commission as may be designated ~~by the president of the UCI or~~ as indicated in the regulations of the federation or, where the regulations contain no such mention, by its president. 
+- **1.1.015** If the <del>UCI or a n</del> ational federation deems that it cannot issue the requested licence, it shall inform the applicant to that effect stating its reasons <del>by registered letter with recorded delivery.</del> Similarly, the applicant shall be invited to defend <del>hist</del> heir application, as appropriate, before such person or commission as may be designated <del>by the president of the UCI or</del> as indicated in the regulations of the federation or, where the regulations contain no such mention, by its president. 
 
-The applicant shall be entitled to consult ~~hist~~ he application file. The ~~yHe~~ shall be entitled to present ~~hist~~ heir arguments and to enlist the assistance of or be represented by any person of ~~hist~~ heir choice bearing a proper power-of-attorney. 
+The applicant shall be entitled to consult <del>hist</del> he application file. The <del>yHe</del> shall be entitled to present <del>hist</del> heir arguments and to enlist the assistance of or be represented by any person of <del>hist</del> heir choice bearing a proper power-of-attorney. 
 
 _(text modified on 01.02.26)_ 
 
-- **1.1.016** The applicant shall be informed of ~~both t~~ he refusal to issue the licence and provided with ~~of~~ the reasons for such decision in writin ~~gthe refusal by registered letter with recorded delivery.~~ 
+- **1.1.016** The applicant shall be informed of <del>both t</del> he refusal to issue the licence and provided with <del>of</del> the reasons for such decision in writin <del>gthe refusal by registered letter with recorded delivery.</del> 
 
 _(text modified on 01.02.26)_ 
 
 - **1.1.017** A refusal to issue a licence shall be open to appeal before the UCI arbitral board in following cases: 
 
-   - the applicant has had no opportunity to present ~~his t~~ heir arguments; 
+   - the applicant has had no opportunity to present <del>his t</del> heir arguments; 
 
    - no reason was given for the decision; 
 
    - the reasons for the refusal contain factual errors; 
 
-   - the refusal w ~~ais~~ irregular. 
+   - the refusal w <del>ais</del> irregular. 
 
-The appeal shall be lodged within 30 days of reception by the applicant of the ~~notification of r~~ efusal. 
+The appeal shall be lodged within 30 days of reception by the applicant of the <del>notification of r</del> efusal. 
 
 The decision of the arbitral board is final and not subject to appeal. 
 
@@ -124,27 +124,27 @@ _(text modified on 01.01.10; 01.02.26)_
 
 - **1.1.018** A national federation may bring an appeal, before the UCI arbitral board, against the issuing of a licence by another national federation if the issuing federation did not have territorial jurisdiction or if the licence was irregularly issued. 
 
-This appeal shall be lodged within 15 days of the national federation being informed about the issuanc ~~ee~~ of the licence, but at the latest within three months of the licence being issued. 
+This appeal shall be lodged within 15 days of the national federation being informed about the issuanc <del>ee</del> of the licence, but at the latest within three months of the licence being issued. 
 
 The decision of the arbitral board is final and not subject to appeal. 
 
 _(text modified on 01.01.00; 01.01.10; 01.02.26)_ 
 
-- **1.1.019** The issuing of a licence by the UCI shall be subject to the payment of an amount set ~~annually b~~ y the UC ~~I management committee. To that amount shall be added such insurance premium as the UCI deems proper to take out for the rider. applicant.~~ 
+- **1.1.019** The issuing of a licence by the UCI shall be subject to the payment of an amount set <del>annually b</del> y the UC <del>I management committee. To that amount shall be added such insurance premium as the UCI deems proper to take out for the rider. applicant.</del> 
 
 _(text modified on 01.02.26)_ 
 
-- **1.1.020** ~~Any member N~~ ational federations shall be given access related to information on licences issued by other national federations to individuals which hold the nationality of their country. National Federations are entitled to inform the UCI of any licence which they consider to have been incorrectly issued by another national federation. ~~of which a licence holder possesses the nationality shall be informed within one month of the licence holder's application and the issuing of the licence in the following cases:~~ 
+- **1.1.020** <del>Any member N</del> ational federations shall be given access related to information on licences issued by other national federations to individuals which hold the nationality of their country. National Federations are entitled to inform the UCI of any licence which they consider to have been incorrectly issued by another national federation. <del>of which a licence holder possesses the nationality shall be informed within one month of the licence holder's application and the issuing of the licence in the following cases:</del> 
 
-   - ~~a) if the applicant does not hold the nationality of the federation to which he applied;~~ 
+   - <del>a) if the applicant does not hold the nationality of the federation to which he applied;</del> 
 
-   - ~~b) if the applicant holds the nationality of the federation to which he applied but also of one or more other national federations; c) if the licence application is made to the UCI.~~ 
+   - <del>b) if the applicant holds the nationality of the federation to which he applied but also of one or more other national federations; c) if the licence application is made to the UCI.</del> 
 
 _(text modified on 01.01.00; 01.02.26)_ 
 
 **Licence** 
 
-- **1.1.021** The licence application shall be made on a form to be prepared by each national federation. The content of such form shall be accepted by the applicant (and the applicant’s legal representative if ~~he/shet~~ hey ~~isa~~ re ~~a~~ minor), regardless of the form of presentation (electronic or paper). The form must at least include the information and the undertakings stated in the model of articles 1.1.022 and 1.1.023. 
+- **1.1.021** The licence application shall be made on a form to be prepared by each national federation. The content of such form shall be accepted by the applicant (and the applicant’s legal representative if <del>he/shet</del> hey <del>isa</del> re <del>a</del> minor), regardless of the form of presentation (electronic or paper). The form must at least include the information and the undertakings stated in the model of articles 1.1.022 and 1.1.023. 
 
 Applications submitted by paper shall be signed and dated by the applicant. 
 
@@ -182,9 +182,9 @@ UCI: national:
 
 10. Contact person: Phone number of the contact person[1]: 
 
-11. ~~Authority (f~~ National Federation ~~or UCI) t~~ hat issued the applicant's previous licence: 
+11. <del>Authority (f</del> National Federation <del>or UCI) t</del> hat issued the applicant's previous licence: 
 
-12. ~~Authority (f~~ National Federation ~~or UCI) t~~ hat has refused to issue a licence during the past three years: 
+12. <del>Authority (f</del> National Federation <del>or UCI) t</del> hat has refused to issue a licence during the past three years: 
 
 13.  Applicant's club: 
 
@@ -220,13 +220,13 @@ UCI: national:
 
 _(text modified on 15.10.04; 01.01.17; 01.01.18; 01.10.18; 01.02.26)_ 
 
-- **1.1.027** (N) The national federation shall determine whether the photograph of the holder has to appear on the licence. Should the photograph not be required, the holder must always be able to present ~~his~~ the licence together with another ID document bearing ~~hist~~ heir photo. 
+- **1.1.027** (N) The national federation shall determine whether the photograph of the holder has to appear on the licence. Should the photograph not be required, the holder must always be able to present <del>his</del> the licence together with another ID document bearing <del>hist</del> heir photo. 
 
 _(text modified on 01.02.26)_ 
 
-- **1.1.028** Each ~~Nn~~ ational ~~Ff~~ ederation shall inform the UCI within one week of the identity of the **bis** licence-holders whose licence ~~wai~~ s withdrawn, or who returned their licence. ~~or who did not renew their licence.~~ 
+- **1.1.028** Each <del>Nn</del> ational <del>Ff</del> ederation shall inform the UCI within one week of the identity of the **bis** licence-holders whose licence <del>wai</del> s withdrawn, or who returned their licence. <del>or who did not renew their licence.</del> 
 
-_(article introduced on 01.01.09; 01.02.2_ ~~_6,)_~~ 
+_(article introduced on 01.01.09; 01.02.2_ <del>_6,)_</del> 
 
 ## **Penalties** 
 
@@ -246,33 +246,33 @@ _(article introduced on 01.01.09; 01.02.2_ ~~_6,)_~~
 
 _(text modified on 15.10.04; 01.01.18; 01.02.26)_ 
 
-- ~~**1.1.032** A licence holder whose licence is withdrawn because of a suspension the effect of which is limited to the territory of his national federation, may obtain a provisional authorisation from the UCI which is valid in all other UCI member countries. Such a provisional authorisation shall in all other respects be subject to the rules governing the licence.~~ 
+- <del>**1.1.032** A licence holder whose licence is withdrawn because of a suspension the effect of which is limited to the territory of his national federation, may obtain a provisional authorisation from the UCI which is valid in all other UCI member countries. Such a provisional authorisation shall in all other respects be subject to the rules governing the licence.</del> 
 
 [article abrogated on 01.02.26] 
 
-- **1.1.033** All licence ~~-~~ holders shall be assigned the sporting nationality corresponding to their nationality, regardless of the national federation that issues the licence. The sporting nationality shall be assigned upon issuance of the first licence. A rider holding multiple nationalities shall be required to choose between them on the occasion of first applying 
+- **1.1.033** All licence <del>-</del> holders shall be assigned the sporting nationality corresponding to their nationality, regardless of the national federation that issues the licence. The sporting nationality shall be assigned upon issuance of the first licence. A rider holding multiple nationalities shall be required to choose between them on the occasion of first applying 
 
-for a licence. A stateless licence ~~-~~ holder shall be assigned the sporting nationality of the country in which he has continuously resided since at least five years. 
+for a licence. A stateless licence <del>-</del> holder shall be assigned the sporting nationality of the country in which he has continuously resided since at least five years. 
 
-For any cycling event where a rider represents his national team, the rider may only be selected by the federation of ~~hist~~ heir sporting nationality. 
+For any cycling event where a rider represents his national team, the rider may only be selected by the federation of <del>hist</del> heir sporting nationality. 
 
-A rider shall be subject to the regulations and disciplinary procedures of the national federation of ~~hist~~ heir nationality in all matters concerning ~~his s~~ election for the national team. 
+A rider shall be subject to the regulations and disciplinary procedures of the national federation of <del>hist</del> heir nationality in all matters concerning <del>his s</del> election for the national team. 
 
-A rider recognised as refugee in ~~hist~~ heir country of residence (by the relevant state authorities or the UNHCR) may choose between the sporting nationality corresponding to ~~hist~~ heir nationality or be classified as “refugee” for the purpose of sporting nationality pursuant to this article. In such a case, the rider shall be entitled to compete in events with participation of national teams when provided for under the UCI Regulations (e.g., participation rules and/or qualification systems). 
+A rider recognised as refugee in <del>hist</del> heir country of residence (by the relevant state authorities or the UNHCR) may choose between the sporting nationality corresponding to <del>hist</del> heir nationality or be classified as “refugee” for the purpose of sporting nationality pursuant to this article. In such a case, the rider shall be entitled to compete in events with participation of national teams when provided for under the UCI Regulations (e.g., participation rules and/or qualification systems). 
 
 _(text modified on 08.06.00; 01.01.04; 01.10.11; 01.05.14; 01.01.19; 05.02.19; 01.03.22; 01.01.23; 01.02.26)_ 
 
 - **1.1.033** A. A rider may request a change of sporting nationality to the UCI in the following cases **bis** and under one of the following conditions: 
 
-   - a. if the civil nationality in question is lost for any reason, the rider may choose the sporting nationality of another nationality which they hol ~~ds;~~ 
+   - a. if the civil nationality in question is lost for any reason, the rider may choose the sporting nationality of another nationality which they hol <del>ds;</del> 
 
-   - b. if the rider was a minor at the time of first applying for a licence, the rider may choose a different nationality which they hol ~~ds~~ when making a first application for a licence after they reac ~~hes~~ the age of majority; 
+   - b. if the rider was a minor at the time of first applying for a licence, the rider may choose a different nationality which they hol <del>ds</del> when making a first application for a licence after they reac <del>hes</del> the age of majority; 
 
    - c. if the rider holds another nationality without letters a. or b. applying, subject to the following limitations and restrictions: 
 
       - such a change of nationality may be made no more than twice in a career; 
 
-      - if a rider has previously been entered by their national federation and represented ~~hist~~ heir national team in any of the following events: Olympic Games, Continental or Regional Games, World Championships, Continental Championships, World Cup, in any category (Junior, U23, Elite, Masters), the rider shall not be eligible for selection with another national team in the subsequent edition of each of the World Championships and/or Continental Championships (in all disciplines and categories), starting as from the confirmation of the change of nationality by the UCI. This restriction shall not apply in case of a change of sporting nationality from refugee status to the nationality of the country of residence after being granted nationality in said country. 
+      - if a rider has previously been entered by their national federation and represented <del>hist</del> heir national team in any of the following events: Olympic Games, Continental or Regional Games, World Championships, Continental Championships, World Cup, in any category (Junior, U23, Elite, Masters), the rider shall not be eligible for selection with another national team in the subsequent edition of each of the World Championships and/or Continental Championships (in all disciplines and categories), starting as from the confirmation of the change of nationality by the UCI. This restriction shall not apply in case of a change of sporting nationality from refugee status to the nationality of the country of residence after being granted nationality in said country. 
 
       - in case of a second change of nationality under letter c., the rider’s ineligibility for participation in World Championships and Continental Championships shall apply to the two subsequent editions of each event, starting from the confirmation of the change of nationality by the UCI. 
 
@@ -284,11 +284,11 @@ potential restriction on participation in such events are governed by either the
 
 - B. In order to formalise a change of nationality, the following documents must be submitted to the UCI: 
 
-- Proof of eligibility for the nationality chose ~~n,~~ (ex: passport or certificate issued by a ministry, consulate, embassy, etc.) 
+- Proof of eligibility for the nationality chose <del>n,</del> (ex: passport or certificate issued by a ministry, consulate, embassy, etc.) 
 
 - A formal statement by the applicant, signed and dated, expressing the choice of nationality and acknowledging the restrictions imposed on participation, if applicable. 
 
-- If an applicant intends for the change of nationality to be effective from a specific date, the latter shall make such request to the UCI at least three months before the said date. Once the change of nationality is confirmed, the UCI will notify the applicant and the ~~concerned n~~ ational federations concerned. 
+- If an applicant intends for the change of nationality to be effective from a specific date, the latter shall make such request to the UCI at least three months before the said date. Once the change of nationality is confirmed, the UCI will notify the applicant and the <del>concerned n</del> ational federations concerned. 
 
 In the event of a change of nationality, the rider retains the individual points acquired until then. The points acquired by the nation of the former nationality are retained by the latter. 
 
@@ -318,7 +318,7 @@ _(text modified on 01.01.05; 01.01.17; 01.01.19, 01.01.25; 01.02.26)_
 
 ## **1.1.036  Youth** 
 
-This category denotes riders aged 16 years or under and is ~~controlled g~~ overned by national federations, except as provided for Trials BMX Racing, BMX Freestyle, Indoor Cycling and Para Cycling in article 1.1.035. 
+This category denotes riders aged 16 years or under and is <del>controlled g</del> overned by national federations, except as provided for Trials BMX Racing, BMX Freestyle, Indoor Cycling and Para Cycling in article 1.1.035. 
 
 ## **Junior (MJ: Men Junior)** 
 
@@ -352,7 +352,7 @@ _(text modified on 01.01.03; 01.01.04; 01.01.05; 25.06.07; 01.07.13; 01.01.15; 0
 
 ## **1.1.037  Youth** 
 
-This category denotes riders aged 16 years or under and is ~~controlledg~~ overned by national federations, except as provided for Trials, BMX Racing, BMX Freestyle, Indoor Cycling and Par ~~a-c~~ Cycling in article 1.1.035. 
+This category denotes riders aged 16 years or under and is <del>controlledg</del> overned by national federations, except as provided for Trials, BMX Racing, BMX Freestyle, Indoor Cycling and Par <del>a-c</del> Cycling in article 1.1.035. 
 
 ## **Junior (WJ: Women Junior)** 
 
@@ -394,21 +394,21 @@ UCI Women’s WorldTeams: articles 2.13.128 and seq. UCI ProTeams: articles 2.16
 
 UCI Women’s ProTeams: articles 2.19.001 et seq. 
 
-UCI continental teams and UCI women’s continental teams: articles 2.17.001 and seq. UCI mountain ~~-b~~ ike teams: articles 4. ~~14~~ 18.001 and seq. 
+UCI continental teams and UCI women’s continental teams: articles 2.17.001 and seq. UCI mountain <del>-b</del> ike teams: articles 4. <del>14</del> 18.001 and seq. 
 
-UCI track teams: articles 3.7.001 and seq. ~~UCI BMX Racing teams: articles 6.8.001 and seq.~~ UCI cyclo-cross teams and UCI cyclo-cross professional teams: articles 5.5.001 and seq. 
+UCI track teams: articles 3.7.001 and seq. <del>UCI BMX Racing teams: articles 6.8.001 and seq.</del> UCI cyclo-cross teams and UCI cyclo-cross professional teams: articles 5.5.001 and seq. 
 
 The reference to the UCI in the name of the categories of teams above refers only to the fact that the team has been registered with the UCI under the present regulations. 
 
 _(text modified on 01.01.05; 01.07.10; 01.01.15; 01.07.18; 01.02.26)_ 
 
-- **1.1.042** ~~A rR~~ iders who ~~isa~~ re part of ~~a t~~ eams registered with the UCI may not enter into commitments wit ~~hto an~~ organisers, whoever they may be, to take part in an event unless they hav ~~es~~ obtained prior consent from ~~hist~~ heir team. That agreement shall be considered to have been granted if, on being duly requested, no answer has been received within ten days. 
+- **1.1.042** <del>A rR</del> iders who <del>isa</del> re part of <del>a t</del> eams registered with the UCI may not enter into commitments wit <del>hto an</del> organisers, whoever they may be, to take part in an event unless they hav <del>es</del> obtained prior consent from <del>hist</del> heir team. That agreement shall be considered to have been granted if, on being duly requested, no answer has been received within ten days. 
 
-Any rider in breach of this regulation shall be ~~disqualified and f~~ ined from CHF 300 to 5,000 and may be disqualified, without prejudice to specific provisions for each discipline and/or category of teams and/or events. 
+Any rider in breach of this regulation shall be <del>disqualified and f</del> ined from CHF 300 to 5,000 and may be disqualified, without prejudice to specific provisions for each discipline and/or category of teams and/or events. 
 
 _(article introduced on 01.01.05; 01.02.26)_ 
 
-- **1.1.043** A rider whose team is entered in a race may not participate independently of ~~his~~ the tea ~~m, offendersB~~ reaches are sanctioned wit ~~hwill be disqualified and~~ fined from CHF 300 to 2,000 and may be disqualified. 
+- **1.1.043** A rider whose team is entered in a race may not participate independently of <del>his</del> the tea <del>m, offendersB</del> reaches are sanctioned wit <del>hwill be disqualified and</del> fined from CHF 300 to 2,000 and may be disqualified. 
 
 _(article introduced on 01.01.05; 01.02.26)_ 
 
@@ -426,11 +426,11 @@ It shall record decisions of individual commissaires and shall apply and/or conf
 
 _(text modified on 01.01.2026)_ 
 
-- **1.1.050** Each commissaire shall act neutrally and independently. ~~THh~~ ey may in no way be involved in the organisation of the race. T ~~hHe~~ y shall immediately decline their ~~his~~ appointment if they ~~is~~ are aware of any aspect that could cast doubt on thei ~~rhis~~ neutrality. 
+- **1.1.050** Each commissaire shall act neutrally and independently. <del>THh</del> ey may in no way be involved in the organisation of the race. T <del>hHe</del> y shall immediately decline their <del>his</del> appointment if they <del>is</del> are aware of any aspect that could cast doubt on thei <del>rhis</del> neutrality. 
 
 ( _text modified on 25.06.19)_ 
 
-- **1.1.052** Except where an exemption is granted by the UCI, a commissaire other than a ~~n~~ UCI international commissaire may officiate only in the country of their ~~his~~ national federation. 
+- **1.1.052** Except where an exemption is granted by the UCI, a commissaire other than a <del>n</del> UCI international commissaire may officiate only in the country of their <del>his</del> national federation. 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
@@ -464,7 +464,7 @@ _(article introduced on 01.01.17; text modified on 01.01.19; 05.02.19; 01.02.26)
 
    4. have a command of the official course language, which will be one of the two official UCI languages (French or English). 
 
-The final selection of candidates is ~~operated u~~ ndertaken by the UCI based on the needs, the files received, the places available. Additional criteria might be established specifically for the course. 
+The final selection of candidates is <del>operated u</del> ndertaken by the UCI based on the needs, the files received, the places available. Additional criteria might be established specifically for the course. 
 
 If a false statement is made, the candidate shall be excluded from every course or examination. If applicable, he shall be stripped of the title of international commissaire. 
 
@@ -494,9 +494,9 @@ The syllabus for each training course shall comprise a general part common to al
 
 Disciplines / categories 
 
-- ~~Rr~~ oad 
+- <del>Rr</del> oad 
 
-- ~~Tt~~ rack 
+- <del>Tt</del> rack 
 
 - mountain bike 
 
@@ -506,13 +506,13 @@ Disciplines / categories
 
 - BMX Freestyle 
 
-- ~~Tt~~ rials 
+- <del>Tt</del> rials 
 
 - cycle-ball 
 
 - artistic cycling 
 
-- ~~pPa~~ ra ~~Cc~~ ycling 
+- <del>pPa</del> ra <del>Cc</del> ycling 
 
 _(text modified on 01.01.05; 01.01.07; 25.06.07; 01.01.17)_ 
 
@@ -532,7 +532,7 @@ The seminars for training and improving skills, as well as assessments, are led 
 
 Commissaires who do not take part in the seminars for training and improving skills or are not deemed to hold the required skill levels, are not reappointed by the UCI. 
 
-If necessary, the qualification of UCI international commissaire may b ~~eis~~ withdrawn. 
+If necessary, the qualification of UCI international commissaire may b <del>eis</del> withdrawn. 
 
 _(text modified on 01.01.04; 01.01.07; 01.01.17; 01.02.26)_ 
 
@@ -544,7 +544,7 @@ _(text modified on 01.01.04; 01.01.07; 01.01.17; 01.02.26)_
 
    - exercise any technical function (team assistant, mechanic, paramedical assistant, team manager, etc.) for a national federation or a team registered with the UCI. 
 
-   - exercise the function of president or vice president within a national federation or continental confederation. A UCI international commissaire may ~~in no case~~ not carry out another role on the occasion of an international event. 
+   - exercise the function of president or vice president within a national federation or continental confederation. A UCI international commissaire may <del>in no case</del> not carry out another role on the occasion of an international event. 
 
 _(text modified on 01.01.00; 01.01.05; 01.01.07; 01.07.07; 25.06.07; 01.02.13; 01.01.17; 01.01.19; 01.02.26)_ 
 
@@ -552,11 +552,11 @@ _(text modified on 01.01.00; 01.01.05; 01.01.07; 01.07.07; 25.06.07; 01.02.13; 0
 
 _(text modified on 01.01.17; 01.02.26)_ 
 
-- **1.1.071** An international commissaire, if not appointed by the UCI, may be appointed by ~~hist~~ heir national federation to officiate in ~~itst~~ heir country. 
+- **1.1.071** An international commissaire, if not appointed by the UCI, may be appointed by <del>hist</del> heir national federation to officiate in <del>itst</del> heir country. 
 
 _(text modified on 01.02.26)_ 
 
-- **1.1.072** A UCI international commissaire may not accept a mission abroad without the agreement of thei ~~rhis~~ national federation and of the UCI, other than when appointed by the UCI. Without the agreement of the UCI, the measures listed in article 1.1.066 can be applied. 
+- **1.1.072** A UCI international commissaire may not accept a mission abroad without the agreement of thei <del>rhis</del> national federation and of the UCI, other than when appointed by the UCI. Without the agreement of the UCI, the measures listed in article 1.1.066 can be applied. 
 
 _(text modified on 01.02.11; 01.02.26)_ 
 
@@ -580,7 +580,7 @@ The registration of Sports Directors and assistant sports directors of UCI World
 
 _(text modified on 15.10.04; 01.01.13; 01.01.15; 01.01.17; 01.07.18; 01.01.20; 01.10.22; 01.07.24; 01.02.26)_ 
 
-- **1.1.086** The team manager may be held responsible for infractions committed by persons indicated in article 1.1.080 and shall be penalised under the provisions for the infraction in question, unless they can demonstrate that the infraction could not have been avoided through reasonable actions ~~annot reasonably be considered to have been caused by negligence on his part,~~ and that their actions (or omission) ~~he~~ did not contribute to the infraction being committed ~~endorse it~~ in any way. 
+- **1.1.086** The team manager may be held responsible for infractions committed by persons indicated in article 1.1.080 and shall be penalised under the provisions for the infraction in question, unless they can demonstrate that the infraction could not have been avoided through reasonable actions <del>annot reasonably be considered to have been caused by negligence on his part,</del> and that their actions (or omission) <del>he</del> did not contribute to the infraction being committed <del>endorse it</del> in any way. 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
@@ -596,13 +596,13 @@ _(text modified on 01.01.05; 01.02.26)_
 
 In addition, it is forbidden for licence-holders to place bets or agree with a third person for a bet to be placed in relation to the following events: 
 
-- a) Events in which their ~~his~~ team may participate or in relation to which they ~~is~~ are directly involved in another manner; 
+- a) Events in which their <del>his</del> team may participate or in relation to which they <del>is</del> are directly involved in another manner; 
 
 - b) All national, continental and world championships of his discipline(s); and 
 
-- c) All multisport events in which they participate ~~s~~ in relation to which they are ~~is~~ otherwise involved. 
+- c) All multisport events in which they participate <del>s</del> in relation to which they are <del>is</del> otherwise involved. 
 
-Violations to the present article may be sanctioned with a fine of CHF 2’000 to CHF 200’000 and/or a suspension of 8 days to 1 year. Violations to the first paragraph of the present article by an organiser may also be sanctioned with a withdrawal of ~~itst~~ heir events’ registration. 
+Violations to the present article may be sanctioned with a fine of CHF 2’000 to CHF 200’000 and/or a suspension of 8 days to 1 year. Violations to the first paragraph of the present article by an organiser may also be sanctioned with a withdrawal of <del>itst</del> heir events’ registration. 
 
 _(text modified on 11.02.20; 01.02.26)_ 
 
@@ -612,11 +612,11 @@ _(text modified on 11.02.20; 01.02.26)_
 
 ## **§ 1 Calendar** 
 
-- **1.2.004** In each discipline a world calendar ~~, a continental calendar by continent~~ and a national calendar by national federation shall be prepared. A continental calendar by continent shall also be established for certain disciplines. 
+- **1.2.004** In each discipline a world calendar <del>, a continental calendar by continent</del> and a national calendar by national federation shall be prepared. A continental calendar by continent shall also be established for certain disciplines. 
 
-The international calendar comprises the events which are registered within the different classes of events as set in the respective regulations for each discipline ~~world calendar and continental calendars~~. 
+The international calendar comprises the events which are registered within the different classes of events as set in the respective regulations for each discipline <del>world calendar and continental calendars</del>. 
 
-Events which are part of a continental calendar are also part of the international calendar ~~An international race is a race entered on a world calendar or on a continental calendar.~~ 
+Events which are part of a continental calendar are also part of the international calendar <del>An international race is a race entered on a world calendar or on a continental calendar.</del> 
 
 A national race is a race entered on a national calendar. 
 
@@ -624,7 +624,7 @@ Any race which has not received prior authorisation or is not registered on the 
 
 _(text modified on 01.01.01, 01.07.22; 01.02.26)_ 
 
-- **1.2.005** With the exception of UCI WorldTour events, the internationa ~~lworld and continental~~ calendars are as determined by the UCI management committee ~~on the advice of the continental confederations for the competitions which concern them.~~ 
+- **1.2.005** With the exception of UCI WorldTour events, the internationa <del>lworld and continental</del> calendars are as determined by the UCI management committee <del>on the advice of the continental confederations for the competitions which concern them.</del> 
 
 The calendar of UCI WorldTour events is drawn up by the Professional Cycling Council, in line with the provisions concerning the UCI WorldTour in Part II, section XV. 
 
@@ -640,7 +640,7 @@ The organiser of cyclo-cross, mountain bike or BMX Racing and BMX Freestyle even
 
 The organiser of a paracycling event registered on a national calendar in which riders of many foreign federations participated, as per Article 16.18.003, must request the inclusion of the next edition of the event on the international calendar. 
 
-Regarding road, national federations shall pass on applications for inclusion to the UCI ~~with a copy to their continental confederation~~ no later than July 1st of the year preceding that for which inclusion is requested. For MTB, BMX Racing, BMX Freestyle, trials, track, para-cycling track, para-cycling road, indoor cycling and cycling for all, this date is the last Friday of July as for cyclo-cross, the deadline shall be set at December 15th. 
+Regarding road, national federations shall pass on applications for inclusion to the UCI <del>with a copy to their continental confederation</del> no later than July 1st of the year preceding that for which inclusion is requested. For MTB, BMX Racing, BMX Freestyle, trials, track, para-cycling track, para-cycling road, indoor cycling and cycling for all, this date is the last Friday of July as for cyclo-cross, the deadline shall be set at December 15th. 
 
 National federations and continental confederations shall submit applications for their own events directly to the UCI. 
 
@@ -656,25 +656,25 @@ For any application received after expiry of any above-mentioned deadlines, the 
 
 _(text modified on 01.06.98; 01.01.03; 01.01.04; 01.01.05; 01.07.09; 01.07.12; 25.02.13; 01.07.13; 01.01.16; 01.01.17; 08.02.18; 01.07.18; 01.07.22; 04.08.23; 01.02.26)_ 
 
-- **1.2.007** ~~The draft continental calendars shall be sent by the UCI to the respective continental confederations which may state their opinions thereon within 30 days of the despatch of the draft.~~ 
+- **1.2.007** <del>The draft continental calendars shall be sent by the UCI to the respective continental confederations which may state their opinions thereon within 30 days of the despatch of the draft.</del> 
 
-   - ~~Continental confederations shall, whenever publishing their continental calendars, include world calendar races that are run on their territories.~~ [article abrogated on 01.02.26] 
+   - <del>Continental confederations shall, whenever publishing their continental calendars, include world calendar races that are run on their territories.</del> [article abrogated on 01.02.26] 
 
 - **1.2.012** The inclusion of a race on the international calendar shall be subject to the payment of a fee, called the UCI calendar fee, the amount of which shall be set annually by the UCI management committee. 
 
-The total amount of the fee must be paid by the organiser to the UCI upon reception of an invoice from the UCI. Invoices are sent ~~90 days before an event, or u~~ pon approval of the race in the international calendar, whichever is later. 
+The total amount of the fee must be paid by the organiser to the UCI upon reception of an invoice from the UCI. Invoices are sent <del>90 days before an event, or u</del> pon approval of the race in the international calendar, whichever is later. 
 
 The UCI reserves the right to remove the race from the international calendar at any moment prior to the event should the calendar fee remain unpaid. In such a 
 
 circumstance, no UCI International Commissaires will be appointed, respectively no UCI ranking points will be awarded to the participants; should the organiser wish to re-register the event on the calendar on a following season a penalty fee of CHF 250 will be applied. 
 
-Furthermore, a race inscription shall be refused if the enrolment fees for previous season’s races have not been paid or if the organiser does not honour its financial obligations with the UCI and/or to other stakeholders ~~,~~ - including the non-payment of prize money - subject to the relevant claim being duly established. This measure also applies to the new organiser of the race and, in general, to the organiser and/or race that the UCI ~~management committee~~ considers to be the successor of another organiser or another race, whether the name of the event remains the same or not. 
+Furthermore, a race inscription shall be refused if the enrolment fees for previous season’s races have not been paid or if the organiser does not honour its financial obligations with the UCI and/or to other stakeholders <del>,</del> - including the non-payment of prize money - subject to the relevant claim being duly established. This measure also applies to the new organiser of the race and, in general, to the organiser and/or race that the UCI <del>management committee</del> considers to be the successor of another organiser or another race, whether the name of the event remains the same or not. 
 
 _(text modified on 01.06.98; 01.02.03; 01.01.04; 01.01.05; 01.01.21; 01.07.22; 01.02.26)_ 
 
 ## **§ 2 Names of races** 
 
-- **1.2.015** ~~TheA~~ n organiser cannot call ~~his~~ an event by any name other than that under which it was entered on the calendar. 
+- **1.2.015** <del>TheA</del> n organiser cannot call <del>his</del> an event by any name other than that under which it was entered on the calendar. 
 
 _(text modified on 01.02.26)_ 
 
@@ -684,7 +684,7 @@ The national federation and the UCI may ask that the name of the race be altered
 
 _(text modified on 01.02.26)_ 
 
-- **1.2.018** ~~TheA~~ n organiser shall not ~~avoid~~ giv ~~eing~~ the impression that their ~~his~~ race has a status that it does not have. 
+- **1.2.018** <del>TheA</del> n organiser shall not <del>avoid</del> giv <del>eing</del> the impression that their <del>his</del> race has a status that it does not have. 
 
 _(text modified on 01.02.26)_ 
 
@@ -702,11 +702,11 @@ The UCI may grant authorisations to events which do not meet the criteria for re
 
 In case of authorisation, the event shall be published by the UCI. 
 
-National federations issue authorisations to licence-holders wishing to take part in events which are not registered on a national of international calendar ~~in accordance with the above.~~ However, participation of members of UCI teams shall require the UCI’s approval. 
+National federations issue authorisations to licence-holders wishing to take part in events which are not registered on a national of international calendar <del>in accordance with the above.</del> However, participation of members of UCI teams shall require the UCI’s approval. 
 
 _(text modified on 25.09.14; 01.07.22; 01.02.26)_ 
 
-- **1.2.020** Licence holders may not participate in activities organised by a national federation that has been suspended, save in application of article 2 ~~019.~~ 4 of the UCI constitution. 
+- **1.2.020** Licence holders may not participate in activities organised by a national federation that has been suspended, save in application of article 2 <del>019.</del> 4 of the UCI constitution. 
 
 _(text modified on 01.02.26)_ 
 
@@ -714,15 +714,15 @@ _(text modified on 01.02.26)_
 
 - **1.2.022** No suspended licence holder may be admitted to a race or to zones not accessible to the public. 
 
-Anyone knowingly engaging or entering a suspended rider or staff member ~~fora~~ t a race shall be fined between CHF 2,000 and 10,000. 
+Anyone knowingly engaging or entering a suspended rider or staff member <del>fora</del> t a race shall be fined between CHF 2,000 and 10,000. 
 
 _(text modified on 01.02.26)_ 
 
 ## **§ 7 National Championships** 
 
-- **1.2.028** Participation in national championships shall be regulated by the respective national federations. Only riders who hold the sporting nationality of the country ~~for the purposes of the present regulations~~ according to article 1.1.033 may compete for the title of national champion and the relevant points. The national federation shall ensure that all riders with the sporting nationality of that country are entitled to take part in the national championships, regardless of the national federation that issued their licence. A rider cannot compete for the title of national champion and the relevant points for more than one country during the same season. 
+- **1.2.028** Participation in national championships shall be regulated by the respective national federations. Only riders who hold the sporting nationality of the country <del>for the purposes of the present regulations</del> according to article 1.1.033 may compete for the title of national champion and the relevant points. The national federation shall ensure that all riders with the sporting nationality of that country are entitled to take part in the national championships, regardless of the national federation that issued their licence. A rider cannot compete for the title of national champion and the relevant points for more than one country during the same season. 
 
-If a national federation organises a separate event to award the national champion's title in a given category, riders in this category may not take part in the national championship event in another category, with the exception of track and para cycling track. As an exception, if a national federation organises separate ~~eventsr~~ aces for the award of the Elite and U23 national road champion titles, the national federation may determine that U23 riders are authorised to take part in both races ~~events.~~ 
+If a national federation organises a separate event to award the national champion's title in a given category, riders in this category may not take part in the national championship event in another category, with the exception of track and para cycling track. As an exception, if a national federation organises separate <del>eventsr</del> aces for the award of the Elite and U23 national road champion titles, the national federation may determine that U23 riders are authorised to take part in both races <del>events.</del> 
 
 A maximum of three national federations may organise their national championships as a joint event. 
 
@@ -732,9 +732,9 @@ _(text modified on 01.01.05; 01.01.19; 01.02.26)_
 
 - **1.2.029** National road championships shall be organised during the last full week of the month of June. All results must be received by the UCI within UCI DataRide no later than two days after the last day of the event. No result received after that time shall be taken into consideration for the UCI classification. UCI points awarded will be included in the ranking calculated on the week following the receiving of the results. 
 
-The national cyclo-cross championships shall be run on the second weekend of January. ~~over the weekend, including the second Sunday after 2 January.on the date set by the Management Committee.~~ 
+The national cyclo-cross championships shall be run on the second weekend of January. <del>over the weekend, including the second Sunday after 2 January.on the date set by the Management Committee.</del> 
 
-National mountain bike championships of cross-country Olympic (XCO) and crosscountry short track (XCC) shall be run ~~on the 29th weekend of the year;~~ on the third weekend of July ~~.. starting from 2025.~~ 
+National mountain bike championships of cross-country Olympic (XCO) and crosscountry short track (XCC) shall be run <del>on the 29th weekend of the year;</del> on the third weekend of July <del>.. starting from 2025.</del> 
 
 National BMX Racing championships shall be run on the first weekend of July. 
 
@@ -752,23 +752,23 @@ _(text modified on 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.01.08; 01.07.10; 0
 
 ## **§ 1 Organiser** 
 
-- **1.2.031** The organiser of a cycling race shall be licensed as such. ~~HeT~~ he organiser shall be a licence holder of the national federation of the country where the race is run. 
+- **1.2.031** The organiser of a cycling race shall be licensed as such. <del>HeT</del> he organiser shall be a licence holder of the national federation of the country where the race is run. 
 
 _(text modified on 01.02.26)_ 
 
-- **1.2.032** The organiser shall be entirely and exclusively responsible for the organisation of ~~hist~~ he race, with respect both to compliance with UCI regulations and to the administrative, financial and legal aspects. 
+- **1.2.032** The organiser shall be entirely and exclusively responsible for the organisation of <del>hist</del> he race, with respect both to compliance with UCI regulations and to the administrative, financial and legal aspects. 
 
 The organiser alone shall be responsible to the authorities, participants, attendants, officials and spectators. 
 
-The organiser shall be responsible for financial obligations arising from previous occasions on which that event was organised by a third party or from those to which ~~hist~~ he event is considered to be the successor by the UC ~~Imanagement committee~~ or, where the event in question is a UCI WorldTour or UCI Women’s WorldTour event, by the Professional Cycling Council. 
+The organiser shall be responsible for financial obligations arising from previous occasions on which that event was organised by a third party or from those to which <del>hist</del> he event is considered to be the successor by the UC <del>Imanagement committee</del> or, where the event in question is a UCI WorldTour or UCI Women’s WorldTour event, by the Professional Cycling Council. 
 
 _(text modified on 02.03.00; 01.01.05; 01.02.26)_ 
 
-- **1.2.034** The organiser shall take out insurance covering all risks relating to the holding of th ~~ehis~~ race. The organiser shall be entirely responsible for providing the insurance carrier with detailed information regarding the organisation of its event to ensure appropriate coverage. 
+- **1.2.034** The organiser shall take out insurance covering all risks relating to the holding of th <del>ehis</del> race. The organiser shall be entirely responsible for providing the insurance carrier with detailed information regarding the organisation of its event to ensure appropriate coverage. 
 
 The third-party liability insurance taken out by the organiser shall ensure appropriate coverage of damage caused to third parties such as riders, staff and spectators and shall not make coverage conditional on such third parties discharging the organiser’s liability. 
 
-The third-party liability insurance taken out by the organiser must nominate the UCI as an additiona ~~l jointly~~ insured party and cover claims which may be made against the UCI in connection with the event and the areas of intervention of UCI officials. 
+The third-party liability insurance taken out by the organiser must nominate the UCI as an additiona <del>l jointly</del> insured party and cover claims which may be made against the UCI in connection with the event and the areas of intervention of UCI officials. 
 
 _(text modified on 01.01.05; 01.03.22; 01.02.26)_ 
 
@@ -786,13 +786,13 @@ _(article introduced on 01.03.22, modified on 01.01.24; 01.02.26)_
 
 ## **§ 2 Authorisation to organise the event** 
 
-- **1.2.037** A cyclin ~~ge race~~ event may be organised only if it has been included on a national ~~, continental or world~~ or international calendar. 
+- **1.2.037** A cyclin <del>ge race</del> event may be organised only if it has been included on a national <del>, continental or world</del> or international calendar. 
 
-The inclusion of the event ~~race~~ on the calendar means that its organisation has been authorise ~~dauthorisation~~, but does not imply that the UCI or the national federation that registered it undertake responsibility for it. 
+The inclusion of the event <del>race</del> on the calendar means that its organisation has been authorise <del>dauthorisation</del>, but does not imply that the UCI or the national federation that registered it undertake responsibility for it. 
 
 _(article modified on 01.02.26)_ 
 
-- **1.2.039** The organiser shall, within the deadline set by their ~~his~~ national federation, submit to it the technical file on that race comprising at least the following data (if applicable): 
+- **1.2.039** The organiser shall, within the deadline set by their <del>his</del> national federation, submit to it the technical file on that race comprising at least the following data (if applicable): 
 
    - the specific regulations for the race; these regulations may not be published in the programme until they have been approved by the national federation; 
 
@@ -826,21 +826,21 @@ _(text modified on 01.01.05; 01.07.11; 01.02.26)_
 
 ## **§ 3 Specific regulations** 
 
-- **1.2.040** The organiser shall draw up a set of regulations specific to ~~his racet~~ he event when required by the UCI regulations. 
+- **1.2.040** The organiser shall draw up a set of regulations specific to <del>his racet</del> he event when required by the UCI regulations. 
 
-The regulations shall inter alia cover sporting aspects particular to the event ~~race~~. 
+The regulations shall inter alia cover sporting aspects particular to the event <del>race</del>. 
 
 These specific regulations shall comply fully with the present regulations and have been approved beforehand by the national federation of the organiser. 
 
 _(article modified on 01.02.26)_ 
 
-- **1.2.041** (N) The specific regulations shall be published in the programme and/or the technical guide for the event ~~race~~. 
+- **1.2.041** (N) The specific regulations shall be published in the programme and/or the technical guide for the event <del>race</del>. 
 
 _(article modified on 01.02.26)_ 
 
 ## **§ 4 Programme - technical guide** 
 
-- **1.2.042** (N) The organiser shall prepare a programme and/or technical guide for ~~his race~~ their event, which must be approved in advance by ~~hist~~ he relevant national federation. 
+- **1.2.042** (N) The organiser shall prepare a programme and/or technical guide for <del>his race</del> their event, which must be approved in advance by <del>hist</del> he relevant national federation. 
 
 The contents shall be determined by the provisions governing the various disciplines. 
 
@@ -852,23 +852,23 @@ _(article modified on 01.02.26)_
 
 The organiser may, if necessary, make a substantial change to the timetable for the event subject to the following conditions: 
 
-1. ~~he must notify~~ the teams or riders and the international commissaires must be notified at least 15 days in advance by the organiser; 
+1. <del>he must notify</del> the teams or riders and the international commissaires must be notified at least 15 days in advance by the organiser; 
 
-2. ~~he must repay~~ the irrecoverable costs incurred by teams or riders, commissaires, national federations and the UCI ~~any irrecoverable costs caused by the change to the timetable~~ shall be compensated by the organiser. 
+2. <del>he must repay</del> the irrecoverable costs incurred by teams or riders, commissaires, national federations and the UCI <del>any irrecoverable costs caused by the change to the timetable</del> shall be compensated by the organiser. 
 
 _(text modified on 01.01.04; 01.02.26)_ 
 
 - **1.2.045** The organiser shall send the programme and/or technical guide to all teams or riders invited to participate in the race, at the latest when they confirm their enrolment. 
 
-The organiser shall send the programme and/or technical guide to the international commissaire(s) 30 days before the date of the ~~racee~~ vent. 
+The organiser shall send the programme and/or technical guide to the international commissaire(s) 30 days before the date of the <del>racee</del> vent. 
 
 _(text modified on 01.02.26)_ 
 
-- **1.2.046** ~~At the team managers~~ ’ ~~meeting,~~ The organiser shall provide a sufficient number of copies of the programme and/or technical guide of the race for distribution to the riders. 
+- **1.2.046** <del>At the team managers</del> ’ <del>meeting,</del> The organiser shall provide a sufficient number of copies of the programme and/or technical guide of the race for distribution to the riders. 
 
 _(article modified on 01.02.26)_ 
 
-- **1.2.047** By participating in an event ~~race,~~ a rider shall be assumed to know and to have accepted the content of the programme and/or technical guide, including the specific race regulations where applicable. 
+- **1.2.047** By participating in an event <del>race,</del> a rider shall be assumed to know and to have accepted the content of the programme and/or technical guide, including the specific race regulations where applicable. 
 
 _(article modified on 01.02.26)_ 
 
@@ -876,7 +876,7 @@ _(article modified on 01.02.26)_
 
 ## **General principle** 
 
-- **1.2.048** (N) Unless otherwise specified, the organiser is free to select ~~any~~ the teams and riders taking part in th ~~efor an~~ event, and shall not be required to consider any potential national protectio ~~nwithout any requirement to take account of any national protection~~. 
+- **1.2.048** (N) Unless otherwise specified, the organiser is free to select <del>any</del> the teams and riders taking part in th <del>efor an</del> event, and shall not be required to consider any potential national protectio <del>nwithout any requirement to take account of any national protection</del>. 
 
 Without prejudice to the provision concerning mountain bike, BMX Racing and BMX Freestyle, indoor cycling, para-cycling, cycling for all, track, trials, cyclo-cross and the masters category, organisers of events registered on the international calendar are not allowed to demand from riders and/or teams any participation fee whatsoever (contribution to costs, entry fee, etc.). 
 
@@ -884,39 +884,39 @@ _(text modified on 01.01.02; 01.01.04; 01.01.05; 23.09.05; 01.02.07; 01.07.11; 0
 
 ## **Conditions** 
 
-- **1.2.049** The organiser shall, at least 60 days in advance, invite ~~the t~~ eams or riders by sending general information. In the case of national, regional or club teams, the organiser shall notify the national federation of the invitation. 
+- **1.2.049** The organiser shall, at least 60 days in advance, invite <del>the t</del> eams or riders by sending general information. In the case of national, regional or club teams, the organiser shall notify the national federation of the invitation. 
 
-At least 50 days before the even ~~trace,~~ an invited party shall inform the organiser in writing ( ~~letter, fax, e~~ mail sufficient) whether ~~he/itt~~ hey wish ~~es~~ to participate in the event ~~race~~ or whether ~~he/itt~~ hey ~~wishes to~~ decline the invitation. 
+At least 50 days before the even <del>trace,</del> an invited party shall inform the organiser in writing ( <del>letter, fax, e</del> mail sufficient) whether <del>he/itt</del> hey wish <del>es</del> to participate in the event <del>race</del> or whether <del>he/itt</del> hey <del>wishes to</del> decline the invitation. 
 
-At least 40 days before the event ~~race,~~ the organiser shall send an official UCI entry form to all invited parties whose participation the organiser accepts. At the same time, the organiser shall inform invited parties whose participation they d ~~oes~~ not accept to that effect. 
+At least 40 days before the event <del>race,</del> the organiser shall send an official UCI entry form to all invited parties whose participation the organiser accepts. At the same time, the organiser shall inform invited parties whose participation they d <del>oes</del> not accept to that effect. 
 
-At least 20 days before the even ~~trace,~~ the invited party shall return to the organiser ~~the original of t~~ he duly completed entry form. 
+At least 20 days before the even <del>trace,</del> the invited party shall return to the organiser <del>the original of t</del> he duly completed entry form. 
 
-72 hours before the start of the even ~~t's start time,~~ the teams must ~~fax or~~ email the organiser a copy of the entry form giving the names of the starting riders ~~entrants~~ plus two reserves. 
+72 hours before the start of the even <del>t's start time,</del> the teams must <del>fax or</del> email the organiser a copy of the entry form giving the names of the starting riders <del>entrants</del> plus two reserves. 
 
-Any party failing to meet the prescribed deadlines shall forfeit their ~~its~~ rights. 
+Any party failing to meet the prescribed deadlines shall forfeit their <del>its</del> rights. 
 
 _(text modified on 01.01.01; 01.01.03; 01.01.04; 01.01.05; 01.10.10; 01.02.26)_ 
 
-- **1.2.050** The organiser shall submit the ~~entry formsr~~ ider’s entries to the commissaires’ panel for verification. 
+- **1.2.050** The organiser shall submit the <del>entry formsr</del> ider’s entries to the commissaires’ panel for verification. 
 
 _(text modified on 25.06.19; 01.02.26)_ 
 
 - **1.2.052** National, regional and club teams and their respective riders may not start in competitions abroad unless they hold authorisation in writing issued by their federation (except teams and riders from the same federation as the event organiser). This authorisation must carry the dates of validity and the name(s) of the rider(s) concerned. The provisions in this article shall not apply to riders covered by the provisions of article 2.1.011. 
 
-The provisions in this article shall ~~not apply to riders participating in cyclo-cross Mountain Bike, BMX Racing, BMX Freestyle or Trials events~~ apply only to road and track events ~~..~~ 
+The provisions in this article shall <del>not apply to riders participating in cyclo-cross Mountain Bike, BMX Racing, BMX Freestyle or Trials events</del> apply only to road and track events <del>..</del> 
 
 _(text modified on 01.01.01; 01.01.04; 01.01.05; 01.07.18; 01.01.21; 08.02.21; 01.02.26_ 
 
-- **1.2.053** In the event that a UCI registered team is entered but fails to appear, the signatory of the entry and the team that ~~be~~ they represen ~~ts~~ shall be jointly and severally liable to pay the organiser an indemnity equal to twice the travel and subsistence expenses agreed in writing. 
+- **1.2.053** In the event that a UCI registered team is entered but fails to appear, the signatory of the entry and the team that <del>be</del> they represen <del>ts</del> shall be jointly and severally liable to pay the organiser an indemnity equal to twice the travel and subsistence expenses agreed in writing. 
 
-In other cases of failure to start, the signatory of the entry and the team which they represent ~~s~~ shall be jointly and severally liable to pay the organiser a penalty charge equal to the travel and subsistence expenses agreed in writing. 
+In other cases of failure to start, the signatory of the entry and the team which they represent <del>s</del> shall be jointly and severally liable to pay the organiser a penalty charge equal to the travel and subsistence expenses agreed in writing. 
 
 _(text modified on 01.01.02; 01.01.04; 01.01.05; 01.02.14; 01.02.26)_ 
 
-- **1.2.054** The organiser may not accept late entries after the confirmation of starters ~~riders~~ ’ ~~s registration.~~ The organiser must inform the signatory of the riders’ entry in question of this. The president of the commissaires' panel shall rule in the event of dispute. 
+- **1.2.054** The organiser may not accept late entries after the confirmation of starters <del>riders</del> ’ <del>s registration.</del> The organiser must inform the signatory of the riders’ entry in question of this. The president of the commissaires' panel shall rule in the event of dispute. 
 
-The organiser may not refuse to allow an entered team or a rider ~~entered~~ to start. ~~THh~~ e organiser must submit ~~his~~ any objections to the commissaires' panel which shall decide. 
+The organiser may not refuse to allow an entered team or a rider <del>entered</del> to start. <del>THh</del> e organiser must submit <del>his</del> any objections to the commissaires' panel which shall decide. 
 
 Should the organiser refuse without valid reason to allow an entered team to start in an event of road UCI ProSeries or class 1, the organiser must pay the team an indemnity equal to double the total sum of the allowances for the event. 
 
@@ -924,19 +924,19 @@ _(text modified on 01.01.02; 01.01.05; 23.10.19; 01.02.26)_
 
 ## **Penalties** 
 
-- **1.2.055** Riders who are ~~contractedentered~~ confirmed (identification number issued) and absent at the start shall be sanctioned as follows: 
+- **1.2.055** Riders who are <del>contractedentered</del> confirmed (identification number issued) and absent at the start shall be sanctioned as follows: 
 
       - if not participating in any other event: a CHF 50 fine; 
 
-      - if participating in another event: exclusion ~~from the classification a~~ nd a fine of between CHF 500 and 3,000. 
+      - if participating in another event: exclusion <del>from the classification a</del> nd a fine of between CHF 500 and 3,000. 
 
-   ~~2. Failure on the part of the organiser to use the official entry form: - fine of between CHF 300 and 1,000 per team.~~ 
+   <del>2. Failure on the part of the organiser to use the official entry form: - fine of between CHF 300 and 1,000 per team.</del> 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
 ## **§ 6 Race headquarters – Secretarial office** 
 
-- **1.2.059** (N) The race headquarters must be provided with at least ~~a telephone line, a fax and a an computer with~~ an internet connection and electricity ~~access.~~ 
+- **1.2.059** (N) The race headquarters must be provided with at least <del>a telephone line, a fax and a an computer with</del> an internet connection and electricity <del>access.</del> 
 
 _(article introduced on 01.01.05; 01.02.26)_ 
 
@@ -948,9 +948,9 @@ _(article modified on 01.02.26)_
 
 - **1.2.064** Riders shall study the course in advance. 
 
-Unless ordered ~~so t~~ o do so by a police officer, they may not leave the prescribed course and shall not be able to claim any error in this respect, nor any other motive such as, for example, incorrect directions by any person, badly placed or non-existent signs, etc. 
+Unless ordered <del>so t</del> o do so by a police officer, they may not leave the prescribed course and shall not be able to claim any error in this respect, nor any other motive such as, for example, incorrect directions by any person, badly placed or non-existent signs, etc. 
 
-Conversely, should the rider take a shortcut giving an advantage, the rider shall be penalised in accordance with ~~point 13 of t~~ he table of race incidents ~~appended to Part XII 2 (article 2.12.007, point 7.1 for Road events) f~~ or the respective discipline, without prejudice to further potential disciplinary measure ~~snotwithstanding any other disciplinary measures that may be provided for~~. 
+Conversely, should the rider take a shortcut giving an advantage, the rider shall be penalised in accordance with <del>point 13 of t</del> he table of race incidents <del>appended to Part XII 2 (article 2.12.007, point 7.1 for Road events) f</del> or the respective discipline, without prejudice to further potential disciplinary measure <del>snotwithstanding any other disciplinary measures that may be provided for</del>. 
 
 _(text modified on 01.01.07; 01.01.19; 01.02.26)_ 
 
@@ -968,7 +968,7 @@ For UCI WorldTour and UCI Women’s WorldTour events, the total minimum prize va
 
 _(text modified on 02.03.00; 01.01.05; 01.02.26)_ 
 
-- **1.2.071** The event organiser is responsible for paying the prizes to the riders/teams. However, national federations may provide that prizes be paid to them by the organisers prior to the event, in order to proceed themselves with the payment of prizes or require that the organiser sets up a bank guarantee for the total amount of prizes. National Federations may impose such requirements on any event taking place on ~~its t~~ heir territory. 
+- **1.2.071** The event organiser is responsible for paying the prizes to the riders/teams. However, national federations may provide that prizes be paid to them by the organisers prior to the event, in order to proceed themselves with the payment of prizes or require that the organiser sets up a bank guarantee for the total amount of prizes. National Federations may impose such requirements on any event taking place on <del>its t</del> heir territory. 
 
 The organiser is responsible, if applicable, for any tax withholdings required under the tax laws of the country where the event takes place. When such withholdings are made, the organiser is responsible for providing all tax certificates. 
 
@@ -986,9 +986,9 @@ In such a case:
 
 _(text modified on 01.02.19; 23.10.19; 08.02.21; 01.01.25; 01.02.26)_ 
 
-- **1.2.072** Prizes shall be paid to the beneficiaries or their representatives no later than 90 days after the event ~~finish of the race~~. 
+- **1.2.072** Prizes shall be paid to the beneficiaries or their representatives no later than 90 days after the event <del>finish of the race</del>. 
 
-   - However, in the case of a centralised platform, ~~-~~ the UCI may withhold payments until such time that they are satisfied that the riders entitled to prizes are not susceptible of being disqualified further to an anti-doping rule violation committed in connection with the event or subsequently being disqualified by a competent decision-making body. In relation to anti-doping, the UCI shall seek verification with the International Testing Agency solely regarding events for which the latter initiated and directed sample collection. 
+   - However, in the case of a centralised platform, <del>-</del> the UCI may withhold payments until such time that they are satisfied that the riders entitled to prizes are not susceptible of being disqualified further to an anti-doping rule violation committed in connection with the event or subsequently being disqualified by a competent decision-making body. In relation to anti-doping, the UCI shall seek verification with the International Testing Agency solely regarding events for which the latter initiated and directed sample collection. 
 
    - For events which are not included in the centralised platform, the event organiser shall be responsible for seeking verification with the relevant decision-making body susceptible of disqualifying a rider before proceeding with the payment of the prizes. 
 
@@ -996,7 +996,7 @@ _(text modified on 01.02.19; 23.10.19; 08.02.21; 01.01.25; 01.02.26)_
 
 _(text modified on 01.02.19; 08.02.21; 01.02.26)_ 
 
-- **1.2.074** If a ~~n race~~ event or a stage is ridden at an abnormally low average speed, the commissaires' panel may, after consulting the organiser, decide to reduce or cancel prizes. 
+- **1.2.074** If a <del>n race</del> event or a stage is ridden at an abnormally low average speed, the commissaires' panel may, after consulting the organiser, decide to reduce or cancel prizes. 
 
 _(text modified on 01.02.26)_ 
 
@@ -1006,7 +1006,7 @@ _(text modified on 01.02.26)_
 
 ## **Special provisions for Road events** 
 
-For Men Elite UCI WorldTour, UCI ProSeries and class 1 events as well as Women Elite UCI Wome ~~nt~~ ’s WorldTour, UCI ProSeries and class 1 events, the allowance must be paid within 30 days from the day a corresponding invoice has been issued by the team; this may only be validly issued from the day after the end of the event. 
+For Men Elite UCI WorldTour, UCI ProSeries and class 1 events as well as Women Elite UCI Wome <del>nt</del> ’s WorldTour, UCI ProSeries and class 1 events, the allowance must be paid within 30 days from the day a corresponding invoice has been issued by the team; this may only be validly issued from the day after the end of the event. 
 
 In the case of an unjustified delay in payment of the participation allowance, the team is fully entitled to interest on arrears of 15% per year without the requirement for prior notice. Furthermore, unless there has been referral to the UCI Arbitral Board in the meantime, the amounts below shall be payable as a penalty provided that the team issues formal notice to the organiser at least 10 days before the implementation of each penalty: 
 
@@ -1018,7 +1018,7 @@ _(text modified on 01.01.05; 01.10.13; 01.01.15; 01.01.16; 01.01.17; 23.10.19; 0
 
 ## **§ 1 Supervision of the organisation and competition** 
 
-- **1.2.077** The material administration of the race shall be assumed by the organiser or ~~his t~~ heir representative. 
+- **1.2.077** The material administration of the race shall be assumed by the organiser or <del>his t</del> heir representative. 
 
 Purely material organisational problems shall be solved by race administration in accordance with applicable regulations and after consulting the commissaires' panel. 
 
@@ -1038,9 +1038,9 @@ _(text modified on 01.02.26)_
 
 ## **§ 3 Team manager** 
 
-- **1.2.085** The team manager or sports director shall ensure that the riders of his team ~~attend a~~ re present at the required times and places ( ~~signing onc~~ hecks before the start, start ~~line~~ procedure, awards ceremony, ~~antid~~ oping control, etc.). 
+- **1.2.085** The team manager or sports director shall ensure that the riders of his team <del>attend a</del> re present at the required times and places ( <del>signing onc</del> hecks before the start, start <del>line</del> procedure, awards ceremony, <del>antid</del> oping control, etc.). 
 
-~~HeT~~ he team manager or sports director shall respond when summoned by the president of the commissaires' panel or by the organisation’s management. 
+<del>HeT</del> he team manager or sports director shall respond when summoned by the president of the commissaires' panel or by the organisation’s management. 
 
 _(text modified on 01.01.99; 01.02.26)_ 
 
@@ -1050,9 +1050,9 @@ _(text modified on 01.02.26)_
 
 ## **§ 4 Team managers' meeting** 
 
-- **1.2.087** With the exception of cyclo-cross, no more than 24 hours and no less than two hours before the start of the competition, the organiser must convene a meeting in a suitable room with the representatives of the organisation, the team managers (or sports directors), the commissaires and, where appropriate, the persons responsible for neutral ~~vehicles~~ service and the services of public order, to coordinate their respective tasks and to take note of the specific characteristics of the event and safety measures as concern their own fields. 
+- **1.2.087** With the exception of cyclo-cross, no more than 24 hours and no less than two hours before the start of the competition, the organiser must convene a meeting in a suitable room with the representatives of the organisation, the team managers (or sports directors), the commissaires and, where appropriate, the persons responsible for neutral <del>vehicles</del> service and the services of public order, to coordinate their respective tasks and to take note of the specific characteristics of the event and safety measures as concern their own fields. 
 
-For mountain bike events at the UCI world championships, UCI World Cu ~~ps,~~ continental championships, hors class ~~e~~ stage races and class 1 stage races, the meeting must take place the day before the start of competitions. 
+For mountain bike events at the UCI world championships, UCI World Cu <del>ps,</del> continental championships, hors class <del>e</del> stage races and class 1 stage races, the meeting must take place the day before the start of competitions. 
 
 In case a physical meeting does not take place, a presentation including all important information will be shared the day before the start of competitions. 
 
@@ -1060,31 +1060,31 @@ _(text modified on 01.01.04; 01.01.05; 01.01.06; 01.01.08; 01.01.09; 01.10.13; 0
 
 ## **§ 5 Entry check** 
 
-- **1.2.089** The organiser shall provide the commissaires' panel in due time with a list of riders who have entered for the race and who have been confirmed as ~~titulars~~ tarting riders or reserve riders (entry list). 
+- **1.2.089** The organiser shall provide the commissaires' panel in due time with a list of riders who have entered for the race and who have been confirmed as <del>titulars</del> tarting riders or reserve riders (entry list). 
 
 _(text modified on 01.01.02; 01.02.26)_ 
 
-- **1.2.090** 15 minutes before the team managers' meeting as per article 1.2.087, or before the deadline set in the technical guide, the team manager - or ~~hist~~ heir representative - must confirm the identity of the riders who will be starting to the commissaires' panel ~~by signing the entry form (art. 1.2.050) and clearly highlighting the names of starting riders. IT~~ he commissaires' panel shall check the licences of these riders and ensure that they are included on the list of entrants. 
+- **1.2.090** 15 minutes before the team managers' meeting as per article 1.2.087, or before the deadline set in the technical guide, the team manager - or <del>hist</del> heir representative - must confirm the identity of the riders who will be starting to the commissaires' panel <del>by signing the entry form (art. 1.2.050) and clearly highlighting the names of starting riders. IT</del> he commissaires' panel shall check the licences of these riders and ensure that they are included on the list of entrants. 
 
 Riders confirmed as starters can no longer be substituted, without prejudice to provisions of the UCI Regulations providing otherwise. 
 
-The commissaires' panel shall also check authorisations to participate from ~~the n~~ ational federations required under article 1.2.052. 
+The commissaires' panel shall also check authorisations to participate from <del>the n</del> ational federations required under article 1.2.052. 
 
-~~The operations above must be organised such that they are completed at the latest by 15 minutes before the team managers' meeting.~~ 
+<del>The operations above must be organised such that they are completed at the latest by 15 minutes before the team managers' meeting.</del> 
 
 _(text modified on 01.01.02; 01.01.04; 01.01.05, 01.05.16; 01.05.17; 01.01.18; 01.02.26)_ 
 
-- **1.2.091** A rider whose licence has been checked shall receive ~~his t~~ heir identification number(s). 
+- **1.2.091** A rider whose licence has been checked shall receive <del>his t</del> heir identification number(s). 
 
 _(text modified on 01.01.04; 01.01.05; 01.02.26)_ 
 
-- **1.2.092** A rider or a staff member whose licence could not be verified and whose status as a nonsuspended licence holder cannot be established in any other manner may not ~~startt~~ ake part in the event ~~and may not figure in the classification of the event.~~ 
+- **1.2.092** A rider or a staff member whose licence could not be verified and whose status as a nonsuspended licence holder cannot be established in any other manner may not <del>startt</del> ake part in the event <del>and may not figure in the classification of the event.</del> 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
 ## **§ 6 Start of the race** 
 
-- **1.2.096** The start shall be given by – or under the control of – a commissaire (the starter) ~~and hew~~ ho ~~alone s~~ hall judge the validity of the start. 
+- **1.2.096** The start shall be given by – or under the control of – a commissaire (the starter) <del>and hew</del> ho <del>alone s</del> hall judge the validity of the start. 
 
 _(text modified on 01.02.26)_ 
 
@@ -1094,7 +1094,7 @@ _(text modified on 01.02.26)_
 
 ## **§ 7 Finish** 
 
-- **1.2.101** In road, mountain bike, BMX Racing and cyclo-cross events, a ~~banner labelled~~ "FINISH" label or an arch must be fixed above the finishing line and perpendicular to the road or course. Should the label or arch ~~banner~~ have disappeared or been damaged, the finish line shall be indicated by a black and white chequered flag. 
+- **1.2.101** In road, mountain bike, BMX Racing and cyclo-cross events, a <del>banner labelled</del> "FINISH" label or an arch must be fixed above the finishing line and perpendicular to the road or course. Should the label or arch <del>banner</del> have disappeared or been damaged, the finish line shall be indicated by a black and white chequered flag. 
 
 A banner shall also be used for any finish or for the passing of any intermediate point for a classification as well as at the top of mountain passes during road races. Should the banner have disappeared or been damaged, a black and white chequered flag shall be used. 
 
@@ -1112,13 +1112,13 @@ _(text modified on 01.01.05; 01.07.11; 01.01.15; 01.02.26)_
 
    - BMX Racing races. 
 
-- ~~For U~~ CI cyclo-cross world cup and UCI cyclo-cross world championships events ~~, only a photo-finish is obligatory.~~ 
+- <del>For U</del> CI cyclo-cross world cup and UCI cyclo-cross world championships events <del>, only a photo-finish is obligatory.</del> 
 
 _(text modified on 01.01.04; 01.01.05; 01.01.06; 01.02.26)_ 
 
 - **1.2.106** Times shall be taken using an electronic time-keeping machine. 
 
-In track ~~, races and~~ mountain bike downhill, ~~and f~~ our cross (4x) and BMX Racing  races, times shall be taken to the nearest 1000th of a second. 
+In track <del>, races and</del> mountain bike downhill, <del>and f</del> our cross (4x) and BMX Racing  races, times shall be taken to the nearest 1000th of a second. 
 
 In other races, the times shall be taken to the nearest second at least. Results shall be communicated to the second. 
 
@@ -1126,19 +1126,19 @@ Moreover, manual time-keeping will be undertaken whenever deemed necessary or us
 
 _(text modified on 01.02.26)_ 
 
-- **1.2.109** ~~TheA~~ rider may cross the finish line on foot, provided that ~~het~~ hey hav ~~se hist~~ heir bicycle with them ~~him.~~ 
+- **1.2.109** <del>TheA</del> rider may cross the finish line on foot, provided that <del>het</del> hey hav <del>se hist</del> heir bicycle with them <del>him.</del> 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
 - **1.2.111** Without prejudice to any changes resulting from the application of the regulations by the competent bodies, the classification of the race may be corrected by the organiser's national federation or the UCI within 30 days of the end of the race in the event of material errors in the recording of the riders' finishing order. 
 
-The organiser's national federation or the UCI shall notify the organiser and all riders involved of any such correction, if necessary through their team. For races on the international calendar, ~~it~~ the national federation shal ~~l also~~ notify the UCI. The organiser's national federation shall also ensure that any issues resulting from the correction of the classification shall be resolved correctly. 
+The organiser's national federation or the UCI shall notify the organiser and all riders involved of any such correction, if necessary through their team. For races on the international calendar, <del>it</del> the national federation shal <del>l also</del> notify the UCI. The organiser's national federation shall also ensure that any issues resulting from the correction of the classification shall be resolved correctly. 
 
 ( _text modified on 01.01.98; 01.01.05; 01.02.26)_ 
 
 ## **§ 8 Awards ceremony** 
 
-- **1.2.112** All riders concerned shall, in accordance with their placing, classifications and performances, participate in official ceremonies such as the presentation of jerseys or trophies, bouquets, medals, laps of honour, press conference, etc… ~~and the like.~~ 
+- **1.2.112** All riders concerned shall, in accordance with their placing, classifications and performances, participate in official ceremonies such as the presentation of jerseys or trophies, bouquets, medals, laps of honour, press conference, etc… <del>and the like.</del> 
 
 _(text modified on 01.02.26)_ 
 
@@ -1154,7 +1154,7 @@ _(text modified on 01.02.26)_
 
 - **1.2.118** The president of the commissaires' panel shall be appointed by the national federation of the organiser or by the UCI, as appropriate. 
 
-~~The president of the commissaires' panel or a commissaire appointed by him shall act as competition director.~~ 
+<del>The president of the commissaires' panel or a commissaire appointed by him shall act as competition director.</del> 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
@@ -1162,9 +1162,9 @@ _(text modified on 01.01.05; 01.02.26)_
 
 - **1.2.119** One of the members of the commissaires' panel shall act as finish line-commissaire. 
 
-~~The finish line commissaire may, on his own responsibility, co-opt other persons appointed and licensed by the national federation of the organiser to assist him.~~ 
+<del>The finish line commissaire may, on his own responsibility, co-opt other persons appointed and licensed by the national federation of the organiser to assist him.</del> 
 
-The finish line commissaire shall be the sole judge of the finish. ~~HeT~~ he finish line commissaire shal ~~l, on a special form that he shall sign and hand in to the president of the commissaires' panel,~~ note the finishing order, the number of points won and the number of laps covered. This shall be reported on a special form signed by the finish line commissaire and handed over to the president of the commissaires’ panel. 
+The finish line commissaire shall be the sole judge of the finish. <del>HeT</del> he finish line commissaire shal <del>l, on a special form that he shall sign and hand in to the president of the commissaires' panel,</del> note the finishing order, the number of points won and the number of laps covered. This shall be reported on a special form signed by the finish line commissaire and handed over to the president of the commissaires’ panel. 
 
 _(text modified on 01.01.05; 01.03.18; 01.02.26)_ 
 
@@ -1186,17 +1186,17 @@ _(text modified on 01.03.18; 01.02.26)_
 
    - a copy of the technical guide 
 
-The timekeeper-commissaire's sheets and reports by individual commissaires shall be appended thereto. ~~A copy of the report shall be sent to the national federation of the organiser so that the competition may be approved.~~ 
+The timekeeper-commissaire's sheets and reports by individual commissaires shall be appended thereto. <del>A copy of the report shall be sent to the national federation of the organiser so that the competition may be approved.</del> 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
-- **1.2.124** UCI international commissaires have, furthermore, to provide a detailed report on the form provided for that purpose, giving their evaluation of the race, and to send it to the UCI in a maximum of 14 days. They must upload the results to the UCI DataRide platform ~~also use e-mail - or any other method specified by the UCI - to send the complete result of the event to the UCI~~ at the earliest opportunity and within 2 hours at the latest. 
+- **1.2.124** UCI international commissaires have, furthermore, to provide a detailed report on the form provided for that purpose, giving their evaluation of the race, and to send it to the UCI in a maximum of 14 days. They must upload the results to the UCI DataRide platform <del>also use e-mail - or any other method specified by the UCI - to send the complete result of the event to the UCI</del> at the earliest opportunity and within 2 hours at the latest. 
 
 _(text modified on 01.01.04; 01.01.05; 01.02.26)_ 
 
 - **1.2.128** The commissaires shall note infringements and impose penalties in matters within their authority. 
 
-Each commissaire shall individually observe infringements and note them in a report bearing ~~hist~~ heir signature. Commissaires' reports shall constitute conclusive evidence of the facts they observe, in the absence of proof to the contrary. 
+Each commissaire shall individually observe infringements and note them in a report bearing <del>hist</del> heir signature. Commissaires' reports shall constitute conclusive evidence of the facts they observe, in the absence of proof to the contrary. 
 
 Penalties shall be imposed by the commissaires' panel by a majority vote. 
 
@@ -1238,9 +1238,9 @@ and size of the advertising spaces of the validated equipment must be identical 
 
 For events where riders are required to participate with a national jersey but have qualified and/or register individually, the regulations of each discipline shall set out if the requirement of all riders wearing the same national jersey applies (e.g. Gravel, Enduro, Marathon, etc.). National Federations may submit to the UCI any additional approved jersey to be worn by the riders of their nationality. 
 
-~~We encourage you to present to the UCI your  national apparels before sending them for final production.~~ 
+<del>We encourage you to present to the UCI your  national apparels before sending them for final production.</del> 
 
-~~The apparel of the riders of a national team must always be identical to the last sample submitted.~~ 
+<del>The apparel of the riders of a national team must always be identical to the last sample submitted.</del> 
 
 _(text modified on 17.07.98; 01.01.04; 25.06.07; 01.02.26)_ 
 
@@ -1254,19 +1254,19 @@ The above measures also apply to other items of clothing worn during competition
 
 _(text modified on 01.01.00; 01.01.03; 01.01.04; 01.01.05; 08.02.18; 08.02.21; 01.02.26)_ 
 
-- **1.3.058** The advertising spaces shall be reserved for the use of the national federation except as determined in the specific regulations of the discipline or in the “UCI jerseys visual guidelines”. ~~in the following cases:~~ 
+- **1.3.058** The advertising spaces shall be reserved for the use of the national federation except as determined in the specific regulations of the discipline or in the “UCI jerseys visual guidelines”. <del>in the following cases:</del> 
 
-   - ~~A. track world cup~~ 
+   - <del>A. track world cup</del> 
 
-~~[abrogated on 04.03.19]~~ 
+<del>[abrogated on 04.03.19]</del> 
 
-~~A. cyclo-cross world cup~~ 
+<del>A. cyclo-cross world cup</del> 
 
-~~[text transferred to the article 5.3.010]~~ 
+<del>[text transferred to the article 5.3.010]</del> 
 
-~~B. BMX  world and continental championships and challenges~~ 
+<del>B. BMX  world and continental championships and challenges</del> 
 
-~~All details regarding the advertising, logos and UCI permanent number are described in the~~ “ ~~UCI jerseys visual guidelines~~ ” ~~brochure published on the UCI Website~~ 
+<del>All details regarding the advertising, logos and UCI permanent number are described in the</del> “ <del>UCI jerseys visual guidelines</del> ” <del>brochure published on the UCI Website</del> 
 
 _(text modified on 17.07.98; 01.01.05; 14.10.08; 19.06.09; 01.07.18; 04.03.19; 08.02.21; 01.02.26)_ 
 
@@ -1278,11 +1278,11 @@ _(text modified on 17.07.98; 01.01.05; 14.10.08; 19.06.09; 01.07.18; 04.03.19; 0
 
 - at continental championships at the discretion of the continental confederation 
 
-- ~~for the riders of a national team~~ 
+- <del>for the riders of a national team</del> 
 
-- during Olympic and Paralympic Games, in accordance with the IOC and ~~NOCI~~ PC Regulations, as well as the respective NOC’s rules. 
+- during Olympic and Paralympic Games, in accordance with the IOC and <del>NOCI</del> PC Regulations, as well as the respective NOC’s rules. 
 
-~~The continental and national champions must comply with this rule and wear their national team clothing while participating in the events cited here before.~~ 
+<del>The continental and national champions must comply with this rule and wear their national team clothing while participating in the events cited here before.</del> 
 
 _(text modified on 01.01.98; 01.01.04; 01.01.05; 01.01.06; 01.10.10; 26.07.17; 01.02.26)_ 
 
@@ -1331,9 +1331,9 @@ _(text modified on 01.01.01; 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.02.11; 0
 
 |Body number|Frame number &<br>Helmet stickers<br>for handcycle|Shoulder<br>number|Handlebar<br>number|
 |---|---|---|---|
-|18 cm<br>15 cm MTB|9 cm|9 cm|15 cm MTB<br>~~20 1~~5cm BMX<br>Racing<br>11 cm Trials|
-|16 cm<br>14 cm MTB|13 cm|7 cm|14 cm MTB<br>~~25 2~~0cm BMX<br>Racing<br>16 cm Trials|
-|10 cm|6 cm|5 cm|8 cm MTB<br>~~10~~6cm BMX<br>Racing<br>10 cm Trials|
+|18 cm<br>15 cm MTB|9 cm|9 cm|15 cm MTB<br><del>20 1</del>5cm BMX<br>Racing<br>11 cm Trials|
+|16 cm<br>14 cm MTB|13 cm|7 cm|14 cm MTB<br><del>25 2</del>0cm BMX<br>Racing<br>16 cm Trials|
+|10 cm|6 cm|5 cm|8 cm MTB<br><del>10</del>6cm BMX<br>Racing<br>10 cm Trials|
 |1,5 cm|0,8 cm|0,8 cm|1.5 cm MTB<br>1.5 cm BMX<br>Racing<br>1.5 cm Trials|
 |height 6 cm on<br>the lower part<br>MTB height 2.5<br>cm on the upper|rectangle of 11x2<br>cm on the lower<br>or upper part|height 1.5 cm<br>on the lower<br>and upper part|- MTB height 2.5<br>cm on the upper<br>and lower part|
 
@@ -1342,15 +1342,15 @@ _(text modified on 01.01.01; 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.02.11; 0
 
 _(text modified on 01.01.01; 01.01.04; 01.10.09; 01.01.11; 13.03.15; 01.07.17; 01.01.19; 01.02.26)_ 
 
-- **1.3.078** At World Championships, the identification numbers shall be provided by the ~~UCIO~~ rganising Committee. The advertising space shall be reserved for the UCI. 
+- **1.3.078** At World Championships, the identification numbers shall be provided by the <del>UCIO</del> rganising Committee. The advertising space shall be reserved for the UCI. 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
 - **1.3.079** [article abrogated on 01.01.05] 
 
-- **1.3.080** ~~Any rider dropping out of the race shall immediately remove his identification number.~~ 
+- **1.3.080** <del>Any rider dropping out of the race shall immediately remove his identification number.</del> 
 
-~~_(text modified on 01.01.05)_~~ 
+<del>_(text modified on 01.01.05)_</del> 
 
 [article abrogated on 01.02.26] 
 
@@ -1361,7 +1361,7 @@ After carrying out an assessment of the risks associated with sports betting in 
 |**Discipline**|**Men Elite Events**|**Women Elite Events**|
 |---|---|---|
 |**ROAD**|UCI Road World Championships - Road Race<br>UCI Road World Championships - Individual Time Trial<br>UCI Road World Championships - Team Time Trial Mixed Relay<br>UCI WorldTour Events<br>UCI ProSeries Events<br>Class 1 Events (C1) approved prior to each season1<br>Olympic Games<br>UEC Road European Championships - Road Race<br>UEC Road European Championships - Individual Time Trial<br>UEC Road European Championships - Team Time Trial Mixed Relay<br>National Championships of the top 15 nations of the UCI Road World Ranking by Nations|UCI Road World Championships - Road Race<br>UCI Road World Championships - Individual Time Trial<br>UCI Road World Championships - Team Time Trial Mixed Relay<br>UCI Women’s WorldTour Events<br>UCI ProSeries Events approved prior to each season1<br>Olympic Games<br>UEC Road European Championships - Road Race<br>UEC Road European Championships - Individual Time Trial<br>UEC Road European Championships - Team Time Trial Mixed Relay<br>National Championships of the top 15 nations of the UCI Road World Ranking by Nations|
-|**TRACK CYCLING**~~**2**~~|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|
+|**TRACK CYCLING**<del>**2**</del>|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|
 |**MOUNTAIN BIKE**|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|
 |**BMX RACING**|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|
 |**CYCLO-CROSS**|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|

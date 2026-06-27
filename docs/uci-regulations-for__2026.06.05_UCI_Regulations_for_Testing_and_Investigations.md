@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/731
 source_sha256: 13a4c2353f06d87bd2d39ea01c3bd5cb619defacef0fdf850d00248dcfd37649
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 UCI Anti-Doping Regulations 
 
@@ -1006,7 +1006,7 @@ To prepare for the _Sample_ Collection Session in a manner that ensures that the
 
 ## **6.2 General** 
 
-Preparing for the _Sample_ Collection Session starts with the establishment of a sy ~~st~~ em for obtaining relevant information for effective conduct of the session and ends when it is confirmed that the _Sample_ Collection Equipment conforms to the specified criteria. The main activities are: 
+Preparing for the _Sample_ Collection Session starts with the establishment of a sy <del>st</del> em for obtaining relevant information for effective conduct of the session and ends when it is confirmed that the _Sample_ Collection Equipment conforms to the specified criteria. The main activities are: 
 
 - a) Establishing a system for collecting details regarding the _Sample_ Collection Session; 
 
@@ -1570,7 +1570,7 @@ The collection of a urine _Sample_ begins with ensuring the _Rider_ is informed 
 
 ## **C.4. Requirements** 
 
-- **C.4.1** The DCO shall ensure that the _Rider_ is informed of the requir ~~e~~ ments of the _Sample_ Collection Session, including any modifications as provided for in Annex A – Modifications for _Riders_ with Impairments and/or in Annex B – Modification for _Riders_ who are _Minors_. 
+- **C.4.1** The DCO shall ensure that the _Rider_ is informed of the requir <del>e</del> ments of the _Sample_ Collection Session, including any modifications as provided for in Annex A – Modifications for _Riders_ with Impairments and/or in Annex B – Modification for _Riders_ who are _Minors_. 
 
 UCI TIR – February 2023 
 
@@ -1690,7 +1690,7 @@ equipment, they may select another. If the _Rider_ is not satisfied with any equ
 
 - **D.4.12** The BCO shall dispose of used blood sampling equipment not required to complete the _Sample_ Collection Session in accordance with the required local standards for handling blood. 
 
-- **D.4.13** After the blood flow into the tube ceases, the BCO shall remove the tube from the holder and homogenize the blood in the tube manually by inverting the tube gently at least three (3) times). The _Rider_ shall remain in the blood collection area and observe their _Sample_ until it is sealed in a Tamper ~~E~~ vident kit. 
+- **D.4.13** After the blood flow into the tube ceases, the BCO shall remove the tube from the holder and homogenize the blood in the tube manually by inverting the tube gently at least three (3) times). The _Rider_ shall remain in the blood collection area and observe their _Sample_ until it is sealed in a Tamper <del>E</del> vident kit. 
 
 - **D.4.14** The _Rider_ shall seal their _Sample_ into a Tamper Evident kit as directed by the DCO. In full view of the _Rider_, the DCO shall check that the sealing is satisfactory. The _Rider_ and the BCO/DCO shall sign the _Doping Control_ form. 
 

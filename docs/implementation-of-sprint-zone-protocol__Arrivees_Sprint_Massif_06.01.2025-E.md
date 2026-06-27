@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/YJGaLYiiXnNOv7PW2I3Jz/25d0
 source_sha256: 21d0d185ea9c633b99b22c4516a9d80f8bd7c56f0362ad7ac84f65e180da206e
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0001-00.png)
 
@@ -176,7 +176,7 @@ Page **4** /
 
 - **2.6.027** In the case of a duly noted incident in the last three kilometres of a road race stage, the rider or riders affected shall be credited with the time of the rider or riders in whose company they were riding at the moment of the incident. His or their placing shall be determined by the order in which he or they actually cross the finishing line. 
 
-Is considered as an incident, any event independent of the rider’s control or from ~~the~~ his physical capacity (fall involving several riders, mechanical problem, puncture) and his will of remaining with the riders in whose company he was riding at the moment of the incident. 
+Is considered as an incident, any event independent of the rider’s control or from <del>the</del> his physical capacity (fall involving several riders, mechanical problem, puncture) and his will of remaining with the riders in whose company he was riding at the moment of the incident. 
 
 Riders affected by an incident, within the meaning of the preceding paragraph, are asked to make themselves known to a commissaire by rising their hand and report to a commissaire after the finish of the stage. 
 

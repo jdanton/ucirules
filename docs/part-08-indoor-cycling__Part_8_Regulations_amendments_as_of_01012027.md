@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6nm1gmOU49xH2TdNL51ZFV/cca
 source_sha256: 435d031b2034099229490d4176e0b420798f731df95a6de2d8eda8437580e8fe
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0001-00.png)
 
@@ -2150,7 +2150,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **8.8.021** 
 
-To become eligible to play again, the player concerned ~~has to~~ must ride or walk immediately behind ~~his~~ their goal line ~~and re-enter the match field on the same side. He must cross the goal line with one wheel outside the penalty area. T~~ hey must cross the goal line with one wheel outside the penalty area. They must re-enter the match field on the same side of the goal to stay eligible. 
+To become eligible to play again, the player concerned <del>has to</del> must ride or walk immediately behind <del>his</del> their goal line <del>and re-enter the match field on the same side. He must cross the goal line with one wheel outside the penalty area. T</del> hey must cross the goal line with one wheel outside the penalty area. They must re-enter the match field on the same side of the goal to stay eligible. 
 
 _(text modified 01.01.27)_ 
 
@@ -2162,7 +2162,7 @@ _(text modified 01.01.27)_
 
 - A. If a player, not having the possibility to reach for the ball, stops their opponent with the intention to prevent a goal with a ruthless foul (e.g. fouling the not ball-keeping opponent) 
 
-- B. If a player who is not allowed to participate in the game stops an opponent or the ball b ~~y walking, running, jumping or using the bicycle to avoid an attack. (leaving a stable position)~~ intentionally leaving their stable position. A stable position is considered left if the player intentionally moves both feet off their original placement. Using the bike to stop the opponent or ball is only allowed if one hand is on the handlebar. 
+- B. If a player who is not allowed to participate in the game stops an opponent or the ball b <del>y walking, running, jumping or using the bicycle to avoid an attack. (leaving a stable position)</del> intentionally leaving their stable position. A stable position is considered left if the player intentionally moves both feet off their original placement. Using the bike to stop the opponent or ball is only allowed if one hand is on the handlebar. 
 
 - C. Playing the ball purposely by hand outside the penalty area. 
 
@@ -2170,7 +2170,7 @@ _(text modified 01.01.27)_
 
 - E. When a player does not hold his bike and on purpose holds or deviates the ball or obstruct the opponent. 
 
-- F. ~~When a player is ready to kick the ball in an empty goal and is obstructed by his opponent.~~ 
+- F. <del>When a player is ready to kick the ball in an empty goal and is obstructed by his opponent.</del> 
 
    - When a player, who has the ball next to the player’s front wheel, is ready to kick the ball in an empty goal and is obstructed by his opponent. 
 

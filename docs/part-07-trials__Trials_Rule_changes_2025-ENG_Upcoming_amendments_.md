@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3Jr7WV5r0jjoXIOaLq0fCg/2f0
 source_sha256: 3c94cde5af60a83c833c00e7cebcff298c2c623981d6a5cf5c6b987b01299554
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
 
@@ -20,13 +20,13 @@ converter: pymupdf4llm
 
 **7.1.002** Participation at competition is organised on the basis of the age categories set out below: 
 
-- ~~Poussins B~~ oys U10 9-10 years old white course Open 
+- <del>Poussins B</del> oys U10 9-10 years old white course Open 
 
-- − ~~Benjamins B~~ oys U12 11-12 years old blue course Open 
+- − <del>Benjamins B</del> oys U12 11-12 years old blue course Open 
 
-- − ~~Minimes~~ Boys U14 13-14 years old green course Open − ~~Cadets~~ Boys U16 15-16 years old black course  Open − ~~Youth Girls~~ Girls U10 9- ~~11~~ 10 years old white course* Open − Girls U13 ~~12-15~~ 11-13 years old ~~pink~~ blue course* Open − Girls U16 14-16 years old green course* Open *with pink sticker 
+- − <del>Minimes</del> Boys U14 13-14 years old green course Open − <del>Cadets</del> Boys U16 15-16 years old black course  Open − <del>Youth Girls</del> Girls U10 9- <del>11</del> 10 years old white course* Open − Girls U13 <del>12-15</del> 11-13 years old <del>pink</del> blue course* Open − Girls U16 14-16 years old green course* Open *with pink sticker 
 
-- − Men Junior ~~s~~ 16-18 years old red course 20” − Men Junior ~~s~~ 16-18 years old red course 26” − Women Junior 16-18 years old orange course Open − Men Elite 19 years old and over yellow course 20” − Men Elite 19 years old and over yellow course 26” − Women Elite ~~159~~ years old and over pink course Open 
+- − Men Junior <del>s</del> 16-18 years old red course 20” − Men Junior <del>s</del> 16-18 years old red course 26” − Women Junior 16-18 years old orange course Open − Men Elite 19 years old and over yellow course 20” − Men Elite 19 years old and over yellow course 26” − Women Elite <del>159</del> years old and over pink course Open 
 
 (text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18, 01.01.21, 01.01.25). 
 
@@ -34,9 +34,9 @@ converter: pymupdf4llm
 
 - **7.1.025** In choosing sections, it is recommended not to exceed the following maximum drop-off heights: 
 
-   - ~~Poussins~~ Boys U10 white course 0,80 m maximum 
+   - <del>Poussins</del> Boys U10 white course 0,80 m maximum 
 
-   - − ~~Benjamins B~~ oys U12 blue course 1,00 m maximum − ~~Minimes~~ Boys U14 green course 1,20 m maximum − ~~Cadets~~ Boys U16 black course 1,40 m maximum − ~~Youth Girls~~ Girls U10 white course* 0,80 m maximum − Girls U13 blue course* 1,00 m maximum − Girls U16 green course* 1,20 m maximum − Men Junior ~~s~~ red course ~~1,60~~ 1,80 m maximum − Men Elite yellow course ~~1,80 2~~,00 m maximum − Women Junior orange course 1,40 m maximum 
+   - − <del>Benjamins B</del> oys U12 blue course 1,00 m maximum − <del>Minimes</del> Boys U14 green course 1,20 m maximum − <del>Cadets</del> Boys U16 black course 1,40 m maximum − <del>Youth Girls</del> Girls U10 white course* 0,80 m maximum − Girls U13 blue course* 1,00 m maximum − Girls U16 green course* 1,20 m maximum − Men Junior <del>s</del> red course <del>1,60</del> 1,80 m maximum − Men Elite yellow course <del>1,80 2</del>,00 m maximum − Women Junior orange course 1,40 m maximum 
 
 Page **1** / **9** 
 
@@ -80,9 +80,9 @@ In case of a tie in the Final the place in the ½ Finals will be considered as a
 
 - **7.2.006** Competition categories at an International Trials event shall be based on the description in articles 7.1.001 ff of the present rule book and where combined categories are made as follows: 
 
-   - Men Elite 20: made by Men Elite 20 + Men Junior ~~s~~ 20 + second year of ~~Cadets~~ Boys U16 
+   - Men Elite 20: made by Men Elite 20 + Men Junior <del>s</del> 20 + second year of <del>Cadets</del> Boys U16 
 
-   - Men Elite 26: made by Men Elite 26 + Men Junior ~~s~~ 26 + second year of ~~Cadets~~ Boys U16 
+   - Men Elite 26: made by Men Elite 26 + Men Junior <del>s</del> 26 + second year of <del>Cadets</del> Boys U16 
 
    - As well as: 
 
@@ -102,9 +102,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - **7.3.006** Competition categories at a UCI Trials World Cup event shall be as described in article 7.1.002 where combined classes are made as follows: 
 
-   - Men Elite 20: made by Men Elite 20 + Men Junior ~~s~~ 20 + second year of ~~Cadets~~ Boys U16 
+   - Men Elite 20: made by Men Elite 20 + Men Junior <del>s</del> 20 + second year of <del>Cadets</del> Boys U16 
 
-   - Men Elite 26: made by Men Elite 26 + Men Junior ~~s~~ 26 + second year of ~~Cadets~~ Boys U16 
+   - Men Elite 26: made by Men Elite 26 + Men Junior <del>s</del> 26 + second year of <del>Cadets</del> Boys U16 
 
       - As well as: 
 
@@ -124,9 +124,9 @@ The UCI Trials World Cup event will begin with a ½ Finals. The UCI Trials World
 
 ## **Women Elite Final** 
 
-The best six riders in the ½ Finals will be eligible to compete in the Final. The ~~penalty~~ points obtained in the ½ Finals do not count in the Final. 
+The best six riders in the ½ Finals will be eligible to compete in the Final. The <del>penalty</del> points obtained in the ½ Finals do not count in the Final. 
 
-~~In case of a tie, the penalty points obtained in the ½ Finals will be considered as a tiebreaker.~~ 
+<del>In case of a tie, the penalty points obtained in the ½ Finals will be considered as a tiebreaker.</del> 
 
 ## **Men Elite 20 and 26 ¼ Finals** 
 
@@ -164,7 +164,7 @@ The ½ Finals shall consist of two laps of five sections. The Commissaires’ Pa
 
 ## **Men Elite 20 and 26 Finals** 
 
-The best six riders in the ½ Finals will be eligible to compete in the Finals. The ~~penalty~~ points obtained in the ½ Finals do not count in the Finals round. ~~In case of a tie, the penalty points obtained in the ½ Finals will be considered as a tiebreaker.~~ 
+The best six riders in the ½ Finals will be eligible to compete in the Finals. The <del>penalty</del> points obtained in the ½ Finals do not count in the Finals round. <del>In case of a tie, the penalty points obtained in the ½ Finals will be considered as a tiebreaker.</del> 
 
 ## **Final procedure** 
 
@@ -202,15 +202,15 @@ Riders tying on points are ranked by considering the greatest number of first pl
 
 ## Competition type and categories 
 
-- **7.4.006** For the UCI Trials World Youth Games events, the competition type is open (free choice of wheel size between 18” and 26”) and the competition categories are Boys U10, Boys U12, Boys U14, Boys U16, Girls U10, Girls U13 and Girls U16 ~~youth girls, poussins, benjamins, minimes, cadets,~~ as described in article 7.1.002 of the present rule book. 
+- **7.4.006** For the UCI Trials World Youth Games events, the competition type is open (free choice of wheel size between 18” and 26”) and the competition categories are Boys U10, Boys U12, Boys U14, Boys U16, Girls U10, Girls U13 and Girls U16 <del>youth girls, poussins, benjamins, minimes, cadets,</del> as described in article 7.1.002 of the present rule book. 
 
 (text modified on 01.02.11; 27.01.17, 01.01.25). 
 
-## **Chapter V UCI TRIALS** ~~**NATIONAL**~~ **MIXED TEAM COMPETITION** 
+## **Chapter V UCI TRIALS** <del>**NATIONAL**</del> **MIXED TEAM COMPETITION** 
 
 ## General 
 
-- **7.5.001** The UCI Trials ~~National~~ mixed team competition shall be established in a dedicated section at the UCI Trials World Championships and at the UCI Trials World Youth Games. 
+- **7.5.001** The UCI Trials <del>National</del> mixed team competition shall be established in a dedicated section at the UCI Trials World Championships and at the UCI Trials World Youth Games. 
 
 (text modified on 18.03.15; 01.01.25). 
 
@@ -218,19 +218,19 @@ Riders tying on points are ranked by considering the greatest number of first pl
 
 ## **7.5.002 UCI Trials World Championships** 
 
-The rider’s participation in the UCI Trials ~~National~~ mixed Team competition must be done by the team manager at the rider’s confirmation. 
+The rider’s participation in the UCI Trials <del>National</del> mixed Team competition must be done by the team manager at the rider’s confirmation. 
 
-The maximum number of riders in a Trials ~~National~~ mixed team competition shall be ~~5~~ 6, one per category: 
-
-- 
+The maximum number of riders in a Trials <del>National</del> mixed team competition shall be <del>5</del> 6, one per category: 
 
 - 
 
 - 
 
-   - 1 Men Junior ~~s~~ 20” 
+- 
 
-   - 1 Men Junior ~~s~~ 26” 
+   - 1 Men Junior <del>s</del> 20” 
+
+   - 1 Men Junior <del>s</del> 26” 
 
    - 1 Women Junior 
 
@@ -248,47 +248,47 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - − 1 Women Elite 
 
-The minimum number of riders in a Trials ~~National~~ mixed team competition shall be 3. They must belong to different categories. 
+The minimum number of riders in a Trials <del>National</del> mixed team competition shall be 3. They must belong to different categories. 
 
 ## **UCI Trials World Youth Games** 
 
-The rider’s participation in the UCI Trials Youth ~~National~~ mixed Team competition must be done by the team manager at the rider’s confirmation. 
+The rider’s participation in the UCI Trials Youth <del>National</del> mixed Team competition must be done by the team manager at the rider’s confirmation. 
 
-The maximum number of riders in a Trials ~~National~~ mixed team competition shall be ~~6~~ 7, one per category: 
+The maximum number of riders in a Trials <del>National</del> mixed team competition shall be <del>6</del> 7, one per category: 
 
-- 1 ~~Poussin B~~ oys U10 (9-10) 
+- 1 <del>Poussin B</del> oys U10 (9-10) 
 
-- 1 ~~Benjamin~~ Boys U12 (11-12) 
+- 1 <del>Benjamin</del> Boys U12 (11-12) 
 
-- 1 ~~Minime~~ Boys U14 (13-14) 
+- 1 <del>Minime</del> Boys U14 (13-14) 
 
-- 1 ~~Cadet~~ Boys U16 (15-16) 
+- 1 <del>Cadet</del> Boys U16 (15-16) 
 
-- 1 ~~Youth~~ Girls U10 (9-1 ~~01)~~ 
+- 1 <del>Youth</del> Girls U10 (9-1 <del>01)</del> 
 
-- 1 Girls U13 (11-1 ~~32-15~~ ) 
+- 1 Girls U13 (11-1 <del>32-15</del> ) 
 
 - 1 Girls U16 (14-16) 
 
-The minimum number of riders in a Trials ~~National~~ mixed team competition shall be 4. They must belong to different categories. (text modified on 18.03.15, 01.01.25) 
+The minimum number of riders in a Trials <del>National</del> mixed team competition shall be 4. They must belong to different categories. (text modified on 18.03.15, 01.01.25) 
 
 ## Starting procedure 
 
 ## **7.5.003 UCI Trials World Championships** 
 
-The total number of UCI points a ~~National~~ mixed team is obtained by adding the sum of each rider's individual UCI points. The total number of UCI points will determine the start order in the UCI Trials ~~National~~ mixed team competition. The national team with the lowest total UCI points will start first. 
+The total number of UCI points a <del>National</del> mixed team is obtained by adding the sum of each rider's individual UCI points. The total number of UCI points will determine the start order in the UCI Trials <del>National</del> mixed team competition. The national team with the lowest total UCI points will start first. 
 
-The start order of the riders in each ~~national~~ mixed team is determined by each team manager. 
+The start order of the riders in each <del>national</del> mixed team is determined by each team manager. 
 
-The first rider to start the competition belongs to the ~~national~~ mixed team with the lowest UCI points. The second rider is from the ~~national~~ mixed team with the second lowest UCI points and so on. The same procedure applies for the remaining riders. 
+The first rider to start the competition belongs to the <del>national</del> mixed team with the lowest UCI points. The second rider is from the <del>national</del> mixed team with the second lowest UCI points and so on. The same procedure applies for the remaining riders. 
 
 Riders ride the sections one by one and only once. 
 
 ## **UCI World Youth Games** 
 
-The ~~gG~~ irls U16 and ~~cadets~~ ’ Boys U16 total UCI points of each ~~national~~ mixed team will determine the start order in the UCI Trials Youth ~~national~~ mixed team competition. The ~~national~~ mixed teams without UCI points will start first. The start order will be determined at random. 
+The <del>gG</del> irls U16 and <del>cadets</del> ’ Boys U16 total UCI points of each <del>national</del> mixed team will determine the start order in the UCI Trials Youth <del>national</del> mixed team competition. The <del>national</del> mixed teams without UCI points will start first. The start order will be determined at random. 
 
-The ~~national~~ mixed team with the lowest total UCI points will start after the ~~national~~ mixed teams without UCI points. 
+The <del>national</del> mixed team with the lowest total UCI points will start after the <del>national</del> mixed teams without UCI points. 
 
 Page **6** / **9** 
 
@@ -298,23 +298,23 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0007-00.png)
 
-The start order of the riders in each ~~national~~ mixed team is determined by each team manager. 
+The start order of the riders in each <del>national</del> mixed team is determined by each team manager. 
 
-The first riders to start the competition belong to the ~~national~~ mixed teams without UCI points. The remaining riders are from the ~~national~~ mixed teams with UCI points and so on. The same procedure applies for the remaining riders. Riders ride the sections one by one and only once. 
+The first riders to start the competition belong to the <del>national</del> mixed teams without UCI points. The remaining riders are from the <del>national</del> mixed teams with UCI points and so on. The same procedure applies for the remaining riders. Riders ride the sections one by one and only once. 
 
 (article introduced on 18.03.15; 27.01.17; 01.01.25). 
 
 ## Results 
 
-- **7.5.006** The points scored by each rider count as points for his/her ~~national~~ mixed team’s overall score. The winner is the ~~national~~ mixed team with the highest score. In case of tie, the ~~national~~ mixed team that scored points riding on the highest level (gate) will break the tie. 
+- **7.5.006** The points scored by each rider count as points for his/her <del>national</del> mixed team’s overall score. The winner is the <del>national</del> mixed team with the highest score. In case of tie, the <del>national</del> mixed team that scored points riding on the highest level (gate) will break the tie. 
 
 (article introduced on 18.03.15; 01.01.25). 
 
 ## Recognition and awards 
 
-- **7.5.007** At the UCI Trials World Championships as per article 7.5.006 the UCI shall bestow upon the first place the title of «UCI Trials ~~National~~ Mixed Team World Champion». The UCI will award the first three teams ranked. 
+- **7.5.007** At the UCI Trials World Championships as per article 7.5.006 the UCI shall bestow upon the first place the title of «UCI Trials <del>National</del> Mixed Team World Champion». The UCI will award the first three teams ranked. 
 
-At the UCI Trials World Youth Games as per article 7.5.006 the UCI shall bestow upon the first place the title of «UCI Trials Youth ~~National~~ Mixed Team Winner». The UCI will award the first three teams ranked. 
+At the UCI Trials World Youth Games as per article 7.5.006 the UCI shall bestow upon the first place the title of «UCI Trials Youth <del>National</del> Mixed Team Winner». The UCI will award the first three teams ranked. 
 
 These titles shall remain the property of the UCI and may not be used in conjunction with any product endorsement or for any other commercial purpose without UCI’s prior express consent. 
 
@@ -326,13 +326,13 @@ These titles shall remain the property of the UCI and may not be used in conjunc
 
 The official ceremony shall take place immediately after the competition and will be run according to articles 9.1.043 ff. 
 
-All members of the first three ~~national~~ mixed teams must attend the official ceremony. 
+All members of the first three <del>national</del> mixed teams must attend the official ceremony. 
 
 ## **UCI World Youth Games** 
 
 The official ceremony shall take place immediately after the competition. 
 
-All members of the first three ~~national~~ mixed teams must attend the official ceremony. Bicycles cannot be taken onto the podium. 
+All members of the first three <del>national</del> mixed teams must attend the official ceremony. Bicycles cannot be taken onto the podium. 
 
 (article introduced on 18.03.15; text modified 15.10.18; 01.01.25). 
 
@@ -351,7 +351,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||**_UCI WORLD_**<br>**_CHAMPIONSHIPS_**<br>**_(CM)_**|**_UCI WORLD_**<br>**_CHAMPIONSHIPS_**<br>**_(CM)_**|**UCI**<br>**WORLD**<br>**CUP**<br>**(CDM)**|**CONTINENTAL**<br>**CHAMPIONSHIPS**<br>**(CC)**|**CONTINENTAL**<br>**CHAMPIONSHIPS**<br>**(CC)**|**NATIONAL**<br>**CHAMPIONSHIPS**<br>**(CN)**|**NATIONAL**<br>**CHAMPIONSHIPS**<br>**(CN)**|**INTERNATIONAL EVENTS**|**INTERNATIONAL EVENTS**|
 |---|---|---|---|---|---|---|---|---|---|
 |||||||||**HORS**<br>**CLASS (HC)**|**CLASS**<br>**ONE**<br>**(C1)**|
-|**Rank**|**Men/**<br>**Women**<br>**Eelite**|**Men/**<br>**Women**<br>**J**~~**ju**~~**nio**~~**rs**~~|**All**<br>**classes**|**Men/**<br>**Women**<br>~~**Eel**~~**ite**|**Men/**<br>**Women**<br>**J**~~**j**~~**unio**~~**rs**~~|**Men/**<br>**Women**<br>**E**~~**el**~~**ite**|**Men /**<br>**Women**<br>**J**~~**j**~~**unio**~~**rs**~~|**Men/ Women**<br>~~**Eel**~~**ite**|**Men/**<br>**Women**<br>~~**Eel**~~**ite**|
+|**Rank**|**Men/**<br>**Women**<br>**Eelite**|**Men/**<br>**Women**<br>**J**<del>**ju**</del>**nio**<del>**rs**</del>|**All**<br>**classes**|**Men/**<br>**Women**<br><del>**Eel**</del>**ite**|**Men/**<br>**Women**<br>**J**<del>**j**</del>**unio**<del>**rs**</del>|**Men/**<br>**Women**<br>**E**<del>**el**</del>**ite**|**Men /**<br>**Women**<br>**J**<del>**j**</del>**unio**<del>**rs**</del>|**Men/ Women**<br><del>**Eel**</del>**ite**|**Men/**<br>**Women**<br><del>**Eel**</del>**ite**|
 |_1_|300|125|200|100|70|50|25|50|40|
 |_2_|250|110|160|90|60|40|20|40|30|
 |_3_|200|105|140|80|50|35|18|35|25|

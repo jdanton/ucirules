@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7ENtPTI8CbdMTheqxnRYAN/574
 source_sha256: dcb16458f773ba6c7c96ad4332423be2b2710d89b637658593802c3dd149c668
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 08 June 2026 
 
@@ -98,6 +98,6 @@ Yellow cards shall only be issued to individuals. In cases where sanctions are i
 
 Yellow cards shall be noted in the communiqué of the commissaires’ panel. 
 
-~~Between 1 August 2024 and 31 December 2024, yellow cards may be issued in the context of the following events: UCI WorldTour, and UCI Women~~ ’ ~~s WorldTour.~~ As from 1 January 2027, yellow cards may ~~then~~ be issued at the following events: UCI WorldTour, UCI Women’s WorldTour, UCI ProSeries (ME and WE), Class 1 (ME and WE), Olympic Games, UCI World Championships (Elite and U23) and Continental Championships (Elite and U23). 
+<del>Between 1 August 2024 and 31 December 2024, yellow cards may be issued in the context of the following events: UCI WorldTour, and UCI Women</del> ’ <del>s WorldTour.</del> As from 1 January 2027, yellow cards may <del>then</del> be issued at the following events: UCI WorldTour, UCI Women’s WorldTour, UCI ProSeries (ME and WE), Class 1 (ME and WE), Olympic Games, UCI World Championships (Elite and U23) and Continental Championships (Elite and U23). 
 
 _(article introduced on 01.08.24; modified on 01.01.25; 01.01.27)_

@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2qsIuXfqIF2NaTMMS4Gioc/bfd
 source_sha256: 86518a478d4ef6be3781aae0c6cc4df64f55f6de1d90a9bffd58551defcde6a9
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 6.02.2026 
 
@@ -120,7 +120,7 @@ _(text modified on 1.01.02; 1.01.05; 1.01.07; 1.01.09; 1.01.15; 8.02.21; 6.02.26
 
 ## **Evaluation of the event route** 
 
-- **2.2.016** The UCI may use the services of independent experts to evaluate the safety and compliance of the route. The UCI collects essential information from the organisers for this purpose and/or mandates an independent expert to collect the essential information directly from the organisers. The information collected may include videos of the route, the route layout in GPX format and any other information as deemed relevant by the UCI. The ~~result of the~~ evaluation of the event route by the UCI or the appointed independent expert may lead to the issuance of recommendations, which will be timely communicated by the UCI, or the independent experts to the organiser so that the latter can implement any corrective actions required. 
+- **2.2.016** The UCI may use the services of independent experts to evaluate the safety and compliance of the route. The UCI collects essential information from the organisers for this purpose and/or mandates an independent expert to collect the essential information directly from the organisers. The information collected may include videos of the route, the route layout in GPX format and any other information as deemed relevant by the UCI. The <del>result of the</del> evaluation of the event route by the UCI or the appointed independent expert may lead to the issuance of recommendations, which will be timely communicated by the UCI, or the independent experts to the organiser so that the latter can implement any corrective actions required. 
 
 Only organisers that are contacted by the UCI are required to submit the requested information. 
 
@@ -142,9 +142,9 @@ _(chapter replaced on 1.01.09)._
 
 - **2.17.004** A UCI Continental team or UCI women’s continental team will comprise riders who may or may not be professional, in the elite and/or under 23 categories. It must have minimum 10 riders for UCI continental teams, 8 for UCI women’s continental teams and a maximum of 16 riders for both categories. 
 
-However, a UCI continental team or a UCI women’s continental team shall also have the right to add up to 4 riders specialising in the following ~~endurance~~ cycling disciplines: ~~(c~~ yclo-cross; mountain bike: cross country; track: endurance, madison. ~~ranking)~~ This shall be subject to the riders in question being ranked among the top 150 of the last final UCI individual classification for cyclo-cross and mountain bike cross-country and, for track, being ranked among the top 150 in the endurance or madison ranking at any time over the course of the last 52 weeks preceding the rider’s date of registration with the team, or having competed in the UCI Track World Championships or Continental Championships of the current or previous (track) season. 
+However, a UCI continental team or a UCI women’s continental team shall also have the right to add up to 4 riders specialising in the following <del>endurance</del> cycling disciplines: <del>(c</del> yclo-cross; mountain bike: cross country; track: endurance, madison. <del>ranking)</del> This shall be subject to the riders in question being ranked among the top 150 of the last final UCI individual classification for cyclo-cross and mountain bike cross-country and, for track, being ranked among the top 150 in the endurance or madison ranking at any time over the course of the last 52 weeks preceding the rider’s date of registration with the team, or having competed in the UCI Track World Championships or Continental Championships of the current or previous (track) season. 
 
-~~A UCI women~~ ’ ~~s continental team may also add 4 riders specialising in one of the disciplines listed in the preceding paragraph, as long as the riders in question are among the top 150 of the final UCI individual classification for that discipline.~~ 
+<del>A UCI women</del> ’ <del>s continental team may also add 4 riders specialising in one of the disciplines listed in the preceding paragraph, as long as the riders in question are among the top 150 of the final UCI individual classification for that discipline.</del> 
 
 _(text modified on 1.07.09; 1.07.12; 1.01.17; 1.07.18; 1.01.20; 1.11.25, 6.02.26)._ 
 
@@ -178,7 +178,7 @@ relevant year **Events outside Europe** Minimum number of UCI WorldTeams and UCI
 
 2.    the format, structure and nature of the event, contributing to the image of the UCI ProSeries as elite events; 
 
-~~of UCI ProSeries~~ ’ ~~elite events~~ 
+<del>of UCI ProSeries</del> ’ <del>elite events</del> 
 
 3. the sporting ambition and coherence of the event within the UCI ProSeries calendar; 
 
@@ -208,6 +208,6 @@ Subject to other requirements set out in the UCI regulations, events that meet t
 
 The UCI Management Committee may also grant exemptions from the above criteria upon written request and justification, particularly for reasons related to the development of cycling. 
 
-~~The eligibility criteria for submitting an application for registration on the UCI ProSeries calendar are defined above and may be adapted by the UCI Management Committee if necessary. The UCI Management Committee may also take acknowledged facts into account.~~ 
+<del>The eligibility criteria for submitting an application for registration on the UCI ProSeries calendar are defined above and may be adapted by the UCI Management Committee if necessary. The UCI Management Committee may also take acknowledged facts into account.</del> 
 
 _(text modified on 12.06.20, 20.10.25, 6.02.2026)_

@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4Jwn3HfNQvCcTQFQs5RFle/80a
 source_sha256: 3301ec2df59887b7a9a50583e6861658a18547b9ab766c2312af55e61732ec54
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 08.06.2026 
 
@@ -26,7 +26,7 @@ MEMORANDUM 08.06.2026
 
       - Positioning: information related to the location of the rider or the bicycle; 
 
-      - − Image: still or moving images or footage captured from the bicycle  (such devices may only be fitted on the bicycle and may not be worn by the rider unless authorised under the specific regulations of a given discipline in the discipline-specific part of the UCI Regulations ~~authorise devices being worn by riders~~ ); 
+      - − Image: still or moving images or footage captured from the bicycle  (such devices may only be fitted on the bicycle and may not be worn by the rider unless authorised under the specific regulations of a given discipline in the discipline-specific part of the UCI Regulations <del>authorise devices being worn by riders</del> ); 
 
       - Mechanical: information captured from the bicycle or any of its components, including but not limited to power, speed, cadence, accelerometer, gyroscope, gearing, tyre pressure. 
 
@@ -72,11 +72,11 @@ _(Article introduced on 10.06.21; 01.01.28_
 
 In the disciplines road, track and cyclo-cross, only wheel designs granted prior approval by the UCI as per the Approval Protocol may be used. 
 
-Wheels which meet the definition of traditional wheels are assumed to be compliant and do not need to follow the Approval Protocol ~~application procedure provided for in this article~~. 
+Wheels which meet the definition of traditional wheels are assumed to be compliant and do not need to follow the Approval Protocol <del>application procedure provided for in this article</del>. 
 
-~~**Definition of Traditional wheels:**~~ **Traditional wheels are defined as meeting the criteria below:** 
+<del>**Definition of Traditional wheels:**</del> **Traditional wheels are defined as meeting the criteria below:** 
 
-~~Criteria:~~ 
+<del>Criteria:</del> 
 
 - Rim height: Less than 25 mm; 
 
@@ -112,9 +112,9 @@ The following dimensional limits apply per discipline:
 
 - Road and Track: the overall wheel diameter (including installed and inflated tyre) shall not exceed 700 mm; 
 
-- Cyclo-cross: The width of the tyre (measured at the the section) shall not exceed 33 m ~~m and the tyre shall not incorporate any form of spikes or studs~~. 
+- Cyclo-cross: The width of the tyre (measured at the the section) shall not exceed 33 m <del>m and the tyre shall not incorporate any form of spikes or studs</del>. 
 
-~~Wheels of the bicycle may vary in diameter between 700 mm maximum and 550 mm minimum, including the tyre.~~ 
+<del>Wheels of the bicycle may vary in diameter between 700 mm maximum and 550 mm minimum, including the tyre.</del> 
 
 ## **(d) Rim / Tyre compatibility** 
 
@@ -122,9 +122,9 @@ In order to comply with the requirements and ensure compatibility between the co
 
 ## **(e) Impact test requirements** 
 
-Wheels used in the road, track and cyclo-cross disciplines must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2. Fulfillment of these requirements concerns both the front wheels and the rear wheels, independent of materials, brake systems and other characteristics. ~~Manufacturers must apply for approval by providing declaration of conformity to the UCI. Detailed procedure and template can be found in the section~~ “ ~~Equipment~~ ” ~~on the UCI Website.~~ 
+Wheels used in the road, track and cyclo-cross disciplines must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2. Fulfillment of these requirements concerns both the front wheels and the rear wheels, independent of materials, brake systems and other characteristics. <del>Manufacturers must apply for approval by providing declaration of conformity to the UCI. Detailed procedure and template can be found in the section</del> “ <del>Equipment</del> ” <del>on the UCI Website.</del> 
 
-~~Notwithstanding this article, the choice and use of wheels remains subject to articles 1.3.001 to 1.3.003.~~ 
+<del>Notwithstanding this article, the choice and use of wheels remains subject to articles 1.3.001 to 1.3.003.</del> 
 
 In track competition, including motor-pacing, the use of a front disc wheel is only permitted in the specialties against the clock. 
 

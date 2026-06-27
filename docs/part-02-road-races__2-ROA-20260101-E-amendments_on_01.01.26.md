@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/vXrDrFCrhpNw7ZXnJtOSm/08ba
 source_sha256: e3cd9e247170976a32d080e98240f7f3972a38c920186d101d12552dc9866761
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 03.10.2025 
 
@@ -18,13 +18,13 @@ converter: pymupdf4llm
 
 ## **Mixed Teams** 
 
-**2.1.004** ~~A mixed team is composed exclusively of riders belonging to different club teams eligible for participation according to article 2.1.005 and registered for a specific event.~~ 
+**2.1.004** <del>A mixed team is composed exclusively of riders belonging to different club teams eligible for participation according to article 2.1.005 and registered for a specific event.</del> 
 
-~~Riders registered with UCI teams are not authorised to be part of a mixed team. Teams registered with the UCI are not authorised to form mixed teams~~. 
+<del>Riders registered with UCI teams are not authorised to be part of a mixed team. Teams registered with the UCI are not authorised to form mixed teams</del>. 
 
-~~The same mixed team shall not be authorised to take part in more than one event per season, unless authorised by the UCI prior to the organiser~~ ’ ~~s enrolment confirmation.~~ 
+<del>The same mixed team shall not be authorised to take part in more than one event per season, unless authorised by the UCI prior to the organiser</del> ’ <del>s enrolment confirmation.</del> 
 
-~~Riders of a mixed team shall wear the same jersey, which may bear advertising for their usual sponsor. It may not be a national jersey. The name of the mixed team shall be composed of the names of the riders~~ ’ ~~club teams.~~ 
+<del>Riders of a mixed team shall wear the same jersey, which may bear advertising for their usual sponsor. It may not be a national jersey. The name of the mixed team shall be composed of the names of the riders</del> ’ <del>club teams.</del> 
 
 A mixed team shall be composed exclusively of riders originating from a maximum of two distinct teams or clubs, both of which must be eligible to participate in accordance with Article 2.1.005. 
 
@@ -103,8 +103,8 @@ _(Article introduced on 1.01.26)_
 |**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**||**Class**||**Participation**|
 |---|---|---|---|---|---|
 ||||1.2<br>2.2||-UCI ProTeams of the country<br>-UCI foreign UCI ProTeams (max. 2)<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
-||MU||1.2U<br>2.2U||~~- UCI ProTeams of the country~~<br>~~- UCI foreign UCI ProTeams (max. 2)~~<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>Regional and club teams|
-||||~~Ncup~~<br>~~1.2~~<br>~~Ncup~~<br>~~2.2~~||~~- National teams~~<br>~~- Regional and club teams (max 16%)~~<br>~~(2)~~<br>~~- Mixed teams~~|
+||MU||1.2U<br>2.2U||<del>- UCI ProTeams of the country</del><br><del>- UCI foreign UCI ProTeams (max. 2)</del><br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>Regional and club teams|
+||||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>||<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
 |UCI America Tour<br>UCI Asia Tour<br>UCI Oceania Tour<br>UCI Africa Tour|ME||1.Pro<br>2.Pro||-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams(1)<br>-UCI cyclo-cross professional teams<br>(1)<br>-National teams|
 ||||1.1<br>2.1||-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 
@@ -117,8 +117,8 @@ _(Article introduced on 1.01.26)_
 |**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**||**Class**||**Participation**|
 |---|---|---|---|---|---|
 ||||1.2<br>2.2||-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-African mixed teams(3)|
-||MU||1.2U<br>2.2U||~~- UCI ProTeams of the country~~<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-Mixed teams|
-||||~~Ncup~~<br>~~1.2~~<br>~~Ncup~~<br>~~2.2~~||~~- National teams~~<br>~~- Regional and club teams (max 16%)~~<br>~~(2)~~<br>~~- Mixed teams~~|
+||MU||1.2U<br>2.2U||<del>- UCI ProTeams of the country</del><br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-Mixed teams|
+||||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>||<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
 |Women Elite|WE||1.WWT<br>2.WWT||-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br>-National team from the country of<br>the organiser with the agreement of<br>the UCI (4)|
 ||||1.Pro<br>2.Pro||- UCI Women’s WorldTeams (min 4)<br>- UCI Women’s ProTeams<br>- UCI women’s continental teams<br>- UCI cyclo-cross professional teams<br>- National teams|
 ||||1.1<br>2.1||-UCI Women’s WorldTeams (min 1,<br>max 7)<br>-UCI Women’s ProTeams<br>-UCI women’s continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
@@ -263,7 +263,7 @@ _(article introduced on 1.01.26)_
 
 ## **Passengers** 
 
-- **2.2.041** All passengers of vehicles shall ~~equally ensure that they~~ act in a prudent manner to safeguard the safety of riders in the race, spectators and other vehicles. In doing so, they shall not make any gestures, manipulate any objects or give any instructions to drivers which are susceptible of causing a risk for safety 
+- **2.2.041** All passengers of vehicles shall <del>equally ensure that they</del> act in a prudent manner to safeguard the safety of riders in the race, spectators and other vehicles. In doing so, they shall not make any gestures, manipulate any objects or give any instructions to drivers which are susceptible of causing a risk for safety 
 
 _(text modified on 4.05.16; 1.01.26)._ 
 
@@ -287,7 +287,7 @@ _(text modified on 1.01.05; 1.01.13; 4.05.16; 1.01.26)._
 
 ## **Start** 
 
-- **2.4.010** All riders ~~must~~ shall present themselves ~~for checks on their bicycles~~ with their equipment at the bike check area no later than ~~15~~ 10 minutes before their scheduled start time. ~~Before the start, an additional check can be done.~~ This check is mandatory and must be passed before the rider is allowed to start. After this final check, riders must remain within the controlled area, composed of the bike check, warm-up and waiting areas, until their start. 
+- **2.4.010** All riders <del>must</del> shall present themselves <del>for checks on their bicycles</del> with their equipment at the bike check area no later than <del>15</del> 10 minutes before their scheduled start time. <del>Before the start, an additional check can be done.</del> This check is mandatory and must be passed before the rider is allowed to start. After this final check, riders must remain within the controlled area, composed of the bike check, warm-up and waiting areas, until their start. 
 
 An optional pre-check session may be made available by the Commissaires at a designated time earlier in the day or the day before. This session is informal and intended to assist teams with the preparation of equipment. No decisions shall be made on the right to use equipment or not and the pre-check shall not replace the mandatory final check. 
 
@@ -309,7 +309,7 @@ _(text modified on 1.01.26)._
 
 ## **Start** 
 
-- **2.5.009** The riders of each team shall present themselves with their equipment at the bike check ~~point~~ area no later than 15 minutes before their team scheduled start time ~~of the team~~. ~~Before the start, an additional check can be done. T~~ his check is mandatory and must be passed before the rider is allowed to start. After this final check, riders must remain within the controlled area, composed of the bike check, warm-up and waiting areas, until their start. 
+- **2.5.009** The riders of each team shall present themselves with their equipment at the bike check <del>point</del> area no later than 15 minutes before their team scheduled start time <del>of the team</del>. <del>Before the start, an additional check can be done. T</del> his check is mandatory and must be passed before the rider is allowed to start. After this final check, riders must remain within the controlled area, composed of the bike check, warm-up and waiting areas, until their start. 
 
 An optional pre-check session may be made available by the Commissaires at a designated time earlier in the day or the day before. This session is informal and intended to assist teams with the preparation of equipment. No decisions shall be made on the right to use equipment or not and the pre-check shall not replace the mandatory final check. 
 
@@ -329,7 +329,7 @@ _(chapter introduced on 1.01.19)._
 
 ## **General provisions** 
 
-- **2.12.001** Infringements related to race incidents concerning riders, teams, ~~and o~~ ther licence holders and, where applicable, accredited individuals, observed in the context of road events are sanctioned by commissaires as set out in the table of race incidents in article 2.12.007, in accordance with article 12.4.001. 
+- **2.12.001** Infringements related to race incidents concerning riders, teams, <del>and o</del> ther licence holders and, where applicable, accredited individuals, observed in the context of road events are sanctioned by commissaires as set out in the table of race incidents in article 2.12.007, in accordance with article 12.4.001. 
 
 Sanctions given by commissaires shall be noted in the communiqué of the commissaires’ panel and will be sent to the UCI. 
 

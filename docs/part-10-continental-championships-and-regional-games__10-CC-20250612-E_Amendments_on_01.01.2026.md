@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/X3PWUWEmItPDmv4tsBYj4/c231
 source_sha256: a1bf9545d1de38e915288f3955f2c58b3d2d835822c571c675b4f2b70717acd7
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/10-CC-20250612-E_Amendments_on_01.01.2026.pdf-0001-00.png)
 
@@ -12,21 +12,21 @@ converter: pymupdf4llm
 
 ## **PART 10 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES Rules amendments applying on 01.01.2026** 
 
-## **Chapter I** ~~**GENERAL REGULATIONS**~~ **CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS** 
+## **Chapter I** <del>**GENERAL REGULATIONS**</del> **CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS** 
 
-## ~~**Calendar entry**~~ **Registration on the UCI International Calendar** 
+## <del>**Calendar entry**</del> **Registration on the UCI International Calendar** 
 
-- **10.1.001** The Continental Championships are organised each year under the responsibility of the Continental Confederations, at least for the Olympic disciplines and the elite category and are entered on the ~~Continental~~ UCI International Calendar on a fixed date chosen in agreement with the UCI. The application for registration must reach the UCI before 1st June of the previous year. The calendar application shall be submitted by the host National Federation, acting with the approval of the relevant Continental Confederation, for the discipline in question. 
+- **10.1.001** The Continental Championships are organised each year under the responsibility of the Continental Confederations, at least for the Olympic disciplines and the elite category and are entered on the <del>Continental</del> UCI International Calendar on a fixed date chosen in agreement with the UCI. The application for registration must reach the UCI before 1st June of the previous year. The calendar application shall be submitted by the host National Federation, acting with the approval of the relevant Continental Confederation, for the discipline in question. 
 
 The cyclo-cross Continental Championships take place on the first weekend of November. 
 
-The track cycling Continental Championships (men elite and women elite) shall take place ~~at least six weeks prior to the World Championships~~ in February. The UCI may consider a request for exemption for the seasons outside of the Olympic qualification period. Such request must reach the UCI during the calendar registration period of the competition. 
+The track cycling Continental Championships (men elite and women elite) shall take place <del>at least six weeks prior to the World Championships</del> in February. The UCI may consider a request for exemption for the seasons outside of the Olympic qualification period. Such request must reach the UCI during the calendar registration period of the competition. 
 
 _(text modified on 01.07.09; 09.11.16; 12.06.20; 01.01.26)_ 
 
-## ~~**Race programme**~~ **Technical Documentation and UCI Officials** 
+## <del>**Race programme**</del> **Technical Documentation and UCI Officials** 
 
-**10.1.003** The UCI must be informed about the technical guide, the event ~~race~~ programme and the competition schedule ~~at the latest two months before for approval~~ in accordance with the instructions laid down in the registration procedures for UCI International Calendars. For each discipline and specialty in which a Continental Confederation registers a Continental Championships on the UCI International Calendar, the event ~~race p~~ rogramme must at least include the categories of riders which feature in the UCI World Championships for the discipline and specialty in question, as defined in Part IX of the UCI Regulations, “World Championships”. Continental Championships for different specialties of the same discipline (if held) may be held in either the same event or in separate events, though in case of separate events, the financial obligations related to registration on the UCI International Calendar must be paid for each. 
+**10.1.003** The UCI must be informed about the technical guide, the event <del>race</del> programme and the competition schedule <del>at the latest two months before for approval</del> in accordance with the instructions laid down in the registration procedures for UCI International Calendars. For each discipline and specialty in which a Continental Confederation registers a Continental Championships on the UCI International Calendar, the event <del>race p</del> rogramme must at least include the categories of riders which feature in the UCI World Championships for the discipline and specialty in question, as defined in Part IX of the UCI Regulations, “World Championships”. Continental Championships for different specialties of the same discipline (if held) may be held in either the same event or in separate events, though in case of separate events, the financial obligations related to registration on the UCI International Calendar must be paid for each. 
 
 For track cycling, categories may be combined. However, in the case of a combined event, a title for each category shall be awarded. Only one classification shall be made and published. The distance of the race shall always be the race distance of the older category (longer distance). 
 
@@ -38,15 +38,15 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-## ~~**Technical supervision of races**~~ 
+## <del>**Technical supervision of races**</del> 
 
 **10.1.04** To ensure the technical supervision of races, the UCI will directly appoint: 
 
-- A UCI Technical Delegate ~~, responsible for representing the UCI and for guaranteeing its   interests (from 2001)~~ 
+- A UCI Technical Delegate <del>, responsible for representing the UCI and for guaranteeing its   interests (from 2001)</del> 
 
-- The ~~Chairman~~ President of the Commissaires Panel (additional UCI international commissaires may also be appointed as required.). For BMX Freestyle events, the Head Judge shall be appointed instead of the President of the Commissaires Panel. Officials are appointed in accordance with the procedures laid out in article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. 
+- The <del>Chairman</del> President of the Commissaires Panel (additional UCI international commissaires may also be appointed as required.). For BMX Freestyle events, the Head Judge shall be appointed instead of the President of the Commissaires Panel. Officials are appointed in accordance with the procedures laid out in article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. 
 
-- ~~the Antidoping Inspector.~~ 
+- <del>the Antidoping Inspector.</del> 
 
 - For the Continental Championships in Olympic cycling disciplines, the UCI may, where appropriate, appoint a UCI staff member to attend such the event in support of the Organiser, the UCI Technical Delegate, and the President of the Commissaires’ Panel (or the Head Judge for BMX Freestyle events). The associated cost of doing so shall be borne by the UCI, with the exception of accommodation and local transport, which shall be provided and covered for by the Organiser. 
 
@@ -54,7 +54,7 @@ _(text modified on 01.01.26)_
 
 ## **Participation** 
 
-**10.1.005** Only National Federations affiliated to their Continental ~~Association~~ Confederation, can take part in the Continental Championships. In case the Continental Confederation does not define a specific qualification system for each category of rider, by default the maximum number of riders taking part in the various ~~races~~ events for each category of rider will be the same for all participating National Federations. 
+**10.1.005** Only National Federations affiliated to their Continental <del>Association</del> Confederation, can take part in the Continental Championships. In case the Continental Confederation does not define a specific qualification system for each category of rider, by default the maximum number of riders taking part in the various <del>races</del> events for each category of rider will be the same for all participating National Federations. 
 
 For Road cycling, Men Under 23 riders who are registered with a UCI WorldTeam or a UCI ProTeam are not authorised to participate in the Men Under 23 category of the Continental Championships. This restriction does not apply to riders registered with development teams affiliated to UCI ProTeams or UCI WorldTeams, unless otherwise specified by the UCI in the discipline-specific regulations. 
 
@@ -80,7 +80,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-M = Men, W = Women ~~, R = rider eligible in the Nation Ranking~~ 
+M = Men, W = Women <del>, R = rider eligible in the Nation Ranking</del> 
 
 _(text modified on 05.03.18; 17.10.22; 01.01.25; 01.01.26)_ 
 

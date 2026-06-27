@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2hSKKwLFWuz8ApFjJHZVWf/f38
 source_sha256: 9341b0cb2cc46e8a040d7cacd3ed2c3f933f2ebe2f33dc73b4fa03bfdb1e3f32
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ## **PART 16 PARA CYCLING** 
 
@@ -1041,7 +1041,7 @@ A Chief Classifier may fulfil one or more of the Head of Classification’s duti
 
 A Protest Panel must be appointed by the Head of Classification in a manner which is consistent with the provisions for appointing a Classification Panel in these Classification Rules. 
 
-A Protest Panel must not include any person wh ~~o::~~ 
+A Protest Panel must not include any person wh <del>o::</del> 
 
 - was a member of the Classification Panel which made the protested decision; or 
 
@@ -1281,7 +1281,7 @@ The following eight (8) impairment types are eligible in Para Cycling. Each Para
 |---|---|
 |**Impaired Muscle Power**<br>Athletes with Impaired Muscle Power have a<br>reduced (or no) ability to contract their muscles<br>to generate force that is consistent with an<br>Underlying Health Condition affecting the<br>structure and function of the central or<br>peripheral nervous system or the muscles<br>(including the muscle origin and muscle<br>insertion).|Spinal cord injury (complete or incomplete, tetra-or<br>paraplegia or paraparesis), muscular dystrophy,<br>hereditary and peripheral neuropathies, post-polio<br>syndrome and spina bifida.|
 |**Impaired Passive Range of Movement**<br>Athletes with Impaired Passive Range of<br>Movement have a reduced ability for a joint to<br>be passively moved that is consistent with an<br>Underlying Health Condition affecting a<br>structure of bones, joints, connective tissue, or<br>soft tissues.|Contracture(s) and/or ankylosis resulting from<br>chronic joint immobilisation either congenital or due<br>to trauma or medical reasons.|
-|**Limb Deficiency/Limb length difference**<br>Athletes with Limb Deficiency or Limb Length<br>Difference have a total or partial absence of~~.~~a<br>limb or anatomically irregular limb dimensions<br>that are consistent with an Underlying Health<br>Condition resulting from trauma, illness, or<br>congenital causes affecting the bones and/or<br>joints.|Traumatic amputation, amputation due to bone<br>cancer or dysmelia.|
+|**Limb Deficiency/Limb length difference**<br>Athletes with Limb Deficiency or Limb Length<br>Difference have a total or partial absence of<del>.</del>a<br>limb or anatomically irregular limb dimensions<br>that are consistent with an Underlying Health<br>Condition resulting from trauma, illness, or<br>congenital causes affecting the bones and/or<br>joints.|Traumatic amputation, amputation due to bone<br>cancer or dysmelia.|
 |**Leg Length Difference**<br>Athletes with Leg Length Difference have a<br>difference in the length of their legs as a result<br>of limb growth, or as a result of trauma.|Dysmelia and congenital or traumatic disturbance of<br>limb growth.|
 |**Hypertonia/Spasticity**<br>Athletes with hypertonia have an increase in<br>muscle tension that may be velocity-<br>dependent and/or a reduced ability of a<br>muscle to stretch, consistent with an<br>Underlying Health Condition affecting the<br>structure and function of the central nervous<br>system.|Cerebral palsy, traumatic brain injury and stroke.|
 
@@ -3828,9 +3828,9 @@ PARA CYCLING
 
 **Classifier Competencies**: The qualifications and abilities that the UCI deems necessary for a Classifier to be competent to conduct Athlete Evaluation for Para Cycling governed by the UCI. 
 
-~~**Classifier**~~ **Classification Personnel Code of Conduct:** The behavioural and ethical standards for Classification Personnel specified by the UCI. 
+<del>**Classifier**</del> **Classification Personnel Code of Conduct:** The behavioural and ethical standards for Classification Personnel specified by the UCI. 
 
-**IPC Code:** The Athlete Classification Code ~~2~~ 025 together with the International Standards for: Classifier Personnel and Training; Intentional Misrepresentation; and Classification Data Protection. 
+**IPC Code:** The Athlete Classification Code <del>2</del> 025 together with the International Standards for: Classifier Personnel and Training; Intentional Misrepresentation; and Classification Data Protection. 
 
 **Competition:** A series of individual events conducted together under one ruling body. 
 

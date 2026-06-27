@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1vh6Ipk6ALkIhmYRfboZTd/177
 source_sha256: c83a2a2014c349d9bc807ce6ae511d5e680c13044a8a3c939d7d3cb083ac2a04
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 06.10.2025 
 
@@ -14,17 +14,17 @@ MEMORANDUM 06.10.2025
 
 ## **PART 16 PARA CYCLING** 
 
-## **Part Three:** ~~**Athlete Evaluation**~~ **The Classification Process** 
+## **Part Three:** <del>**Athlete Evaluation**</del> **The Classification Process** 
 
 ## **16.4.007 General Provisions** 
 
-~~Athlete Evaluation~~ Classification is the process by which an Athlete is assessed in accordance with these Classification Rules in order to be allocated a Sport Class and designated a Sport Class Status. 
+<del>Athlete Evaluation</del> Classification is the process by which an Athlete is assessed in accordance with these Classification Rules in order to be allocated a Sport Class and designated a Sport Class Status. 
 
-~~Athlete Evaluation~~ The Classification process encompasse ~~s a number of steps~~ four main assessment stages and these Classification Rules therefore include provisions regarding: 
+<del>Athlete Evaluation</del> The Classification process encompasse <del>s a number of steps</del> four main assessment stages and these Classification Rules therefore include provisions regarding: 
 
 - a) An assessment to verify that the Athlete has (or has had) at least one medically and/or clinically diagnosed Underlying Health Condition; 
 
-- b) An assessment to ~~determine whether v~~ erify that the Athlete has an Eligible Impairment for para cycling and that there are no inconsistencies with such reported Underlying Health Condition(s); 
+- b) An assessment to <del>determine whether v</del> erify that the Athlete has an Eligible Impairment for para cycling and that there are no inconsistencies with such reported Underlying Health Condition(s); 
 
 - c) An assessment to determine whether the Athlete complies with the Minimum Impairment Criteria (MIC) for para cycling; and 
 
@@ -98,19 +98,19 @@ Any Impairment that is not listed as an Eligible Impairment in article 16.5.001,
 
 ## **Assessment of Eligible Impairment** 
 
-~~The UCI must determine if an Athlete has an Eligible Impairment.~~ 
+<del>The UCI must determine if an Athlete has an Eligible Impairment.</del> 
 
-~~In order to be satisfied that an Athlete has an Eligible Impairment, the UCI requires all Athletes to demonstrate that he or she has an Underlying Health Condition. Article 16.5.010 lists examples of Health Conditions that are not Underlying Health Conditions.~~ 
+<del>In order to be satisfied that an Athlete has an Eligible Impairment, the UCI requires all Athletes to demonstrate that he or she has an Underlying Health Condition. Article 16.5.010 lists examples of Health Conditions that are not Underlying Health Conditions.</del> 
 
-~~The means by which the UCI determines whether an Athlete has an Eligible Impairment is at the sole discretion of the UCI. The UCI may consider that an Athlete~~ ’ ~~s Eligible Impairment is sufficiently obvious and therefore not require evidence that demonstrates the Athlete~~ ’ ~~s Eligible Impairment.~~ 
+<del>The means by which the UCI determines whether an Athlete has an Eligible Impairment is at the sole discretion of the UCI. The UCI may consider that an Athlete</del> ’ <del>s Eligible Impairment is sufficiently obvious and therefore not require evidence that demonstrates the Athlete</del> ’ <del>s Eligible Impairment.</del> 
 
-~~If in the course of determining whether an Athlete has an Eligible Impairment the UCI becomes aware that the Athlete has a Health Condition, and believes that the impact of that Health Condition may be that it is unsafe for that Athlete to compete or there is a risk to the health of the Athlete (or other Athletes) if that Athlete competes, it may designate the Athlete as Classification Not Completed (CNC) in accordance with article 16.4.011 of these Classification Rules. In such instances the UCI will explain the basis of its designation to the relevant NF and/or NPC.~~ 
+<del>If in the course of determining whether an Athlete has an Eligible Impairment the UCI becomes aware that the Athlete has a Health Condition, and believes that the impact of that Health Condition may be that it is unsafe for that Athlete to compete or there is a risk to the health of the Athlete (or other Athletes) if that Athlete competes, it may designate the Athlete as Classification Not Completed (CNC) in accordance with article 16.4.011 of these Classification Rules. In such instances the UCI will explain the basis of its designation to the relevant NF and/or NPC.</del> 
 
-~~The NF/NPC must supply the UCI with Diagnostic Information on behalf of each athlete that must be provided as follows:~~ 
+<del>The NF/NPC must supply the UCI with Diagnostic Information on behalf of each athlete that must be provided as follows:</del> 
 
-- ~~a) The relevant NF/NPC must submit a Medical Diagnostics Form (MDF) to the UCI, at least four (4) weeks in advance of the competition in which the Athlete is to be classified;~~ 
+- <del>a) The relevant NF/NPC must submit a Medical Diagnostics Form (MDF) to the UCI, at least four (4) weeks in advance of the competition in which the Athlete is to be classified;</del> 
 
-- ~~b) the Medical Diagnostic Form (MDF) must be completed in English and dated and signed by a certified health care professional;~~ 
+- <del>b) the Medical Diagnostic Form (MDF) must be completed in English and dated and signed by a certified health care professional;</del> 
 
 Page **3** / **26** 
 
@@ -118,31 +118,31 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-## ~~c) the Medical Diagnostic Form (MDF) must be submitted with supportive Diagnostic Information.~~ 
+## <del>c) the Medical Diagnostic Form (MDF) must be submitted with supportive Diagnostic Information.</del> 
 
-~~The UCI may require the NF/NPC to re-submit the Medical Diagnostic Form on behalf of an athlete (with necessary supportive Diagnostic Information) if the UCI at its sole discretion considers the Medical Diagnostic Form and/or the Diagnostic Information to be incomplete or inconsistent.~~ 
+<del>The UCI may require the NF/NPC to re-submit the Medical Diagnostic Form on behalf of an athlete (with necessary supportive Diagnostic Information) if the UCI at its sole discretion considers the Medical Diagnostic Form and/or the Diagnostic Information to be incomplete or inconsistent.</del> 
 
-~~The UCI may consider the Diagnostic Information itself, and/or may appoint an Eligibility Assessment Committee to do so.~~ 
+<del>The UCI may consider the Diagnostic Information itself, and/or may appoint an Eligibility Assessment Committee to do so.</del> 
 
-~~The process by which Diagnostic Information is reviewed is as follows:~~ 
+<del>The process by which Diagnostic Information is reviewed is as follows:</del> 
 
-- a) ~~The UCI will notify the relevant NF or NPC that Diagnostic Information must be provided on behalf of the Athlete. The UCI will explain what Diagnostic Information is required, and the purposes for which it is required.~~ 
+- a) <del>The UCI will notify the relevant NF or NPC that Diagnostic Information must be provided on behalf of the Athlete. The UCI will explain what Diagnostic Information is required, and the purposes for which it is required.</del> 
 
-- b) ~~The UCI will set timelines to submit the requested Diagnostic Information.~~ 
+- b) <del>The UCI will set timelines to submit the requested Diagnostic Information.</del> 
 
-- c) ~~The UCI will appoint an Eligibility Assessment Committee. The Eligibility Assessment Committee must, if practicable, be comprised of the Head of Classification and at least two other experts with appropriate medical qualifications. All members of the Eligibility Assessment Committee are bound by a confidentiality clause.~~ 
+- c) <del>The UCI will appoint an Eligibility Assessment Committee. The Eligibility Assessment Committee must, if practicable, be comprised of the Head of Classification and at least two other experts with appropriate medical qualifications. All members of the Eligibility Assessment Committee are bound by a confidentiality clause.</del> 
 
-- d) ~~Wherever possible all references to the Athlete and the source(s) of the Diagnostic Information should be withheld from the Eligibility Assessment Committee. The Eligibility Assessment Committee will review the Diagnostic Information and decide whether such information establishes the existence of an Eligible Impairment.~~ 
+- d) <del>Wherever possible all references to the Athlete and the source(s) of the Diagnostic Information should be withheld from the Eligibility Assessment Committee. The Eligibility Assessment Committee will review the Diagnostic Information and decide whether such information establishes the existence of an Eligible Impairment.</del> 
 
-- e) ~~If the Eligibility Assessment Committee concludes that the Athlete has an Eligible Impairment the Athlete will be permitted to complete Athlete Evaluation with a Classification Panel.~~ 
+- e) <del>If the Eligibility Assessment Committee concludes that the Athlete has an Eligible Impairment the Athlete will be permitted to complete Athlete Evaluation with a Classification Panel.</del> 
 
-- f) ~~If the Eligibility Assessment Committee is not satisfied that the Athlete has an Eligible Impairment the UCI will provide a decision to this effect in writing to the relevant NF or NPC. The NF or NPC will be given an opportunity to comment on the decision and may provide further Diagnostic Information to the Eligibility Assessment Committee for review. If the decision is subsequently revised, the UCI will inform the NF or NPC.~~ 
+- f) <del>If the Eligibility Assessment Committee is not satisfied that the Athlete has an Eligible Impairment the UCI will provide a decision to this effect in writing to the relevant NF or NPC. The NF or NPC will be given an opportunity to comment on the decision and may provide further Diagnostic Information to the Eligibility Assessment Committee for review. If the decision is subsequently revised, the UCI will inform the NF or NPC.</del> 
 
-- g) ~~If the decision remains unchanged, the UCI will issue a final decision letter to the NF or NPC.~~ 
+- g) <del>If the decision remains unchanged, the UCI will issue a final decision letter to the NF or NPC.</del> 
 
-- h) ~~The Eligibility Assessment Committee may make its decisions by a majority. If the Head of Classification is part of the Eligibility Assessment Committee, he or she may veto any decision if he or she does not agree that the Diagnostic Information supports the conclusion that the Athlete has an Eligible Impairment.~~ 
+- h) <del>The Eligibility Assessment Committee may make its decisions by a majority. If the Head of Classification is part of the Eligibility Assessment Committee, he or she may veto any decision if he or she does not agree that the Diagnostic Information supports the conclusion that the Athlete has an Eligible Impairment.</del> 
 
-~~The UCI may delegate one or more of the functions described above to a Classification Panel.~~ 
+<del>The UCI may delegate one or more of the functions described above to a Classification Panel.</del> 
 
 The Assessment to determine if an Athlete has an Eligible Impairment is carried out by a Classification Panel. 
 
@@ -192,11 +192,11 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-allocated Sport Class Not Eligible (NE) in accordance with article ~~s 16.4.019 – 16.4.021~~ 16.4.020 of these Classification Rules. 
+allocated Sport Class Not Eligible (NE) in accordance with article <del>s 16.4.019 – 16.4.021</del> 16.4.020 of these Classification Rules. 
 
 An Athlete who complies with the Minimum Impairment Criteria for para cycling will be allocated a Sport Class (subject to the provisions in these Classification Rules concerning Failure to Attend Athlete Evaluation and Suspension of Athlete Evaluation). 
 
-Except for the allocation of Sport Class Not Eligible (NE) by the UCI (in accordance with article ~~16.4.019~~ 16.4.020), the allocation of a Sport Class must be based solely on an evaluation by a Classification Panel of the extent to which the Athlete’s Eligible Impairment affects the specific tasks and activities fundamental to sport. Except for the Observation in Competition Assessment, this evaluation must take place in a controlled non-competitive environment, which allows for the repeated observation of key tasks and activities. 
+Except for the allocation of Sport Class Not Eligible (NE) by the UCI (in accordance with article <del>16.4.019</del> 16.4.020), the allocation of a Sport Class must be based solely on an evaluation by a Classification Panel of the extent to which the Athlete’s Eligible Impairment affects the specific tasks and activities fundamental to sport. Except for the Observation in Competition Assessment, this evaluation must take place in a controlled non-competitive environment, which allows for the repeated observation of key tasks and activities. 
 
 Chapter V of the UCI Cycling Regulations specify the assessment methodology and assessment criteria for the allocation of a Sport Class and the designation of Sport Class Status. 
 
@@ -208,7 +208,7 @@ A Classification Panel is a group of Classifiers appointed by the UCI to conduct
 
 ## **General Provisions** 
 
-A Classification Panel for Athletes with a Physical Impairment consists of two UCI accredited classifiers: a medical classifier and a technical classifier. At the discretion of the ~~Head of Classification~~ UCI, a medical classifier may fill the role of a technical classifier if he/she has dual certification. 
+A Classification Panel for Athletes with a Physical Impairment consists of two UCI accredited classifiers: a medical classifier and a technical classifier. At the discretion of the <del>Head of Classification</del> UCI, a medical classifier may fill the role of a technical classifier if he/she has dual certification. 
 
 A Classification Panel for Athletes with a Visual Impairments consists of two IPC/IBSA International Classifiers who specialise in Ophthalmology or Optometry. 
 
@@ -244,7 +244,7 @@ A Classification Panel is responsible for conducting an Evaluation Session. As p
 
 Following the Evaluation Session, the Classification Panel must allocate a Sport Class and designate a Sport Class Status, or designate Classification Not Completed (CNC). 
 
-~~Prior to the Evaluation Session, the assessment as to whether an Athlete has an Eligible Impairment must be undertaken by the UCI, unless the UCI requests this to be undertaken by a Classification Panel.~~ 
+<del>Prior to the Evaluation Session, the assessment as to whether an Athlete has an Eligible Impairment must be undertaken by the UCI, unless the UCI requests this to be undertaken by a Classification Panel.</del> 
 
 ## (…) 
 
@@ -276,7 +276,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-~~The Classification Panel must allocate a final Sport Class and replace the Athlete~~ ’ ~~s Tracking Code Observation Assessment (OA) by designating a Sport Class Status upon completion of First Appearance (or completion of any Observation in Competition conducted as part of a Protest).~~ 
+<del>The Classification Panel must allocate a final Sport Class and replace the Athlete</del> ’ <del>s Tracking Code Observation Assessment (OA) by designating a Sport Class Status upon completion of First Appearance (or completion of any Observation in Competition conducted as part of a Protest).</del> 
 
 Following an Observation Assessment, the Classification Panel may: 
 
@@ -370,9 +370,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - an Athlete who has an Eligible Impairment does not comply with Minimum Impairment Criteria for Para Cycling; 
 
-he ~~UCI will allocate the~~ Athlete will be allocated Sport Class Not Eligible (NE). 
+he <del>UCI will allocate the</del> Athlete will be allocated Sport Class Not Eligible (NE). 
 
-~~If a Classification Panel determines that an Athlete who has an Eligible Impairment does not comply with Minimum Impairment Criteria for Para cycling, the Athlete will be allocated Sport Class Not Eligible (NE).~~ 
+<del>If a Classification Panel determines that an Athlete who has an Eligible Impairment does not comply with Minimum Impairment Criteria for Para cycling, the Athlete will be allocated Sport Class Not Eligible (NE).</del> 
 
 If an Athlete is allocated Sport Class Not Eligible (NE), this does not question the presence of a genuine Impairment. It is only a ruling on the eligibility of the Athlete to compete in the sport of Para Cycling. 
 
@@ -392,15 +392,15 @@ The designation of an Athlete as Not Eligible – Underlying Health Condition is
 
 ## **Absence of Eligible Impairment** 
 
-~~If the UCI determines that an Athlete does not have an Eligible Impairment, that Athlete:~~ 
+<del>If the UCI determines that an Athlete does not have an Eligible Impairment, that Athlete:</del> 
 
-- ~~will not be permitted to attend an Evaluation Session; and~~ 
+- <del>will not be permitted to attend an Evaluation Session; and</del> 
 
-- ~~will be allocated with Sport Class Not Eligible (NE) and designated with Sport Class Status Confirmed (C) by the UCI.~~ 
+- <del>will be allocated with Sport Class Not Eligible (NE) and designated with Sport Class Status Confirmed (C) by the UCI.</del> 
 
-~~If another International Sport Federation has allocated an Athlete with Sport Class Not Eligible (NE) because the Athlete does not have an Eligible Impairment the UCI may likewise do so without the need for the process detailed in article 16.4.008 of these Classification Rules.~~ 
+<del>If another International Sport Federation has allocated an Athlete with Sport Class Not Eligible (NE) because the Athlete does not have an Eligible Impairment the UCI may likewise do so without the need for the process detailed in article 16.4.008 of these Classification Rules.</del> 
 
-~~An Athlete who is allocated Sport Class Not Eligible (NE) by the UCI or a Classification Panel (if delegated by the UCI) because that Athlete has:~~ 
+<del>An Athlete who is allocated Sport Class Not Eligible (NE) by the UCI or a Classification Panel (if delegated by the UCI) because that Athlete has:</del> 
 
 Page **10** / **26** 
 
@@ -408,13 +408,13 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-- ~~an Impairment that is not an Eligible Impairment; or~~ 
+- <del>an Impairment that is not an Eligible Impairment; or</del> 
 
 - 
 
-- ~~a Health Condition that is not an Underlying Health Condition;~~ 
+- <del>a Health Condition that is not an Underlying Health Condition;</del> 
 
-~~has no right to request such determination be reviewed by a second Classification Panel and will not be permitted to participate in Para cycling.~~ 
+<del>has no right to request such determination be reviewed by a second Classification Panel and will not be permitted to participate in Para cycling.</del> 
 
 If a Classification Panel determines that an Athlete does not have an Eligible Impairment, that Athlete will be designated as Not Eligible – Eligible Impairment (Reevaluation). The Athlete is entitled to undergo a second assessment by a second Classification Panel as soon as reasonably practicable. If the second Classification Panel is not satisfied that the Athlete has an Eligible Impairment, the Athlete will be designated as Not Eligible – Eligible Impairment (NE – EI). 
 
@@ -424,11 +424,11 @@ The designation of an Athlete as Not Eligible – Eligible Impairment (NE – EI
 
 ## **Absence of Compliance with Minimum Impairment Criteria** 
 
-~~A second Classification Panel must review by way of a second Evaluation Session any Athlete who is allocated Sport Class Not Eligible (NE) on the basis that a Classification Panel determines that the Athlete does not comply with Minimum Impairment Criteria. This must take place as soon as is practicable.~~ 
+<del>A second Classification Panel must review by way of a second Evaluation Session any Athlete who is allocated Sport Class Not Eligible (NE) on the basis that a Classification Panel determines that the Athlete does not comply with Minimum Impairment Criteria. This must take place as soon as is practicable.</del> 
 
-~~Pending the second Evaluation Session the Athlete will be allocated Sport Class Not Eligible (NE) and designated Sport Class Status Review (R). The Athlete will not be permitted to compete before such re-assessment.~~ 
+<del>Pending the second Evaluation Session the Athlete will be allocated Sport Class Not Eligible (NE) and designated Sport Class Status Review (R). The Athlete will not be permitted to compete before such re-assessment.</del> 
 
-~~If the second Classification Panel determines that the Athlete does not comply with Minimum Impairment Criteria (or if the Athlete declines to participate in a second Evaluation Session at the time set by the Chief Classifier); Sport Class Not Eligible (NE) will be allocated and the Athlete designated with Sport Class Status Confirmed (C).~~ 
+<del>If the second Classification Panel determines that the Athlete does not comply with Minimum Impairment Criteria (or if the Athlete declines to participate in a second Evaluation Session at the time set by the Chief Classifier); Sport Class Not Eligible (NE) will be allocated and the Athlete designated with Sport Class Status Confirmed (C).</del> 
 
 If a Classification Panel determines that an Athlete's Eligible Impairment does not meet the Minimum Impairment Criteria for Para Cycling, that Athlete will be designated as Not Eligible – Minimum Impairment Criteria (Re-evaluation). The Athlete is entitled to undergo a second assessment by a second Classification Panel as soon as reasonably practicable. If the second Classification Panel is not satisfied that the Athlete’s Eligible Impairment meets the Minimum Impairment Criteria for Para Cycling, the Athlete will be designated as Not Eligible – Minimum Impairment Criteria (NE – MIC). 
 
@@ -444,9 +444,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 If an Athlete makes (or is subject to) a Protest on a previously allocated Sport Class other than Not Eligible (NE) and is allocated Sport Class Not Eligible (NE) by a Protest Panel, the Athlete must be provided with a further and final Evaluation Session which will review the decision to allocate Sport Class Not Eligible (NE) made by the Protest Panel. 
 
-~~If a Classification Panel allocates Sport Class Not Eligible (NE) on the basis that it has determined that an Athlete does not comply with Minimum Impairment Criteria for Para cycling the Athlete may be eligible to compete in another cycling category or another sport, subject to Athlete Evaluation for that sport.~~ 
+<del>If a Classification Panel allocates Sport Class Not Eligible (NE) on the basis that it has determined that an Athlete does not comply with Minimum Impairment Criteria for Para cycling the Athlete may be eligible to compete in another cycling category or another sport, subject to Athlete Evaluation for that sport.</del> 
 
-~~If an Athlete is allocated Sport Class Not Eligible (NE), this does not question the presence of a genuine Impairment. It is only a ruling on the eligibility of the Athlete to compete in the sport of Para cycling.~~ 
+<del>If an Athlete is allocated Sport Class Not Eligible (NE), this does not question the presence of a genuine Impairment. It is only a ruling on the eligibility of the Athlete to compete in the sport of Para cycling.</del> 
 
 _(text modified on 01.02.18; 01.01.21; 01.01.26)_ 
 
@@ -468,9 +468,9 @@ A National Federation or a National Paralympic Committee may only make a Protest
 
 A National Federation Protest may be made where there is a reasonable basis to believe that the Athlete may have been allocated an incorrect Sport Class. 
 
-A National Protest must be submitted in connection with an Evaluation Session within one (1) hour of the outcome of Athlete Evaluation being published through an official communique following the end of an Evaluation Session or the end of an Observation Session. ~~If the outcome of Athlete Evaluation is published following Observation in Competition, a National Protest must be submitted within fifteen (15) minutes of that outcome being published.~~ 
+A National Protest must be submitted in connection with an Evaluation Session within one (1) hour of the outcome of Athlete Evaluation being published through an official communique following the end of an Evaluation Session or the end of an Observation Session. <del>If the outcome of Athlete Evaluation is published following Observation in Competition, a National Protest must be submitted within fifteen (15) minutes of that outcome being published.</del> 
 
-If an Athlete is required by a Classification Panel to undergo Observation in Competition Assessment, a National Federation or a National Paralympic Committee may ~~only make a Protest after First Appearance takes place~~: 
+If an Athlete is required by a Classification Panel to undergo Observation in Competition Assessment, a National Federation or a National Paralympic Committee may <del>only make a Protest after First Appearance takes place</del>: 
 
 Page **12** / **26** 
 
@@ -492,17 +492,17 @@ To submit a National Protest, a National Federation or a National Paralympic Com
 
 − Details of the protested decision and/or a copy of the protested decision; − An explanation as to why the Protest has been made and the basis on which the National Federation/National Paralympic Committee believes that the protested decision is flawed; and 
 
-− Reference to the specific rule(s) alleged to have been breached, save that if the rule referenced is a discretionary rule the Protest will not comply with this point (An example of a discretionary rule is that a Classification Panel may (as opposed to must) require that an Athlete undertake Observation in Competition assessment as part of the Athlete Evaluation. If the reference to the specific rule(s) alleged to have been breached is discretionary in nature the Protest will not comply with this point). ~~and~~ 
+− Reference to the specific rule(s) alleged to have been breached, save that if the rule referenced is a discretionary rule the Protest will not comply with this point (An example of a discretionary rule is that a Classification Panel may (as opposed to must) require that an Athlete undertake Observation in Competition assessment as part of the Athlete Evaluation. If the reference to the specific rule(s) alleged to have been breached is discretionary in nature the Protest will not comply with this point). <del>and</del> 
 
-~~− 100 EUR protest fee.~~ 
+<del>− 100 EUR protest fee.</del> 
 
-The Protest Documents must be submitted to the Chief Classifier of the relevant Competition within the timeframes specified ~~by the UCI~~ in article 16.4.023. Upon receipt of the Protest Documents the Chief Classifier will conduct a review of the Protest, in consultation with the UCI, of which there are two possible outcomes: 
+The Protest Documents must be submitted to the Chief Classifier of the relevant Competition within the timeframes specified <del>by the UCI</del> in article 16.4.023. Upon receipt of the Protest Documents the Chief Classifier will conduct a review of the Protest, in consultation with the UCI, of which there are two possible outcomes: 
 
 - the Chief Classifier may dismiss the Protest if, in his discretion, the Protest does not comply with the Protest requirements of article 16.4.024; or 
 
 - the Chief Classifier may accept the Protest if, in his discretion, the Protest complies with the Protest requirements of article 16.4.024. 
 
-If the Protest is dismissed, the Chief Classifier must notify all relevant parties and provide a written explanation to the National Federation or National Paralympic Committee as soon as practicable. The NF/NPC will be invoiced for the 100 ~~EUR~~ CHF protest fee. 
+If the Protest is dismissed, the Chief Classifier must notify all relevant parties and provide a written explanation to the National Federation or National Paralympic Committee as soon as practicable. The NF/NPC will be invoiced for the 100 <del>EUR</del> CHF protest fee. 
 
 _(text modified on 01.02.18; 01.01.21; 01.01.26_ 
 
@@ -518,7 +518,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 A Medical Review Request must be made if a change in the nature or degree of an Athlete’s Impairment changes the Athlete’s ability to execute the specific tasks and activities required by a sport in a manner that is clearly distinguishable from changes attributable to levels of training, fitness and proficiency. 
 
-A Medical Review Request must be made to the UCI by the Athletes National Federation or National Paralympic Committee (together with a 100 ~~EUR~~ CHF nonrefundable fee and any supporting documentation). The Medical Review Request must explain how and to what extent the Athlete’s Impairment has changed, and why it is believed that the Athlete’s ability to execute the specific tasks and activities required by a sport has changed. 
+A Medical Review Request must be made to the UCI by the Athletes National Federation or National Paralympic Committee (together with a 100 <del>EUR</del> CHF nonrefundable fee and any supporting documentation). The Medical Review Request must explain how and to what extent the Athlete’s Impairment has changed, and why it is believed that the Athlete’s ability to execute the specific tasks and activities required by a sport has changed. 
 
 ## (…) 
 
@@ -566,19 +566,19 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - 
 
-- Asymmetric or symmetric bilateral involvement with at least grade 2 spasticity in lower limb/s and at least spasticity grade 1 in upper limb. Hypertonia on activity affecting trunk or legs ~~and making it impossible to ride a bicycle or tricycle~~. 
+- Asymmetric or symmetric bilateral involvement with at least grade 2 spasticity in lower limb/s and at least spasticity grade 1 in upper limb. Hypertonia on activity affecting trunk or legs <del>and making it impossible to ride a bicycle or tricycle</del>. 
 
 ## **Ataxia/Athetosis/Dystonia** 
 
-- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs and trunk, ~~making it impossible to ride a bicycle or tricycle~~; 
+- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs and trunk, <del>making it impossible to ride a bicycle or tricycle</del>; 
 
-- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H3 ~~, making it impossible to ride a bicycle or tricycle~~. 
+- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H3 <del>, making it impossible to ride a bicycle or tricycle</del>. 
 
 _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 01.01.26)_ 
 
 ## **16.5.005.4 Sport Class: H4** 
 
-Eligible Impairment(s) which prevent an Athlete from using a ~~bicycle, tricycle or~~ kneeling/sitting position on a handcycle due to underlying health conditions. 
+Eligible Impairment(s) which prevent an Athlete from using a <del>bicycle, tricycle or</del> kneeling/sitting position on a handcycle due to underlying health conditions. 
 
 ## **Impaired Muscle Power** 
 
@@ -600,7 +600,7 @@ Eligible Impairment(s) which prevent an Athlete from using a ~~bicycle, tricycle
 
 - 
 
-- Athletes with lower limb deficiencies that meet the criteria for H5 but have additional impairment/s which prevent the safe use of ~~a conventional bicycle or the~~ kneeling/sitting position on a handcycle. 
+- Athletes with lower limb deficiencies that meet the criteria for H5 but have additional impairment/s which prevent the safe use of <del>a conventional bicycle or the</del> kneeling/sitting position on a handcycle. 
 
 ## **Hypertonia** 
 
@@ -616,19 +616,19 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - Unilateral involvement; at least grade 2 spasticity in the lower limb and grade 0-1 spasticity in the upper limb; 
 
-- ~~Hypertonia on activity making it impossible to use legs on a tricycle or bicycle.~~ 
+- <del>Hypertonia on activity making it impossible to use legs on a tricycle or bicycle.</del> 
 
 ## **Ataxia/Athetosis/Dystonia** 
 
-- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs ~~, making it impossible to ride a bicycle or tricycle~~; 
+- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs <del>, making it impossible to ride a bicycle or tricycle</del>; 
 
-- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H4 ~~, making it impossible to ride a bicycle or tricycle~~. 
+- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H4 <del>, making it impossible to ride a bicycle or tricycle</del>. 
 
 _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 01.01.26)_ 
 
 ## **16.5.005.5 Sport Class: H5** 
 
-~~Eligible impairment(s) which prevent an Athlete from using a bicycle or tricycle and~~ Athletes who can use the kneeling/sitting position must use this position. 
+<del>Eligible impairment(s) which prevent an Athlete from using a bicycle or tricycle and</del> Athletes who can use the kneeling/sitting position must use this position. 
 
 ## **Impaired Muscle Power** 
 
@@ -638,7 +638,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 0
 
 ## **Limb Deficiency** 
 
-- Athletes who meet the Minimum Impairment Criteria for lower limb deficiency ~~who have additional impairment/s which prevent the safe use of a conventional bicycle.~~; 
+- Athletes who meet the Minimum Impairment Criteria for lower limb deficiency <del>who have additional impairment/s which prevent the safe use of a conventional bicycle.</del>; 
 
 ## **Hypertonia** 
 
@@ -650,7 +650,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 0
 
 - 
 
-- Hypertonia on activity ~~making it impossible to ride a bicycle or tricycle~~; 
+- Hypertonia on activity <del>making it impossible to ride a bicycle or tricycle</del>; 
 
 ## **Ataxia/Athetosis/Dystonia** 
 
@@ -676,7 +676,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-− Limited ROM of the hip or knee such that a normal functional full revolution of the crank is not possible ~~The athlete may shorten the crank to the optimal length.~~, without use of adaptation such as crank length. 
+− Limited ROM of the hip or knee such that a normal functional full revolution of the crank is not possible <del>The athlete may shorten the crank to the optimal length.</del>, without use of adaptation such as crank length. 
 
 (…) 
 
@@ -690,7 +690,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.18; 01.01.21; 01.01.26)_
 
 − Loss of function comparable to limb deficiency profiles above. 
 
-− Limited ROM of the hip or knee such that a normal functional full revolution of the crank is not possible ~~. The athlete may shorten the crank to the optimal length. w~~ ithout use of adaptation such as crank length. 
+− Limited ROM of the hip or knee such that a normal functional full revolution of the crank is not possible <del>. The athlete may shorten the crank to the optimal length. w</del> ithout use of adaptation such as crank length. 
 
 (…) 
 
@@ -744,11 +744,11 @@ _(article introduced on 01.01.26)_
 
 - **16.10.004** It is mandatory for cyclists who use catheters or other urinary diversion devices to prevent spillage by using a catheter bag at all times. This includes during training, competition and classification. 
 
-The penalty structure will be in compliance with the penalties for helmet infringements of points 3.3 and 3.4 ~~2.2 and 2.3~~ of the table of race incidents appended to Part ~~XI~~ I. 
+The penalty structure will be in compliance with the penalties for helmet infringements of points 3.3 and 3.4 <del>2.2 and 2.3</del> of the table of race incidents appended to Part <del>XI</del> I. 
 
 _(text modified on 01.02.09; 01.10.13; 01.01.26)_ 
 
-- **16.14.002** All requests of homologation for prostheses, orthoses or impairment adaptations to any cycle must be submitted in writing with proper explanation and pictures to UCI for approval, in accordance with the procedure established by the UCI available on its website. Such request must be received at the UCI at least four weeks ~~three months~~ before any event that the athlete ~~Review (R) or Confirmed (C)~~ wants to participate in. ~~New athletes (N) must submit such request one month before the date of the event must be provided in the request.~~ In case the adaptation is approved, an identification sticker will be applied on the adaptation itself ~~approval number (self-adhesive) and a certificate will be sent to the athlete to present at any event.~~ 
+- **16.14.002** All requests of homologation for prostheses, orthoses or impairment adaptations to any cycle must be submitted in writing with proper explanation and pictures to UCI for approval, in accordance with the procedure established by the UCI available on its website. Such request must be received at the UCI at least four weeks <del>three months</del> before any event that the athlete <del>Review (R) or Confirmed (C)</del> wants to participate in. <del>New athletes (N) must submit such request one month before the date of the event must be provided in the request.</del> In case the adaptation is approved, an identification sticker will be applied on the adaptation itself <del>approval number (self-adhesive) and a certificate will be sent to the athlete to present at any event.</del> 
 
 ## (…) 
 
@@ -758,13 +758,13 @@ _(text modified on 26.06.07; 01.01.10; 01.07.13; 01.02.17; 01.01.23; 01.01.26)_
 
 ## **Definition** 
 
-- **16.17.001** A handcycle is either ~~an arm powered (AP), arm-trunk powered (ATP)~~ recumbent or kneeling position ~~(HK),~~ three wheels vehicle with an open frame of tubular construction, which conforms to the general principles of UCI construction for bicycles, except that the chassis frame tubes need not be straight and that for the seat or backrest construction, the maximum frame tube diameter may exceed the maximum defined by the general principles of UCI. 
+- **16.17.001** A handcycle is either <del>an arm powered (AP), arm-trunk powered (ATP)</del> recumbent or kneeling position <del>(HK),</del> three wheels vehicle with an open frame of tubular construction, which conforms to the general principles of UCI construction for bicycles, except that the chassis frame tubes need not be straight and that for the seat or backrest construction, the maximum frame tube diameter may exceed the maximum defined by the general principles of UCI. 
 
 ## (…) 
 
 _(text modified on 01.02.09; 01.07.10; 01.02.17; 01.01.26)_ 
 
-- **16.17.010** The shifting device should be within the extremities of the handlebars, except for H1 and H2, who can fit their shifting device on the side of their body ~~to allow for their arm to shift gears.~~ 
+- **16.17.010** The shifting device should be within the extremities of the handlebars, except for H1 and H2, who can fit their shifting device on the side of their body <del>to allow for their arm to shift gears.</del> 
 
 Page **18** / **26** 
 
@@ -794,9 +794,9 @@ World Cup:
 
 - Points will be awarded for each event in accordance with article 16.18.001; 
 
-- Points from ~~two~~ all rounds of the World Cup to count; 
+- Points from <del>two</del> all rounds of the World Cup to count; 
 
-- ~~Points from one World Cup round per region only to count.~~ 
+- <del>Points from one World Cup round per region only to count.</del> 
 
 Continental Championships and Regional Games: 
 
@@ -804,7 +804,7 @@ Continental Championships and Regional Games:
 
 - In years when both the Continental Championships and Regional Games take place, points will only be awarded for the competition where athletes received the most points. 
 
-Class 1 (C1) Para Cycling competitions ~~C1 and C2 (according to article 1.2.006, points are guaranteed for competitions that are registered on the UCI international calendar as C1 competitions)~~: 
+Class 1 (C1) Para Cycling competitions <del>C1 and C2 (according to article 1.2.006, points are guaranteed for competitions that are registered on the UCI international calendar as C1 competitions)</del>: 
 
 - 
 
@@ -814,21 +814,21 @@ Class 1 (C1) Para Cycling competitions ~~C1 and C2 (according to article 1.2.006
 
 - 
 
-   - ~~Minimum 1 class represented;~~ 
+   - <del>Minimum 1 class represented;</del> 
 
-   - ~~Minimum 5 participating nations in Europe;~~ 
+   - <del>Minimum 5 participating nations in Europe;</del> 
 
-   - ~~Minimum 3 participating nations in America;~~ 
+   - <del>Minimum 3 participating nations in America;</del> 
 
-   - ~~Minimum 2 participating nations in Asia;~~ 
+   - <del>Minimum 2 participating nations in Asia;</del> 
 
-- ~~Minimum 2 participating nations in Oceania and in Africa;~~ 
+- <del>Minimum 2 participating nations in Oceania and in Africa;</del> 
 
-- ~~An athlete has the right to accumulate C1 and C2 points on a single continent, the one where he has accumulated most points per race class~~; 
+- <del>An athlete has the right to accumulate C1 and C2 points on a single continent, the one where he has accumulated most points per race class</del>; 
 
 - An athlete can earn points by competing at Class 1 competitions around the world; 
 
-- ROAD: Only the three best results from different Class 1 events ~~competitions and the three best results from C2 competitions (general classification or the~~ 
+- ROAD: Only the three best results from different Class 1 events <del>competitions and the three best results from C2 competitions (general classification or the</del> 
 
 Page **19** / **26** 
 
@@ -836,9 +836,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-~~identified race (1))~~ will be accumulated in the UCI Para Cycling individual Ranking by Sport Class. 
+<del>identified race (1))</del> will be accumulated in the UCI Para Cycling individual Ranking by Sport Class. 
 
-   - TRACK: Only the two best results (in individual races, i.e. kilometer, individual pursuit, scratch race, elimination, sprint or tandem sprint) from different Class 1 events ~~competitions and the two best results (in individual races, i.e. kilometer, individual pursuit, scratch race, elimination or tandem sprint) from different C2 competitions~~ will be accumulated in the UCI Para Cycling individual Ranking by Sport Class. 
+   - TRACK: Only the two best results (in individual races, i.e. kilometer, individual pursuit, scratch race, elimination, sprint or tandem sprint) from different Class 1 events <del>competitions and the two best results (in individual races, i.e. kilometer, individual pursuit, scratch race, elimination or tandem sprint) from different C2 competitions</del> will be accumulated in the UCI Para Cycling individual Ranking by Sport Class. 
 
 - Class 2 (C2) Para Cycling competitions: 
 
@@ -850,7 +850,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - TRACK: Only the two best results (in individual races, i.e. kilometer, individual pursuit, scratch race, elimination or sprint) from different Class 2 competitions will be accumulated in the UCI Para Cycling individual Ranking by Sport Class. 
 
-The UCI Para Cycling Individual Ranking by Sport Class ~~begins afresh on January 1[st] of every year.~~ is a 52-week rolling ranking and shall be drawn up at least once a week. 
+The UCI Para Cycling Individual Ranking by Sport Class <del>begins afresh on January 1[st] of every year.</del> is a 52-week rolling ranking and shall be drawn up at least once a week. 
 
 _(text modified on 01.01.10; 01.02.11; 01.10.11; 01.10.13; 01.02.17; 01.01.23; 01.01.26)_ 
 
@@ -889,9 +889,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - _(text modified on 01.01.10; 01.01.11; 01.01.16; 01.02.17, 01.01.19; 01.07.20; 01.01.26)_ 
 
-- **16.18.005** ~~For every C1 and C2 competition, the UCI points will be awarded once by competition (finals) or individual race, regarding article 16.18.003.~~ 
+- **16.18.005** <del>For every C1 and C2 competition, the UCI points will be awarded once by competition (finals) or individual race, regarding article 16.18.003.</del> 
 
-~~For the competitions taking place in a tournament format, UCI points will be awarded according to the general classification of the competition. In the absence of general classification, the race which will award UCI points must be clearly identified on the program of the competition. In defect, points will not be awarded.~~ 
+<del>For the competitions taking place in a tournament format, UCI points will be awarded according to the general classification of the competition. In the absence of general classification, the race which will award UCI points must be clearly identified on the program of the competition. In defect, points will not be awarded.</del> 
 
 _[article abrogated on 01.01.26]_ 
 
@@ -915,7 +915,7 @@ _(text modified on 01.07.10; 01.10.13; 01.01.25; 01.01.26)_
 
    - In the case of a mixed team (men and women), each athlete will afford to his nation a third of the points available in either the men or women team event ranking (e.g.: a mixed team winning a round of the world cup made up of two men and one woman would give 20 points to the men’s team ranking and 10 points to the women’s team ranking); 
 
-   - In the case of a ~~composite~~ mixed nations team (different nations represented), each athlete affords his or her nation a third of the points on offer for the nation's ranking for team events (e.g.: a composite team winning 
+   - In the case of a <del>composite</del> mixed nations team (different nations represented), each athlete affords his or her nation a third of the points on offer for the nation's ranking for team events (e.g.: a composite team winning 
 
 Page **21** / **26** 
 
@@ -927,13 +927,13 @@ a round of the world cup made up of two athletes from Nation A and one athlete f
 
 - 
 
-A team may be both mixed gender and ~~composite~~ mixed nations; 
+A team may be both mixed gender and <del>composite</del> mixed nations; 
 
 ## _(text modified on 01.01.11; 01.10.13; 01.02.17; 01.07.18, 01.01.19; 01.01.26)_ 
 
 ## **16.20.006** 
 
-National Federations shall confirm their participation ~~by means of an enrolment form~~ by using the dedicated UCI registration platform according to posted entry dates on the UCI website of each World Cup round. At the time of registration, up to six substitutes can be added on the team for all classes combined. This confirmation shall mention the number of persons making up each delegation, registration of riders in each race as well as their sport class, accommodation used during the event, full coordinates of the team responsible and each athlete’s time of arrival. 
+National Federations shall confirm their participation <del>by means of an enrolment form</del> by using the dedicated UCI registration platform according to posted entry dates on the UCI website of each World Cup round. At the time of registration, up to six substitutes can be added on the team for all classes combined. This confirmation shall mention the number of persons making up each delegation, registration of riders in each race as well as their sport class, accommodation used during the event, full coordinates of the team responsible and each athlete’s time of arrival. 
 
 After the posted registration deadline listed on the UCI website, late registrations will be invoiced CHF 200.- per athlete. 
 
@@ -955,9 +955,9 @@ _(text modified on 01.02.11; 01.10.11; 01.10.12; 01.10.13; 01.01.16; 01.07.18; 0
 
 The riders will be called to the line by Sport Class, age category or group, in the following order: 
 
-1. The current leader of the World Cup ~~classification,~~ or, for the first World Cup event of the season, the winner of the previous season’s World Cup; 
+1. The current leader of the World Cup <del>classification,</del> or, for the first World Cup event of the season, the winner of the previous season’s World Cup; 
 
-2. The Road Race World Champion ~~or the year after the Paralympic Games, the reigning Paralympic Games champion;~~ 
+2. The Road Race World Champion <del>or the year after the Paralympic Games, the reigning Paralympic Games champion;</del> 
 
 3. The year after the Paralympic Games, the reigning Paralympic Games champion; 
 
@@ -967,7 +967,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-4. The ~~first five~~ athletes, according to the order of the most recently published World Cup general classification, respectively the ~~first five~~ athletes in the general classification of the preceding year’s world cup for the first World Cup. 
+4. The <del>first five</del> athletes, according to the order of the most recently published World Cup general classification, respectively the <del>first five</del> athletes in the general classification of the preceding year’s world cup for the first World Cup. 
 
 5. Any athletes who have not earned World Cup points during the current World Cup season or if in the first round of the World Cup of the year, have not earned any point in the previous year’s world cup standing, the current UCI Individual Rankings. 
 
@@ -989,7 +989,7 @@ _(article introduced on 01.10.11; text modified on 01.10.12; 01.01.23; 01.01.26)
 
 1. Reverse order of the most recently published general UCI Para Cycling Road Individual Ranking; 
 
-2. Reigning Time Trial World Champion ~~or the year after the Paralympic Games, the reigning Paralympic Games champion;~~ 
+2. Reigning Time Trial World Champion <del>or the year after the Paralympic Games, the reigning Paralympic Games champion;</del> 
 
 3. The year after the Paralympic Games, the reigning Paralympic Games champion; 
 
@@ -1003,7 +1003,7 @@ From the second round on:
 
 3. The year after the Paralympic Games, the reigning Paralympic Games champion; 
 
-4. Reigning Time Trial World Champion ~~or the year following the Paralympic Games, the reigning Paralympic champion;~~ 
+4. Reigning Time Trial World Champion <del>or the year following the Paralympic Games, the reigning Paralympic champion;</del> 
 
 5. World Cup leader; 
 
@@ -1015,7 +1015,7 @@ _(article introduced on 01.10.11; text modified on 01.10.12; 01.01.26)_
 
 ## **16.20.018** 
 
-At the end of each round of the World Cup, ~~the top ten~~ all teams will be awarded the 
+At the end of each round of the World Cup, <del>the top ten</del> all teams will be awarded the 
 
 Page **23** / **26** 
 
@@ -1025,7 +1025,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - **bis** number of points set out in the table in article 16.19.004 for the road or track para cycling world cup team ranking. 
 
-~~Composite~~ Mixed nations teams are not considered for the purposes of the para cycling world cup team ranking. 
+<del>Composite</del> Mixed nations teams are not considered for the purposes of the para cycling world cup team ranking. 
 
 ## (…) 
 
@@ -1035,21 +1035,21 @@ _(article introduced on 01.10.13; modified on 01.01.26)_
 
 The UCI awards a World Cup leader’s jersey at the end of each World Cup leg to the leader of the provisional overall ranking of Team Relay. 
 
-The rider leading a World Cup standings may ~~must~~ wear the leader's jersey in every world cup event concerned, except in the opening event. The order of priority is described at article 1.3.071 of the UCI Regulations. 
+The rider leading a World Cup standings may <del>must</del> wear the leader's jersey in every world cup event concerned, except in the opening event. The order of priority is described at article 1.3.071 of the UCI Regulations. 
 
-~~Both athletes of the tandem with the vision-impaired rider leading a world cup standing must wear the world cup leader~~ ’ ~~s jersey, even if there is a change in pilot.~~ 
+<del>Both athletes of the tandem with the vision-impaired rider leading a world cup standing must wear the world cup leader</del> ’ <del>s jersey, even if there is a change in pilot.</del> 
 
 _(text modified on 01.07.11; 01.02.12; 01.10.12; 01.02.19; 01.01.25; 01.01.26)_ 
 
-- ~~**16.20.021** At the end of each round of the world cup, the UCI awards world cup leader~~ ’ ~~s~~ ~~**bis** jersey to the leading nation of the Team Relay and Team Sprint provisional ranking.~~ 
+- <del>**16.20.021** At the end of each round of the world cup, the UCI awards world cup leader</del> ’ <del>s</del> <del>**bis** jersey to the leading nation of the Team Relay and Team Sprint provisional ranking.</del> 
 
-~~The best team of a nation in an individual round of the world cup represents the nation during the podium ceremony.~~ 
+<del>The best team of a nation in an individual round of the world cup represents the nation during the podium ceremony.</del> 
 
-~~The world cup Team Relay and Team Sprint leader~~ ’ ~~s jerseys are only awarded if at least two nations have scored points in the ranking.~~ 
+<del>The world cup Team Relay and Team Sprint leader</del> ’ <del>s jerseys are only awarded if at least two nations have scored points in the ranking.</del> 
 
-~~The jersey must be worn during competitions, ceremonies and other official appearances, except in the opening event.~~ 
+<del>The jersey must be worn during competitions, ceremonies and other official appearances, except in the opening event.</del> 
 
-~~_(article modified on 01.10.11; 01.10.13; 01.01.16; 01.01.2025)_~~ 
+<del>_(article modified on 01.10.11; 01.10.13; 01.01.16; 01.01.2025)_</del> 
 
 _[article abrogated on 01.01.26]_ 
 

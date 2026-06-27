@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5CL163VQfJcM1ij7DX6c9R/63e
 source_sha256: de101c53b901cb03ab5b05ae1505880c91a34b8552cfab205db4cf79b61bb66c
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 MEMORANDUM 16 June 2025 
 
@@ -26,7 +26,7 @@ Abbreviations and terms used in the regulations:
 |3 con.|connection of 3|
 |4 con.|connection of 4|
 |50cm|50 centimetres|
-|~~6 con.~~|~~connection of 6~~|
+|<del>6 con.</del>|<del>connection of 6</del>|
 |8|eight|
 |a.r.|alternate ring(s)|
 |bw.|backward|
@@ -68,7 +68,7 @@ Page **1** / **71**
 
 ## **Chapter I GENERAL RULES** 
 
-## **§ 1** ~~**Events**~~ **Organisation** 
+## **§ 1** <del>**Events**</del> **Organisation** 
 
 - **8.1.001** Definitions **bis** For the sake of clarity, the following terms have the following meaning within the context of and throughout Part 8 of the UCI regulations: 
 
@@ -80,13 +80,13 @@ _(article introduced on 01.01.26)_
 
 - **8.1.003** World Championships World Championships will be organised in the age-group Elite (women, men, open). 
 
-At World Championships, all ~~disciplines~~ events with 7 or more registered riders/teams are organised with a preliminary round as qualification round and the final. 
+At World Championships, all <del>disciplines</del> events with 7 or more registered riders/teams are organised with a preliminary round as qualification round and the final. 
 
-~~At I~~ n ~~disciplines~~ events wit ~~h 4~~ 6 or less registered riders/teams, only a final will be organised. 
+<del>At I</del> n <del>disciplines</del> events wit <del>h 4</del> 6 or less registered riders/teams, only a final will be organised. 
 
-In ~~disciplines~~ events where qualifying rounds and final are organised, the riders/teams who achieve rank 1 to 4 in the preliminary round are qualified for the final. 
+In <del>disciplines</del> events where qualifying rounds and final are organised, the riders/teams who achieve rank 1 to 4 in the preliminary round are qualified for the final. 
 
-Each National Federation can register a maximum of riders/teams for the ~~disciplines~~ events as follows: 
+Each National Federation can register a maximum of riders/teams for the <del>disciplines</del> events as follows: 
 
 |-|Single women:|2 riders|
 |---|---|---|
@@ -113,9 +113,9 @@ The riders are allowed to register a new evaluation sheet for the final, without
 
 _(text modified on 01.01.18; 01.01.26)_ 
 
-- **8.1.005** UCI ranking The UCI ranking is calculated by adding all the points obtained by riders and teams (pair, Artistic Cycling Team 4) in all ~~events~~ competitions listed below: 1. World Championships (CM) 
+- **8.1.005** UCI ranking The UCI ranking is calculated by adding all the points obtained by riders and teams (pair, Artistic Cycling Team 4) in all <del>events</del> competitions listed below: 1. World Championships (CM) 
 
-   2. World Cup ~~events~~ competitions (CDM) 
+   2. World Cup <del>events</del> competitions (CDM) 
 
 Point scale UCI ranking: 
 
@@ -159,25 +159,25 @@ Points will be awarded to riders and attributed to the team in which they are re
 
 Points can only be awarded to riders and teams (pair, Artistic Cycling Team 4) in the age group elite. For the sake of clarity, no points are awarded for teams in the age groups U11, U13, U15 and/or U19. 
 
-If there is a tie for the first place, the ranking of the concerned riders and teams (pair, Artistic Cycling Team 4) shall be decided by their ranking in the most recent ~~events~~ competition of the season, in the following order: 
+If there is a tie for the first place, the ranking of the concerned riders and teams (pair, Artistic Cycling Team 4) shall be decided by their ranking in the most recent <del>events</del> competition of the season, in the following order: 
 
 1. World Championships (CM) 
 
-2. World Cup ~~events~~ competition (CDM) 
+2. World Cup <del>events</del> competition (CDM) 
 
 _(text modified on 01.01.18; 11.02.20; 01.01.21; 01.01.26)_ 
 
 ## **8.1.007** Publication UCI ranking 
 
-- The UCI ranking ~~will be published on 28 February, 30 April, 30 June, 31 August, 30 September, 31 October and 31 December~~ shall be drawn up at least once a week. 
+- The UCI ranking <del>will be published on 28 February, 30 April, 30 June, 31 August, 30 September, 31 October and 31 December</del> shall be drawn up at least once a week. 
 
 If need be, the classification of preceding weeks will be corrected. 
 
 _(text modified on 01.01.18; 01.01.26)_ 
 
-## **§ 5** ~~**Disciplines**~~ **Events and age-groups** 
+## **§ 5** <del>**Disciplines**</del> **Events and age-groups** 
 
-## **8.1.009** ~~Disciplines~~ Events 
+## **8.1.009** <del>Disciplines</del> Events 
 
    - Single artistic cycling: Men Elite and Women Elite 
 
@@ -185,11 +185,11 @@ _(text modified on 01.01.18; 01.01.26)_
 
    - Artistic Cycling Team 4 (ACT4): Open 
 
-- ~~All disciplines are organised separately for female and male riders.~~ 
+- <del>All disciplines are organised separately for female and male riders.</del> 
 
-- ~~Mixed-gender teams have to start in the corresponding male discipline.~~ 
+- <del>Mixed-gender teams have to start in the corresponding male discipline.</del> 
 
-Each rider is allowed to enter only once per ~~discipline~~ event at ~~an event (c~~ ompetition ~~or championship~~. International competitions for Artistic Cycling Team 4 are held as an open ~~discipline~~ event. 
+Each rider is allowed to enter only once per <del>discipline</del> event at <del>an event (c</del> ompetition <del>or championship</del>. International competitions for Artistic Cycling Team 4 are held as an open <del>discipline</del> event. 
 
 _(text modified on 01.01.16; 01.01.17; 01.01.26)_ 
 
@@ -201,11 +201,11 @@ _(text modified on 01.01.16; 01.01.17; 01.01.26)_
 
    - B. Juniors, female/male U19 
 
-   - C. Youth ~~Pupils,~~ female/male, U15 
+   - C. Youth <del>Pupils,</del> female/male, U15 
 
-   - D. Youth ~~Pupils,~~ female/male, U13 
+   - D. Youth <del>Pupils,</del> female/male, U13 
 
-   - E. Youth ~~Pupils,~~ female/male, U11 
+   - E. Youth <del>Pupils,</del> female/male, U11 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -215,15 +215,15 @@ Page **4** / **71**
 
 A rider’s age-group is determined by the difference between the rider’s year of birth and the year that the competition is being held. 
 
-It is possible to compete in the next higher age-group. Youth ~~Pupils~~ of agegroup U13 or U11 are also allowed to compete two age-groups higher. 
+It is possible to compete in the next higher age-group. Youth <del>Pupils</del> of agegroup U13 or U11 are also allowed to compete two age-groups higher. 
 
-It is possible for 1 rider Elite under 23 years ~~U23~~ to compete in ACT4 juniors. It is possible for 1 rider under ~~U1~~ 7 to compete in ACT4 youth ~~pupils.~~ 
+It is possible for 1 rider Elite under 23 years <del>U23</del> to compete in ACT4 juniors. It is possible for 1 rider under <del>U1</del> 7 to compete in ACT4 youth <del>pupils.</del> 
 
 _(text modified on 01.01.16, 01.01.17, 01.01.23, 01.01.26)_ 
 
 ## **Chapter II SPECIFIC RULES** 
 
-## **8.2.003** Age-group youth ~~pupils~~ 
+## **8.2.003** Age-group youth <del>pupils</del> 
 
 - Single artistic cycling: max. 25 figures 
 
@@ -235,7 +235,7 @@ _(text modified on 01.01.23, 01.01.26)_
 
 ## **8.2.035** Forehead-line 
 
-The required number of riders (2 con., 3 con., 4 con., ~~6con)~~ ride and/or stand, side by side, in the same direction. They are connected to each other by a grip connection. The distance between the riders has to be identical. 
+The required number of riders (2 con., 3 con., 4 con., <del>6con)</del> ride and/or stand, side by side, in the same direction. They are connected to each other by a grip connection. The distance between the riders has to be identical. 
 
 _(text modified on 01.01.16; 01.01.26)_ 
 
@@ -259,7 +259,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 Page **5** / **71** 
 
-   - d) For “Stars” which are performed 2 con., 4 con., ~~6con~~ as inside individual, the inside individual has to be performed in grip connection. 
+   - d) For “Stars” which are performed 2 con., 4 con., <del>6con</del> as inside individual, the inside individual has to be performed in grip connection. 
 
 2. Turn on: 
 
@@ -323,7 +323,7 @@ Page **6** / **71**
 
 _(text modified on 01.01.16; 01.01.17; 01.01.22; 01.01.26)_ 
 
-- **8.2.071** 2 Mills / ~~3 Mills~~ Two ~~or three~~ riders have to ride, with same distances and following each other, a complete drive around one point each. They are connected by a grip connection with their left hands. All mills have to be performed uniformly distributed on the longitudinal or transversal axis. The mills start when all riders are connected. Each rider has to be on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other mill/s. The mills have to be performed simultaneously. 
+- **8.2.071** 2 Mills / <del>3 Mills</del> Two <del>or three</del> riders have to ride, with same distances and following each other, a complete drive around one point each. They are connected by a grip connection with their left hands. All mills have to be performed uniformly distributed on the longitudinal or transversal axis. The mills start when all riders are connected. Each rider has to be on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other mill/s. The mills have to be performed simultaneously. 
 
 Exceptions applicable to the end of the figure are described in the explanations of figures. 
 
@@ -331,17 +331,17 @@ If the mills have to be performed during another figure, the starting position h
 
 _(text modified on 01.01.20; 01.01.24, 01.01.26)_ 
 
-- **8.2.072** 2 con. wingmill ~~/ 3 con. wingmill~~ 
+- **8.2.072** 2 con. wingmill <del>/ 3 con. wingmill</del> 
 
-   - Two ~~or three~~ riders have to ride with grip connection, next to each other on an axis. They form a pair of riders ~~or a group of riders.~~ The pairs ~~or groups~~ of riders have to ride with same distances and following each other, a half / a complete drive around the inner circle. The inside riding riders are connected with their left hands by a hand-in-hand grip connection, which is located above the inner circle. 
+   - Two <del>or three</del> riders have to ride with grip connection, next to each other on an axis. They form a pair of riders <del>or a group of riders.</del> The pairs <del>or groups</del> of riders have to ride with same distances and following each other, a half / a complete drive around the inner circle. The inside riding riders are connected with their left hands by a hand-in-hand grip connection, which is located above the inner circle. 
 
    - Exceptions applicable to the end of the figure are described in the explanations of figures. 
 
 _(text modified on 01.01.26)_ 
 
-- **8.2.074** 2 insiderings ~~/ 3 insiderings~~ 
+- **8.2.074** 2 insiderings <del>/ 3 insiderings</del> 
 
-   - Two ~~or three~~ riders have to ride, with same distances and following each other, a complete drive around one point each. They form a pair of riders ~~or a group of riders.~~ Each rider has to take his right hand forward and grip the left hand of the rider in front of him. All rings have to be performed uniformly distributed on the longitudinal or transversal axis. The insiderings start when all riders are connected. Each rider has to be on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other ring/s. The insiderings has to be performed simultaneously. 
+   - Two <del>or three</del> riders have to ride, with same distances and following each other, a complete drive around one point each. They form a pair of riders <del>or a group of riders.</del> Each rider has to take his right hand forward and grip the left hand of the rider in front of him. All rings have to be performed uniformly distributed on the longitudinal or transversal axis. The insiderings start when all riders are connected. Each rider has to be on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other ring/s. The insiderings has to be performed simultaneously. 
 
    - Exceptions applicable to the end of the figure are described in the explanations of figures. 
 
@@ -353,11 +353,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 Page **7** / **71** 
 
-**8.2.075** 2 con. wingring ~~/ 3 con. wingring~~ Two ~~or three~~ riders have to ride, with grip connection, next to each other on an axis. They form a pair of riders ~~or a group of riders.~~ The pairs ~~or groups~~ of riders ride with same distances and following each other, a complete drive around the inner circle. Each inside riding rider grip with the right hand to the left hand of the rider in front of him. The outside riding riders grip with the left hand on the shoulder of one of the inside riding rider. Exceptions applicable to the end of the figure are described in the explanations of figures. 
+**8.2.075** 2 con. wingring <del>/ 3 con. wingring</del> Two <del>or three</del> riders have to ride, with grip connection, next to each other on an axis. They form a pair of riders <del>or a group of riders.</del> The pairs <del>or groups</del> of riders ride with same distances and following each other, a complete drive around the inner circle. Each inside riding rider grip with the right hand to the left hand of the rider in front of him. The outside riding riders grip with the left hand on the shoulder of one of the inside riding rider. Exceptions applicable to the end of the figure are described in the explanations of figures. 
 
 _(text modified on 01.01.26)_ 
 
-**8.2.077** 2 outsidering ~~/ 3 outsidering~~ Two ~~or three~~ riders have to ride, with same distances and following each other, a complete drive around one point each. They form a pair of riders ~~or a group of riders.~~ Each rider takes his left hand forward and grips the right hand of the rider in front of him. All rings have to be performed uniformly distributed on the longitudinal or transversal axis. The outsiderings start when all riders are connected. Each rider has to be on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other ring/s. The outsiderings have to be performed simultaneously. 
+**8.2.077** 2 outsidering <del>/ 3 outsidering</del> Two <del>or three</del> riders have to ride, with same distances and following each other, a complete drive around one point each. They form a pair of riders <del>or a group of riders.</del> Each rider takes his left hand forward and grips the right hand of the rider in front of him. All rings have to be performed uniformly distributed on the longitudinal or transversal axis. The outsiderings start when all riders are connected. Each rider has to be on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other ring/s. The outsiderings have to be performed simultaneously. 
 
 Exceptions applicable to the end of the figure are described in the explanations of figures. 
 
@@ -365,15 +365,15 @@ _(text modified on 01.01.20; 01.01.26)_
 
 - **8.2.078** Ring with alternate grips 
 
-For ring with alternate grips all riders have to ride, with same distances and following each other, a complete drive around the inner circle. Rider 1 and 3 ~~and (5) h~~ ave to take their left hand forward and grip the left hand of the rider in front of them. Rider 2 and 4 ~~and (6)~~ grip with the right hand the right hand of the rider in front of them. The ring with alternate grips starts when all riders are connected. The figure has to be performed within the middle circle. Exceptions applicable to the end of the figure are described in the explanations of figures. 
+For ring with alternate grips all riders have to ride, with same distances and following each other, a complete drive around the inner circle. Rider 1 and 3 <del>and (5) h</del> ave to take their left hand forward and grip the left hand of the rider in front of them. Rider 2 and 4 <del>and (6)</del> grip with the right hand the right hand of the rider in front of them. The ring with alternate grips starts when all riders are connected. The figure has to be performed within the middle circle. Exceptions applicable to the end of the figure are described in the explanations of figures. 
 
 _(text modified on 01.01.26)_ 
 
-- ~~**8.2.082** 2 Turbines~~ 
+- <del>**8.2.082** 2 Turbines</del> 
 
-~~Each three riders have to ride on a common axis, each center rider has to be located on a point on the longitudinal or transversal axis. Both points have equal distances to the inner circle. Each two outside riders are connected by a hand-in-hand grip with the center rider and ride around him. The center rider has to turn on his spot without pedalling, while the two outside riders rotate the center rider around his body longitudinal axis. Thus, the riders form a turbine. Each rider has to ride on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other turbine~~. 
+<del>Each three riders have to ride on a common axis, each center rider has to be located on a point on the longitudinal or transversal axis. Both points have equal distances to the inner circle. Each two outside riders are connected by a hand-in-hand grip with the center rider and ride around him. The center rider has to turn on his spot without pedalling, while the two outside riders rotate the center rider around his body longitudinal axis. Thus, the riders form a turbine. Each rider has to ride on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other turbine</del>. 
 
-~~_(article modified on 01.01.20)_~~ [abrogated on 01.01.26] 
+<del>_(article modified on 01.01.20)_</del> [abrogated on 01.01.26] 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
@@ -456,7 +456,7 @@ Page **12** / **71**
 
 **Framestand 2066** Stand upright with one foot solely on the down tube, other foot solely on the saddle tube, chest directed to the handlebar. Without touching the feet each other and without touching the handlebar with the leg. **Saddle handlebarstand 2067** Stand free with one foot on the saddle and the other foot on **2068** the handlebar. **Saddlestand 2069** Stand free with feet on the saddle. 
 
-**Fronthandlebarstand, Fronthandlebarstand turn (T) 2070** From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possible up to four half-turns in maximum. **a-f:** Stand free with feet on the handlebar-grips, back directed to the saddle. **g-j:** From fronthandlebarstand after releasing grip connection with half or multiple front wheel turn(s) to the fronthandlebarstand or handlebarstand reverse. After the last turn, ~~the end position has to be held for a least 2 metres in grip connection.~~ and before the grip connection, at least 2 metres must be ridden in the handlebar position. The exercise ends with the grip connection. **aa-ja:** The riders jump simultaneously from regular seat to fronthandlebarstand; further according figure **a-f**; **g-j. Counter circle fronthandlebarstand (T) 2070 k k-n:** From fronthandlebarstand with half or multiple front **2070 l** wheel turn(s) to the fronthandlebarstand or handlebarstand **2070 m** reverse. Execution of the figure according to the rule for **2070 n** counter circle **8.2.051.** After the last handlebarstand turn, but before the required hand touch, the end position has to be held for at least 2 metres. 
+**Fronthandlebarstand, Fronthandlebarstand turn (T) 2070** From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possible up to four half-turns in maximum. **a-f:** Stand free with feet on the handlebar-grips, back directed to the saddle. **g-j:** From fronthandlebarstand after releasing grip connection with half or multiple front wheel turn(s) to the fronthandlebarstand or handlebarstand reverse. After the last turn, <del>the end position has to be held for a least 2 metres in grip connection.</del> and before the grip connection, at least 2 metres must be ridden in the handlebar position. The exercise ends with the grip connection. **aa-ja:** The riders jump simultaneously from regular seat to fronthandlebarstand; further according figure **a-f**; **g-j. Counter circle fronthandlebarstand (T) 2070 k k-n:** From fronthandlebarstand with half or multiple front **2070 l** wheel turn(s) to the fronthandlebarstand or handlebarstand **2070 m** reverse. Execution of the figure according to the rule for **2070 n** counter circle **8.2.051.** After the last handlebarstand turn, but before the required hand touch, the end position has to be held for at least 2 metres. 
 
 **ka-na:** The riders jump simultaneously from regular seat to the fronthandlebarstand; further according figure **k-n**. 
 
@@ -591,7 +591,7 @@ C **4 f.e.o. half circle / circle 2 s.r.l. 2** 4001 g-h **s.r.r.** 4004 g-h Duri
 
 All riders have to ride with equal distances between each other and at same distances to the middle circle, outside of the middle circle. During the figure, each rider has to perform an alternate ring. Each second ring has to overlap with the first ring of the rider riding behind or riding ahead. 
 
-**4001i 4002e** ~~**4004i**~~ **4005a** 
+**4001i 4002e** <del>**4004i**</del> **4005a** 
 
 Alternate ring **(8.2.058)** 
 
@@ -1552,9 +1552,9 @@ _(text modified on 01.01.12; 01.01.16; 01.01.26)_
 
    - Devaluation per kind of mistake and figure only once: 
 
-      ~~1. Only once or not crossing the inner circle during an eight;~~ 
+      <del>1. Only once or not crossing the inner circle during an eight;</del> 
 
-      ~~2. Not crossing the inner circle during a half eight;~~ 
+      <del>2. Not crossing the inner circle during a half eight;</del> 
 
       1. Wrong positions on the competition surface; 
 
@@ -1895,7 +1895,7 @@ _(text modified on 01.01.12; 01.01.16; 01.01.20; 01.01.26)_
 
 ## **8.5.015** Artistic Cycling Team 4 
 
-|Figure No.<br>4001<br>a<br>4001<br>b<br>4001<br>c<br>4001<br>d<br>4001<br>e<br>4001<br>f<br>4001<br>g<br>4001<br>h<br>4001<br>i<br>4002<br>a<br>4002<br>b<br>4002<br>c<br>4002<br>d<br>4002<br>e<br>4003<br>a<br>4003<br>b<br>4003<br>c<br>4003<br>d<br>4003<br>e<br>4003<br>f<br>4003<br>g<br>4003<br>h|/ Name of figure<br>Point value<br>4 f.e.o. HC.<br>0,8<br>4 f.e.o. C.<br>1,0<br>4 f.e.o. HC. 4 s.r.l.<br>1,4<br>4 f.e.o. C. 4 s.r.l.<br>1,6<br>4 f.e.o. HC. 4 s.r.r.<br>1,4<br>4 f.e.o. C. 4 s.r.r.<br>1,6<br>4 f.e.o. HC. 2 s.r.l. 2 s.r.r.<br>1,6<br>4 f.e.o. C. 2 s.r.l. 2 s.r.r.<br>1,8<br>~~4 f.e.o.~~ 4 a.r. overlapping<br>2,7<br>4 f.e.o. HC. bw.<br>1,6<br>4 f.e.o. C. bw.<br>2,0<br>4 f.e.o. HC. 4 s.r.l. bw.<br>2,7<br>4 f.e.o. C. 4 s.r.l. bw.<br>3,1<br>~~4 f.e.o.~~ 4 a.r. overlapping bw.<br>4,9<br>4 f.e.o. HC. Raiser<br>2,0<br>4 f.e.o. C. raiser<br>2,5<br>4 f.e.o. HC. raiser frh.<br>2,6<br>4 f.e.o. C. raiser frh.<br>3,3<br>4 f.e.o. HC. 4 s.r.l. raiser<br>3,4<br>4 f.e.o. C. 4 s.r.l. raiser<br>3,9<br>4 f.e.o. HC. 4 s.r.l. raiser frh.<br>4,4<br>4 f.e.o. C. 4 s.r.l. raiser frh.<br>5,1|
+|Figure No.<br>4001<br>a<br>4001<br>b<br>4001<br>c<br>4001<br>d<br>4001<br>e<br>4001<br>f<br>4001<br>g<br>4001<br>h<br>4001<br>i<br>4002<br>a<br>4002<br>b<br>4002<br>c<br>4002<br>d<br>4002<br>e<br>4003<br>a<br>4003<br>b<br>4003<br>c<br>4003<br>d<br>4003<br>e<br>4003<br>f<br>4003<br>g<br>4003<br>h|/ Name of figure<br>Point value<br>4 f.e.o. HC.<br>0,8<br>4 f.e.o. C.<br>1,0<br>4 f.e.o. HC. 4 s.r.l.<br>1,4<br>4 f.e.o. C. 4 s.r.l.<br>1,6<br>4 f.e.o. HC. 4 s.r.r.<br>1,4<br>4 f.e.o. C. 4 s.r.r.<br>1,6<br>4 f.e.o. HC. 2 s.r.l. 2 s.r.r.<br>1,6<br>4 f.e.o. C. 2 s.r.l. 2 s.r.r.<br>1,8<br><del>4 f.e.o.</del> 4 a.r. overlapping<br>2,7<br>4 f.e.o. HC. bw.<br>1,6<br>4 f.e.o. C. bw.<br>2,0<br>4 f.e.o. HC. 4 s.r.l. bw.<br>2,7<br>4 f.e.o. C. 4 s.r.l. bw.<br>3,1<br><del>4 f.e.o.</del> 4 a.r. overlapping bw.<br>4,9<br>4 f.e.o. HC. Raiser<br>2,0<br>4 f.e.o. C. raiser<br>2,5<br>4 f.e.o. HC. raiser frh.<br>2,6<br>4 f.e.o. C. raiser frh.<br>3,3<br>4 f.e.o. HC. 4 s.r.l. raiser<br>3,4<br>4 f.e.o. C. 4 s.r.l. raiser<br>3,9<br>4 f.e.o. HC. 4 s.r.l. raiser frh.<br>4,4<br>4 f.e.o. C. 4 s.r.l. raiser frh.<br>5,1|
 |---|---|
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -2492,7 +2492,7 @@ _(article introduced on 01.01.26)_
 
 - **8.7.043** Cycle-ball is divided into following age categories: 
 
-~~A. Pupils league up to 14 years = under 15 B. Youth league up to 16 years = under 17 C. Junior league up to 18 years = under 19 D. Young Elite league up to 23 years = under 23 E. Elite league from 19 years on = from 19 on~~ **A. Youth Leagues** - Up to 14 years = U15 - Up to 16 years = U17 **B. Junior League** - Up to 18 years = U19 **C. Elite Leagues** - Up to 23 years = U23 - From 19 years on = Elite 
+<del>A. Pupils league up to 14 years = under 15 B. Youth league up to 16 years = under 17 C. Junior league up to 18 years = under 19 D. Young Elite league up to 23 years = under 23 E. Elite league from 19 years on = from 19 on</del> **A. Youth Leagues** - Up to 14 years = U15 - Up to 16 years = U17 **B. Junior League** - Up to 18 years = U19 **C. Elite Leagues** - Up to 23 years = U23 - From 19 years on = Elite 
 
 The league depends on the year of birth, i.e. throughout the year of a player’s 18th birthday he may play in the Junior league. 
 
@@ -2500,7 +2500,7 @@ The leagues may if necessary, at the discretion of the national federations, be 
 
 _(text modified on 01.01.26)_ 
 
-- **8.7.044** The game (match) time depends on the different age categories: A. Elite and U23 ~~young elite~~ 2 x 7 minutes 
+- **8.7.044** The game (match) time depends on the different age categories: A. Elite and U23 <del>young elite</del> 2 x 7 minutes 
 
    - B. Juniors (U19) 2 x 6 minutes 
 
@@ -2510,7 +2510,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 Page **66** / **71** 
 
-C. ~~All others~~ Youth (U15 and U17) 2 x 5 minutes 
+C. <del>All others</del> Youth (U15 and U17) 2 x 5 minutes 
 
 The match times can be reduced to a minimum of 2 x 5 minutes for certain tournaments or prequalifying rounds. The game time shall be taken to mean the two halves excluding a two minute break between halves. 
 
@@ -2522,15 +2522,15 @@ _(text modified on 01.01.26)_
 
 - **8.10.003** UCI ranking 
 
-   - The UCI ranking is calculated by adding all the points obtained by teams in all ~~events~~ competitions listed below: 
+   - The UCI ranking is calculated by adding all the points obtained by teams in all <del>events</del> competitions listed below: 
 
    1. World Championships (CM) 
 
-   2. World Cup ~~events~~ competitions (CDM) 
+   2. World Cup <del>events</del> competitions (CDM) 
 
 Points will be awarded to riders and attributed to the team in which they are registered. If two riders from different teams earn points together, the points will be split equally, with each rider receiving 50% of the total points for their respective team. 
 
-Points can only be awarded to teams in the age group elite. For teams with riders in the age groups ~~U13 1~~ 5, and/or ~~U15 1~~ 7 and/or U19 no points can be awarded. 
+Points can only be awarded to teams in the age group elite. For teams with riders in the age groups <del>U13 1</del> 5, and/or <del>U15 1</del> 7 and/or U19 no points can be awarded. 
 
 The UCI shall be the sole owner of this ranking. 
 
@@ -2540,13 +2540,13 @@ _(article introduced on 01.01.05; modified on 01.02.20; 01.01.26)_
 
 The UCI ranking shall be drawn up at least once a week. 
 
-~~The classifications shall be published on 30 June, 30 September, 30 November and 31 December.~~ 
+<del>The classifications shall be published on 30 June, 30 September, 30 November and 31 December.</del> 
 
 If need be, the classification of preceding weeks will be corrected. 
 
 _(article introduced on 01.01.05, modified on 01.01.26)_ 
 
-- **8.10.005** National federations or the president of the commissaires’ panel ~~and organizers~~ are required to submit the results according to the UCI DataRide procedure in place for each discipline. ~~send full results to the UCI immediately by fax.~~ 
+- **8.10.005** National federations or the president of the commissaires’ panel <del>and organizers</del> are required to submit the results according to the UCI DataRide procedure in place for each discipline. <del>send full results to the UCI immediately by fax.</del> 
 
 Any national federation must immediately notify the UCI of any fact or decision resulting in an alteration to the points scored. 
 
@@ -2562,20 +2562,20 @@ Page **67** / **71**
 
 ## **Men** 
 
-- **8.12.002** The UCI Cycle-ball World Cup consists of ~~is contested over a maximum of 9~~ European Qualification competitions ~~events,~~ a minimum of 1 Asian competition and a UCI World Cup Final. ~~The last event of the World Cup Series is the World Cup Final.~~ 
+- **8.12.002** The UCI Cycle-ball World Cup consists of <del>is contested over a maximum of 9</del> European Qualification competitions <del>events,</del> a minimum of 1 Asian competition and a UCI World Cup Final. <del>The last event of the World Cup Series is the World Cup Final.</del> 
 
 _(text modified on 01.01.26)_ 
 
 ## **Participation** 
 
-- **8.12.004** The eligibility of participation in the preliminaries of the UCI Cycle-ball World Cup is determined using the UCI Cycle-ball Ranking and ~~depends on~~ the highest ranked team of a nation, according to the table below: ~~ranking of the National Federations in the respective discipline of competition at the recent UCI Indoor Cycling World Championships. The National Federations are entitled to register a maximum number of riders or teams for the UCI Cycleball World Cup as follows:~~ 
+- **8.12.004** The eligibility of participation in the preliminaries of the UCI Cycle-ball World Cup is determined using the UCI Cycle-ball Ranking and <del>depends on</del> the highest ranked team of a nation, according to the table below: <del>ranking of the National Federations in the respective discipline of competition at the recent UCI Indoor Cycling World Championships. The National Federations are entitled to register a maximum number of riders or teams for the UCI Cycleball World Cup as follows:</del> 
 
-||~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|~~Ranking UCI Indoor Cycling World Championships~~<br>~~place 1 to 4~~<br>~~place 5~~<br>~~fromplace 6~~|
+||<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|<del>Ranking UCI Indoor Cycling World Championships</del><br><del>place 1 to 4</del><br><del>place 5</del><br><del>fromplace 6</del>|
 |---|---|---|---|---|---|---|---|---|
-|||~~p~~|||||||
-||||~~Maximum number of teams~~||||||
+|||<del>p</del>|||||||
+||||<del>Maximum number of teams</del>||||||
 ||||||||||
-|||~~3~~||~~2~~||~~1~~|||
+|||<del>3</del>||<del>2</del>||<del>1</del>|||
 ||||||||||
 |||UCI Cycle-Ball Ranking (highest ranked team of a nation)<br>European Rounds:|||||||
 |||rank 1 to 3|||rank 4||rank 5 & 6|rank 7,8 & 9|
@@ -2604,13 +2604,13 @@ _(text modified on 01.01.26)_
 
 - **8.12.005** Final 
 
-Teams who achieve place ~~1 to 8~~ 1 to 6 in the World Cup rankings after the preliminary rounds are qualified for the UCI Cycle-ball World Cup Final. The organizer of the Final gets one wild card and the best ranked Asian team qualifies for the Final as well. 
+Teams who achieve place <del>1 to 8</del> 1 to 6 in the World Cup rankings after the preliminary rounds are qualified for the UCI Cycle-ball World Cup Final. The organizer of the Final gets one wild card and the best ranked Asian team qualifies for the Final as well. 
 
 _(text modified on 01.01.26)_ 
 
 ## **Tournament mode** 
 
-- **8.12.011** At a UCI Cycle-ball World Cup ~~event~~ competition ~~10~~ 8 teams compete against each other following the competition model detailed below. Each UCI Cycleball World Cup ~~event~~ competition consists of a preliminary round, a second round and a final. For the preliminary round the teams are separated in 2 groups, ~~5~~ 4 teams each. The ranking in the preliminary round is determined as follows: 
+- **8.12.011** At a UCI Cycle-ball World Cup <del>event</del> competition <del>10</del> 8 teams compete against each other following the competition model detailed below. Each UCI Cycleball World Cup <del>event</del> competition consists of a preliminary round, a second round and a final. For the preliminary round the teams are separated in 2 groups, <del>5</del> 4 teams each. The ranking in the preliminary round is determined as follows: 
 
 The groups will be determined by the UCI Cycle-ball Ranking based on the season before. 
 
@@ -2662,17 +2662,17 @@ If two or more teams are equal on points, the placement is determined by an inte
 
 Final mode 
 
-||~~**Game**~~||~~**Team 1**~~|~~**Team 1**~~||~~**Team 2**~~|~~**Team 2**~~|
+||<del>**Game**</del>||<del>**Team 1**</del>|<del>**Team 1**</del>||<del>**Team 2**</del>|<del>**Team 2**</del>|
 |---|---|---|---|---|---|---|---|
-||~~Semi-final 1~~||~~Winner group 1~~|||~~Second group 2~~||
-||~~Semi-final 2~~||~~Second group 1~~|||~~Winner group 2~~||
-||~~Final~~||~~Winner Semi-final 1~~|||~~Winner Semi-final 2~~||
-||~~Game for 3rd~~||~~Loser Semi-final 1~~|||~~Loser Semi-final 2~~||
-||~~Game for 5th~~||~~3r~~|~~d group 1~~||~~3rd~~|~~group 2~~|
+||<del>Semi-final 1</del>||<del>Winner group 1</del>|||<del>Second group 2</del>||
+||<del>Semi-final 2</del>||<del>Second group 1</del>|||<del>Winner group 2</del>||
+||<del>Final</del>||<del>Winner Semi-final 1</del>|||<del>Winner Semi-final 2</del>||
+||<del>Game for 3rd</del>||<del>Loser Semi-final 1</del>|||<del>Loser Semi-final 2</del>||
+||<del>Game for 5th</del>||<del>3r</del>|<del>d group 1</del>||<del>3rd</del>|<del>group 2</del>|
 |||||||||
-||~~Game for 7th~~||~~4th~~|~~group 1~~||~~4th~~|~~group 2~~|
+||<del>Game for 7th</del>||<del>4th</del>|<del>group 1</del>||<del>4th</del>|<del>group 2</del>|
 |||||||||
-||~~Game for 9th~~||~~5th~~|~~group 1~~||~~5th~~|~~group 2~~|
+||<del>Game for 9th</del>||<del>5th</del>|<del>group 1</del>||<del>5th</del>|<del>group 2</del>|
 |||||||||
 
 In case of a draw in the games for the places 1 to 4, a play-off will decide. If the play-off leads to a draw, penalty-kicks follow. 
@@ -2685,13 +2685,13 @@ _(text modified on 01.01.26)_
 
 The groups for the preliminary round at the UCI Cycle-ball World Cup Final will be separated according to the current UCI World Cup ranking: 
 
-||~~**Group I**~~||~~**Group II**~~|
+||<del>**Group I**</del>||<del>**Group II**</del>|
 |---|---|---|---|
-||~~Place 1~~||~~Place 2~~|
-||~~Place 4~~||~~Place 3~~|
-||~~Place 6~~||~~Place 5~~|
-||~~Place 8~~||~~Place 7~~|
-||~~Wild Card participant~~||~~Asia representative~~|
+||<del>Place 1</del>||<del>Place 2</del>|
+||<del>Place 4</del>||<del>Place 3</del>|
+||<del>Place 6</del>||<del>Place 5</del>|
+||<del>Place 8</del>||<del>Place 7</del>|
+||<del>Wild Card participant</del>||<del>Asia representative</del>|
 |||||
 ||**Group I**||**Group II**|
 ||Rank 1||Rank 2|

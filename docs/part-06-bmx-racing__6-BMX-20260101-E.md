@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/122Ylx2XJjbqzh6xPCu7sK/fe7
 source_sha256: f483e83f6d3b398ecb8f1ec363e1994639cdfe444ba35dd933c798a4b7b5525a
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ## **PART 6 BMX RACING** 
 
@@ -1657,7 +1657,7 @@ BMX RACING
 
 ## **Registration of Participants** 
 
-- **6.4.005** All riders must be registered using the UCI online registration system through their national federation of sporting nationality (article 1.1.033). The opening/closing dates of the online registration system are published on the UCI website. All team managers must attend the riders’ confirmation presenting their license ~~s~~ and picking up accreditation, number plate, side plate and other competition items for the riders who were entered by their national federation. The riders confirmation deadlines are indicated on the official schedule published on the UCI website. Riders not being confirmed before the indicated deadline, did not complete the registration procedure and may not be able to compete at the event. 
+- **6.4.005** All riders must be registered using the UCI online registration system through their national federation of sporting nationality (article 1.1.033). The opening/closing dates of the online registration system are published on the UCI website. All team managers must attend the riders’ confirmation presenting their license <del>s</del> and picking up accreditation, number plate, side plate and other competition items for the riders who were entered by their national federation. The riders confirmation deadlines are indicated on the official schedule published on the UCI website. Riders not being confirmed before the indicated deadline, did not complete the registration procedure and may not be able to compete at the event. 
 
    - _Comment: For avoidance of doubt, given the volume of entries in the world challenge, licences for individual challenge and masters riders need not be presented; national federations are responsible for ensuring that all such riders have valid licenses as defined by the UCI Regulations prior to registering them in the UCI BMX Racing World Challenge._ 
 

@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/42nORb31V3AuUM8Vtnjomk/691
 source_sha256: 74d7b66ffa2f9008cb586b47a52431e2cc2da7fecd2b178ab7af9f43335c83ff
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
 
@@ -44,11 +44,11 @@ converter: pymupdf4llm
 
    - F. International events, Hors class (HC): 
 
-      - No other Trials event (CM, CDM, CC, HC, C1) may be organised on the same dates as the Hors Class event. ~~However, the~~ In the event of a conflict with another HC or C1 event at the same date, UCI may grant ~~derogations~~ a derogation, at its sole discretion, provided that the ~~two~~ events in question do not take place in the same country. 
+      - No other Trials event (CM, CDM, CC, HC, C1) may be organised on the same dates as the Hors Class event. <del>However, the</del> In the event of a conflict with another HC or C1 event at the same date, UCI may grant <del>derogations</del> a derogation, at its sole discretion, provided that the <del>two</del> events in question do not take place in the same country. 
 
    - G. International events, Class 1 (C1): 
 
-      - No other Trials event (CM, CDM, CC, HC, C1) may be organised on the same dates as the Hors Class event. ~~However, the~~ In the event of a conflict with another HC or C1 event at the same date, UCI may grant ~~derogations~~ a derogation, at its sole discretion, provided that the ~~two~~ events in question do not take place in the same country. 
+      - No other Trials event (CM, CDM, CC, HC, C1) may be organised on the same dates as the Hors Class event. <del>However, the</del> In the event of a conflict with another HC or C1 event at the same date, UCI may grant <del>derogations</del> a derogation, at its sole discretion, provided that the <del>two</del> events in question do not take place in the same country. 
 
 _(text modified on 01.02.12; 01.10.13; 18.03.15; 27.01.17; 15.10.18; 01.01.26)_ 
 
@@ -72,7 +72,7 @@ _(text modified on 01.10.13; 15.10.18; 01.01.26)_
 
 - **7.1.018** Each side of the section must be marked by plastic course tape, rope or white lines on the ground. The tape or rope should be installed 20 to 30 cm above the ground. There can also be plastic course tape, rope or white lines on the ground inside the section to indicate different lines of difficulty or closing some obstacles adding extra difficulty. 
 
-The tape should be minimum 12 cm wide and of high quality, the rope should be minimum 10 mm thickness, the white lines should be minimum 6 mm wide. All these parameters are ~~as~~ defined in the technical specifications of the ~~organisation~~ Event Setup and Section building guide. 
+The tape should be minimum 12 cm wide and of high quality, the rope should be minimum 10 mm thickness, the white lines should be minimum 6 mm wide. All these parameters are <del>as</del> defined in the technical specifications of the <del>organisation</del> Event Setup and Section building guide. 
 
 Inside the sections there are coloured arrows indicating the gates. Gates are indicated with two arrows (same colour and number) pointing at each other and leaving a space between them, where riders must pass through them. 
 
@@ -128,7 +128,7 @@ _(article introduced on 01.01.26)_
 
 ## **Events format** 
 
-- **7.2.0** ~~**078**~~ Hors Class (HC) events shall be run in one or two days. One qualification round and one final round will be run. International events Class 1 (C1) shall be run in one day with a single round. 
+- **7.2.0** <del>**078**</del> Hors Class (HC) events shall be run in one or two days. One qualification round and one final round will be run. International events Class 1 (C1) shall be run in one day with a single round. 
 
 _(article introduced on 01.10.13; text modified on 15.10.18, former article 7.2.007 moved to 7.2.008)_ 
 

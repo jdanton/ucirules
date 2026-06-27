@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6sAirIbDCnWdiIXzjsnl96/fe6
 source_sha256: 47fb2f4d6bfed5367f09ae0d7ab195127d776f07c2d2bb3773a857049cb60540
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2026_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
 
@@ -22,15 +22,15 @@ converter: pymupdf4llm
 
 - **6.1.009** (N) Within the competition speciality of BMX Racing defined in article 6.1.007 for the Challenge level, the categories are as follows: 
 
-   - A. Girls – ages: ~~5-7,~~ 5 and 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; ( ~~10~~ 11 categories); 
+   - A. Girls – ages: <del>5-7,</del> 5 and 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; ( <del>10</del> 11 categories); 
 
    - B. Boys – ages: 5 and 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; (11 categories); 
 
-   - C. Women – ages: 17-24, ~~25~~ 25-29, 30-34, 35 and Over. ( ~~2~~ 4 categories); 
+   - C. Women – ages: 17-24, <del>25</del> 25-29, 30-34, 35 and Over. ( <del>2</del> 4 categories); 
 
    - D. Men – ages: 17-24, 25-29, 30-34, 35 and over; (4 categories). 
 
-Total: ~~27~~ 30 categories 
+Total: <del>27</del> 30 categories 
 
 _(text modified on 01.01.26)_ 
 
@@ -38,15 +38,15 @@ _(text modified on 01.01.26)_
 
 - **6.1.011** (N) Within the competition speciality of BMX Racing defined in article 6.1.007 for the Challenge level, the categories are as follows: 
 
-   - A. Girls – ages: 12 and under, ~~13 – 16 1~~ 3 and 14, 15 and 16; ( ~~2~~ 3 categories); 
+   - A. Girls – ages: 12 and under, <del>13 – 16 1</del> 3 and 14, 15 and 16; ( <del>2</del> 3 categories); 
 
    - B. Boys – ages: 12 and under, 13 and 14, 15 and 16; (3 categories); 
 
-   - C. Women – ages: ~~17-29, 30-39, 40~~ 17-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50 and over. ( ~~3~~ 7 categories); 
+   - C. Women – ages: <del>17-29, 30-39, 40</del> 17-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50 and over. ( <del>3</del> 7 categories); 
 
    - D. Men – ages: 17-24, 25-29, 30 - 34, 35 - 39, 40 - 44, 45-49, 50 and over; (7 categories). 
 
-Total: ~~15~~ 20 categories 
+Total: <del>15</del> 20 categories 
 
 Riders licensed in the Masters category level for Standard 20 Inch bicycles are allowed to participate in the Cruiser 24 inch category corresponding to their age. 
 
@@ -94,7 +94,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - F. International Competition Class 1 (C1): 
 
-      - ~~No CN events may be organised on the same date as the C1 event on the same continent.~~ 
+      - <del>No CN events may be organised on the same date as the C1 event on the same continent.</del> 
 
       - There is no limitation on the number C1 events that a national federation may apply to hold. 
 
@@ -122,7 +122,7 @@ _(text modified on 01.01.19; 01.01.26)_
 
 ## **Registration of Participants** 
 
-- **6.4.005** All riders must be registered using the UCI online registration system ~~(www.uci.org)~~ through their national federation of sporting nationality (article 1.1.033). The opening/closing dates of the online registration system are published on the UCI website. All team managers must attend the riders’ confirmation presenting their license ~~s~~ and picking up accreditation, number plate, side plate and other competition items for the riders who were entered by their national federation. The riders confirmation deadlines are indicated on the official schedule published on the UCI website. Riders not being confirmed before the indicated deadline, did not complete the registration procedure and may not be able to compete at the event. 
+- **6.4.005** All riders must be registered using the UCI online registration system <del>(www.uci.org)</del> through their national federation of sporting nationality (article 1.1.033). The opening/closing dates of the online registration system are published on the UCI website. All team managers must attend the riders’ confirmation presenting their license <del>s</del> and picking up accreditation, number plate, side plate and other competition items for the riders who were entered by their national federation. The riders confirmation deadlines are indicated on the official schedule published on the UCI website. Riders not being confirmed before the indicated deadline, did not complete the registration procedure and may not be able to compete at the event. 
 
 _Comment: For avoidance of doubt, given the volume of entries in the world challenge, licences for individual challenge and masters riders need not be presented; national federations are responsible for ensuring that all such riders have valid licenses as defined by the UCI Regulations prior to registering them in the UCI BMX Racing World Challenge._ 
 
@@ -196,7 +196,7 @@ next held, even if more than one year passes between them, as long as the next e
 
 - E. HC: International competitions – Hors Class (best 3 scores); 
 
-- F. ~~RJ: Regional Games~~; C1, C2 and Regional Games (JR): International competitions (best ~~5~~ 8 scores); 
+- F. <del>RJ: Regional Games</del>; C1, C2 and Regional Games (JR): International competitions (best <del>5</del> 8 scores); 
 
 - G. CN: National Championships (country of the rider’s nationality): 
 
@@ -340,7 +340,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ||**UCI BMX Racing World**<br>**Championships**|**UCI BMX Racing**<br>**World Cup**|**Continental**<br>**Championshipsand**<br>**Hors Class events**|**International**<br>**Competitionand**<br>**Regional Games**|**National**<br>**Championships**|
 |---|---|---|---|---|---|
-|CLASS race|**CM**|**CDM**|**CC, HC, **~~**JR,**~~|**C1, C2 and JR**|**CN**|
+|CLASS race|**CM**|**CDM**|**CC, HC, **<del>**JR,**</del>|**C1, C2 and JR**|**CN**|
 |Starting hill|Height:<br>Championships:8m<br>Challenge:5m<br>Minimum Width: 9m<br>According<br>to<br>UCI<br>designs*|Height: 5m to 8m<br>Minimum<br>Width:<br>9m<br>According to UCI<br>designs*|Height: 5m to 8m<br>Width: 8m|Height:2.5m<br>Width: 8m|Height:2.5m<br>Width: 8m|
 |Minimum<br>width<br>of the track|1ststraight:8m<br>All other straights: 6m<br>1stturn: 8m<br>Turns: 6m|1ststraight:8m<br>All other straights:<br>6m<br>1stturn: 8m<br>Turns: 6m|1ststraight:8m<br>All other straights: 6m<br>1stturn: 8m<br>Turns: 6m|1ststraight:8m<br>All other straights:<br>6m<br>1stturn: 6m<br>Turns: 6m|1ststraight:8m<br>All other straights: 6m*<br>1stturn: 6m<br>Turns: 6m*|
 |Surface material<br>of the turns and<br>finish area|Asphalt, concrete, or bricks.|||||

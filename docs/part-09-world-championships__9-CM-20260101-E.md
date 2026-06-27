@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3SMPW9kcLaPNZKFtOAGpNS/db4
 source_sha256: 74bfebf8b88348f31cb0ee69f8c5ae1600f183c3e28c5e46d9c7f8d79afd5e55
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ## **PART 9 WORLD CHAMPIONSHIPS Version on 01.01.2026** 
 
@@ -980,7 +980,7 @@ _(text modified on 04.04.14; 01.01.17, 01.01.22, 01.01.23)._
 
 - **9.2.047** For Men Elite, Women Elite, Men Under 23, Women Under 23, Men Juniors and 
 
-- **sexies** Women Juniors, the maximum number of riders for each category is determined on the basis of the UCI Individual BMX Racing ranking by nation for each such category on 3 ~~1st~~ December of the preceding season. 
+- **sexies** Women Juniors, the maximum number of riders for each category is determined on the basis of the UCI Individual BMX Racing ranking by nation for each such category on 3 <del>1st</del> December of the preceding season. 
 
 WORLD CHAMPIONSHIPS 
 

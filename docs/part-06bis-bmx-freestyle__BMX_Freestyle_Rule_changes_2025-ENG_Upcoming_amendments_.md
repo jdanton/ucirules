@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/64e6MN4YxtqT8UcQFdekcg/417
 source_sha256: fe585eaadb38f11d2a9b4d6b5cd87d98169a0968cac1eaca94f2ddf3cbcf3610
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
 
@@ -20,13 +20,13 @@ Calendar
 
 In the interest of promoting growth in the discipline, licence-holders shall be authorised to take part in events which are not registered on a national calendar or the UCI International Calendar unless the UCI has issued a prior communication declaring that article 1.2.019 (Forbidden Races) shall apply in case of participation in the event. The UCI’s assessment of whether article 1.2.019 shall apply shall be based on legitimate objectives including, without being limited to, the integrity and fairness of sporting competitions, ethical values in sport, athletes’ health and safety, the integrity of the sporting calendar. 
 
-~~, article 1.2.019 (Forbidden Races) shall not apply until further notice. However, license-holders who participate in Competitions not sanctioned by the UCI or one of its member National Federations shall do so entirely at their own risk; neither the UCI, nor its National Federations shall be liable for any consequences of such participation.~~ 
+<del>, article 1.2.019 (Forbidden Races) shall not apply until further notice. However, license-holders who participate in Competitions not sanctioned by the UCI or one of its member National Federations shall do so entirely at their own risk; neither the UCI, nor its National Federations shall be liable for any consequences of such participation.</del> 
 
 **6bis.3.002** 
 
 In General 
 
-All events registered on the UCI BMX Freestyle International Calendar shall hold, at least, the UCI Categories identified in article 6bis.2.002. Without prejudice to article 6bis.3.029, ~~Ss~~ uch events on the UCI BMX Freestyle International Calendar shall comply with the UCI Regulations for the UCI Categories. 
+All events registered on the UCI BMX Freestyle International Calendar shall hold, at least, the UCI Categories identified in article 6bis.2.002. Without prejudice to article 6bis.3.029, <del>Ss</del> uch events on the UCI BMX Freestyle International Calendar shall comply with the UCI Regulations for the UCI Categories. 
 
 The UCI has the sole authority to allocate any Competition on the UCI BMX Freestyle International Calendar. 
 
@@ -46,7 +46,7 @@ Park and Flatland Competitions
 
 - UCI BMX Freestyle World Cup (CDM): no other Competition may be registered on the UCI BMX Freestyle International Calendar on the same dates as any UCI BMX Freestyle World Cup. 
 
-- Continental Championships (CC): Only riders with the sporting nationality of a country within ~~for~~ the ~~Cco~~ ntinent Confederation in question are permitted to enter that Continental Championships. No other HC, C1, C2 or CN Competition in the same continent may be registered on the UCI BMX Freestyle International Calendar on the Continental Championships date for that continent. 
+- Continental Championships (CC): Only riders with the sporting nationality of a country within <del>for</del> the <del>Cco</del> ntinent Confederation in question are permitted to enter that Continental Championships. No other HC, C1, C2 or CN Competition in the same continent may be registered on the UCI BMX Freestyle International Calendar on the Continental Championships date for that continent. 
 
 - International BMX Freestyle Competition (HC): 
 
@@ -64,7 +64,7 @@ Park and Flatland Competitions
 
       - A high level tv production taking into account the sporting aspect 
 
-- International BMX Freestyle Competition (C1): ~~every~~ National Federations ~~has the possibility~~ may apply for the registration ~~to register~~ of one or more International BMX Freestyle Competitions on the UCI calendar within each calendar year. 
+- International BMX Freestyle Competition (C1): <del>every</del> National Federations <del>has the possibility</del> may apply for the registration <del>to register</del> of one or more International BMX Freestyle Competitions on the UCI calendar within each calendar year. 
 
 - International BMX Freestyle Competition (C2): National Federations may apply for the registration of one or more International BMX Freestyle Competitions on the UCI BMX Freestyle International Calendar within each calendar year. C2 category is open to registration of events which differ from the UCI Regulations in accordance with articles 6bis.3.029. 
 
@@ -88,9 +88,9 @@ Without prejudice to article 6bis.3.029, event organisers of a BMX Freestyle eve
 
 (text modified on: 01.02.18, 02.02.19, 01.02.22, 01.01.25) 
 
-~~UCI Classifications~~ 
+<del>UCI Classifications</del> 
 
-~~**6bis.3.028** Articles 1.2.133 and 1.2.134 shall apply to BMX Freestyle Competitions.~~ 
+<del>**6bis.3.028** Articles 1.2.133 and 1.2.134 shall apply to BMX Freestyle Competitions.</del> 
 
 Special format events 
 
@@ -116,7 +116,7 @@ Park Competitions
 
 Within the Qualification phase, riders are randomly assigned to each heat. 
 
-However, in case an event that is part of a series or the UCI World Championships, the Qualification phase shall instead be done in reverse order of the defined ~~current series U~~ CI ranking or defined series ranking; that is, riders are assigned to their heats in order, starting with the unranked or lowest ranked riders, and ending with the highest ranked riders in the last heat. 
+However, in case an event that is part of a series or the UCI World Championships, the Qualification phase shall instead be done in reverse order of the defined <del>current series U</del> CI ranking or defined series ranking; that is, riders are assigned to their heats in order, starting with the unranked or lowest ranked riders, and ending with the highest ranked riders in the last heat. 
 
 In such a case, within each heat, the start order continues to be in reverse order of ranking, so that the highest ranked rider within each heat goes last in that heat. Any unranked riders are seeded randomly in the first heats in the order. 
 
@@ -128,7 +128,7 @@ The start order in the Qualification phase is done at random, unless a UCI ranki
 
 (text modified on: 01.02.18, 01.01.25) 
 
-**6bis.6.009** In the Semi-final (if held) and the Final, any rider who is not present within the Field Of Play (FOP) or the riders’ area as described in the Competition Guide at latest by the start of the ~~15 minute~~ warm-up period preceding that phase, shall not be allowed to start. They will be scored as DNS (“Did Not Start”) for the phase in question. 
+**6bis.6.009** In the Semi-final (if held) and the Final, any rider who is not present within the Field Of Play (FOP) or the riders’ area as described in the Competition Guide at latest by the start of the <del>15 minute</del> warm-up period preceding that phase, shall not be allowed to start. They will be scored as DNS (“Did Not Start”) for the phase in question. 
 
 Competition Classification 
 
@@ -150,7 +150,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 3. If it was held, all riders not Disqualified (DSQ) who started in the Qualification phase, in order of their scores in the Qualification phase, but who did not qualify for the next phase of the Competition. 
 
-~~4. If it was held, all riders not Disqualified (DSQ) who started in the Pre-Qualification phase, in order of their scores in the Pre-Qualification phase, but who did not qualify for the next phase of the Competition.~~ 
+<del>4. If it was held, all riders not Disqualified (DSQ) who started in the Pre-Qualification phase, in order of their scores in the Pre-Qualification phase, but who did not qualify for the next phase of the Competition.</del> 
 
 (text modified on: 02.02.19, 01.01.25) 
 
@@ -168,7 +168,7 @@ When the time runs out, any trick that is fully completed shall be counted. A co
 
 Flatland Competitions 
 
-The judges shall not consider any trick which is not completed when the time runs out. ~~clock reaches 0 time~~. 
+The judges shall not consider any trick which is not completed when the time runs out. <del>clock reaches 0 time</del>. 
 
 (text modified on: 01.02.18, 01.01.22, 01.01.25) 
 
@@ -194,7 +194,7 @@ of the obstacles typically found in a BMX Freestyle Park as outlined in the UCI 
 
 Continental Championships 
 
-~~Beginning in 2021 and after, a~~ A facility specifically made for BMX riding must be used, whether built of wood or cement; such a field of play shall comply with the principles and guidelines outlined in the UCI BMX Freestyle Park Guide. 
+<del>Beginning in 2021 and after, a</del> A facility specifically made for BMX riding must be used, whether built of wood or cement; such a field of play shall comply with the principles and guidelines outlined in the UCI BMX Freestyle Park Guide. 
 
 UCI BMX Freestyle Park World Cup Events, UCI BMX Freestyle Park World Championships, Multi-Sport Games including the Olympic Games 
 
@@ -226,7 +226,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0007-00.png)
 
-more points as of the ranking deadline for any particular event ~~in the season following~~. 
+more points as of the ranking deadline for any particular event <del>in the season following</del>. 
 
 - In case a national federation does not presently have any riders with 50 or more points as of the ranking deadline for any particular event, that federation nevertheless has the right to enter a single rider for the category in question. 
 
@@ -234,7 +234,7 @@ more points as of the ranking deadline for any particular event ~~in the season 
 
 ## **6bis.9.004** 
 
-~~The organisation reserves the right to determine the maximum number of participants.~~ The maximum number of participants is set in article 6bis.9.002 ~~in each category will be defined in the Competition Guide~~. No further entries will be accepted once any such limit has been reached. 
+<del>The organisation reserves the right to determine the maximum number of participants.</del> The maximum number of participants is set in article 6bis.9.002 <del>in each category will be defined in the Competition Guide</del>. No further entries will be accepted once any such limit has been reached. 
 
 (text modified on: 01.01.25) 
 
@@ -252,9 +252,9 @@ For Men Elite, the Park Competitions are organized as follows:
 
 In case 24 or fewer riders are entered and confirmed following riders’ confirmation, then the system outlined in article 6bis.6.003 shall apply instead. 
 
-~~In case more than 80 entries are received, the organiser may decide to hold a Pre-Qualification phase. In this case, the number of riders who advance to the Qualification phase shall be defined in the Competition Guide for the event. In case a Pre-Qualification Phase is held, the Top 50 riders in the latest overall UCI BMX Freestyle Park Individual Ranking who registered at least 3 weeks in advance shall be directly entered in the Qualification Phase. Such riders registered later than 3 weeks in advance shall be required to ride in the Pre-Qualification Phase.~~ 
+<del>In case more than 80 entries are received, the organiser may decide to hold a Pre-Qualification phase. In this case, the number of riders who advance to the Qualification phase shall be defined in the Competition Guide for the event. In case a Pre-Qualification Phase is held, the Top 50 riders in the latest overall UCI BMX Freestyle Park Individual Ranking who registered at least 3 weeks in advance shall be directly entered in the Qualification Phase. Such riders registered later than 3 weeks in advance shall be required to ride in the Pre-Qualification Phase.</del> 
 
-~~The number of riders advancing from the Pre-Qualification Phase shall be the difference between the number of riders in the Qualification Phase as defined by the organiser, and the number of riders who are entered directly in the Qualification Phase, as described above.~~ 
+<del>The number of riders advancing from the Pre-Qualification Phase shall be the difference between the number of riders in the Qualification Phase as defined by the organiser, and the number of riders who are entered directly in the Qualification Phase, as described above.</del> 
 
 Page **7** / **13** 
 
@@ -264,9 +264,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0008-00.png)
 
-~~Riders who are required to do so who do not start in the Pre-Qualification phase are dealt with in the same manner as described for the Qualification phase in article 6bis.6.016. As such, the Pre-Qualification phase shall take the place of the Qualification phase for the purposes of article 6bis.6.016, except for those riders who bypass the Pre-Qualification phase.~~ 
+<del>Riders who are required to do so who do not start in the Pre-Qualification phase are dealt with in the same manner as described for the Qualification phase in article 6bis.6.016. As such, the Pre-Qualification phase shall take the place of the Qualification phase for the purposes of article 6bis.6.016, except for those riders who bypass the Pre-Qualification phase.</del> 
 
-~~For Women Elite, the same system shall apply as defined above for Men Elite.~~ 
+<del>For Women Elite, the same system shall apply as defined above for Men Elite.</del> 
 
 (text modified on: 01.02.18, 02.02.19; 08.02.21, 01.01.25) 
 
@@ -276,7 +276,7 @@ UCI BMX Freestyle World Cup Ranking
 
 In case of a tie on points, the rider with the better result in the final classification of the latest round held shall break the tie. 
 
-Following the last event in the UCI BMX Freestyle World Cup Series each season, the highest ranked rider in Men Elite and also Women Elite will be declared the UCI BMX Park World Cup Winner ~~Champion,~~ respectively, for the year in question. 
+Following the last event in the UCI BMX Freestyle World Cup Series each season, the highest ranked rider in Men Elite and also Women Elite will be declared the UCI BMX Park World Cup Winner <del>Champion,</del> respectively, for the year in question. 
 
 (text modified on: 01.02.18, 02.02.19, 08.02.21, 01.01.25) 
 
@@ -292,7 +292,7 @@ Schedule Changes
 
 If an entire event and/or discipline is stopped and can’t be resumed before the conclusion of the Qualification phase, neither prizes nor points will be awarded. In this case, a meeting will be called with the riders to inform them. 
 
-In case the event is stopped and can’t be resumed before the ~~Pre-Qualification or~~ Qualification phase is finished, then there shall be no result. 
+In case the event is stopped and can’t be resumed before the <del>Pre-Qualification or</del> Qualification phase is finished, then there shall be no result. 
 
 As example, if the Qualification is completed and no more, then the rankings from 
 
@@ -318,7 +318,7 @@ The start list order and grouping of riders into heats are done in reverse order
 
 Any riders not ranked will start before the ranked riders, in a randomly determined order. 
 
-~~In case a Pre-Qualification Phase is held, it shall be run in the same manner as the Qualification Phase. In this case, the start list order and grouping of riders into heats is done in reverse order of the classification of the Pre-Qualification Phase.~~ 
+<del>In case a Pre-Qualification Phase is held, it shall be run in the same manner as the Qualification Phase. In this case, the start list order and grouping of riders into heats is done in reverse order of the classification of the Pre-Qualification Phase.</del> 
 
 (Text modified on: 01.02.2018, 01.01.25) 
 
@@ -328,7 +328,7 @@ Competition Format
 
 **6bis.10.004** 
 
-Each national federation shall be entitled to enter 2 reserve riders in each category. The final deadline to change entered riders for reserve riders is the end of the riders’ confirmation period defined ~~withi~~ n the official event schedule. ~~Such reserve riders shall be allowed to practice during all practice sessions held before the final riders~~ ’ ~~confirmation deadline~~. 
+Each national federation shall be entitled to enter 2 reserve riders in each category. The final deadline to change entered riders for reserve riders is the end of the riders’ confirmation period defined <del>withi</del> n the official event schedule. <del>Such reserve riders shall be allowed to practice during all practice sessions held before the final riders</del> ’ <del>confirmation deadline</del>. 
 
 (Article introduced on: 02.02.19, 01.01.25) 
 
@@ -412,15 +412,15 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 (text modified on: 01.01.23, 01.01.25) 
 
-## Olympic Qualification ~~Ranking~~ 
+## Olympic Qualification <del>Ranking</del> 
 
 ## **6bis.11.007** 
 
-To determine the qualification quota for the Olympic G ~~ga~~ mes for Men Elite and Women Elite, a Qualification System for the next Olympic Games will be determined and published on the UCI website. ~~Olympic Qualification ranking is calculated for Men Elite and for Women Elite, as described in the Qualification System for the next Olympic Games~~ 
+To determine the qualification quota for the Olympic G <del>ga</del> mes for Men Elite and Women Elite, a Qualification System for the next Olympic Games will be determined and published on the UCI website. <del>Olympic Qualification ranking is calculated for Men Elite and for Women Elite, as described in the Qualification System for the next Olympic Games</del> 
 
-~~A rider~~ ’ ~~s points are awarded to the nation of this nationality, even if he is license holder of the federation of another country.~~ 
+<del>A rider</del> ’ <del>s points are awarded to the nation of this nationality, even if he is license holder of the federation of another country.</del> 
 
-~~Tied nations have their relative positions determined by the place of their best rider on the UCI Individual BMX ranking.~~ 
+<del>Tied nations have their relative positions determined by the place of their best rider on the UCI Individual BMX ranking.</del> 
 
 (text modified on: 01.01.25) 
 

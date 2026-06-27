@@ -4,7 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5ZszbcdPPoMq5cC82OxkTl/1bd
 source_sha256: 85c14ce1220a7c1076e54b305ad384619a8239d5f4461e88000eddaf036b643a
 converter: pymupdf4llm
 ---
-> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: ~~struck-through~~ text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+> **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2023_UCI_ETHICS_EN_04-08-23.pdf-0001-00.png)
 
@@ -29,7 +29,7 @@ CODE OF ETHICS<br>**----- End of picture text -----**<br>
 
 2 UCI CODE OF ETHICS | TABLE OF CONTENTS 
 
-## ~~PREAMBLE~~ 
+## <del>PREAMBLE</del> 
 
 The UCI acknowledges its responsibility to safeguard the integrity and reputation of cycling throughout the world. The following Code reflects and defines the most important core values for behaviour and conduct within UCI and its affiliates. The conduct of persons bound by this Code shall reflect their support of the principles of integrity and ethics and their efforts to refrain from anything that could be harmful to these aims and objectives. 
 
@@ -41,9 +41,9 @@ UCI CODE OF ETHICS | PREAMBLE
 
 3 
 
-~~CHAPTER I~~ 
+<del>CHAPTER I</del> 
 
-~~**SCOPE OF APPLICATION**~~ 
+<del>**SCOPE OF APPLICATION**</del> 
 
 ## _**Art. 1 Persons bound by the UCI Code of Ethics**_ 
 
@@ -93,9 +93,9 @@ UCI CODE OF ETHICS | SCOPE OF APPLICATION
 
 5 
 
-~~CHAPTER II~~ 
+<del>CHAPTER II</del> 
 
-~~**RULES OF CONDUCT**~~ 
+<del>**RULES OF CONDUCT**</del> 
 
 ## _**Art. 5 General principles**_ 
 
@@ -235,7 +235,7 @@ Candidates in an election shall conduct themselves in a manner consistent with u
 
 10 UCI CODE OF ETHICS | RULES OF CONDUCT 
 
-|~~CHAPTER III~~|~~**THE ETHICS COMMISSION**~~|
+|<del>CHAPTER III</del>|<del>**THE ETHICS COMMISSION**</del>|
 |---|---|
 |**SECTION 1**|**FUNCTIONING**|
 
@@ -347,9 +347,9 @@ UCI CODE OF ETHICS | THE ETHICS COMMISSION
 
 14 
 
-## ~~CHAPTER IV~~ 
+## <del>CHAPTER IV</del> 
 
-## ~~**RULES OF PROCEDURE**~~ 
+## <del>**RULES OF PROCEDURE**</del> 
 
 ## _**Art. 21 Right to complain and procedural rights**_ 
 
@@ -587,7 +587,7 @@ The UCI may publish decisions, reports and advice rendered by the Ethics Commiss
 
 22 UCI CODE OF ETHICS | RULES OF PROCEDURE 
 
-~~CHAPTER V~~ ~~**FINAL PROVISIONS**~~ 
+<del>CHAPTER V</del> <del>**FINAL PROVISIONS**</del> 
 
 ## _**Art. 38 Transitional measures**_ 
 
@@ -607,7 +607,7 @@ UCI CODE OF ETHICS | FINAL PROVISIONS
 
 **APPENDIX 1** PROTECTION OF PHYSICAL AND MENTAL INTEGRITY – SEXUAL HARASSMENT AND ABUSE 
 
-## ~~CHAPTER 1~~ ~~**INTRODUCTORY PROVISION**~~ 
+## <del>CHAPTER 1</del> <del>**INTRODUCTORY PROVISION**</del> 
 
 ## _**Art. 1 Purpose of the present Appendix**_ 
 
@@ -617,7 +617,7 @@ The present Appendix aims at providing support to licence-holders and their well
 
 The present Appendix supplements art. 6.4 of the Code and provides clear guidance regarding acts and omissions which are not permitted in relation to harassment and abuse as well as obligations related thereto, whether in the context of a person’s cycling-related activities or not. 
 
-## ~~CHAPTER 2~~ ~~**RULES OF CONDUCT**~~ 
+## <del>CHAPTER 2</del> <del>**RULES OF CONDUCT**</del> 
 
 ## _**Art. 2 Forbidden Conduct**_ 
 
@@ -659,9 +659,9 @@ For teams which have appointed a delegate competent to collect information relat
 
 UCI CODE OF ETHICS | APPENDIX 1 25 
 
-~~CHAPTER III~~ 
+<del>CHAPTER III</del> 
 
-## ~~**FINAL PROVISIONS**~~ 
+## <del>**FINAL PROVISIONS**</del> 
 
 ## _**Art. 4 Registration of a case**_ 
 
@@ -677,7 +677,7 @@ _The present appendix enters into force on November 1[st], 2018._
 
 ## **APPENDIX 2** MANIPULATION OF CYCLING EVENTS 
 
-## ~~CHAPTER 1~~ ~~**INTRODUCTORY PROVISION**~~ 
+## <del>CHAPTER 1</del> <del>**INTRODUCTORY PROVISION**</del> 
 
 ## _**Art. 1 Purpose of the present Appendix**_ 
 
@@ -687,9 +687,9 @@ The provisions of this Appendix are based on the essential sporting principle th
 
 The present Appendix supplements art. 8.1 of the Code and art. 1.1.088 of the UCI Regulations and provides clear guidance regarding acts and omissions that are not permitted in relation to betting and the manipulation of cycling events as well as obligations in relation thereto, whether in the context of a person’s cycling-related activities or not. 
 
-## ~~CHAPTER 2~~ 
+## <del>CHAPTER 2</del> 
 
-## ~~**RULES OF CONDUCT**~~ 
+## <del>**RULES OF CONDUCT**</del> 
 
 ## _**Art. 2 Forbidden Conduct**_ 
 
@@ -727,9 +727,9 @@ Substantial assistance provided by a party to proceedings that results in the di
 
 28 UCI CODE OF ETHICS | APPENDIX 2 
 
-~~CHAPTER III~~ 
+<del>CHAPTER III</del> 
 
-~~**FINAL PROVISION**~~ 
+<del>**FINAL PROVISION**</del> 
 
 ## _**Art. 6 Application of the Appendix**_ 
 
