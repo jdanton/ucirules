@@ -48,4 +48,3 @@ Similarly, any commercial or promotional activity on the competition venue -  i.
 
 For more information, please contact legal@uci.ch. 
 
-![](images/protectedmarksambushmarketing_neutral.pdf-0001-22.png)

@@ -13218,11 +13218,7 @@ Furthermore, the Rider shall have the right to the following bonuses:
 
 none 
 
-![](images/2-ROA-20260206-E.pdf-0354-17.png)
-
 1… 
-
-![](images/2-ROA-20260206-E.pdf-0354-19.png)
 
 2… 
 

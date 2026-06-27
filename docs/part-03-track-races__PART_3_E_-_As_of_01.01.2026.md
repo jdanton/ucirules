@@ -1645,8 +1645,6 @@ _(article introduced on 01.01.25)_
 
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0039-05.png)
 
-![](images/PART_3_E_-_As_of_01.01.2026.pdf-0039-06.png)
-
 **----- Start of picture text -----**<br>
 Figure 1<br>**----- End of picture text -----**<br>
 
@@ -1666,8 +1664,6 @@ _Figure 2_
 
 _Figure 3_ 
 
-![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-06.png)
-
 **----- Start of picture text -----**<br>
 Figure 4<br>**----- End of picture text -----**<br>
 
@@ -1683,17 +1679,11 @@ TRACK RACES
 
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-03.png)
 
-![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-04.png)
-
 **----- Start of picture text -----**<br>
 Figure 5<br>**----- End of picture text -----**<br>
 
-![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-05.png)
-
 **----- Start of picture text -----**<br>
 Figure 6<br>**----- End of picture text -----**<br>
-
-![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-06.png)
 
 **----- Start of picture text -----**<br>
 Figure 7<br>**----- End of picture text -----**<br>

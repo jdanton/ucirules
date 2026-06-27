@@ -12,6 +12,8 @@ over the already-committed Markdown.
 from __future__ import annotations
 
 import re
+import struct
+from pathlib import Path
 
 _DOT_LEADER = re.compile(r"\.{4,}")                       # ".......... 27"
 _SEP_ROW = re.compile(r"\s*\|[\s:|-]+\|\s*$")             # table delimiter row
@@ -76,3 +78,35 @@ def clean_markdown(md: str) -> str:
     md = re.sub(r" +\.(\s|$)", r".\1", md)
     md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip() + "\n"
+
+
+_IMG_REF = re.compile(r"!\[\]\(images/([^)]+\.png)\)")
+# Marginal article numbers (e.g. "11.2") are extracted by pymupdf4llm as tiny
+# one-line images that render as stray numbers. Real figures, headers and
+# diagrams are all >40px tall, so height is a clean discriminator.
+TINY_IMG_MAX_HEIGHT = 40
+
+
+def _png_height(path: Path) -> int | None:
+    try:
+        head = path.read_bytes()[:24]
+    except OSError:
+        return None
+    if head[:8] != b"\x89PNG\r\n\x1a\n":
+        return None
+    return struct.unpack(">II", head[16:24])[1]
+
+
+def prune_tiny_images(md: str, images_dir: Path) -> str:
+    """Drop references to (and delete) tiny number/rule images."""
+    out = []
+    for ln in md.split("\n"):
+        m = _IMG_REF.search(ln)
+        if m:
+            f = images_dir / Path(m.group(1)).name
+            h = _png_height(f)
+            if h is not None and h <= TINY_IMG_MAX_HEIGHT:
+                f.unlink(missing_ok=True)
+                continue
+        out.append(ln)
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out))

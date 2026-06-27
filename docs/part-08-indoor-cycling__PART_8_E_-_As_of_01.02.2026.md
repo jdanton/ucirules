@@ -1632,8 +1632,6 @@ Headstand on the saddle, both hands on the handlebar. Legs closed and stretched 
 
 **1118** 
 
-![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-31.png)
-
 **----- Start of picture text -----**<br>
 1121<br>**----- End of picture text -----**<br>
 
@@ -3547,8 +3545,6 @@ Starting position is the star inside. During the figure, all riders have to rele
 **End of figure:** In the position star outside / star inside. 
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-04.png)
-
-![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-05.png)
 
 **----- Start of picture text -----**<br>
 4331<br>**----- End of picture text -----**<br>

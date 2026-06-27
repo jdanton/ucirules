@@ -24,7 +24,9 @@ def main() -> None:
         text = f.read_text(encoding="utf-8")
         m = _FM.match(text)
         front, body = (m.group(1), m.group(2)) if m else ("", text)
-        cleaned = front + clean_md.clean_markdown(body)
+        body = clean_md.clean_markdown(body)
+        body = clean_md.prune_tiny_images(body, DOCS / "images")
+        cleaned = front + body
         if cleaned != text:
             f.write_text(cleaned, encoding="utf-8")
             changed += 1

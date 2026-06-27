@@ -84,8 +84,6 @@ Both hands behind the back on the handlebar, front wheel between the legs, feet 
 
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0004-05.png)
 
-![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0004-06.png)
-
 **----- Start of picture text -----**<br>
 2332<br>**----- End of picture text -----**<br>
 
@@ -279,8 +277,6 @@ Diagonal pull **(8.2.068)**
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-04.png)
 
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-05.png)
-
-![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-06.png)
 
 **----- Start of picture text -----**<br>
 4006<br>**----- End of picture text -----**<br>

@@ -340,6 +340,7 @@ def sync_markdown(args) -> bool:
             )
             md = md.replace(link_prefix, IMG_DIR + "/")
             md = clean_md.clean_markdown(md)  # strip printed TOCs and page furniture
+            md = clean_md.prune_tiny_images(md, images_dir)  # drop stray number-images
             name = output_name(md, stem)
             # If a change renamed the doc, drop the file under its old name.
             if u in old and old[u]["name"] != name:

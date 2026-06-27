@@ -434,7 +434,7 @@ Ties between teams shall be resolved by counting the greatest number of 1st plac
 
 ## 3.10.2025 
 
-count towards the “UCI World ranking for women UCI teams – 3 years” over the course of the period of the ranking ~~of their best 8 riders on the UCI individual world ranking during races run in the course of the current season~~. . If there is still a tie between teams, it will be resolved by the greatest number of 2nd places, then 3rd places, etc. 
+count towards the “UCI World ranking for women UCI teams – 3 years” over the course of the period of the ranking ~~of their best 8 riders on the UCI individual world ranking during races run in the course of the current season~~.. If there is still a tie between teams, it will be resolved by the greatest number of 2nd places, then 3rd places, etc. 
 
 ( _article introduced on 1.11.21; modified on 1.11.25_ ). 
 
