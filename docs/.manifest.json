@@ -84,10 +84,10 @@
     "stem": "Part_3_Track_Regulations_amendments_2025_approved_in_September_2025",
     "sha256": "f96e107a35df6089ec0391e92c2765e93194101f2b540419d8e6b00bde5a3dc1"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/2hOvrYP5aggXXHj2dzh9f3/05a885e9812bd9592f26ba8a86ab0c31/2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/2hOvrYP5aggXXHj2dzh9f3/dedefe0c95fc18aa2c1afd8ce3fd6f9b/2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026.pdf": {
     "name": "ad-hoc-rules__2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026.md",
     "stem": "2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026",
-    "sha256": "aeef45172b853cb6814770111b42457df39f6d06e67afb7dcef7c86297e9dd24"
+    "sha256": "417a18e11c9b4c4e8d2f38c4c139169f28ff7e4434fa4de1f26c8adaaf8bf4a5"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2hSKKwLFWuz8ApFjJHZVWf/f38b6379015dee7735b62aa3218583ed/16-PAR-20260101-E.pdf": {
     "name": "part-16-para-cycling__16-PAR-20260101-E.md",
@@ -99,20 +99,20 @@
     "stem": "2-ROA-20260206-E-amendments_on_06.02.26",
     "sha256": "86518a478d4ef6be3781aae0c6cc4df64f55f6de1d90a9bffd58551defcde6a9"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/2t2aAatMkSy7UpqYhw7TzA/577529ed5a2c7273a66cc1bcef7be747/ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.pdf": {
-    "name": "conditions-of-participation-for-individual-neutral-riders-of__ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.md",
-    "stem": "ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024",
-    "sha256": "11c9ec31b01320b39b0fe3047bd8def74643c47d0e6b44d63e91b6238946e911"
+  "https://assets.ctfassets.net/761l7gh5x5an/2t2aAatMkSy7UpqYhw7TzA/95a3ad7310c05423a3056c7ea91ac373/2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026.pdf": {
+    "name": "conditions-of-participation-for-individual-neutral-riders-of__2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026.md",
+    "stem": "2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026",
+    "sha256": "75165f16cb32082c261a6533c51604c96d185b4ad25c7685ec592316da62b007"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2uOSbE8gAbYJWGZF6Zdb0c/ba7c3629f110e9c45114ffbc057d6239/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf": {
     "name": "article-2-objectives__2025_UCI_CONSTITUTION___CONGRESS_EN_sept.md",
     "stem": "2025_UCI_CONSTITUTION___CONGRESS_EN_sept",
     "sha256": "a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/3EjeIEEJpI38fDQOoc54AI/6597d8f236ec03926385d5a80ec344fc/Article2.2.001_Participation_Equipes_2026_05062026.pdf": {
-    "name": "road-teams-participation-2026-season__Article2.2.001_Participation_Equipes_2026_05062026.md",
-    "stem": "Article2.2.001_Participation_Equipes_2026_05062026",
-    "sha256": "7065619b57b25644e404b470d2008d2a97a048f2dca8bedf3e8e7b60ae4d28e6"
+  "https://assets.ctfassets.net/761l7gh5x5an/3EjeIEEJpI38fDQOoc54AI/f129dfb46216fb0da53ee7a76e0b05e9/Article2.2.001_Participation_Equipes_2026_20032026.pdf": {
+    "name": "road-teams-participation-2026-season__Article2.2.001_Participation_Equipes_2026_20032026.md",
+    "stem": "Article2.2.001_Participation_Equipes_2026_20032026",
+    "sha256": "057df54f49fa99d0d077baa40ce3860264fe177cdfa697e39f9f17aa5bf24846"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/3Jr7WV5r0jjoXIOaLq0fCg/2f076a7932b1e4a0c760e3aee7aa8362/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf": {
     "name": "part-07-trials__Trials_Rule_changes_2025-ENG_Upcoming_amendments_.md",
@@ -129,10 +129,10 @@
     "stem": "9-CM-20260101-E",
     "sha256": "74bfebf8b88348f31cb0ee69f8c5ae1600f183c3e28c5e46d9c7f8d79afd5e55"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/3Slohw1uSsOPgBPfLLZVMg/4d0200eec03fcfd8c4a9f25ce82efb50/2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/3Slohw1uSsOPgBPfLLZVMg/479750dbdc92758870d1db20a898f8f3/2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026.pdf": {
     "name": "conditions-of-participation-for-individual-neutral-riders-of__2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026.md",
     "stem": "2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026",
-    "sha256": "38b96de6dd3982447b2339fcdae7ede6586514b9b1945d81b8e4f4845deb7848"
+    "sha256": "dbc6e4484da10fe7e00c5f8527c2c176cb99a58fc27a263aa92e37428257c4fc"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/3X0PPNdbWNAhMGaZzKly8J/c1ffde19720611fa2fddae4e4601845b/5-CRO-20260701-E.pdf": {
     "name": "part-05-cyclo-cross__5-CRO-20260701-E.md",
@@ -169,10 +169,10 @@
     "stem": "UCI_Part_I_-_Rule_Changes_on_01.02.2026",
     "sha256": "48e6f497a1383881903f383a937d4b34b609ac89b1263d53e6ed23e1b7a134d8"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/4BxcBW3Ez2KLl3NzIAaPH2/2f926a21a6d7deee00f21e74a5327f36/Directives_aux_organisateurs_EN.pdf": {
-    "name": "directives-for-organisers-following-the-measures-taken-by__Directives_aux_organisateurs_EN.md",
-    "stem": "Directives_aux_organisateurs_EN",
-    "sha256": "ba1688aa1937a517ea0a2399f5b632f0355d081b1aaf7155bb225c07850d2144"
+  "https://assets.ctfassets.net/761l7gh5x5an/4BxcBW3Ez2KLl3NzIAaPH2/09ee0c6f44cc2e161797d8d460654261/Directives_for_organisers_following_the_measures_taken_by_the_UCI_in_response_to_the_situation_in_Ukraine.pdf": {
+    "name": "Directives_for_organisers_following_the_measures_taken_by_the_UCI_in_response_to_the_situation_in_Ukraine.md",
+    "stem": "Directives_for_organisers_following_the_measures_taken_by_the_UCI_in_response_to_the_situation_in_Ukraine",
+    "sha256": "53eb5a817b85b53c68b4647c10289e510ff013551e1421b52da583862c33e9ed"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/4Jwn3HfNQvCcTQFQs5RFle/80a6592752872d820632b3153d3ae1b6/UCI_Part_I_-_Rule_Changes_on_01.01.2028.pdf": {
     "name": "part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_01.01.2028.md",
@@ -219,10 +219,10 @@
     "stem": "2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG",
     "sha256": "88bef3930b0aff994ad07c48f30f369d01bbb7c9ec4f3496eae27ed75845537e"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/4x2vC8gH7hE38xE4A20PVp/56b8c7f13550dfb37ef842f9041d6aa7/UCIProSeries_13052026.pdf": {
-    "name": "participation-equipes-continentales-uci-epreuves-uci-proseries-saison__UCIProSeries_13052026.md",
-    "stem": "UCIProSeries_13052026",
-    "sha256": "b37b833557ae5593d490f11c3a61f94c0023363f151ee18d20b0980dedd5c03d"
+  "https://assets.ctfassets.net/761l7gh5x5an/4x2vC8gH7hE38xE4A20PVp/4c0d6d64a1b11a72a0f2ea070a3f6b11/UCIProSeries_17062026.pdf": {
+    "name": "participation-equipes-continentales-uci-epreuves-uci-proseries-saison__UCIProSeries_17062026.md",
+    "stem": "UCIProSeries_17062026",
+    "sha256": "beb676afc8bdcc4addafe68db859452669a0c53f84a03b8c4b8b7debc7f4b972"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/50QlrMa7ZcAumOJJDB1wdu/1c319a91b96ae1c79c631ff3b9dc7923/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf": {
     "name": "implementation-of-in-race-communication-test-protocol___In-race_communication__test_protocol_for_the_2024_season_07.08.2024.md",
@@ -424,6 +424,11 @@
     "stem": "Part_3_Track_Regulations_amendments_01012028",
     "sha256": "6e709bfb7c101ce82c634dc1eca1048ae68eacf6cb2149cf385b9e463d4bea3a"
   },
+  "https://assets.ctfassets.net/761l7gh5x5an/7uLMptMENGkfvDnlhblv1T/d7bb4f777f82aebaa73340707c118de9/2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026.pdf": {
+    "name": "ad-hoc-rules__2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026.md",
+    "stem": "2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026",
+    "sha256": "d84dfd6b5201edab5187a4f4f6afc77b8bc2e105e257d51b9dec38bd97c33097"
+  },
   "https://assets.ctfassets.net/761l7gh5x5an/9VSK0I6lQaYOxrkaAxBdw/123fec4e254187cebc6b8fe88d0ddcf5/Part_12-_Amendments_on_1.07.26.pdf": {
     "name": "part-12-discipline-and-procedures__Part_12-_Amendments_on_1.07.26.md",
     "stem": "Part_12-_Amendments_on_1.07.26",
@@ -474,10 +479,10 @@
     "stem": "Arrivees_Sprint_Massif_06.01.2025-E",
     "sha256": "21d0d185ea9c633b99b22c4516a9d80f8bd7c56f0362ad7ac84f65e180da206e"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/blwXvkQwne3U24TTrLnRk/94eea3c390ad5ad5b48bbc420e793035/Part_3_Track_Regulations_amendments_01092026.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/blwXvkQwne3U24TTrLnRk/0eda84d21a8a4d2df2b8b6adc54f4c0e/Part_3_Track_Regulations_amendments_01092026.pdf": {
     "name": "part-03-track-races__Part_3_Track_Regulations_amendments_01092026.md",
     "stem": "Part_3_Track_Regulations_amendments_01092026",
-    "sha256": "386d436eb36d296e04dc6cfe6e6e11e2a83d0ca5b263c8d619135cfe7cd3aecb"
+    "sha256": "4800cdccc0340f4bf374bc78220cd27f8755ccadfbb37f50d83b755681562cb4"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/gFZt3yFlmnizK9qvP7NdV/f22a3f71e8f9578a581f45e391818176/UCI_Part_I_-_Rule_Changes_on_07.09.2027.pdf": {
     "name": "part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_07.09.2027.md",
@@ -499,9 +504,9 @@
     "stem": "2-ROA-20260101-E-amendments_on_01.01.26",
     "sha256": "e3cd9e247170976a32d080e98240f7f3972a38c920186d101d12552dc9866761"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/xN5hIsFGXYZwPm4yxtvxp/6d9ff7fd29712ad80e3a5e1824e4c080/Junior_development_teams_2026.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/xN5hIsFGXYZwPm4yxtvxp/13f6a68c805b62dd223a03207c8e7ae4/Junior_development_teams_2026.pdf": {
     "name": "junior-development-teams-2026-season__Junior_development_teams_2026.md",
     "stem": "Junior_development_teams_2026",
-    "sha256": "970417b0815411e40a0a4a09a2489a2833dfe14186694ce5e60ef1161b88f7eb"
+    "sha256": "cf3cc10c93b3205f08990803a4590e99742a673056edca52d50386d5461849c6"
   }
 }
