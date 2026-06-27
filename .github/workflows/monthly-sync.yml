@@ -24,12 +24,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5   # Node 24 runtime
         with:
           fetch-depth: 0          # full history so gh-deploy can update gh-pages
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6   # Node 24 runtime
         with:
           python-version: "3.12"
           cache: pip
