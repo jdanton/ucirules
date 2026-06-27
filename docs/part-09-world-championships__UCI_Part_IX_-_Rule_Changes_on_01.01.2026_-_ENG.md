@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6drZqZV72vboZMMK80YH5j/bdc
 source_sha256: 72ccb106bf15c9a62520036306408b810beb534153e38100803d4c57855c8cd9
 converter: pymupdf4llm
 ---
-
 06.10.2025 
 
-
 ![](images/UCI_Part_IX_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -37,8 +34,6 @@ reserves) for each ~~team~~ nation is determined on the basis of the classificat
 |31orafter|4|
 |Unrankednations|3|
 
-
-
 For the Women Under 23 and Women Junior XCO events, the Women Elite and Women Junior DHI events, the maximum number is 7 riders per nation. 
 
 Each federation shall be permitted to enter 2 reserves in each category. 
@@ -51,8 +46,6 @@ For cross-country short track (XCC), each rider selected must already be registe
 |6to15|2|
 |16to end|1|
 |Unrankednations|1|
-
-
 
 For cross-country eliminator (XCE), each national federation can enter unlimited number of riders per category. 
 
@@ -106,7 +99,7 @@ For the qualifying round and the final:
 
 For the qualifying round and the final: 
 
-1. unclassified riders : by nations in rotation (*); 
+1. unclassified riders: by nations in rotation (*); 
 
 2. as per the last published UCI DHI individual ranking. The best rider starting last. 
 
@@ -168,7 +161,7 @@ The scores gained in the ½ Finals round do not count in the Final round.
 
 ## Final procedure 
 
-At the Final round ~~, it will be applied the six by six system:~~ the number of riders eligible to compete will be determined as per above rules and then adjusted accordingly: Before the start, the ~~six~~ riders will be presented on the stage ~~start podium~~ , in inverse order to the position obtained in the ½ Finals round. After the presentation, they must go to section one. The order to start will be determined by the result obtained in the ½ Finals round. Riders that obtained the lowest ranked ~~sixth place~~ shall start first in section one and so on. The same principle applies for the remaining sections. Once a rider finishes a section, the next rider has maximum thirty seconds to start the section. After this thirty second the sections time is running. In case of slight injury, 
+At the Final round ~~, it will be applied the six by six system:~~ the number of riders eligible to compete will be determined as per above rules and then adjusted accordingly: Before the start, the ~~six~~ riders will be presented on the stage ~~start podium~~, in inverse order to the position obtained in the ½ Finals round. After the presentation, they must go to section one. The order to start will be determined by the result obtained in the ½ Finals round. Riders that obtained the lowest ranked ~~sixth place~~ shall start first in section one and so on. The same principle applies for the remaining sections. Once a rider finishes a section, the next rider has maximum thirty seconds to start the section. After this thirty second the sections time is running. In case of slight injury, 
 
 the other rider must overtake and start the section in front of him/her. In case of tie, article 7.1.047 of the UCI Trials Regulations shall apply. Competitors taking part in the Final must have two bicycles at their disposal. The spare second bicycle shall remain in the rider’s area for the duration of the competition and may be retrieved as a replacement for the first bicycle. ~~A rider qualified for the Final who chooses not to compete in the Final shall get seventh placed in the Final classification and shall (in the Final) be replaced by the seventh placed rider in the ½ Finals. Two qualified riders choosing not to compete in the Final shall get seventh and eighth placed in the final classification and shall be replaced by the seventh and eighth placed riders in the ½ Finals (in the Finals), etc. Two qualified riders choosing not to compete in the Final shall get seventh and eighth placed in the final classification and shall be replaced by the seventh and eighth placed riders in the ½ Finals (in the Finals), etc.~~ 
 
@@ -250,5 +243,4 @@ _(article introduced on 01.07.20; text modified on 08.02.21; 01.01.26)_
 
 A nation that has earned a slot in a specific Sport Class is eligible to enter any athlete who meets the eligibility criteria mentioned in article 9.2.067 in that Sport Class at the upcoming UCI Para Cycling Road World Championships. 
 
-_(article introduced on 01.07.20; text modified on 01.01.26)_ 
-
+_(article introduced on 01.07.20; text modified on 01.01.26)_

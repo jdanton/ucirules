@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7BIcNmTrbFCG018F0G3lhA/e83
 source_sha256: 7fa277326c29a0dca546c557d6f1140a62dbf46205815834718e7057ec0de91d
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20250701-E-amendments_on_01.07.25.pdf-0001-01.png)
-
 
 ## **PART II - ROAD RACES Rules amendments applying on 01.07.2025** 
 
@@ -51,15 +48,13 @@ If a rider is leading more than one classification, the order of priority of the
 
 4. others (young rider, combined, etc.); the order of priority among these other jerseys shall be set by the organiser. 
 
-In this situation, the organiser may require another rider next on the relevant classification to wear a jersey which is not being worn by the leader of that classification. However, if this rider must wear his world, continental or national champion's jersey, ~~or the leader's jersey of a UCI cup, circuit, series or classification~~ , he shall wear that jersey. 
+In this situation, the organiser may require another rider next on the relevant classification to wear a jersey which is not being worn by the leader of that classification. However, if this rider must wear his world, continental or national champion's jersey, ~~or the leader's jersey of a UCI cup, circuit, series or classification~~, he shall wear that jersey. 
 
 In the situation where the leader of a classification does not take the start of a stage, the virtual leader of the relevant classification is allowed to wear the related distinctive jersey, subject to the consent of both the organiser and the president of the commissaires’ panel. 
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20250701-E-amendments_on_01.07.25.pdf-0002-01.png)
-
 
 The riders of the team leading the team classification shall be required to wear the corresponding distinctive bib number if required by the organiser. 
 
@@ -87,9 +82,7 @@ Decisions related to this article are taken independently by the commissaires’
 
 For stages expected to finish in a bunch sprint, the UCI may decide to extend the distance from three kilometres to five kilometres upon request and if justified by the specific circumstances of the stage, in particular for safety reasons. The organiser of the event and any other stakeholder involved in the event may apply for such extension and submit relevant documentation for assessment of the application, including course map, stage profile, GPX file and any other relevant information or requested by the UCI. 
 
-
 ![](images/2-ROA-20250701-E-amendments_on_01.07.25.pdf-0003-00.png)
-
 
 ## MEMORANDUM 01.07.2025 
 
@@ -97,5 +90,4 @@ Applications from the organiser of the event must in principle be submitted prio
 
 In case an application is approved after the publication of the technical guide, the details must be published in a race communique prior to the start of the stage. 
 
-_(text modified on 1.01.05; 1.10.11; 1.02.12; 1.01.18, 12.06.24, 1.01.25, 1.07.25)._ 
-
+_(text modified on 1.01.05; 1.10.11; 1.02.12; 1.01.18, 12.06.24, 1.01.25, 1.07.25)._

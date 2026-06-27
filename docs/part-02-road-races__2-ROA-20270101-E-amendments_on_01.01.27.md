@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7ENtPTI8CbdMTheqxnRYAN/574
 source_sha256: dcb16458f773ba6c7c96ad4332423be2b2710d89b637658593802c3dd149c668
 converter: pymupdf4llm
 ---
-
 08 June 2026 
 
-
 ![](images/2-ROA-20270101-E-amendments_on_01.01.27.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -49,9 +46,7 @@ MEMORANDUM
 
 08 June 2026 
 
-
 ![](images/2-ROA-20270101-E-amendments_on_01.01.27.pdf-0002-02.png)
-
 
 Hence, the organiser shall in particular take care to ensure the lighting of tunnels so that it is possible, at all points in the tunnel and at its entrance, to make out a car number plate at 10 metres and a dark-coloured car at 50 metres with the naked eye. 
 
@@ -85,9 +80,7 @@ _(text modified on 1.01.03; 1.01.18; 1.01.19; 11.02.20; 8.02.21; 1.01.24, 1.01.2
 
 08 June 2026 
 
-
 ![](images/2-ROA-20270101-E-amendments_on_01.01.27.pdf-0003-01.png)
-
 
 ## MEMORANDUM 
 
@@ -105,5 +98,4 @@ Yellow cards shall be noted in the communiqué of the commissaires’ panel.
 
 ~~Between 1 August 2024 and 31 December 2024, yellow cards may be issued in the context of the following events: UCI WorldTour, and UCI Women~~ ’ ~~s WorldTour.~~ As from 1 January 2027, yellow cards may ~~then~~ be issued at the following events: UCI WorldTour, UCI Women’s WorldTour, UCI ProSeries (ME and WE), Class 1 (ME and WE), Olympic Games, UCI World Championships (Elite and U23) and Continental Championships (Elite and U23). 
 
-_(article introduced on 01.08.24; modified on 01.01.25; 01.01.27)_ 
-
+_(article introduced on 01.08.24; modified on 01.01.25; 01.01.27)_

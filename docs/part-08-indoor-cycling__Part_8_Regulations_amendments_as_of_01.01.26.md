@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5CL163VQfJcM1ij7DX6c9R/63e
 source_sha256: de101c53b901cb03ab5b05ae1505880c91a34b8552cfab205db4cf79b61bb66c
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 16 June 2025 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0001-01.png)
-
 
 ## **Regulation amendments applying on 01.01.26** 
 
@@ -59,8 +56,6 @@ Abbreviations and terms used in the regulations:
 |s.r.r.|single rings right|
 |T|tactical figure|
 
-
-
 _(text modified on 01.01.26)_ 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -97,8 +92,6 @@ Each National Federation can register a maximum of riders/teams for the ~~discip
 |-|Pair women:|2 teams|
 |-|Pair open:|2 teams|
 |-|Artistic Cycling Team 4:|1 team|
-
-
 
 The registration procedure for the riders/teams shall be fulfilled by the National Federations according to the announcement by the UCI. 
 
@@ -152,8 +145,6 @@ Point scale UCI ranking:
 |24|2||
 |25|1||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 
@@ -196,7 +187,7 @@ _(text modified on 01.01.18; 01.01.26)_
 
 - ~~Mixed-gender teams have to start in the corresponding male discipline.~~ 
 
-Each rider is allowed to enter only once per ~~discipline~~ event at ~~an event (c~~ ompetition ~~or championship~~ . International competitions for Artistic Cycling Team 4 are held as an open ~~discipline~~ event. 
+Each rider is allowed to enter only once per ~~discipline~~ event at ~~an event (c~~ ompetition ~~or championship~~. International competitions for Artistic Cycling Team 4 are held as an open ~~discipline~~ event. 
 
 _(text modified on 01.01.16; 01.01.17; 01.01.26)_ 
 
@@ -378,7 +369,7 @@ _(text modified on 01.01.26)_
 
 - ~~**8.2.082** 2 Turbines~~ 
 
-~~Each three riders have to ride on a common axis, each center rider has to be located on a point on the longitudinal or transversal axis. Both points have equal distances to the inner circle. Each two outside riders are connected by a hand-in-hand grip with the center rider and ride around him. The center rider has to turn on his spot without pedalling, while the two outside riders rotate the center rider around his body longitudinal axis. Thus, the riders form a turbine. Each rider has to ride on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other turbine~~ . 
+~~Each three riders have to ride on a common axis, each center rider has to be located on a point on the longitudinal or transversal axis. Both points have equal distances to the inner circle. Each two outside riders are connected by a hand-in-hand grip with the center rider and ride around him. The center rider has to turn on his spot without pedalling, while the two outside riders rotate the center rider around his body longitudinal axis. Thus, the riders form a turbine. Each rider has to ride on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other turbine~~. 
 
 ~~_(article modified on 01.01.20)_~~ [abrogated on 01.01.26] 
 
@@ -392,7 +383,7 @@ Page **8** / **71**
 
 - **8.3.002** Sidestand turn, squats and jumps 
 
-**Sidestand turn 1151 a** Chest directed to the handlebar, right foot on the right frontpin, left foot on the right pedal (or counterwise). With half turn of the handlebar and the front wheel to the backhang. While performing the turn, the foot must not leave the pedal. **Reg. seat squat 1156** Squat from regular seat over the handlebar to the fronthang. **Fronthang squat 1157 a** : Squat from fronthang over the handlebar to the regular seat. Pushing off with one foot from a front-pin is allowed. **b-c** : Like **a** : but without pushing off from the front-pin. **Backhang squat 1158 a:** Squat from backhang over the handlebar to the handlebarseat reverse. Pushing off with one foot from a frontpin is allowed. **b-c:** Like **a:** but without pushing off from the front-pin. **Handlebarseat rev. squat 1159** Squat from handlebarseat reverse over the handlebar to the backhang. **Handlebarseat rev. scissors jump 1171 a** From handlebarseat reverse crossing stretched legs above the saddle. Then changing grips to regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **Backhang scissors jump 1171 b** Squat from backhang over the handlebar without an intermediate seat in position handlebarseat rev., crossing stretched legs above the saddle. Then changing grips to regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **Turning jump / Turning-scissors jump 1172 a:** From sidestand foot-cranking jump with half turn of the front wheel, then squat over the handlebar to 
+**Sidestand turn 1151 a** Chest directed to the handlebar, right foot on the right frontpin, left foot on the right pedal (or counterwise). With half turn of the handlebar and the front wheel to the backhang. While performing the turn, the foot must not leave the pedal. **Reg. seat squat 1156** Squat from regular seat over the handlebar to the fronthang. **Fronthang squat 1157 a**: Squat from fronthang over the handlebar to the regular seat. Pushing off with one foot from a front-pin is allowed. **b-c**: Like **a**: but without pushing off from the front-pin. **Backhang squat 1158 a:** Squat from backhang over the handlebar to the handlebarseat reverse. Pushing off with one foot from a frontpin is allowed. **b-c:** Like **a:** but without pushing off from the front-pin. **Handlebarseat rev. squat 1159** Squat from handlebarseat reverse over the handlebar to the backhang. **Handlebarseat rev. scissors jump 1171 a** From handlebarseat reverse crossing stretched legs above the saddle. Then changing grips to regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **Backhang scissors jump 1171 b** Squat from backhang over the handlebar without an intermediate seat in position handlebarseat rev., crossing stretched legs above the saddle. Then changing grips to regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **Turning jump / Turning-scissors jump 1172 a:** From sidestand foot-cranking jump with half turn of the front wheel, then squat over the handlebar to 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -402,9 +393,9 @@ Page **9** / **71**
 
 handlebarseat reverse. The foot has to be removed from the pedal during the jump. 
 
-**b** : From regular seat jump with half turn of the front wheel, then squat over the handlebar to the handlebarseat reverse. **c** : From handlebarseat reverse squat over the handlebar, immediately followed by jump with half turn of the front wheel to the regular seat. 
+**b**: From regular seat jump with half turn of the front wheel, then squat over the handlebar to the handlebarseat reverse. **c**: From handlebarseat reverse squat over the handlebar, immediately followed by jump with half turn of the front wheel to the regular seat. 
 
-**d** : From regular seat jump with half turn of the front wheel to stand bent on frame reverse. **e:** From regular seat jump with half turn of the front wheel over the handlebar, without an intermediate seat in position handlebarseat rev., crossing stretched legs above the saddle, and changing grips to the regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **Turning jump 1173 a:** From sidestand foot cranking jump with half turn of the front wheel to walking on the front wheel. The foot has to be removed from the pedal during the jump. **b:** From regular seat jump with half turn of the front wheel to walking on the front wheel. **Turning jump 1174 a:** From sidestand foot cranking with half turn of the front wheel to backhang. The foot has to be removed from the pedal during the jump. **b:** From regular seat with half turn of the front wheel to the backhang. **c:** From backhang with half turn of the front wheel to the regular seat. **Turning jump (T) 1175** The tactical enlargement of the turning jumps is possible from two to seven, three to eight, from four to nine and from five to ten turning jumps. **a:** From regular seat jump with complete turn of the front wheel to the regular seat. **b-e:** From regular seat jump with, continuous multiple turns to the regular seat. **Pedal jump 1181** From side pedal stand jump simultaneously with feet over the crossbar to side pedal stand on the other side of the bicycle. **Jump Saddle handlebarstand  to fronthandlebarstand 1184** Jump from the Saddle handlebarstand to the fronthandlebarstand that must be performed after the jump, for at least 2 metres. 
+**d**: From regular seat jump with half turn of the front wheel to stand bent on frame reverse. **e:** From regular seat jump with half turn of the front wheel over the handlebar, without an intermediate seat in position handlebarseat rev., crossing stretched legs above the saddle, and changing grips to the regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **Turning jump 1173 a:** From sidestand foot cranking jump with half turn of the front wheel to walking on the front wheel. The foot has to be removed from the pedal during the jump. **b:** From regular seat jump with half turn of the front wheel to walking on the front wheel. **Turning jump 1174 a:** From sidestand foot cranking with half turn of the front wheel to backhang. The foot has to be removed from the pedal during the jump. **b:** From regular seat with half turn of the front wheel to the backhang. **c:** From backhang with half turn of the front wheel to the regular seat. **Turning jump (T) 1175** The tactical enlargement of the turning jumps is possible from two to seven, three to eight, from four to nine and from five to ten turning jumps. **a:** From regular seat jump with complete turn of the front wheel to the regular seat. **b-e:** From regular seat jump with, continuous multiple turns to the regular seat. **Pedal jump 1181** From side pedal stand jump simultaneously with feet over the crossbar to side pedal stand on the other side of the bicycle. **Jump Saddle handlebarstand  to fronthandlebarstand 1184** Jump from the Saddle handlebarstand to the fronthandlebarstand that must be performed after the jump, for at least 2 metres. 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -428,9 +419,7 @@ Page **11** / **71**
 
 Right foot standing on the left rear-pin, left foot standing on the right-frontpin (or counterwise). Chest directed to the saddle, without touching the handlebar with the leg. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-02.png)
-
 
 **2027** 
 
@@ -438,15 +427,11 @@ Right foot standing on the left rear-pin, left foot standing on the right-frontp
 
 Stand in front of the handlebar, back directed to the saddle. One foot on the frontpin, other foot on the down tube. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-06.png)
-
 
 **2031** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-08.png)
-
 
 ## **Sidestand foot cranking** 
 
@@ -454,13 +439,10 @@ Stand in front of the handlebar, back directed to the saddle. One foot on the fr
 
 Stand with one foot on the left rear-pin, other foot on the left pedal (or counterwise), chest directed to the handlebar. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0012-12.png)
-
 
 **----- Start of picture text -----**<br>
 Sidestand  2037<br>Stand with one foot on the left rear-pin, other foot on the left<br>front-pin (or counterwise), chest directed to the handlebar,<br>without touching the handlebar with the leg.<br>Stand on pins  2046<br>Stand with feet each on a rear-pin. Both knees behind the<br>saddle.<br>Stand bent on pin  2047<br>Stand with one foot on the rear-pin, trunk bent forward<br>directed to the handlebar, free leg stretched backwards.<br>Bent knee seat  2051<br>In squat position with one foot on the crossbar, free leg<br>horizontally stretched forward, back directed to the saddle.<br>Knee on saddle  2052<br>Knee on the saddle, trunk bent-forward to the handlebar, free<br>leg stretched backwards in straight line with trunk and head.<br>Lying on saddle; Lying on saddle and handlebar  2061<br>a-b: Lying with front of the body on the saddle, closed<br>legs stretched horizontally backwards.<br>c-d: Lying with front of the body on the saddle, arms<br>stretched sidewards free-hand on the handlebar-grips.<br>Closed legs stretched horizontally backwards.<br>Waterscale  2062<br>Lying with back of the body in a straight line on the handlebar,<br>stretched legs or feet under ( a  and  b ), or on ( c  and  d ) the<br>**----- End of picture text -----**<br>
-
 
 Lying with back of the body in a straight line on the handlebar, stretched legs or feet under ( **a** and **b** ), or on ( **c** and **d** ) the saddle. 
 
@@ -472,9 +454,9 @@ Page **12** / **71**
 
 **Framestand 2066** Stand upright with one foot solely on the down tube, other foot solely on the saddle tube, chest directed to the handlebar. Without touching the feet each other and without touching the handlebar with the leg. **Saddle handlebarstand 2067** Stand free with one foot on the saddle and the other foot on **2068** the handlebar. **Saddlestand 2069** Stand free with feet on the saddle. 
 
-**Fronthandlebarstand, Fronthandlebarstand turn (T) 2070** From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possible up to four half-turns in maximum. **a-f:** Stand free with feet on the handlebar-grips, back directed to the saddle. **g-j:** From fronthandlebarstand after releasing grip connection with half or multiple front wheel turn(s) to the fronthandlebarstand or handlebarstand reverse. After the last turn, ~~the end position has to be held for a least 2 metres in grip connection.~~ and before the grip connection, at least 2 metres must be ridden in the handlebar position. The exercise ends with the grip connection. **aa-ja:** The riders jump simultaneously from regular seat to fronthandlebarstand; further according figure **a-f** ; **g-j. Counter circle fronthandlebarstand (T) 2070 k k-n:** From fronthandlebarstand with half or multiple front **2070 l** wheel turn(s) to the fronthandlebarstand or handlebarstand **2070 m** reverse. Execution of the figure according to the rule for **2070 n** counter circle **8.2.051.** After the last handlebarstand turn, but before the required hand touch, the end position has to be held for at least 2 metres. 
+**Fronthandlebarstand, Fronthandlebarstand turn (T) 2070** From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possible up to four half-turns in maximum. **a-f:** Stand free with feet on the handlebar-grips, back directed to the saddle. **g-j:** From fronthandlebarstand after releasing grip connection with half or multiple front wheel turn(s) to the fronthandlebarstand or handlebarstand reverse. After the last turn, ~~the end position has to be held for a least 2 metres in grip connection.~~ and before the grip connection, at least 2 metres must be ridden in the handlebar position. The exercise ends with the grip connection. **aa-ja:** The riders jump simultaneously from regular seat to fronthandlebarstand; further according figure **a-f**; **g-j. Counter circle fronthandlebarstand (T) 2070 k k-n:** From fronthandlebarstand with half or multiple front **2070 l** wheel turn(s) to the fronthandlebarstand or handlebarstand **2070 m** reverse. Execution of the figure according to the rule for **2070 n** counter circle **8.2.051.** After the last handlebarstand turn, but before the required hand touch, the end position has to be held for at least 2 metres. 
 
-**ka-na:** The riders jump simultaneously from regular seat to the fronthandlebarstand; further according figure **k-n** . 
+**ka-na:** The riders jump simultaneously from regular seat to the fronthandlebarstand; further according figure **k-n**. 
 
 **Handlebarstand rev. 2071** 
 
@@ -502,27 +484,21 @@ Separate performed handstand with one hand on the handlebar and the other hand o
 
 From L-shape hold sidewards, which has to be performed for at least 2 metres, going directly to the handstand without touching the frame with foot/feet. The handstand has to be performed as described in **2076a-c.** The way of stretch HC., C. or count. 8 starts in the position of the saddle handlebar handstand. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0014-08.png)
-
 
 ## **2073** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0014-10.png)
-
 
 **2074** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0014-12.png)
-
 
 **2076 a 2076 b 2076 c** 
 
 **2076 d 2076 e 2076 f** 
 
-The tactical enlargement is possible for the kind of execution as Swiss saddle handlebar handstand, which has to be performed as described in **2076g-i** . The tactical enlargement is possible for the kind of execution as German saddle handlebar handstand, which has to be performed as described in **2076j-l** . 
+The tactical enlargement is possible for the kind of execution as Swiss saddle handlebar handstand, which has to be performed as described in **2076g-i**. The tactical enlargement is possible for the kind of execution as German saddle handlebar handstand, which has to be performed as described in **2076j-l**. 
 
 ## **L-shape hold sidewards Swiss saddle handlebar handstand** 
 
@@ -550,15 +526,13 @@ From L-shape hold or L-shape hold rev, which has to be performed for at least 2 
 
 **2076 j 2076 k 2076 l** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0015-07.png)
-
 
 **2077 a 2077 b 2077 c** 
 
 **2077 d 2077 e 2077 f** 
 
-The tactical enlargement is possible for the kind of execution as Swiss handlebar handstand, which has to be performed as described in **2077g-i** . The tactical enlargement is possible for the kind of execution as German handlebar handstand, which has to be performed as described in **2077j-l** . 
+The tactical enlargement is possible for the kind of execution as Swiss handlebar handstand, which has to be performed as described in **2077g-i**. The tactical enlargement is possible for the kind of execution as German handlebar handstand, which has to be performed as described in **2077j-l**. 
 
 ## **L-shape hold Swiss handlebar handstand** 
 
@@ -580,7 +554,7 @@ Page **15** / **71**
 
 ## **Handlebar support straddle handlebar handstand** 
 
-From handlebar support straddle, which has to be performed for at least 2 metres with stretched legs and stretched arms directly to the handstand, which has to be performed as described in **2077a-c** . The way of stretch of HC., C., S or 8 starts in the position of the handlebar handstand. 
+From handlebar support straddle, which has to be performed for at least 2 metres with stretched legs and stretched arms directly to the handstand, which has to be performed as described in **2077a-c**. The way of stretch of HC., C., S or 8 starts in the position of the handlebar handstand. 
 
 **2077 m 2077 n 2077 o** 
 
@@ -600,8 +574,6 @@ _(text modified on 01.01.12; 01.01.16; 01.01.17; 01.01.20; 01.01.26)_
 |||**4004**|
 ||Half circle**(8.2.043)**||
 ||Circle**(8.2.042)**||
-
-
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -627,9 +599,7 @@ All riders have to ride, following each other, performing a diagonal pull.
 
 Diagonal pull **(8.2.068)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0017-09.png)
-
 
 **4006** 
 
@@ -641,9 +611,7 @@ Page **17** / **71**
 
 A **4 f.e.o. diagonal pull 2 s.r.l. 2 s.r.r.** During the figure, two riders have to perform each a single ring left and two riders have to perform each a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. Single ring left **(8.2.053)** Single ring right **(8.2.054)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0018-01.png)
-
 
 4006 b 
 
@@ -701,8 +669,6 @@ Page **18** / **71**
 ||each rider has to perform a single ring right.||
 ||Single ring right**(8.2.054)**||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -727,9 +693,7 @@ All riders have to ride, next to each other, without grip connection on a common
 
 Half alternate ring **(8.2.057)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0020-09.png)
-
 
 **4015 a 4016 a** 
 
@@ -749,13 +713,9 @@ During the figure, each rider has to perform a single ring left.
 
 Single ring left **(8.2.053)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0020-19.png)
 
-
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0020-20.png)
-
 
 **4017 4018** 
 
@@ -777,9 +737,7 @@ All riders have to perform a 2 connnected wingmill. During the figure, each ride
 
 All riders have to form the grip connection of a 2 connected wingmill and have to release the grip connection in motion, then all riders have to perform 50cm-spinnings on the longitudinal axis or on the transversal axis. After completing the 50cm-spinnings the inside riders have to grip each other with their left hands above the inner circle and have to 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0021-05.png)
-
 
 **4024 c** 
 
@@ -795,9 +753,7 @@ The tactical enlargement has to be awarded after all grip connections have been 
 
 Two riders each have to ride, with same distances, following each other, a half circle / a complete circle around a common point, thus they form a group of riders. The points are located on the longitudinal or transversal axis with equal distances to the inner circle. One rider of each group has to ride with a rider on the other half of the competition surface on 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0021-13.png)
-
 
 **4026 4027 4028 4029** 
 
@@ -857,8 +813,6 @@ Page **22** / **71**
 ||two mills have to be performed. At the moment that all riders are on||
 ||the same level, they have to connect into two mills.||
 
-
-
 ## 2 mills **(8.2.071)** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -883,9 +837,7 @@ Two riders each have to ride, next to each other, without grip connection perfor
 
 Alternate ring **(8.2.058)** Shortline opp. dir. alternate ring **(8.2.060)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0024-08.png)
-
 
 **4044 g 4045 e 4048 b** 
 
@@ -935,9 +887,7 @@ Page **25** / **71**
 
 D **2 con. f.e.o. longline 2 s.r.l. 2 s.r.r.** During the figure, two riders each have to perform a single ring left and two riders each have to perform a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0026-01.png)
-
 
 4082 b 
 
@@ -961,9 +911,7 @@ Single ring left **(8.2.053)**
 
 During the figure, each rider has to perform a single ring right on the transversal axis. During the single ring right, each pair has to ride through the space between the two other riders. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0026-13.png)
-
 
 4083 b 
 
@@ -997,9 +945,7 @@ Half alternate ring **(8.2.057)**
 
 Two riders each have to ride, next to each other, and are connected by a grip connection, thus they form a pair of riders. Both pairs of riders, ride on a common axis which runs parallel to the long side of the competition surface and have to perform an alternate ring. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0027-05.png)
-
 
 **4096 b 4097 b 4098 b 4098 d 4099 b** 
 
@@ -1023,9 +969,7 @@ Single ring left **(8.2.053)** Single ring right **(8.2.054)**
 
 Two riders each are connected by hand-inhand-grip, thus they form a pair of riders. Both pairs of riders are on the same, imaginary axis, which runs through the inner circle or parallel to the long or short side of the competition surface. The distance between the pairs of riders has to be equal. One rider of each pair has to stand on a spot, without 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0028-06.png)
-
 
 **4116 4117** 
 
@@ -1060,8 +1004,6 @@ Page **28** / **71**
 ||During the figure, each rider has to||
 ||perform 50cm-spinnings.||
 ||50cm-spinnings**(8.2.046)**||
-
-
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -1107,8 +1049,6 @@ D **4 con. shortline 2 s.r.l. 2 s.r.r.** 4164 d During the figure, rider 1 and 2
 |Rider 3 has to grip with the left hand to the||
 |right hand of rider 4.||
 
-
-
 Rider 2 has to grip with the left hand to the right hand of rider 3. Rider 3 has to grip with the left hand to the right hand of rider 4. Rider 4 has to grip with the left hand to the left hand of rider 1. 
 
 Half circle **(8.2.043)** Circle **(8.2.042)** 
@@ -1147,9 +1087,7 @@ Half circle **(8.2.043)** Circle **(8.2.042)**
 
 A **Saddlegrip pass through** Starting position is the saddlegrip. Rider 1 and 2 are connected by their left hands. Rider 2, 3, and 4 are still connected to each other by saddlegrip and have to pass rider 1 at the inside. Thus, the riders perform a pass through. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0034-03.png)
-
 
 4197 a 
 
@@ -1211,9 +1149,7 @@ Insidering **(8.2.073)** Circle **(8.2.042)**
 
 All riders have to perform a mill. Mill **(8.2.070)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0036-12.png)
-
 
 **4241 4242 4243 4244** 
 
@@ -1294,8 +1230,6 @@ Page **37** / **71**
 ||**4287**|
 |Door**(8.2.079)**|**4290**|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -1346,9 +1280,7 @@ Alternate ring **(8.2.058)**
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding once through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the mill the own half of the competition surface may be left. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0040-13.png)
-
 
 4288 a 
 
@@ -1356,9 +1288,7 @@ The two other riders are shifted a half way of their stretch, each on one half o
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding twice through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the door, the own half of the competition surface may be left. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0040-17.png)
-
 
 4288 b 4289 a 
 
@@ -1458,9 +1388,7 @@ Two riders have to form a door.
 
 The two other riders have to ride at equal distances, following each other, each once (half door ring) / each twice (door ring) through the space between the door. Thus, the riders who are passing the door perform an insidering. **End of figure:** The door has to stand at least 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0043-03.png)
-
 
 ## **4307 a-b** 
 
@@ -1488,13 +1416,9 @@ Star inside **(8.2.061)**
 
 All riders have to ride with equal distances, following each other, around the middle circle. During the figure all riders have to perform a single ring left. After finishing the single ring left all riders have to form a star inside around the inner circle. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0043-17.png)
 
-
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0043-18.png)
-
 
 **4316 a 4317 a-f** 
 
@@ -1522,9 +1446,7 @@ All riders have to perform a star outside.
 
 Star outside **(8.2.062)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0044-07.png)
-
 
 **4326 a-b 4328 a-d** 
 
@@ -1548,9 +1470,7 @@ All riders have to perform an alternate-star.
 
 Alternate-star **(8.2.063)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0044-19.png)
-
 
 **4327** 
 
@@ -1570,9 +1490,7 @@ Each two riders are connected by a grip connection. During the figure, the grip 
 
 Turn on the spot **(8.2.047)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0045-05.png)
-
 
 **4341** 
 
@@ -1582,9 +1500,7 @@ All riders are connected by a grip connection and have to stand on a common axis
 
 Turn on the spot **(8.2.047)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01.01.26.pdf-0045-10.png)
-
 
 **4342** 
 
@@ -1692,8 +1608,6 @@ Page **46** / **71**
 |1175|<br>d|Turning jump 4 turns T (10,7 - 11,4 - 12,1 - 12,8 - 13,5)|10,0|
 |1175|<br>e|Turning jump 5 turns T (11,8 - 12,5 - 13,2 - 13,9 - 14,6)|11,1|
 
-
-
 ## **Given** 
 
 |||**Given**|**Given**|**Given**|**Given**|**Given**|**Given**|
@@ -1710,8 +1624,6 @@ Page **46** / **71**
 |||8|||**12,3 **|**12,8 **|**13,2 **|
 |||9||||**13,5 **|**13,9 **|
 |||10|||||**14,6 **|
-
-
 
 Figure No. / Name of figure 1181 a Pedal jump 
 
@@ -1764,8 +1676,6 @@ Page **47** / **71**
 ||2022|a|Handlebarseat rev. HC.|0,9|
 ||2022|b|Handlebarseat rev. C.|1,0|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -1814,8 +1724,6 @@ Page **48** / **71**
 |2062|b|<br>Waterscale under saddle C.|1,7|
 |2062|c|<br>Waterscale on saddle HC.|2,2|
 |2062|d|<br>Waterscale on saddle C.|2,4|
-
-
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
@@ -1872,8 +1780,6 @@ Page **49** / **71**
 |||(8,5 - 9,0 - 9,5 - 10,0)||
 |2070|<br>ma|Count. C fronthandlebarstand 1½ turns out of regular seat T|8,8|
 
-
-
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 Page **50** / **71** 
@@ -1905,8 +1811,6 @@ Page **50** / **71**
 |||4||||**11,5**|
 ||||||Point value<br>3,9<br>4,1<br>3,9<br>4,1<br>5,0<br>5,7<br>4,4<br>4,6<br>4,2<br>4,4<br>9,2<br>9,6||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -1933,8 +1837,6 @@ Page **51** / **71**
 |||separate C.|||
 |2076|l|L-shape hold sdw. German saddle handlebar handstand count. 8||15,4|
 
-
-
 |||||**Given**|**Given**||||
 |---|---|---|---|---|---|---|---|---|
 |||||2076d|2076e<br>2076f||||
@@ -1960,8 +1862,6 @@ Page **51** / **71**
 |2077||<br>o|Handlebar support straddle handlebar handstand separate|||||14,1|
 ||||count. 8||||||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -1978,8 +1878,6 @@ Page **52** / **71**
 ||2076k||**12,9**||
 ||2076l|||**14,7**|
 
-
-
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
 |2079|a|Jump Saddle handlebarstand to fronthandlebarstand|8,4|
@@ -1989,8 +1887,6 @@ Page **52** / **71**
 |2091|c|Stillstand pedal frontwheel|1,1|
 |2091|d|Stillstand pedal frontwheel frh.|1,6|
 
-
-
 _(text modified on 01.01.12; 01.01.16; 01.01.20; 01.01.26)_ 
 
 ## **§ 3 Artistic Cycling Team 4** 
@@ -1999,8 +1895,6 @@ _(text modified on 01.01.12; 01.01.16; 01.01.20; 01.01.26)_
 
 |Figure No.<br>4001<br>a<br>4001<br>b<br>4001<br>c<br>4001<br>d<br>4001<br>e<br>4001<br>f<br>4001<br>g<br>4001<br>h<br>4001<br>i<br>4002<br>a<br>4002<br>b<br>4002<br>c<br>4002<br>d<br>4002<br>e<br>4003<br>a<br>4003<br>b<br>4003<br>c<br>4003<br>d<br>4003<br>e<br>4003<br>f<br>4003<br>g<br>4003<br>h|/ Name of figure<br>Point value<br>4 f.e.o. HC.<br>0,8<br>4 f.e.o. C.<br>1,0<br>4 f.e.o. HC. 4 s.r.l.<br>1,4<br>4 f.e.o. C. 4 s.r.l.<br>1,6<br>4 f.e.o. HC. 4 s.r.r.<br>1,4<br>4 f.e.o. C. 4 s.r.r.<br>1,6<br>4 f.e.o. HC. 2 s.r.l. 2 s.r.r.<br>1,6<br>4 f.e.o. C. 2 s.r.l. 2 s.r.r.<br>1,8<br>~~4 f.e.o.~~ 4 a.r. overlapping<br>2,7<br>4 f.e.o. HC. bw.<br>1,6<br>4 f.e.o. C. bw.<br>2,0<br>4 f.e.o. HC. 4 s.r.l. bw.<br>2,7<br>4 f.e.o. C. 4 s.r.l. bw.<br>3,1<br>~~4 f.e.o.~~ 4 a.r. overlapping bw.<br>4,9<br>4 f.e.o. HC. Raiser<br>2,0<br>4 f.e.o. C. raiser<br>2,5<br>4 f.e.o. HC. raiser frh.<br>2,6<br>4 f.e.o. C. raiser frh.<br>3,3<br>4 f.e.o. HC. 4 s.r.l. raiser<br>3,4<br>4 f.e.o. C. 4 s.r.l. raiser<br>3,9<br>4 f.e.o. HC. 4 s.r.l. raiser frh.<br>4,4<br>4 f.e.o. C. 4 s.r.l. raiser frh.<br>5,1|
 |---|---|
-
-
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -2048,8 +1942,6 @@ Page **53** / **71**
 |4017|b|4|n.e.o. shortline 4 s.r.l.|1,6|
 |4018|a|4|n.e.o. shortline bw.|2,1|
 |4018|b|4|n.e.o. shortline 4 s.r.l. bw.|3,2|
-
-
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
@@ -2103,8 +1995,6 @@ Page **54** / **71**
 |4044|f|2 n.e.o. half shortline opp. dir. a.r.|2,0|
 |4044|g|2 n.e.o. shortline opp. dir. a.r.|2,4|
 
-
-
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 Page **55** / **71** 
@@ -2154,8 +2044,6 @@ Page **55** / **71**
 |4074|b|2 con. C. raiser bw. frh.||2,6|
 |4074|c|2 con. HC. 2 con. s.r.l. raiser bw. frh.||2,4|
 |4074|d|2 con. C. 2 con. s.r.l. raiser bw. frh.||3,2|
-
-
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -2207,8 +2095,6 @@ Page **56** / **71**
 |4099|b|2|con. shortline a.r. raiser bw. frh.|4,7|
 |4105|a|2|con. shortline opp. dir.|1,2|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -2259,8 +2145,6 @@ Page **57** / **71**
 |4134|d|Two insiderings 4 s.r.r. raiser bw. in- a. outside indiv. frh.|8,5|
 |4134|e|Two insiderings spin. raiser bw. in- a. outside indiv. frh.|10,7|
 |||T (11,7)||
-
-
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
@@ -2315,8 +2199,6 @@ Page **58** / **71**
 |4161|c|4 con. shortline 2 con. s.r.r.|1,5|
 |4161|d|4 con. shortline 4 s.r.l.|1,6|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -2362,8 +2244,6 @@ Page **59** / **71**
 |4199|a|Saddlegripring bw.|1,6|
 |4199|b|Saddlegripring bw. inside indiv.|2,6|
 |4199|c|Saddlegripring bw. in- a. outside indiv.|3,0|
-
-
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -2417,8 +2297,6 @@ Page **60** / **71**
 |4232|d|2|con. wingring|insidering with 2 f.e.o. C. raiser frh.|4,9|
 |4233|a|2|con. wingmill|mill with 2 f.e.o. C. raiser bw. frh.|5,3|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -2471,8 +2349,6 @@ Page **61** / **71**
 |4267|e|Ring with alternate grips raiser in- a. outside indiv.|4,5|
 |4267|f|Ring with alternate grips raiser in- a. outside indiv. frh.|5,9|
 
-
-
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 Page **62** / **71** 
@@ -2523,8 +2399,6 @@ Page **62** / **71**
 |4287|a|Opp. dir. door sim. Raiser|6,0|
 |4287|b|Opp. dir. door sim. raiser frh.|6,8|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -2571,8 +2445,6 @@ Page **63** / **71**
 |4327|e|Alternate-star raiser bw. inside indiv. frh.|8,0|
 |4328|a|Star outside raiser|2,5|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -2595,8 +2467,6 @@ Page **64** / **71**
 |4342|b|4 con. raiser 1 turn on the spot|8,1|
 |4342|c|4 con. raiser 1½ turns on the spot|9,1|
 |4342|d|4 con. raiser 2 turns on the spot|10,1|
-
-
 
 _(text modified on 01.01.16; 01.01.17; 01.01.20; 01.01.22, 01.01.26)_ 
 
@@ -2710,8 +2580,6 @@ _(text modified on 01.01.26)_
 ||||||Maximum number of teams||||
 |||3 (3 Rounds)|||2 (3 Rounds)||1 (3 Rounds)|1 (1 Round)|
 
-
-
 If the maximum entries are not fully used by the eligible National Federations, other National Federations that have no or only one entry may register for the available entries. In this case a National Federation may only get a maximum of 2 entries per discipline. The application for additional entries is made by the registration for the respective preliminary round. 
 
 The allocation of the additional entries is as follows: 
@@ -2751,8 +2619,6 @@ The groups will be determined by the UCI Cycle-ball Ranking based on the season 
 |6th highest rank in UCI Ranking|5th highest rank in UCI Ranking|
 |8th highest rank in UCI Ranking|7th highest rank in UCI Ranking|
 
-
-
 If 3 teams from the same nation are in the same group, the second team will be changed with the first possible team from another nation in order of the UCI Ranking. 
 
 |1|1sthighest rank in UCI Ranking|:|8th highest rank in UCI Ranking|Qualification|
@@ -2775,8 +2641,6 @@ If 3 teams from the same nation are in the same group, the second team will be c
 |15|4A|:|4B|Place 7/8|
 |16|3A|:|4B|Place 5/6|
 |17|L13|:|L14|Bronze Game|
-
-
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -2809,8 +2673,6 @@ Final mode
 ||~~Game for 9th~~||~~5th~~|~~group 1~~||~~5th~~|~~group 2~~|
 |||||||||
 
-
-
 In case of a draw in the games for the places 1 to 4, a play-off will decide. If the play-off leads to a draw, penalty-kicks follow. 
 
 In case of a draw in the games for the places 5 – 8, the teams shoot penaltykicks. 
@@ -2834,8 +2696,6 @@ The groups for the preliminary round at the UCI Cycle-ball World Cup Final will 
 ||Rank 4||Rank 3|
 ||Rank 5||Rank 6|
 ||Wild Card participant||Asia representative|
-
-
 
 If two teams from the same nation qualify for the final, they will be set in different groups. 
 
@@ -2879,13 +2739,10 @@ The order of teams will be determined by the UCI Ranking based on 1 month before
 |12|L10|:|L11|Bronze Game|
 |13|W10|:|W11|Final|
 
-
-
 _(article introduced on 01.01.26)_ 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-Page **71** / **71** 
-
+Page **71** / **71**

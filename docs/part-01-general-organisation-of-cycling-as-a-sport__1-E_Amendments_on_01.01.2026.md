@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5Xb7NjQq4EnBY3TsmuMDSF/de0
 source_sha256: efc994350db6b761f618aba9e564a43e352f631a8c25b0da929c060e18be2009
 converter: pymupdf4llm
 ---
-
 16.06.2025 
 
-
 ![](images/1-E_Amendments_on_01.01.2026.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -35,9 +32,7 @@ Wheels approved in mass start competitions in the disciplines of road and cycloc
 
 - the maximum height of the rim does not measure more than 65 mm (measured as the perpendicular distance from the tangential line passing through any point of the outer extremity of the rim to the inner extremity of the rim), see illustration below; 
 
-
 ![](images/1-E_Amendments_on_01.01.2026.pdf-0002-00.png)
-
 
 - have at least 12 spokes, which can be round, flattened or oval, provided that no dimension of their sections exceeds 10 mm. 
 
@@ -55,5 +50,4 @@ In track competition, including motor-pacing, the use of a front disc wheel is o
 
 Notwithstanding this article, the choice and use of wheels remains subject to articles 1.3.001 to 1.3.003. 
 
-_(text modified on 01.01.02; 01.01.03; 01.09.03; 01.01.05; 01.07.10; 01.10.13; 01.01.16, 25.06.19, 01.01.24; 01.01.26)_ 
-
+_(text modified on 01.01.02; 01.01.03; 01.09.03; 01.01.05; 01.07.10; 01.10.13; 01.01.16, 25.06.19, 01.01.24; 01.01.26)_

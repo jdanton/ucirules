@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/NAeT9EN3grfH1b8uTXoYv/9374
 source_sha256: 7e9caf4a6b22e654f0b9499e091ad353a27dfb39ff6d682b5758894d683c02eb
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0001-01.png)
-
 
 ## **PART II - ROAD RACES** 
 
@@ -30,13 +27,9 @@ MEMORANDUM 01.07.2025
 |UCI Europe Tour|ME<br>MU|1.Pro<br>2.Pro|-UCI WorldTeams (max~~70%~~72%)<br>-UCI ProTeams<br>-UCI continental teams of the country<br>(1)<br>-UCI cyclo-cross professional teams<br>of the country(1)<br>-Foreign<br>UCI<br>continental<br>teams<br>(max. 2)(1)<br>-National team of the country of the<br>organiser|
 |||1.1<br>2.1|-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 
-
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0002-01.png)
-
 
 |**International**<br>**Calendar**|**Category**<br>**of event**|**Class**||**Participation**|
 |---|---|---|---|---|
@@ -49,11 +42,7 @@ MEMORANDUM 01.07.2025
 |||Ncup<br>1.2<br>Ncup<br>2.2||-National teams<br>-Regional and club teams (max 16%)<br>(2)<br>-Mixed teams|
 |Women Elite|WE|1.WWT<br>2.WWT||-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br>~~- UCI women~~’~~s continental teams~~<br>~~- UCI cyclo-cross professional teams~~<br>-National team from the country of the<br>organiser with the agreement of the<br>UCI<br>- (4)|
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0003-00.png)
-
 
 ## MEMORANDUM 
 
@@ -71,8 +60,6 @@ MEMORANDUM 01.07.2025
 |Women Junior|WJ|1.Ncup<br>2.Ncup||- <br>- <br>-|National teams<br>Regional and club teams<br>Mixed teams|
 |||1.1<br>2.1||- <br>- <br>-|National teams<br>Regional and club teams<br>Mixed teams WJ 1|
 
-
-
 _(1) In order to compete in a UCI ProSeries event, UCI Continental Teams and UCI cyclocross professional teams must contribute to the programme for the fight against doping related to UCI ProSeries events as provided in the Financial Obligations published on the UCI website; the teams concerned will be included in a list published on the UCI website._ 
 
 _(2) Only regional and club teams from the country of the organiser or border country and only if the national team of the country of the regional or club team is also taking part in the event._ 
@@ -87,19 +74,17 @@ In order to compete in a UCI WorldTour race, riders must have submitted accurate
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0004-01.png)
-
 
 for a minimum period of 6 weeks and have been subject to testing in accordance with the athlete biological passport programme as implemented by the UCI. 
 
-_(text modified on 1.01.99; 1.01.05; 1.01.06; 1.10.06; 25.09.07; 1.01.08; 1.1.09; 1.07.09; 1.10.09; 1.10.10; 1.07.11; 1.07.12; 1.10.13; 1.01.14; 1.01.15; 1.01.16; 12.01.17; 1.02.17; 1.01.18; 23.10.19; 1.01.20; 9.11.20; 1.01.24 ; 1.07.24,1.01.25; 20.10.25)._ 
+_(text modified on 1.01.99; 1.01.05; 1.01.06; 1.10.06; 25.09.07; 1.01.08; 1.1.09; 1.07.09; 1.10.09; 1.10.10; 1.07.11; 1.07.12; 1.10.13; 1.01.14; 1.01.15; 1.01.16; 12.01.17; 1.02.17; 1.01.18; 23.10.19; 1.01.20; 9.11.20; 1.01.24; 1.07.24,1.01.25; 20.10.25)._ 
 
 ## **2.1.007  Obligatory invitations to events on the international calendar bis** 
 
 **Provisions for Grand Tours and UCI WorldTour stage races** 
 
-The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)] , according to the followings: 
+The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)], according to the followings: 
 
 |**Number of**<br>**UCI WorldTeams**|**Obligatory**<br>**Invitation of best**<br>**UCI ProTeams(2)**|**Remaining wild cards**<br>**for Organisers**|**Remaining wild cards**<br>**for Organisers**|
 |---|---|---|---|
@@ -107,8 +92,6 @@ The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, a
 |18|~~2~~3|~~3~~2|~~5~~4|
 |17|~~3~~4|~~3~~2|~~5~~4|
 |16|~~3~~4|~~4~~3|~~6~~5|
-
-
 
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
@@ -128,13 +111,11 @@ UCI ProTeams that accept the obligatory invitation from the organiser (except wi
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0005-01.png)
-
 
 ## **Provisions for UCI WorldTour one-day races** 
 
-The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)] , according to the followings: 
+The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)], according to the followings: 
 
 |**Number of**<br>**UCI WorldTeams**|**Obligatory Invitation of**<br>**best UCI ProTeams(2) (3)**|**Remaining wild cards**<br>**for Organisers(3)**|
 |---|---|---|
@@ -142,15 +123,13 @@ The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, a
 |17|4|4|
 |16|4|5|
 
-
-
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
 > _**(2)** Invitations declined by invited UCI ProTeams may be used by the organiser as additional wild cards._ 
 
 ## **Provisions for UCI Women’s WorldTour events** 
 
-The organiser must send an invitation to all UCI Women's WorldTeams and to the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , in accordance with the following provisions. 
+The organiser must send an invitation to all UCI Women's WorldTeams and to the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)], in accordance with the following provisions. 
 
 In the event that the number of UCI Women's WorldTeams is less than 13, the number of obligatory invitations to the UCI Women’s ProTeam, based on the abovementioned ranking, shall be increased accordingly in order to ensure a minimum number of 15 invitations to the UCI WorldTeams and UCI Women’s ProTeam. 
 
@@ -168,9 +147,7 @@ _(text modified on 1.01.06; 1.01.07; 1.10.10; 1.02.11; 1.07.11; 1.07.12; 1.10.13
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0006-01.png)
-
 
 ## **Chapter X  UCI RANKINGS** 
 
@@ -209,11 +186,7 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**19**|70|55|50|30|24|
 |**20**|60|50|50|30|24|
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0007-00.png)
-
 
 ## MEMORANDUM 
 
@@ -255,11 +228,7 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**52 **|20|15|10|5|4|
 |**53**|20|15|10|5|4|
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0008-00.png)
-
 
 ## MEMORANDUM 
 
@@ -274,8 +243,6 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**58**|15|10|5|3|2|
 |**59**|15|10|5|3|2|
 |**60**|15|10|5|3|2|
-
-
 
 ## **Results in prologue and stages in UCI WorldTour events** 
 
@@ -296,19 +263,13 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**12**|20|15||||||
 |**13**|15|10||||||
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0009-00.png)
-
 
 MEMORANDUM 01.07.2025 
 
 |**14**|10|5||||
 |---|---|---|---|---|---|
 |**15**|5|2||||
-
-
 
 ## **Final position in Grand Tours secondary classifications (points and mountains classifications)** 
 
@@ -318,16 +279,12 @@ MEMORANDUM 01.07.2025
 |**2**|150|130|
 |**3**|110|95|
 
-
-
 ## **Wearing the race leader’s jersey in a UCI WorldTour event (per stage)** 
 
 |Position|Tour de<br>France|Giro<br>d'Italia,<br>La Vuelta<br>Ciclista a<br>España|Santos Tour<br>Down Under,<br>UAE Tour, Paris -<br>Nice, Tirreno -<br>Adriatico, Tour de<br>Romandie,<br>Critérium du<br>Dauphiné, Tour<br>de Suisse|Volta Ciclista a<br>Catalunya,<br>Itzulia Basque<br>Country, Tour de<br>Pologne,<br>Renewi Tour,<br>Tour of Guangxi||~~UAE Tour,~~<br>~~Tour of~~<br>~~Guangxi~~|~~UAE Tour,~~<br>~~Tour of~~<br>~~Guangxi~~|
 |---|---|---|---|---|---|---|---|
 |||||||<br> <br>~~G~~||
 |**1**|25|20|10|8|||~~6~~|
-
-
 
 ## **Final results in continental calendar events** 
 
@@ -354,11 +311,7 @@ MEMORANDUM 01.07.2025
 |**19**||~~5 6~~|3|||1||
 |**20**||~~5~~ 6|3|||1||
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0010-00.png)
-
 
 ## MEMORANDUM 
 
@@ -387,8 +340,6 @@ MEMORANDUM 01.07.2025
 |**39**|3||||||
 |**40**|3||||||
 
-
-
 ## **- Prologue, stages and half stages in continental calendar events** 
 
 |Position|UCI ProSeri<br>es|Class 1|Class 2|2.2U|Ncup<br>Tour de<br>l’Avenir|Ncup|
@@ -399,16 +350,12 @@ MEMORANDUM 01.07.2025
 |**4**|5||||||
 |**5**|3||||||
 
-
-
 ## **Wearing the race leader’s jersey in a continental calendar event (per stage)** 
 
 |**stage)**|||||||
 |---|---|---|---|---|---|---|
 |Positi<br>on|UCI ProSer<br>ies|Class 1|Class 2|2.2U|Ncup<br>Tour de<br>l’Avenir|Ncup|
 |**1**|5|3|1|1|2|1|
-
-
 
 ## **Final results of national championships** 
 
@@ -421,13 +368,9 @@ MEMORANDUM 01.07.2025
 |**4**|50|15|15|5|15|5|
 |**5**|40|10|10|3|10|3|
 
-
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0011-01.png)
-
 
 |Position|Men Elite|Men Elite|Men Elite||Men Under 23|Men Under 23|
 |---|---|---|---|---|---|---|
@@ -442,8 +385,6 @@ MEMORANDUM 01.07.2025
 |**13**|1||||||
 |**14**|1||||||
 |**15**|1||||||
-
-
 
 _* Category A corresponds to the Men Elite national championships of nations that had at least one rider starting the road race of the Men Elite UCI Road world championships in the previous season. Category B corresponds to the Men Elite national championships of all nations not included in Category A._ 
 
@@ -481,11 +422,7 @@ When two or three nations are organising joint National Championships, results w
 |**23**|5||||
 |**24**|5||||
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0012-00.png)
-
 
 ## MEMORANDUM 
 
@@ -511,8 +448,6 @@ When two or three nations are organising joint National Championships, results w
 |**39**|1||||
 |**40**|1||||
 
-
-
 _* The UCI Management Committee will annually determine which continental games will receive points._ 
 
 Where elite and under 23 men compete in their continental championships in the same event, points shall be awarded according to the elite points scale. 
@@ -532,8 +467,6 @@ Where elite and under 23 men compete in their continental championships in the s
 |_9_|5|
 |_10_|3|
 
-
-
 If a continental confederation organises a separate team time trial event for the Men Under 23 category, no UCI points shall be awarded for that event. 
 
 ## **Final results of team time trial mixed relay of the Continental Championships** 
@@ -551,13 +484,9 @@ If a continental confederation organises a separate team time trial event for th
 |_9_|5|
 |_10_|3|
 
-
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0013-01.png)
-
 
 Points shall be split between finishing male riders based on final mixed relay classification. Calculations shall be rounded to a hundredth of a point. 
 
@@ -613,11 +542,7 @@ If a continental confederation organises a separate team time trial event for th
 |**43**|15||||
 |**44**|15||||
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0014-00.png)
-
 
 ## MEMORANDUM 
 
@@ -642,8 +567,6 @@ If a continental confederation organises a separate team time trial event for th
 |**58**|5||||
 |**59**|5||||
 |**60**|5||||
-
-
 
 **Final results in the team time trial mixed relay of the UCI Road World Championships** 
 
@@ -675,17 +598,13 @@ If a continental confederation organises a separate team time trial event for th
 |**_24_**|_5_|
 |**_25_**|_5_|
 
-
-
 Points shall be split between finishing male riders based on final mixed relay classification. Calculations shall be rounded to a hundredth of a point. 
 
 _(article introduced on 1.01.16; modified on 1.01.17; 25.10.17; 22.10.18; 1.01.19; 23.10.19, 1.01.23; 17.06.24, 20.10.25)._ 
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0015-01.png)
-
 
 ## **§ 2 Elite and Under 23 Women’s UCI World Ranking** 
 
@@ -713,11 +632,7 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**8**|360|285|200|125|100|
 |**9**|295|235|160|100|80|
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0016-00.png)
-
 
 ## MEMORANDUM 
 
@@ -753,11 +668,7 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**35**|35|25|15|10|8|
 |**36**|35|25|15|10|8|
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0017-00.png)
-
 
 ## MEMORANDUM 
 
@@ -790,13 +701,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**59**|15|10|5|3|2|
 |**60**|15|10|5|3|2|
 
-
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0018-01.png)
-
 
 ## **Results in prologue and stages in UCI Women’s WorldTour events** 
 
@@ -819,8 +726,6 @@ MEMORANDUM 01.07.2025
 |**14**|10|5|||
 |**15**|5|2|||
 
-
-
 ## **Final position in Grand Tours secondary classifications (points and** 
 
 ## **mountains classifications)** 
@@ -831,13 +736,9 @@ MEMORANDUM 01.07.2025
 |**2**|150|130|
 |**3**|110|95|
 
-
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0019-01.png)
-
 
 ## ~~**Wearing the race leader's jersey (per stage)**~~ 
 
@@ -846,15 +747,11 @@ MEMORANDUM 01.07.2025
 |||||||||||
 |~~**Leader**~~|||~~8~~||~~5~~||~~3~~||~~1~~|
 
-
-
 ## **Wearing the race leader’s jersey in a UCI Women’s WorldTour event (per stage)** 
 
 |Position|Tour de<br>France<br>Femmes|Giro<br>d'Italia<br>Women,<br>Vuelta<br>España<br>Femenina|Santos Tour<br>Down Under,<br>UAE Tour<br>Women, Tour de<br>Romandie<br>Féminin, Tour de<br>Suisse Women|Itzulia Women,<br>Vuelta a Burgos<br>Feminas, Tour<br>of Britain<br>Women, Simac<br>Ladies Tour,<br>Tour of<br>Chongming<br>Island|
 |---|---|---|---|---|
 |**1**|25|20|10|8|
-
-
 
 ## ~~**One-day events and stage races (final classification)**~~ **Final results in Continental Calendar Events** 
 
@@ -887,13 +784,9 @@ MEMORANDUM 01.07.2025
 |**25**|~~16~~|||~~5~~6|3||
 |**26**|~~16~~|||~~3 ~~5|||
 
-
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0020-01.png)
-
 
 |Position|~~UCI Women~~’~~s WorldTour~~|UCI ProSeries|Class 1|Class 2|
 |---|---|---|---|---|
@@ -912,8 +805,6 @@ MEMORANDUM 01.07.2025
 |**39**|~~8~~|3|||
 |**40**|~~8~~|3|||
 
-
-
 ## ~~**Stages and half-stages**~~ 
 
 ||~~Position~~|~~Position~~||~~UCI Women~~’~~s~~<br>~~WorldTour~~|~~UCI Women~~’~~s~~<br>~~WorldTour~~||~~UCI ProSeries~~||~~Class 1~~||~~Class 2~~|
@@ -930,8 +821,6 @@ MEMORANDUM 01.07.2025
 |||~~**9**~~|||~~8~~|||||||
 |||~~**10**~~|||~~6~~|||||||
 
-
-
 ## **Prologue, stages and half-stages in continental calendar events** 
 
 |Position|UCI ProSeries|Class 1|Class 2|2.2U|
@@ -942,21 +831,15 @@ MEMORANDUM 01.07.2025
 |**4**|5||||
 |**5**|3||||
 
-
-
 **Wearing the race leader’s jersey in a continental calendar events (per stage)** 
 
 |Positi<br>on|UCI ProSer<br>ies|Class 1|Class 2|2.2U|
 |---|---|---|---|---|
 |**1**|5|3|1|1|
 
-
-
 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0021-01.png)
-
 
 ## MEMORANDUM 
 
@@ -980,8 +863,6 @@ MEMORANDUM 01.07.2025
 |**13**|1||||||
 |**14**|1||||||
 |**15**|1||||||
-
-
 
 _* Category A corresponds to the women elite national championships of nations that had at least one rider starting the road race of the women elite UCI Road World Championships in the previous season. Category B corresponds to the women elite national championships of all nations not included in Category A._ 
 
@@ -1013,11 +894,7 @@ When two or three nations are organising joint National Championships, results w
 |**17**|10||3||
 |**18**|5||3||
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0022-00.png)
-
 
 ## MEMORANDUM 
 
@@ -1049,8 +926,6 @@ When two or three nations are organising joint National Championships, results w
 |**39**|1||||
 |**40**|1||||
 
-
-
 _* The UCI Management Committee will annually determine which Continental games will receive points._ 
 
 Where Elite and Under 23 compete in their continental championships or continental game in the same event, points shall be awarded according to the Women Elite points scale. 
@@ -1079,11 +954,7 @@ Where Elite and Under 23 compete in their continental championships or continent
 |**_17_**||~~30~~45|~~5~~10|5|3|
 |**_18_**||~~30~~45|~~5~~10|5|3|
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0023-00.png)
-
 
 ## MEMORANDUM 
 
@@ -1135,8 +1006,6 @@ Where Elite and Under 23 compete in their continental championships or continent
 |**59**|~~3~~5||||
 |**60**|~~3~~5||||
 
-
-
 ## _**Final results of team time trial mixed relay world championships**_ 
 
 |_Position_|_Women Elite_|
@@ -1147,11 +1016,7 @@ Where Elite and Under 23 compete in their continental championships or continent
 |**4**|_150_|
 |**5**|_125_|
 
-
-
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0024-00.png)
-
 
 MEMORANDUM 01.07.2025 
 
@@ -1177,8 +1042,6 @@ MEMORANDUM 01.07.2025
 |**23**|_5_|
 |**24**|_5_|
 |**25**|_5_|
-
-
 
 The points shall be split between finishing female riders based on final mixed relay classification. Calculations shall be rounded to a hundredth of a point. 
 
@@ -1206,9 +1069,7 @@ _(text modified on 1.01.16; 20.10.25 )._
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0025-01.png)
-
 
 _(paragraph introduced on 1.01.07)._ 
 
@@ -1258,9 +1119,7 @@ The number of days of racing per country shall not exceed 15% of the total numbe
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0026-01.png)
-
 
 A country of whom the total number of racing days on the UCI ProSeries exceeds the aforementioned limit will not be allowed to register additional events on the UCI ProSeries calendar. 
 
@@ -1288,13 +1147,9 @@ UCI ProSeries events may not be placed on the calendar between the end of the se
 |Minimum<br>number<br>of<br>UCI<br>WorldTeams<br>and<br>UCI<br>ProTeams at the start for the<br>relevant year|<br> <br>|~~6~~||~~6~~||~~8~~|10|
 |Minimum<br>number<br>of<br>UCI<br>WorldTeams at the start for the<br>relevant year|<br>|~~-~~||~~-~~||~~1~~|3|
 
-
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/2-ROA-20251020-E-amendments_on_20.10.25.pdf-0027-01.png)
-
 
 Minimum number of UCI ProTeams at the start for the ~~-~~ 5 relevant year 
 
@@ -1324,5 +1179,4 @@ The eligibility criteria for submitting an application for registration on the U
 
 The UCI Management Committee may also take acknowledged facts into account. 
 
-_(text modified on 12.06.20, 20.10.25)._ 
-
+_(text modified on 12.06.20, 20.10.25)._

@@ -4,41 +4,17 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3yzOk640gEd8yy8jeN0cYR/5d5
 source_sha256: a86963cb62eb5f4730d0f894045261bd9df37230830d07a66453851824628130
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 17 CYCLING ESPORTS** 
 
 ## **Version on 01.01.2026** 
 
-## **TABLE OF CONTENTS** 
-
 Page 
-
-|**ABLE**|**OF CONTENTS**<br>Page|
-|---|---|
-|**Chapter**|**I GENERAL PROVISIONS .................................................................................................. 2**|
-|§ 1|Cycling esports platform ...................................................................................................... 2|
-|§ 2|Categories of riders ............................................................................................................. 3|
-|§ 3|Race types........................................................................................................................... 3|
-|§ 4|Eligibility of participants ........................................................................................................ 4|
-|§ 5|Commissaires ...................................................................................................................... 4|
-|§ 6|Calendar .............................................................................................................................. 4|
-|**Chapter**|**II EQUIPMENT .................................................................................................................... 4**|
-|**Chapter**|**III PERFORMANCE VERIFICATION .................................................................................. 5**|
-|**Chapter**|**IV SPECIFIC REGULATIONS FOR CYCLING ESPORTS EVENTS ................................... 5**|
-|**Chapter**|**V DATA .............................................................................................................................. 6**|
-|**Chapter**|**VI SPECIFIC INFRINGEMENTS FOR CYCLING ESPORTS .............................................. 6**|
-
-
 
 CYCLING ESPORTS 
 
 E0925 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 17 CYCLING ESPORTS** 
 
@@ -76,8 +52,6 @@ E0925
 
 2 
 
-**UCI CYCLING REGULATIONS** 
-
 riders shall have equal access to each variant. 
 
 _(article introduced on 01.01.2026)_ 
@@ -113,8 +87,6 @@ CYCLING ESPORTS
 E0925 
 
 3 
-
-**UCI CYCLING REGULATIONS** 
 
 that has riders competing from multiple locations, is available to event organisers. 
 
@@ -160,8 +132,6 @@ E0925
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 calibration or offset procedure for power meters or smart trainers. 
 
 _(text modified on 01.01.2026)_ 
@@ -205,8 +175,6 @@ CYCLING ESPORTS
 E0925 
 
 5 
-
-**UCI CYCLING REGULATIONS** 
 
 - e) Specific performance verification measures and requirements. 
 
@@ -260,8 +228,6 @@ E0925
 |||Third violation:Lifetime suspension + 5000 CHF fine|
 ||||
 
-
-
 CYCLING ESPORTS 
 
 E0925 
@@ -290,9 +256,7 @@ Using any software or hardware device to control trainer resistance besides that
 
 First violation: Refusal to start, elimination or disqualification + 200 CHF fine Second violation: One-year suspension + 1000 CHF fine Third violation: Lifetime suspension + 5000 CHF fine 
 
-
 ![](images/17-CES-20260101-E.pdf-0008-11.png)
-
 
 ## **13. Use of Bots / Simulated Riders** 
 
@@ -312,9 +276,7 @@ E0925
 
 **17. Fabrication or Modification of Data Submitted** First violation: One-year suspension + 1000 CHF fine Second **to the Performance Verification Entity, or otherwise failing to** violation: Lifetime suspension + 5000 CHF fine **provide accurate information that is reasonably requested.** 
 
-
 ![](images/17-CES-20260101-E.pdf-0009-04.png)
-
 
 ## **18. Miscalibration / Data Modification / Tampering with Equipment** 
 
@@ -350,5 +312,4 @@ CYCLING ESPORTS
 
 E0925 
 
-10 
-
+10

@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4x2vC8gH7hE38xE4A20PVp/4c0
 source_sha256: beb676afc8bdcc4addafe68db859452669a0c53f84a03b8c4b8b7debc7f4b972
 converter: pymupdf4llm
 ---
-
-
 ![](images/UCIProSeries_17062026.pdf-0001-00.png)
-
 
 ## **Participation Equipes Continentales UCI – Epreuves UCI ProSeries | Saison 2026** 
 
@@ -15,9 +12,9 @@ converter: pymupdf4llm
 
 ## **2.1.005** 
 
-[…] Pour prendre le départ d’une épreuve UCI ProSeries, les équipes continentales UCI et les équipes professionnelles cyclo-cross UCI doivent contribuer au programme de lutte contre le dopage lié aux épreuves de l’UCI ProSeries tel que défini dans les obligations financières publiées par l’UCI ; les équipes concernées figureront sur une liste publiée sur le site Internet de l’UCI. […]. 
+[…] Pour prendre le départ d’une épreuve UCI ProSeries, les équipes continentales UCI et les équipes professionnelles cyclo-cross UCI doivent contribuer au programme de lutte contre le dopage lié aux épreuves de l’UCI ProSeries tel que défini dans les obligations financières publiées par l’UCI; les équipes concernées figureront sur une liste publiée sur le site Internet de l’UCI. […]. 
 
-(texte modifié aux 1.01.99; 1.01.05; 1.01.06; 1.10.06; 25.09.07; 1.01.08; 1.01.09; 1.07.09; 1.10.09; 1.10.10; 1.07.11; 1.07.12; 1.10.13 ; 1.01.15 ; 1.01.16 ; 12.01.17 ; 1.02.17 ; 1.01.18 ; 23.10.19 ; 1.01.20 ; 9.11.20 ; 1.1.24 ; 1.01.25 ; 1.01.26). 
+(texte modifié aux 1.01.99; 1.01.05; 1.01.06; 1.10.06; 25.09.07; 1.01.08; 1.01.09; 1.07.09; 1.10.09; 1.10.10; 1.07.11; 1.07.12; 1.10.13; 1.01.15; 1.01.16; 12.01.17; 1.02.17; 1.01.18; 23.10.19; 1.01.20; 9.11.20; 1.1.24; 1.01.25; 1.01.26). 
 
 Veuillez trouver ci-après les Equipes Continentales UCI et équipes professionnelles cyclo-cross UCI ayant rempli les critères afin de participer à au moins une épreuve UCI ProSeries pour la saison 2026 ainsi que la date à partir de laquelle chaque équipe peut participer à une épreuve UCI ProSeries. 
 
@@ -33,9 +30,7 @@ Page **1** / **3**
 
 **Union Cycliste Internationale** 17 juin 2026 
 
-
 ![](images/UCIProSeries_17062026.pdf-0002-00.png)
-
 
 |**Team name / Nom d'équipe**<br>**Country / Pays**<br>**Team Category / Catégorie de l'équipe**<br>**Authorised to participate to UCI**<br>**ProSeries events from / Autorisée à**<br>**participer aux épreuves UCI ProSeries à**<br>**partir de**|**Team name / Nom d'équipe**<br>**Country / Pays**<br>**Team Category / Catégorie de l'équipe**<br>**Authorised to participate to UCI**<br>**ProSeries events from / Autorisée à**<br>**participer aux épreuves UCI ProSeries à**<br>**partir de**|**Team name / Nom d'équipe**<br>**Country / Pays**<br>**Team Category / Catégorie de l'équipe**<br>**Authorised to participate to UCI**<br>**ProSeries events from / Autorisée à**<br>**participer aux épreuves UCI ProSeries à**<br>**partir de**|**Team name / Nom d'équipe**<br>**Country / Pays**<br>**Team Category / Catégorie de l'équipe**<br>**Authorised to participate to UCI**<br>**ProSeries events from / Autorisée à**<br>**participer aux épreuves UCI ProSeries à**<br>**partir de**|
 |---|---|---|---|
@@ -113,21 +108,14 @@ Page **1** / **3**
 |QINGHAI TIANYOUDE HOTEL CYCLING TEAM|China|UCI Continental Team|28.01.2026|
 |QUICK PRO TEAM|Estonia|UCI Continental Team|28.01.2026|
 
-
-
 Page **2** / **3** 
 
 **Union Cycliste Internationale** 17 juin 2026 
 
-
 ![](images/UCIProSeries_17062026.pdf-0003-00.png)
-
-
 
 ![](images/UCIProSeries_17062026.pdf-0003-01.png)
 
-
 Page **3** / **3** 
 
-**Union Cycliste Internationale** 17 juin 2026 
-
+**Union Cycliste Internationale** 17 juin 2026

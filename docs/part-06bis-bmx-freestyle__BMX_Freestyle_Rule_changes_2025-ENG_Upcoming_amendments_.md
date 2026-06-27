@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/64e6MN4YxtqT8UcQFdekcg/417
 source_sha256: fe585eaadb38f11d2a9b4d6b5cd87d98169a0968cac1eaca94f2ddf3cbcf3610
 converter: pymupdf4llm
 ---
-
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
-
 
 MEMORANDUM 26.09.2024 
 
@@ -37,9 +34,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0002-00.png)
-
 
 The UCI BMX Freestyle International Calendar shall consist of the following types of Competitions: 
 
@@ -77,9 +72,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0003-00.png)
-
 
 - National Championships (CN): every national federation has the possibility to register a single National BMX Freestyle Championships in Park and/or Flatland on the UCI BMX Freestyle International Calendar within each calendar year: 
 
@@ -111,9 +104,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0004-00.png)
-
 
 ## **Chapter VI  BMX FREESTYLE COMPETITIONS** 
 
@@ -151,9 +142,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0005-00.png)
-
 
 2. If it was held, all riders not Disqualified (DSQ) who qualified for the Semi-final but did not qualify for the Final, in order of their scores in the Semi-final (from highest score to lowest). DNS riders in the Semi-final as described in article 6bis.6.016 
 
@@ -177,7 +166,7 @@ When the time runs out, any trick that is fully completed shall be counted. A co
 
 Flatland Competitions 
 
-The judges shall not consider any trick which is not completed when the time runs out. ~~clock reaches 0 time~~ . 
+The judges shall not consider any trick which is not completed when the time runs out. ~~clock reaches 0 time~~. 
 
 (text modified on: 01.02.18, 01.01.22, 01.01.25) 
 
@@ -197,9 +186,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0006-00.png)
-
 
 of the obstacles typically found in a BMX Freestyle Park as outlined in the UCI BMX Freestyle Park Guide. 
 
@@ -235,11 +222,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0007-00.png)
 
-
-more points as of the ranking deadline for any particular event ~~in the season following~~ . 
+more points as of the ranking deadline for any particular event ~~in the season following~~. 
 
 - In case a national federation does not presently have any riders with 50 or more points as of the ranking deadline for any particular event, that federation nevertheless has the right to enter a single rider for the category in question. 
 
@@ -247,7 +232,7 @@ more points as of the ranking deadline for any particular event ~~in the season 
 
 ## **6bis.9.004** 
 
-~~The organisation reserves the right to determine the maximum number of participants.~~ The maximum number of participants is set in article 6bis.9.002 ~~in each category will be defined in the Competition Guide~~ . No further entries will be accepted once any such limit has been reached. 
+~~The organisation reserves the right to determine the maximum number of participants.~~ The maximum number of participants is set in article 6bis.9.002 ~~in each category will be defined in the Competition Guide~~. No further entries will be accepted once any such limit has been reached. 
 
 (text modified on: 01.01.25) 
 
@@ -275,9 +260,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0008-00.png)
-
 
 ~~Riders who are required to do so who do not start in the Pre-Qualification phase are dealt with in the same manner as described for the Qualification phase in article 6bis.6.016. As such, the Pre-Qualification phase shall take the place of the Qualification phase for the purposes of article 6bis.6.016, except for those riders who bypass the Pre-Qualification phase.~~ 
 
@@ -317,9 +300,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0009-00.png)
-
 
 this round is taken as the results. 
 
@@ -345,7 +326,7 @@ Competition Format
 
 **6bis.10.004** 
 
-Each national federation shall be entitled to enter 2 reserve riders in each category. The final deadline to change entered riders for reserve riders is the end of the riders’ confirmation period defined ~~withi~~ n the official event schedule. ~~Such reserve riders shall be allowed to practice during all practice sessions held before the final riders~~ ’ ~~confirmation deadline~~ . 
+Each national federation shall be entitled to enter 2 reserve riders in each category. The final deadline to change entered riders for reserve riders is the end of the riders’ confirmation period defined ~~withi~~ n the official event schedule. ~~Such reserve riders shall be allowed to practice during all practice sessions held before the final riders~~ ’ ~~confirmation deadline~~. 
 
 (Article introduced on: 02.02.19, 01.01.25) 
 
@@ -367,9 +348,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0010-00.png)
-
 
    - i. Only the points from the latest UCI World Championships held shall be included in the UCI BMX Freestyle Individual Ranking, even if it is held less than one year after the last edition of this event. 
 
@@ -419,9 +398,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0011-00.png)
-
 
 - d. Class HC international Competition (3 best results) 
 
@@ -451,9 +428,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0012-00.png)
-
 
 ## **ANNEX I - UCI BMX FREESTYLE RANKING POINTS TABLE** 
 
@@ -507,24 +482,18 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |46||10|8|||||
 |47||8|6|||||
 
-
-
 Page **12** / **13** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0013-00.png)
-
 
 |48||6|4|||||
 |---|---|---|---|---|---|---|---|
 |49||4|2|||||
 |50||2|1|||||
-
-
 
 (annex modified on: 01.01.22, 01.01.25) 
 
@@ -532,5 +501,4 @@ Page **13** / **13**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

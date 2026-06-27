@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1vh6Ipk6ALkIhmYRfboZTd/177
 source_sha256: c83a2a2014c349d9bc807ce6ae511d5e680c13044a8a3c939d7d3cb083ac2a04
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 06.10.2025 
 
-
 ![](images/16-PAR-Regulations_amendments_2026.pdf-0001-01.png)
-
 
 ## **Rules Amendments applying on 01.01.2026** 
 
@@ -471,7 +468,7 @@ A National Federation Protest may be made where there is a reasonable basis to b
 
 A National Protest must be submitted in connection with an Evaluation Session within one (1) hour of the outcome of Athlete Evaluation being published through an official communique following the end of an Evaluation Session or the end of an Observation Session. ~~If the outcome of Athlete Evaluation is published following Observation in Competition, a National Protest must be submitted within fifteen (15) minutes of that outcome being published.~~ 
 
-If an Athlete is required by a Classification Panel to undergo Observation in Competition Assessment, a National Federation or a National Paralympic Committee may ~~only make a Protest after First Appearance takes place~~ : 
+If an Athlete is required by a Classification Panel to undergo Observation in Competition Assessment, a National Federation or a National Paralympic Committee may ~~only make a Protest after First Appearance takes place~~: 
 
 Page **12** / **26** 
 
@@ -567,13 +564,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - 
 
-- Asymmetric or symmetric bilateral involvement with at least grade 2 spasticity in lower limb/s and at least spasticity grade 1 in upper limb. Hypertonia on activity affecting trunk or legs ~~and making it impossible to ride a bicycle or tricycle~~ . 
+- Asymmetric or symmetric bilateral involvement with at least grade 2 spasticity in lower limb/s and at least spasticity grade 1 in upper limb. Hypertonia on activity affecting trunk or legs ~~and making it impossible to ride a bicycle or tricycle~~. 
 
 ## **Ataxia/Athetosis/Dystonia** 
 
-- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs and trunk, ~~making it impossible to ride a bicycle or tricycle~~ ; 
+- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs and trunk, ~~making it impossible to ride a bicycle or tricycle~~; 
 
-- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H3 ~~, making it impossible to ride a bicycle or tricycle~~ . 
+- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H3 ~~, making it impossible to ride a bicycle or tricycle~~. 
 
 _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 01.01.26)_ 
 
@@ -621,9 +618,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Ataxia/Athetosis/Dystonia** 
 
-- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs ~~, making it impossible to ride a bicycle or tricycle~~ ; 
+- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs ~~, making it impossible to ride a bicycle or tricycle~~; 
 
-- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H4 ~~, making it impossible to ride a bicycle or tricycle~~ . 
+- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H4 ~~, making it impossible to ride a bicycle or tricycle~~. 
 
 _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 01.01.26)_ 
 
@@ -639,7 +636,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 0
 
 ## **Limb Deficiency** 
 
-- Athletes who meet the Minimum Impairment Criteria for lower limb deficiency ~~who have additional impairment/s which prevent the safe use of a conventional bicycle.~~ ; 
+- Athletes who meet the Minimum Impairment Criteria for lower limb deficiency ~~who have additional impairment/s which prevent the safe use of a conventional bicycle.~~; 
 
 ## **Hypertonia** 
 
@@ -651,7 +648,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 0
 
 - 
 
-- Hypertonia on activity ~~making it impossible to ride a bicycle or tricycle~~ ; 
+- Hypertonia on activity ~~making it impossible to ride a bicycle or tricycle~~; 
 
 ## **Ataxia/Athetosis/Dystonia** 
 
@@ -677,7 +674,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-− Limited ROM of the hip or knee such that a normal functional full revolution of the crank is not possible ~~The athlete may shorten the crank to the optimal length.~~ , without use of adaptation such as crank length. 
+− Limited ROM of the hip or knee such that a normal functional full revolution of the crank is not possible ~~The athlete may shorten the crank to the optimal length.~~, without use of adaptation such as crank length. 
 
 (…) 
 
@@ -805,7 +802,7 @@ Continental Championships and Regional Games:
 
 - In years when both the Continental Championships and Regional Games take place, points will only be awarded for the competition where athletes received the most points. 
 
-Class 1 (C1) Para Cycling competitions ~~C1 and C2 (according to article 1.2.006, points are guaranteed for competitions that are registered on the UCI international calendar as C1 competitions)~~ : 
+Class 1 (C1) Para Cycling competitions ~~C1 and C2 (according to article 1.2.006, points are guaranteed for competitions that are registered on the UCI international calendar as C1 competitions)~~: 
 
 - 
 
@@ -825,7 +822,7 @@ Class 1 (C1) Para Cycling competitions ~~C1 and C2 (according to article 1.2.006
 
 - ~~Minimum 2 participating nations in Oceania and in Africa;~~ 
 
-- ~~An athlete has the right to accumulate C1 and C2 points on a single continent, the one where he has accumulated most points per race class~~ ; 
+- ~~An athlete has the right to accumulate C1 and C2 points on a single continent, the one where he has accumulated most points per race class~~; 
 
 - An athlete can earn points by competing at Class 1 competitions around the world; 
 
@@ -876,8 +873,6 @@ _(text modified on 01.01.10; 01.02.11; 01.10.11; 01.10.13; 01.02.17; 01.01.23; 0
 |15|12|6|6|1||
 |16|10|5|5|||
 
-
-
 Page **20** / **26** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -889,8 +884,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |18|6|3|3|||
 |19|4|2|2|||
 |20|3|1|1|||
-
-
 
    - _(text modified on 01.01.10; 01.01.11; 01.01.16; 01.02.17, 01.01.19; 01.07.20; 01.01.26)_ 
 
@@ -1109,8 +1102,6 @@ _(article introduced on 01.01.26)_
 |Continental Championships|-|See article 16.24.004|
 |Regional Games|||
 
-
-
 Page **25** / **26** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1139,8 +1130,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||||Oceania and in Africa|||
 |||-|Must meet UCI standard|||
 
-
-
 _(article introduced on 01.01.26)_ 
 
 - **16.24.004** The Continental Championships must be registered by the Continental Federation and the host country. 
@@ -1155,5 +1144,4 @@ Page **26** / **26**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6VTlwWPZHAN3CMMv94Vm32/e80
 source_sha256: baa41818363219162dafc7b6403219df5598275e67708e2cd3988bf4c8853985
 converter: pymupdf4llm
 ---
-
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -29,7 +26,7 @@ _(text modified on 01.01.05; 01.01.07; 01.01.08; 01.01.15; 01.01.18; 01.07.26)._
 
 ## **Provisions for Grand Tours and UCI WorldTour stage races** 
 
-The organiser must invite the best UCI ProTeams on UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , according to the following: 
+The organiser must invite the best UCI ProTeams on UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)], according to the following: 
 
 |**Number of**<br>**UCI WorldTeams**|**Obligatory**<br>**Invitation of best**<br>**UCI ProTeams(2)**|**Remaining wild cards**<br>**for Organisers**|**Remaining wild cards**<br>**for Organisers**|
 |---|---|---|---|
@@ -37,8 +34,6 @@ The organiser must invite the best UCI ProTeams on UCI World Ranking by Teams, a
 |18|3|2|4|
 |17|4|2|4|
 |16|4|3|5|
-
-
 
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
@@ -60,9 +55,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0002-01.png)
-
 
 ## MEMORANDUM 
 
@@ -78,7 +71,7 @@ UCI ProTeams that accept the obligatory invitation from the organiser (except wi
 
 ## **Provisions for UCI WorldTour one-day races** 
 
-The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)] , according to the followings: 
+The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)], according to the followings: 
 
 |**Number of**<br>**UCI WorldTeams**|**Obligatory Invitation of**<br>**best UCI ProTeams(1) (2)**|**Remaining wild cards**<br>**for Organisers(2)**|
 |---|---|---|
@@ -86,15 +79,13 @@ The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, a
 |17|4|4|
 |16|4|5|
 
-
-
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
 > _**(2)** Invitations declined by invited UCI ProTeams may be used by the organiser as additional wild cards._ 
 
 ## **Provisions for UCI Women’s WorldTour events** 
 
-The organiser must send an invitation to the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , in accordance with the following provisions. 
+The organiser must send an invitation to the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)], in accordance with the following provisions. 
 
 In the event that the number of UCI Women's WorldTeams is less than 13, the number of obligatory invitations to the UCI Women’s ProTeam, based on the abovementioned ranking, shall be increased accordingly in order to ensure a minimum number of 15 invitations to the UCI WorldTeams and UCI Women’s ProTeam. 
 
@@ -104,13 +95,11 @@ The organiser must invite the first 5 UCI ProTeams on the UCI World Team Ranking
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0003-01.png)
-
 
 ## MEMORANDUM 
 
-## 2.1.001)[ (1)] . 
+## 2.1.001)[ (1)]. 
 
 The organiser must also invite the UCI ProTeams of the host country. 
 
@@ -150,9 +139,7 @@ MEMORANDUM
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0004-02.png)
-
 
 WorldTeam, UCI ProTeam or UCI Women’s ProTeam) and the UCI registered development team supported by such team is prohibited. 
 
@@ -176,13 +163,11 @@ The use of lightweight barriers (e.g. plastic) to cordon off the event route is 
 
 The event safety manager shall pay special attention to the final section of the race route and shall ensure that the safety requirements are observed. 
 
-~~and the final hundredth meters before the finish in particular and shall ensure that the safety conditions are observed~~ . 
+~~and the final hundredth meters before the finish in particular and shall ensure that the safety conditions are observed~~. 
 
 The finishing straight should be as long as possible, at least 200 meters. This is especially important for events likely to finish in bunch sprints. 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0005-00.png)
-
 
 ## MEMORANDUM 
 
@@ -216,9 +201,9 @@ The use of such a system is subject to any relevant legal provisions and to thou
 
 2. In addition with the sanctions provided in article 2.12.007, the disciplinary commission may impose the following sanctions: 
 
-   - riders : fine of CHF 100 to 10,000; 
+   - riders: fine of CHF 100 to 10,000; 
 
-   - team : fine of CHF 1,000 to 100,000; 
+   - team: fine of CHF 1,000 to 100,000; 
 
 An infringement committed by a rider leads to the irrefutable presumption of an infringement committed by the rider’s team. 
 
@@ -234,9 +219,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0006-01.png)
-
 
 ## MEMORANDUM 
 
@@ -262,7 +245,7 @@ _(numbering of the paragraph modified on 04.05.16)_
 
 - **2.2.040** Should ~~the exclusion occur~~ a driver and/or passenger(s) be excluded by the Commissaires’ Panel during a UCI WorldTour, a UCI Women’s WorldTour or a UCI ProSeries (ME or WE) event, ~~the driver (and/or passenger(s) if (also) excluded)~~ they shall ~~not be allowed to take part either in any event~~ be automatically suspended, within the meaning of article 12.3.013, until the ~~date~~ conclusion of the next event of the same series ~~but no longer than 7 calendar days, starting the day after the incident~~ or a duration of 7 days starting the day after the exclusion, whichever is the shorter. 
 
-_(text modified on 1.01.05 ; 4.05.16; 1.01.19; 23.10.19, 1.01.23; 01.07.26)._ 
+_(text modified on 1.01.05; 4.05.16; 1.01.19; 23.10.19, 1.01.23; 01.07.26)._ 
 
 ## **Passengers** 
 
@@ -272,9 +255,7 @@ _(text modified on 4.05.16; 1.01.19; 01.07.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0007-01.png)
-
 
 ## MEMORANDUM 
 
@@ -318,9 +299,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0008-01.png)
-
 
 ## MEMORANDUM 
 
@@ -368,9 +347,7 @@ The duration of new events of classes 1 and 2 is limited to 6 days, unless an ex
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0009-01.png)
-
 
 ## MEMORANDUM 
 
@@ -410,9 +387,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0010-01.png)
-
 
 ## MEMORANDUM 
 
@@ -444,9 +419,7 @@ _(text modified on 03.06.16; 01.01.19; 01.11.21; 01.07.26)._
 
 _(text modified on 01.01.99; 01.01.05; 01.07.26)._ 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0011-00.png)
-
 
 ## MEMORANDUM 
 
@@ -460,10 +433,8 @@ _(text modified on 01.01.99; 01.01.05; 01.07.26)._
 |---|---|---|---|---|---|---|
 ||**Games and Championships**<br>Olympic Games<br>Elite World Championships<br>**Men Elite events**<br>UCI WorldTour|||**Games and Championships**<br>Under-23 and Junior World<br>Championships<br>Continental Championships<br>Continental Games<br>**Men Elite events**<br>UCI ProSeries<br>Class 1<br>**Women Elite events**<br>UCI Women’s WorldTour<br>UCI ProSeries<br>Para-cycling<br>Paralympic Games<br>World Championships<br>World Cups||**Men Elite events**<br>Class 2<br>**Women Elite events**<br>Class 1 and Class 2<br>**Men Under 23 events**<br>UCI Nations’ Cup<br>Other events<br>**Other events**<br>UCI Junior Nations’ Cups<br>Junior events<br>National events<br>Other events<br>Para-cycling:<br>Other events|
 |2.9     Use of non-compliant bicycle|accessory, non-compliant or non-authorised modification to accessory||||||
-|One-day race||Rider:CHF 200 fine and either 20<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team : CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or<br>relegation of 1 place<br>Team : CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team : CHF 150 fine per rider|
+|One-day race||Rider:CHF 200 fine and either 20<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team: CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or<br>relegation of 1 place<br>Team: CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team: CHF 150 fine per rider|
 |Stage race||<br>Rider:CHF 200 fine and either 20<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned||<br>Rider:CHF 100 fine and either 10<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned||<br>Rider:CHF 50 fine and either 5<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned|
-
-
 
 E: admin@uci.ch 
 
@@ -475,25 +446,19 @@ T: +41 24 468 58 11
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0012-01.png)
-
 
 ## MEMORANDUM 
 
-|||Team :CHF 500 fine per rider||Team :CHF 250 fine per rider||Team :CHF 150 fine per rider|
+|||Team:CHF 500 fine per rider||Team:CHF 250 fine per rider||Team:CHF 150 fine per rider|
 |---|---|---|---|---|---|---|
 |3.2.2   Use of non-compliant accessory (e.g. glasses, socks or shoe cover, rain jacket, sleeves, jersey etc.) worn by rider, non-compliant or non-<br>authorised modification to clothing|||||||
-|One-day race||Rider:CHF 200 fine and either 20<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team : CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or<br>relegation of 1 place<br>Team : CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team : CHF 150 fine per rider|
-|Stage race||Rider:CHF 200 fine and either 20<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned<br>Team : CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned<br>Team : CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned<br>Team : CHF 150 fine per rider|
+|One-day race||Rider:CHF 200 fine and either 20<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team: CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or<br>relegation of 1 place<br>Team: CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points<br>from<br>UCI<br>ranking<br>or<br>relegation of 1 place<br>Team: CHF 150 fine per rider|
+|Stage race||Rider:CHF 200 fine and either 20<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned<br>Team: CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned<br>Team: CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points from UCI ranking, 10<br>seconds penalty or relegation of 1<br>place in the classification of the<br>stage concerned<br>Team: CHF 150 fine per rider|
 |**(…)**|||||||
 |4.6 Rider holding on to own team<br>vehicle, or vehicle of another<br>team or other motor vehicle, or<br>being pushed/towed/held by a<br>vehicle passenger, or a<br>mechanical intervention on the<br>rider’s bike from a moving<br>vehicle||Rider:CHF 500 fine, 100 points<br>from UCI rankings and elimination<br>or disqualification and/or yellow<br>card<br>Driver:CHF 500 fine and<br>exclusion***and/or yellow card<br>Sport Director responsible for the<br>vehicle:CHF 500 fine and<br>exclusion***and/or yellow card<br>Other licence holder involved:<br>CHF 500 fine and exclusion***||Rider:CHF 200 fine, 50 points<br>from UCI rankings and elimination<br>or disqualification and/or yellow<br>card<br>Driver:CHF 200 fine and<br>exclusion***and/or yellow card<br>Sport Director responsible for the<br>vehicle:CHF 200 fine and<br>exclusion***and/or yellow card<br>Other licence holder involved:||Rider:CHF 100 fine, 25 points<br>from UCI rankings and elimination<br>or disqualification<br>Driver:CHF 100 fine and<br>exclusion<br>Sport Director responsible for the<br>vehicle:CHF 100 fine and<br>exclusion<br>Other licence holder involved:<br>CHF 100 fine and exclusion|
 
-
-
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0013-00.png)
-
 
 ## MEMORANDUM 
 
@@ -505,8 +470,6 @@ T: +41 24 468 58 11
 |One-day race||Rider:CHF 200 fine per<br>infringement and 15 points from<br>UCI rankings and/or yellow card<br>Driver:CHF 500 fine per<br>infringement and/or yellow card<br>Sport Director responsible for the<br>vehicle:CHF 500 fine per<br>infringement and/or yellow card||Rider:CHF 100 fine per<br>infringement and 5 points from<br>UCI rankings and/or yellow card<br>Driver:CHF 200 fine per<br>infringement and/or yellow card<br>Sport director responsible for the<br>vehicle:CHF 200 fine per<br>infringement and/or yellow card||Rider: CHF 50 fine per<br>infringement and 2 points from<br>UCI rankings<br>Driver:CHF 100 fine per<br>infringement<br>Sport director responsible for the<br>vehicle:<br>CHF 100 fine per infringement|
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances, the Commissaires’ Panel may eliminate or disqualify a rider and/or exclude***a licence<br>holder.<br>The commissaires' panel also reserves the right to downgrade the position of the team vehicle in the line-up<br>of team vehicles.|||||
 
-
-
 Page **13** / **21** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -515,9 +478,7 @@ T: +41 24 468 58 11
 
 E: admin@uci.ch 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0014-00.png)
-
 
 ## MEMORANDUM 
 
@@ -530,11 +491,7 @@ E: admin@uci.ch
 ||)|||||||
 ||4.9 Follower leaning out of a<br>vehicle or holding equipment<br>outside a vehicle<br>Irregular assistance of a rider<br>within the same team||Driver:500 to CHF 1,000 fine<br>and/or yellow card *<br>Sport Director responsible for the<br>vehicle:CHF 1,000 to CHF 2,000<br>fine and/or yellow card*||Driver:200 to CHF 500 fine and/or<br>yellow card *<br>Sport Director responsible for the<br>vehicle: CHF 500 to CHF 1,000<br>fine and/or yellow card*||Driver:CHF 100 fine<br>Sport Director responsible for the<br>vehicle:<br>CHF 200 to CHF 500 fine *|
 
-
-
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0015-00.png)
-
 
 ## MEMORANDUM 
 
@@ -543,8 +500,6 @@ E: admin@uci.ch
 |||Other licence holder involved:<br>CHF 500 to CHF 1,000 fine and/or<br>yellow card *||Other licence holder involved:<br>CHF 200 to CHF 500 fine and/or<br>yellow card *||Other licence holder involved:<br>CHF 50 to CHF 200 fine*|
 |---|---|---|---|---|---|---|
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may exclude***a license<br>holder.<br>The commissaires' panel also reserves the right to downgrade the position of the team vehicle in the line-up<br>of team vehicles.|||||
-
-
 
 (…) 
 
@@ -556,15 +511,11 @@ E: admin@uci.ch
 |One-day race||Rider:CHF 500 fine and/or<br>elimination or disqualification<br>and/or yellow card<br>Other licence holder:CHF 1,000<br>fine and exclusion***and/or<br>yellow card||Rider:CHF 200 fine and/or<br>elimination or disqualification<br>and/or yellow card<br>Other licence holder:CHF 500<br>fine and exclusion***and/or<br>yellow card||Rider:CHF 100 fine and/or<br>elimination or disqualification<br>Other licence holder:CHF 200<br>fine and exclusion|
 |Stage race||Rider:CHF 500 fine, 20 to 100%**<br>penalty in the points and/or<br>mountains classifications and 10||Rider:CHF 200 fine, 20 to 100%**<br>penalty in the points and/or<br>mountains classifications and 10||Rider:CHF 100 fine, 20 to 100%**<br>penalty in the points and/or<br>mountains classifications and 10|
 
-
-
 Page **15** / **21** 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0016-00.png)
-
 
 ## MEMORANDUM 
 
@@ -576,11 +527,7 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 |(…)|||||||
 |6.3 Breach of regulations or<br>guidelines concerning vehicle<br>movements during the race or<br>failure to comply with the<br>instructions of commissaires<br>and/or the organisation||Driver:CHF 500 to CHF 2,000 fine<br>and/or yellow card*<br>Sport Director or person<br>responsible for the vehicle:<br>CHF  500 to CHF  2,000 fine*<br>and/or Relegation in the convoy of<br>sport directors, exclusion for one<br>or more stages or definitive<br>exclusion***and/or yellow card<br>Other vehicle:exclusion for one or<br>more stages or definitive<br>exclusion***and/or yellow card||Driver:CHF  200 to CHF 1,000<br>fine and/or yellow card*<br>Sport Director or person<br>responsible for the vehicle:<br>CHF  200 to CHF 1,000 fine*<br>and/or Relegation in the convoy of<br>sport directors, exclusion for one<br>or more stages or definitive<br>exclusion***and/or yellow card<br>Other vehicle:exclusion for one or<br>more stages or definitive<br>exclusion***and/or yellow card||Driver:CHF 100 to CHF 500 fine<br>Sport Director or person<br>responsible for the vehicle:<br>CHF 100 to CHF 500 fine and/or<br>Relegation in the convoy of sport<br>directors, exclusion for one or<br>more stages or definitive exclusion<br>Other vehicle:exclusion for one or<br>more stages or definitive exclusion|
 
-
-
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0017-00.png)
-
 
 ## MEMORANDUM 
 
@@ -592,33 +539,25 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 |6.4 Interviewing a rider during the<br>race||Media driver:CHF 500 fine and<br>exclusion***and/or yellow card<br>Journalist:Exclusion***and/or<br>yellow card<br>Media vehicle:Exclusion||Media driver:CHF 200 fine and<br>exclusion***and/or yellow card<br>Journalist:Exclusion***and/or<br>yellow card<br>Media vehicle:Exclusion||Media driver:CHF 100 fine and<br>exclusion<br>Journalist:Exclusion<br>Media vehicle:Exclusion|
 |6.5 Interviewing a sport director<br>during the last 10 kilometres of a<br>race or conducting the interview<br>from a car rather than a motorbike||Sport Director:CHF 500 fine<br>and/or yellow card<br>Media driver:Exclusion***and/or<br>yellow card<br>Journalist:Exclusion***and/or<br>yellow card<br>Media vehicle: Exclusion||Sport Director:CHF 200 fine<br>and/or yellow card<br>Media driver:Exclusion***and/or<br>yellow card<br>Journalist:Exclusion***and/or<br>yellow card<br>Media vehicle: Exclusion||Sport Director:CHF 100 fine<br>Media driver:Exclusion<br>Journalist:Exclusion<br>Media vehicle:Exclusion|
 
-
-
 (…) 9.  Specific sanctions for time trials 
 
 Page **17** / **21** 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0018-00.png)
-
 
 ## MEMORANDUM 
 
 8 June 2026 
 
-|9.1.3<br>Use<br>of<br>non-compliant<br>bicycle<br>accessory, non-compliant or non-<br>authorised<br>modification<br>to<br>accessory||Rider:CHF 200 fine and either 20<br>points from UCI ranking or 10<br>seconds penalty<br>Team :CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or 10<br>seconds penalty<br>Team :CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points from UCI ranking or 10<br>seconds penalty<br>Team : CHF 150 fine per rider|
+|9.1.3<br>Use<br>of<br>non-compliant<br>bicycle<br>accessory, non-compliant or non-<br>authorised<br>modification<br>to<br>accessory||Rider:CHF 200 fine and either 20<br>points from UCI ranking or 10<br>seconds penalty<br>Team:CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or 10<br>seconds penalty<br>Team:CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points from UCI ranking or 10<br>seconds penalty<br>Team: CHF 150 fine per rider|
 |---|---|---|---|---|---|---|
-|9.1.4<br>Use of non-compliant accessory<br>(e.g. visors and glasses, socks or<br>shoe cover, etc.) worn by rider,<br>non-compliant or non-authorised<br>modification accessory||Rider:CHF 200 fine and either 20<br>points from UCI ranking or 10<br>seconds penalty<br>Team :CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or 10<br>seconds penalty<br>Team :CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points from UCI ranking or 10<br>seconds penalty<br>Team :CHF 150 fine per rider|
-
-
+|9.1.4<br>Use of non-compliant accessory<br>(e.g. visors and glasses, socks or<br>shoe cover, etc.) worn by rider,<br>non-compliant or non-authorised<br>modification accessory||Rider:CHF 200 fine and either 20<br>points from UCI ranking or 10<br>seconds penalty<br>Team:CHF 500 fine per rider||Rider:CHF 100 fine and either 10<br>points from UCI ranking or 10<br>seconds penalty<br>Team:CHF 250 fine per rider||Rider:CHF 50 fine and either 5<br>points from UCI ranking or 10<br>seconds penalty<br>Team:CHF 150 fine per rider|
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0019-01.png)
-
 
 ## MEMORANDUM 
 
@@ -650,9 +589,7 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0020-01.png)
-
 
 ## MEMORANDUM 
 
@@ -700,9 +637,7 @@ _(text modified on 01.01.15; 01.07.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260701-E-amendments_on_01.07.26.pdf-0021-01.png)
-
 
 ## MEMORANDUM 
 
@@ -728,5 +663,4 @@ Page **21** / **21**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

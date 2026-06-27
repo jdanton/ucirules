@@ -4,29 +4,15 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/HuwSHsRtVmmxpYiwR3JHM/1fe7
 source_sha256: 8ae04cd9ac10902ae8d261a0088588555c8db369515702ecda8fabb622f5b0af
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 11 OLYMPIC GAMES** 
 
 **Version on 01.03.2026** 
-
-## **TABLE OF CONTENTS** 
-
-||Page|
-|---|---|
-|**Chapter I**|**GENERAL REGULATIONS ................................................................... 2**|
-|**Chapter II**|**YOUTH OLYMPIC GAMES .................................................................... 6**|
-
-
 
 OLYMPIC GAMES 
 
 E0326 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 11 OLYMPIC GAMES** 
 
@@ -60,8 +46,6 @@ E0326
 
 2 
 
-**UCI CYCLING REGULATIONS** 
-
 eligible to enter an athlete. Non-compliance with this provision may result in a fine of up to CHF 100,000 imposed on the Team Manager. 
 
 _(text modified on 01.01.03; 01.02.07; 01.07.09; 15.02.19; 12.06.2025)_ 
@@ -88,8 +72,6 @@ _(text modified on 01.02.07; 01.07.09; 04.04.14; 15.02.19; 12.06.2025)_
 |BMX Racing|BMX Race|BMX Race|
 |BMX Freestyle|BMX Park|BMX Park|
 
-
-
 Events shall be held in accordance with the UCI regulations applicable to the elite UCI World Championship for each discipline, taking into account any specific provisions for the Olympic Games. 
 
 BMX Racing follows a distinct Olympic format, which will be published in the _Cycling Team Leaders’ guide_ for the relevant Olympic Games. 
@@ -105,8 +87,6 @@ OLYMPIC GAMES
 E0326 
 
 3 
-
-**UCI CYCLING REGULATIONS** 
 
 Furthermore, the National Federation of the organising country shall name, in consultation with the UCI, a minimum of 15 National Commissaires for the Olympic Games. 
 
@@ -148,8 +128,6 @@ E0326
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Other Provisions** 
 
 - **11.1.010** The timing and results service used during the Olympic Games shall be provided to the same standard as during the UCI World Championships for each Olympic discipline. 
@@ -177,8 +155,6 @@ OLYMPIC GAMES
 E0326 
 
 5 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II YOUTH OLYMPIC GAMES** 
 
@@ -232,5 +208,4 @@ OLYMPIC GAMES
 
 E0326 
 
-6 
-
+6

@@ -4,54 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5sjOY2mlHAD9cuaRr1KrKd/c0a
 source_sha256: 9fd5dee880bdfa07b03de63080ce3ffcabeaf84d25137ff7e25fc27ecf997e0e
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 8  INDOOR CYCLING** 
 
 ## **Version 01.01.26** 
-
-## **TABLE OF CONTENTS** 
-
-||Page|
-|---|---|
-|**PART 8 INDOOR CYCLING - ARTISTIC CYCLING .............................................................. 4**||
-|Chapter I GENERAL RULES .................................................................................................. 5||
-|§ 1|Organisation............................................................................................................ 5|
-|§ 2|_UCI World Championships_....................................................................................... 5|
-|§ 3|UCI ranking competitions ......................................................................................... 6|
-|§ 4|World records .......................................................................................................... 8|
-|§ 5|Eventsand age-groups ............................................................................................ 9|
-|§ 6|Competition area ....................................................................................................10|
-|§ 7|Equipment ..............................................................................................................12|
-|§ 8|Evaluation sheet .....................................................................................................13|
-|§ 9|Commissaires panel ...............................................................................................15|
-|Chapter II SPECIFIC RULES ............................................................................................... 18||
-|§ 1|Length of riding perfomance ...................................................................................18|
-|§ 2|Number of figures ...................................................................................................18|
-|§ 3|Riding performance ................................................................................................18|
-|<br>Complement for pair artistic cycling ........................................................................19||
-|§ 4|Sequence of the figure ............................................................................................19|
-|<br>Complement for single and pair artistic cycling .......................................................21||
-|<br>Complement for pair artistic cycling ........................................................................22||
-|<br>Complement for pair artistic cycling and ACT4 .......................................................23||
-|<br>Complement for ACT4 ............................................................................................23||
-|§ 5|Way of stretch .........................................................................................................25|
-|<br>Complement for pair artistic cycling ........................................................................28||
-|<br>Complement for ACT4 ............................................................................................28||
-|Chapter III EXPLANATIONS OF FIGURES .......................................................................... 35||
-|§ 1|Single artistic cycling ..............................................................................................35|
-|§ 2|Pair artistic cycling ..................................................................................................49|
-|§ 3|Artistic Cycling Team 4 ...........................................................................................66|
-|Chapter IV EVALUATION ..................................................................................................... 95||
-|§ 1|General rules for evaluation ....................................................................................95|
-|§ 2|Evaluation of difficulty .............................................................................................95|
-|<br>Complement for single and pair ..............................................................................97||
-|<br>Complement for pair ...............................................................................................98||
-|<br>Complement for pair and ACT4 ..............................................................................99||
-|<br>Complement for ACT4 ............................................................................................99||
-
-
 
 INDOOR CYCLING 
 
@@ -59,80 +14,17 @@ E0126
 
 1 
 
-**UCI CYCLING REGULATIONS** 
-
-|§ 3|Evaluation of execution ......................................................................................... 101|
-|---|---|
-|Chapter V LIST OF FIGURES ............................................................................................ 104||
-|§ 1|Single artistic cycling ............................................................................................ 104|
-|§ 2|Pair artistic cycling ................................................................................................ 115|
-|§ 3|Artistic Cycling Team 4 ......................................................................................... 132|
-|Chapter VI UCI Artistic Cycling World Cup ......................................................................... 145||
-|**PART 8 INDOOR CYCLING - CYCLE BALL ..................................................................... 148**||
-|Chapter VII TECHNICAL CONDITIONS ............................................................................. 148||
-|§ 1|Type of sport ......................................................................................................... 148|
-|§ 2|Jury ...................................................................................................................... 148|
-|§ 3|Match field and size .............................................................................................. 149|
-|§ 4|Match field boarding ............................................................................................. 149|
-|§ 5|Marking of the match field ..................................................................................... 149|
-|§ 6|Goals .................................................................................................................... 150|
-|§ 7|Ball ....................................................................................................................... 151|
-|§ 8|Clothing ................................................................................................................ 151|
-|§ 9|Cycle-ball bicycles ................................................................................................ 152|
-|§ 10|Defects / Changing bicycle ................................................................................... 153|
-|§ 11|Planning of the games .......................................................................................... 153|
-|§ 12|Age categories / Game time and additional playing time ....................................... 154|
-|Chapter VIII GAME RULES ................................................................................................ 156||
-|§ 1|General rules ........................................................................................................ 156|
-|§ 2|Kick off .................................................................................................................. 157|
-|§ 3|Start of the match ................................................................................................. 157|
-|§ 4|Interruption / Whistling signal / Neutral ball ........................................................... 157|
-|§ 5|Advantage rule ..................................................................................................... 158|
-|§ 6|Riding behind goal line / Permission to participate the game ................................ 158|
-|§ 7|Scoring a goal ....................................................................................................... 159|
-|§ 8|Out ball ................................................................................................................. 159|
-|§ 9|Corner ball ............................................................................................................ 160|
-|§ 10|Goal defence ........................................................................................................ 160|
-|§ 11|Penalty area ......................................................................................................... 161|
-|§ 12|Free kick ............................................................................................................... 162|
-|§ 13|Penalty kick .......................................................................................................... 162|
-|§ 14|Whistle signals ...................................................................................................... 164|
-|§ 15|Complaints / Improper behavior / Unsporting behavior ......................................... 164|
-|§ 16|Injuries and suspension of players and teams ...................................................... 165|
-|Chapter IX RESULTS / CLASSIFICATION BY POINTS / OBJECTIONS............................ 167||
-|§ 1|Results ................................................................................................................. 167|
-|§ 2|Classification by points ......................................................................................... 167|
-
-
-
 INDOOR CYCLING 
 
 E0126 
 
 2 
 
-**UCI CYCLING REGULATIONS** 
-
-|§ 3|Ties / Final matches .............................................................................................. 167|
-|---|---|
-|§ 4|Penalty kicks ......................................................................................................... 169|
-|§ 5|Objections ............................................................................................................ 169|
-|Handsigns Commissaire ..................................................................................................... 170||
-|Chapter|X CLASSIFICATION OF RACES / UCI RANKINGS.............................................. 171|
-|§1|Classification of races ........................................................................................... 171|
-|§ 2|UCI Rankings ....................................................................................................... 171|
-|Chapter|XI WORLD CHAMPIONSHIPS SET UP ................................................................ 173|
-|Chapter|XII UCI Cycle-ball World Cup ................................................................................ 175|
-
-
-
 INDOOR CYCLING 
 
 E0126 
 
 3 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 8 INDOOR CYCLING - ARTISTIC CYCLING** 
 
@@ -147,8 +39,6 @@ INDOOR CYCLING
 E0126 
 
 4 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter I GENERAL RULES** 
 
@@ -189,15 +79,11 @@ Each National Federation can register a maximum of riders/teams for the events a
 |-|pair open:|2 teams|
 |-|Artistic Cycling Team 4:|1 team|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 5 
-
-**UCI CYCLING REGULATIONS** 
 
 The registration procedure for the riders/teams shall be fulfilled by the National Federations according to the announcement by the UCI. 
 
@@ -249,8 +135,6 @@ E0126
 
 6 
 
-**UCI CYCLING REGULATIONS** 
-
 commissaire as president of the commissaires’ panel, 2 international commissaires or national commissaires as announcing commissaires, 2 licensed writing commissaires 
 
 The procedure, rules and deadlines for the registration are published by the UCI. 
@@ -295,8 +179,6 @@ Point scale UCI ranking:
 |24|2||
 |25|1||
 
-
-
 Points will be awarded to riders and attributed to the team in which they are registered. If two riders from different teams earn points together, the points will be split equally, with each rider receiving 50% of the total points for their respective team. 
 
 INDOOR CYCLING 
@@ -304,8 +186,6 @@ INDOOR CYCLING
 E0126 
 
 7 
-
-**UCI CYCLING REGULATIONS** 
 
 Points can only be awarded to riders and teams (pair, Artistic Cycling Team 4) in the age group elite. For the sake of clarity, no points are awarded for teams in the age groups U11, U13, U15 and/or U19. 
 
@@ -367,8 +247,6 @@ E0126
 
 8 
 
-**UCI CYCLING REGULATIONS** 
-
 - After review by the coordinator the world record will be confirmed and published. World records achieved at _World Championships_ can be confirmed and published without any further review. 
 
 _(text modified on 01.01.18)_ 
@@ -413,15 +291,11 @@ E0126
 
 9 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 6 Competition area** 
 
 **8.1.011** Competition surface 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0010-03.png)
-
 
 - **Inner circle:** Circle around the middle point of the competition surface with a diametre of 50 centimetres. 
 
@@ -453,8 +327,6 @@ E0126
 
 10 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.1.012** Placement of the commissaires The commissaires must be placed at the competition surface, where they have a good view to the competition surface and their independence is guaranteed. 
 
 _(text modified on 01.01.16)_ 
@@ -473,9 +345,7 @@ _(article introduced on 01.01.16)_
 
    - It is not allowed to apply the support lines at the competition surface. They only are used here to understand the following explanations. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0011-10.png)
-
 
 - **Middle longitudinal axis (support line A):** Line parallel to the long side of the competition surface through the middle of the competition surface. 
 
@@ -486,8 +356,6 @@ INDOOR CYCLING
 E0126 
 
 11 
-
-**UCI CYCLING REGULATIONS** 
 
 - **Diagonal axis (support line C):** Lines from one corner to the opposite corner through the middle of the competition surface. 
 
@@ -501,9 +369,7 @@ _(text modified on 01.01.16)_
 
    - The bicycle has to be constructed in a way that it is not possible to damage the competition surface. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0012-07.png)
-
 
 - **Cranks:** Length from centre bottom bracket bearing to centre pedal pivot shaft 130 – 170 mm. 
 
@@ -526,8 +392,6 @@ INDOOR CYCLING
 E0126 
 
 12 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.1.017** Sports wear 
 
@@ -563,15 +427,11 @@ E0126
 
 13 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.1.021** Evaluation sheet sample 
 
    - In all competitions or championships, it is only allowed to use the evaluation sheet shown on this page. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0014-03.png)
-
 
 _(text modified on 01.01.16; 01.01.18)_ 
 
@@ -580,8 +440,6 @@ INDOOR CYCLING
 E0126 
 
 14 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.1.022** Check of evaluation sheet Is an electronic judging system used in a competition the rider/coach is required to check, correct and sign the evaluation sheet he received. 
 
@@ -611,7 +469,7 @@ _(text modified on 01.01.16; 01.01.18)_
 
 After finishing an event, the evaluation sheets or electronic judging documents have to be submitted to the corresponding person. The evaluation sheets have to be treated confidentially and may only be submitted to the concerning head of delegation, rider or coach. 
 
-At _World Championships_ , the evaluation sheets have to be submitted to the head of delegation. 
+At _World Championships_, the evaluation sheets have to be submitted to the head of delegation. 
 
 _(text modified on 01.01.16)_ 
 
@@ -628,8 +486,6 @@ INDOOR CYCLING
 E0126 
 
 15 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.1.026** Responsibility of commissaires 
 
@@ -697,8 +553,6 @@ E0126
 
 16 
 
-**UCI CYCLING REGULATIONS** 
-
 - in case a rider forgets the “START” call at the beginning of the performance, the Chief Commissaire will determine the moment of starting the time. 
 
 - is observing the performance closely in order to be able to decide in case of interruptions or extra ordinary occurrences. 
@@ -732,8 +586,6 @@ INDOOR CYCLING
 E0126 
 
 17 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II SPECIFIC RULES** 
 
@@ -789,8 +641,6 @@ E0126
 
 18 
 
-**UCI CYCLING REGULATIONS** 
-
 |**8.2.007**|Interruption of the riding performance|
 |---|---|
 ||The rider/coach will announce a defect of his bicycle, an injury or illness by|
@@ -799,8 +649,6 @@ E0126
 ||Commands of execution can be given only by the respective riders on the|
 ||competition surface.|
 ||_(text modified on 01.01.16)_|
-
-
 
 - **8.2.009** Announcing figures During all events announcing and/or showing the figures by outsiders is not allowed. _(text modified on 01.01.16)_ 
 
@@ -840,8 +688,6 @@ E0126
 
 19 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **8.2.015** Body posture 
 
 - During the execution of the figures a correct body posture is required in the sense of sportmenlike artistic cycling which may not be changed during the whole execution of a figure. Exceptions are the figures where a changing of the body posture is necessary. 
@@ -850,15 +696,13 @@ _(text modified on 01.01.16)_
 
 ## **8.2.016** Free-hand (frh.) 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0020-05.png)
-
 
 If free-hand (frh.) is written in the name of a figure all riders have to ride the entire way of stretch free-hand. 
 
 A way of stretch is considered to be a freehand distance if all riders have no contact with their hands to the handlebar, the bicycle or another rider, unless a grip connection is prescribed in the explanations of figures. 
 
-Arms which are not connected by a grip connection have to be stretched, horizontally, sidewards by an angle of 90° to 110° towards the body (see drawing). ( **ACT4** : with exception of door-figures, surrounding and compass). 
+Arms which are not connected by a grip connection have to be stretched, horizontally, sidewards by an angle of 90° to 110° towards the body (see drawing). ( **ACT4**: with exception of door-figures, surrounding and compass). 
 
 _(text modified on 01.01.16, 01.01.23)_ 
 
@@ -882,9 +726,7 @@ Except figures with the text “raiser” all figures have to be performed with 
 
 Exceptions are described in the explanations of figures. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0020-20.png)
-
 
 _(text modified on 01.01.16)_ 
 
@@ -894,17 +736,13 @@ E0126
 
 20 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **8.2.020** Raiser 
 
 If “raiser” is written in the name of a figure, the total way of stretch of the figure has to be performed in the described raiser-position. Only the rear wheel is in contact with the floor. 
 
 ## _(text modified on 01.01.16)_ 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0021-04.png)
-
 
 ## **8.2.021** Forward 
 
@@ -912,9 +750,7 @@ All figures have to be performed in forward direction, if they are not marked in
 
 At all figures with both wheels on the floor, turns, squats and jumps forward is determined by the bicycle. At all raiser figures the direction of the riders’ face is decisive for the forward direction. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0021-08.png)
-
 
 ## _(text modified on 01.01.16)_ 
 
@@ -924,9 +760,7 @@ When figures are marked in the name of the figure with “backward” they have 
 
 At all figures with both wheels on the floor, turns, squats and jumps the backward motion is determined by the movement of the rolling bicycle. At all raiser figures the direction against the riders’ face is decisive for the backward direction. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0021-13.png)
-
 
 ## _(text modified on 01.01.16)_ 
 
@@ -959,8 +793,6 @@ INDOOR CYCLING
 E0126 
 
 21 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.16; 01.01.20; 01.01.25)_ 
 
@@ -1003,8 +835,6 @@ INDOOR CYCLING
 E0126 
 
 22 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.2.032** Simultaneous execution of figures 
 
@@ -1068,8 +898,6 @@ E0126
 
 23 
 
-**UCI CYCLING REGULATIONS** 
-
    - b) For line-figures, pull-figures, S and 8, the distance between the riders may not be more than 2 metres. Exceptions are described in the explanations of figures. 
 
 - **8.2.038** Rules for figures performed “inside individual”, “turn on” and “outside individual” Explanation: 
@@ -1120,8 +948,6 @@ E0126
 
 24 
 
-**UCI CYCLING REGULATIONS** 
-
 Execution of inside individual (see a). The outside individual can be executed in any way. The way of riding of all riders has to be uniform. 
 
 2. free-hand inside individual / free-hand inside and outside individual: a) free-hand inside individual (frh. inside indiv.) 
@@ -1170,13 +996,9 @@ E0126
 
 25 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.16)_ 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0026-02.png)
-
 
 ## **8.2.043** Half circle (HC.) 
 
@@ -1190,17 +1012,13 @@ An eight is formed by two circles. Both circles must have the same diametre with
 
 The circles have to be executed each in one half of the competition surface. The competition surface is split in two by an imaginary straight line, which runs through the inner circle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0026-09.png)
-
 
 ## **8.2.045** Half eight (S) 
 
 A half eight is formed by two half circles. Both half circles must have the same diametre with a minimum of 4 metres. One circle has to be performed clockwise, the other half circle has to be performed anti-clockwise. The change of direction has to be performed within the inner circle. The inner circle has to be crossed once during the execution of a S. The sequence of the figure starts at the longitudinal or transversal axis of the competition surface. The half circles have to be executed at two, across from each other, placed quarters of the competition surface (one half circle in each quarter). 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0026-12.png)
-
 
 The competition surface is split in 4 quarters by the longitudinal and transversal axis. 
 
@@ -1215,8 +1033,6 @@ INDOOR CYCLING
 E0126 
 
 26 
-
-**UCI CYCLING REGULATIONS** 
 
 riders. At least 3 complete, successive, spinnings, within the mentioned diametre of 50cm, have to be performed simultaneously by all riders. 
 
@@ -1258,17 +1074,13 @@ E0126
 
 27 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Complement for pair artistic cycling** 
 
 - **8.2.050** Counter eight (Count. 8) 
 
 Each rider executes an eight. The sequence of the figure starts on the inner circle, where both riders ride from opposite directions, with a touch of hands of the riders (except handstand). The figure ends after completing the total way of stretch with a touch of hands (except handstand) of the riders, again on the inner circle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0028-04.png)
-
 
 - **8.2.051** Counter circle (Count. C) 
 
@@ -1276,9 +1088,7 @@ Each rider executes each on a separate half of the competition surface a complet
 
 The sequence of the figure starts and ends on the inner circle with a touch of hands of the riders. The way of stretch which is executed during the handlebar-turn belongs to the content of the total way of stretch of the counter circle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0028-08.png)
-
 
 _(text modified on 01.01.16)_ 
 
@@ -1307,8 +1117,6 @@ INDOOR CYCLING
 E0126 
 
 28 
-
-**UCI CYCLING REGULATIONS** 
 
 - before and after the single rings left, at least 2 metres have to be performed in the starting position (exception: stars) The way of stretch has to be measured on the outside riding rider. 
 
@@ -1362,8 +1170,6 @@ E0126
 
 29 
 
-**UCI CYCLING REGULATIONS** 
-
 after all riders have performed a complete drive and reached the starting position again. 
 
 - Execution of 2 connected single rings right during a figure: 
@@ -1402,8 +1208,6 @@ E0126
 
 30 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.2.061** Star inside 
 
 All riders are standing, at the same distances between each other, without moving, around the inner circle. All are connected to each other by hand-in-hand grip connection. The bicycle head tubes have to point to the inner circle. 
@@ -1435,8 +1239,6 @@ INDOOR CYCLING
 E0126 
 
 31 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **8.2.066** Longline 
 
@@ -1473,8 +1275,6 @@ INDOOR CYCLING
 E0126 
 
 32 
-
-**UCI CYCLING REGULATIONS** 
 
 with their left hands. All mills have to be performed uniformly distributed on the longitudinal or transversal axis. The mills start when all riders are connected. Each rider has to be on a common axis, which runs parallel to the long or short side of the competition surface, with one rider of the other mill/s. The mills have to be performed simultaneously. 
 
@@ -1516,8 +1316,6 @@ E0126
 
 33 
 
-**UCI CYCLING REGULATIONS** 
-
 Exceptions applicable to the end of the figure are described in the explanations of figures. 
 
 _(text modified on 01.01.26)_ 
@@ -1558,8 +1356,6 @@ E0126
 
 34 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **8.2.081** Turbine 
 
 Three riders have to ride on a common axis, the center rider has to be located on the inner circle. The two outside riders are connected by a hand-in-hand grip with the center rider and ride around him. The center rider has to turn on his spot without pedalling, while the two outside riders rotate the center rider around his body longitudinal axis. Thus, the riders form a turbine. 
@@ -1584,8 +1380,6 @@ E0126
 
 35 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Split** 
 
 **Split 1021** Left foot standing on the left rear-pin, right foot standing on **1022** the right front-pin (or counterwise). Chest directed to the handlebar, without touching the handlebar with the leg. 
@@ -1598,9 +1392,7 @@ E0126
 
 Stand in front of the handlebar, back directed to the saddle. One foot on the frontpin, other foot on the down tube. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-07.png)
-
 
 ## **1031** 
 
@@ -1608,9 +1400,7 @@ Stand in front of the handlebar, back directed to the saddle. One foot on the fr
 
 Stand with one foot on the frontpin, handlebar in front of the rider, chest directed to the saddle. The free leg has to be stretched in moving direction, without touching the handlebar with the legs. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-11.png)
-
 
 **1032** 
 
@@ -1630,21 +1420,13 @@ Stand with one foot on the left rear-pin, other foot on the left front-pin (or c
 
 Stand with one foot on the left rear-pin, other foot on the left front-pin (or counterwise), chest directed to the saddle, without touching the handlebar with the leg. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-21.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-22.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-23.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-24.png)
-
 
 **1036 1037 1038 1039** 
 
@@ -1656,13 +1438,9 @@ Knee of one leg across the saddle, without extending the outer edge of the saddl
 
 Pushing one foot through the frame and placing foot on the front-pin. Free leg stretched forward, seat in the frame. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-30.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0036-31.png)
-
 
 **1040 1041** 
 
@@ -1671,8 +1449,6 @@ INDOOR CYCLING
 E0126 
 
 36 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Stand on pins** 
 
@@ -1694,13 +1470,9 @@ One leg through the frame, feet standing on the pedals, chest directed to the sa
 
 Standing upright with one foot solely on the down tube, other foot solely on the saddle tube, chest directed to the handlebar. Without touching the feet each other and without touching the handlebar with the leg. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0037-11.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0037-12.png)
-
 
 **1071 1076** 
 
@@ -1710,15 +1482,11 @@ E0126
 
 37 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Framestand rev.** 
 
 Standing upright with one foot solely on the down tube, other foot solely on the saddle tube, chest directed to the saddle. Without touching the feet each other and without touching the handlebar with the leg. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-03.png)
-
 
 **1077** 
 
@@ -1730,9 +1498,7 @@ Standing upright with one foot solely on the down tube, other foot solely on the
 
 Lying with front of the body on the handlebar, head directed to the saddle, closed legs stretched horizontally in moving direction. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-09.png)
-
 
 **1091** 
 
@@ -1740,9 +1506,7 @@ Lying with front of the body on the handlebar, head directed to the saddle, clos
 
 **a-b:** Lying with front of on the saddle, closed legs stretched horizontally backwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-13.png)
-
 
 **1092** 
 
@@ -1756,13 +1520,9 @@ Lying with back of the body in a straight line on the handlebar, stretched legs 
 
 Walking with feet on the front wheel tyre, both hands on the handlebar, chest directed to the saddle. The way of stretch for this figure has to be ¼ circle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-20.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-21.png)
-
 
 **1093 1096** 
 
@@ -1770,9 +1530,7 @@ Walking with feet on the front wheel tyre, both hands on the handlebar, chest di
 
 Stand free with one foot on the saddle and the other foot on the handlebar. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-25.png)
-
 
 **1101 1102** 
 
@@ -1780,9 +1538,7 @@ Stand free with one foot on the saddle and the other foot on the handlebar.
 
 Stand free with feet on the saddle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0038-29.png)
-
 
 ## **1103** 
 
@@ -1791,8 +1547,6 @@ INDOOR CYCLING
 E0126 
 
 38 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Fronthandlebarstand, Fronthandlebarstand turn (T) 1104** 
 
@@ -1804,7 +1558,7 @@ From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possi
 
 **i - l:** From fronthandlebarstand with half or multiple front wheel turn(s) to the fronthandlebarstand or handlebarstand reverse. After the last turn, the end position has to be held for at least 2 metres. 
 
-**m - p:** The rider jumps from regular seat to the fronthandlebarstand; further according figure **i – l** . 
+**m - p:** The rider jumps from regular seat to the fronthandlebarstand; further according figure **i – l**. 
 
 ## **Handlebarstand rev. 1105** Stand free with feet on the handlebar-grips, chest directed to the saddle. **Saddle support scale 1111** 
 
@@ -1817,8 +1571,6 @@ INDOOR CYCLING
 E0126 
 
 39 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Free support balance one leg extended** 
 
@@ -1842,33 +1594,23 @@ Arms stretched, hands placed on the handlebar-grips, legs stretched, chest direc
 
 ## **L-shape hold sidewards** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-12.png)
-
 
 **1113a** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-14.png)
-
 
 ## **1113b** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-16.png)
-
 
 **1113c** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-18.png)
-
 
 ## **1115** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-20.png)
-
 
 **1116** 
 
@@ -1884,23 +1626,16 @@ Arms stretched, one hand placed on the saddle, other hand placed on the handleba
 
 Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-28.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-29.png)
 
-
 **1118** 
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0040-31.png)
 
-
 **----- Start of picture text -----**<br>
 1121<br>**----- End of picture text -----**<br>
-
 
 INDOOR CYCLING 
 
@@ -1908,15 +1643,11 @@ E0126
 
 40 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Shoulderstand** 
 
 Shoulderstand with one shoulder on the saddle or crossbar, boths hands on the handlebar. Legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0041-03.png)
-
 
 ## **1122** 
 
@@ -1926,17 +1657,17 @@ Shoulderstand with one shoulder on the saddle or crossbar, boths hands on the ha
 
 ## **L-shape hold sidewards saddle handlebar handstand (T)** 
 
-From L-shape hold sidewards, which has to be performed for at least 2 metres, going directly to the handstand without touching the frame with foot/feet. The handstand has to be performed as described in **1123a-d** . The way of stretch HC., C., S or 8 starts in the position of the saddle handlebar handstand. 
+From L-shape hold sidewards, which has to be performed for at least 2 metres, going directly to the handstand without touching the frame with foot/feet. The handstand has to be performed as described in **1123a-d**. The way of stretch HC., C., S or 8 starts in the position of the saddle handlebar handstand. 
 
 **1123 e 1123 f 1123 g 1123 h** 
 
-The tactical enlargement is possible for the kind of execution as Swiss saddle handlebar handstand which has to be performed as described in **1123i-l** . 
+The tactical enlargement is possible for the kind of execution as Swiss saddle handlebar handstand which has to be performed as described in **1123i-l**. 
 
-The tactical enlargement is possible for the kind of execution as German saddle handlebar handstand which has to be performed as described in **1123m-p** . 
+The tactical enlargement is possible for the kind of execution as German saddle handlebar handstand which has to be performed as described in **1123m-p**. 
 
 ## **L-shape hold sidewards Swiss saddle handlebar handstand** 
 
-From L-shape hold sidewards, which has to be performed for at least 2 metres, going directly to the handstand with stretched legs over the frame but without touching the frame with foot/feet. After passing the frame, with stretched and straddled legs and stretched arms to the handstand, which has to be performed as described in **1123a-d** . The way of stretch HC., C., S or 8 starts in the position of the saddle handlebar handstand. 
+From L-shape hold sidewards, which has to be performed for at least 2 metres, going directly to the handstand with stretched legs over the frame but without touching the frame with foot/feet. After passing the frame, with stretched and straddled legs and stretched arms to the handstand, which has to be performed as described in **1123a-d**. The way of stretch HC., C., S or 8 starts in the position of the saddle handlebar handstand. 
 
 **1123 i 1123 j 1123 k 1123 l** 
 
@@ -1952,31 +1683,29 @@ E0126
 
 41 
 
-**UCI CYCLING REGULATIONS** 
-
 **Handlebar handstand 1124 a** Handstand with both hands on the handlebar-grips. Arms **1124 b** stretched, legs closed and stretched straight upwards. **1124 c 1124 d** 
 
 ## **L-shape hold handlebar handstand (T)** 
 
-**L-shape hold handlebar handstand (T) 1124 e** From L-shape hold or L-shape hold rev., which has to be **1124 f** performed for at least 2 metres, going directly to the **1124 g** handstand without touching the handlebar and/or frame with **1124 h** foot/feet. The handstand has to be performed as described in **1124a-d** . The way of stretch HC., C., S or 8 starts in the position of the handlebar handstand. 
+**L-shape hold handlebar handstand (T) 1124 e** From L-shape hold or L-shape hold rev., which has to be **1124 f** performed for at least 2 metres, going directly to the **1124 g** handstand without touching the handlebar and/or frame with **1124 h** foot/feet. The handstand has to be performed as described in **1124a-d**. The way of stretch HC., C., S or 8 starts in the position of the handlebar handstand. 
 
-The tactical enlargement is possible for the kind of execution as Swiss handlebar handstand, which has to be performed as described in **1124i-l** . 
+The tactical enlargement is possible for the kind of execution as Swiss handlebar handstand, which has to be performed as described in **1124i-l**. 
 
-The tactical enlargement is possible for the kind of execution as German handlebar handstand, which has to be performed as described in **1124m-p** . 
+The tactical enlargement is possible for the kind of execution as German handlebar handstand, which has to be performed as described in **1124m-p**. 
 
 ## **L-shape hold Swiss handlebar handstand** 
 
-From L-shape hold or L-shape hold rev., which has to be performed for at least 2 metres, going directly to the handstand with stretched legs over the handlebar without touching the handlebar and/or frame with foot/feet. After passing the handlebar, with stretched and straddled legs and stretched arms to the handstand, which has to be performed as described in **1124a-d** . The way of stretch HC., C., S or 8 starts in the position of the handlebar handstand. 
+From L-shape hold or L-shape hold rev., which has to be performed for at least 2 metres, going directly to the handstand with stretched legs over the handlebar without touching the handlebar and/or frame with foot/feet. After passing the handlebar, with stretched and straddled legs and stretched arms to the handstand, which has to be performed as described in **1124a-d**. The way of stretch HC., C., S or 8 starts in the position of the handlebar handstand. 
 
 **1124 i 1124 j 1124 k 1124 l** 
 
 ## **L-shape hold German handlebar handstand** 
 
-From L-shape hold or L-shape hold rev., which has to be performed for at least 2 metres, going directly to the handstand with stretched legs over the handlebar without touching the handlebar or else with foot/feet. After passing the handlebar with stretched, closed legs and stretched arms to the handstand, which has to be performed as described in **1124a-d** . The way of stretch HC., C., S or 8 starts in the position of the handlebar handstand. 
+From L-shape hold or L-shape hold rev., which has to be performed for at least 2 metres, going directly to the handstand with stretched legs over the handlebar without touching the handlebar or else with foot/feet. After passing the handlebar with stretched, closed legs and stretched arms to the handstand, which has to be performed as described in **1124a-d**. The way of stretch HC., C., S or 8 starts in the position of the handlebar handstand. 
 
 **1124m 1124 n 1124 o 1124 p** 
 
-**Handlebar support straddle handlebar handstand 1124 q** From handlebar support straddle, which has to be performed **1124 r** for at least 2 metres, with stretched legs and stretched arms **1124 s** directly to the handstand, which has to be performed as **1124 t** described in **1124a-d** . The way of stretch of HC., C., S or 8 starts in the position of the handlebar handstand. 
+**Handlebar support straddle handlebar handstand 1124 q** From handlebar support straddle, which has to be performed **1124 r** for at least 2 metres, with stretched legs and stretched arms **1124 s** directly to the handstand, which has to be performed as **1124 t** described in **1124a-d**. The way of stretch of HC., C., S or 8 starts in the position of the handlebar handstand. 
 
 INDOOR CYCLING 
 
@@ -1984,9 +1713,7 @@ E0126
 
 42 
 
-**UCI CYCLING REGULATIONS** 
-
-**Stillstand on pedals, Stillstand pedal front wheel 1141 a-b:** Stand with feet, solely, on the pedals, back directed to the saddle. The stillstand has to be performed for at least 3 seconds. **c-d:** Standing with one foot, solely, on a pedal, the other foot on the front wheel tyre, back directed to the saddle. The stillstand has to be performed for at least 3 seconds. _(text modified on 01.01.12; 01.01.16; 01.01.17; 01.01.20; 01.01.25)_ **8.3.002** Sidestand turn, squats and jumps **Sidestand turn 1151 a** Chest directed to the handlebar, right foot on the right frontpin, left foot on the right pedal (or counterwise). With half turn of the handlebar and the front wheel to the backhang. While performing the turn, the foot must not leave the pedal. **Reg. seat squat 1156** Squat from regular seat over the handlebar to the fronthang. **Fronthang squat 1157 a** : Squat from fronthang over the handlebar to the regular seat. Pushing off with one foot from a front-pin is allowed. **b-c** : Like **a** : but without pushing off from the front-pin. **Backhang squat 1158 a:** Squat from backhang over the handlebar to the handlebarseat reverse. Pushing off with one foot from a frontpin is allowed. **b-c:** Like **a:** but without pushing off from the front-pin. **Handlebarseat rev. squat 1159** Squat from handlebarseat reverse over the handlebar to the backhang. **Handlebarseat rev. scissors jump 1171 a** From handlebarseat reverse crossing stretched legs above the saddle. Then changing grips to regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **1171 b** 
+**Stillstand on pedals, Stillstand pedal front wheel 1141 a-b:** Stand with feet, solely, on the pedals, back directed to the saddle. The stillstand has to be performed for at least 3 seconds. **c-d:** Standing with one foot, solely, on a pedal, the other foot on the front wheel tyre, back directed to the saddle. The stillstand has to be performed for at least 3 seconds. _(text modified on 01.01.12; 01.01.16; 01.01.17; 01.01.20; 01.01.25)_ **8.3.002** Sidestand turn, squats and jumps **Sidestand turn 1151 a** Chest directed to the handlebar, right foot on the right frontpin, left foot on the right pedal (or counterwise). With half turn of the handlebar and the front wheel to the backhang. While performing the turn, the foot must not leave the pedal. **Reg. seat squat 1156** Squat from regular seat over the handlebar to the fronthang. **Fronthang squat 1157 a**: Squat from fronthang over the handlebar to the regular seat. Pushing off with one foot from a front-pin is allowed. **b-c**: Like **a**: but without pushing off from the front-pin. **Backhang squat 1158 a:** Squat from backhang over the handlebar to the handlebarseat reverse. Pushing off with one foot from a frontpin is allowed. **b-c:** Like **a:** but without pushing off from the front-pin. **Handlebarseat rev. squat 1159** Squat from handlebarseat reverse over the handlebar to the backhang. **Handlebarseat rev. scissors jump 1171 a** From handlebarseat reverse crossing stretched legs above the saddle. Then changing grips to regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. **1171 b** 
 
 ## **Backhang scissors jump** 
 
@@ -1998,23 +1725,19 @@ E0126
 
 43 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Turning jump / Turning-scissors jump** 
 
 **a:** From sidestand foot-cranking jump with half turn of the front wheel, then squat over the handlebar to handlebarseat reverse. The foot has to be removed from the pedal during the jump. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-03.png)
-
 
 **1172** 
 
-**b** : From regular seat jump with half turn of the front wheel, then squat over the handlebar to the handlebarseat reverse. 
+**b**: From regular seat jump with half turn of the front wheel, then squat over the handlebar to the handlebarseat reverse. 
 
-**c** : From handlebarseat reverse squat over the handlebar, immediately followed by jump with half turn of the front wheel to the regular seat. 
+**c**: From handlebarseat reverse squat over the handlebar, immediately followed by jump with half turn of the front wheel to the regular seat. 
 
-**d** : From regular seat jump with half turn of the front wheel to stand bent on frame reverse. 
+**d**: From regular seat jump with half turn of the front wheel to stand bent on frame reverse. 
 
 **e:** From regular seat jump with half turn of the front wheel over the handlebar, without an intermediate seat in position handlebarseat rev., crossing stretched legs above the saddle, and changing grips to the regular seat. Turning the upper part of the body while crossing or grip-changing. Intermediate sitting, after crossing, on the frame or the handlebar is allowed. 
 
@@ -2026,13 +1749,9 @@ E0126
 
 **a:** From sidestand foot cranking with half turn of the front wheel to backhang. The foot has to be removed from the pedal during the jump. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-13.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-14.png)
-
 
 **1173** 
 
@@ -2044,9 +1763,7 @@ E0126
 
 The tactical enlargement of the turning jumps is possible from two to seven, three to eight, from four to nine and from five to ten turning jumps. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0044-20.png)
-
 
 **1175** 
 
@@ -2058,8 +1775,6 @@ E0126
 
 44 
 
-**UCI CYCLING REGULATIONS** 
-
 **Pedal jump 1181** From side pedal stand jump simultaneously with feet over the crossbar to side pedal stand on the other side of the bicycle. **Jump Saddle handlebarstand  to fronthandlebarstand 1184** Jump from the Saddle handlebarstand to the fronthandlebarstand that must be performed after the jump, for at least 2 metres. **1186** 
 
 ## **Maute jump** 
@@ -2068,7 +1783,7 @@ Jump from the saddlestand to the fronthandlebarstand which has to be performed, 
 
 ## _(text modified on 01.01.16; 01.01.26)_ 
 
-**8.3.003** Raiser figures **Raiser reg. seat 1201 a-d/i:** Seat on the saddle, chest directed to the handlebar, **1202** feet on the pedals. **e-h:** Seat on the saddle, chest directed to the handlebar, one foot on a pedal. The free leg has to be stretched without touching the bicycle. **Raiser reg. seat rev. 1203 a-d/g** : Seat on the saddle, back directed to the handlebar, **1204** feet on the pedals. **1203e-f:** Seat on the saddle, back directed to the handlebar, one foot on a pedal. The free leg has to be stretched without touching the bicycle. **Raiser lady seat 1211** Seat on the saddle, chest directed to the handlebar, one foot **1212** on a pedal. The free leg has to be stretched over the crossbar to the opposite side of the bicycle and below the handlebar without holding on the front wheel with the foot. **Raiser stand on pin / raiser stand on pin bw. 1216 1216a-d/1217a-e:** Stand with the left foot on the left rear-pin **1217** and with the right foot on the right pedal (or counterwise), chest directed to the handlebar. 
+**8.3.003** Raiser figures **Raiser reg. seat 1201 a-d/i:** Seat on the saddle, chest directed to the handlebar, **1202** feet on the pedals. **e-h:** Seat on the saddle, chest directed to the handlebar, one foot on a pedal. The free leg has to be stretched without touching the bicycle. **Raiser reg. seat rev. 1203 a-d/g**: Seat on the saddle, back directed to the handlebar, **1204** feet on the pedals. **1203e-f:** Seat on the saddle, back directed to the handlebar, one foot on a pedal. The free leg has to be stretched without touching the bicycle. **Raiser lady seat 1211** Seat on the saddle, chest directed to the handlebar, one foot **1212** on a pedal. The free leg has to be stretched over the crossbar to the opposite side of the bicycle and below the handlebar without holding on the front wheel with the foot. **Raiser stand on pin / raiser stand on pin bw. 1216 1216a-d/1217a-e:** Stand with the left foot on the left rear-pin **1217** and with the right foot on the right pedal (or counterwise), chest directed to the handlebar. 
 
 ## **Raiser sidestand / raiser sidestand bw.** 
 
@@ -2079,8 +1794,6 @@ INDOOR CYCLING
 E0126 
 
 45 
-
-**UCI CYCLING REGULATIONS** 
 
 **Raiser stand on pin rev. 1219 a** Stand with the right foot on the left rear-pin and the left foot **1219 b** on the right pedal (or counterwise), back directed to the handlebar. 
 
@@ -2112,8 +1825,6 @@ E0126
 
 46 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **8.3.005** Final figures 
 
 A final figure can only be performed as last figure of the riding performance. The rider has to finish the figure standing on the competition surface (except for figure **o** and **p** ), holding the bicycle in one hand. The other arm has to be stretched, horizontally sidewards. **Reg. seat handlebar squat 1301 a** From position regular seat squat over the handlebar with feet standing on the floor. During the jump, the handlebar has to be held with both hands. **Side pedal stand squat over the bicycle 1301 b** Feet on one pedal, squat over the frame with feet standing on the floor. During the jump the handlebar has to be held with both hands. **Reg. seat handlebar straddle 1301 c** From position regular seat jump with straddled legs over the handlebar ~~to~~ with feet standing on the floor. The handlebar has to be released during the jump. **Reg. seat handlebar squat ½ twist 1301 d** From position regular seat squat over the handlebar with a ½ twist with feet standing on the floor. The ½ twist has to end before the rider is standing on the floor. After the jump over the handlebar the rider has to release the handlebar until the end of the ½ twist. **Handlebarseat rev. handlebar squat 1301 e** From position handlebarseat reverse squat over the handlebar with feet standing on the floor. During the jump the handlebar has to be held with both hands. **Handlebarseat rev. handlebar straddle 1301 f** From position handlebarseat reverse jump with straddled legs over the handlebar with feet standing on the floor. The handlebar has to be released during the jump. **Stand bent on saddle handstandloop 1301 g** From position stand bent on saddle with handstandloop with feet standing on the floor in front of the handlebar. The handstand has to be performed with stretched arms, stretched and closed legs above the handlebar. A short stop of the loop at this position is no obligation. After the handstand both hands have to be released from the handlebar, after the following rotation around the body width axis the rider has to land on the floor. 
@@ -2123,8 +1834,6 @@ INDOOR CYCLING
 E0126 
 
 47 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Reg. seat handstandloop** 
 
@@ -2140,8 +1849,6 @@ E0126
 
 48 
 
-**UCI CYCLING REGULATIONS** 
-
 |**Handstand bicycle lying down**|**1301 o**|
 |---|---|
 |Handstand, on the frame of the bicycle, which is lying on the||
@@ -2151,9 +1858,7 @@ E0126
 |performed for at least 3 seconds.||
 |**L-shape hold swiss handstand bicycle lying down**|**1301 p**|
 
-
-
-From position L-shape hold performed on the frame of the bicycle, which is lyin ~~g o~~ n the floor. The L-shape hold has to be shown for at least 3 seconds, then going to the handstand with stretched legs, without touching the bicycle with foot/feet. After passing the frame/bicycle, with stretched and straddled legs and stretched arms direct to the handstand, which has to be performed as described in **1301o** . The handstand has to be performed for at least 3 seconds. 
+From position L-shape hold performed on the frame of the bicycle, which is lyin ~~g o~~ n the floor. The L-shape hold has to be shown for at least 3 seconds, then going to the handstand with stretched legs, without touching the bicycle with foot/feet. After passing the frame/bicycle, with stretched and straddled legs and stretched arms direct to the handstand, which has to be performed as described in **1301o**. The handstand has to be performed for at least 3 seconds. 
 
 _(text modified on 01.01.16; 01.01.17, 01.01.25)_ 
 
@@ -2168,8 +1873,6 @@ INDOOR CYCLING
 E0126 
 
 49 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Handlebarseat rev.** 
 
@@ -2211,45 +1914,25 @@ In squat position with one foot on the crossbar, free leg horizontally stretched
 
 Knee on the saddle, trunk bent-forward to the handlebar, free leg stretched backwards in straight line with trunk and head. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-21.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-22.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-23.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-24.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-25.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-26.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-27.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-28.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-29.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0050-30.png)
-
 
 ## **2022** 
 
@@ -2266,8 +1949,6 @@ INDOOR CYCLING
 E0126 
 
 50 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Lying on saddle; Lying on saddle and handlebar** 
 
@@ -2297,29 +1978,17 @@ From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possi
 
 **a-f:** Stand free with feet on the handlebar-grips, back directed to the saddle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-15.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-16.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-17.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-18.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-19.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0051-20.png)
-
 
 ## **2061** 
 
@@ -2335,7 +2004,7 @@ From one turn a tactical enlargement of the fronthandlebarstand turn(s) is possi
 
 **g-j:** From fronthandlebarstand after releasing grip connection with half or multiple front wheel turn(s) to the fronthandlebarstand or handlebarstand reverse. After the last turn, and before the grip connection, at least 2 metres must be ridden in the handlebar position. The exercise ends with the grip connection. 
 
-**aa-ja:** The riders jump simultaneously from regular seat to fronthandlebarstand; further according figure **a-f** ; **g-j.** 
+**aa-ja:** The riders jump simultaneously from regular seat to fronthandlebarstand; further according figure **a-f**; **g-j.** 
 
 INDOOR CYCLING 
 
@@ -2343,17 +2012,13 @@ E0126
 
 51 
 
-**UCI CYCLING REGULATIONS** 
-
-**Counter circle fronthandlebarstand (T) 2070 k k-n:** From fronthandlebarstand with half or multiple front **2070 l** wheel turn(s) to the fronthandlebarstand or handlebarstand **2070 m** reverse. Execution of the figure according to the rule for **2070 n** counter circle **8.2.051** . After the last handlebarstand turn, but before the required hand touch, the end position has to be held for at least 2 metres. **ka-na:** The riders jump simultaneously from regular seat to the fronthandlebarstand; further according figure **k-n** . 
+**Counter circle fronthandlebarstand (T) 2070 k k-n:** From fronthandlebarstand with half or multiple front **2070 l** wheel turn(s) to the fronthandlebarstand or handlebarstand **2070 m** reverse. Execution of the figure according to the rule for **2070 n** counter circle **8.2.051**. After the last handlebarstand turn, but before the required hand touch, the end position has to be held for at least 2 metres. **ka-na:** The riders jump simultaneously from regular seat to the fronthandlebarstand; further according figure **k-n**. 
 
 ## **Handlebarstand rev.** 
 
 Stand free with feet on the handlebar-grips, chest directed to the saddle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-04.png)
-
 
 **2071** 
 
@@ -2361,9 +2026,7 @@ Stand free with feet on the handlebar-grips, chest directed to the saddle.
 
 Separate performed headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-08.png)
-
 
 ## **2073** 
 
@@ -2371,9 +2034,7 @@ Separate performed headstand on the saddle, both hands on the handlebar. Legs cl
 
 Separate performed shoulderstand with one shoulder on the saddle or crossbar, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-12.png)
-
 
 **2074** 
 
@@ -2381,9 +2042,7 @@ Separate performed shoulderstand with one shoulder on the saddle or crossbar, bo
 
 Separate performed handstand with one hand on the handlebar and the other hand on the saddle. Arms stretched, legs closed and stretched straight upwards, without leaning against handlebar-grip with the forearm and wrist. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0052-16.png)
-
 
 **2076 a 2076 b 2076 c** 
 
@@ -2393,7 +2052,7 @@ From L-shape hold sidewards, which has to be performed for at least 2 metres, go
 
 **2076 d 2076 e 2076 f** 
 
-The tactical enlargement is possible for the kind of execution as Swiss saddle handlebar handstand, which has to be performed as described in **2076g-i** . The tactical enlargement is possible for the kind of execution as German saddle handlebar handstand, which has to be performed as described in **2076j-l** . 
+The tactical enlargement is possible for the kind of execution as Swiss saddle handlebar handstand, which has to be performed as described in **2076g-i**. The tactical enlargement is possible for the kind of execution as German saddle handlebar handstand, which has to be performed as described in **2076j-l**. 
 
 INDOOR CYCLING 
 
@@ -2401,11 +2060,9 @@ E0126
 
 52 
 
-**UCI CYCLING REGULATIONS** 
-
 **L-shape hold sidewards Swiss saddle handlebar 2076 g handstand 2076 h** From L-shape hold sidewards, which has to be performed for **2076 i** at least 2 metres, going directly to the handstand with stretched legs over the frame but without touching the frame and/or handlebar with foot/feet. After passing the frame, with stretched and straddled legs and stretched arms to the handstand, which has to be performed as described in **2076ac.** The way of stretch HC., C. or count. 8 starts in the position of the saddle handlebar handstand. **L-shape hold sidewards German saddle handlebar 2076 j handstand 2076 k** From L-shape sidewards, which has to be performed for at **2076 l** least 2 metres, going directly to the handstand with stretched legs over the frame without touching the frame or else with foot/feet. After passing the frame with stretched, closed legs and stretched arms to the handstand, which has to be performed as described in **2076a-c.** The way of stretch HC., C. or count. 8 starts in the position of the saddle handstand. 
 
-**Handlebar handstand 2077 a** Separate performed handstand with both hands on the **2077 b** handlebar-grips. Arms stretched, legs closed and stretched **2077 c** straight upwards. **L-shape hold handlebar handstand (T) 2077 d** From L-shape hold or L-shape hold rev, which has to be **2077 e** performed for at least 2 metres, going directly to the **2077 f** handstand without touching the handlebar and/or frame with foot/feet. The handstand has to be performed as described in **2077a-c.** The way of stretch HC., C. or count. 8 starts in the position of the handlebar handstand. The tactical enlargement is possible for the kind of execution as Swiss handlebar handstand, which has to be performed as described in **2077g-i** . The tactical enlargement is possible for the kind of execution as German handlebar handstand, which has to be performed as described in **2077j-l** . 
+**Handlebar handstand 2077 a** Separate performed handstand with both hands on the **2077 b** handlebar-grips. Arms stretched, legs closed and stretched **2077 c** straight upwards. **L-shape hold handlebar handstand (T) 2077 d** From L-shape hold or L-shape hold rev, which has to be **2077 e** performed for at least 2 metres, going directly to the **2077 f** handstand without touching the handlebar and/or frame with foot/feet. The handstand has to be performed as described in **2077a-c.** The way of stretch HC., C. or count. 8 starts in the position of the handlebar handstand. The tactical enlargement is possible for the kind of execution as Swiss handlebar handstand, which has to be performed as described in **2077g-i**. The tactical enlargement is possible for the kind of execution as German handlebar handstand, which has to be performed as described in **2077j-l**. 
 
 **L-shape hold Swiss handlebar handstand 2077 g** From L-shape hold or L-shape hold rev, which has to be **2077 h** performed for at least 2 metres, going directly to the **2077 i** handstand with stretched legs over the handlebar without touching the handlebar and/or frame with foot/feet. After passing the handlebar, with stretched and straddled legs and stretched arms to the handstand, which has to be performed as described in **2077a-c.** The way of stretch HC, C or count. 8 starts in the position of the handlebar handstand. 
 
@@ -2415,11 +2072,9 @@ E0126
 
 53 
 
-**UCI CYCLING REGULATIONS** 
-
 **L-shape hold German handlebar handstand 2077 j** From L-shape hold or L-shape hold rev, which has to be **2077 k** performed for at least 2 metres, going directly to the **2077 l** handstand with stretched legs over the handlebar without touching the handlebar or else with foot/feet. After passing the handlebar with stretched, closed legs and stretched arms to the handstand, which has to be performed as described in **2077a-c.** The way of stretch HC., C. or count. 8 starts in the position of the handlebar handstand. 
 
-**Handlebar support straddle handlebar handstand 2077 m** From handlebar support straddle, which has to be performed **2077 n** for at least 2 metres with stretched legs and stretched arms **2077 o** directly to the handstand, which has to be performed as described in **2077a-c** . The way of stretch of HC., C., S or 8 starts in the position of the handlebar handstand. **Jump Saddle handlebarstand to fronthandlebarstand 2079** Jump from the Saddle handlebarstand to the fronthandlebarstand that must be performed after the jump, for at least 2 metres. It is only allowed to perform the jumps riding opposite to each other during execution of a circle or after a counter eight. The jumps have to be performed simultaneously. Riders do not have to touch hands before and after the jump. **Maute jump 2081** Jump from the saddlestand separate to the fronthandlebarstand which has to be performed, after the jump, for at least 2 metres. It is only allowed to perform the jumps riding opposite to each other during execution of a circle or after a counter eight. The jumps have to be performed simultaneously. Riders do not have to touch hands before and after the jump. **Stillstand on pedals, Stillstand pedal front wheel 2091 a-b:** Stand with feet, solely, on the pedals, back directed to the saddle. The stillstand has to be performed for at least 3 seconds. **c-d:** Stand with one foot, solely, on a pedal, the other foot on front wheel tyre, back directed to saddle. The stillstand has to be performed for at least 3 seconds. 
+**Handlebar support straddle handlebar handstand 2077 m** From handlebar support straddle, which has to be performed **2077 n** for at least 2 metres with stretched legs and stretched arms **2077 o** directly to the handstand, which has to be performed as described in **2077a-c**. The way of stretch of HC., C., S or 8 starts in the position of the handlebar handstand. **Jump Saddle handlebarstand to fronthandlebarstand 2079** Jump from the Saddle handlebarstand to the fronthandlebarstand that must be performed after the jump, for at least 2 metres. It is only allowed to perform the jumps riding opposite to each other during execution of a circle or after a counter eight. The jumps have to be performed simultaneously. Riders do not have to touch hands before and after the jump. **Maute jump 2081** Jump from the saddlestand separate to the fronthandlebarstand which has to be performed, after the jump, for at least 2 metres. It is only allowed to perform the jumps riding opposite to each other during execution of a circle or after a counter eight. The jumps have to be performed simultaneously. Riders do not have to touch hands before and after the jump. **Stillstand on pedals, Stillstand pedal front wheel 2091 a-b:** Stand with feet, solely, on the pedals, back directed to the saddle. The stillstand has to be performed for at least 3 seconds. **c-d:** Stand with one foot, solely, on a pedal, the other foot on front wheel tyre, back directed to saddle. The stillstand has to be performed for at least 3 seconds. 
 
 _(text modified on 01.01.12; 01.01.16; 01.01.17; 01.01.20; 01.01.26)_ 
 
@@ -2431,17 +2086,13 @@ E0126
 
 54 
 
-**UCI CYCLING REGULATIONS** 
-
 **Raiser reg. seat rev. 2135** Seat on the saddle, back directed to the handlebar, feet on **2136** the pedals. **2137 2138** 
 
 ## **Raiser lady seat** 
 
 Seat on the saddle, chest directed to the handlebar, one foot on a pedal. The free leg has to be stretched over the crossbar to the opposite side of the bicycle and below the handlebar without holding on the front wheel with the foot. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0055-04.png)
-
 
 **2147** 
 
@@ -2464,8 +2115,6 @@ INDOOR CYCLING
 E0126 
 
 55 
-
-**UCI CYCLING REGULATIONS** 
 
 |**8.3.008**|Turns on the spot on two bicycles||
 |---|---|---|
@@ -2507,23 +2156,17 @@ E0126
 ||Seat on the saddle, chest directed to the handlebar, feet on|**2269**|
 ||the pedals. / Stand with feet on the partner’s shoulders.||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 56 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Reg. seat / Chest suspended hang** 
 
 Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Hanging with chest-grip on the partner’s back, head downwards, upwards stretched and closed legs in straight line with the body. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-03.png)
-
 
 **2270 2271** 
 
@@ -2531,9 +2174,7 @@ Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Hangi
 
 Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Stand with feet on the handlebar-grips. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-07.png)
-
 
 **2276** 
 
@@ -2541,9 +2182,7 @@ Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Stand
 
 Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Handstand with both hands on the handlebargrips, arms stretched, legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-11.png)
-
 
 **2277 a 2277 b** 
 
@@ -2557,9 +2196,7 @@ Seat on the saddle, chest directed to the handlebar, feet on the pedals / From h
 
 Seat on the saddle, back directed to the handlebar, feet on the pedals. / Seat on the partner’s shoulders. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0057-18.png)
-
 
 **2281 2282** 
 
@@ -2573,15 +2210,11 @@ E0126
 
 57 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Handlebarseat / Stand on pins; Saddlestand** 
 
 **a-d:** Seat on the handlebar, back directed to the saddle. The free leg stretched forward, horizontally. Other foot on the down tube. / Stand with feet each on a rear-pin. Both knees behind the saddle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-03.png)
-
 
 **2296** 
 
@@ -2611,47 +2244,30 @@ Seat on the handlebar, chest directed to the saddle, feet on the pedals. / Hangi
 
 Seat on the handlebar, chest directed to the saddle, feet on the pedals. / Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-18.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-19.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-20.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-21.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-22.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-23.png)
 
-
 **2301 2302** 
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0058-25.png)
 
-
 **----- Start of picture text -----**<br>
 2303<br>2304<br>2305<br>2306<br>**----- End of picture text -----**<br>
-
 
 INDOOR CYCLING 
 
 E0126 
 
 58 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Frontstand / Stand on pins; Saddlestand** 
 
@@ -2683,33 +2299,19 @@ Pushing one foot through the frame and placing the foot on the front-pin. Free l
 
 Pushing one foot through the frame and placing the foot on the front-pin. Free leg stretched forward, seat in the frame. / One hand on the saddle, elbow supporting the body, other hand on the handlebar (handlebar-grip may be used as support for the forearm). Head in moving-direction, legs stretched backwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-16.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-17.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-18.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-19.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-20.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-21.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0059-22.png)
-
 
 **2311 2316** 
 
@@ -2727,8 +2329,6 @@ E0126
 
 59 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Fronthang / Stand bent on saddle** 
 
 Both hands behind the back on the handlebar, front wheel between the legs, feet on the pedals. / Stand with one foot on the saddle, trunk bent-forward to the handlebar, free leg stretched backwards. 
@@ -2741,17 +2341,11 @@ Both hands behind the back on the handlebar, front wheel between the legs, feet 
 
 **a-b:** Both hands behind the back, on the handlebar, front wheel between the legs, feet on the pedals. / Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-07.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-08.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-09.png)
-
 
 **2331** 
 
@@ -2773,21 +2367,13 @@ In front of the headtube hanging on the handlebar, chest directed to the saddle,
 
 **Backhang / Headstand; Saddle handlebar handstand a-b:** In front of the headtube hanging on the handlebar, chest directed to the saddle, frame between the legs, feet on the pedals. / Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. **c-d:** Like **a-b** until slash / Handstand with one hand on the handlebar and the other hand on the saddle. Arms stretched, legs closed and stretched straight upwards, without leaning against the handlebar-grips with the forearm or wrist. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-20.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-21.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-22.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0060-23.png)
-
 
 **2341** 
 
@@ -2803,8 +2389,6 @@ E0126
 
 60 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Lying on handlebar / Stand bent on saddle; Saddlestand** 
 
 **a-b:** Lying with front of the body on the handlebar, head directed to the saddle, closed legs stretched horizontally in moving direction. / Stand with one foot on the saddle, trunk bent-forward directed to the handlebar, free leg stretched backwards. 
@@ -2819,7 +2403,7 @@ E0126
 
 ## **Waterscale / Stand bent on saddle; Saddlestand** 
 
-**a-b:** Lying with back of the body in a straight line on the handlebar, stretched legs or feet under the saddle. / Stand with one foot on the saddle, trunk bent-forward to the handlebar, free leg stretched backwards. **c-d:** Like **a-b** : until slash / Stand with feet on the saddle. 
+**a-b:** Lying with back of the body in a straight line on the handlebar, stretched legs or feet under the saddle. / Stand with one foot on the saddle, trunk bent-forward to the handlebar, free leg stretched backwards. **c-d:** Like **a-b**: until slash / Stand with feet on the saddle. 
 
 ## **Saddle handlebarstand / Saddle handlebarstand** 
 
@@ -2829,25 +2413,15 @@ Both stand with one foot on the saddle and the other foot on the handlebar.
 
 **a-b:** Stand with one foot on the saddle and the other foot on the handlebar. / Stand with feet each on a rear-pin. Both knees behind the saddle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-13.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-14.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-15.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-16.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-17.png)
-
 
 **2351 2352** 
 
@@ -2855,15 +2429,13 @@ Both stand with one foot on the saddle and the other foot on the handlebar.
 
 **2357** 
 
-**c-d:** Like **a-b** until slash / Stand with feet on the saddle. **e-f:** Like **a-b** : until slash / Stand with feet on the handlebar-grips. 
+**c-d:** Like **a-b** until slash / Stand with feet on the saddle. **e-f:** Like **a-b**: until slash / Stand with feet on the handlebar-grips. 
 
 ## **Handlebarstand / Stand on pins** 
 
-Stand with feet on the handlebar-grips. / Stand with feet each on a rear-pin. Both knees behind the saddle. **g-h:** The rider jumps from regular seat to the fronthandlebarstand; further according **a-b** . 
-
+Stand with feet on the handlebar-grips. / Stand with feet each on a rear-pin. Both knees behind the saddle. **g-h:** The rider jumps from regular seat to the fronthandlebarstand; further according **a-b**. 
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0061-24.png)
-
 
 **2358 a 2358 b 2358 g 2358 h** 
 
@@ -2872,8 +2444,6 @@ INDOOR CYCLING
 E0126 
 
 61 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Handlebarstand-turn ½ to multiple (T) / Stand on pins** 
 
@@ -2903,25 +2473,15 @@ Headstand on the saddle, both hands on the handlebar. Legs closed and stretched 
 
 Headstand on the saddle, both hands on the handlebar. Legs closed and stretched straight upwards. / Shoulderstand with one shoulder on the crossbar, boths hands on the handlebar. Legs closed and stretched straight upwards. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-15.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-16.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-17.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-18.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0062-19.png)
-
 
 **2359** 
 
@@ -2938,8 +2498,6 @@ INDOOR CYCLING
 E0126 
 
 62 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Headstand / Handlebar support straddle** 
 
@@ -2963,9 +2521,7 @@ Headstand on the saddle, both hands on the handlebar. Legs closed and stretched 
 
 Handstand with both hands on the handlebar-grips. Arms stretched, legs closed and stretched straight upwards. / Stand with feet on the saddle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0063-12.png)
-
 
 **2376 c 2376 d** 
 
@@ -2973,9 +2529,7 @@ Handstand with both hands on the handlebar-grips. Arms stretched, legs closed an
 
 Handstand with both hands on the handlebar-grips. Arms stretched, legs closed and stretched straight upwards. / Handstand with one hand on the handlebar and the other hand on the saddle. Arms stretched, legs closed and stretched straight upwards, without leaning against handlebar-grip with the forearm or wrist. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0063-16.png)
-
 
 **2377** 
 
@@ -2984,8 +2538,6 @@ INDOOR CYCLING
 E0126 
 
 63 
-
-**UCI CYCLING REGULATIONS** 
 
 **Stillstand on pedals / Shoulderseat, Shoulderstand 2391 a-b:** Stand with feet, solely on the pedals, back directed to the saddle. The stillstand has to be performed for at least 3 seconds. / Seat on the partner’s shoulders. **c-d:** Like **a-b** until slash / Stand with feet on the partner’s shoulders. 
 
@@ -3000,8 +2552,6 @@ INDOOR CYCLING
 E0126 
 
 64 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Raiser reg. seat rev. / Shoulderstand** 
 
@@ -3023,9 +2573,7 @@ E0126
 
 Seat on the head tube, front wheel behind oneself, feet on the pedals. / Seat on the partner’s shoulders. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0065-11.png)
-
 
 **2446 2447** 
 
@@ -3033,9 +2581,7 @@ Seat on the head tube, front wheel behind oneself, feet on the pedals. / Seat on
 
 Seat on the head tube, front wheel behind oneself, feet on the pedals. / Stand with feet on the partner’s shoulders. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0065-15.png)
-
 
 **2448 2449** 
 
@@ -3046,8 +2592,6 @@ INDOOR CYCLING
 E0126 
 
 65 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **8.3.013** 
 
@@ -3066,8 +2610,6 @@ INDOOR CYCLING
 E0126 
 
 66 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **4 alternate ring overlapping** 
 
@@ -3089,13 +2631,9 @@ Diagonal pull **(8.2.068)**
 
 During the figure, two riders have to perform each a single ring left and two riders have to perform each a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-11.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-12.png)
-
 
 **4006** 
 
@@ -3115,13 +2653,9 @@ All riders have to ride, following each other, performing an eight (8).
 
 Eight **(8.2.044)** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-22.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0067-23.png)
-
 
 **4007 a 4008 a 4010 a** 
 
@@ -3132,8 +2666,6 @@ INDOOR CYCLING
 E0126 
 
 67 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **4 f.e.o. eight through** 
 
@@ -3173,8 +2705,6 @@ E0126
 
 68 
 
-**UCI CYCLING REGULATIONS** 
-
 |B|**2 n.e.o. longline opposite direction through**|4013 c|
 |---|---|---|
 ||After half of the way of stretch one rider of each group has to ride||
@@ -3183,8 +2713,6 @@ E0126
 ||After half of the way of stretch one rider of each group has to ride||
 ||through the space between the two other riders. During the figure,||
 ||each rider has to perform a single ring left.||
-
-
 
 Single ring left **(8.2.053)** D **2 n.e.o. longline opposite direction through 4 s.r.r.** 4013 e After half of the way of stretch one rider of each group has to ride through the space between the two other riders. During the figure, each rider has to perform a single ring right. 
 
@@ -3214,8 +2742,6 @@ E0126
 
 69 
 
-**UCI CYCLING REGULATIONS** 
-
 **4 n.e.o. shortline 4017** All riders have to ride, next to each other, **4018** without grip connection performing a shortline. 
 
 Shortline **(8.2.064)** 
@@ -3232,9 +2758,7 @@ All riders have to perform a 2 connnected wingmill. During the figure, each ride
 
 2 con. wingmill **(8.2.072)** 50cm-spinnings **(8.2.046)** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0070-09.png)
-
 
 **4024 a 4024 b** 
 
@@ -3242,9 +2766,7 @@ All riders have to perform a 2 connnected wingmill. During the figure, each ride
 
 All riders have to form the grip connection of a 2 connected wingmill and have to release the grip connection in motion, then all riders have to perform 50cm-spinnings on the longitudinal axis or on the transversal axis. After completing the 50cm-spinnings the inside riders have to grip each other with their left hands above the inner circle and have to 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0070-13.png)
-
 
 **4024 c** 
 
@@ -3261,8 +2783,6 @@ INDOOR CYCLING
 E0126 
 
 70 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **2 f.e.o. half double circle / double circle** 
 
@@ -3289,8 +2809,6 @@ INDOOR CYCLING
 E0126 
 
 71 
-
-**UCI CYCLING REGULATIONS** 
 
 |B|**2 f.e.o. shortline 2 s.r.l. 2 s.r.r.**|4031 c|
 |---|---|---|
@@ -3329,15 +2847,11 @@ E0126
 ||the same level, they have to connect into two mills.||
 ||2 mills**(8.2.071)**||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 72 
-
-**UCI CYCLING REGULATIONS** 
 
 **2 n.e.o. half shortline opposite direction 4044 f alternate ring 4045 d** Two riders each have to ride, next to each **4048 a** other, without grip connection performing a half shortline opposite direction alternate ring. 
 
@@ -3371,8 +2885,6 @@ E0126
 
 73 
 
-**UCI CYCLING REGULATIONS** 
-
 B **2 con. half circle / circle 4 s.r.l.** 4071 e-f During the figure, each rider has to 4072 e-f perform a single ring left. 4073 i-l 4074 e-f Single ring left **(8.2.053)** 
 
 - C **2 con. half circle / circle 4 s.r.l. through** 4073 m-p During the figure, each rider has to perform a single ring left. The 4074 g-h single rings left of the riders have to overlap. During the single rings one rider of each pair of riders has to ride through the space which is formed by the other pair of riders. 
@@ -3387,13 +2899,9 @@ E0126
 
 74 
 
-**UCI CYCLING REGULATIONS** 
-
 - D **2 con. f.e.o. longline 2 s.r.l. 2 s.r.r.** During the figure, two riders each have to perform a single ring left and two riders each have to perform a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0075-02.png)
-
 
 4082 b 
 
@@ -3435,8 +2943,6 @@ E0126
 
 75 
 
-**UCI CYCLING REGULATIONS** 
-
 A **2 con. shortline 2 con. s.r.l.** 4086 b During the figure, each pair of riders 4087 b has to perform a 2 connected single 4088 c-d ring left. 4089 b 
 
 2 con. single ring left **(8.2.055)** 
@@ -3447,9 +2953,7 @@ C **2 con. shortline 4 s.r.l.** During the figure, each rider has to perform a s
 
 Single ring left **(8.2.053)** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0076-06.png)
-
 
 4086 d 4087 c 4088 f-g 4089 d 
 
@@ -3469,8 +2973,6 @@ E0126
 
 76 
 
-**UCI CYCLING REGULATIONS** 
-
 **2 con. shortline opposite direction 4105** Two riders each have to ride, next to each **4106** other, and are connected by a grip connection, **4107** thus they form a pair of riders. Both pairs **4108** perform a shortline opposite direction. 
 
 Shortline opposite direction **(8.2.065)** 
@@ -3487,9 +2989,7 @@ Single ring left **(8.2.053)** Single ring right **(8.2.054)**
 
 Two riders each are connected by hand-inhand-grip, thus they form a pair of riders. Both pairs of riders are on the same, imaginary axis, which runs through the inner circle or parallel to the long or short side of the competition surface. The distance between the pairs of riders has to be equal. One rider of each pair has to stand on a spot, without 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0077-09.png)
-
 
 **4116 4117** 
 
@@ -3500,8 +3000,6 @@ INDOOR CYCLING
 E0126 
 
 77 
-
-**UCI CYCLING REGULATIONS** 
 
 |**2 mills**|**2 mills**|**4121**|
 |---|---|---|
@@ -3527,15 +3025,11 @@ E0126
 ||perform 50cm-spinnings.||
 ||50cm-spinnings**(8.2.046)**||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 78 
-
-**UCI CYCLING REGULATIONS** 
 
 **Two outsiderings 4135** Two riders each have to perform an outsidering. **4136** 
 
@@ -3545,9 +3039,7 @@ A **Two outsiderings 4 s.r.r.** 4136 d During the figure, each rider has to perf
 
 B **Two outsiderings spinnings (T)** During the figure, each rider has to perform 50cm-spinnings. 50cm-spinnings **(8.2.046)** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0079-05.png)
-
 
 4136 e 
 
@@ -3558,8 +3050,6 @@ INDOOR CYCLING
 E0126 
 
 79 
-
-**UCI CYCLING REGULATIONS** 
 
 C **4 con. half circle / circle spinnings** 4154 g-h During the figure, each rider has to perform 50cm-spinnings. 50cm-spinnings **(8.2.046) 4 con. shortline 4161** All riders are connected by a grip connection **4162** performing a shortline, next to each other. **4163 4164** Shortline **(8.2.064)** A **4 con. shortline 2 con s.r.l.** 4161 b During the figure, the grip connection 4162 b between rider 2 and 3 has to be 4163 c-d released. Thus, two pairs of riders are 4164 b formed, and each pair has to perform a 2 connected single ring left. 2 con. single ring left **(8.2.055)** B **4 con. shortline 2 con. s.r.r.** 4161 c During the figure, the grip connection 4162 c between rider 2 and 3 has to be released. Thus, two pairs of riders are formed, and each has to perform a 2 connected single ring right. 2 con. single ring right **(8.2.056)** 
 
@@ -3573,8 +3063,6 @@ E0126
 
 80 
 
-**UCI CYCLING REGULATIONS** 
-
 D **4 con. shortline 2 s.r.l. 2 s.r.r.** 4164 d During the figure, rider 1 and 2 have to perform each a single ring left. Rider 3 and 4 have to perform each a single ring right. Single ring left **(8.2.053)** Single ring right **(8.2.054)** E **4 con. shortline spinnings** 4164 e During the figure, each rider has to perform 50cm-spinnings. 50cm-spinnings **(8.2.046)** 
 
 ## **Surrounding 3 around 1** 
@@ -3587,9 +3075,7 @@ All riders have to ride around the middle circle. Rider 1 has to grip with the r
 
 Rider 2 has to grip with the left hand backwards to the right shoulder of rider 3. Rider 3 has to grip with the left hand forward to the right shoulder of rider 4. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0081-07.png)
-
 
 **4181** 
 
@@ -3605,9 +3091,7 @@ Rider 2 has to grip with the left hand to the right hand of rider 3.
 
 Rider 3 has to grip with the left hand to the right hand of rider 4. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0081-15.png)
-
 
 **4182** 
 
@@ -3621,11 +3105,7 @@ E0126
 
 81 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0082-01.png)
-
 
 ## **Snake half circle / circle** 
 
@@ -3643,9 +3123,7 @@ All riders have to ride around the middle circle in right-left position, shifted
 
 Rider 1 has to grip with both hands to the own handlebar-grip. Rider 2 has to grip with the left hand the right shoulder of rider 1. Rider 3 has to grip with the right hand the left shoulder of rider 2. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0082-10.png)
-
 
 **4191** 
 
@@ -3669,8 +3147,6 @@ E0126
 
 82 
 
-**UCI CYCLING REGULATIONS** 
-
 **Saddlegrip half circle / circle 4196** All riders have to ride around the middle circle, **4197** shifted in steps to the back. Rider 1 has to grip with both hands to the handlebar. 
 
 Rider 2 has to grip with the left hand to the saddle of rider 1. 
@@ -3685,9 +3161,7 @@ Rider 2, 3, and 4 are still connected to each other by saddlegrip and have to pa
 
 Thus, the riders perform a pass through. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0083-08.png)
-
 
 4197 a 
 
@@ -3714,8 +3188,6 @@ INDOOR CYCLING
 E0126 
 
 83 
-
-**UCI CYCLING REGULATIONS** 
 
 |**2 con. wingmill**|**2 con. wingmill**|**4211**|
 |---|---|---|
@@ -3754,15 +3226,11 @@ E0126
 ||50cm-spinnings**(8.2.046)**||
 ||Mill**(8.2.070)**||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 84 
-
-**UCI CYCLING REGULATIONS** 
 
 **2 con. wingring 4223** All riders have to perform a 2 connected **4224** wingring. 
 
@@ -3794,8 +3262,6 @@ E0126
 
 85 
 
-**UCI CYCLING REGULATIONS** 
-
 - A **Mill 4 s.r.r.** 
 
 **Mill 4 s.r.r.** 4241 b During the figure, each rider has to 4244 d-e perform a single ring right. 
@@ -3818,9 +3284,7 @@ All riders have to perform an insidering.
 
 Insidering **(8.2.073)** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0086-12.png)
-
 
 **4258 4259** 
 
@@ -3836,8 +3300,6 @@ E0126
 
 86 
 
-**UCI CYCLING REGULATIONS** 
-
 **Ring with alternate grips HD. / insidering 4267 b HD. 4268 b** Starting position is the ring with alternate grips. After a half drive all riders have to change their grip connection into the position insidering. The change of grips has to be performed simultaneously and in motion. **End of figure:** After a further half drive in the position insidering. Ring with alternate grips **(8.2.078)** Insidering **(8.2.073) Outsidering 4272 a-e** All riders have to perform an outsidering. **4273 a-c** Outsidering **(8.2.076)** 
 
 **Outsidering HD. / insidering HD. 4272 f** Starting position is the outsidering. After a half **4273 d** drive all riders have to change their grip connection into the position insidering. The change of grips has to be performed simultaneously and in motion. **End of figure:** After a further half drive in the position insidering. Outsidering **(8.2.076)** Insidering **(8.2.073) Outsidering 4 s.r.r. 4273 e** All riders have to perform an outsidering. During the figure, each rider has to perfom a single ring right. Outsidering **(8.2.076)** Single ring right **(8.2.054) Door / synchronous door / opposite direction door simultaneously / 4280 Single-ring-door simultaneously 4281 a-e** Two riders have to form a door. **4282 Start of figure:** 2 metres before the first passing through the door. **4283 End of figure:** 2 metres after the last rider passing through. The door has **4284 a** to stand at least until the riders who are passing the door, have finished the **4285** total way of stretch. **4286 4287** Door **(8.2.079) 4290** 
@@ -3847,8 +3309,6 @@ INDOOR CYCLING
 E0126 
 
 87 
-
-**UCI CYCLING REGULATIONS** 
 
 ## A **Half door / door** 
 
@@ -3867,8 +3327,6 @@ INDOOR CYCLING
 E0126 
 
 88 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Opposite direction door alternate rings 4281 f simultaneously 4298 a** 
 
@@ -3896,9 +3354,7 @@ Alternate ring **(8.2.058)**
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding once through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the mill the own half of the competition surface may be left. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0089-14.png)
-
 
 4288 a 
 
@@ -3906,9 +3362,7 @@ The two other riders are shifted a half way of their stretch, each on one half o
 
 The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding twice through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the door, the own half of the competition surface may be left. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0089-18.png)
-
 
 4288 b 4289 a 
 
@@ -3917,8 +3371,6 @@ INDOOR CYCLING
 E0126 
 
 89 
-
-**UCI CYCLING REGULATIONS** 
 
 C **Mill with opposite direction door** 4284 b **simultaneously** 4289 b 
 
@@ -3947,8 +3399,6 @@ INDOOR CYCLING
 E0126 
 
 90 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Turbine snake double door counter direction** 
 
@@ -3986,17 +3436,13 @@ E0126
 
 91 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Half door ring / door ring** 
 
 Two riders have to form a door. 
 
 The two other riders have to ride at equal distances, following each other, each once (half door ring) / each twice (door ring) through the space between the door. Thus, the riders who are passing the door perform an insidering. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0092-04.png)
-
 
 **4307 a-b** 
 
@@ -4026,13 +3472,9 @@ Star inside **(8.2.061)**
 
 All riders have to ride with equal distances, following each other, around the middle circle. During the figure all riders have to perform a single ring left. After finishing the single ring left all riders have to form a star inside around the inner circle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0092-19.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0092-20.png)
-
 
 **4316 a 4317 a-f** 
 
@@ -4045,8 +3487,6 @@ INDOOR CYCLING
 E0126 
 
 92 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Star inside 4.s.r.r.** 
 
@@ -4066,13 +3506,9 @@ Star outside **(8.2.062)**
 
 All riders have to ride with equal distances, following each other, around the middle circle. During the figure, all riders have to perform a single ring left. After finishing the single ring left all riders have to form a star outside around the inner circle. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0093-10.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0093-11.png)
-
 
 **4326 a-b 4328 a-d** 
 
@@ -4094,9 +3530,7 @@ All riders have to perform an alternate-star.
 
 Alternate-star **(8.2.063)** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0093-22.png)
-
 
 **4327** 
 
@@ -4106,25 +3540,18 @@ E0126
 
 93 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Star inside ½ / 1 turn on the spot** 
 
 Starting position is the star inside. During the figure, all riders have to release the grip connection and each rider has to perform ½ / 1 turn on the spot. 
 
 **End of figure:** In the position star outside / star inside. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-04.png)
-
-
 
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-05.png)
 
-
 **----- Start of picture text -----**<br>
 4331<br>**----- End of picture text -----**<br>
-
 
 Star inside **(8.2.061)** Star outside **(8.2.062)** Turn on the spot **(8.2.047)** 
 
@@ -4140,13 +3567,9 @@ All riders are connected by a grip connection and have to stand on a common axis
 
 Turn on the spot **(8.2.047)** 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-13.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0094-14.png)
-
 
 **4341 4342** 
 
@@ -4157,8 +3580,6 @@ INDOOR CYCLING
 E0126 
 
 94 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV EVALUATION** 
 
@@ -4203,8 +3624,6 @@ INDOOR CYCLING
 E0126 
 
 95 
-
-**UCI CYCLING REGULATIONS** 
 
 4. Counter circles and counter eights start independently from the touch of hands always on the inner circle, a devaluation occurs corresponding the missing way of stretch. 
 
@@ -4253,8 +3672,6 @@ INDOOR CYCLING
 E0126 
 
 96 
-
-**UCI CYCLING REGULATIONS** 
 
 **8.4.011** Announced figures Figures which are announced or shown from outside the competition surface have to be devalued: **100%** 
 
@@ -4310,8 +3727,6 @@ E0126
 
 97 
 
-**UCI CYCLING REGULATIONS** 
-
 2. During passages, it is not allowed to stay (show) longer, in a position which is an unknown figure (according to chapter II specific rules and chapter V list of figures) more than a way of stretch of 2 metres. Deviations have to be devalued: **50%** 
 
 ## _(text modified on 01.01.16)_ 
@@ -4365,8 +3780,6 @@ INDOOR CYCLING
 E0126 
 
 98 
-
-**UCI CYCLING REGULATIONS** 
 
 the Maute jump or the jump Saddle handlebarstand to fronthandlebarstand otherwise devaluation: **50%** 
 
@@ -4424,13 +3837,11 @@ E0126
 
 99 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.16; 01.01.20; 01.01.22, 01.01.23)_ 
 
 ## **8.4.023** Figures within the middle circle 
 
-1. If figures which have to be performed in the middle circle are executed outside the middle circle, they have to be devalued: **50%** . The centre of the figure is decisive. 
+1. If figures which have to be performed in the middle circle are executed outside the middle circle, they have to be devalued: **50%**. The centre of the figure is decisive. 
 
 2. If the prescribed inside individual of figures, which has to be performed inside the middle circle, did not start outside the middle circle, devaluation: **100%** 
 
@@ -4487,8 +3898,6 @@ INDOOR CYCLING
 E0126 
 
 100 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 3 Evaluation of execution** 
 
@@ -4553,8 +3962,6 @@ INDOOR CYCLING
 E0126 
 
 101 
-
-**UCI CYCLING REGULATIONS** 
 
 10. Feet not stretched or having an incorrect position. 
 
@@ -4630,8 +4037,6 @@ E0126
 
 102 
 
-**UCI CYCLING REGULATIONS** 
-
 1. Arms not stretched, or have a wrong position between free-hand figures; 
 
 2. Non-synchronous grapple and/or release of the bicycle; 
@@ -4700,8 +4105,6 @@ E0126
 
 103 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter V LIST OF FIGURES** 
 
 **8.5.001** The values mentioned after ”T” can be reached by tactical enlargement of the belonging figure. 
@@ -4747,15 +4150,11 @@ E0126
 ||1017|d|Handlebarseat rev. frh. C.|1,6|
 ||1021|a|Split HC.|0,9|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 104 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -4800,15 +4199,11 @@ E0126
 |1046|<br>d|Stand on pins frh. C.|2,3|
 |1046|<br>e|Stand on pins frh. S|2,7|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 105 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -4850,15 +4245,11 @@ E0126
 |1082|a|Fronthang bw. HC.|3,4|
 |1083|a|Backhang HC.|1,3|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 106 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -4907,15 +4298,11 @@ E0126
 |1104|<br>o|Fronthandlebarstand 1½ turn out of reg. seat T|7,3|
 |||(7,8 - 8,3 - 8,8 - 9,3)||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 107 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|Figure|No. / Name of figure|||||||||||Point value|Point value|Point value|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -4961,15 +4348,11 @@ E0126
 |1116||<br>a Handlebar L-shape hold rev. HC.||||||||||||3,2||
 |1116||<br>b Handlebar L-shape hold rev. C.||||||||||||3,6||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 108 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point|value|
 |---|---|---|---|---|
@@ -5005,8 +4388,6 @@ E0126
 |1123|o|L-shape hold sdw. German saddle handlebar handstand S.||12,6|
 |1123|p|L-shape hold sdw. German saddle handlebar handstand 8.||14,2|
 
-
-
 ||||**Given**|||
 |---|---|---|---|---|---|
 |**Shown**||1123e|1123f|1123g|1123h|
@@ -5019,8 +4400,6 @@ E0126
 ||1123o|||**12,0**||
 ||1123p||||**13,6**|
 
-
-
 Figure No. / Name of figure 1124  a  Handlebar handstand HC. 
 
 Point value 
@@ -5032,8 +4411,6 @@ INDOOR CYCLING
 E0126 
 
 109 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -5056,8 +4433,6 @@ E0126
 |1124|r|Handlebar support straddle handlebar handstand C.|10,8|
 |1124|s|Handlebar support straddle handlebar handstand S|11,6|
 |1124|t|Handlebar support straddle handlebar handstand 8|13,2|
-
-
 
 ||**Given**||||
 |---|---|---|---|---|
@@ -5083,15 +4458,11 @@ E0126
 ||1157<br>b  Fronthang squat|||2,0|
 ||1157<br>c  Fronthang squat bw.|||3,5|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 110 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -5118,8 +4489,6 @@ E0126
 |1175|<br>d|Turning jump 4 turns T (10,7 - 11,4 - 12,1 - 12,8 - 13,5)|10,0|
 |1175|<br>e|Turning jump 5 turns T (11,8 - 12,5 - 13,2 - 13,9 - 14,6)|11,1|
 
-
-
 ||||**Given**|**Given**|||
 |---|---|---|---|---|---|---|
 |**Shown**||1175a|1175b|1175c|1175d|1175e|
@@ -5135,8 +4504,6 @@ E0126
 ||9||||**13,5 **|**13,9 **|
 ||10|||||**14,6 **|
 
-
-
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
 |1181|a|Pedal jump|1,9|
@@ -5144,15 +4511,11 @@ E0126
 |1186|a|Maute jump|7,3|
 |_(text modified on 01.01.16;01.01.26) _||||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 111 
-
-**UCI CYCLING REGULATIONS** 
 
 |**8.5.004**|Raiser|figures|figures||
 |---|---|---|---|---|
@@ -5203,15 +4566,11 @@ E0126
 ||1216|<br>h|Raiser sidestand frh. C.|3,7|
 ||1217|a|Raiser stand on pin bw. HC.|5,2|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 112 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -5259,15 +4618,11 @@ E0126
 |1246|<br>a|Standraiser HC.|4,0|
 |1246|<br>b|Standraiser C.|4,6|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 113 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Figure|No. / Name of figure|No. / Name of figure|Point value|
 |---|---|---|---|---|
@@ -5309,15 +4664,11 @@ E0126
 ||1292|a|P. raiser headtube rev. raiser handlebarseat rev.|3,9|
 ||1292|<br>b|P. raiser handlebarseat rev. raiser headtube rev.|5,8|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 114 
-
-**UCI CYCLING REGULATIONS** 
 
 Figure No. / Name of figure 
 
@@ -5347,8 +4698,6 @@ Figure No. / Name of figure
 ||1301|<br>p|L-shape hold Swiss handstand bicycle lying down||6,1|
 ||1301|<br>q|Fronthandlebarstand rev. somersault bw. Hooked legs||11,1|
 
-
-
 _(text modified on 01.01.16; 01.01.25)_ 
 
 ## **§ 2 Pair artistic cycling** 
@@ -5372,15 +4721,11 @@ _(text modified on 01.01.16; 01.01.25)_
 ||2005  b|<br>Reg. seat rev. C.|0,8|
 ||2005  c|<br>Reg. seat rev. frh. HC.|1,1|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 115 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -5426,15 +4771,11 @@ E0126
 |2046|c|<br>Stand on pins frh. HC.|1,7|
 |2046|d|<br>Stand on pins frh. C.|1,9|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 116 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No. /|Name of figure|Point value|
 |---|---|---|---|
@@ -5483,15 +4824,11 @@ E0126
 |2070|<br>ea|Fronthandlebarstand s.r. out of regular seat|5,6|
 |2070|f|Fronthandlebarstand count. 8|5,4|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 117 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No. /|Name of figure|Point value|
 |---|---|---|---|
@@ -5521,8 +4858,6 @@ E0126
 |2070|<br>na|Count. C fronthandlebarstand 2 turns out of regular seat T|9,5|
 |||(10,0 - 10,5 - 11,0 - 11,5)||
 
-
-
 ||||**Given**|**Given**||||||**Given**|**Given**||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**Shown**||2070g|2070h|2070i|2070j||**Shown**||2070k|2070l|2070m|2070n|
@@ -5536,15 +4871,11 @@ E0126
 ||3½|||**10,3**|**10,5**|||3½|||**10,0**|**10,2**|
 ||4||||**11,0**|||4||||**10,7**|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 118 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||**Given**|||||**Given**|**Given**||
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -5588,15 +4919,11 @@ E0126
 ||||separate C.||||||||
 |2076|<br>l||L-shape hold sdw. German saddle handlebar handstand count. 8|||||||15,4|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 119 
-
-**UCI CYCLING REGULATIONS** 
 
 |||||**Given**|**Given**||||
 |---|---|---|---|---|---|---|---|---|
@@ -5623,8 +4950,6 @@ E0126
 |2077||<br>o|Handlebar support straddle handlebar handstand separate|||||14,1|
 ||||count. 8||||||
 
-
-
 |**Given**|**Given**||||
 |---|---|---|---|---|
 |2077d|2077e|2077f|||
@@ -5640,8 +4965,6 @@ E0126
 |2091  c  Stillstand pedal frontwheel||||1,1|
 |2091  d  Stillstand pedal frontwheel frh.||||1,6|
 
-
-
 _(text modified on 01.01.12; 01.01.16; 01.01.20; 01.01.26)_ 
 
 **8.5.008** Raiser figures on two bicycles 
@@ -5651,8 +4974,6 @@ INDOOR CYCLING
 E0126 
 
 120 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -5697,15 +5018,11 @@ E0126
 |2162|b|Raiser handlebarseat bw. frh. C.|2,7|
 |2162|c|Raiser handlebarseat s.r. bw. frh.|4,7|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 121 
-
-**UCI CYCLING REGULATIONS** 
 
 ## Figure No. / Name of figure 
 
@@ -5752,15 +5069,11 @@ E0126
 |2183|a|Raiser headtube rev. mill bw. frh.|3,0|
 |2183|b|Raiser headtube rev. mill s.r. bw. frh.|4,7|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 122 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Figure|No. / Name of figure|No. / Name of figure|Point value|
 |---|---|---|---|---|
@@ -5804,15 +5117,11 @@ E0126
 ||2215|<br>b|Standraiser 2 turns T (7,4 - 7,9)|6,9|
 ||2215|<br>c|Standraiser 3 turns T (8,4)|7,8|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 123 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Figure No. / Name of figure|Figure No. / Name of figure|Point value|
 |---|---|---|---|
@@ -5842,15 +5151,11 @@ E0126
 ||2250  a|Handlebarstand rev. somersault bw. hooked legs|12,1|
 ||_(text modified on 01.01.16)_|||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 124 
-
-**UCI CYCLING REGULATIONS** 
 
 |**8.5.012**|Figures|on one bicycle|on one bicycle||
 |---|---|---|---|---|
@@ -5895,15 +5200,11 @@ E0126
 ||2285|b|Reg. seat rev. / Chest suspended hang C.|1,9|
 ||2286|a|Reg. seat rev. bw. / Chest suspended hang HC.|2,5|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 125 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -5952,15 +5253,11 @@ E0126
 |2311|h|Frontstand frh. / Saddlestand C.|2,3|
 |2316|a|Split / Shoulderseat HC.|1,0|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 126 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6005,15 +5302,11 @@ E0126
 |2351|b|Lying on handlebar / Stand bent on saddle C.|1,5|
 |2351|c|Lying on handlebar / Saddlestand HC.|2,2|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 127 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point|value|
 |---|---|---|---|---|
@@ -6053,15 +5346,11 @@ E0126
 |2358|l|Handlebarstand 2 turns out of reg. seat / Stand on pins T||9,1|
 |||(9,6 - 10,1 - 10,6 - 11,1)|||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 128 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||**Given**||**Given**|**Given**||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -6108,15 +5397,11 @@ E0126
 |2376||b|Saddle handlebar handstand / Handlebarstand C.|||||8,1||
 |2376||c|Handlebar handstand / Saddlestand HC.|||||7,6||
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 129 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Figure No. / Name of figure|Point value|
 |---|---|---|
@@ -6160,15 +5445,11 @@ E0126
 ||2420  b  Raiser reg. seat rev. frh. / Chest suspended hang C.|4,5|
 ||2421  a  Raiser reg. seat rev. bw. frh. / Chest suspended hang HC.|5,1|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 130 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Figure No. / Name of figure|Point value|
 |---|---|---|
@@ -6211,15 +5492,11 @@ E0126
 ||2471  a  P. raiser reg. seat raiser handlebarseat / Shoulderseat|4,8|
 ||2471  b  P. raiser reg. seat raiser handlebarseat / Shoulderstand|6,7|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 131 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Figure|No. / Name of figure|No. / Name of figure|Point value|
 |---|---|---|---|---|
@@ -6267,15 +5544,11 @@ E0126
 ||4007|b|4 f.e.o. 8|2,2|
 ||4007|c|4 f.e.o. 8 through|2,6|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 132 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6320,15 +5593,11 @@ E0126
 |4027|<br>e|2 f.e.o. double circle 4 s.r.l. bw.|3,6|
 |4027|<br>f|2 f.e.o. double circle through 4 s.r.l. bw.|4,4|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 133 
-
-**UCI CYCLING REGULATIONS** 
 
 Figure No. / Name of figure 
 
@@ -6339,15 +5608,11 @@ Figure No. / Name of figure
 ||no crossing|**10,5**|
 ||1 x crossing|**11,3**|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 134 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure No. /|Figure No. /|Name of figure||Point value|
 |---|---|---|---|---|
@@ -6398,15 +5663,11 @@ E0126
 |4083|b|2 con. longline|opp. dir. through 4 s.r.r. raiser bw. frh.|10,4|
 |4083|c|2 con. longline|opp. dir. through 2 mills raiser bw. frh.|11,6|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 135 
-
-**UCI CYCLING REGULATIONS** 
 
 ## Figure No. / Name of figure 
 
@@ -6456,15 +5717,11 @@ E0126
 |4108|<br>a|2 con. shortline opp. dir. raiser bw. frh.|4,1|
 |4108|<br>b|2 con. shortline opp. dir. 4 s.r.l. raiser bw. frh.|7,5|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 136 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6512,15 +5769,11 @@ E0126
 |4151|<br>a|4 con. HC.|0,8|
 |4151|<br>b|4 con. C.|1,0|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 137 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6572,15 +5825,11 @@ E0126
 |4164|<br>b|4 con. shortline 2 con. s.r.l. raiser bw. frh|5,0|
 |4164|<br>c|4 con. shortline 4 s.r.l. raiser bw. frh.|6,8|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 138 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6623,15 +5872,11 @@ E0126
 |4213|<br>b|2 con. wingmill raiser frh.|2,6|
 |4213|<br>c|2 con. wingmill raiser frh. inside indiv.|4,2|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 139 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6680,15 +5925,11 @@ E0126
 |4243|<br>e|Mill raiser frh. in- a. outside indiv.|5,2|
 |4243|<br>f|Mill raiser in- a. outside indiv. frh.|5,7|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 140 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6738,15 +5979,11 @@ E0126
 |4273|<br>b|Outsidering raiser bw. inside indiv. frh.|7,1|
 |4273|<br>c|Outsidering raiser bw. in- a. outside indiv. frh.|8,2|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 141 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6790,15 +6027,11 @@ E0126
 |4293|<br>a|Double door raiser bw. frh.|7,0|
 |4293|<br>b|Turbine double door count. dir. raiser bw. frh.|9,9|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 142 
-
-**UCI CYCLING REGULATIONS** 
 
 |Figure|No.|/ Name of figure|Point value|
 |---|---|---|---|
@@ -6845,30 +6078,22 @@ E0126
 |4342|b|4 con. raiser 1 turn on the spot|8,1|
 |4342|c|4 con. raiser 1½ turns on the spot|9,1|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 143 
 
-**UCI CYCLING REGULATIONS** 
-
 |Figure|No. / Name of figure|Point value|
 |---|---|---|
 |4342|d<br>4 con. raiser 2 turns on the spot|10,1|
 |_(text modified on 01.01.16; 01.01.17; 01.01.20; 01.01.22,01.01.26) _|||
-
-
 
 INDOOR CYCLING 
 
 E0126 
 
 144 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI UCI Artistic Cycling World Cup** 
 
@@ -6903,8 +6128,6 @@ The eligibility of participation in the preliminaries of the UCI Artistic Cyclin
 |Pair Open|3|2|1|
 |ACT4|2|1|1|
 
-
-
 If the maximum entries are not fully used by the eligible National Federations, other National Federations that have no or only one entry may register for the available entries. In this case a National Federation may only get a maximum of 2 entries per event. The application for additional entries is made by the registration for the respective preliminary round. 
 
 The allocation of the free entries is as follows: 
@@ -6924,8 +6147,6 @@ INDOOR CYCLING
 E0126 
 
 145 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **8.6.005** Final 
 
@@ -6969,23 +6190,17 @@ E0126
 |14|27|29|2|
 |15|25|30|1|
 
-
-
 ## **8.6.013** Points scale final 
 
 |**Place**|**Points**|
 |---|---|
 |1|200|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 146 
-
-**UCI CYCLING REGULATIONS** 
 
 |2|160|
 |---|---|
@@ -6998,8 +6213,6 @@ E0126
 |9|80|
 |10|70|
 
-
-
 _(chapter introduced on 01.11.18)_ 
 
 INDOOR CYCLING 
@@ -7007,8 +6220,6 @@ INDOOR CYCLING
 E0126 
 
 147 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 8 INDOOR CYCLING - CYCLE BALL** 
 
@@ -7048,8 +6259,6 @@ E0126
 
 148 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.7.007** The secretary shall record the goals and make up the results list. The secretary or the hall speaker shall announce the result or other relevant information. 
 
 ## **§ 3 Match field and size** 
@@ -7074,13 +6283,9 @@ _(text modified on 01.09.25)_
 
    - The upper edge must be rounded and free of burrs. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0149-13.png)
 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0149-14.png)
-
 
 _(text modified on 01.01.18)_ 
 
@@ -7100,13 +6305,9 @@ E0126
 
 149 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.7.018** All dimensions are external dimensions. 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0150-02.png)
-
 
 The 8 meter and 0.5 meter circles are only used for artistic cycling. Advertising is allowed in the shaded area as long as the surface conditions are equal to the none shaded area 
 
@@ -7130,11 +6331,7 @@ E0126
 
 150 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0151-01.png)
-
 
 _(text modified on 01.01.18)_ 
 
@@ -7166,15 +6363,11 @@ E0126
 
 151 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 9 Cycle-ball bicycles** 
 
 - **8.7.031** The bicycles used shall be constructed in accordance with following guidelines and dimensions: 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0152-03.png)
-
 
 |Dimensions:|A = 150 - 180 mm|B = 395 - 455 mm|
 |---|---|---|
@@ -7182,8 +6375,6 @@ E0126
 ||E = 400 - 500 mm|F = 370 - 410 mm|
 ||G = 360 - 410 mm|H = 815 - 960 mm|
 ||J = 530 - 580 mm|K = 920 - 970 mm|
-
-
 
 For smaller bicycles these dimensions can be adapted in line with the wheel sizes. 
 
@@ -7210,8 +6401,6 @@ INDOOR CYCLING
 E0126 
 
 152 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.7.035** Saddle 
 
@@ -7249,8 +6438,6 @@ E0126
 
 153 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 12 Age categories / Game time and additional playing time** 
 
 **8.7.043** Cycle-ball is divided into following age categories: 
@@ -7267,8 +6454,6 @@ E0126
 |-|<br>Up to 23 years|=|U23|
 |-|<br>From 19 years on =||Elite|
 
-
-
 The league depends on the year of birth, i.e. throughout the year of a player’s 18th birthday he may play in the Junior league. 
 
 The leagues may if necessary, at the discretion of the national federations, be divided further in order to restrict the number of competitors or be combined where there are too few. 
@@ -7280,8 +6465,6 @@ _(text modified on 01.01.26)_
 ||A.|Elite andU23|2 x 7 minutes|
 ||B.|Juniors(U19)|2 x 6 minutes|
 ||C.|All others|2 x 5 minutes|
-
-
 
 The match times can be reduced to a minimum of 2 x 5 minutes for certain tournaments or prequalifying rounds. The game time shall be taken to mean the two halves excluding a two-minute break between halves. 
 
@@ -7305,8 +6488,6 @@ E0126
 
 154 
 
-**UCI CYCLING REGULATIONS** 
-
 The commissaire shall restart the game by blowing a whistle. He shall also whistle at an out ball, in order to give the time-keeper the precise signal. 
 
 - **8.7.048** In case of differences of opinion regarding the exact time remaining it shall always be the time keepers’ time that is definitive. At half time and the end of the match it is the beginning of the timekeeper’s signal which determines the end of play. 
@@ -7320,8 +6501,6 @@ INDOOR CYCLING
 E0126 
 
 155 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VIII GAME RULES** 
 
@@ -7364,8 +6543,6 @@ INDOOR CYCLING
 E0126 
 
 156 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.8.009** Time-wasting 
 
@@ -7417,8 +6594,6 @@ E0126
 
 157 
 
-**UCI CYCLING REGULATIONS** 
-
 - A player, the jury or other persons have to be verbally notified. 
 
 - The score or time is not clear. 
@@ -7463,8 +6638,6 @@ E0126
 
 158 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.8.023** If a player in his own penalty area touches the floor or leans against the goal, he must leave his penalty area immediately and cross the goal line in order to get permission to return to the game. 
 
 The player concerned has to cross the goal line in such a way that both wheels have left the penalty area and at least one wheel has crossed the goal line outside the penalty area. 
@@ -7502,8 +6675,6 @@ INDOOR CYCLING
 E0126 
 
 159 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.8.033** Should the half time or match time be finished the out ball regardless on the goal line or sideline is not executed. 
 
@@ -7543,8 +6714,6 @@ E0126
 
 160 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.8.041** A ball caught by the goalkeeper within the penalty area may not be thrown out further than the dotted defence line and the ball must touch the floor within 3 seconds. The ball may not be thrown towards the co-player (the head, the body or the bicycle) as long as the co-player is outside the defence line. 
 
 Should a beaten off ball bounce off in front of the defence line and then roll over this line, no offence has been committed. 
@@ -7580,8 +6749,6 @@ INDOOR CYCLING
 E0126 
 
 161 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.8.050** The goal area is considered as being part of the penalty area 
 
@@ -7625,8 +6792,6 @@ E0126
 
 162 
 
-**UCI CYCLING REGULATIONS** 
-
 - F. When a player is ready to kick the ball in an empty goal and is obstructed by his opponent. 
 
 _(text modified on 01.01.21)_ 
@@ -7662,8 +6827,6 @@ INDOOR CYCLING
 E0126 
 
 163 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 14 Whistle signals** 
 
@@ -7710,8 +6873,6 @@ INDOOR CYCLING
 E0126 
 
 164 
-
-**UCI CYCLING REGULATIONS** 
 
 announce the warning and the remaining match time. With electronic time panel the time announcement has not to be given **.** After this the commissaire can continue the game. 
 
@@ -7763,8 +6924,6 @@ E0126
 
 165 
 
-**UCI CYCLING REGULATIONS** 
-
 In the event of very serious infractions disciplinary procedures can be started against the person concerned in line with chapter 12 ‘’Discipline and Procedures’’ of the UCI Regulations 
 
 - **8.8.076** If both players are suspended under article 8.2.068 all games for this team should be abandoned. 
@@ -7798,8 +6957,6 @@ INDOOR CYCLING
 E0126 
 
 166 
-
-**UCI CYCLING REGULATIONS** 
 
 During the injury-interruption, responsible members of the adversary team are not allowed to enter the field. They shall stay behind the boarding surface. 
 
@@ -7845,8 +7002,6 @@ E0126
 
 167 
 
-**UCI CYCLING REGULATIONS** 
-
 Should more than two teams be tied for first place, the results of games between these teams shall be considered. The two highest in this ranking shall play a game of decision under article 8.7.045. Should this match be drawn the result shall be determined by penalty kicks under paragraph 4. 
 
 If more than two teams are equal on points after the above calculation the two teams with the best goal difference shall be placed first and second. In the event of a tie on goal difference the team with the highest number of goals scored shall be the winner. 
@@ -7877,8 +7032,6 @@ E0126
 
 168 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.9.011** _World_ and continental _championships_ / world and continental cups 
 
    - During these competitions the procedure in article 8.9.010 shall be followed for all medal places. 
@@ -7891,7 +7044,7 @@ _(text last modified on 01.01.23)_
 
 - **8.9.012** In the event that two or more teams have equal points after deciding matches, penalty kicks shall be taken. In the first penalty kick round each player of the team has to attempt two penalty kicks on the opponent’s goal. 
 
-- **8.9.013** The commissaire shall determine which team goes first by draw. , Each team shall then announce which player is to kick first, and then they will alternate. The players must serve their kicks in the same order towards the goal as their opponent. 
+- **8.9.013** The commissaire shall determine which team goes first by draw., Each team shall then announce which player is to kick first, and then they will alternate. The players must serve their kicks in the same order towards the goal as their opponent. 
 
 The goalkeeper may be changed within the team. 
 
@@ -7915,47 +7068,33 @@ E0126
 
 169 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Handsigns Commissaire** 
 
 Picture 1 - Goal 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-03.png)
-
 
 Picture 4 - Time wasting 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-05.png)
-
 
 Picture 2 - Advantage 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-07.png)
-
 
 Picture 5 – Goal not valid 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-09.png)
-
 
 Picture 6 - Time out 
 
-
 ![](images/PART_8_E_-_As_of_01.02.2026.pdf-0170-11.png)
-
 
 INDOOR CYCLING 
 
 E0126 
 
 170 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter X CLASSIFICATION OF RACES / UCI RANKINGS** 
 
@@ -8015,8 +7154,6 @@ E0126
 
 171 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.10.004** Publication UCI ranking 
 
    - The UCI ranking shall be drawn up at least once a week. 
@@ -8062,17 +7199,13 @@ _(article introduced on 01.01.05; modified on 01.01.13, 01.01.26)_
 |23|3||
 |24|2||
 |25|1||
-|_(text modified on 01.01.05 ; 11.02.20)_|||
-
-
+|_(text modified on 01.01.05; 11.02.20)_|||
 
 INDOOR CYCLING 
 
 E0126 
 
 172 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XI WORLD CHAMPIONSHIPS SET UP** 
 
@@ -8103,15 +7236,11 @@ The following split applies to both, Cycle-ball Women and Cycle-ball Men:
 |_7 Teams_|_9_|_2_|_0_|_0_|_0_|_0_|_0_|_1_|_6_|_1_|_1_|_0_|_20_|
 |_8 Teams_|_12_|_2_|_0_|_0_|_0_|_0_|_1_|_1_|_6_|_1_|_1_|_1_|_25_|
 
-
-
 INDOOR CYCLING 
 
 E0126 
 
 173 
-
-**UCI CYCLING REGULATIONS** 
 
 ## _Format_ 
 
@@ -8123,8 +7252,6 @@ _Number is based on the result at the UCI Indoor Cycling World Championships the
 |4|3|
 |6|5|
 |8|7|
-
-
 
 ## _Schedule_ 
 
@@ -8161,8 +7288,6 @@ _Number is based on the result at the UCI Indoor Cycling World Championships the
 |24|2ndplace F4|:|3rdplace F4|Bronze/Silver<br>Game|
 |25|1stplace F4|:|W24|Gold Game|
 
-
-
 _(article introduced on 01.01.13; text modified on 01.01.24; 01.07.25)_ 
 
 ## **8.11.002** _World Championships_ mode 
@@ -8178,8 +7303,6 @@ INDOOR CYCLING
 E0126 
 
 174 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XII UCI Cycle-ball World Cup** 
 
@@ -8206,8 +7329,6 @@ _(text modified on 01.01.26)_
 ||Maximum number of teams|||
 |3 (3 Rounds)|2 (3 Rounds)|1 (3 Rounds)|1 (1 Round)|
 
-
-
 If the maximum entries are not fully used by the eligible National Federations, other National Federations that have no or only one entry may register for the available entries. In this case a National Federation may only get a maximum of 2 entries per discipline. The application for additional entries is made by the registration for the respective preliminary round. 
 
 The allocation of the additional entries is as follows: 
@@ -8233,8 +7354,6 @@ INDOOR CYCLING
 E0126 
 
 175 
-
-**UCI CYCLING REGULATIONS** 
 
 - **8.12.006** The registration procedure for the riders and teams shall be fulfilled by the National Federations as requested by the UCI. 
 
@@ -8265,8 +7384,6 @@ The groups will be determined by the UCI Cycle-ball Ranking based on the season 
 |6th highest rank in UCI Ranking|5th highest rank in UCI Ranking|
 |8th highest rank in UCI Ranking|7th highest rank in UCI Ranking|
 
-
-
 If 3 teams from the same nation are in the same group, the second team will be changed with the first possible team from another nation in order of the UCI Ranking. 
 
 INDOOR CYCLING 
@@ -8274,8 +7391,6 @@ INDOOR CYCLING
 E0126 
 
 176 
-
-**UCI CYCLING REGULATIONS** 
 
 |1|1sthighest rank in UCI Ranking|:|8th highest rank in UCI Ranking|Qualification|
 |---|---|---|---|---|
@@ -8299,8 +7414,6 @@ E0126
 |17|L13|:|L14|Bronze Game|
 |18|W13|:|W14|Gold Game|
 
-
-
 The points achieved are decisive for the placement in the preliminary round. 
 
 If two or more teams are equal on points, the placement is determined by an internal table of the teams concerned. If in this table points and goals between teams are equal, the placement is decided through penalty kicks. Further details are regulated in articles 8.9.012 to 8.9.014. 
@@ -8319,8 +7432,6 @@ E0126
 
 177 
 
-**UCI CYCLING REGULATIONS** 
-
 - **8.12.012** UCI Cycle-ball World Cup Final 
 
 The groups for the preliminary round at the UCI Cycle-ball World Cup Final will be separated according to the current UCI World Cup ranking: 
@@ -8331,8 +7442,6 @@ The groups for the preliminary round at the UCI Cycle-ball World Cup Final will 
 |Rank 4|Rank 3|
 |Rank 5|Rank 6|
 |Wild Card participant|Asia representative|
-
-
 
 If two teams from the same nation qualify for the final, they will be set in different groups. 
 
@@ -8351,8 +7460,6 @@ The order of teams will be determined by the UCI Ranking based on 1 month before
 |1sthighest rank in UCI Ranking|2nd highest rank in UCI Ranking|
 |4th highest rank in UCI Ranking|3rd highest rank in UCI Ranking|
 |5th highest rank in UCI Ranking|6th highest rank in UCI Ranking|
-
-
 
 |Schedule|Schedule|Schedule|||
 |---|---|---|---|---|
@@ -8374,13 +7481,10 @@ The order of teams will be determined by the UCI Ranking based on 1 month before
 |12|L10|:|L11|Bronze Game|
 |13|W10|:|W11|Final|
 
-
-
 _(article introduced on 01.01.26)_ 
 
 INDOOR CYCLING 
 
 E0126 
 
-178 
-
+178

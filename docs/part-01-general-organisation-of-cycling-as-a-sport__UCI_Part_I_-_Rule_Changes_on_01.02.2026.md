@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/48ht0iakNWfszqkkd6KCkP/9a0
 source_sha256: 48e6f497a1383881903f383a937d4b34b609ac89b1263d53e6ed23e1b7a134d8
 converter: pymupdf4llm
 ---
-
 30.01.2026 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.02.2026.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -73,7 +70,7 @@ The National Federation shall immediately inform the UCI of any decision – whe
 
 Any such decision may be appealed by the UCI and/or the applicant before the UCI Arbitral Board within 30 days of its notification. 
 
-This article ~~, in its current version,~~ shall apply to all licence applications made after its entry in force. As an exception, the previous version of this article shall be applied whenever any of the offences taken into consideration occurred at least partially before its entry in force and, based on the principle of _Lex Mitior_ , the assessment would be favourable to the applicant. 
+This article ~~, in its current version,~~ shall apply to all licence applications made after its entry in force. As an exception, the previous version of this article shall be applied whenever any of the offences taken into consideration occurred at least partially before its entry in force and, based on the principle of _Lex Mitior_, the assessment would be favourable to the applicant. 
 
 As an exception to the above, the waiting period of 5 years to be observed in situations referred to in points 3 and 4 above does not apply to persons having signed an acceptance of consequences with the UCI before the adoption of the present article. 
 
@@ -181,7 +178,7 @@ UCI: national:
 
 9. Countries in which the applicant has other residences: 
 
-10. Contact person: Phone number of the contact person[1] : 
+10. Contact person: Phone number of the contact person[1]: 
 
 11. ~~Authority (f~~ National Federation ~~or UCI) t~~ hat issued the applicant's previous licence: 
 
@@ -615,7 +612,7 @@ _(text modified on 11.02.20; 01.02.26)_
 
 - **1.2.004** In each discipline a world calendar ~~, a continental calendar by continent~~ and a national calendar by national federation shall be prepared. A continental calendar by continent shall also be established for certain disciplines. 
 
-The international calendar comprises the events which are registered within the different classes of events as set in the respective regulations for each discipline ~~world calendar and continental calendars~~ . 
+The international calendar comprises the events which are registered within the different classes of events as set in the respective regulations for each discipline ~~world calendar and continental calendars~~. 
 
 Events which are part of a continental calendar are also part of the international calendar ~~An international race is a race entered on a world calendar or on a continental calendar.~~ 
 
@@ -789,7 +786,7 @@ _(article introduced on 01.03.22, modified on 01.01.24; 01.02.26)_
 
 - **1.2.037** A cyclin ~~ge race~~ event may be organised only if it has been included on a national ~~, continental or world~~ or international calendar. 
 
-The inclusion of the event ~~race~~ on the calendar means that its organisation has been authorise ~~dauthorisation~~ , but does not imply that the UCI or the national federation that registered it undertake responsibility for it. 
+The inclusion of the event ~~race~~ on the calendar means that its organisation has been authorise ~~dauthorisation~~, but does not imply that the UCI or the national federation that registered it undertake responsibility for it. 
 
 _(article modified on 01.02.26)_ 
 
@@ -829,13 +826,13 @@ _(text modified on 01.01.05; 01.07.11; 01.02.26)_
 
 - **1.2.040** The organiser shall draw up a set of regulations specific to ~~his racet~~ he event when required by the UCI regulations. 
 
-The regulations shall inter alia cover sporting aspects particular to the event ~~race~~ . 
+The regulations shall inter alia cover sporting aspects particular to the event ~~race~~. 
 
 These specific regulations shall comply fully with the present regulations and have been approved beforehand by the national federation of the organiser. 
 
 _(article modified on 01.02.26)_ 
 
-- **1.2.041** (N) The specific regulations shall be published in the programme and/or the technical guide for the event ~~race~~ . 
+- **1.2.041** (N) The specific regulations shall be published in the programme and/or the technical guide for the event ~~race~~. 
 
 _(article modified on 01.02.26)_ 
 
@@ -877,7 +874,7 @@ _(article modified on 01.02.26)_
 
 ## **General principle** 
 
-- **1.2.048** (N) Unless otherwise specified, the organiser is free to select ~~any~~ the teams and riders taking part in th ~~efor an~~ event, and shall not be required to consider any potential national protectio ~~nwithout any requirement to take account of any national protection~~ . 
+- **1.2.048** (N) Unless otherwise specified, the organiser is free to select ~~any~~ the teams and riders taking part in th ~~efor an~~ event, and shall not be required to consider any potential national protectio ~~nwithout any requirement to take account of any national protection~~. 
 
 Without prejudice to the provision concerning mountain bike, BMX Racing and BMX Freestyle, indoor cycling, para-cycling, cycling for all, track, trials, cyclo-cross and the masters category, organisers of events registered on the international calendar are not allowed to demand from riders and/or teams any participation fee whatsoever (contribution to costs, entry fee, etc.). 
 
@@ -951,7 +948,7 @@ _(article modified on 01.02.26)_
 
 Unless ordered ~~so t~~ o do so by a police officer, they may not leave the prescribed course and shall not be able to claim any error in this respect, nor any other motive such as, for example, incorrect directions by any person, badly placed or non-existent signs, etc. 
 
-Conversely, should the rider take a shortcut giving an advantage, the rider shall be penalised in accordance with ~~point 13 of t~~ he table of race incidents ~~appended to Part XII 2 (article 2.12.007, point 7.1 for Road events) f~~ or the respective discipline, without prejudice to further potential disciplinary measure ~~snotwithstanding any other disciplinary measures that may be provided for~~ . 
+Conversely, should the rider take a shortcut giving an advantage, the rider shall be penalised in accordance with ~~point 13 of t~~ he table of race incidents ~~appended to Part XII 2 (article 2.12.007, point 7.1 for Road events) f~~ or the respective discipline, without prejudice to further potential disciplinary measure ~~snotwithstanding any other disciplinary measures that may be provided for~~. 
 
 _(text modified on 01.01.07; 01.01.19; 01.02.26)_ 
 
@@ -987,7 +984,7 @@ In such a case:
 
 _(text modified on 01.02.19; 23.10.19; 08.02.21; 01.01.25; 01.02.26)_ 
 
-- **1.2.072** Prizes shall be paid to the beneficiaries or their representatives no later than 90 days after the event ~~finish of the race~~ . 
+- **1.2.072** Prizes shall be paid to the beneficiaries or their representatives no later than 90 days after the event ~~finish of the race~~. 
 
    - However, in the case of a centralised platform, ~~-~~ the UCI may withhold payments until such time that they are satisfied that the riders entitled to prizes are not susceptible of being disqualified further to an anti-doping rule violation committed in connection with the event or subsequently being disqualified by a competent decision-making body. In relation to anti-doping, the UCI shall seek verification with the International Testing Agency solely regarding events for which the latter initiated and directed sample collection. 
 
@@ -1314,13 +1311,11 @@ _(text modified on 01.01.01; 01.01.04; 01.10.10; 01.07.11; 01.01.20; 08.02.21; 0
 |Stage races|2|1|||
 |Time trials|1||||
 |Cyclo-cross|1||2||
-|Track : timed events|1||||
-|Track : other events|2||||
+|Track: timed events|1||||
+|Track: other events|2||||
 |BMXRacing||2 (lateral)**||1|
 |Mountain bike (all events)|1|||1|
 |Trials|1|||1|
-
-
 
 * The shoulder numbers shall be worn on the upper forearm so it’s visible frontally. 
 
@@ -1340,12 +1335,8 @@ _(text modified on 01.01.01; 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.02.11; 0
 |1,5 cm|0,8 cm|0,8 cm|1.5 cm MTB<br>1.5 cm BMX<br>Racing<br>1.5 cm Trials|
 |height 6 cm on<br>the lower part<br>MTB height 2.5<br>cm on the upper|rectangle of 11x2<br>cm on the lower<br>or upper part|height 1.5 cm<br>on the lower<br>and upper part|- MTB height 2.5<br>cm on the upper<br>and lower part|
 
-
-
 ||and lower part|||- BMXRacing6<br>cm on the upper<br>part<br>- Trials 2.5 cm on<br>the lower part|
 |---|---|---|---|---|
-
-
 
 _(text modified on 01.01.01; 01.01.04; 01.10.09; 01.01.11; 13.03.15; 01.07.17; 01.01.19; 01.02.26)_ 
 
@@ -1372,8 +1363,6 @@ After carrying out an assessment of the risks associated with sports betting in 
 |**MOUNTAIN BIKE**|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|
 |**BMX RACING**|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|
 |**CYCLO-CROSS**|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|
-
-
 
 - 1-2 Events in the disciplines and classes concerned may be authorised by the UCI, subject to an assessment of the following criteria: 
 
@@ -1449,7 +1438,4 @@ Any request for inclusion of an event for the following calendar year shall be s
 |**BMXRACING**||Event podium (including winner and any other combination related to the top 3 results)<br>Qualification for phase of final tournament (quarter-final, semi-final etc.)<br>**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
 |**CYCLO-CROSS**||Event top 5 (including winner, podium and any other combination related to the top 5 results)<br>**World Championships:**<br>Event top 5 (including winner, podium and any other combination related to the top 5 results)<br>Number of medals per nation|
 
-
-
-The present document shall be reviewed and confirmed on a yearly basis. Any request for inclusion of an event or type of bet for the following calendar year shall be submitted to the UCI by no later than 30 June. 
-
+The present document shall be reviewed and confirmed on a yearly basis. Any request for inclusion of an event or type of bet for the following calendar year shall be submitted to the UCI by no later than 30 June.

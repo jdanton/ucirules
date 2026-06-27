@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7sVY0lFLys4gA22Dr5DOl2/749
 source_sha256: 6e709bfb7c101ce82c634dc1eca1048ae68eacf6cb2149cf385b9e463d4bea3a
 converter: pymupdf4llm
 ---
-
 8 June 2026 
 
-
 ![](images/Part_3_Track_Regulations_amendments_01012028.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -64,8 +61,6 @@ converter: pymupdf4llm
 |||•Keirin: 10 riders (article 3.2.135)|
 |||•Bunch events: 12 riders|
 
-
-
 Page **1** / **2** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -88,5 +83,4 @@ Page **2** / **2**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

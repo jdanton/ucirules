@@ -4,55 +4,19 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3X0PPNdbWNAhMGaZzKly8J/c1f
 source_sha256: 441477261dbcacbc2916b002869f8163a1fca09db73c201ba1c208891944c6f1
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 **PART 5 CYCLO-CROSS Version on 01.07.2026** 
-
-## **TABLE OF CONTENTS** 
-
 
 ![](images/5-CRO-20260701-E.pdf-0001-03.png)
 
-
 **----- Start of picture text -----**<br>
-|||
-|---|---|
-|Page|
-|Chapter I|CYCLO-CROSS COMPETITIONS ............................................................ 2|
-|§ 1|Licences .............................................................................................................. 2|
-|§ 2|Race procedure ..................................................................................................14|
-|Chapter II UCI CYCLO-CROSS RANKING ................................................................19|
-|Chapter III UCI CYCLO-CROSS WORLD CUP ..........................................................22|
-|Chapter IV UCI MASTERS CYCLO-CROSS WORLD CHAMPIONSHIPS .................27|
-|Chapter V UCI CYCLO-CROSS TEAMS ....................................................................28|
-|§ 1|Identity ................................................................................................................28|
-|§ 2|Legal and financial status ...................................................................................30|
-|§ 3|Registration ........................................................................................................30|
-|§ 4|Contract of employment ......................................................................................33|
-|§ 5|Dissolution of a team ..........................................................................................33|
-|§ 6|Penalties .............................................................................................................33|
-|§ 7|Model contract between a rider and a UCI cyclo-cross team or UCI cyclo-cross|
-|professional team ........................................................................................................33|
-|§ 8|Bank guarantee of UCI cyclo-cross professional team ........................................33|
-|Chapter VI RACE INCIDENTS ...................................................................................35|
-|ANNEX 1 Call-up zone ..............................................................................................39|
-|ANNEX 2 Double pit area ..........................................................................................40|
-|ANNEX 3 Single pit area ...........................................................................................41|
-|ANNEX 4 UCI points table .........................................................................................42|
-|ANNEX 5 Model Contract between a rider and a UCI cyclo-cross team or a UCI|
-|cyclo-cross professional team .................................................................................44|
 
 **----- End of picture text -----**<br>
-
 
 CYCLO-CROSS 
 
 E0726 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 5 CYCLO-CROSS** 
 
@@ -108,8 +72,6 @@ E0726
 
 2 
 
-**UCI CYCLING REGULATIONS** 
-
 In all other competitions, women junior can ride in the race for women elite, even if a separate race is being run for women junior. 
 
 - Women under 23 riders cannot race with women elite during the following competitions: - UCI cyclo-cross world championships; 
@@ -163,8 +125,6 @@ CYCLO-CROSS
 E0726 
 
 3 
-
-**UCI CYCLING REGULATIONS** 
 
 A rider ranked in the top 20 of the most recently published elite UCI cyclo-cross ranking may not take part in any national competitions. 
 
@@ -222,8 +182,6 @@ E0726
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 A separate women junior race can be organised during all UCI competitions, except the UCI cyclo-cross world cup when decided by the UCI. 
 
 A separate women under 23 race can be organised only during UCI cyclo-cross world championships, continental championships and national championships. 
@@ -263,8 +221,6 @@ CYCLO-CROSS
 E0726 
 
 5 
-
-**UCI CYCLING REGULATIONS** 
 
 ## 2. UCI cyclo-cross world cup 
 
@@ -310,11 +266,7 @@ E0726
 
 6 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/5-CRO-20260701-E.pdf-0007-01.png)
-
 
 The zone A sections must be minimum 75 cm wide. 
 
@@ -353,8 +305,6 @@ CYCLO-CROSS
 E0726 
 
 7 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Inflatable arches** 
 
@@ -399,8 +349,6 @@ CYCLO-CROSS
 E0726 
 
 8 
-
-**UCI CYCLING REGULATIONS** 
 
 - **5.1.017** The course must form a closed circuit of a minimum length of 2.5 km and maximum 3.5 km, of which at least 90% shall be ridable. 
 
@@ -447,8 +395,6 @@ CYCLO-CROSS
 E0726 
 
 9 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Obstacles** 
 
@@ -504,8 +450,6 @@ E0726
 
 10 
 
-**UCI CYCLING REGULATIONS** 
-
 - **5.1.025** The course may pass over bridges or footbridges as long as they are at least 3 metres wide and have protective barriers on both sides. Bridges or footbridges shall be covered with an anti-slip surface (matting, mesh or anti-slip paint). 
 
 In addition a separate footbridge for spectators must be provided. 
@@ -551,8 +495,6 @@ CYCLO-CROSS
 E0726 
 
 11 
-
-**UCI CYCLING REGULATIONS** 
 
 The pit area must be signalled and marked precisely with a yellow flag at the beginning and the end of the separation between the two lanes. 
 
@@ -600,8 +542,6 @@ E0726
 
 12 
 
-**UCI CYCLING REGULATIONS** 
-
 maximum will be allocated to one nation. Nations with a small number of riders may be grouped in the same box; 
 
 4. the national team managers shall select their preferred boxes in the order determined by points 1 and 2. Any nation that is allocated 2 or 3 boxes must chose the numbers of these boxes back to back; 
@@ -645,8 +585,6 @@ CYCLO-CROSS
 E0726 
 
 13 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Attendants** 
 
@@ -695,8 +633,6 @@ CYCLO-CROSS
 E0726 
 
 14 
-
-**UCI CYCLING REGULATIONS** 
 
 2. as per the most recently published UCI cyclo-cross individual rankings of the current season (or the final classification of the previous season if no rankings has yet been published for the current season; 
 
@@ -753,8 +689,6 @@ CYCLO-CROSS
 E0726 
 
 15 
-
-**UCI CYCLING REGULATIONS** 
 
 - the other race numbers are issued to nations on the basis of their classification in the UCI cyclo-cross world championships of the preceding season; 
 
@@ -826,8 +760,6 @@ E0726
 
 16 
 
-**UCI CYCLING REGULATIONS** 
-
 A rider who retires must leave the course immediately and does not have the right to cross the finish line. He shall be listed in the results as «DNF» («did not finish») and shall not be awarded any points for this race. 
 
 _(text modified on 01.09.04; 01.09.08; 01.07.10)_ 
@@ -876,8 +808,6 @@ E0726
 
 17 
 
-**UCI CYCLING REGULATIONS** 
-
 For the UCI cyclo-cross world cup and UCI cyclo-cross world championships, men elite and women races only, the use of radio-communication from the rider to his/her mechanics is allowed. The use of radio-communication from staff to the rider is forbidden. The use of such a system is subject to any relevant legal provisions. 
 
 _(article introduced on 01.09.04; text modified on 07.06.16)_ 
@@ -909,8 +839,6 @@ CYCLO-CROSS
 E0726 
 
 18 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II UCI CYCLO-CROSS RANKING** 
 
@@ -978,8 +906,6 @@ E0726
 
 19 
 
-**UCI CYCLING REGULATIONS** 
-
 9. continental championships men junior and women junior; 
 
 10. national championships men elite and women elite; 
@@ -1042,8 +968,6 @@ E0726
 
 20 
 
-**UCI CYCLING REGULATIONS** 
-
 The UCI points awarded for the team relay race at the UCI cyclo-cross world championships and eventually at continental cyclo-cross championships are awarded to the nation in the elite ranking and not to the individual riders. 
 
 _(text modified on 01.09.98; 01.09.03; 01.09.04; 01.09.05; 01.09.08; 01.07.09; 01.07.15; 01.07.22)_ 
@@ -1075,8 +999,6 @@ CYCLO-CROSS
 E0726 
 
 21 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III UCI CYCLO-CROSS WORLD CUP** 
 
@@ -1130,8 +1052,6 @@ E0726
 
 22 
 
-**UCI CYCLING REGULATIONS** 
-
 Pre-qualified riders are eligible for selection at the discretion of the federation of their nationality, with a maximum of 12 riders per nation and in respect of the 6 following cases: 
 
 - a federation having 6 prequalified riders will select its 6 best ranked riders and 2 riders of its choice; 
@@ -1178,8 +1098,6 @@ E0726
 
 23 
 
-**UCI CYCLING REGULATIONS** 
-
 - **5.3.009** A rider for whom an entry has been submitted to the UCI under article 5.3.008 for a UCI cyclo-cross world cup round may not ride any other cyclo-cross competition in any category whatsoever on the same day. Should he do so, he shall be subject to disqualification and a fine of between CHF 500 and CHF 3,000. 
 
 _(text modified on 01.09.99; 01.10.02; 01.09.04; 01.09.08)_ 
@@ -1221,15 +1139,11 @@ _(text modified on 01.09.98; 01.09.08; 21.06.19; 12.06.20)_
 |9|17|19|7|||
 |10|16|20|6|||
 
-
-
 CYCLO-CROSS 
 
 E0726 
 
 24 
-
-**UCI CYCLING REGULATIONS** 
 
 For the men under 23, women junior and men junior races, only the best results of each rider will be considered to calculate the UCI cyclo-cross world cup classification: 
 
@@ -1283,8 +1197,6 @@ E0726
 
 25 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Leader's outfit** 
 
 - **5.3.023** A leader’s ceremony jersey will be awarded by the world cup licensee during the ceremony for each category. 
@@ -1317,8 +1229,6 @@ E0726
 
 26 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter IV UCI MASTERS CYCLO-CROSS WORLD CHAMPIONSHIPS** 
 
 (chapter introduced on 16.06.14) 
@@ -1338,8 +1248,6 @@ CYCLO-CROSS
 E0726 
 
 27 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter V UCI CYCLO-CROSS TEAMS** 
 
@@ -1389,8 +1297,6 @@ E0726
 
 28 
 
-**UCI CYCLING REGULATIONS** 
-
 federations concerned by its riders has agreed to submit the UCI world cup entry of a rider of the team, in compliance with article 5.3.005. 
 
 UCI cyclo-cross professional teams have the obligation to subscribe to the prize money centralisation system set-up by the UCI. 
@@ -1426,8 +1332,6 @@ CYCLO-CROSS
 E0726 
 
 29 
-
-**UCI CYCLING REGULATIONS** 
 
 - **5.5.006** No two UCI cyclo-cross teams or UCI cyclo-cross professional teams, their principal partners or paying agents, may bear the same name. Should application for a new and identical name be simultaneously made by two or more teams, priority is given to the team which has used the name for the longer or longest time. Otherwise, the team that first submitted its application to the UCI shall receive priority for the name. 
 
@@ -1471,8 +1375,6 @@ E0726
 
 30 
 
-**UCI CYCLING REGULATIONS** 
-
    - B. address details (including telephone number and email address) to which all communications to the team can be sent; 
 
    - C. the names and addresses of the principal partners, the paying agent, the manager, the team manager, the assistant team managers, the assistants, the mechanics and other license holders; 
@@ -1514,8 +1416,6 @@ CYCLO-CROSS
 E0726 
 
 31 
-
-**UCI CYCLING REGULATIONS** 
 
 principal partners are held jointly and severally liable for all the financial commitments of the team to the UCI and the national federations, including any fines. 
 
@@ -1571,8 +1471,6 @@ E0726
 
 32 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 4 Contract of employment** 
 
 - **5.5.018** A rider's membership of a UCI cyclo-cross team or a UCI cyclo-cross professional team requires a written contract of employment to be concluded which must contain as a minimum the provisions of the standard contract in article 5.5.024. 
@@ -1613,8 +1511,6 @@ E0726
 
 33 
 
-**UCI CYCLING REGULATIONS** 
-
    - UCI cyclo-cross professional team and to cover the payment of any fines imposed as a result of the application of the UCI regulations; 
 
 2. to defray the payment of expenses, indemnities, fines and sanctions or sentences imposed under or as a result of the application of the regulations of the UCI or the responsible National Federation or associated with their application. For the application of provisions regarding the bank guarantee companies through whom the licence-holders concerned carry out their activity for the operation of the UCI cyclo-cross professional team shall be considered as members of that UCI cyclocross professional team. 
@@ -1651,8 +1547,6 @@ E0726
 
 34 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter VI RACE INCIDENTS** 
 
 (chapter introduced on 10.06.21) 
@@ -1668,8 +1562,6 @@ CYCLO-CROSS
 E0726 
 
 35 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **5.6.004 Table of race incidents in accordance with article 12.4.001** 
 
@@ -1689,15 +1581,11 @@ E0726
 |4. Rider failing to respect the starting order<br>established in article 5.1.043|CHF 100|CHF 100|
 |5. Irregular change of equipment|Disqualification (DSQ)|Disqualification (DSQ)|
 
-
-
 CYCLO-CROSS 
 
 E0726 
 
 36 
-
-**UCI CYCLING REGULATIONS** 
 
 |**Cyclo-cross**|**UCI World Championships,**<br>**UCI World Cup, class 1, class 2, continental**<br>**championships**|**Other competitions**|
 |---|---|---|
@@ -1715,22 +1603,16 @@ E0726
 |17. Insult, threats, inappropriate behaviour|Any licence holder CHF 50 to 200 fine|Any licence holder CHF 50 to 200 fine|
 |18. Act of violence among riders or any other<br>person|Disqualification (DSQ) and CHF 200 fine|Disqualification (DSQ) and CHF 100 fine|
 
-
-
 CYCLO-CROSS 
 
 E0726 
 
 37 
 
-**UCI CYCLING REGULATIONS** 
-
 |**Cyclo-cross**|**UCI World Championships,**<br>**UCI World Cup, class 1, class 2, continental**<br>**championships**|**Other competitions**|
 |---|---|---|
 |19. Obstruction by a rider in order to prevent or<br>delay the movement of another rider|Disqualification (DSQ) and CHF 100 fine|Disqualification (DSQ) and CHF 50 fine|
 |20. Rider or team staff disposing of waste or other<br>objects outside of equipment pit zone or outside<br>any other organised waste zone or waste not<br>returned to team or organisation staff or not<br>collected by team staff. Disposing of waste or other<br>objects in a careless or dangerous manner (e.g.<br>bottle or other object remaining or bouncing back<br>on the track, thrown directly or with excessive force<br>at spectator, causing dangerous manoeuvre by<br>other rider, causing spectator to move onto the<br>track).|1st infringement: CHF 250 fine<br>2nd infringement: CHF 500 fine and disqualification|1st infringement: CHF 100 fine<br>2nd infringement: CHF 200 fine and disqualification|
-
-
 
 _(text modified on 01.07.22; 01.03.24; 01.07.25; 01.07.26)_ 
 
@@ -1740,17 +1622,12 @@ E0726
 
 38 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **ANNEX 1 Call-up zone** 
-
 
 ![](images/5-CRO-20260701-E.pdf-0039-02.png)
 
-
 **----- Start of picture text -----**<br>
 STANDARD CONFIGURATION OF A START ZONE<br>* Responsible to avoid public entrance into the start zone<br>Barriers Restricted zone for soigneurs, TV and accredited photographers<br>soigneurs<br>TV, photo<br>zone<br>just before<br>the start<br>Barriers Width 6m<br>width 75 cm<br>(1) (2) (3) (4) (5) (6) (7) (8)<br>    Barriers Barriers<br>CALL-UP ZONE<br>Barriers<br>Athletes<br>entrance<br>*Responsible to avoid public entrance into the call-up zone<br>     Barriers<br>width 15m<br>Barriers<br>Barriers<br>Lanes width 10 m<br>BARRIERES<br>Barriers<br>                 Barriers<br>**----- End of picture text -----**<br>
-
 
 CYCLO-CROSS 
 
@@ -1758,21 +1635,16 @@ E0726
 
 39 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **ANNEX 2 Double pit area** 
 
 ## **STANDARD CONFIGURATION OF A DOUBLE PIT AREA** 
 
 Total length of the pit area 70 m 
 
-
 ![](images/5-CRO-20260701-E.pdf-0040-04.png)
 
-
 **----- Start of picture text -----**<br>
-LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>P<br>C A<br>O race direction R<br>U C<br>R P P O<br>S<br>U<br>E<br>R<br>breakdown assistance line<br>S<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit area HIGH PRESSURE CLEANING<br>Width        : 4 m<br>Depth        : 2,5 m 8 compulsory high pressure cleaners<br>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15<br>length 5m length 5m<br>C breakdown assistance line P<br>O A<br>U R<br>R P P C<br>S O<br>E U<br>race direction R<br>S<br>LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br>min. width 4m<br>Total min width 21 m<br>min. width 3m<br>min. width<br>min. width  6m<br>min. width 6m<br>min. width 3m min. width  3m<br>**----- End of picture text -----**<br>
-
+LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>P<br>C A<br>O race direction R<br>U C<br>R P P O<br>S<br>U<br>E<br>R<br>breakdown assistance line<br>S<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit area HIGH PRESSURE CLEANING<br>Width: 4 m<br>Depth: 2,5 m 8 compulsory high pressure cleaners<br>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15<br>length 5m length 5m<br>C breakdown assistance line P<br>O A<br>U R<br>R P P C<br>S O<br>E U<br>race direction R<br>S<br>LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br>min. width 4m<br>Total min width 21 m<br>min. width 3m<br>min. width<br>min. width  6m<br>min. width 6m<br>min. width 3m min. width  3m<br>**----- End of picture text -----**<br>
 
 CYCLO-CROSS 
 
@@ -1780,29 +1652,22 @@ E0726
 
 40 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **ANNEX 3 Single pit area** 
 
 ## **STANDARD CONFIGURATION OF A PIT ZONE** 
 
 Total length of the pit zone 70 m 
 
-
 ![](images/5-CRO-20260701-E.pdf-0041-04.png)
 
-
 **----- Start of picture text -----**<br>
-LENGTH OF THE PIT ZONE 60 M<br>length 5m length 5m<br>C<br>C O<br>O race direction U<br>U R<br>R P P S<br>S E<br>E<br>breadkdown assistance line<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit zone CLEANING<br>Width      : 4 m<br>Depth      : 2,5 m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br>**----- End of picture text -----**<br>
-
+LENGTH OF THE PIT ZONE 60 M<br>length 5m length 5m<br>C<br>C O<br>O race direction U<br>U R<br>R P P S<br>S E<br>E<br>breadkdown assistance line<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit zone CLEANING<br>Width: 4 m<br>Depth: 2,5 m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br>**----- End of picture text -----**<br>
 
 CYCLO-CROSS 
 
 E0726 
 
 41 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 4 UCI points table** 
 
@@ -1840,15 +1705,11 @@ E0726
 |**26**|_42_|_5_|_5_||34||||||||||||||
 |**27**|_39_|_4_|_4_||33||||||||||||||
 
-
-
 CYCLO-CROSS 
 
 E0726 
 
 42 
-
-**UCI CYCLING REGULATIONS** 
 
 ||**_UCI_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**Class 1**|**Class 2**|**Class 1 or 2**|**Class 1 or 2**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1881,8 +1742,6 @@ E0726
 |**50**|10||||10||||||||||||||
 |**51**|5**||||5**||||||||||||||
 
-
-
 _* in case of split race_ 
 
 - _** amount of points for each ranked rider / nation_ 
@@ -1896,8 +1755,6 @@ CYCLO-CROSS
 E0726 
 
 43 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 5 Model Contract between a rider and a UCI cyclo-cross team or a UCI cyclo-cross professional team** 
 
@@ -1949,8 +1806,6 @@ E0726
 
 44 
 
-**UCI CYCLING REGULATIONS** 
-
 ## B. Unpaid rider 
 
 The rider receives no wages or remuneration but receives expenses as per the scale below for the activities carried out for the team and/or at its request; 
@@ -2001,8 +1856,6 @@ E0726
 
 45 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **ARTICLE 7  Miscellaneous obligations** 
 
 1. during cyclo-cross competitions, the rider may not, for the duration of the present contract, work for any other team or advertise for any other sponsors than those belonging to the (name of team), except in such cases as are provided for in the Regulations of the UCI and of its affiliated federation; 
@@ -2045,8 +1898,6 @@ E0726
 
 46 
 
-**UCI CYCLING REGULATIONS** 
-
 to the regulations of the national federation to which the rider belongs or, failing this, the legislation governing this Contract. 
 
 Made in (place) on (date) 
@@ -2061,5 +1912,4 @@ CYCLO-CROSS
 
 E0726 
 
-47 
-
+47

@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5L9K3ja9pUw8pXUobi4oKg/3ce
 source_sha256: f1961b6fcd370b43ce7e03fd3ab785b955cbf7f2da020df64557cf653285ac5d
 converter: pymupdf4llm
 ---
-
-
 ![](images/policy-uci---national-federations-20190211-e.pdf-0001-00.png)
-
 
 ## **POLICY FOR THE COLLECTING, PROCESSING** 
 
@@ -37,9 +34,7 @@ Page **1** / **6**
 
 **Union Cycliste Internationale** 02.2019 
 
-
 ![](images/policy-uci---national-federations-20190211-e.pdf-0002-00.png)
-
 
 **“National Federations”** shall refer to the members of the UCI accepted by the UCI Congress as being the representative organisations for the sport of cycling in their respective countries. 
 
@@ -65,9 +60,7 @@ Page **2** / **6**
 
 **Union Cycliste Internationale** 02.2019 
 
-
 ![](images/policy-uci---national-federations-20190211-e.pdf-0003-00.png)
-
 
 - 2.3. Section 4 of the present Policy only applies to the Processing and Sharing of Data between National Federations and the UCI. 
 
@@ -107,9 +100,7 @@ Page **3** / **6**
 
 **Union Cycliste Internationale** 02.2019 
 
-
 ![](images/policy-uci---national-federations-20190211-e.pdf-0004-00.png)
-
 
 - 4.2. Licence-holders’ Personal Data are collected for the UCI by National Federations by means of the licence application form contained in articles 1.1.021 and 1.1.022 of the UCI Regulations, which represent the instruction of the UCI. 
 
@@ -123,7 +114,7 @@ Page **3** / **6**
 
    - (c) Licence-holders have freely consented to the Collection, Processing, and Sharing of their Data by filling-in the licence application form after having been properly informed; 
 
-   - (d) Data is only processed for the UCI and not for National Federations own interest[1] ; 
+   - (d) Data is only processed for the UCI and not for National Federations own interest[1]; 
 
    - (e) Any individual or entity that it authorised to access Licence-holders’ Data (including staff and subcontractors) shall be subject to a strict duty of confidentiality (whether contractual or statutory) and shall not permit any individual or entity who is not under such a duty of confidentiality to process the Data; 
 
@@ -139,9 +130,7 @@ Page **4** / **6**
 
 **Union Cycliste Internationale** 02.2019 
 
-
 ![](images/policy-uci---national-federations-20190211-e.pdf-0005-00.png)
-
 
 Recipients located outside of Switzerland and the European Economic Area (“EEA”) where applicable standards may be different; 
 
@@ -167,9 +156,7 @@ Page **5** / **6**
 
 **Union Cycliste Internationale** 02.2019 
 
-
 ![](images/policy-uci---national-federations-20190211-e.pdf-0006-00.png)
-
 
 - 5.1. Upon request, the UCI and National Federations undertake to comply and collaborate fully with the Data Protection Authority. 
 
@@ -177,5 +164,4 @@ Page **5** / **6**
 
 Page **6** / **6** 
 
-**Union Cycliste Internationale** 02.2019 
-
+**Union Cycliste Internationale** 02.2019

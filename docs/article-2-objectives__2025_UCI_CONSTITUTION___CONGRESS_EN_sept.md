@@ -4,20 +4,14 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2uOSbE8gAbYJWGZF6Zdb0c/ba7
 source_sha256: a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1
 converter: pymupdf4llm
 ---
-
-
 ![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0001-00.png)
-
 
 **----- Start of picture text -----**<br>
 CONSTITUTION<br>**----- End of picture text -----**<br>
 
-
 # VERSION ON 25.09.2025 
 
-
 ![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0001-02.png)
-
 
 ## **TABLE OF CONTENT** 
 
@@ -42,8 +36,6 @@ CONSTITUTION<br>**----- End of picture text -----**<br>
 |~~CHAPTER XVIII~~|~~**ENFORCEMENT**~~|~~**43**~~|
 ||||
 ||~~**STANDING ORDERS OF THE CONGRESS**~~|~~**44**~~|
-
-
 
 2 
 
@@ -79,7 +71,7 @@ The objectives of the UCI are:
 
 - h) to promote Para-cycling; 
 
-- i) to advocate for the safety and rights of cyclists ; 
+- i) to advocate for the safety and rights of cyclists; 
 
 - j) to represent the sport of cycling and defend its interests before the International Olympic Committee, the International Paralympic Committee and all national and international authorities; 
 
@@ -161,7 +153,7 @@ _**National Federation’s rights and obligations**_
 
 ## _Rights_ 
 
-1. The national federations have the following rights : 
+1. The national federations have the following rights: 
 
    - a) to take part in the Congress; 
 
@@ -741,7 +733,7 @@ _**Article 39**_
 
    - b) dissolution of the UCI; 
 
-   - c) amendment of the Constitution ; 
+   - c) amendment of the Constitution; 
 
    - d) dismissal of the President. 
 
@@ -1374,27 +1366,20 @@ _**Article 86**_
 |||1.|This Constitution was adopted by the Congress in Kigali on 25|
 ||||September 2025 and came into force on the same day.|
 
-
-
 Kigali, 25 September 2025 
 
 CONSTITUTION | ENFORCEMENT 
 
 43 
 
-
 ![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0044-00.png)
-
 
 **----- Start of picture text -----**<br>
 STANDING<br>ORDERS OF<br>THE CONGRESS<br>**----- End of picture text -----**<br>
 
-
 VERSION ON 25.09.2025 
 
-
 ![](images/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf-0044-02.png)
-
 
 _**Article 1**_ 
 
@@ -1570,5 +1555,4 @@ CONSTITUTION | STANDING ORDERS OF THE CONGRESS
 
 49 
 
-CONSTITUTION | Version on 25.09.2025 
-
+CONSTITUTION | Version on 25.09.2025

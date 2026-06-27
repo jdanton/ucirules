@@ -4,14 +4,11 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/En4oKXhwchOolBgpYQ5GV/45e5
 source_sha256: 4fce5e8556d1ca7d6d47eb3c00983e818e71ccf787c97d8dbc52249eb6cb7389
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 
 
 06.10.2025 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0001-02.png)
-
 
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 01.01.2026** 
 
@@ -29,7 +26,7 @@ Event organisers wishing to be part of a series shall indicate their intention i
 
 The following specific conditions shall apply for the approval of a series: 
 
-- In all cycling disciplines, any series subject to authorisation under this article shall not include more than eight events. However, series in the discipline of Road that have been established before January 1[st] , 2024, and have been approved for previous seasons, as well as UCI World Cups and UCI Series, are exempt from this limitation. These series are permitted to maintain a greater number of events subject to annual approval by the UCI and provided they continue to meet the other criteria set forth in this article. 
+- In all cycling disciplines, any series subject to authorisation under this article shall not include more than eight events. However, series in the discipline of Road that have been established before January 1[st], 2024, and have been approved for previous seasons, as well as UCI World Cups and UCI Series, are exempt from this limitation. These series are permitted to maintain a greater number of events subject to annual approval by the UCI and provided they continue to meet the other criteria set forth in this article. 
 
 - The name of a series shall not give the impression that the events or the series have a status they do not have. 
 
@@ -92,8 +89,6 @@ _(text modified on 01.08.00; 01.01.05; 01.07.13; 01.01.24; 01.01.26)_
 ||6<br>(4)|8<br>(4)|5<br>(4)|5<br>(4)|3/4*<br>(3)|3/4*<br>(3)|3<br>(4)|3<br>(4)|3<br>(4)|3<br>(4)|
 ||||||||||||
 
-
-
 Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -137,8 +132,6 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 ||11<br>(4)|11<br>(4)|10<br>(4)|10<br>(4)|13<br>(4)|5<br>(4)|5<br>(4)|10<br>(4)|5<br>(4)|
 |||||||||||
 
-
-
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
 
 (1) On events determined by the UCI 
@@ -180,8 +173,6 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 ||2<br>(3)|6<br>(4)|6<br>(4)|1<br>(4)|0|2-4<br>(4)|0|4-6<br>(4)|0|2-4<br>(4)|0|2<br>(4)|1<br>(4)|0|6<br>(4)|2<br>(4)|
 ||||||||||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -221,8 +212,6 @@ WCh. = World Championships / CC = Continental Championships / NC = National Cham
 |||||3|3||3|3|3|3|
 ||||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -254,8 +243,6 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 ||||4/6*(1)|4|4|4|4||
 |||||||||<br>theparticipation|
 ||||||||||
-
-
 
 Legend: 
 
@@ -293,8 +280,6 @@ Minimum appointed by the UCI Minimum appointed by the National Federation
 ||3<br>(3)|8<br>(3)|4<br>(3)|4<br>(3)|3<br>(3)|4<br>(3)|4<br>(3)|4<br>(3)|0|
 |||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -328,8 +313,6 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 ||4<br>(3)|4<br>(3)|2<br>(3)|3<br>(3)|3<br>(3)|2<br>(3)|3<br>(3)|3<br>(3)|
 ||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -362,8 +345,6 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 ||5|5|5|5|5|5|10<br>(1)|5|
 ||||||||||
 
-
-
 Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -394,8 +375,6 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 |Minimum Additional|Gravel|6<br>(3)|3<br>(3)|3<br>(3)|0|3<br>(3)|3|
 |Commissaires|Gran Fondo|6<br>(3)|3<br>(3)|3<br>(3)|3<br>(3)|0|3|
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation 
@@ -418,8 +397,6 @@ Appointed by the UCI Appointed by the National Federation
 |President of the Commissaires' Panel|1|||1|1|
 |||1|1|||
 |||||||
-
-
 
 Legend: 
 
@@ -448,8 +425,6 @@ Appointed by the UCI Appointed by the National Federation
 ||10|7|5|5|7|3|3|3|
 ||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -458,7 +433,7 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 
 (2) UCI international commissaire only 
 
-_(text modified on 15.07.08; 01.02.10; 01.07.12; 15.03.16; 01.03.18; 05.02.19; 23.10.19; 11.02.20 ; 10.06.21; 01.10.21; 20.02.23; 01.02.25; 01.01.26)_ 
+_(text modified on 15.07.08; 01.02.10; 01.07.12; 15.03.16; 01.03.18; 05.02.19; 23.10.19; 11.02.20; 10.06.21; 01.10.21; 20.02.23; 01.02.25; 01.01.26)_ 
 
 13 
 
@@ -498,15 +473,11 @@ In addition, all handlebars must conform to the following:
 
 - The maximum dimension of the cross section of the handlebars is 80 mm for track, and 65 / 80 mm for road and cyclo-cross  (see diagram «structure 1.0 Track» and «structure 1.0 Road, Cyclo-cross») 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0015-00.png)
-
 
 ## **Structure (1.0) Track** 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0015-02.png)
-
 
 ## **Structure (1.0) Road, Cyclo-cross** 
 
@@ -522,17 +493,13 @@ In addition, all handlebars must conform to the following:
 
 15 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0016-00.png)
-
 
 **Structure (1)** 
 
 The brake controls attached to the handlebars shall consist of two supports with levers. It must be possible to operate the brakes by pulling on the levers with the hands on the lever supports in a safe manner. The maximum inclination of brake levers shall be 10° and the minimum measurement between the inside of the extremities of the brake levers shall be 280 mm. Any extension to or reconfiguration of the supports to enable an alternative use is prohibited. A combined system of brake and gear controls is authorised. 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0016-03.png)
-
 
 **Structure (1A)** 
 
@@ -554,9 +521,7 @@ Traditional handlebars or base bar steering systems must be positioned in the ar
 
 A fixed time trial extension handlebar must be positioned in compliance with one of the four categories presented below and the measurements shown in diagram “Structure (1B)”: 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0017-07.png)
-
 
 **Structure (1B)** 
 
@@ -693,8 +658,6 @@ The table below provides for two categories of helmets: Traditional Helmets and 
 |**Ear coverage**|The helmet shell and any<br>accessories<br>must<br>not<br>extend to cover, obstruct,<br>or enclose the rider’s ears<br>(looking from the lateral<br>view)|No restriction|
 |**Visor**<br>A “visor” refers to any<br>fixed or attached shield<br>that cannot be worn<br>independently of the<br>helmet.|Integrated or detachable<br>visors are not permitted.<br>Helmets must be used<br>without<br>any<br>visor<br>attachments or shield-like<br>accessories|Integrated or detachable<br>visors are permitted|
 
-
-
 The table below sets out the disciplines in which Traditional Helmets and Time Trial Helmets are permitted. 
 
 |**Road**|**Traditional Helmet**|**Time Trial Helmet**|
@@ -706,15 +669,11 @@ The table below sets out the disciplines in which Traditional Helmets and Time T
 |**Cyclo-cross**|**Traditional Helmet**|**Time Trial Helmet**|
 |All events|**Permitted**|**Not permitted**|
 
-
-
 The diagram below illustrates the measurement of dimensions for Traditional Helmets and Time Trial Helmets: 
 
 20 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2026.pdf-0021-00.png)
-
 
 _(text modified on 05.05.03; 01.01.04; 01.08.04; 01.01.05; 01.02.07; 01.07.11; 01.01.15; 01.01.17; 27.03.17; 01.01.23; 01.01.26)_ 
 
@@ -814,5 +773,4 @@ _The amounts of the fines set above are doubled in the event of an offence durin
 
 _(text modified on 01.03.01; 01.01.04; 01.01.05; 01.10.10; 01.07.11; 01.07.12; 01.02.25; 01.01.26)_ 
 
-22 
-
+22

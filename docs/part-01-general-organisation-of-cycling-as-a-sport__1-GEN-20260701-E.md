@@ -4,59 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/MiBPXV3F9Y4jGKqffTUNr/9005
 source_sha256: cd5a0185206086a7a47a752610569a8db09bf9cc4a62f7fb9b7b7f848632b818
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Version on 01.07.2026** 
-
-## **TABLE OF CONTENTS** 
-
-||Page|
-|---|---|
-|**Chapter I** **LICENCE-HOLDERS ................................................................................ 3**||
-|§ 1|Licences .............................................................................................................. 3|
-|§ 2|Categories of riders ............................................................................................14|
-|§ 3|Teams ................................................................................................................16|
-|§ 4|Commissaires ....................................................................................................17|
-|§ 5|Sports directors ..................................................................................................22|
-|§ 6|Technical delegate .............................................................................................24|
-|§ 7|Miscellaneous ....................................................................................................24|
-|**Chapter II** **RACES .....................................................................................................27**||
-|Section 1: administrative provisions ............................................................................27||
-|§ 1|Calendar ............................................................................................................27|
-|§ 2|Names of races ..................................................................................................32|
-|§ 3|Forbidden races .................................................................................................32|
-|§ 4|Access to a race .................................................................................................33|
-|§ 5|Sanction .............................................................................................................34|
-|§ 6|Classifications and cups .....................................................................................34|
-|§ 7|National Championships ....................................................................................35|
-|Section 2: organisation of races ..................................................................................37||
-|§ 1|Organiser ...........................................................................................................37|
-|§ 2|Authorisation to organise the event ....................................................................38|
-|§ 3|Specific regulations ............................................................................................39|
-|§ 4|Programme - technical guide ..............................................................................39|
-|§ 5|Invitation – Enrolment.........................................................................................40|
-|§ 6|Race headquarters – Secretarial office ..............................................................42|
-|§ 7|Course and safety ..............................................................................................42|
-|§ 8|Medical service ..................................................................................................43|
-|§ 9|Prizes .................................................................................................................43|
-|§ 10|Travel and subsistence expenses ......................................................................45|
-|Section 3: race procedures ..........................................................................................46||
-|§ 1|Supervision of the organisation and competition ................................................46|
-|§ 2|Conduct of participants in cycling races..............................................................46|
-|§ 3|Team manager ...................................................................................................47|
-|§ 4|Team managers' meeting ...................................................................................47|
-|§ 5|Entry check ........................................................................................................48|
-|§ 6|Start of the race ..................................................................................................48|
-|§ 7|Finish .................................................................................................................49|
-|§ 8|Awards ceremony ..............................................................................................51|
-|Section 4: supervision of races ....................................................................................52||
-|§ 1|General provision ...............................................................................................52|
-|§ 2|Commissaires' panel ..........................................................................................52|
-|§ 3|Powers of the commissaires' panel ....................................................................65|
-|Section 5: UCI cups, series and classification .............................................................66||
-
-
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
@@ -64,40 +12,11 @@ E0726
 
 1 
 
-**UCI CYCLING REGULATIONS** 
-
-|**Chapter III** **EQUIPMENT ............................................................................................67**|**Chapter III** **EQUIPMENT ............................................................................................67**|
-|---|---|
-|Section 1: general provisions ......................................................................................67||
-|§ 1|Principles ...........................................................................................................67|
-|§ 2|Technical innovations .........................................................................................68|
-|§ 3|Commercialisation ..............................................................................................69|
-|Section 2: bicycles.......................................................................................................71||
-|§ 1|Principles ...........................................................................................................71|
-|§ 2|Technical specifications .....................................................................................72|
-|Section 3: riders' clothing ............................................................................................88||
-|§ 1|General provisions .............................................................................................88|
-|§ 2|Teams registered with the UCI ...........................................................................91|
-|§ 3|Regional and club teams ....................................................................................93|
-|§ 4|Leaders' clothing ................................................................................................93|
-|§ 5|National team clothing ........................................................................................95|
-|§ 6|World champion's jersey ....................................................................................95|
-|§ 7|National champion's jersey .................................................................................97|
-|§ 8|Continental champion's jersey ............................................................................98|
-|§ 9|Order of priority ..................................................................................................99|
-|§ 10|Sanctions ...........................................................................................................99|
-|Section 4: identification of riders ................................................................................ 101||
-|**Annexe A UCI LIST OF AUTHORISED BETS ......................................................... 103**||
-
-
-
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
 E0726 
 
 2 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT** 
 
@@ -139,8 +58,6 @@ E0726
 
 3 
 
-**UCI CYCLING REGULATIONS** 
-
 Before the licence is issued, the applicant and the national federation must ensure _inter alia_ that the applicant is adequately insured against accidents and civil responsibility in every country where they intend to take part in cycling events or train throughout the year for which the licence is issued. 
 
 Once the licence is issued, the licence holder and their team shall be entirely responsible for ensuring that the rider concerned only enters cycling events in countries where the insurance against accidents and for third-party liability are valid. The national federation and the UCI shall not be liable in any manner whatsoever in case a licence holder takes part in a cycling event in a country where their accident insurance or third-party liability insurance are not valid. The licence holder and their team shall be solely and exclusively liable for any such participation in a cycling event. 
@@ -175,8 +92,6 @@ E0726
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 - a. Has been found guilty or complicit at least twice of an intentional anti-doping rule violation or equivalent offence. 
 
 In relation to situations referred to in points 3 and 4 above, a licence may be granted if more than 5 years have elapsed since the end of the suspension imposed for the last offence taken into consideration. 
@@ -185,7 +100,7 @@ The National Federation shall immediately inform the UCI of any decision – whe
 
 Any such decision may be appealed by the UCI and/or the applicant before the UCI Arbitral Board within 30 days of its notification. 
 
-This article shall apply to all licence applications made after its entry in force. As an exception, the previous version of this article shall be applied whenever any of the offences taken into consideration occurred at least partially before its entry in force and, based on the principle of _Lex Mitior_ , the assessment would be favourable to the applicant. 
+This article shall apply to all licence applications made after its entry in force. As an exception, the previous version of this article shall be applied whenever any of the offences taken into consideration occurred at least partially before its entry in force and, based on the principle of _Lex Mitior_, the assessment would be favourable to the applicant. 
 
 As an exception to the above, the waiting period of 5 years to be observed in situations referred to in points 3 and 4 above does not apply to persons having signed an acceptance of consequences with the UCI before the adoption of the present article. 
 
@@ -222,8 +137,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 5 
-
-**UCI CYCLING REGULATIONS** 
 
 ## 1.4 Rider’s agent 
 
@@ -295,8 +208,6 @@ E0726
 
 6 
 
-**UCI CYCLING REGULATIONS** 
-
 designated as indicated in the regulations of the federation or, where the regulations contain no such mention, by its president. 
 
 The applicant shall be entitled to consult the application file. They shall be entitled to present their arguments and to enlist the assistance of or be represented by any person of their choice bearing a proper power-of-attorney. 
@@ -349,8 +260,6 @@ E0726
 
 7 
 
-**UCI CYCLING REGULATIONS** 
-
 (electronic or paper). The form must at least include the information and the undertakings stated in the model of articles 1.1.022 and 1.1.023. 
 
 Applications submitted by paper shall be signed and dated by the applicant. 
@@ -391,7 +300,7 @@ UCI: national:
 
 10. Contact person: 
 
-Phone number of the contact person[1] : 
+Phone number of the contact person[1]: 
 
 11. National federation that issued the applicant's previous licence: 
 
@@ -430,8 +339,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 8 
-
-**UCI CYCLING REGULATIONS** 
 
 - amount of cover guaranteed 
 
@@ -475,13 +382,11 @@ E0726
 
 9 
 
-**UCI CYCLING REGULATIONS** 
-
 to other entities for the purpose of organising cycling events and promoting cycling, such as but not limited to the organisers of events and service providers, to any entity competent for investigations and/or procedures for a potential violation of the UCI Regulations, such as but not limited to the World Anti-Doping Agency, the national AntiDoping organisations, the Court of Arbitration for Sport, the judicial bodies of the UCI, the national and international authorities as well as in the context of the UCI’s missions related to the administration and governance of cycling. 
 
 I have taken note that I may contact the UCI at the following address in order to exercise my right to request access, rectification or deletion of my personal information: data.protection@uci.ch. 
 
-_(text modified on 01.01.00; 13.08.04; 15.10.04; 01.01.17; 01.01.18; 25.06.18 ; 17.06.24)_ 
+_(text modified on 01.01.00; 13.08.04; 15.10.04; 01.01.17; 01.01.18; 25.06.18; 17.06.24)_ 
 
 ## **Form of licence** 
 
@@ -493,19 +398,13 @@ E0726
 
 10 
 
-**UCI CYCLING REGULATIONS** 
-
 On the front 
-
 
 ![](images/1-GEN-20260701-E.pdf-0011-02.png)
 
-
 On the back 
 
-
 ![](images/1-GEN-20260701-E.pdf-0011-04.png)
-
 
 All National Federations must produce licenses which are materially the same as the format presented above. The license year must be in the position and of the font size shown. If a Federation wishes to issue licenses with a QR code or a bar code, space is provided on the reverse of the license for this purpose. 
 
@@ -520,8 +419,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 11 
-
-**UCI CYCLING REGULATIONS** 
 
 - **1.1.025** The licence shall be written in French or English. Other language versions of its text may also appear. 
 
@@ -579,8 +476,6 @@ E0726
 
 12 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.1.033** All licence ~~-~~ holders shall be assigned the sporting nationality corresponding to their nationality, regardless of the national federation that issues the licence. The sporting nationality shall be assigned upon issuance of the first licence. A rider holding multiple nationalities shall be required to choose between them on the occasion of first applying for a licence. A stateless licence ~~-~~ holder shall be assigned the sporting nationality of the country in which he has continuously resided since at least five years. 
 
 For any cycling event where a rider represents his national team, the rider may only be selected by the federation of their sporting nationality. 
@@ -610,8 +505,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 13 
-
-**UCI CYCLING REGULATIONS** 
 
 In addition to the above, restrictions may apply for multi-sport events in accordance with the relevant organisation’s regulations. The determination of a country that a rider can represent at the Olympic Games, Continental Games or Paralympic Games and any potential restriction on participation in such events are governed by either the Rule 41 of the Olympic Charter and its by-laws (for the Olympic and Continental Games) or the Chapter 3.1 of the International Paralympic Committee (IPC) Handbook (for the Paralympic Games). 
 
@@ -648,8 +541,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 14 
-
-**UCI CYCLING REGULATIONS** 
 
 In events where electrically powered assisted cycles (EPAC) are used, riders shall be 19 or more. 
 
@@ -707,8 +598,6 @@ E0726
 
 15 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Under 23 (WU: Women Under 23)** 
 
 Unless otherwise provided in the UCI Regulations, this category shall comprise riders aged 19 to 22. 
@@ -763,8 +652,6 @@ E0726
 
 16 
 
-**UCI CYCLING REGULATIONS** 
-
 UCI mountain ~~-b~~ ike teams: articles 4.18.001 and seq. 
 
 UCI track teams: articles 3.7.001 and seq. 
@@ -817,8 +704,6 @@ E0726
 
 17 
 
-**UCI CYCLING REGULATIONS** 
-
 Such appointment shall be based on the criteria established by the UCI or the national federation, if any, and may be withdrawn at its discretion. 
 
 ( _text modified on 25.06.19)_ 
@@ -866,8 +751,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 18 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **UCI international commissaires** 
 
@@ -922,8 +805,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 19 
-
-**UCI CYCLING REGULATIONS** 
 
    - continental championships 
 
@@ -993,8 +874,6 @@ E0726
 
 20 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **1.1.061** [article abrogated on 01.01.17] 
 
 ## **bis** 
@@ -1045,8 +924,6 @@ E0726
 
 21 
 
-**UCI CYCLING REGULATIONS** 
-
 Members of the commissaires’ panel for continental championships shall be designated by the continental confederation. 
 
 _(text modified on 15.10.04; 01.02.11; 01.01.17; 23.10.19)_ 
@@ -1091,8 +968,6 @@ E0726
 
 22 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.1.077** Sports directors shall hold the appropriate licence. 
 
 Sports directors and assistant sports directors of UCI WorldTeams, UCI Women’s WorldTeams, UCI Women’s ProTeams and UCI ProTeams must also have successfully passed the UCI examination. 
@@ -1130,8 +1005,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 23 
-
-**UCI CYCLING REGULATIONS** 
 
 - **1.1.083** The team manager shall regularly consult all persons mentioned in article 1.1.080 regarding human and social conditions, equipment, risks involved in cycling and the competition schedule for each rider. He shall make a report on each consultation. Upon their request, a copy of the reports shall be submitted to the national federation or the UCI. 
 
@@ -1175,8 +1048,6 @@ E0726
 
 24 
 
-**UCI CYCLING REGULATIONS** 
-
 - a) Events in which their team may participate or in relation to which they are directly involved in another manner; 
 
 - b) All national, continental and world championships of his discipline(s); and 
@@ -1213,8 +1084,6 @@ E0726
 
 25 
 
-**UCI CYCLING REGULATIONS** 
-
 4. The organiser, team or licence-holder wishing to be sponsored by a betting company shall provide documentation establishing compliance with the conditions above along with its request for registration before the UCI or the national federation, if applicable, and as determined by the applicable provisions. In the event the organiser, team or licence-holder is already registered at the time it wishes to obtain sponsorship by a betting operator, the documentation shall be submitted without delay for approval to the UCI or the national federation and in any case no later than two months prior to the event during which the organiser, team or licence-holder wishes to grant visibility to the betting operator. 
 
 _(text modified on 11.02.20; 08.02.21)_ 
@@ -1234,8 +1103,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 26 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II RACES** 
 
@@ -1261,7 +1128,7 @@ Authorisation by the UCI or by a national federation for the registration of eve
 
 - solidarity for the elite level to the training and development of young riders. 
 
-_(text modified on 01.07.22)_ . 
+_(text modified on 01.07.22)_. 
 
 - **1.2.002** A calendar shall be drawn up for the following disciplines: 
 
@@ -1305,8 +1172,6 @@ E0726
 
 27 
 
-**UCI CYCLING REGULATIONS** 
-
 Any race which has not received prior authorisation or is not registered on the international or national calendar shall be considered to be a forbidden event in accordance with article 1.2.019. 
 
 _(text modified on 01.01.01, 01.07.22; 01.02.26)_ 
@@ -1340,8 +1205,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 28 
-
-**UCI CYCLING REGULATIONS** 
 
 National federations shall submit to the UCI all applications for which their assessment of the criteria of article 1.2.010 is satisfactory. In case of a negative assessment or any other ill-compliance with the UCI regulations identified by the national federation, the latter shall inform the organiser accordingly. 
 
@@ -1386,8 +1249,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 29 
-
-**UCI CYCLING REGULATIONS** 
 
 Upon receipt of the application, the UCI shall determine if additional documentation or information is reasonably required in order to assess the criteria laid down in article 1.2.010 and any requirements pursuant to the UCI Regulations and/or the registration procedure for UCI calendars. 
 
@@ -1451,8 +1312,6 @@ E0726
 
 30 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.2.011** Upon review of the application, the UCI management committee or professional cycling council shall adopt one of the following decisions: 
 
    - (i) Authorise the event where, in its reasonable opinion, the race satisfies all authorisation criteria; or 
@@ -1493,8 +1352,6 @@ E0726
 
 31 
 
-**UCI CYCLING REGULATIONS** 
-
 The UCI may cancel an authorisation decision with immediate effect should the organiser infringe one or more of the criteria or conditions required for authorisation, including in cases where the UCI becomes aware of the relevant information after the registration of the event. 
 
 Decisions by the UCI management committee or the professional cycling council rejecting authorisation or cancelling registration on the international calendar are subject to _de novo_ appeal before the Court of Arbitration for Sport. 
@@ -1532,8 +1389,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 32 
-
-**UCI CYCLING REGULATIONS** 
 
 The UCI may grant authorisations to events which do not meet the criteria for registration on the international calendar in order for licence-holders to participate. Such authorisations shall be conditional upon the following conditions: 
 
@@ -1581,8 +1436,6 @@ E0726
 
 33 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.2.022** No suspended licence holder may be admitted to a race or to zones not accessible to the public. 
 
 Anyone knowingly engaging or entering a suspended rider or staff member at a race shall be fined between CHF 2,000 and 10,000. 
@@ -1615,15 +1468,13 @@ Event organisers wishing to be part of a series shall indicate their intention i
 
 The following specific conditions shall apply for the approval of a series: 
 
-- In all cycling disciplines, any series subject to authorisation under this article shall not include more than eight events. However, series in the discipline of Road that have been established before January 1[st] , 2024, and have been approved for previous seasons, as well as UCI World Cups and UCI Series, are 
+- In all cycling disciplines, any series subject to authorisation under this article shall not include more than eight events. However, series in the discipline of Road that have been established before January 1[st], 2024, and have been approved for previous seasons, as well as UCI World Cups and UCI Series, are 
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
 E0726 
 
 34 
-
-**UCI CYCLING REGULATIONS** 
 
 exempt from this limitation. These series are permitted to maintain a greater number of events subject to annual approval by the UCI and provided they continue to meet the other criteria set forth in this article. 
 
@@ -1677,8 +1528,6 @@ E0726
 
 35 
 
-**UCI CYCLING REGULATIONS** 
-
 after the last day of the event. No result received after that time shall be taken into consideration for the UCI classification. UCI points awarded will be included in the ranking calculated on the week following the receiving of the results. 
 
 The national cyclo-cross championships shall be run on the second weekend of January. 
@@ -1706,8 +1555,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 36 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Section 2: organisation of races** 
 
@@ -1749,8 +1596,6 @@ E0726
 
 37 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.2.035** The organiser shall take whatever safety measures caution demands and, whenever **bis** necessary, shall obtain authorisations from competent authorities and/or rights owners. The organiser’s responsibility shall remain unaffected whether tasks are performed by the organiser itself or a third-party. 
 
 The organiser’s responsibility in terms of safety encompasses any aspect of the event, including but not limited to sporting operational and commercial matters. 
@@ -1786,8 +1631,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 38 
-
-**UCI CYCLING REGULATIONS** 
 
 - programme and schedule of competitions; 
 
@@ -1853,8 +1696,6 @@ E0726
 
 39 
 
-**UCI CYCLING REGULATIONS** 
-
 1. the teams or riders and the international commissaires must be notified at least 15 days in advance by the organiser; 
 
 2. the irrecoverable costs incurred by teams or riders, commissaires, national federations and the UCI shall be compensated by the organiser. 
@@ -1899,8 +1740,6 @@ E0726
 
 40 
 
-**UCI CYCLING REGULATIONS** 
-
 At least 40 days before the event, the organiser shall send an official UCI entry form to all invited parties whose participation the organiser accepts. At the same time, the organiser shall inform invited parties whose participation they do not accept to that effect. 
 
 At least 20 days before the event, the invited party shall return to the organiser the duly completed entry form. 
@@ -1942,8 +1781,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 41 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.02; 01.01.05; 23.10.19; 01.02.26)_ 
 
@@ -1995,8 +1832,6 @@ E0726
 
 42 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.2.063** In no case can the UCI be held responsible for defects in the course or installations or for any accidents that may occur. 
 
 _(text modified on 01.01.05)_ 
@@ -2035,7 +1870,7 @@ Prior to the start of the event, the organiser must make available to starting t
 
 No practice or race sessions may take place unless proper medical services are available. 
 
-_(text modified on 01.01.98; 01.01.05 ; 01.01.25)_ 
+_(text modified on 01.01.98; 01.01.05; 01.01.25)_ 
 
 ## **§ 9 Prizes** 
 
@@ -2044,8 +1879,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 43 
-
-**UCI CYCLING REGULATIONS** 
 
 - **1.2.069** All information on prizes (number, nature, amount, conditions of awarding) shall be clearly stated in the programme or technical guide of the race. 
 
@@ -2084,8 +1917,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 44 
-
-**UCI CYCLING REGULATIONS** 
 
 In particular, where in-competition testing has been conducted, the event organiser shall seek verification with the anti-doping organisation which initiated and directed sample collection. 
 
@@ -2126,8 +1957,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 45 
-
-**UCI CYCLING REGULATIONS** 
 
 In the case of an unjustified delay in payment of the participation allowance, the team is fully entitled to interest on arrears of 15% per year without the requirement for prior notice. Furthermore, unless there has been referral to the UCI Arbitral Board in the meantime, the amounts below shall be payable as a penalty provided that the team issues formal notice to the organiser at least 10 days before the implementation of each penalty: 
 
@@ -2175,8 +2004,6 @@ E0726
 
 46 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.2.082** Riders shall act with utmost caution. They shall be held responsible for any accidents that they cause. 
 
 They shall, in the way they behave in the race, observe the legislation of the country where the race takes place. 
@@ -2216,8 +2043,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 47 
-
-**UCI CYCLING REGULATIONS** 
 
 - **1.2.088** At the meeting, the commissaires shall reiterate the applicable provisions of the regulations, especially those relating to the specific characteristics of the race. The organiser shall announce any specific legal provisions that may be applicable, e.g. in connection with doping. 
 
@@ -2262,8 +2087,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 48 
-
-**UCI CYCLING REGULATIONS** 
 
 - **1.2.096** The start shall be given by – or under the control of – a commissaire (the starter) who shall judge the validity of the start. 
 
@@ -2312,8 +2135,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 49 
-
-**UCI CYCLING REGULATIONS** 
 
 - BMX Racing races. 
 
@@ -2367,8 +2188,6 @@ E0726
 
 50 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.2.110** The finishing order, the number of points won and the number of laps ridden shall be recorded by the finish line-commissaire. If need be, the classification shall be established using the technical resources available. 
 
 _(text modified on 01.01.05)_ 
@@ -2398,8 +2217,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 51 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Section 4:  supervision of races** 
 
@@ -2431,8 +2248,6 @@ E0726
 
 52 
 
-## **UCI CYCLING REGULATIONS** 
-
 |||||||**UCI**|||||
 |---|---|---|---|---|---|---|---|---|---|---|
 ||**Olympic**|**UCI World**|**Continental**|**Regional**|**UCI**||**UCI**|||**National**|
@@ -2460,8 +2275,6 @@ E0726
 ||6<br>(4)|8<br>(4)|5<br>(4)|5<br>(4)|3/4*<br>(3)|3/4*<br>(3)|3<br>(4)|3<br>(4)|3<br>(4)|3<br>(4)|
 ||||||||||||
 
-
-
 Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2479,8 +2292,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 53 
-
-## **UCI CYCLING REGULATIONS** 
 
 |||**UCI World**||||||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -2511,8 +2322,6 @@ E0726
 ||11<br>(4)|11<br>(4)|10<br>(4)|10<br>(4)|13<br>(4)|5<br>(4)|5<br>(4)|10<br>(4)|5<br>(4)|
 |||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2528,8 +2337,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 54 
-
-## **UCI CYCLING REGULATIONS** 
 
 |||||||||||**UCI World**|||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -2562,8 +2369,6 @@ E0726
 ||2<br>(3)|6<br>(4)|6<br>(4)|1<br>(4)|0|2-4<br>(4)|0|4-6<br>(4)|0|2-4<br>(4)|0|2<br>(4)|1<br>(4)|0|6<br>(4)|2<br>(4)|
 ||||||||||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2583,8 +2388,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 55 
-
-## **UCI CYCLING REGULATIONS** 
 
 ||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -2607,8 +2410,6 @@ E0726
 |||||3|3||3|3|3|3|
 ||||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2620,8 +2421,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 56 
-
-## **UCI CYCLING REGULATIONS** 
 
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
@@ -2647,8 +2446,6 @@ E0726
 |||||||||<br>theparticipation|
 ||||||||||
 
-
-
 Legend: 
 
 Minimum appointed by the UCI Minimum appointed by the National Federation 
@@ -2662,8 +2459,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 57 
-
-## **UCI CYCLING REGULATIONS** 
 
 |||||||||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -2691,8 +2486,6 @@ E0726
 ||3<br>(3)|8<br>(3)|4<br>(3)|4<br>(3)|3<br>(3)|4<br>(3)|4<br>(3)|4<br>(3)|0|
 |||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2706,8 +2499,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 58 
-
-## **UCI CYCLING REGULATIONS** 
 
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
@@ -2734,8 +2525,6 @@ E0726
 ||4<br>(3)|4<br>(3)|2<br>(3)|3<br>(3)|3<br>(3)|2<br>(3)|3<br>(3)|3<br>(3)|
 ||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2751,8 +2540,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 59 
-
-## **UCI CYCLING REGULATIONS** 
 
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
@@ -2774,8 +2561,6 @@ E0726
 ||5|5|5|5|5|5|10<br>(1)|5|
 ||||||||||
 
-
-
 Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2787,8 +2572,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 60 
-
-**UCI CYCLING REGULATIONS** 
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -2810,8 +2593,6 @@ E0726
 |Minimum Additional|Gravel|6<br>(3)|3<br>(3)|3<br>(3)|0|3<br>(3)|3|
 |Commissaires|Gran Fondo|6<br>(3)|3<br>(3)|3<br>(3)|3<br>(3)|0|3|
 
-
-
 ## Legend: 
 
 ## Appointed by the UCI Appointed by the National Federation 
@@ -2828,8 +2609,6 @@ E0726
 
 61 
 
-**UCI CYCLING REGULATIONS** 
-
 |||||||
 |---|---|---|---|---|---|
 ||**UCI World**||**National**|**Continental**||
@@ -2841,8 +2620,6 @@ E0726
 |||1|1|||
 |||||||
 
-
-
 Legend: 
 
 ## Appointed by the UCI Appointed by the National Federation 
@@ -2852,8 +2629,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 62 
-
-## **UCI CYCLING REGULATIONS** 
 
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
@@ -2878,8 +2653,6 @@ E0726
 ||10|7|5|5|7|3|3|3|
 ||||||||||
 
-
-
 ## Legend: 
 
 Appointed by the UCI Appointed by the National Federation Appointed by the Continental Confederation 
@@ -2888,15 +2661,13 @@ Appointed by the UCI Appointed by the National Federation Appointed by the Conti
 
 ## (2) UCI international commissaire only 
 
-_(text modified on 15.07.08; 01.02.10; 01.07.12; 15.03.16; 01.03.18; 05.02.19; 23.10.19; 11.02.20 ; 10.06.21; 01.10.21; 20.02.23; 01.02.25; 01.01.26)_ 
+_(text modified on 15.07.08; 01.02.10; 01.07.12; 15.03.16; 01.03.18; 05.02.19; 23.10.19; 11.02.20; 10.06.21; 01.10.21; 20.02.23; 01.02.25; 01.01.26)_ 
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
 E0726 
 
 63 
-
-**UCI CYCLING REGULATIONS** 
 
 - **1.2.117** (N) The commissaires' panel shall be assisted by timekeeper-commissaire- and a commissaire secretary, appointed and licensed by the national federation of the organiser. 
 
@@ -2954,8 +2725,6 @@ E0726
 
 64 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.04; 01.01.05; 01.02.26)_ 
 
 ## **Expenses** 
@@ -3000,8 +2769,6 @@ E0726
 
 65 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.2.131** Licence holders who do not follow the instructions of commissaires shall be penalised by a suspension of between one day and six months and/or by a fine of CHF 100 to 10,000. 
 
 - **1.2.132** Without prejudice to article 12.4.001 on disciplinary matters, no appeal shall be admitted against observations of fact, assessments of the situation in races and application of the competition regulations by the commissaires' panel or, where appropriate, an individual commissaire, or against any other decision taken by them. 
@@ -3019,8 +2786,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 66 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III EQUIPMENT** 
 
@@ -3058,8 +2823,6 @@ E0726
 
 67 
 
-**UCI CYCLING REGULATIONS** 
-
 material may be carried out, before, during or after the race, at the request of the president of the commissaires’ panel, or that of an agent or body of the UCI. 
 
 For that purpose, the commissaire or an agent or body of the UCI can seize equipment for a subsequent check, if necessary before, during or after the race, irrespective of whether the equipment was used during the competition. 
@@ -3096,8 +2859,6 @@ E0726
 
 68 
 
-**UCI CYCLING REGULATIONS** 
-
 There is no technical innovation in the sense of the present article if the innovation entirely falls within the specifications foreseen in the regulations. 
 
 _(text modified on 01.01.02; 01.01.04; 01.01.05; 01.02.11, 10.06.21)_ 
@@ -3133,8 +2894,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 69 
-
-**UCI CYCLING REGULATIONS** 
 
 within a further 90-day deadline. In addition, the retail price of the equipment shall be publicly advertised, shall not render the equipment _de facto_ unavailable to the general public and shall not unreasonably exceed the market value for equipment of a similar standard. 
 
@@ -3173,8 +2932,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 70 
-
-**UCI CYCLING REGULATIONS** 
 
 The UCI may grant derogations to any envisaged use of onboard technology which is not authorised by the present article. Derogation requests shall be assessed, inter alia, in consideration of criteria of equal access to equipment, sporting fairness and integrity, and shall also comply with articles 1.3.001 to 1.3.006. Derogations may be limited to specific events and riders or teams. 
 
@@ -3220,8 +2977,6 @@ E0726
 
 71 
 
-**UCI CYCLING REGULATIONS** 
-
 In Para Cycling, mechanical prostheses/orthopaedic braces for upper or lower limbs can only be used by athletes who have been evaluated in accordance with the UCI classification procedure and who have Review (R) or Confirmed (C) status. 
 
 In no case may a mechanical prosthesis/orthopaedic brace for the lower limbs be used outside paracycling events. 
@@ -3264,17 +3019,13 @@ E0726
 
 72 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.05; 25.06.07; 01.01.17; 01.07.26)_ 
 
 - **1.3.011 a) Measurements** 
 
    - (see diagram «Measurements (1)») 
 
-
 ![](images/1-GEN-20260701-E.pdf-0073-04.png)
-
 
 - **1.3.012** A bicycle shall not measure more than 185 cm in length and 50 cm in width overall. 
 
@@ -3288,11 +3039,7 @@ E0726
 
 73 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/1-GEN-20260701-E.pdf-0074-01.png)
-
 
 _(text modified on 01.10.10; 01.02.12; 01.10.12; 23.10.19; 01.01.23; 01.01.25)_ 
 
@@ -3320,8 +3067,6 @@ E0726
 
 74 
 
-**UCI CYCLING REGULATIONS** 
-
 - **1.3.018** Wheels of the bicycle may vary in diameter between 700 mm maximum and 550 mm minimum, including the tyre. For the cyclo-cross the width of the tyre (measured between the widest parts) shall not exceed 33 mm and it may not incorporate any form of spikes or studs. 
 
 In the disciplines road, track and cyclo-cross, only wheel designs granted prior approval by the UCI may be used. 
@@ -3330,9 +3075,7 @@ Wheels approved in mass start competitions in the disciplines of road and cyclo-
 
 - the maximum height of the rim does not measure more than 65 mm (measured as the perpendicular distance from the tangential line passing through any point of the outer extremity of the rim to the inner extremity of the rim), see illustration below; 
 
-
 ![](images/1-GEN-20260701-E.pdf-0075-05.png)
-
 
 - have at least 12 spokes, which can be round, flattened or oval, provided that no dimension of their sections exceeds 10 mm. 
 
@@ -3343,8 +3086,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 75 
-
-**UCI CYCLING REGULATIONS** 
 
 In order to comply with the requirements and ensure compatibility between the components, rims must comply with the standard ISO 5775-2 and tyres with the standard ISO 5775-1. 
 
@@ -3382,8 +3123,6 @@ E0726
 
 76 
 
-**UCI CYCLING REGULATIONS** 
-
 Isosceles compensation triangles with two 8 cm sides are authorized at the joints between frame elements except at the joints between the chain stays and seat stays where triangles are not authorised (See diagram «Shape (3)»). 
 
 _(text modified on 07.06.00; 01.01.05; 01.02.12; 01.01.16; 01.01.21)_ 
@@ -3394,25 +3133,15 @@ E0726
 
 77 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Position of boxes and laid out Shape (1)** 
-
 
 ![](images/1-GEN-20260701-E.pdf-0078-02.png)
 
-
-
 ![](images/1-GEN-20260701-E.pdf-0078-03.png)
-
-
 
 ![](images/1-GEN-20260701-E.pdf-0078-04.png)
 
-
-
 ![](images/1-GEN-20260701-E.pdf-0078-05.png)
-
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
@@ -3420,25 +3149,15 @@ E0726
 
 78 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Position of the seat post box Shape (2)** 
-
 
 ![](images/1-GEN-20260701-E.pdf-0079-02.png)
 
-
-
 ![](images/1-GEN-20260701-E.pdf-0079-03.png)
-
-
 
 ![](images/1-GEN-20260701-E.pdf-0079-04.png)
 
-
-
 ![](images/1-GEN-20260701-E.pdf-0079-05.png)
-
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
@@ -3446,13 +3165,9 @@ E0726
 
 79 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Position of compensation triangles Shape (3)** 
 
-
 ![](images/1-GEN-20260701-E.pdf-0080-02.png)
-
 
 ## **1.3.021** [article abrogated on 01.01.21] 
 
@@ -3464,9 +3179,7 @@ In addition, all handlebars must conform to the following:
 
 - The maximum dimension of the cross section of the handlebars is 80 mm for track, and 65 / 80 mm for road and cyclo-cross  (see diagram «structure 1.0 Track» and «structure 1.0 Road, Cyclo-cross») 
 
-
 ![](images/1-GEN-20260701-E.pdf-0080-08.png)
-
 
 **Structure (1.0) Track** 
 
@@ -3476,11 +3189,7 @@ E0726
 
 80 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/1-GEN-20260701-E.pdf-0081-01.png)
-
 
 **Structure (1.0) Road, Cyclo-cross** 
 
@@ -3500,19 +3209,13 @@ E0726
 
 81 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/1-GEN-20260701-E.pdf-0082-01.png)
-
 
 **Structure (1)** 
 
 The brake controls attached to the handlebars shall consist of two supports with levers. It must be possible to operate the brakes by pulling on the levers with the hands on the lever supports in a safe manner. The maximum inclination of brake levers shall be 10° and the minimum measurement between the inside of the extremities of the brake levers shall be 280 mm. Any extension to or reconfiguration of the supports to enable an alternative use is prohibited. A combined system of brake and gear controls is authorised. 
 
-
 ![](images/1-GEN-20260701-E.pdf-0082-04.png)
-
 
 _(text modified on 01.01.05; 01.02.12; 01.11.14; 01.01.23; 01.04.24; 01.01.26)_ 
 
@@ -3521,8 +3224,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 82 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Fixed time trial extension handlebar** 
 
@@ -3538,9 +3239,7 @@ Traditional handlebars or base bar steering systems must be positioned in the ar
 
 A fixed time trial extension handlebar must be positioned in compliance with one of the four categories presented below and the measurements shown in diagram “Structure (1B)”: 
 
-
 ![](images/1-GEN-20260701-E.pdf-0083-08.png)
-
 
 **Structure (1B)** 
 
@@ -3553,8 +3252,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 83 
-
-**UCI CYCLING REGULATIONS** 
 
 Measurement S corresponds to the horizontal distance between the tip of the saddle and the vertical plane passing through the center of the bottom bracket axle. 
 
@@ -3618,8 +3315,6 @@ E0726
 
 84 
 
-**UCI CYCLING REGULATIONS** 
-
 - H may not exceed the vertical height difference (H) set for the rider’s height category as provided above 
 
 - S shall comply with article 1.3.013. 
@@ -3662,9 +3357,7 @@ _(text modified on 07.06.00; 01.01.05; 01.04.07; 01.01.09; 01.02.12; 01.10.12; 2
 
 - **1.3.024** Any device, added or blended into the structure, that is destined to decrease, or which has the effect of decreasing, resistance to air penetration or artificially to accelerate propulsion, such as a protective screen, fuselage form fairing or the like, shall be prohibited. 
 
-
 ![](images/1-GEN-20260701-E.pdf-0085-20.png)
-
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
@@ -3672,19 +3365,13 @@ E0726
 
 85 
 
-**UCI CYCLING REGULATIONS** 
-
 A protective screen shall be defined as a fixed component that serves as a windscreen or windbreak designed to protect another fixed element of the bicycle in order to reduce its wind resistance. 
-
 
 ![](images/1-GEN-20260701-E.pdf-0086-02.png)
 
-
 A fuselage form shall be defined as an extension or streamlining of a section. This shall be tolerated as long as the ratio between the length L and the diameter D does not exceed established dimensional requirements as defined in articles 1.3.020 (framesets), 1.3.022 and 1.3.023 (handlebars, base bars and fixed time trial extension). 
 
-
 ![](images/1-GEN-20260701-E.pdf-0086-04.png)
-
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
@@ -3692,11 +3379,7 @@ E0726
 
 86 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/1-GEN-20260701-E.pdf-0087-01.png)
-
 
 A fairing shall be defined as the use or adaptation of a component of the bicycle in such a fashion that it encloses a moving part of the bicycle such as the wheels or the chainset. Therefore, it should be possible to pass a rigid card (like a credit card) between the fixed structure and the moving part. 
 
@@ -3723,8 +3406,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 87 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.09.04; 01.01.05; 01.01.09, 01.07.09; 01.07.10; 27.03.17; 01.07.18; 01.02.26)_ 
 
@@ -3774,8 +3455,6 @@ E0726
 
 88 
 
-**UCI CYCLING REGULATIONS** 
-
 - using only accessories approved by the helmet manufacturer. 
 
 4. The tables below set out requirements related to helmets in the disciplines of road, track and cyclo-cross. 
@@ -3789,8 +3468,6 @@ The table below provides for two categories of helmets: Traditional Helmets and 
 |**Ear coverage**|The helmet shell and any<br>accessories must not<br>extend to cover, obstruct,<br>or enclose the rider’s ears<br>(looking from the lateral<br>view)|No restriction|
 |**Visor**<br>A “visor” refers to any<br>fixed or attached shield<br>that cannot be worn<br>independently of the<br>helmet.|Integrated or detachable<br>visors are not permitted.<br>Helmets must be used<br>without any visor<br>attachments or shield-like<br>accessories|Integrated or detachable<br>visors are permitted|
 
-
-
 The table below sets out the disciplines in which Traditional Helmets and Time Trial Helmets are permitted. 
 
 |**Road**|**Traditional Helmet**|**Time Trial Helmet**|
@@ -3802,8 +3479,6 @@ The table below sets out the disciplines in which Traditional Helmets and Time T
 |**Cyclo-cross**|**Traditional Helmet**|**Time Trial Helmet**|
 |All events|Permitted|Not permitted|
 
-
-
 The diagram below illustrates the measurement of dimensions for Traditional Helmets and Time Trial Helmets: 
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
@@ -3812,11 +3487,7 @@ E0726
 
 89 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/1-GEN-20260701-E.pdf-0090-01.png)
-
 
 _(text modified on 05.05.03; 01.01.04; 01.08.04; 01.01.05; 01.02.07; 01.07.11; 01.01.15; 01.01.17; 27.03.17; 01.01.23; 01.01.26)_ 
 
@@ -3828,9 +3499,7 @@ _(text modified on 01.02.25)_
 
 - **1.3.033** Modifications to the surface roughness of clothing are authorised but may only be the result of threading, weaving or assembling of the fabric. Surface roughness modifications shall be limited to a profile difference of 1mm at most. 
 
-
 ![](images/1-GEN-20260701-E.pdf-0090-07.png)
-
 
 The measure of surface roughness modification shall be made without pressure or traction on the clothing. 
 
@@ -3842,15 +3511,11 @@ E0726
 
 90 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.02; 01.01.04; 01.04.07; 01.10.10; 01.02.12; 04.03.19; 01.02.25)_ 
 
 - **1.3.033** Socks and overshoes used in competition may not rise above the height defined **bis** by half the distance between the middle of the lateral malleolus and the middle of the fibula head. 
 
-
 ![](images/1-GEN-20260701-E.pdf-0091-03.png)
-
 
 _(article introduced on 15.10.18)_ 
 
@@ -3875,8 +3540,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 91 
-
-**UCI CYCLING REGULATIONS** 
 
 Each Road team may use an alternative design of clothing at a maximum of three full events each year. Such alternative clothing must be submitted for approval to the UCI, at least 60 days before the start date of the event at which it shall be worn. The UCI will provide the team with an answer no later than 30 days prior to the start date of the event in question. 
 
@@ -3919,8 +3582,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 92 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 3 Regional and club teams** 
 
@@ -3965,8 +3626,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 93 
-
-**UCI CYCLING REGULATIONS** 
 
 classification, king of mountain classification and youth classification in Grand Tours and events of the UCI Women’s WorldTour identified by the UCI. The obligation incumbent on teams shall be subject to organisers publishing information regarding their leaders’ jerseys at least six months prior to the relevant event. 
 
@@ -4016,8 +3675,6 @@ E0726
 
 94 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 5 National team clothing** 
 
 - **1.3.056** National federations shall submit to the commissaires’ panel of events as specified in art. 1.3.059, a sample of their national team clothing for validation. The design, color, place and size of the advertising spaces of the validated equipment must be identical for all athletes participating to the applicable events. 
@@ -4062,8 +3719,6 @@ E0726
 
 95 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.10.10)_ 
 
 - **1.3.061** The design, including colours and layout, of each world champion's jersey according to category and/or discipline, as well as the distinctive logo of the UCI Team Time Trial World Champions, are the exclusive property of the UCI. The jersey, and the distinctive logo for the UCI Team Time Trial World Champions, may not be reproduced without UCI authorisation. The design may in no way be modified. 
@@ -4097,8 +3752,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 96 
-
-**UCI CYCLING REGULATIONS** 
 
 The current individual time trial world champion is authorised to use rainbow stripes on their time trial bicycle for individual time trial and team time trial events. 
 
@@ -4140,8 +3793,6 @@ E0726
 
 97 
 
-**UCI CYCLING REGULATIONS** 
-
 and in no other event; nevertheless, former individual time trial national champions are authorised to use piping in national colour on their time trial skinsuit for individual time trial and team time trial events. 
 
 The national champion jersey must be worn whenever a rider is engaged in activities on the track, awards ceremonies, press conferences, television interviews, autograph sessions and other occasions which require a good presentation. 
@@ -4173,8 +3824,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 98 
-
-**UCI CYCLING REGULATIONS** 
 
 champions are authorised to use piping in continental colours on their time trial skinsuit for individual time trial and team time trial events. 
 
@@ -4235,8 +3884,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 99 
-
-**UCI CYCLING REGULATIONS** 
 
 3. Leader's jersey 
 
@@ -4308,8 +3955,6 @@ E0726
 
 100 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Section 4: identification of riders** 
 
 ## **Identification number** 
@@ -4323,13 +3968,11 @@ E0726
 |Stage races|2|1|||
 |Time trials|1||||
 |Cyclo-cross|1||2||
-|Track : timed events|1||||
-|Track : other events|2||||
+|Track: timed events|1||||
+|Track: other events|2||||
 |BMXRacing||2 (lateral)**||1|
 |Mountain bike (all events)|1|||1|
 |Trials|1|||1|
-
-
 
 * The shoulder numbers shall be worn on the upper forearm so it’s visible frontally. 
 
@@ -4351,20 +3994,14 @@ _(text modified on 01.01.01; 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.02.11; 0
 |1,5 cm|0,8 cm|0,8 cm|1.5 cm MTB<br>1.5 cm BMX<br>Racing<br>1.5 cm Trials|
 |height 6 cm on<br>the lower part|rectangle of 11x2<br>cm on the lower<br>or upper part|height 1.5 cm<br>on the lower<br>and upper part|- MTB height 2.5<br>cm on the upper<br>and lower part|
 
-
-
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
 E0726 
 
 101 
 
-**UCI CYCLING REGULATIONS** 
-
 ||MTB height 2.5<br>cm on the upper<br>and lower part|||- BMXRacing6<br>cm on the upper<br>part<br>- Trials 2.5 cm on<br>the lower part|
 |---|---|---|---|---|
-
-
 
 _(text modified on 01.01.01; 01.01.04; 01.10.09; 01.01.11; 13.03.15; 01.07.17; 01.01.19; 01.02.26)_ 
 
@@ -4390,8 +4027,6 @@ E0726
 
 102 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Annexe A UCI LIST OF AUTHORISED BETS** - Annexe to Article 1.1.090 of the UCI Regulations - Last update: 10 September 2024 
 
 After carrying out an assessment of the risks associated with sports betting in cycling, the UCI Management Committee has defined a list of authorised bets (events and types of bets) for any betting company wishing to act as a sponsor of an organiser, team or licence-holder. **Sponsorship is authorised subject to bets being organised exclusively on the events listed in the first table and the types of bets being in compliance with those listed in the second table below.** 
@@ -4403,8 +4038,6 @@ After carrying out an assessment of the risks associated with sports betting in 
 |**MOUNTAIN BIKE**|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|
 |**BMX RACING**|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|
 |**CYCLO-CROSS**|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|
-
-
 
 - 1-2 Events in the disciplines and classes concerned may be authorised by the UCI, subject to an assessment of the following criteria: 
 
@@ -4423,8 +4056,6 @@ GENERAL ORGANISATION OF CYCLING AS A SPORT
 E0726 
 
 103 
-
-**UCI CYCLING REGULATIONS** 
 
 For the 2024-2025 Cyclo-cross season, the following authorisations have been granted for C2 men and women elite events: 
 
@@ -4482,8 +4113,6 @@ E0726
 
 104 
 
-**UCI CYCLING REGULATIONS** 
-
 |**Discipline**||**Bet Types**|
 |---|---|---|
 |**ROAD**||**One-day races:**<br>Event top 10 (including winner, podium and any other combination related to the top 10 results)<br>**Stage races:**<br>Final general classification top 10 (including winner, podium and any other combination related to the top 10 results)<br>Stage podium (including winner and any other combination related to the top 3 results)<br>Final official secondary classification podium (including winner and any other combination related to the top 3 results)<br>Team of final general classification and/or secondary classification winner<br>Leader of general classification or any secondary classification<br>Stage winner’s team<br>Intermediate sprint winner<br>**Team time trial events:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>**World Championships and Olympic Games:**<br>Event top 10 (including winner, podium and any other combination related to the top 10 results)<br>Number of medals per nation|
@@ -4492,13 +4121,10 @@ E0726
 |**BMXRACING**||Event podium (including winner and any other combination related to the top 3 results)<br>Qualification for phase of final tournament (quarter-final, semi-final etc.)<br>**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
 |**CYCLO-CROSS**||Event top 5 (including winner, podium and any other combination related to the top 5 results)<br>**World Championships:**<br>Event top 5 (including winner, podium and any other combination related to the top 5 results)<br>Number of medals per nation|
 
-
-
 The present document shall be reviewed and confirmed on a yearly basis. Any request for inclusion of an event or type of bet for the following calendar year shall be submitted to the UCI by no later than 30 June. 
 
 GENERAL ORGANISATION OF CYCLING AS A SPORT 
 
 E0726 
 
-105 
-
+105

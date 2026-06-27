@@ -4,29 +4,13 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3SMPW9kcLaPNZKFtOAGpNS/db4
 source_sha256: 74bfebf8b88348f31cb0ee69f8c5ae1600f183c3e28c5e46d9c7f8d79afd5e55
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 9 WORLD CHAMPIONSHIPS Version on 01.01.2026** 
-
-## **TABLE OF CONTENTS** 
-
-|Page|
-|---|
-|**Chapter I** **ORGANISATION OF WORLD CHAMPIONSHIPS ..................................... 2**|
-|**Chapter II** **PARTICIPATION IN WORLD CHAMPIONSHIPS ...................................... 8**|
-|§ 1<br>General comments ............................................................................................... 8|
-|§ 2<br>Selection of participants by specialty .................................................................... 9|
-
-
 
 WORLD CHAMPIONSHIPS 
 
 E0126 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 9 WORLD CHAMPIONSHIPS** 
 
@@ -74,8 +58,6 @@ E0126
 
 2 
 
-**UCI CYCLING REGULATIONS** 
-
 Failing a consensus, a vote will be held. A secret ballot will be held upon request of any member. 
 
 In the event of a consensus to reject a candidate, such candidate shall not take part in the vote. 
@@ -120,8 +102,6 @@ E0126
 
 3 
 
-**UCI CYCLING REGULATIONS** 
-
 - **9.1.015** In the case of a brief postponement, riders, commissaires and all other persons involved in the event, shall remain at the venue, unless otherwise decided by the Management Committee. 
 
 ## **Protection** 
@@ -157,8 +137,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 4 
-
-**UCI CYCLING REGULATIONS** 
 
 - **9.1.024** The organiser shall, moreover, make available to the above-mentioned persons adequate facilities for the holding of any other meetings that they might wish to hold to ensure the smooth running of the Championships. 
 
@@ -212,8 +190,6 @@ E0126
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 and teams shall be ready for the official ceremony that shall be conducted under the responsibility of the President of the Commissaires’ Panel. 
 
 _(text modified on 01.07.12; 01.01.19)_ 
@@ -260,8 +236,6 @@ E0126
 
 6 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **World Championships** 
 
 - **9.1.051** Any infringement of the provisions of articles 9.1.044 to 9.1.050 above shall be punished by a fine of CHF 2,000 to CHF 10,000 minimum. A higher fine may be imposed depending on the advantage derived from the offence. 
@@ -289,8 +263,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 7 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II PARTICIPATION IN WORLD CHAMPIONSHIPS** 
 
@@ -344,8 +316,6 @@ E0126
 
 8 
 
-**UCI CYCLING REGULATIONS** 
-
 - **9.2.007** Federations shall announce the names of the riders who are to take the start to the Commissaires Panel by noon at the latest on the eve of the first race of the competition. For each road and mountain bike event, the Federations may communicate amendments up to noon on the eve of each race, at the latest; 
 
 For Track events, any no-attendance or announcement made to the Commissaires Panel out of the time limit shall be liable to a fine of CHF 300. 
@@ -379,8 +349,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 9 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Individual Road Races** 
 
@@ -438,8 +406,6 @@ E0126
 
 10 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Women Junior** 
 
 - **9.2.016** The Management Committee shall decide the qualification system each year. 
@@ -479,15 +445,11 @@ points scored by all riders of each nation in the team time trial mixed relay, i
 |||Women Elite<br>Men Elite|Women Under 23<br>Men Under 23|Women Junior<br>Men Junior|Elite<br>Under 23|
 |---|---|---|---|---|---|
 
-
-
 WORLD CHAMPIONSHIPS 
 
 E0126 
 
 11 
-
-**UCI CYCLING REGULATIONS** 
 
 |Place|Road<br>Race|Time<br>Trial|Road<br>Race|Time<br>Trial|Road<br>Race|Time<br>Trial|Team Time<br>Trial<br>Mixed Relay|
 |---|---|---|---|---|---|---|---|
@@ -502,8 +464,6 @@ E0126
 |**9**|40|40|20|20|10|10|40|
 |**10**|30|30|10|10|5|5|30|
 |**11 to 25**|5|5|3|3|1|1|5|
-
-
 
 _(article introduced on 01.07.15; text modified on 01.03.16; 13.10.16; 01.01.19._ 
 
@@ -535,8 +495,6 @@ E0126
 
 12 
 
-**UCI CYCLING REGULATIONS** 
-
 _(article introduced on 01.07.12; text modified on 01.08.13; 01.03.16; 01.01.19; 01.01.21)_ 
 
 ## **Track** 
@@ -561,8 +519,6 @@ _(text modified on 01.01.02; 01.01.03; 19.09.06; 26.06.07; 13.06.08; 25.02.13; 1
 |Elimination|242)|
 |Madison|181)|
 
-
-
 1) Allocated through the UCI Track Ranking by Nation. In the event of additional champions as referred to in articles 9.2.009 and 9.2.027, the number of nations/riders qualified through a UCI Track Ranking shall be reduced in order not to exceed the applicable maximum number. 
 
 WORLD CHAMPIONSHIPS 
@@ -570,8 +526,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 13 
-
-**UCI CYCLING REGULATIONS** 
 
 > **2)** First 2/3 quota are allocated through the UCI Track Ranking by Nation - Endurance. Last 1/3 quota is allocated through the UCI Track Individual Ranking - Endurance to nations which have not qualified any quota places through the UCI Track Ranking by Nation. In the event of additional champions as referred to in articles 9.2.009 and 9.2.027, the number of nations/riders qualified through a UCI Track Ranking shall be reduced in order not to exceed the applicable maximum number. 
 
@@ -604,8 +558,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 14 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **9.2.026** [article abrogated on 12.06.20] 
 
@@ -649,8 +601,6 @@ E0126
 
 15 
 
-**UCI CYCLING REGULATIONS** 
-
 - **9.2.029** [article abrogated on 05.03.18] 
 
 ## **Mountain bike** 
@@ -693,8 +643,6 @@ E0126
 
 16 
 
-**UCI CYCLING REGULATIONS** 
-
 - Women Elite by Women under 23 or by Women Junior; 
 
 - Men under 23 by Women Elite or Women under 23 or Men Junior or Women Junior; 
@@ -723,8 +671,6 @@ _(article introduced on 01.01.04; text modified on 01.01.06; 25.09.08; 01.01.18)
 |31 or after|4|
 |Unranked nations|3|
 
-
-
 For the Women Under 23 and Women Junior XCO events, the Women Elite and Women Junior DHI events, the maximum number is 7 riders per nation. 
 
 Each federation shall be permitted to enter 2 reserves in each category. 
@@ -738,15 +684,11 @@ For cross-country short track (XCC), each rider selected must already be registe
 |16 to end|1|
 |Unranked nations|1|
 
-
-
 WORLD CHAMPIONSHIPS 
 
 E0126 
 
 17 
-
-**UCI CYCLING REGULATIONS** 
 
 For cross-country eliminator (XCE), each national federation can enter unlimited number of riders per category. 
 
@@ -785,8 +727,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 18 
-
-**UCI CYCLING REGULATIONS** 
 
 _(article introduced on 01.01.04; text modified on 25.09.08)_ 
 
@@ -832,7 +772,7 @@ For the qualifying round and the final:
 
 For the qualifying round and the final: 
 
-1. unclassified riders : by nations in rotation (*); 
+1. unclassified riders: by nations in rotation (*); 
 
 2. as per the last published UCI DHI individual ranking. The best rider starting last. 
 
@@ -857,8 +797,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 19 
-
-**UCI CYCLING REGULATIONS** 
 
 ## Enduro/E-Enduro Men Elite, Enduro/E-Enduro Women Elite, Enduro Men Junior, Enduro Women Junior 
 
@@ -920,8 +858,6 @@ E0126
 
 20 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.09.04; 25.09.08; 01.07.09; 14.10.16; 01.03.19)_ 
 
 - **9.2.045** [article abrogated on 26.06.18] 
@@ -972,8 +908,6 @@ E0126
 
 21 
 
-**UCI CYCLING REGULATIONS** 
-
 points is based on twice the total number of nations starting in the cyclo-cross team relay. If 15 nations start, the winning nation will score 30 points while the 15th placed nation would score 2 points. 
 
 _(article introduced on 1.07.22)_ 
@@ -983,8 +917,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 22 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **BMX Racing** 
 
@@ -1004,9 +936,9 @@ _(text modified on 01.02.12; 01.07.12; 01.01.17; 01.01.23)_
 
    - Women Elite (aged 19 and over); 
 
-   - Men Under 23 (19-22) ; 
+   - Men Under 23 (19-22); 
 
-   - Women Under 23 (19-22) ; 
+   - Women Under 23 (19-22); 
 
    - Men Junior (aged 17 and 18); 
 
@@ -1054,8 +986,6 @@ E0126
 
 23 
 
-**UCI CYCLING REGULATIONS** 
-
 Each federation shall be permitted to enter 2 reserves in each category. The UCI Ranking by nations is drawn up in accordance with Part VI “BMX RACING”, chapter 6. In addition to the nations qualified through the UCI BMX Racing nations ranking, the following riders will also be qualified for the Elite world championships: 
 
 - Top 8 Men Elite in the UCI BMX Racing individual ranking of 31 December of the preceding season; 
@@ -1076,8 +1006,6 @@ These riders are automatically qualified for the UCI world championships and can
 ||||||||||||||
 |Host nation**|2||2||2||2||2||2||
 |All other nations***|1||1||1||1||1||1||
-
-
 
 * The automatically qualified riders mentioned above are entered in addition to the quota allowed in this table. 
 
@@ -1103,8 +1031,6 @@ E0126
 
 24 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Registration of support staff** 
 
 - **9.2.049** Each federation must appoint one (1) team manager for Championships level categories. 
@@ -1122,8 +1048,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 25 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Trials** 
 
@@ -1183,8 +1107,6 @@ E0126
 
 26 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Age class** 
 
 - **9.2.058** Categories depend on age as stated in article 7.1.002. 
@@ -1221,8 +1143,6 @@ E0126
 
 27 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Number of sections and rounds** 
 
 ## **9.2.060** The number of sections and laps are as indicated below: 
@@ -1231,8 +1151,6 @@ E0126
 |---|---|---|
 |½ Finals rounds|5|3|
 |Final rounds|5|1|
-
-
 
 _(text modified on 01.02.11; 13.03.15; 30.01.17)_ 
 
@@ -1261,8 +1179,6 @@ WORLD CHAMPIONSHIPS
 E0126 
 
 28 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Para Cycling (participation)** 
 
@@ -1308,8 +1224,6 @@ E0126
 
 29 
 
-**UCI CYCLING REGULATIONS** 
-
 - **9.2.066** The host nation for the UCI Para Cycling world championships will be entitled to register a full contingent of athletes (maximum quota) in all sport classes, on the track and on the road, for both men and women. 
 
 _(article introduced on 01.10.13)_ 
@@ -1354,8 +1268,6 @@ E0126
 
 30 
 
-**UCI CYCLING REGULATIONS** 
-
 ‐ has the right to enter an athlete in that Sport Class in the upcoming UCI Para cycling Road World Championships. 
 
 _(article introduced on 01.10.13; text modified on 01.01.16; 01.07.20; 08.02.21; 01.01.26)_ 
@@ -1378,13 +1290,10 @@ E0126
 
 31 
 
-**UCI CYCLING REGULATIONS** 
-
 **Chapter III** [chapter abrogated on 25.01.08] 
 
 WORLD CHAMPIONSHIPS 
 
 E0126 
 
-32 
-
+32

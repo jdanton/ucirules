@@ -4,12 +4,11 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3pavbOFmuTjhAqthYpIn6n/487
 source_sha256: c772a8c4c83702a69c0a8bf5bcd16d68e6966af93c161043a19db34dbd2ad872
 converter: pymupdf4llm
 ---
-
 ## **UCI ANTI-DOPING TRIBUNAL PROCEDURAL RULES** 
 
 ## **PREAMBLE** 
 
-In accordance with Article 8.3.1 para. 2 of the UCI Anti-Doping Rules, the UCI Management Committee has adopted the following Anti-Doping Tribunal Procedural Rule _s_ : 
+In accordance with Article 8.3.1 para. 2 of the UCI Anti-Doping Rules, the UCI Management Committee has adopted the following Anti-Doping Tribunal Procedural Rule _s_: 
 
 ## **TITLE I – INTRODUCTORY PROVISIONS** 
 
@@ -87,8 +86,6 @@ E0221
 
 PROCEDURAL RULES 
 
-Page 2 of 15 
-
 **UCI ANTI-DOPING TRIBUNAL** 
 
 ## **Article 6 Secretariat** 
@@ -124,8 +121,6 @@ _(text modified on 04.02.21)_
 E0221 
 
 PROCEDURAL RULES 
-
-Page 3 of 15 
 
 **UCI ANTI-DOPING TRIBUNAL** 
 
@@ -166,8 +161,6 @@ _(text modified on 04.02.21)_
 E0221 
 
 PROCEDURAL RULES 
-
-Page 4 of 15 
 
 **UCI ANTI-DOPING TRIBUNAL** 
 
@@ -213,8 +206,6 @@ E0221
 
 PROCEDURAL RULES 
 
-Page 5 of 15 
-
 **UCI ANTI-DOPING TRIBUNAL** 
 
 6. Once the case has been referred to the Tribunal, the proceedings are conducted by the Single Judge who has been assigned the case. 
@@ -250,8 +241,6 @@ _(text modified on 15.10.18; 04.02.21)_
 E0221 
 
 PROCEDURAL RULES 
-
-Page 6 of 15 
 
 **UCI ANTI-DOPING TRIBUNAL** 
 
@@ -297,8 +286,6 @@ E0221
 
 PROCEDURAL RULES 
 
-Page 7 of 15 
-
 **UCI ANTI-DOPING TRIBUNAL** 
 
 6. Production of documents can be ordered by the Single Judge either on his own initiative or upon a request by a party, provided that such party: 
@@ -333,8 +320,6 @@ E0221
 
 PROCEDURAL RULES 
 
-Page 8 of 15 
-
 **UCI ANTI-DOPING TRIBUNAL** 
 
 3. In case of WADA’s intervention, the Single Judge will issue procedural directions to ensure that WADA will have full party status and that the original Parties are provided with an opportunity to address WADA’s position. 
@@ -351,7 +336,7 @@ _(article introduced on 04.02.21)_
 
 4. A Party may request a hearing _in persona_ if it advances the costs associated with such hearing. 
 
-5. If the hearing is held _in persona_ , the Single Judge shall decide the place of the hearing after consultation with the Parties. 
+5. If the hearing is held _in persona_, the Single Judge shall decide the place of the hearing after consultation with the Parties. 
 
 6. Hearings shall be held _in camera_ i.e. may be attended only by the Parties, as well as their representative(s), unless ordered otherwise by the Single Judge. WADA can attend as an observer and shall not be allowed to make any submission unless the Single Judge orders otherwise, in particular in case of intervention. 
 
@@ -372,8 +357,6 @@ _(article introduced on 04.02.21)_
 E0221 
 
 PROCEDURAL RULES 
-
-Page 9 of 15 
 
 **UCI ANTI-DOPING TRIBUNAL** 
 
@@ -410,8 +393,6 @@ Upon a reasoned request of a Party, the Tribunal may decide to proceed in an exp
 E0221 
 
 PROCEDURAL RULES 
-
-Page 10 of 15 
 
 **UCI ANTI-DOPING TRIBUNAL** 
 
@@ -465,8 +446,6 @@ E0221
 
 PROCEDURAL RULES 
 
-Page 11 of 15 
-
 **UCI ANTI-DOPING TRIBUNAL** 
 
 ## **Article 29 Costs of proceedings** 
@@ -505,8 +484,6 @@ E0221
 
 PROCEDURAL RULES 
 
-Page 12 of 15 
-
 **UCI ANTI-DOPING TRIBUNAL** 
 
 2. The Single Judge will give the other Party an opportunity to comment on the request for correction. 
@@ -543,75 +520,16 @@ E0221
 
 PROCEDURAL RULES 
 
-Page 13 of 15 
-
 **UCI ANTI-DOPING TRIBUNAL** 
 
 ## Contents 
 
-PREAMBLE ............................................................................................................................................... 1 
-
-|PREAMBLE ............................................................................................................................................... 1|PREAMBLE ............................................................................................................................................... 1|
-|---|---|
-|TITLE I – INTRODUCTORY PROVISIONS .................................................................................................... 1||
-|Article 1|Definitions ....................................................................................................................... 1|
-|Article 2|Settlement of Disputes .................................................................................................... 1|
-|Article 3|Jurisdiction of the Tribunal .............................................................................................. 2|
-|TITLE II – ORGANISATION OF THE TRIBUNAL .......................................................................................... 2||
-|Article 4|Composition of the Tribunal ............................................................................................ 2|
-|Article 5|Independence and impartiality ....................................................................................... 2|
-|Article 6|Secretariat ....................................................................................................................... 3|
-|Article 7|Confidentiality ................................................................................................................. 3|
-|Article 8|Language of the proceedings .......................................................................................... 3|
-|Article 9|Time limits ....................................................................................................................... 4|
-|TITLE III – RIGHTS AND OBLIGATIONS OF THE PARTIES .......................................................................... 4||
-|Article 10|Procedural Rights of the Parties ...................................................................................... 4|
-|Article 11|Representation and assistance ........................................................................................ 4|
-|Article 12|Cooperation by the Parties .............................................................................................. 5|
-|TITLE IV – CONDUCT OF PROCEEDINGS .................................................................................................. 5||
-|Article 13|Initiation of proceedings ................................................................................................. 5|
-|Article 14|Assignment of cases ........................................................................................................ 5|
-|Article 15|Impartiality and Challenge .............................................................................................. 6|
-|Article 16|Answer (Statement of defence) ...................................................................................... 6|
-|Article 17|Further submissions and additional evidence ................................................................. 7|
-|Article 18|Common provisions applicable to all written submissions ............................................. 7|
-|Article 19|Evidence .......................................................................................................................... 7|
-|Article 20|Expert Reports ................................................................................................................. 8|
-|Article 21|Witnesses ........................................................................................................................ 8|
-|Article 22|Hearing ............................................................................................................................ 8|
-|Article 23|Scope of review ............................................................................................................. 10|
-|Article 24|Expedited procedure ..................................................................................................... 10|
-|TITLE V – THE|JUDGMENT ..................................................................................................................... 11|
-|Article 25|Applicable rules ............................................................................................................. 11|
-|Article 26|Sanctions and consequences ......................................................................................... 11|
-|Article 27|Form and content of the Judgment ............................................................................... 11|
-|Article 28|Costs of proceedings ..................................................................................................... 12|
-
-
-
 E0221 
 
 PROCEDURAL RULES 
-
-Page 14 of 15 
 
 **UCI ANTI-DOPING TRIBUNAL** 
 
-|Article 29|Notification and publication of the Judgment .............................................................. 12|
-|---|---|
-|Article 30|Enforceability ................................................................................................................. 12|
-|Article 31|Correction ...................................................................................................................... 12|
-|TITLE VI – FINAL PROVISIONS ................................................................................................................ 13||
-|Article 32|Unforeseen procedural matters .................................................................................... 13|
-|Article 33|Authoritative text .......................................................................................................... 13|
-|Article 34|Liability .......................................................................................................................... 13|
-|Article 35|Entry into force .............................................................................................................. 13|
-
-
-
 E0221 
 
-PROCEDURAL RULES 
-
-Page 15 of 15 
-
+PROCEDURAL RULES

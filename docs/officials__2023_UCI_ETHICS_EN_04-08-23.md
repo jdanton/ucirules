@@ -4,22 +4,14 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5ZszbcdPPoMq5cC82OxkTl/1bd
 source_sha256: 85c14ce1220a7c1076e54b305ad384619a8239d5f4461e88000eddaf036b643a
 converter: pymupdf4llm
 ---
-
-
 ![](images/2023_UCI_ETHICS_EN_04-08-23.pdf-0001-00.png)
-
 
 **----- Start of picture text -----**<br>
 CODE OF ETHICS<br>**----- End of picture text -----**<br>
 
-
 # VERSION ON 04.08.2023 
 
-
 ![](images/2023_UCI_ETHICS_EN_04-08-23.pdf-0001-02.png)
-
-
-## TABLE OF CONTENTS 
 
 |**PREAMBLE**||**3**|
 |---|---|---|
@@ -32,8 +24,6 @@ CODE OF ETHICS<br>**----- End of picture text -----**<br>
 ||**AND MENTAL INTEGRITY –**||
 ||**SEXUAL HARASSMENT AND ABUSE**|**24**|
 |APPENDIX 2|**MANIPULATION OF CYCLING EVENTS**|**27**|
-
-
 
 2 UCI CODE OF ETHICS | TABLE OF CONTENTS 
 
@@ -201,7 +191,7 @@ The UCI or the continental confederation shall be entitled to request from the r
 
 ## _**Art. 9.3 Support from UCI or continental confederations**_ 
 
-Any financial support from an executive member of the UCI or a continental confederation may only be offered or accepted if the following cumulative conditions are met : 
+Any financial support from an executive member of the UCI or a continental confederation may only be offered or accepted if the following cumulative conditions are met: 
 
 - a) The contribution was not in any way announced prior to the relevant person taking up his/her role; 
 
@@ -246,8 +236,6 @@ Candidates in an election shall conduct themselves in a manner consistent with u
 |~~CHAPTER III~~|~~**THE ETHICS COMMISSION**~~|
 |---|---|
 |**SECTION 1**|**FUNCTIONING**|
-
-
 
 ## _**Art. 12 Composition**_ 
 
@@ -681,7 +669,7 @@ Upon a file being sent to the President of the Ethics Commission according to ar
 
 In case of any discrepancy between the provisions of the present Appendix and the Code, the provisions contained herein shall prevail. 
 
-_The present appendix enters into force on November 1[st] , 2018._ 
+_The present appendix enters into force on November 1[st], 2018._ 
 
 26 UCI CODE OF ETHICS | APPENDIX 1 
 
@@ -745,9 +733,8 @@ Substantial assistance provided by a party to proceedings that results in the di
 
 In case of any discrepancy between the provisions of the present Appendix and the Code, the provisions contained herein shall prevail. 
 
-_The present appendix enters into force on November 1[st] , 2018._ 
+_The present appendix enters into force on November 1[st], 2018._ 
 
 29 
 
-UCI CODE OF ETHICS 
-
+UCI CODE OF ETHICS

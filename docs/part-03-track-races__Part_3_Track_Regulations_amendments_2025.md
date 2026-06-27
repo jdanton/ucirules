@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6u6WdNRhjfjnBzjgUp9FTL/010
 source_sha256: cfe72844e84b90deae1d24598de3b6a72679f3d18fa9385fe666b6fd7abc9bef
 converter: pymupdf4llm
 ---
-
 16.06.2025 
 
-
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -23,7 +20,7 @@ converter: pymupdf4llm
 
 ## **Participation** 
 
-- **3.2.001** The track season starts on January 1[st] and ends on December 31[st] . 
+- **3.2.001** The track season starts on January 1[st] and ends on December 31[st]. 
 
 Track competitions shall be held in the categories as defined in article 1.1.036 and 1.1.037. 
 
@@ -39,8 +36,6 @@ Riders of the under 23 category can take part in elite competitions.
 |Elite|Elite, Under-23, & junior riders aged 18 (2ndyear junior)|
 |Under 23|Under 23 & junior riders aged 18 (2ndyear junior)|
 |Junior|Junior riders|
-
-
 
 _(text modified on 25.09.07; 12.06.20; 17.10.22, 01.01.26)_ 
 
@@ -84,11 +79,9 @@ _(article introduced on 04.03.19; modified on 01.10.19; 12.06.20; 01.01.26)_
 |-<br>Elimination Race<br>-<br>Omnium<br>-<br>Scratch Race<br>-<br>Points Race<br>-<br>Individual Pursuit||UCI Individual Ranking<br>(Endurance)||
 |-<br>Madison<br>-<br>Team Pursuit<br>-<br>Team Sprint||UCI Nation Rankings<br>(specific to the event)||
 
-
-
 Riders/teams with no ranking shall be seeded last in random order by the commissaires’ panel. In the case where qualification heats are held for a bunch ~~race~~ event, riders in the subsequent race and finals shall be seeded according to the results from these heats. 
 
-For ~~Nations~~ _World Cup_ , _World Championships_ and _Olympic Games_ , riders and teams shall be seeded by the UCI. When applicable, the current World Champion will have the best seed. 
+For ~~Nations~~ _World Cup_, _World Championships_ and _Olympic Games_, riders and teams shall be seeded by the UCI. When applicable, the current World Champion will have the best seed. 
 
 _(article introduced on 01.02.11; text modified on 01.10.12; 12.06.20, 01.01.26)_ 
 
@@ -221,16 +214,12 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |No of<br>riders|No of<br>heats|No of<br>riders per<br>heat||
 |10 à 14|2|5-7|Top 3 in final 1-6<br>4th to 6th in final 7-12|
 
-
-
 |||1stround|1stround||Repechages|Repechages|1/2 finals|1/2 finals||
 |---|---|---|---|---|---|---|---|---|---|
 |No of<br>riders|No of<br>heats|No of<br>riders per<br>heat|Riders<br>qualified per<br>heat for the<br>1/2 finals|No of<br>heats|No of<br>riders per<br>heat|Riders<br>qualified per<br>heat for the<br>1/2 finals|No of<br>heats|No of<br>riders per<br>heat||
 |15 to 21|3|5-7|2|2-3|5-7|2-3|||Top 3 in final 1-6<br>Others in final 7-12|
 |22 to 28|4|5-7|2|4|3-5|1|2|6||
 |29 to42|6|4-7|1|6|3-6|1||||
-
-
 
 |||1stround|1stround||Repechages|Repechages||1/4 finals|1/4 finals|Repechages|Repechages|Repechages|1/2 finals|1/2 finals||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -240,13 +229,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |57 to 63|9|6-7|1|8|6-7|2|4|6-7|2|4|4-5|1||||
 |64 to 70|10|6-7|1|9|6-7|2|4|7|2|4|5|1||||
 
-
-
 |TRACK LENGTH|NO. OF LAPS|PACER (No. of laps to the finish)|
 |---|---|---|
 |250|6|3|
-
-
 
 Page **6** / **38** 
 
@@ -289,8 +274,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||RA5|RB5||RC5|RD5|
 |2nd ROUND:<br>(1/2 finals)|Composition:<br>2 heats of 6 riders<br>FA<br>FB<br>QA1<br>QB1<br>QD1<br>QC1<br>QB2<br>QA2<br>QC2<br>QD2<br>RA1<br>RB1<br>RD1<br>RC1<br>Results:<br>*FA1<br>*FB1<br>*FA2<br>*FB2<br>*FA3<br>*FB3<br>**FA4<br>**FB4<br>**FA5<br>**FB5<br>**FA6<br>**FB6<br>*Riders qualified for the FINAL 1 – 6<br>**Riders qualified for the FINAL 7 – 12||||||
 
-
-
 Page **7** / **38** 
 
 Allée Ferdi Kübler 12 1860 Aigle Suisse 
@@ -331,8 +314,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||RA5|RB5||RC5|RD5||
 |2nd ROUND<br>1/4 finals|Composition:<br>3 heats of 6 riders<br>A<br>B<br>C<br>QA1<br>QB1<br>QC1<br>QD1<br>QE1<br>QA2<br>QB2<br>QC2<br>QD2<br>RB1<br>RA1<br>QE2<br>RC1<br>RD1<br>RA2<br>RD2<br>RC2<br>RB2<br>Results:<br>*SA1<br>*SB1<br>*SC1<br>*SA2<br>*SB2<br>*SC2<br>*SA3<br>*SB3<br>*SC3<br>*SA4<br>*SB4<br>*SC4<br>All ranked 13<br>SA5<br>SB5<br>SC5<br>All ranked 16<br>SA6<br>SB6<br>SC6<br>*Riders qualified for ½ finals – the other riders are ranked relative to the finish order of each of the heats|||||||
 
-
-
 Page **8** / **38** 
 
 Allée Ferdi Kübler 12 1860 Aigle Suisse 
@@ -344,8 +325,6 @@ E: admin@uci.ch
 |3rd ROUND<br>1/2 finals||
 |---|---|
 ||Composition:<br>2 heats of 6 riders<br>SA<br>SB<br>SA1<br>SB1<br>SA2<br>SC1<br>SB2<br>SC2<br>SB3<br>SA3<br>SC3<br>SA4<br>SC4<br>SB4<br>Results:<br>*FA1<br>*FB1<br>*FA2<br>*FB2<br>*FA3<br>*FB3<br>**FA4<br>**FB4<br>**FA5<br>**FB5<br>**FA6<br>**FB6<br>*Riders qualified for the FINAL 1 – 6<br>**Riders qualified for the FINAL 7 – 12|
-
-
 
 _(text modified on 01.01.02; 30.03.09; 19.06.09; 21.06.18; 04.03.19; 12.06.20, 01.01.26)_ 
 
@@ -390,8 +369,6 @@ Should there be less than 8 teams taking part in the event, the event shall be r
 |Qualifyinground|Qualifyinground|Qualifyinground|Qualifying round<br>(no first round)|
 |First round, based on<br>the results of the<br>qualifying round:<br>a.<br>4th against 5th<br>b.<br>3rd against 6th<br>c.<br>2nd against 7th<br>d.<br>1st alone|First round, based on<br>the results of the<br>qualifying round:<br>a.<br>4th against 6th<br>b.<br>3rd against 5th<br>c.<br>2nd alone<br>d.<br>1st alone|First round, based on<br>the results of the<br>qualifying round:<br>a.<br>4th against 5th<br>b.<br>3rd alone<br>c.<br>2nd alone<br>d.<br>1st alone||
 |Final:<br>Winners of each heat<br>of the first round (4<br>teams)|Final:<br>Winners of each heat<br>of the first round (4<br>teams)|Final:<br>Winners of each heat<br>of the first round (4<br>teams)|Final:<br>4 best teams of<br>the qualifying<br>round|
-
-
 
 _(text modified on 01.01.02; 14.10.16, 01.08.23; 01.01.26)_ 
 
@@ -563,8 +540,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||~~17~~||||~~150(2 x 75)~~||||||~~150(4 x 37.5)~~|
 ||~~18~~|||~~125(2 x 62.5)~~||||||~~125(4 x 31.25)~~||
 
-
-
 ~~_(article introduced on 25.10.21)_~~ 
 
 **3.3.011** The order of precedence between riders, nations or ~~UCI Track Teams~~ on equal points in the respective rankings shall be determined according to their classification of competitions in the following order: 
@@ -685,17 +660,11 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0018-00.png)
-
-
 
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0018-01.png)
 
-
-
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0018-02.png)
-
 
 Diagram showing the inner fence at different heights 
 
@@ -745,9 +714,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - Team Sprint: three square markings (each a 9 cm[2] ), spaced 1.5 m apart, shall be used. The first marking, positioned on the inside of the track and defining the position of the others, shall coincide with the first marking used for the Team Pursuit. The third marking shall coincide with the fourth Team Pursuit starting position marking. The second marking, positioned between the first and third, is the only marking applied exclusively for the Team Sprint event and shall be coloured red. 
 
-
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0020-03.png)
-
 
 Diagram of the Starting Position Track Markings 
 
@@ -775,9 +742,7 @@ At the places where the area outside the track is at a level 1.5 metres or more 
 
 Where there is a difference in the height of the outer fence, the transition between these heights must not exceed an angle of 45°. 
 
-
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0021-08.png)
-
 
 Page **21** / **38** 
 
@@ -785,13 +750,9 @@ Allée Ferdi Kübler 12 1860 Aigle Suisse
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0022-00.png)
 
-
-
 ![](images/Part_3_Track_Regulations_amendments_2025.pdf-0022-01.png)
-
 
 Diagram showing the outer fence at different heights 
 
@@ -829,7 +790,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Commissaires’ platform** ~~**Finish judge’s podium**~~ 
 
-- **3.6.091** A platform ~~podium~~ must be provided for the commissaires ~~judge at the finish~~ , located in the track centre in line with the finish line. 
+- **3.6.091** A platform ~~podium~~ must be provided for the commissaires ~~judge at the finish~~, located in the track centre in line with the finish line. 
 
 _(text modified on 01.01.26)._ 
 
@@ -873,8 +834,6 @@ _(text modified on 01.01.02, 01.01.26)_
 ||||||||||||||
 |**CATEGORY**||||||**CATEGORY A**||||||**CATEGORY B**|
 
-
-
 Page **23** / **38** 
 
 Allée Ferdi Kübler 12 1860 Aigle Suisse 
@@ -884,8 +843,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |Type of Velodrome|Indoor<br>(250m tracks only)|Indoor<br>Roofed<br>Cantilever<br>Outdoor|
 |---|---|---|
 
-
-
 _(text modified on 01.01.26)_ 
 
 **3.6.095** ~~Category 1 and 2 tracks~~ All tracks must meet the following criteria (calculated for a ~~maximum~~ minimum safe spee ~~ds~~ of at least ~~in the range~~ 85 km/h ~~to 110 km/h~~ ): 
@@ -894,8 +851,6 @@ _(text modified on 01.01.26)_
 |---|---|---|---|---|
 |Radius of bends|19-25 m|22-28 m|25-35 m|28-50 m|
 |Width|7-8 m|7-8 m|7-9 m|7-10 m|
-
-
 
 ~~Other tracks must be designed to guarantee a minimum safe speed of at least 75 km/h.~~ 
 
@@ -980,8 +935,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||||~~-~~<br>-<br>-<br>•<br>•<br>•<br>•<br>-||
 ||Class 2||Over the competition:<br>-<br>CL2 events for Men Elite or Women Elite<br>-<br>Additional events for: Junior (M/W), U23<br>(M/W),<br>Elite<br>(M/W)<br>or<br>Para-cycling<br>(minimum 1 category)4)<br>-<br>Minimum 3 eventsof Class 22)<br>Per event:<br>-<br>Minimum 3 participating nations1)<br>-<br>Minimum distance as per UCI regulations<br>-<br>Minimal number of riders per event Elite and<br>U23:5)<br>•Sprint: 8 riders (article 3.2.031)<br>•Keirin: 10 riders (article 3.2.135)<br>•Bunchevents~~races:~~12 riders<br>•Madison: 8 teams||
 
-
-
 _1) In team events (Madison excluded), if a team is composed of riders from different nations (mixed team), the nation of the majority of riders shall prevail. In team events (Madison excluded), where no majority is possible, the nation of the participating rider shall not count. In Madison, the nations of all the riders taking part in the event shall be counted._ 
 
 Page **27** / **38** 
@@ -1048,8 +1001,6 @@ _(text modified on 25.01.08; 30.01.09; 05.03.18; 21.06.18, 01.08.23, 01.01.26)_
 |**Women**|PR|15km|10km|10km|10km|10km|10km|10km|10km|10km|
 |If more than 24 riders,qualifyings(half distance)asper 3.2.117 // 10points forgaining/losinga lapfor races under 20km|||||||||||
 
-
-
 ## **B. Scratch** 
 
 The races shall be held over the following distances: 
@@ -1059,8 +1010,6 @@ The races shall be held over the following distances:
 |**Men**|SH|10km|10km|10km|7.5km|7.5km|5km|5km|5km|5km|
 |**Women**|SH|5km|||||||||
 |If more than 24 riders,qualifyings (half distance) asper 3.2.175|||||||||||
-
-
 
 ## **C. Sprint** 
 
@@ -1072,8 +1021,6 @@ The races shall be held over the following number of laps:
 |**Women**|SP|3 laps|||||||||
 |Asper table in art. 3.2.050|||||||||||
 
-
-
 ## **D. Individual Pursuit** 
 
 The races shall be held over the following distances: 
@@ -1083,8 +1030,6 @@ The races shall be held over the following distances:
 |**Men**|IP|3km|3km|3km|2km|2km|2km|2km|2km|2km|
 |**Women**|IP|3km|3km|3km|2km|2km|2km|2km|2km|2km|
 |Qualification and best 4 in finals|||||||||||
-
-
 
 Page **29** / **38** 
 
@@ -1100,8 +1045,6 @@ The races shall be held over the following distances:
 |**Women**|TT|1km|750m|750m|500m|500m|500m|500m|500m|500m|
 |Direct finals|||||||||||
 
-
-
 ## **F. Team Pursuit** 
 
 The races shall be held over the following distances: 
@@ -1112,8 +1055,6 @@ The races shall be held over the following distances:
 |**Women**|TP|4km, 4 riders|||||||||
 |Qualification and best 4 in finals|||||||||||
 
-
-
 ## **G. Team Sprint** 
 
 The races shall be held over the following number of laps: 
@@ -1123,8 +1064,6 @@ The races shall be held over the following number of laps:
 |**Men**|TS|3 laps, 3 riders|||||||||
 |**Women**|TS|3 laps, 3 riders|||||||||
 |Qualification and best 4 in finals|||||||||||
-
-
 
 _(article introduced on 01.01.26)_ 
 
@@ -1150,8 +1089,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |2.1<br>Attempting to start a race<br>with a bicycle that does not<br>comply with the regulations||Rider:Start refused||Rider:Start refused|||Rider:Start refused|
 |2.2<br>Starting a race on a bicycle<br>that has not been checked||Team:200 fine and warning||Team:100 fine and warning|||Team:50 fine and warning|
 
-
-
 Page **31** / **38** 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Suisse 
@@ -1167,8 +1104,6 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Suisse
 |2.9<br>Modifying equipment/<br>clothing to be used in a race<br>after it has been checked by<br>the commissaires for that<br>race||Rider:500 fine and disqualification<br>Other team member:500 fine and<br>exclusion||Rider:200 fine and disqualification<br>Other team member:200 fine and<br>exclusion||Rider:100 fine and disqualification<br>Other team member:100 fine and<br>exclusion|
 |2.10 Carrying equipment on the<br>bicycle or rider that falls, or<br>can fall onto the track during<br>a race||Rider:Start refused, or 300 fine,<br>and/or warning or disqualification||Rider:Start refused, or 200 fine,<br>and/or warning or disqualification||Rider:Start refused, or 100 fine,<br>and/or warning or disqualification|
 |2.11 Use of forbidden onboard<br>technology device||Rider:Elimination or<br>disqualification<br>Other team member: Exclusion||Rider:Elimination or<br>disqualification<br>Other team member: Exclusion||Rider: Elimination or<br>disqualification<br>Other team member: Exclusion|
-
-
 
 Page **32** / **38** 
 
@@ -1191,8 +1126,6 @@ T: +41 24 468 58 11
 |3.10~~9 ~~Wearing tinted glasses or<br>visors while seated in the<br>waiting area for a race|||Rider:200||Rider:200||Rider:200|
 |3.11~~10~~ Riders in the same team<br>and race failing to wear a<br>distinguishing item on<br>them|||Rider:100 fine per rider involved<br>and/or warning||Rider:100 fine per rider involved<br>and/or warning||Rider:50 fine per rider involved<br>and/or warning|
 
-
-
 Page **33** / **38** 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Suisse 
@@ -1210,8 +1143,6 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Suisse
 |**6.**<br>**Irregular behaviour, in particular behaviour that affords a team**||||**or rider a sporting advantage or that is dangerous**|||
 |6.1<br>Rider refusing to quit the<br>race after being withdrawn<br>by the commissaires||Rider:200 fine, and<br>disqualification||Rider:100 fine and disqualification||Rider:50 fine, and disqualification|
 
-
-
 Page **34** / **38** 
 
 Allée Ferdi Kübler 12 1860 Aigle Suisse 
@@ -1228,8 +1159,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |7.1<br>Failing to respect the<br>instructions of the organiser<br>or commissaires||Rider:100 to 500* fine<br>Other licence holder:200 to 500*<br>fine||Rider:100 to 200* fine<br>Other licence holder:100 to 200*<br>fine||Rider:50 to 100* fine<br>Other licence holder:50 to 100*<br>fine|
 |7.2  Failing to respect<br>instructions regarding<br>participation and conduct||Rider:200 to 500* fine<br>Other licence holder:200 to 500*<br>fine||Rider:100 to 200* fine<br>Other licence holder:100 to 200*<br>fine||Rider:50 to 100* fine<br>Other licence holder:100 to 200*<br>fine|
 
-
-
 Page **35** / **38** 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Suisse 
@@ -1244,8 +1173,6 @@ T: +41 24 468 58 11
 |7.6  Qualified or entered for a<br>round of an event but not<br>starting without regulatory<br>justification||Rider:100 to 500* fine, and<br>disqualification from competition||Rider:100 to 200* fine, and<br>disqualification from competition||Rider:50 to 100* fine, and<br>disqualification from competition|
 |7.7  Failing to maintain proper<br>control of the bicycle||Rider:100 to 500* fine, and/or<br>warning or disqualification||Rider:100 to 200* fine, and/or<br>warning or disqualification||Rider:50 to 100* fine, and/or<br>warning or disqualification|
 |7.8  Behaviour that causes<br>damage to the environment||Rider or any other license holder:<br>200 to 500* fine and/or warning or<br>disqualification||Rider or any other license holder:<br>100 to 500* fine and/or warning or<br>disqualification||Rider or any other license holder:<br>50 to 100* fine and/or warning or<br>disqualification|
-
-
 
 E: admin@uci.ch 
 
@@ -1264,8 +1191,6 @@ T: +41 24 468 58 11
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the commissaires’ panel may exclude a licence<br>holder from the competition.|||||
 |8.3<br>Unseemly or inappropriate<br>behaviour (for example,<br>undressing in public in the<br>infield of a velodrome)||Rider or any other licence holder:<br>200 to 500 fine*||Rider or any other licence holder:<br>100 to 200 fine*||Rider or any other licence holder:<br>50 to 100 fine*|
 |||_Note: The penalty is applied to the team if the licence holder cannot be specifically identified_|||||
-
-
 
 - _When there is a scale of sanctions, the commissaire must take into account any extenuating or aggravating circumstances, including:_ - _Whether the sanction follows a warning;_ 
 
@@ -1289,5 +1214,4 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 Page **38** / **38** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Suisse 
-
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Suisse

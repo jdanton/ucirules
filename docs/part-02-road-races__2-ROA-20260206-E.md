@@ -4,51 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6FEzFHeA2oKMBGb5sdIvQ7/649
 source_sha256: 4b48943d13131d5923f771ffbbd836e58f8c4c0a1c00b7f41568678629828dad
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 2 ROAD RACES** 
 
 **Version on 06.02.2026** 
-
-|**TABLE OF CONTENTS**|
-|---|
-|Page|
-|**Preamble**<br>**................................................................................................................ 4**|
-|**Chapter I**<br>**CALENDAR AND PARTICIPATION........................................................ 4**|
-|**Chapter II**<br>**GENERAL PROVISIONS .......................................................................13**|
-|§ 1<br>Participation ........................................................................................................ 13|
-|§ 2<br>Organisation ....................................................................................................... 18|
-|§ 3<br>Race procedure .................................................................................................. 23|
-|§ 4<br>Circulation during the race .................................................................................. 28|
-|§ 5<br>Press specifications (N) ...................................................................................... 29|
-|§ 6<br>Guides, Guidelines and Terms of reference for organisers ................................. 39|
-|§ 7<br>Technical delegate .............................................................................................. 39|
-|§ 8<br>Team managers’ meeting ................................................................................... 40|
-|**Chapter III**<br>**ONE-DAY RACES ..................................................................................41**|
-|**Chapter IV**<br>**INDIVIDUAL TIME TRIALS ....................................................................58**|
-|**Chapter V**<br>**TEAM TIME TRIALS ..............................................................................62**|
-|**Chapter VI**<br>**STAGE RACES (N) ................................................................................67**|
-|**Chapter VII** **CRITERIUMS .........................................................................................80**|
-|**Chapter VIII** **INDIVIDUAL RACES ..............................................................................83**|
-|**Chapter IX**<br>**OTHER RACES ......................................................................................84**|
-|**Chapter X**<br>**UCI RANKINGS .....................................................................................86**|
-|§ 1<br>Elite and Under 23 Men’s UCI World Ranking..................................................... 86|
-|§ 2<br>Elite and Under 23 Women’s UCI World Rankings ............................................. 99|
-|§ 3<br>Elite and Under 23 Men’s Continental Rankings ............................................... 113|
-|§ 4<br>UCI Women’s WorldTour ranking ...................................................................... 117|
-|§ 5<br>......................................................................................................................... 117|
-|§ 6<br>Technical and qualifying rankings ..................................................................... 117|
-|**Chapter XI**<br>**............................................................................................................. 119**|
-|**Chapter XII**<br>**RACE INCIDENTS AND SPECIFIC INFRINGEMENTS BY**|
-|**ORGANISERS ............................................................................................................ 122**|
-|§ 1<br>Race incidents in the context of road events ..................................................... 122|
-|§ 2<br>Specific infringements by organisers of road events ......................................... 153|
-|**Chapter XIII** **UCI WOMEN’S WORLDTOUR ............................................................. 159**|
-|§ 1<br>UCI Women’s WorldTour .................................................................................. 159|
-|§ 2<br>UCI Women’s WorldTour calendar .................................................................... 161|
-
-
 
 E060226 
 
@@ -56,77 +14,17 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-|§ 3|Miscellaneous ................................................................................................... 164|
-|---|---|
-|§ 4|UCI Women’s WorldTour Licence ..................................................................... 169|
-|§ 5|Annual registration ............................................................................................ 178|
-|§ 6|UCI Women’s WorldTeams ............................................................................... 190|
-|§ 7|General provision .............................................................................................. 214|
-|§ 8|Development teams .......................................................................................... 214|
-|§ 9|Training compensation fees ............................................................................. 214|
-|**Chapter XIV** **UCI CUPS ............................................................................................ 216**||
-|§ 1|......................................................................................................................... 216|
-|§ 2|UCI Men Under 23 Nations’ Cup ....................................................................... 216|
-|§ 3|UCI Men Junior Nations’ Cup ............................................................................ 217|
-|§ 4|UCI Women Junior Nations’ Cup ...................................................................... 221|
-|**Chapter XV** **UCI WORLDTOUR ............................................................................... 226**||
-|§ 1|UCI WorldTour .................................................................................................. 226|
-|§ 2|UCI WorldTour Licence ..................................................................................... 226|
-|§ 3|UCI WorldTeams .............................................................................................. 234|
-|§ 4|UCI WorldTour calendar ................................................................................... 271|
-|§ 5|Licence commission .......................................................................................... 280|
-|§ 6|Appeal before the Court of Arbitration for Sport (CAS) ...................................... 282|
-|§ 7|UCI WorldTour reserve fund ............................................................................. 284|
-|§ 8|General provision .............................................................................................. 285|
-|§ 9|Appearance fee agreements ............................................................................. 285|
-|§ 10|<br>Development teams .......................................................................................... 285|
-|§ 11|Training compensation fees ................................................................................. 286|
-|**Chapter XVI** **UCI PROTEAMS .................................................................................. 288**||
-|Training compensation fees ......................................................................................... 317||
-|**Chapter XVII** **UCI CONTINENTAL TEAMS ................................................................ 318**||
-|§ 1|General Conditions ........................................................................................... 318|
-|§ 2|Requirements imposed on the team by the National Federation ....................... 321|
-|§ 3|Obligations of the National Federation towards the UCI .................................... 332|
-|§ 4|Obligations of the National Federation towards the continental confederation... 334|
-|**Chapter XVIII** **MEN ELITE UCI PROSERIES .......................................................... 336**||
-|§ 1|UCI ProSeries events ....................................................................................... 336|
-|§ 2|UCI ProSeries calendar .................................................................................... 336|
-|**Chapter XIX** **UCI WOMEN’S PROTEAMS ................................................................ 344**||
-|§ 1|Identity .............................................................................................................. 344|
-|§2|Accounts and finances ...................................................................................... 345|
-|§3|Paying agent ..................................................................................................... 347|
-|§4|Sponsors and principal partners........................................................................ 348|
-|§5|Riders ............................................................................................................... 348|
-|§6|Contract ............................................................................................................ 351|
-|§ 7|Annual registration ............................................................................................ 369|
-|§8|Bank guarantee ................................................................................................ 376|
-|§9|Registration criteria ........................................................................................... 381|
-|§10|Referral to the licence commission ................................................................... 383|
-|§11|Dissolution of the UCI Women’s ProTeam ........................................................ 383|
-|§12|<br>Development teams .......................................................................................... 383|
-|§13|Training compensation fees .............................................................................. 384|
-
-
-
 E060226 
 
 2 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-**Annex A Minimum criteria for International road events (Women Elite) ........ 385 Annex B Protocol for discussions regarding extreme weather and the riders’ safety during events ..........................................................** Error! Bookmark not defined. **Annex C Protocol for discussions regarding high temperatures and the riders’ safety during events .................................................................................................. 390 Annex D Riders’ Agent Regulations ................................................................. 394** 
-
 E060226 
 
 3 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 2 ROAD RACES** 
 
@@ -180,8 +78,6 @@ ROAD RACES
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 The dates of the international calendar and the road cycling season shall be set annually by the UCI Management Committee, which will take into account the above as well as specificities regarding the events registered on the calendar. 
 
 _(text modified on 01.01.02; 01.01.05; 01.01.17; 23.10.19; 01.01.25)_ 
@@ -220,8 +116,6 @@ ROAD RACES
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 The junior development team shall be registered by the National Federation corresponding to the majority nationality of its riders, and in accordance with the procedures set out in the specifications defined by that federation. 
 
 The team must be managed by a club duly affiliated with the relevant National Federation, or by a team registered with the UCI in one of the following categories: UCI WorldTeam, UCI Women’s WorldTeam, UCI ProTeam or UCI Women’s ProTeam. The managing entity shall assume full administrative and sporting responsibility for the team. 
@@ -250,15 +144,11 @@ _(Article introduced on 01.01.26)_
 |Continental games||JC|-National teams, in accordance with<br>the specific regulations of the event|
 |Regional games||JR|-<br>National teams, in accordance<br>with the regional games (see part X)|
 
-
-
 E060226 
 
 6 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**|**Class**|**Participation**|
 |---|---|---|---|
@@ -271,15 +161,11 @@ ROAD RACES
 |||1.1<br>2.1|-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 |||1.2<br>2.2|-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-African mixed teams(3)|
 
-
-
 E060226 
 
 ROAD RACES 
 
 7 
-
-**UCI CYCLING REGULATIONS** 
 
 |**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**|**Class**|**Participation**|
 |---|---|---|---|
@@ -293,8 +179,6 @@ ROAD RACES
 |Women Junior|WJ|1.Ncup<br>2.Ncup|-National teams<br>-Regional and club teams<br>-Mixed teams|
 |||1.1<br>2.1|-National teams<br>-Regional and club teams<br>-Mixed teams WJ 1<br>-Junior development teams|
 
-
-
 _(1) In order to compete in a UCI ProSeries event, UCI Continental Teams and UCI cyclo-cross professional teams must contribute to the programme for the fight against doping related to UCI ProSeries events as provided in the Financial Obligations published on the UCI website; the teams concerned will be included in a list published on the UCI website._ 
 
 _(2) Only regional and club teams from the country of the organiser or border country and only if the national team of the country of the regional or club team is also taking part in the event. (3) only for UCI Africa Tour._ 
@@ -304,8 +188,6 @@ E060226
 8 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(4) If thirty days prior to the event, the number of confirmed teams remains below the minimum required, and subject to the organiser providing evidence to the UCI that all UCI Women’s WorldTeams and UCI Women’s ProTeams have been duly invited to participate in the event, the UCI may authorise the organiser, as a first step, to invite UCI Women’s Continental Teams registered in the host country, and as a second step, to invite any other UCI Women’s Continental Teams._ 
 
@@ -326,16 +208,12 @@ _(text modified on 01.01.99; 01.01.05; 01.01.06; 01.10.06; 25.09.07; 01.01.08; 0
 |UCI ProSeries|Max. 2 riders|
 |Class 1|Max. 4 riders|
 
-
-
 Riders registered with a UCI WorldTeam, UCI Women’s WorldTeams, UCI ProTeam or UCI Women’s ProTeam may participate in class 1 or class 2 events with the related development team subject to the following limitations: 
 
 |**Category of event**|**Number of riders allowed in**<br>**the development team**|
 |---|---|
 |Class 1|Max. 2 riders|
 |Class 2|Max. 1 rider|
-
-
 
 _(article introduced on 23.10.19; 01.11.22; 01.07.24)._ 
 
@@ -351,8 +229,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.1.007** Unless prior authorization has been obtained from the UCI Management Committee, organisers may not set other age limits than the ones corresponding to the junior, under 23 and elite categories. 
 
 _(article introduced on 01.01.05)._ 
@@ -361,7 +237,7 @@ _(article introduced on 01.01.05)._
 
 ## **Provisions for Grand Tours and UCI WorldTour stage races** 
 
-The organiser must invite the best UCI ProTeams on UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , according to the following: 
+The organiser must invite the best UCI ProTeams on UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)], according to the following: 
 
 |**Number of**<br>**UCI WorldTeams**|**Obligatory**<br>**Invitation of best**<br>**UCI ProTeams(2)(4)**|**Remaining wild cards**<br>**for Organisers**|**Remaining wild cards**<br>**for Organisers**|
 |---|---|---|---|
@@ -369,8 +245,6 @@ The organiser must invite the best UCI ProTeams on UCI World Ranking by Teams, a
 |18|3|2|4|
 |17|4|2|4|
 |16|4|3|5|
-
-
 
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
@@ -394,13 +268,11 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 passport as UCI WorldTeams, as published in the International Testing Agency (ITA) financial obligations document available on the UCI website. 
 
 ## **Provisions for UCI WorldTour one-day races** 
 
-The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)] , according to the followings: 
+The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (under the terms of article 2.1.001)[ (1)], according to the followings: 
 
 |**Number of**<br>**UCI WorldTeams**|**Obligatory Invitation of**<br>**best UCI ProTeams(2) (3)**|**Remaining wild cards**<br>**for Organisers(3)**|
 |---|---|---|
@@ -408,21 +280,19 @@ The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, a
 |17|4|4|
 |16|4|5|
 
-
-
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
 > _**(2)** Invitations declined by invited UCI ProTeams may be used by the organiser as additional wild cards._ 
 
 ## **Provisions for UCI Women’s WorldTour events** 
 
-The organiser must send an invitation to the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , in accordance with the following provisions. 
+The organiser must send an invitation to the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)], in accordance with the following provisions. 
 
 In the event that the number of UCI Women's WorldTeams is less than 13, the number of obligatory invitations to the UCI Women’s ProTeam, based on the abovementioned ranking, shall be increased accordingly in order to ensure a minimum number of 15 invitations to the UCI WorldTeams and UCI Women’s ProTeam. 
 
 ## **Provisions for ME UCI ProSeries** 
 
-The organiser must invite the first 5 UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)] . 
+The organiser must invite the first 5 UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)]. 
 
 The organiser must also invite the UCI ProTeams of the host country. 
 
@@ -439,8 +309,6 @@ E060226
 11 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 relevant continental circuit of which the event is part and, amongst these, only the best team of each nation is considered. 
 
@@ -502,8 +370,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Only national teams may include riders from a team registered with the UCI. 
 
 _(article introduced on 01.01.05; modified on 01.08.13; 01.01.15; 25.10.17; 23.10.19; 01.01.24; 01.07.24)._ 
@@ -543,22 +409,16 @@ _(text modified on 01.01.05; 01.07.10; 01.10.11; 01.01.13; 01.01.15; 25.10.17; 0
 |Regional Games||
 |National Championships||
 
-
-
 |**Men International Events**|**Maximum**|
 |---|---|
 |Grand Tours|184|
 |Other UCI WorldTour events|176|
-
-
 
 E060226 
 
 13 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 UCI Europe Tour, UCI America Tour, UCI Asia Tour, UCI Oceania Tour and UCI Africa Tour UCI Nations’ Cups Men Junior 
 
@@ -571,14 +431,10 @@ UCI Europe Tour, UCI America Tour, UCI Asia Tour, UCI Oceania Tour and UCI Afric
 |UCI Nations’Cup||
 |Women Junior||
 
-
-
 |Class 1<br>Class 2<br>UCI Nations’Cup<br>Women Junior|176|
 |---|---|
 |**National Events**|**Maximum**|
 |(N*) National Calendars|176|
-
-
 
 _* within the limit of 200._ 
 
@@ -590,8 +446,6 @@ Without prejudice to the minimum of starting riders resulting from any other pro
 |**Women international events**||
 |UCI Women’sWorldTour, UCI ProSeries and Class1|90|
 |Other events|40|
-
-
 
 _(text modified on 01.01.18; 22.10.18; 23.10.19; 01.01.20; 01.04.25)._ 
 
@@ -615,8 +469,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The minimum number of starting teams for UCI ProSeries events is established as follows: 
 
 ||**2020**|**2021**|**2022 and**<br>**subsequent**|
@@ -626,8 +478,6 @@ The minimum number of starting teams for UCI ProSeries events is established as 
 |One-day<br>events|20 teams of 6 riders;<br>or<br>17 teams of 7 riders|21 teams of 6<br>riders;<br>or<br>18 teams of 7 riders|22 teams of 6 riders;<br>or<br>19 teams of 7 riders|
 |**Events outside Europe**||||
 |Stage<br>races<br>and<br>One-day<br>events|17 teams of 6 riders;<br>or<br>15 teams of 7 riders|18 teams of 6<br>riders;<br>or<br>16 teams of 7 riders|19 teams of 6 riders;<br>or<br>17 teams of 7 riders|
-
-
 
 ## **Special provisions for Women Elite events of the UCI Women’s WorldTour and UCI ProSeries** 
 
@@ -654,8 +504,6 @@ E060226
 15 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(article introduced on 01.01.18)._ 
 
@@ -692,8 +540,6 @@ E060226
 16 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Participation allowance** 
 
@@ -732,8 +578,6 @@ E060226
 17 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 If the decision is taken by the president of the Professional Cycling Council or by the president of the road commission, he may decide solely on the basis of the report from the president of the commissaires panel. 
 
@@ -798,8 +642,6 @@ E060226
 18 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
    - the presence of the neutral support service via motorcycle, if any; 
 
@@ -873,8 +715,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The Event Safety Manager must always be readily and visibly identifiable, distinguished by a clearly marked uniform or badge that sets them apart from other organisation staff members. 
 
 ## **The course** 
@@ -915,8 +755,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Inflatable structures** 
 
 (N) Inflatable structures on the road or crossing the road are prohibited, except in order to mark the position of the start line. 
@@ -950,8 +788,6 @@ E060226
 21 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.2.018** In no case can the UCI be held responsible for any defects in the course or accidents that may occur. 
 
@@ -999,8 +835,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 commissaire with a vehicle and experienced driver from the local country for the duration of the event (for transport to hotels and stage finishes). 
 
 _(text modified on 01.01.05; in force on 01.01.11; text modified on 01.03.18; 01.07.19)._ 
@@ -1033,9 +867,9 @@ The use of such a system is subject to any relevant legal provisions and to thou
 
 2. In addition with the sanctions provided in article 2.12.007, the disciplinary commission may impose the following sanctions: 
 
-   - riders : fine of CHF 100 to 10,000; 
+   - riders: fine of CHF 100 to 10,000; 
 
-   - team : fine of CHF 1,000 to 100,000; 
+   - team: fine of CHF 1,000 to 100,000; 
 
 An infringement committed by a rider leads to the irrefutable presumption of an infringement committed by the rider’s team. 
 
@@ -1052,8 +886,6 @@ E060226
 23 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Conduct of riders** 
 
@@ -1096,8 +928,6 @@ E060226
 24 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Commissaires’ panel** 
 
@@ -1161,8 +991,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 discussing the measures to be applied during events organised in high temperature (Annex C). 
 
 _(article introduced on 01.01.16; and modified on 23.10.19; 11.02.20; 05.02.24; 01.01.26)._ 
@@ -1183,7 +1011,7 @@ _(text modified on 01.01.03; 01.10.13; 03.06.16)._
 
 - **2.2.032** Windows on all cars in the race caravan must not be marked as to obstruct the view **bis** through the vehicle or be significantly obstructed with decals. 
 
-_(article introduced on 01.10.13_ ; _into force on 01.01.15; text modified on 01.01.16)_ 
+_(article introduced on 01.10.13_; _into force on 01.01.15; text modified on 01.01.16)_ 
 
 - **2.2.033** Vehicles shall travel on the side of the road required by the domestic legislation of the host country. 
 
@@ -1206,8 +1034,6 @@ E060226
 26 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Before the start of the race, the organiser must provide the president of the commissaires’ panel with a list of followers allowed to drive in the race convoy. This list must include the contact details of the followers as well as their national licence number and UCI ID. 
 
@@ -1260,8 +1086,6 @@ E060226
 27 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.2.037** Riders may not be sprayed from a vehicle. 
 
@@ -1317,8 +1141,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.2.042** In addition to the sanctions provided in article 2.12.007, any infringements of article 2.2.041 may be referred by the UCI to the Disciplinary Commission, which may impose a suspension of up to one year as well as a fine of CHF 200 to 10’000. 
 
 _(text modified on 04.05.16; 01.01.19)._ 
@@ -1363,8 +1185,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Information prior to the race** 
 
 - **2.2.049** The organisers shall, during the days preceding the event, provide the various press institutions with a maximum of information regarding their event: itinerary, list of riders participating, starting procedures, etc. They shall, in particular, provide all accredited persons with the lists of the riders entered for the event (at race headquarters by fax and/or email) and shall do so no later than Friday at noon for an event run over the weekend or no later than noon on the day preceding a race run during the week. 
@@ -1405,8 +1225,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Press Cars** 
 
 - **2.2.057** The press motorcade, situated ahead of the field, may not include any advertising or team vehicles. 
@@ -1416,8 +1234,6 @@ E060226
 31 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.2.058** Within the press motorcade, press vehicles shall have priority over the vehicles of any guests that may be there on the invitation of the organiser. 
 
@@ -1460,8 +1276,6 @@ E060226
 32 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Cameramen's motorcycles** 
 
@@ -1507,8 +1321,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Telecommunications** 
 
 - **2.2.080** The organisers shall make available to press personnel such means of transmission as they require (telephone, fax, Internet). The press shall make their requirements known on the accreditation request form. 
@@ -1537,8 +1349,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Accreditation application for press** 
 
 - **2.2.084** Accreditation requests shall be filled out as shown in the model in article 2.2.085. 
@@ -1549,11 +1359,9 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2.2.085  Accreditation application for press** 
 
-Firm – Publication– Agency : 
+Firm – Publication– Agency: 
 
 Special representatives: Surname and first name Position Press card No. (attach photocopy) Car - Make Registration No. Driver(s) Licence number Motorcycle – Make Registration No. Driver(s) Licence No Press room: No. of places required: Transmission media required: - Telephone yes/no - Fax yes/no - Internet access point yes/no Firm – Publication – Agency seal: Date + signature: 
 
@@ -1579,8 +1387,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The photographers must be positioned at a distance from the finish line of at least 30 meters. 
 
 ## **Summit finishes** 
@@ -1600,8 +1406,6 @@ E060226
 37 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Sample start list 2.2.087** Communiqué No… 
 
@@ -1644,8 +1448,6 @@ ROAD RACES
 |36|BAUMANN Andreas|100 244 193 28|
 |Sports Director:|KOOIMAN Joop|100 741 260 67|
 
-
-
 _(text modified on 01.01.98; 01.01.07; 01.01.08)._ 
 
 E060226 
@@ -1653,8 +1455,6 @@ E060226
 38 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Sample classification** 
 
@@ -1691,8 +1491,6 @@ E060226
 39 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.2.091** The technical delegate draws up a detailed evaluation report of the event and sends it to the UCI administration. The organiser receives a copy of this report. 
 
@@ -1734,8 +1532,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter III ONE-DAY RACES** 
 
 ## **Method** 
@@ -1760,8 +1556,6 @@ _(text modified on 01.01.05; 01.01.09)._
 |Men Junior|MJ<br>MJ|1. Ncup<br>1.1|Maximum 140 km<br>Maximum 140 km|
 |Women Junior|WJ<br>WJ|1.Ncup<br>1.1|Maximum 100 km<br>Maximum 100 km|
 
-
-
 _* Except with the prior permission of the UCI Management Committee._ 
 
 _(text modified on 01.01.05; 01.01.08; 01.01.09; 01.07.12; 01.10.13; 01.01.16; 01.01.17; 01.01.18; 23.10.19; 09.11.20; 01.11.23 1.01.25)._ 
@@ -1775,8 +1569,6 @@ E060226
 41 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Course** 
 
@@ -1825,8 +1617,6 @@ E060226
 42 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 The teams’ presentation cannot last more than one hour and should not interfere with the training period and dinnertime of the riders. 
 
@@ -1877,8 +1667,6 @@ E060226
 43 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Men Under 23** 
 
@@ -1936,15 +1724,11 @@ ROAD RACES
 
 44 
 
-**UCI CYCLING REGULATIONS** 
-
 E060226 
 
 ROAD RACES 
 
 45 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.3.014** When the finish is on a circuit, riders may help one another where permitted only if they have covered the same distance in the race. 
 
@@ -1994,8 +1778,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2.3.018** The order of team cars in the race will be determined as follows: 
 
 ## **UCI WorldTour and UCI Women’s WorldTour events** 
@@ -2041,8 +1823,6 @@ E060226
 ROAD RACES 
 
 47 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.3.020** Any driver wishing to overtake a commissaires’ vehicle on his own initiative shall draw level with those vehicles, state his intention and proceed only once granted official permission by the commissaire. He shall then complete his business as expeditiously as possible and return without delay to his place in line. 
 
@@ -2130,8 +1910,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 17. the time board motorcycle 
 
 18. the police motor-cycles. 19. the broom wagon 
@@ -2186,8 +1964,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Women Junior event** 
 
 1. vehicles of nations entering at least five riders; 
@@ -2234,8 +2010,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The food and drink may also be distributed in the authorised areas defined by the regulations, in particular those provided for wheel changes in accordance with article 2.3.029. 
 
 Organisers must ensure that feed zones are placed in safe locations, avoiding descents, tight bends, dangerous technical sections, narrow roads, outside of urban areas and key points of the race. Flexibility in the positioning of the zones is granted to the organisers to adapt their positioning to the specific features of the course, in consultation with the UCI commissaires if necessary. 
@@ -2276,8 +2050,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The commissaires panel may adapt the distances mentioned above, depending on atmospheric conditions and the category, type and length of the race. Such a decision must be communicated to the followers through radio-tour. 
 
 _(text modified on 01.01.01; 01.08.13; 01.01.19; 01.01.20; 08.02.21)._ 
@@ -2312,8 +2084,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.3.033** _During world championships and Olympic Games, repairs and wheel or bicycle changes may be effected either by the personnel in the following technical vehicle, or at the equipment pits set up for that purpose._ 
 
 _(text modified on 01.01.01)._ 
@@ -2323,8 +2093,6 @@ E060226
 53 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Level crossings** 
 
@@ -2374,8 +2142,6 @@ ROAD RACES
 
 54 
 
-**UCI CYCLING REGULATIONS** 
-
 **2.3.039** Any rider finishing in a time exceeding that of the winner by more than 8% shall not be placed. The time limit may in exceptional circumstances be increased by the commissaires panel in consultation with the organiser. _At the world championships and at the Olympic Games, any rider who is dropped and lapped by the lead riders before they start their final lap shall be eliminated and must leave the race. All other riders shall be classified in accordance with their position. (text modified on 01.01.99; 01.01.05; 01.01.13)._ **2.3.040** All riders in a given bunch shall be credited with the same time when they cross the finishing line. Timekeeper-commissaires shall continue to officiate until the broom wagon arrives. They shall also record the times of riders that finish after the set deadlines and shall hand the list of recorded times to the president of the commissaires panel. _(text modified on 01.01.05)._ **2.3.041** All times recorded by the timekeeper-commissaires shall be rounded down to the nearest second. _(text modified on 01.01.05)._ **2.3.042** In case of track finishes, the whole surface of the track may be used. Riders' times may be recorded as they enter the track. Moreover, the commissaires may decide on a neutralisation at the entrance to the track in order to avoid the mixing of riders from different bunches. If the track is impracticable, the finishing line shall be moved off the track and riders shall be informed by all available means. **2.3.043** _If, after all technical means available have been exhausted, it is still not possible to separate riders for one of the first three places at the world championships or Olympic Games, these riders shall each be awarded the placing in question. No award shall be made for the following placing, or, where there is a three-way tie, for the following two placings. (text modified on 01.01.04)._ **2.3.044** The team classification shall be optional. It shall be based on the sum of the three best individual times for each team. In the event of a tie, teams shall be separated on the basis of the sums of the placings obtained by their three best placed riders. In the event that the positions are still tied, the teams shall be separated by the placing of their best rider. _(text modified on 01.01.02; 01.01.03)._ **2.3.045** [article abrogated on 01.01.21]. 
 
 E060226 
@@ -2383,8 +2149,6 @@ E060226
 ROAD RACES 
 
 55 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Official award ceremony** 
 
@@ -2406,21 +2170,15 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2.3.047 Diagram of the race convoy** 
 
-
 ![](images/2-ROA-20260206-E.pdf-0057-02.png)
-
 
 E060226 
 
 ROAD RACES 
 
 57 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV INDIVIDUAL TIME TRIALS** 
 
@@ -2437,8 +2195,6 @@ ROAD RACES
 |Women|Elite|_30-40 km_|40 km|
 ||Under 23|_20-30 km_|30 km|
 ||Junior|_10-15 km_|15 km|
-
-
 
 _(text modified on 01.01.05; 01.01.07, 1.01.25)._ 
 
@@ -2469,8 +2225,6 @@ E060226
 58 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Start** 
 
@@ -2511,8 +2265,6 @@ E060226
 59 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Racing procedure** 
 
@@ -2560,8 +2312,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2.4.031** [article abrogated on 01.01.21]. 
 
 E060226 
@@ -2569,8 +2319,6 @@ E060226
 61 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter V TEAM TIME TRIALS** 
 
@@ -2603,8 +2351,6 @@ _(text modified on 01.01.05; 01.01.06; 01.10.06; 01.07.12; 01.01.19; 01.01.21)._
 ||Junior||30 km|
 |Mixed<br>relay|Elite<br>Under 23|_25 km per gender_|50 km per gender|
 
-
-
 _(text modified on 01.01.05; 01.01.07; 01.07.12; 01.08.13; 01.01.19; 01.01.25)._ 
 
 ## **Course** 
@@ -2626,8 +2372,6 @@ E060226
 62 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.05)._ 
 
@@ -2668,8 +2412,6 @@ E060226
 63 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.05; 01.07.12; 01.01.19; 01.01.26)._ 
 
@@ -2721,8 +2463,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In UCI Women’s WorldTour team time trials the time shall be taken on the fourth rider. 
 
 _The relay and start of the women riders will be given by the second male rider crossing the finish line. The overall finishing time will be taken on the second female rider at the world championships._ 
@@ -2767,8 +2507,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.5.023** The following vehicle of a team that is about to be caught up shall, as soon as the distance between the two teams drops below 100 metres, drop back behind the vehicle of the other team. 
 
 - **2.5.024** A vehicle following a team that catches up another may not take up position between the teams unless there are at least 60 metres between them. Should that gap subsequently reduce, the vehicle shall return to its position behind the last rider of the 2[nd] team. 
@@ -2788,8 +2526,6 @@ E060226
 66 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI  STAGE RACES (N)** 
 
@@ -2849,8 +2585,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 For Grand tours, the duration must be between 15 and 23 days. 
 
 For all UCI WorldTour events, the organiser may ask, every four years, for one additional day in order to organise the start in a non-adjacent territory to the country of the event and/or requiring a long transfer. Any such request must be submitted at least one year before the event and will be reviewed at the Professional Cycling Council’s discretion. 
@@ -2884,22 +2618,16 @@ _(text modified on 01.01.05; 01.01.08; 01.01.09; 01.07.12; 01.10.13; 01.01.15; 0
 |Men Junior Nations’<br>Cup|120 km|140 km|30 km<br>half-stage 15<br>km|40 km<br>half-stage 25<br>km|
 |Women Junior<br>Nations’Cup|80 km|100 km|20 km|25 km|
 
-
-
 E060226 
 
 68 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |UCI Women’s<br>WorldTour|140 km|160 km|40 km|50 km|
 |---|---|---|---|---|
 |Women Elite|120 km|140 km|40 km|50 km|
 |Women Junior|80 km|100 km|20 km|25 km|
-
-
 
 _* The distance and the day of the prologue are not taken into consideration for calculating the average daily distance._ 
 
@@ -2919,7 +2647,7 @@ _(text modified on 01.01.05, 1.01.06; 01.01.08; 01.01.09; 01.07.09; 01.01.16; 01
 
 _(text modified on 01.01.02; 01.01.05; 01.01.08)._ 
 
-- **2.6.010** The number of half-stages is limited as follows (without taking account of the prologue) : 
+- **2.6.010** The number of half-stages is limited as follows (without taking account of the prologue): 
 
 ||Number of half-stages authorised|Number of half-stages authorised|
 |---|---|---|
@@ -2929,8 +2657,6 @@ _(text modified on 01.01.02; 01.01.05; 01.01.08)._
 |Under 23|2|4|
 |Women Elite|2|half-stages forbidden|
 |Junior|2|half-stages forbidden|
-
-
 
 _(text modified on 01.01.01; 01.01.06; 26.06.07; 01.01.09)._ 
 
@@ -2956,8 +2682,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Classifications** 
 
 - **2.6.013** Various classifications may be drawn up; they must be based exclusively on sporting criteria. 
@@ -2966,7 +2690,7 @@ The individual general classification on time and the team general classificatio
 
 1. Men events of the UCI WorldTour; 
 
-2. Women events of the UCI Women’s WorldTour and UCI ProSeries ; 
+2. Women events of the UCI Women’s WorldTour and UCI ProSeries; 
 
 3. Men elite and Under 23 events in UCI ProSeries and classes 1 and 2. 
 
@@ -2977,8 +2701,6 @@ E060226
 70 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.6.014** The times as recorded by the timekeeper-commissaires shall be entered in the general time classifications. 
 
@@ -3013,8 +2735,6 @@ E060226
 71 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.6.017** In the event of a tie in the general individual classification by points, the following criteria shall be applied in order until the riders are separated: 
 
@@ -3073,8 +2793,6 @@ E060226
 72 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 No leaders’ jersey of the race or distinctive sign can be worn by a rider during the first day (prologue or stage) of a stage race. 
 
@@ -3140,8 +2858,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.6.020** No bonuses may be awarded during stages or half-stages unless a bonus is also awarded at the finish. 
 
 - **2.6.021** Bonuses shall be shown only in individual general classification by time. No bonuses shall be awarded for individual or team time trial events. 
@@ -3186,8 +2902,6 @@ ROAD RACES
 
 74 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Finish** 
 
 - **2.6.027** In the case of a duly noted incident in the last three kilometres of a road race stage, the rider or riders affected shall be credited with the time of the rider or riders in whose company they were riding at the moment of the incident. His or their placing shall be determined by the order in which he or they actually cross the finishing line. 
@@ -3224,8 +2938,6 @@ ROAD RACES
 
 75 
 
-**UCI CYCLING REGULATIONS** 
-
 If, as the result of a duly noted fall beyond the red triangle, a rider cannot cross the finishing line, he shall be credited with the time of the teammate(s) in whose company he was riding at the time of the accident. 
 
 This article shall not apply where the finish is at the top of a hill-climb. 
@@ -3249,8 +2961,6 @@ E060226
 76 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Finishing deadline** 
 
@@ -3298,8 +3008,6 @@ ROAD RACES
 
 77 
 
-**UCI CYCLING REGULATIONS** 
-
 classification at the end of the prologue or the first stage if the latter is an individual time trial or a team time trial and, where no such classification exists, as per the following provisions: 
 
 ## **UCI WorldTour and UCI Women’s WorldTour events** 
@@ -3342,8 +3050,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 For the following stages, the driving order shall be determined according to the position of the first rider of each team in the general individual time classification. 
 
 _(text modified on 03.06.16; 01.01.19; 01.11.21)._ 
@@ -3365,8 +3071,6 @@ E060226
 79 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VII  CRITERIUMS** 
 
@@ -3414,8 +3118,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.7.006** An organiser may not contract a rider from a UCI WorldTeam unless if at least 50% of riders participating belong to a team registered with the UCI. The organiser's National Federation may increase this percentage. 
 
 _(text modified on 01.01.02; 01.01.05; 01.01.15)._ 
@@ -3460,8 +3162,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Distances** 
 
 - **2.7.016** The circuit shall measure between 800 and 10,000 metres. 
@@ -3474,8 +3174,6 @@ ROAD RACES
 |1600 m-2999 m|110 km|
 |3000 m-3999 m|132 km|
 |4000 m-10000 m|150 km|
-
-
 
 ## **Method with intermediate sprints** 
 
@@ -3509,8 +3207,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter VIII  INDIVIDUAL RACES** 
 
 - **2.8.001** For any aspect not covered below, please refer to the general provisions as well as to the special provisions for one-day races that shall apply by analogy. 
@@ -3542,8 +3238,6 @@ E060226
 83 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IX  OTHER RACES** 
 
@@ -3593,8 +3287,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 For events registered on the national calendar, the national federation shall determine the appropriate rules related to participation, points and other relevant items. 
 
 _(article introduced on 02.03.20)._ 
@@ -3608,8 +3300,6 @@ E060226
 85 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter X  UCI RANKINGS** 
 
@@ -3659,8 +3349,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Points awarded for stages are included in the ranking drawn up following the final day of a stage race. 
 
 _(article introduced on 01.01.19; numbering modified on 23.10.19; text modified on 23.10.19; 11.02.20)._ 
@@ -3700,8 +3388,6 @@ E060226
 87 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Special provision for riders transferred** 
 
@@ -3751,8 +3437,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
    - _(article introduced on 01.01.16; text modified on 03.06.16; 25.10.17; 23.10.19; 12.06.20)._ 
 
 - **2.10.006 Trophies and prizes** 
@@ -3775,15 +3459,11 @@ For team time trial events and stages the points on the scale shall be awarded t
 |---|---|---|---|---|---|
 |**1**|1300|1100|800|500|400|
 
-
-
 E060226 
 
 89 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |Position|Tour<br>de<br>France|Giro<br>d'Italia,<br>La<br>Vuelta<br>Ciclista<br>a<br>España|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>-Tour des<br>Flandres,<br>Paris-<br>Roubaix,<br>Liège-<br>Bastogne-<br>Liège, Il<br>Lombardia|Santos Tour<br>Down Under,<br>UAE Tour,<br>Strade<br>Bianche, Paris<br>- Nice, Tirreno -<br>Adriatico, In<br>Flanders Fields<br>- From<br>Middelkerke to<br>Wevelgem,<br>Amstel Gold<br>Race, La<br>Flèche<br>Wallonne, Tour<br>Auvergne -<br>Rhône-Alpes,<br>Tour de<br>Romandie,<br>Tour de Suisse,<br>Grand Prix<br>Cycliste de<br>Québec, Grand<br>Prix Cycliste de<br>Montréal|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Omloop Nieuwsblad, Volta<br>Ciclista a Catalunya,<br>Ronde Van Brugge - Tour<br>of Bruges, E3 Saxo<br>Classic, Dwars door<br>Vlaanderen - A travers la<br>Flandre, Itzulia Basque<br>Country, Eschborn-<br>Frankfurt, Copenhagen<br>Sprint, DSSK (Donostia<br>San Sebastian Klasikoa),<br>Tour de Pologne, Renewi<br>Tour, ADAC Cyclassics,<br>Bretagne Classic - CIC,<br>Tour of Guangxi,|
 |---|---|---|---|---|---|
@@ -3811,15 +3491,11 @@ ROAD RACES
 |**23**|50|50|30|20|16|
 |**24**|50|50|30|20|16|
 
-
-
 E060226 
 
 90 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |Position|Tour<br>de<br>France|Giro<br>d'Italia,<br>La<br>Vuelta<br>Ciclista<br>a<br>España|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>-Tour des<br>Flandres,<br>Paris-<br>Roubaix,<br>Liège-<br>Bastogne-<br>Liège, Il<br>Lombardia|Santos Tour<br>Down Under,<br>UAE Tour,<br>Strade<br>Bianche, Paris<br>- Nice, Tirreno -<br>Adriatico, In<br>Flanders Fields<br>- From<br>Middelkerke to<br>Wevelgem,<br>Amstel Gold<br>Race, La<br>Flèche<br>Wallonne, Tour<br>Auvergne -<br>Rhône-Alpes,<br>Tour de<br>Romandie,<br>Tour de Suisse,<br>Grand Prix<br>Cycliste de<br>Québec, Grand<br>Prix Cycliste de<br>Montréal|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Omloop Nieuwsblad, Volta<br>Ciclista a Catalunya,<br>Ronde Van Brugge - Tour<br>of Bruges, E3 Saxo<br>Classic, Dwars door<br>Vlaanderen - A travers la<br>Flandre, Itzulia Basque<br>Country, Eschborn-<br>Frankfurt, Copenhagen<br>Sprint, DSSK (Donostia<br>San Sebastian Klasikoa),<br>Tour de Pologne, Renewi<br>Tour, ADAC Cyclassics,<br>Bretagne Classic - CIC,<br>Tour of Guangxi,|
 |---|---|---|---|---|---|
@@ -3847,15 +3523,11 @@ ROAD RACES
 |**46**|25|20|15|10|8|
 |**47**|25|20|15|10|8|
 
-
-
 E060226 
 
 91 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |Position|Tour<br>de<br>France|Giro<br>d'Italia,<br>La<br>Vuelta<br>Ciclista<br>a<br>España|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>-Tour des<br>Flandres,<br>Paris-<br>Roubaix,<br>Liège-<br>Bastogne-<br>Liège, Il<br>Lombardia|Santos Tour<br>Down Under,<br>UAE Tour,<br>Strade<br>Bianche, Paris<br>- Nice, Tirreno -<br>Adriatico, In<br>Flanders Fields<br>- From<br>Middelkerke to<br>Wevelgem,<br>Amstel Gold<br>Race, La<br>Flèche<br>Wallonne, Tour<br>Auvergne -<br>Rhône-Alpes,<br>Tour de<br>Romandie,<br>Tour de Suisse,<br>Grand Prix<br>Cycliste de<br>Québec, Grand<br>Prix Cycliste de<br>Montréal|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Omloop Nieuwsblad, Volta<br>Ciclista a Catalunya,<br>Ronde Van Brugge - Tour<br>of Bruges, E3 Saxo<br>Classic, Dwars door<br>Vlaanderen - A travers la<br>Flandre, Itzulia Basque<br>Country, Eschborn-<br>Frankfurt, Copenhagen<br>Sprint, DSSK (Donostia<br>San Sebastian Klasikoa),<br>Tour de Pologne, Renewi<br>Tour, ADAC Cyclassics,<br>Bretagne Classic - CIC,<br>Tour of Guangxi,|
 |---|---|---|---|---|---|
@@ -3873,15 +3545,11 @@ ROAD RACES
 |**59**|15|10|5|3|2|
 |**60**|15|10|5|3|2|
 
-
-
 E060226 
 
 92 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Results in prologue and stages in UCI WorldTour events** 
 
@@ -3903,8 +3571,6 @@ ROAD RACES
 |**14**|10|5|||
 |**15**|5|2|||
 
-
-
 ## **Final position in Grand Tours secondary classifications (points and mountains classifications)** 
 
 |Position|Tour de<br>France|Giro<br>d'Italia,<br>La Vuelta<br>Ciclista a<br>España|
@@ -3913,23 +3579,17 @@ ROAD RACES
 |**2**|150|130|
 |**3**|110|95|
 
-
-
 E060226 
 
 93 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Wearing the race leader’s jersey in a UCI WorldTour event (per stage)** 
 
 |Position|<br>Tour de<br>France|Giro<br>d'Italia,<br>La Vuelta<br>Ciclista a<br>España|Santos Tour<br>Down Under,<br>UAE Tour, Paris -<br>Nice, Tirreno -<br>Adriatico, Tour de<br>Romandie, Tour<br>Auvergne -<br>Rhône-Alpes,<br>Tour de Suisse|<br> <br>Volta Ciclista a<br>Catalunya,<br>Itzulia Basque<br>Country, Tour de<br>Pologne,<br>Renewi Tour,<br>Tour of Guangxi|
 |---|---|---|---|---|
 |**1**|25|20|10|8|
-
-
 
 ## **Final results in continental calendar events** 
 
@@ -3968,15 +3628,11 @@ ROAD RACES
 |**31**|3||||
 |**32**|3||||
 
-
-
 E060226 
 
 94 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |Position|UCI ProSeries|Class 1|Class 2|1.2U et 2.2U|
 |---|---|---|---|---|
@@ -3989,8 +3645,6 @@ ROAD RACES
 |**39**|3||||
 |**40**|3||||
 
-
-
 ## **Prologue, stages and half-stages in continental calendar events** 
 
 |Positio<br>n|UCI ProSeri<br>es|Class 1|Class 2|2.2U|
@@ -4001,15 +3655,11 @@ ROAD RACES
 |**4**|5||||
 |**5**|3||||
 
-
-
 ## **Wearing the race leader’s jersey in a continental calendar event (per stage)** 
 
 |Positi<br>on<br>|UCI ProSer<br>ies|Class 1|Class 2|2.2U<br>1|
 |---|---|---|---|---|
 |**1**|5|3|1||
-
-
 
 ## **Final results of national championships** 
 
@@ -4032,8 +3682,6 @@ ROAD RACES
 |**14**|1||||||
 |**15**|1||||||
 
-
-
 _* Category A corresponds to the Men Elite national championships of nations that had at least one rider starting the road race of the Men Elite UCI Road world championships in the previous_ 
 
 E060226 
@@ -4041,8 +3689,6 @@ E060226
 95 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _season. Category B corresponds to the Men Elite national championships of all nations not included in Category A._ 
 
@@ -4094,23 +3740,17 @@ When two or three nations are organising joint National Championships, results w
 |**37**|1||||
 |**38**|1||||
 
-
-
 E060226 
 
 96 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |Position|<br>Men|Elite|Men Under 23|Men Under 23|
 |---|---|---|---|---|
 ||Road Race|Ind. Time Trial|Road Race|Ind. Time Trial|
 |**39**|1||||
 |**40**|1||||
-
-
 
 _* The UCI Management Committee will annually determine which continental games will receive points._ 
 
@@ -4131,8 +3771,6 @@ Where elite and Under 23 men compete in their continental championships in the s
 |_9_|5|
 |_10_|3|
 
-
-
 If a continental confederation organises a separate team time trial event for the Men Under 23 category, no UCI points shall be awarded for that event. 
 
 ## **Final results of team time trial mixed relay of the Continental Championships** 
@@ -4150,8 +3788,6 @@ If a continental confederation organises a separate team time trial event for th
 |_9_|5|
 |_10_|3|
 
-
-
 Points shall be split between finishing male riders based on final mixed relay classification. Calculations shall be rounded to a hundredth of a point. 
 
 If a continental confederation organises a separate team time trial event for the Men Under 23 category, no UCI points shall be awarded for that event. 
@@ -4163,15 +3799,11 @@ If a continental confederation organises a separate team time trial event for th
 |Position|Elite Road Race|Elite Time Trial|U23 Road Race|U23 Time Trial|
 |**1**|900|455|200|125|
 
-
-
 E060226 
 
 97 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Olympic Games and World|Olympic Games and World|World Championships|World Championships|
 |---|---|---|---|---|
@@ -4226,15 +3858,11 @@ ROAD RACES
 |**49**|15||||
 |**50**|15||||
 
-
-
 E060226 
 
 98 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Olympic Games and World|Olympic Games and World|World Championships|World Championships|
 |---|---|---|---|---|
@@ -4249,8 +3877,6 @@ ROAD RACES
 |**58**|5||||
 |**59**|5||||
 |**60**|5||||
-
-
 
 ## **Final results in the team time trial mixed relay of the UCI Road World Championships** 
 
@@ -4282,8 +3908,6 @@ ROAD RACES
 |**_24_**|_5_|
 |**_25_**|_5_|
 
-
-
 Points shall be split between finishing male riders based on final mixed relay classification. Calculations shall be rounded to a hundredth of a point. 
 
 _(article introduced on 01.01.16; modified on 01.01.17; 25.10.17; 22.10.18; 01.01.19; 23.10.19; 01.01.23; 17.06.24; 20.10.25; 01.11.25)._ 
@@ -4297,8 +3921,6 @@ E060226
 99 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.10.009** The UCI publishes the world rankings on account of results in women elite and women Under 23 events registered on the international calendar. 
 
@@ -4352,8 +3974,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In the event of a new tie, the highest-placed rider in the most recent race counting towards the ranking shall take precedence, whichever his placing. 
 
 Concerning stage races, only the final individual general classification on time shall be taken into account for the application of this article. 
@@ -4394,8 +4014,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Ties between nations shall be resolved by counting up the greatest number of 1[st] places, 2[nd] places etc. on the (final general) classification (on time) of the races run in the course of the last year obtained by their best 5 riders on the UCI World individual ranking. 
 
 _(text modified on 25.10.17)._ 
@@ -4426,11 +4044,9 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Final results in UCI Women’s WorldTour events** 
 
-|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio , In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
+|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio, In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
 |---|---|---|---|---|---|
 |**1**|1300|1100|800|500|400|
 |**2**|1040|885|640|400|320|
@@ -4451,17 +4067,13 @@ ROAD RACES
 |**17**|85|70|50|30|24|
 |**18**|80|60|50|30|24|
 
-
-
 E060226 
 
 103 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio , In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
+|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio, In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
 |---|---|---|---|---|---|
 |**19**|70|55|50|30|24|
 |**20**|60|50|50|30|24|
@@ -4484,17 +4096,13 @@ ROAD RACES
 |**37 **|35|25|15|10|8|
 |**38**|35|25|15|10|8|
 
-
-
 E060226 
 
 104 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio , In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
+|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio, In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
 |---|---|---|---|---|---|
 |**39**|35|25|15|10|8|
 |**40**|35|25|15|10|8|
@@ -4517,22 +4125,16 @@ ROAD RACES
 |**57 **|15|10|5|3|2|
 |**58**|15|10|5|3|2|
 
-
-
 E060226 
 
 105 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio , In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|<br>Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
+|Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro<br>d‘Italia<br>Women,<br>Vuelta<br>España<br>Femeni<br>na by<br>Carrefo<br>ur.es|Milano-<br>Sanremo,<br>Ronde van<br>Vlaanderen<br>, Paris-<br>Roubaix<br>Femmes<br>Hauts-de-<br>France,<br>Liège-<br>Bastogne-<br>Liège<br>Femmes|Santos Tour<br>Down<br>Under, UAE<br>Tour<br>Women,<br>Strade<br>Bianche<br>Donne,<br>Trofeo<br>Alfredo<br>Binda -<br>Comune di<br>Cittiglio, In<br>Flanders<br>Fields - In<br>Wevelgem,<br>Amstel Gold<br>Race Ladies<br>Edition, La<br>Fleche<br>Wallonne<br>Feminine,<br>Tour de<br>Suisse<br>Women,<br>Tour de<br>Romandie<br>Féminin|<br>Mapei Cadel Evans Great<br>Ocean Road Race,<br>Oomlop Nieuwsblad,<br>Ronde Van Brugge - Tour<br>of Bruges, Dwars door<br>Vlaanderen / A travers la<br>Flandre, Itzulia Women,<br>Vuelta a Burgos Feminas,<br>Lloyds Tour of Britain<br>Women, Copenhagen<br>Sprint, Classic Lorient<br>Agglomération, Tour of<br>Chongming Island, Tour<br>of Guangxi Women's<br>WorldTour|
 |---|---|---|---|---|---|
 |**59**|15|10|5|3|2|
 |**60**|15|10|5|3|2|
-
-
 
 ## **Results in prologue and stages in UCI Women’s WorldTour events** 
 
@@ -4542,15 +4144,11 @@ ROAD RACES
 |**2**|150|130|40|30|
 |**3**|110|95|30|25|
 
-
-
 E060226 
 
 106 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |**4**|90|80|25|20|
 |---|---|---|---|---|
@@ -4566,8 +4164,6 @@ ROAD RACES
 |**14**|10|5|||
 |**15**|5|2|||
 
-
-
 ## **Final position in Grand Tours secondary classifications (points and mountains classifications)** 
 
 |Position|Tour de<br>France<br>Femmes<br>avec Zwift|Giro d'Italia<br>Women,<br>Vuelta<br>España<br>Femenina<br>by<br>Carrefour.es|
@@ -4576,15 +4172,11 @@ ROAD RACES
 |**2**|150|130|
 |**3**|110|95|
 
-
-
 ## **Wearing the race leader’s jersey in a UCI Women’s WorldTour event (per stage)** 
 
 |Position|<br>Tour de<br>France<br>Femmes<br>avec Zwift|Giro d'Italia<br>Women,<br>Vuelta<br>España<br>Femenina<br>by<br>Carrefour.es|<br>Santos Tour<br>Down Under,<br>UAE Tour<br>Women, Tour de<br>Romandie<br>Féminin, Tour<br>de Suisse<br>Women|Itzulia Women,<br>Vuelta a<br>Burgos<br>Feminas,<br>Lloyds Tour of<br>Britain, Tour of<br>Chongming<br>Island|
 |---|---|---|---|---|
 |**1**|25|20|10|8|
-
-
 
 ## **Final results in Continental Calendar Events** 
 
@@ -4595,15 +4187,11 @@ ROAD RACES
 |**3**|140|70|25|
 |**4**|120|60|20|
 
-
-
 E060226 
 
 107 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |Position|UCI ProSeries|Class 1|Class 2|
 |---|---|---|---|
@@ -4644,8 +4232,6 @@ ROAD RACES
 |**39**|3|||
 |**40**|3|||
 
-
-
 ## **Prologue, stages and half-stages in continental calendar events** 
 
 |Position|UCI ProSeries|Class 1|Class 2|2.2U|
@@ -4656,23 +4242,17 @@ ROAD RACES
 |**4**|5||||
 |**5**|3||||
 
-
-
 E060226 
 
 108 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Wearing the race leader’s jersey in a continental calendar events (per stage)** 
 
 |Positi<br>on|UCI ProSer<br>ies|Class 1|Class 2|2.2U|
 |---|---|---|---|---|
 |**1**|5|3|1|1|
-
-
 
 ## **Final Results of National Championships** 
 
@@ -4695,8 +4275,6 @@ ROAD RACES
 |**14**|1||||||
 |**15**|1||||||
 
-
-
 _* Category A corresponds to the women elite national championships of nations that had at least one rider starting the road race of the women elite UCI Road World Championships in the previous season. Category B corresponds to the women elite national championships of all nations not included in Category A._ 
 
 Where Elite and Under 23 compete in their national championships in the same event, points shall be awarded according to their position in the event classification according to the Women Elite points scale. 
@@ -4708,8 +4286,6 @@ E060226
 109 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Final results in Continental championships and continental games*** 
 
@@ -4757,8 +4333,6 @@ ROAD RACES
 |**39**|1||||
 |**40**|1||||
 
-
-
 _* The UCI Management Committee will annually determine which Continental games will receive points._ 
 
 Where Elite and Under 23 compete in their continental championships or continental game in the same event, points shall be awarded according to the Women Elite points scale. 
@@ -4768,8 +4342,6 @@ E060226
 110 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## _**Final Results in the Olympic games and World Championships**_ 
 
@@ -4825,15 +4397,11 @@ ROAD RACES
 |**47**|15||||
 |**48**|15||||
 
-
-
 E060226 
 
 111 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||_Olympic Games and World_|_Olympic Games and World_|_World Championships_|_World Championships_|
 |---|---|---|---|---|
@@ -4851,8 +4419,6 @@ ROAD RACES
 |**59**|5||||
 |**60**|5||||
 
-
-
 ## **Final results of team time trials continental championships** 
 
 |_Position _|_Women Elite_|
@@ -4867,8 +4433,6 @@ ROAD RACES
 |**8**|10|
 |**9**|5|
 |**10**|3|
-
-
 
 If a continental confederation organises a separate team time trial event for the Under 23 category, no UCI points shall be awarded for that event. 
 
@@ -4887,8 +4451,6 @@ If a continental confederation organises a separate team time trial event for th
 |**9**|5|
 |**10**|3|
 
-
-
 The points shall be split between finishing female riders based on final mixed relay classification. Calculations shall be rounded to a hundredth of a point. 
 
 If a continental confederation organises a separate team time trial event for the Under 23 category, no UCI points shall be awarded for that event. 
@@ -4898,8 +4460,6 @@ E060226
 112 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## _**Final results of team time trial mixed relay world championships**_ 
 
@@ -4926,8 +4486,6 @@ E060226
 113 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Updates** 
 
@@ -4960,8 +4518,6 @@ E060226
 114 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.10.020** [article abrogated on 01.01.16]. 
 
@@ -5009,8 +4565,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Special provision concerning trainees and development teams** 
 
 During his training period, regarding rankings, a trainee is still considered as a member of his usual team. Points potentially obtained by the trainee during the training period, shall in no instance be added to the points of the host team. 
@@ -5052,8 +4606,6 @@ E060226
 116 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.10.029** [article abrogated on 24.01.15]. 
 
@@ -5105,8 +4657,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 teams – 3 years” over the course of the period of the ranking. If there is still a tie between teams, it will be resolved by the greatest number of 2[nd] places, then 3[rd] places, etc. 
 
 (article modified on 01.01.23). 
@@ -5132,8 +4682,6 @@ E060226
 118 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XI  PROFESSIONAL CYCLING COUNCIL** 
 
@@ -5170,8 +4718,6 @@ E060226
 119 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.11.006** The president of the Professional Cycling Council shall be appointed by the UCI Management Committee among the members it names following consultation with the other Professional Cycling Council members. 
 
@@ -5215,8 +4761,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 With regard to the tasks set out in points 2. and 3. above, the decisions of the Professional Cycling Council take effect upon their approval by the UCI Management Committee. 
 
 In case of rejection by the UCI Management Committee, the matter is referred back to the Professional Cycling Council accompanied by reasoning. The Professional Cycling Council is then requested to undertake a new examination within the necessary timeframes. The latter may then amend its proposal to the UCI Management Committee or withdraw it. The UCI Management Committee then makes a second and final decision on the proposal of the Professional Cycling Council. 
@@ -5234,8 +4778,6 @@ E060226
 121 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XII RACE INCIDENTS AND SPECIFIC INFRINGEMENTS BY ORGANISERS** 
 
@@ -5277,8 +4819,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 fine of CHF 2'000 shall be imposed on the team or the Sport Director in charge of the team. 
 
 Yellow cards shall be noted in the communiqué of the commissaires’ panel. 
@@ -5313,8 +4853,6 @@ E060226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2.12.007 Table of race incidents relating to road events** 
 
 ||**Column 1**|**Column 1**||**Column 2**||**Column 3**|
@@ -5324,15 +4862,11 @@ ROAD RACES
 |1.1     Starting without signing on,<br>failing to respect the order<br>or timing of signing the<br>signing-on sheet or the<br>team presentation||Rider:CHF 500 fine and 15 points<br>from UCI rankings per rider<br>involved<br>Sport Director:CHF 500 fine<br>(regardless of the number of riders<br>involved)||Rider:CHF 200 fine and 5 points<br>from UCI rankings per rider<br>involved<br>Sport Director:CHF 200 fine<br>(regardless of the number of riders<br>involved)||Rider:CHF 50 fine and 2 points<br>from UCI rankings per rider<br>involved<br>Sport Director:CHF 50 fine<br>(regardless of the number of riders<br>involved)|
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider.|||||
 
-
-
 E050224 
 
 124 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |1.2 Absence of a rider at the start<br>after riders confirmation<br>without valid justification.||Rider:CHF 500 to CHF 1000 Fine||Rider:CHF 100 to  CHF 500 Fine||Rider:CHF 50 to CHF 200 Fine|
 |---|---|---|---|---|---|---|
@@ -5341,15 +4875,11 @@ ROAD RACES
 |1.5 Rider who has abandoned<br>been eliminated crossing<br>the finish line while displaying<br>a  body number or frame<br>number||Rider:CHF 500 to CHF 1000 Fine||Rider:CHF 100 to CHF 500 Fine||Rider:CHF 50 to CHF 200 Fine|
 |1.6 Recrossing the finish line in<br>the direction of the race while<br>still displaying body number<br>or frame number||Rider:CHF 200 Fine||Rider:CHF 100 Fine||Rider:CHF 50 Fine|
 
-
-
 E050224 
 
 125 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||||||
 |---|---|---|---|---|---|---|
@@ -5362,15 +4892,11 @@ ROAD RACES
 |2.5 Use of a technical innovation,<br>innovative clothing or<br>equipment not yet approved<br>by the UCI during an event||Rider:Start refused, elimination or<br>disqualification||Rider:Start refused, elimination or<br>disqualification||Rider:Start refused, elimination or<br>disqualification|
 |2.6 Evading, refusing or<br>obstructing an equipment<br>check||Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion||Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion||Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|
 
-
-
 E050224 
 
 126 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |2.7 Use of forbidden onboard<br>technology device||Rider: Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion||Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion||Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|
 |---|---|---|---|---|---|---|
@@ -5385,15 +4911,11 @@ ROAD RACES
 |3.5.1 Identification number<br>replicated on a medium<br>other than that provided by<br>the organiser||Rider:Start refused||Rider:Start refused||Rider:Start refused|
 |3.5.2 Identification number (body<br>number or frame number)||Rider:CHF 200 to CHF 1,000<br>fine*||Rider:CHF 100 to CHF 500 fine*||Rider: CHF 50 to CHF 200 fine*|
 
-
-
 E050224 
 
 127 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |missing, not visible,<br>modified, incorrectly<br>positioned or not<br>recognisable||Sport Director:CHF 100 to<br>CHF 500 fine* per rider involved||Sport Director:CHF 50 to<br>CHF 200 fine* per rider involved||Sport Director:CHF 50 fine per<br>rider involved|
 |---|---|---|---|---|---|---|
@@ -5403,15 +4925,11 @@ ROAD RACES
 |3.8 Non-compliant rain jacket<br>(different design to that of the<br>standard team jersey or non-<br>transparent material) or team<br>name does not appear on<br>rain jacket||Team:CHF 500 fine (regardless<br>of the number of riders involved)||Team:CHF 200 fine (regardless<br>of the number of riders involved)||Team:Warning|
 |3.9 Different clothing (jersey,<br>shorts, rain jacket) for the<br>different riders of a team||Rider:CHF 500 fine per rider<br>involved<br>Team:CHF 500 fine (regardless<br>of the number of riders involved)||Rider:CHF 200 fine per rider<br>involved<br>Team:CHF 200 fine (regardless<br>of the number of riders involved)||Rider:CHF 50 fine per rider<br>involved<br>Team:CHF 50 fine (regardless of<br>the number of riders involved)|
 
-
-
 E050224 
 
 128 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||||||
 |---|---|---|---|---|---|---|
@@ -5425,30 +4943,22 @@ ROAD RACES
 |One-day race||Rider:CHF 500 fine per rider<br>involved and per infringement<br>and/or yellow card||Rider:CHF 200 fine per rider<br>involved and per infringement<br>and/or yellow card||Rider:CHF 100 fine per rider<br>involved and per infringement|
 |||In addition to the above provisions, in the case of an infringement at the end of a race, the rider(s) involved<br>may be eliminated or disqualified by the Commissaires’ Panel.|||||
 
-
-
 E050224 
 
 129 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |Stage race||Rider:CHF 500 fine, 10 seconds<br>and 20%** penalty in points<br>and/or mountains classifications<br>per rider involved and per<br>infringement and/or yellow card.||Rider:CHF 200 fine, 10 seconds<br>and 20%** penalty in points<br>and/or mountains classifications<br>per rider involved and per<br>infringement and/or yellow card.||Rider:CHF 100 fine, 10 seconds<br>and 20%** penalty in points<br>and/or mountains classifications<br>per rider involved and per<br>infringement|
 |---|---|---|---|---|---|---|
 |||In addition to the above provisions, in the case of an infringement in the last kilometre of the stage, the<br>rider(s) will be sanctioned by an additional 20-second penalty and a further 80%** penalty in the points<br>and/or mountains classifications and relegated to last place in their group.|||||
 |4.2.2 Between riders from<br>different teams||Rider:CHF 500 fine per rider<br>involved and elimination or<br>disqualification of the riders<br>involved and/or yellow card||Rider:CHF 200 fine per rider<br>involved and elimination or<br>disqualification of the riders<br>involved and/or yellow card||Rider:CHF 100 fine per rider<br>involved and elimination or<br>disqualification of the riders<br>involved|
-
-
 
 E050224 
 
 130 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||||||
 |---|---|---|---|---|---|---|
@@ -5460,15 +4970,11 @@ ROAD RACES
 |4.4 Prohibited assistance between riders during a circuit race or a circuit|||finish (riders not at the same distance in the race)||||
 |One-day race||Rider:CHF 500 fine per rider<br>involved and elimination or<br>disqualification of the riders<br>involved||Rider:CHF 200 fine per rider<br>involved and elimination or<br>disqualification~~per~~of the riders<br>involved||Rider:CHF 100 fine per rider<br>involved and elimination or<br>disqualification~~per~~of the riders<br>involved|
 
-
-
 E050224 
 
 131 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |Stage race||Rider:CHF 500 fine per rider<br>involved and relegation of the<br>riders involved to last place on the<br>stage||Rider:CHF 200 fine per rider<br>involved and relegation of the<br>riders involved to last place on~~in~~<br>the stage||Rider:CHF 100 fine per rider<br>involved and relegation of the<br>riders involved to last place on~~in~~<br>the stage|
 |---|---|---|---|---|---|---|
@@ -5476,15 +4982,11 @@ ROAD RACES
 |4.5 Rider not completing the race<br>entirely through his or her own<br>effort and without the<br>assistance of any other person||Rider:CHF 500 fine, 100 points<br>from UCI rankings and elimination<br>or disqualification||Rider:CHF 200 fine, 50 points<br>from UCI rankings and elimination<br>or disqualification||Rider:CHF 100 fine, 20 points<br>from UCI rankings and elimination<br>or disqualification|
 |4.6 Rider holding on to own team<br>vehicle, or vehicle of another<br>team or other motor vehicle, or<br>being pushed/towed/held by a<br>vehicle passenger, or a<br>mechanical intervention on the<br>rider’s bike from a moving<br>vehicle||Rider:CHF 500 fine, 100 points<br>from UCI rankings and elimination<br>or disqualification and/or yellow<br>card<br>Driver:CHF 500 fine and<br>exclusion and/or yellow card<br>Sport Director responsible for the<br>vehicle:CHF 500 fine and<br>exclusion and/or yellow card<br>Other licence holder involved:<br>CHF 500 fine and exclusion<br>and/or yellow card||Rider:CHF 200 fine, 50 points<br>from UCI rankings and elimination<br>or disqualification and/or yellow<br>card<br>Driver:CHF 200 fine and<br>exclusion and/or yellow card<br>Sport Director responsible for the<br>vehicle:CHF 200 fine and<br>exclusion and/or yellow card<br>Other licence holder involved:<br>CHF 200 fine and exclusion<br>and/or yellow card||Rider:CHF 100 fine, 25 points<br>from UCI rankings and elimination<br>or disqualification<br>Driver:CHF 100 fine and<br>exclusion<br>Sport Director responsible for the<br>vehicle:CHF 100 fine and<br>exclusion<br>Other licence holder involved:<br>CHF 100 fine and exclusion<br>Other person involved:Exclusion|
 
-
-
 E050224 
 
 132 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||Other person involved:Exclusion<br>and/or yellow card<br>Vehicle:exclusion of the vehicle<br>until the end of the event without<br>the possibility of replacement||Other person involved:Exclusion<br>and/or yellow card<br>Vehicle:exclusion of the vehicle<br>until the end of the event without<br>the possibility of replacement||Vehicle:exclusion of the vehicle<br>until the end of the event without<br>the possibility of replacement|
 |---|---|---|---|---|---|---|
@@ -5493,15 +4995,11 @@ ROAD RACES
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances, the Commissaires’ Panel may eliminate or disqualify a rider and/or exclude a licence holder.<br>The commissaires' panel also reserves the right to downgrade the position of the team vehicle in the line-up<br>of team vehicles.|||||
 |Stage race||Rider:CHF 200 fine, 20%**<br>penalty in the points and<br>mountains classifications and/or<br>20 second to 5 minute penalty per||Rider:CHF 100 fine, 20%**<br>penalty in the points and<br>mountains classifications and/or<br>20 second to 5 minute penalty per||Rider:CHF 50 fine, 20%** penalty<br>in the points and mountains<br>classifications and/or 20 second to|
 
-
-
 E050224 
 
 133 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||infringement and 15 points from<br>UCI rankings and/or yellow card<br>Driver:CHF 500 fine and/or yellow<br>card<br>Sport Director responsible for the<br>vehicle:CHF 500 fine and/or<br>yellow card||infringement and 5 points from<br>UCI rankings and/or yellow card<br>Driver:CHF 200 fine and/or yellow<br>card<br>Sport Director responsible for the<br>vehicle:CHF 200 fine and/or<br>yellow card||5 minute penalty per infringement<br>and 2 points from UCI rankings<br>Driver:CHF 100 fine<br>Sport Director responsible for the<br>vehicle:CHF 100 fine|
 |---|---|---|---|---|---|---|
@@ -5509,15 +5007,11 @@ ROAD RACES
 |4.8 Changing a bike other than<br>from team vehicles in the<br>convoy, neutral service or the<br>broom wagon or outside<br>authorised zones||Rider:CHF 500 fine and<br>elimination or disqualification<br>Sport Director responsible for the<br>vehicle:CHF 500 fine||Rider:CHF 200 fine and<br>elimination or disqualification<br>Sport Director responsible for the<br>vehicle:CHF 500 fine||Rider:CHF 100 fine and<br>elimination or disqualification<br>Sport Director responsible for the<br>vehicle:CHF 500 fine|
 |4.9 Follower leaning out of a<br>vehicle or holding equipment<br>outside a vehicle<br>Irregular assistance of a rider<br>within the same team||Driver:500 to CHF 1,000 fine<br>and/or yellow card *<br>Sport Director responsible for the<br>vehicle:CHF 1,000 to CHF 2,000<br>fine and/or yellow card *<br>Other licence holder involved:<br>CHF 500 to CHF 1,000 fine and/or<br>yellow card*||Driver:200 to CHF 500 fine and/or<br>yellow card *<br>Sport Director responsible for the<br>vehicle: CHF 500 to CHF 1,000<br>fine and/or yellow card *<br>Other licence holder involved:<br>CHF 200 to CHF 500 fine and/or<br>yellow card*||Driver:CHF 100 fine<br>Sport Director responsible for the<br>vehicle:<br>CHF 200 to CHF 500 fine *<br>Other licence holder involved:<br>CHF 50 to CHF 200 fine*|
 
-
-
 E050224 
 
 134 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||||||
 |---|---|---|---|---|---|---|
@@ -5528,15 +5022,11 @@ ROAD RACES
 |4.10.3 Stage race, in the first 30<br>km of the stage|<br> <br> <br>|Rider:CHF 200 fine and/or yellow<br>card<br>Other licence holder:CHF 500<br>fine and/or yellow card|<br> <br> <br>|Rider:CHF 100 fine and/or yellow<br>card<br>Other licence holder:CHF 200<br>fine and/or yellow card||Rider:CHF 50 fine<br>Other licence holder:CHF 100<br>fine|
 |4.10.4 Stage race, in the last 20<br>km of the stage||Rider:CHF 500 fine and 20<br>second penalty per infringement<br>and 20% penalty in the points<br>and/or mountains classifications<br>and/oryellowcard||Rider:CHF 200 fine and 20<br>second penalty per infringement<br>and 20% penalty in the points<br>and/or mountains classifications<br>and/oryellowcard||Rider:CHF 50 fine and 20 second<br>penalty per infringement and 20%<br>penalty in the points and/or<br>mountains classifications|
 
-
-
 E050224 
 
 135 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||Other licence holder:CHF 1,000<br>fine and/or yellow card||Other licence holder:CHF 500<br>fine and/or yellow card||Other licence holder:CHF 150<br>fine|Other licence holder:CHF 150<br>fine|
 |---|---|---|---|---|---|---|---|
@@ -5545,15 +5035,11 @@ ROAD RACES
 |4.11 Irregular feeding (“sticky<br>bottle” for a short distance~~)~~|<br> <br> <br> <br>|Rider:CHF 200 fine per<br>infringement and/or yellow card<br>Other licence holder:CHF 500<br>fine per infringement and/or yellow<br>card|<br> <br> <br> <br>|Rider:CHF 100 fine per<br>infringement and/or yellow card<br>Other licence holder:CHF 200<br>fine per infringement and/or yellow<br>card||Rider:CHF 50 fine per<br>infringement<br>Other licence holder: CHF 100<br>fine per infringement||
 |4.12 Non-compliance with article<br>2.3.025 by a team assistant during<br>feeding (e.g. inappropriate<br>clothing or positioning, exceeding<br>the maximum number of staff, or<br>any other inappropriate<br>behaviour)|<br> <br> <br> <br>|Sport Director responsible for the<br>team: CHF 200 fine<br>Other licence holder:CHF 200<br>fine per infringement and/or yellow<br>card|<br> <br> <br> <br>|Sport Director responsible for the<br>team: CHF 100 fine<br>Other licence holder:CHF 100<br>fine per infringement and/or yellow<br>card||Sport Director responsible for the<br>team:CHF 50 fine<br>Other licence holder:CHF 50 fine<br>per infringement||
 
-
-
 E050224 
 
 136 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||||||
 |---|---|---|---|---|---|---|
@@ -5567,15 +5053,11 @@ ROAD RACES
 |One-day race||Rider:CHF 500 fine and<br>relegation to last place in the<br>rider’s group and/or yellow card||Rider:CHF 200 fine and<br>relegation to last place in the<br>rider’s group and/or yellow card||Rider:CHF 100 fine and<br>relegation to last place in the<br>rider’s group|
 |Stage race||Rider:CHF 500 fine, 25%**<br>penalty in the points classification||Rider:CHF 200 fine, 25%**<br>penalty in the points classification||Rider:CHF 100 fine, 25%**<br>penalty in the points classification|
 
-
-
 E050224 
 
 137 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||and/or mountains classification(1)<br>and relegation to last place in the<br>rider’s group and/or yellow card|and/or mountains classification(1)<br>and relegation to last place in the<br>rider’s group and/or yellow card|and/or mountains classification(1)<br>and relegation to last place in the<br>rider’s group and/or yellow card|and/or mountains classification(1)<br>and relegation to last place in the<br>rider’s group and/or yellow card||and/or mountains classification(1)<br>and relegation to last place in the<br>rider’s group|
 |---|---|---|---|---|---|---|
@@ -5586,30 +5068,22 @@ ROAD RACES
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or disqualify<br>a rider and/or exclude a licence holder.|||||
 |6.2 Spraying a rider with liquid<br>from a vehicle||Driver:CHF 200 fine per<br>infringement||Driver:CHF 100 fine per<br>infringement||Driver:CHF 50 fine per<br>infringement|
 
-
-
 E050224 
 
 138 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |||Sport Director responsible for the<br>vehicle:CHF 200 fine per<br>infringement||Sport Director responsible for the<br>vehicle:CHF 100 fine per<br>infringement||Sport Director responsible for the<br>vehicle:CHF 50 fine per<br>infringement|
 |---|---|---|---|---|---|---|
 |6.3 Breach of regulations or<br>guidelines concerning vehicle<br>movements during the race or<br>failure to comply with the<br>instructions of commissaires<br>and/or the organisation||Driver:CHF 500 to CHF 2,000 fine<br>and/or yellow card *<br>Sport Director or person<br>responsible for the vehicle:<br>CHF  500 to CHF  2,000 fine *<br>and/or Relegation in the convoy of<br>sport directors, exclusion for one<br>or more stages or definitive<br>exclusion and/or yellow card<br>Other vehicle:exclusion for one or<br>more stages or definitive exclusion<br>and/or yellow card||Driver:CHF  200 to CHF 1,000<br>fine and/or yellow card *<br>Sport Director or person<br>responsible for the vehicle:<br>CHF  200 to CHF 1,000 fine *<br>and/or Relegation in the convoy of<br>sport directors, exclusion for one<br>or more stages or definitive<br>exclusion and/or yellow card<br>Other vehicle:exclusion for one or<br>more stages or definitive exclusion<br>and/or yellow card||Driver:CHF 100 to CHF 500 fine<br>Sport Director or person<br>responsible for the vehicle:<br>CHF 100 to CHF 500 fine and/or<br>Relegation in the convoy of sport<br>directors, exclusion for one or<br>more stages or definitive exclusion<br>Other vehicle:exclusion for one or<br>more stages or definitive exclusion|
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may exclude a licence<br>holder.|||||
-
-
 
 E050224 
 
 139 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |6.4 Interviewing a rider during the<br>race||Media driver:CHF 500 fine and<br>exclusion and/or yellow card<br>Journalist:Exclusion and/or yellow<br>card<br>Media vehicle:Exclusion||Media driver:CHF 200 fine and<br>exclusion and/or yellow card<br>Journalist:Exclusion and/or yellow<br>card<br>Media vehicle:Exclusion||Media driver:CHF 100 fine and<br>exclusion<br>Journalist:Exclusion<br>Media vehicle:Exclusion|
 |---|---|---|---|---|---|---|
@@ -5618,15 +5092,11 @@ ROAD RACES
 |7.1 Deviation from the race route<br>constituting an advantage,<br>attempting to be placed without<br>having covered the entire race<br>route||Rider:CHF 500 fine, 100 points<br>from UCI rankings and elimination<br>or disqualification and/or yellow<br>card||Rider:CHF 200 fine, 50 points<br>from UCI rankings and elimination<br>or disqualification and/or yellow<br>card||Rider:CHF 100 fine, 20 points<br>from UCI rankings and elimination<br>or disqualification|
 |7.2 Resuming the race after<br>having been transported by car or<br>motorbike||Rider:CHF 500 fine, 100 points<br>from UCI rankings and elimination<br>or disqualification<br>Driver:CHF  500 to CHF  2,000<br>fine*||Rider:CHF 200 fine, 50 points<br>from UCI rankings and elimination<br>or disqualification<br>Driver:CHF  200 to CHF 1,000<br>fine*||Rider:CHF 100 fine, 20 points<br>from UCI rankings and elimination<br>or disqualification<br>Driver:CHF 100 to CHF 500  fine|
 
-
-
 E050224 
 
 140 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||Sport Director responsible for the<br>vehicle:CHF  500 to 2,000 fine*<br>Team vehicle:<br>One-day race: Exclusion<br>Stage race: Definitive exclusion<br>Other vehicle:<br>One-day race: Exclusion<br>Stage race: Definitive exclusion||Sport Director responsible for the<br>vehicle:CHF  200 to CHF 1,000<br>fine*<br>Team vehicle:<br>One-day race: Exclusion<br>Stage race: Definitive exclusion<br>Other vehicle:<br>One-day race: Exclusion<br>Stage race: Definitive exclusion||Sport Director responsible for the<br>vehicle:CHF 100 fine to CHF 500<br>fine<br>Team vehicle:<br>One-day race: Exclusion<br>Stage race: Definitive exclusion<br>Other vehicle:<br>One-day race: Exclusion<br>Stage race: Definitive exclusion|
 |---|---|---|---|---|---|---|
@@ -5635,15 +5105,11 @@ ROAD RACES
 |7.5 Rider undertaking part of the<br>race route on foot, or crossing the<br>finish line on foot, without his or<br>her bicycle||Rider:CHF 500 fine and<br>elimination and/or disqualification||Rider:CHF 200 fine and<br>eliminations and/or disqualification||Rider:CHF 100 fine and/or<br>elimination or disqualification|
 |7.6 Use of sidewalks/pavements,<br>paths or cycle lanes that do not<br>form part of the race route||Rider:CHF  200 to CHF 1,000*<br>fine and 25 points from UCI<br>rankings and/or yellow card<br>Furthermore, for stage races, a 20<br>second penalty and 80%** penalty<br>in the points and mountains<br>classifications||Rider:CHF  200 to CHF  500* fine<br>and 15 points from UCI rankings<br>and/or yellow card<br>Furthermore, for stage races, a 20<br>second penalty and 80%** penalty<br>in the points and mountains<br>classifications||Rider:CHF  50 to CHF 100 and 5<br>points from UCI rankings<br>Furthermore, for stage races, a 20<br>second penalty and 80%** penalty<br>in the points and mountains<br>classifications|
 
-
-
 E050224 
 
 141 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||In addition to the above provisions, the commissaires' panel may, in serious cases of advantage,<br>endangerment, repeated infringements or aggravating circumstances, impose a time and/or points penalty<br>for stage races (20 seconds and/or 80%** penalty in the points classification and/or mountain classification),<br>downgrade a rider to last place in the stage, disqualify him or take him out of the race.<br>Note: The financial penalty is applied to the team if the licence holder cannot be specifically identified. UCI<br>points penalty only applicable to riders.|In addition to the above provisions, the commissaires' panel may, in serious cases of advantage,<br>endangerment, repeated infringements or aggravating circumstances, impose a time and/or points penalty<br>for stage races (20 seconds and/or 80%** penalty in the points classification and/or mountain classification),<br>downgrade a rider to last place in the stage, disqualify him or take him out of the race.<br>Note: The financial penalty is applied to the team if the licence holder cannot be specifically identified. UCI<br>points penalty only applicable to riders.|In addition to the above provisions, the commissaires' panel may, in serious cases of advantage,<br>endangerment, repeated infringements or aggravating circumstances, impose a time and/or points penalty<br>for stage races (20 seconds and/or 80%** penalty in the points classification and/or mountain classification),<br>downgrade a rider to last place in the stage, disqualify him or take him out of the race.<br>Note: The financial penalty is applied to the team if the licence holder cannot be specifically identified. UCI<br>points penalty only applicable to riders.|In addition to the above provisions, the commissaires' panel may, in serious cases of advantage,<br>endangerment, repeated infringements or aggravating circumstances, impose a time and/or points penalty<br>for stage races (20 seconds and/or 80%** penalty in the points classification and/or mountain classification),<br>downgrade a rider to last place in the stage, disqualify him or take him out of the race.<br>Note: The financial penalty is applied to the team if the licence holder cannot be specifically identified. UCI<br>points penalty only applicable to riders.|In addition to the above provisions, the commissaires' panel may, in serious cases of advantage,<br>endangerment, repeated infringements or aggravating circumstances, impose a time and/or points penalty<br>for stage races (20 seconds and/or 80%** penalty in the points classification and/or mountain classification),<br>downgrade a rider to last place in the stage, disqualify him or take him out of the race.<br>Note: The financial penalty is applied to the team if the licence holder cannot be specifically identified. UCI<br>points penalty only applicable to riders.|
 |---|---|---|---|---|---|---|
@@ -5652,15 +5118,11 @@ ROAD RACES
 |One-day race||Rider:CHF 500 fine and<br>elimination or disqualification of<br>each rider involved<br>Other licence holder:CHF 500<br>fine and exclusion||Rider:CHF 200 fine and<br>elimination or disqualification of<br>each rider involved<br>Other licence holder:CHF 200<br>fine and exclusion||Rider:CHF 100 fine and<br>elimination or disqualification of<br>each rider involved<br>Other licence holder:CHF 100<br>fine and exclusion|
 |Stage race||Rider:CHF 500 fine and 100%**<br>in the points and mountains<br>classifications and/or 10 minute<br>penalty per rider involved<br>Other licence holder:CHF 500<br>fine||Rider:CHF 200 fine and 100%**<br>in the points and mountains<br>classifications and/or 10 minute<br>penalty per rider involved<br>Other licence holder:CHF 200<br>fine||Rider:CHF 100 fine and 100%**<br>in the points and mountains<br>classifications and/or 10 minute<br>penalty per rider involved<br>Other licence holder:CHF 100<br>fine|
 
-
-
 E050224 
 
 142 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and/or exclude a licence holder.|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and/or exclude a licence holder.|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and/or exclude a licence holder.|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and/or exclude a licence holder.|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and/or exclude a licence holder.|
 |---|---|---|---|---|---|---|
@@ -5670,15 +5132,11 @@ ROAD RACES
 |8.2 Assault, intimidation, insults, threats, improper conduct (including pulling the jersey or saddle of another rider, blow with the helmet, knee,<br>elbow, shoulder, foot or hand, etc.), or behaviour that is indecent or that endangers others|||||||
 |8.2.1 Between riders or directed at<br>a rider||Riders:CHF  200 to CHF  2,000*<br>fine per infringement and 10 to<br>100 points* from UCI rankings<br>and/or yellow card<br>Other licence holder:CHF  2,000<br>to CHF  5,000* fine and/or yellow<br>card||Riders:CHF  100 to CHF  1,000*<br>fine per infringement and 10 to 50<br>points* from UCI rankings and/or<br>yellow card<br>Other licence holder:CHF  1,000<br>to CHF  2,000* fine and/or yellow<br>card||Riders:CHF  50 to CHF  500* fine<br>per infringement and 10 to 25<br>points* from UCI rankings<br>Other licence holder:CHF 500<br>fine|
 
-
-
 E050224 
 
 143 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and exclude a licence holder|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and exclude a licence holder|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and exclude a licence holder|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and exclude a licence holder|In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the Commissaires’ Panel may eliminate or<br>disqualify a rider and exclude a licence holder|
 |---|---|---|---|---|---|---|
@@ -5687,15 +5145,11 @@ ROAD RACES
 |8.3 Rider or team staff disposing of waste or other objects outside of litter zones, or not returned to team or organisation staff, not collected by<br>team staff, thrown at a spectator. Disposing of waste or other objects in a careless or dangerous manner (e.g. bottle or other object remaining or<br>bouncing back on the road, thrown directly or with excessive force at spectator, causing dangerous manoeuvre by other rider or vehicle, causing<br>spectator to move onto the road).|||||||
 |One-day race||Rider or any other licence holder:<br>1stinfringement: CHF 500 fine and<br>25 points from UCI rankings<br>and/or yellow card.<br>2ndinfringement: CHF 1000 fine,<br>50 points from UCI rankings and<br>elimination or disqualification<br>and/or yellow card||Rider or any other licence holder:<br>1stinfringement: CHF 250 fine and<br>15 points from UCI rankings<br>and/or yellow card.<br>2ndinfringement: CHF 500 fine, 30<br>points from UCI rankings and<br>elimination or disqualification<br>and/or yellow card||Rider or any other licence holder:<br>1stinfringement: CHF 100 fine and<br>5 points from UCI rankings<br>2ndinfringement: CHF 200 fine, 10<br>points from UCI rankings and<br>elimination or disqualification|
 
-
-
 E050224 
 
 144 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ||||||||
 |---|---|---|---|---|---|---|
@@ -5705,15 +5159,11 @@ ROAD RACES
 |8.4 [article abrogated].|||||||
 |8.5 Carrying, using or discarding a<br>glass object||All licence holders:CHF 500 fine<br>and exclusion||All licence holders:CHF 100 fine<br>and  exclusion||All licence holders:50 and<br>exclusion|
 
-
-
 E050224 
 
 145 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |8.6 Unseemly or inappropriate<br>behaviour (in particular<br>undressing or urinating in public at<br>the start or finish or during the<br>race) and damage to the image of<br>sport||Rider or any other licence holder:<br>CHF 200 to CHF 500 fine*||Rider or any other licence holder:<br>CHF  100 to CHF 200 fine*||Rider or any other licence holder:<br>CHF 50 to CHF 100 fine|
 |---|---|---|---|---|---|---|
@@ -5725,15 +5175,11 @@ ROAD RACES
 |9.3 Rider or team failing to respect<br>regulation distances and gaps<br>during a time trial||Rider:CHF 200 fine per<br>infringement<br>Team:CHF 200 fine per<br>infringement||Rider:CHF 100 fine per<br>infringement<br>Team:CHF 200 fine per<br>infringement||Rider:CHF 50 fine per<br>infringement<br>Team:CHF 200 fine per<br>infringement|
 |9.3.1 Slipstreaming (individual<br>time trial)||Rider:CHF 200 fine per<br>infringement and time penalty in||Rider: CHF 100 fine per<br>infringement and time penalty in||Rider: CHF 50 fine per<br>infringement and time penalty~~as~~|
 
-
-
 E050224 
 
 146 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||accordance with the table in<br>article 2.12.007 quarter||accordance with the table in<br>article 2.12.007 quarter||in accordance with the table in<br>article 2.12.007|
 |---|---|---|---|---|---|---|
@@ -5742,25 +5188,19 @@ ROAD RACES
 |9.5 Assistance of any kind (nudging [poussette], guiding or pushing) among riders of the same team during a<br>imminent danger|||||team time trial, except in cases of||
 |One-day race||Rider:CHF 500 fine per rider<br>involved<br>Team:1 minute penalty||Rider:CHF 200 fine per rider<br>involved<br>Team:1 minute penalty||Rider:CHF 50 fine per rider<br>involved<br>Team:1 minute penalty|
 
-
-
 E050224 
 
 147 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |Stage race||Rider:CHF 500 fine per rider<br>involved and 1 minute penalty in<br>stage result for each rider of the<br>team||Rider:CHF 200 fine per rider<br>involved and 1 minute penalty in<br>stage result for each rider of the<br>team||Rider:50 per rider involved and<br>1 minute penalty in stage result for<br>each rider of the team|
 |---|---|---|---|---|---|---|
 |9.6 Following vehicle failing to respect a distance of 25m during a team time trial|||||||
 |One-day race||Team:20 second penalty<br>Sport Director:CHF 500 fine||Team:20 second penalty<br>Sport Director:CHF 200 fine||Team:20 second penalty<br>Sport Director:CHF 100 fine|
 |Stage race||Rider:20 second penalty for each<br>rider of the team in the stage<br>classification concerned<br>Sport Director:CHF 500 fine||Rider:20 second penalty for each<br>rider of the team in the stage<br>classification concerned<br>Sport Director:CHF 200 fine||Rider:20 second penalty for each<br>rider of the team in the stage<br>classification concerned<br>Sport Director:CHF 100 fine|
-|9.7 False start less than 3<br>seconds during a mixed relay<br>event or a time trial without the<br>timing device||Team :10-second penalty||Team :10-second penalty||Team :10-second penalty|
-|9.8 False start more than 3<br>seconds during a mixed relay<br>event or a time trial without the<br>timing device||Team :Elimination or<br>disqualification||Team :Elimination or<br>disqualification||Team :Elimination or<br>disqualification|
-
-
+|9.7 False start less than 3<br>seconds during a mixed relay<br>event or a time trial without the<br>timing device||Team:10-second penalty||Team:10-second penalty||Team:10-second penalty|
+|9.8 False start more than 3<br>seconds during a mixed relay<br>event or a time trial without the<br>timing device||Team:Elimination or<br>disqualification||Team:Elimination or<br>disqualification||Team:Elimination or<br>disqualification|
 
 - _When there is a scale of sanctions, the commissaire must take into account any mitigating or aggravating circumstances, including:_ - _The level of the team of the licence holder involved (club team, UCI WorldTeam, etc.);_ 
 
@@ -5778,8 +5218,6 @@ E050224
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - _Whether the infringement led to a dangerous situation for the licence holder or others;_ 
 
 - _Whether the infringement happened at a key moment of the race (final kilometres of the race, feed zone, intermediate sprint, etc.);_ 
@@ -5795,8 +5233,6 @@ E050224
 149 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Clarifications** 
 
@@ -5830,8 +5266,6 @@ E130623
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In case a licence-holder receives 6 yellow cards within a period of one year (52-week rolling period), they shall be suspended for 30 days. For the avoidance of doubt, in case the sixth yellow card received within one year is simultaneously the second received during the same event or the third received within 30 days, only the 30-day suspension according to this paragraph shall apply. 
 
 The starting date of any suspension imposed according to the paragraphs above shall be the day after receipt of the yellow card triggering the suspension whenever such yellow card is also the second received during the same event. In all other circumstances, the starting date shall be the day after the end of the event or the last stage in which the licence-holder takes part. 
@@ -5849,8 +5283,6 @@ E130623
 151 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **2.12.007Table of time penalties in time trials Quater** 
 
@@ -5878,15 +5310,11 @@ ROAD RACES
 |950|8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>17<br>19<br>21<br>23<br>25<br>27<br>29<br>31<br>33<br>35<br>37<br>39<br>42<br>45<br>48<br>51<br>55<br>60<br>64<br>67<br>71<br>75<br>82|
 |100<br>0|8<br>9<br>11<br>12<br>13<br>14<br>15<br>17<br>19<br>21<br>23<br>25<br>27<br>29<br>31<br>34<br>36<br>38<br>40<br>43<br>46<br>49<br>52<br>56<br>60<br>64<br>68<br>72<br>77<br>82<br>90|
 
-
-
 E050224 
 
 152 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 2  Specific infringements by organisers of road events** 
 
@@ -5924,8 +5352,6 @@ The following weightings apply to the amounts of the fines set out in the table 
 |Women Elite - Class 1<br>Men Elite - Class 2<br>Men Under-23 - Nations’ Cup &<br>Class 2<br>Men Junior-Nations’Cup|30%|20%|15%|12%|
 |Women Elite - Class 2<br>Men Junior - Class 1<br>Women Junior - Nations’ Cup &<br>Class 1<br>Other events|20%|15%|10%|10%|
 
-
-
 _(text modified on 23.10.19; 11.02.20)._ 
 
 E050224 
@@ -5933,8 +5359,6 @@ E050224
 153 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **2.12.012 Table of sanctions relating to the organisation of events** 
 
@@ -5946,15 +5370,11 @@ ROAD RACES
 |1.3     Infringements or non-compliance relating to insurance obligations and obligations to secure<br>administrative authorisations to organise events.|<br>Fine of CHF 10,000 to 100,000|
 |1.4<br>Infringements or non-compliance with provisions relating to financial obligations (including for<br>previous editions) with regards to the UCI, its members, any licence holder or organisation subject<br>to UCI Regulations;<br>Non-respect of mutual commitments made by the organiser with regards to teams;<br>The infringement or non-compliance may concern taxes, riders’ prizes, teams’ travel or boarding<br>expenses, team accommodation, contracts and any other financial obligations scheduled by the<br>UCI Regulations or the Financial Obligations published by the UCI.|Fine of CHF 1,000 to 10,000|
 
-
-
 E050224 
 
 154 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |**2            Event format and technical and sporting preparation**||
 |---|---|
@@ -5965,15 +5385,11 @@ ROAD RACES
 |**3**<br>**Logistics and operational management of an event**||
 |3.1<br>Infringements or non-compliance with obligations relating to the logistics of an event and in<br>particular:<br>-<br>the equipment necessary for the organisation of the event;|Fine of CHF 10,000 to 50,000|
 
-
-
 E050224 
 
 155 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |-<br>establishing a race headquarters and area for checking licences;<br>-<br>respecting the established opening hours of the organisation headquarters;<br>-<br>managing and organising the event start area, start line or start ramp;<br>-<br>the dimensions of the finish line, obligations relating to the finish area, structures associated with<br>the finish line (banner, podium, etc.), intermediate sprints, the top of KoM climbs and other points<br>of sporting interest;<br>-<br>failure to respect the obligatory sporting signs (signposts on the race route, distances, red kite<br>flag at one kilometre to go, feed zones, etc.)<br>-<br>obligations relating to Radio Tour;<br>-<br>obligations relating to establishing litter collection zones;<br>-<br>obligations relating to the reception of teams.||
 |---|---|
@@ -5981,15 +5397,11 @@ ROAD RACES
 |3.3<br>Infringements or non-compliance with obligations relating to the photo-finish, timing, results,<br>bonuses and classifications and in particular:<br>-<br>failure to respect or non-compliance in terms of the distribution or electronic transmission of<br>classifications and the associated deadlines;<br>-<br>failure to respect the format of results and classifications;<br>-<br>failure to respect requirements or non-compliance regarding timing devices, equipment and<br>procedures;<br>-<br>failure to respect the principles of drawing up classifications.|Fine of CHF 1,000 to 10,000|
 |3.4<br>Infringements or non-compliance with the obligations relating to organisation and media vehicles<br>and to the movement of race vehicles, as well as to the guidelines for the movement of vehicles<br>in the race convoy published by the UCI, and in particular:<br>-<br>obligations relating to vehicle dimensions, distinctive signs, unobstructed windows, the presence<br>of a sunroof and Radio Tour receivers;|Fine of CHF 10,000 to 50,000|
 
-
-
 E050224 
 
 156 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |-<br>failure by the organiser to respect the directions or instructions of the commissaires;<br>-<br>checking the licenses and skills of drivers and race personnel;<br>-<br>the lack of a deviation point before the finish line or an unsuitable deviation point;<br>-<br>obligations relating to neutral service vehicles and motorbike service.||
 |---|---|
@@ -6002,15 +5414,11 @@ ROAD RACES
 |5.1<br>Infringements or non-compliance with obligations relating to the TV production and distribution of<br>events and in particular:<br>-<br>obligations relating to human and technical resources for TV production;<br>-<br>obligations relating to minimum TV broadcasting requirements.|Fine of CHF 1,000 to 10,000|
 |5.2<br>Infringements or non-compliance with obligations relating to the media and the communication of<br>an event and in particular:<br>-<br>obligations concerning the media accreditation procedure;|Fine of CHF 1,000 to 10,000|
 
-
-
 E050224 
 
 157 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - obligations relating to the reception of the media at the event (press centre, reception area at the finish, mixed zone, etc.); 
 
@@ -6025,8 +5433,6 @@ E050224
 158 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIII  UCI WOMEN’S WORLDTOUR** 
 
@@ -6074,8 +5480,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 invitations to UCI Women’s ProTeams as the number of UCI Women’s WorldTeams which declined. 
 
 A maximum of four UCI Women’s WorldTeams may decline their participation in the same event. If more than four have selected the same event, the four teams with the lowest ranking on the UCI World Ranking by teams from the previous season will be authorised not to participate. The other teams will be allowed to select a different event for which less than four UCI Women’s WorldTeams have declined participation within 15 days of the UCI’s notification. 
@@ -6115,8 +5519,6 @@ E0226
 160 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text introduced on 01.11.25)._ 
 
@@ -6159,8 +5561,6 @@ E0226
 161 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.13.011** The registration is granted for a specific event. The registration grants UCI Women’s WorldTour status to the event. Registration has no impact on the property rights of the event owner as regards the event, without prejudice to obligations stemming from the UCI regulations. 
 
@@ -6207,8 +5607,6 @@ E0226
 162 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Common provisions for candidature and registration on the UCI Women’s WorldTour calendar** 
 
@@ -6258,8 +5656,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
    - **§ 3** [Paragraph abrogated on 01.01.2025] 
 
 - **2.13.020** The documentation must be drawn up in French or in English. Documents produced by third parties and drafted in another language must be accompanied by a translation. 
@@ -6291,8 +5687,6 @@ E0226
 164 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Calendar fee** 
 
@@ -6342,8 +5736,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text introduced on 01.01.25)_ 
 
 - **2.13.033** Upon completion of the evaluation of the UCI Women’s WorldTour event, a copy of the final report of the evaluation shall be provided to the Professional Cycling Council as well as the event owner. 
@@ -6388,8 +5780,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.037** Before issuing a decision in application of article 2.13.035 the UCI Management Committee may, if appropriate, delay proceedings for a set period in order to give the event owner time to rectify the situation at stake. 
 
 _(Text introduced on 01.01.25)_ 
@@ -6430,8 +5820,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.045 I** n the event that there exist direct or indirect links as described in 2.13.042 or 2.13.043 **,** the Professional Cycling Council and the event owner shall consult and, where applicable, the Professional Cycling Council shall give the event owner a deadline in which to regularise the situation. 
 
 _(Text introduced on 01.01.25)_ 
@@ -6469,8 +5857,6 @@ E0226
 168 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(Text introduced on 01.01.25)_ 
 
@@ -6511,8 +5897,6 @@ E0226
 169 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.13.061** The application for a licence shall imply the applicant's acceptance of the rules and conditions governing the UCI Women’s WorldTour and the UCI's regulations in general. 
 
@@ -6555,8 +5939,6 @@ E0226
 170 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 and organisational) is greater than the number of licences available, the licence commission will decide between them in accordance with articles 2.13.072 or 2.13.073. 
 
@@ -6606,8 +5988,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
    - their legal obligations, particularly with regard to matters of taxes, social security and accounting; 
 
    - principles of transparency and good faith. 
@@ -6640,8 +6020,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 6. The team must have internal medical regulations describing terms and conditions of care for riders as well as, in particular, access to medical data; 
 
 7. The UCI Women’s WorldTeam riders must not ride more than 75 days per season in road events (exclusive of events with their respective National Federation and individual races) registered on the UCI Women’s WorldTour calendar or the UCI International Calendar. The sports director charged with following the rider is responsible for compliance with this rule and is authorised to oblige the rider to comply. If a rider exceeds 75 days of competition and/or wishes to commit to a significant number of other events, the sports director in charge may be asked to prove that the rider in question has had sufficient care and rest; 
@@ -6671,8 +6049,6 @@ E0226
 173 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.13.073** For the award of licences scheduled for the 2024 and 2026 seasons the sporting criterion is evaluated with regard to the UCI world ranking for women UCI teams - 2 years, as defined in article 2.10.045. 
 
@@ -6722,8 +6098,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The documentation must be drawn up in French or in English. Documents produced by third parties and written in another language must be accompanied by a translation into the language of the documentation. 
 
 The licence applicant is solely responsible for assuring the quality and complete nature of the information transmitted with their application. In particular, they may not invoke the fact that they have not been asked by the UCI, the auditor, the organisational auditor or the licence commission to provide information or documents or that their attention has not been called to gaps or other factors which may be regarded as negative when their application comes to be judged by the licence commission. The paying agent remains entirely responsible for the accuracy of the data transmitted, regardless of the form of presentation in the UCI’s electronic system, and shall ensure compliance of the information with the team’s situation in the coming season. 
@@ -6757,8 +6131,6 @@ E0226
 175 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.10.21)._ 
 
@@ -6806,8 +6178,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.095** In the event of bankruptcy, dissolution or ceasing of activity of the paying agent, the licence is automatically withdrawn; the licence may be returned by the licence commission if the paying agent can be replaced in the short term and the continuity of the UCI Women’s WorldTeam can be ensured. 
 
 In the event of bankruptcy, dissolution or ceasing of activity of the paying agent, the UCI Women’s WorldTeam shall announce its dissolution or the end of its activity as soon as possible to its riders, other members and the UCI administration. 
@@ -6841,8 +6211,6 @@ E0226
 177 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 5 Annual registration** 
 
@@ -6881,8 +6249,6 @@ E0226
 178 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Registration fee and anti-doping contribution** 
 
@@ -6931,8 +6297,6 @@ E0226
 179 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Financial audit** 
 
@@ -6998,8 +6362,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 12.06.20)._ 
 
 - **2.13.114** The UCI Women’s WorldTeam must provide any documents, information or other items required by the organisational auditor within 15 days. The organisational auditor may pose any questions and ask for any information they consider necessary from the UCI Women’s WorldTeam. 
@@ -7033,8 +6395,6 @@ E0226
 181 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.13.118** After the deadline of 15 October, the auditor and the organisational auditor shall each give their opinion on the registration documentation submitted by the UCI Women’s WorldTeam or by the licence applicant. The opinion shall indicate whether the file contains the documents necessary for the examination of the financial audit and the organisational audit as well as the following essential documents in particular: the sponsorship contracts duly signed with the principal partners, the bank guarantee and, for the new teams only, a description of the structure of the team together with a copy of the deed of incorporation of the paying agent. 
 
@@ -7072,8 +6432,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.125** The documentation for the licence application will be passed over to the licence commission. Should the commission grant a UCI Women’s WorldTour licence, it shall approve the team’s registration for the first year of the licence at the same time. 
 
 - **2.13.126** The UCI Women’s WorldTeams that hold a UCI WorldTour licence whose documentation is found to be in order by the UCI administration shall be registered directly for the following registration year. 
@@ -7107,8 +6465,6 @@ E0226
 183 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.13.129** The UCI Women’s WorldTeam must inform the UCI administration within the week when one of the persons or bodies under article 2.13.109 points 2.C and 2.D leaves the UCI Women’s WorldTeam for any reason whatsoever. 
 
@@ -7146,8 +6502,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.137** The guarantee shall be drawn up in English by a good-standing banking institution which can, either directly or through a correspondent bank, transmit a SWIFT message to the UCI’s bank (UBSWCHZH12A). 
 
 _(text modified on 17.06.24)_ 
@@ -7183,8 +6537,6 @@ E0226
 185 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 4. the definitions above are without prejudice to the question of whether a request is founded in any particular case. 
 
@@ -7222,8 +6574,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.146** The UCI may not be held responsible for the inadequacy of the guarantee, insolvency of the issuer of the bank guarantee, or any delays in the remittance of funds by the issuer. 
 
 _(text modified on 17.06.24)_ 
@@ -7260,8 +6610,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 with proof that they have commenced proceedings. If the body before which the creditor has commenced proceedings declares that it is not competent, the creditor must take fresh proceedings within one month of learning of this decision. Should this not be the case, the paying agent may call on the UCI to release the funds in their favour. The funds shall be released should the creditor fail to take further proceedings within one month of the despatch of notice by the UCI. The creditor then has 15 days to provide the UCI with proof that they have recommenced proceedings. 
 
 _(text modified on 17.06.24)_ 
@@ -7287,8 +6635,6 @@ E0226
 188 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.04.22)_ 
 
@@ -7328,8 +6674,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Form of Presentation ("FORM OF PRESENTATION"): Paper form or transmitted in full by authenticated swift through one of the GUARANTOR's correspondent banks. 
 
 For the purpose of identification, the BENEFICIARY's demand and supporting statement must bear or be accompanied by a signed confirmation of one of the GUARANTOR's correspondent banks stating that the latter has verified the BENEFICIARY's signature(s) appearing thereon. In case of a swift transmission through one of the GUARANTOR's correspondent banks, the latter has to confirm having verified the BENEFICIARY's signature(s) appearing on the demand and supporting statement. 
@@ -7361,8 +6705,6 @@ E0226
 190 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Identity** 
 
@@ -7398,8 +6740,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 WorldTour event and a UCI Women’s WorldTeam challenges the integrity of the competition and/or sporting fairness. 
 
 - **2.13.167** During the licence application and registration procedures it shall be the duty of the team to indicate the presence or potential existence of a link with a team or an organiser as described in the previous articles. 
@@ -7431,8 +6771,6 @@ E0226
 192 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 agent's registered office. The annual accounts shall consist of the balance sheet, the profit-and-loss account, a financing table, and an explanatory appendix. These annual accounts shall be expressed in Swiss francs, euros or US dollars and shall be signed by the paying agent and the UCI Women’s WorldTour licence holder. If the financial accounting must be carried out in another currency under national law, the annual accounts must be converted into Swiss francs, euros or US dollars at the rate current at the end of the accounting period. 
 
@@ -7468,8 +6806,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 development of cycling. The available profit in the balance sheet must be used in accordance with the legal provisions in force in the country of the UCI Women’s WorldTeam. The allocation of the profit must be decided after the annual accounts have been established and audited. 
 
 No advance payment of profits may be made to beneficiaries during the course of the year. 
@@ -7504,8 +6840,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Sponsors and principal partner** 
 
 - **2.13.194** The sponsors are the persons, firms or bodies who contribute to the funding of the UCI Women’s WorldTeam. Among the sponsors, a maximum of three are designated as the principal partners of the UCI Women’s WorldTeam. 
@@ -7525,8 +6859,6 @@ The maximum number of riders per UCI Women's WorldTeam which may be registered w
 |0|20|
 |1|21|
 |2|22|
-
-
 
 The riders taken into account must be contracted on a full-time basis and for the whole registration year. 
 
@@ -7553,8 +6885,6 @@ E0226
 195 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 During this period the rider shall retain the status of new professional even if: 
 
@@ -7600,8 +6930,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - 2.13.177). The payment will be made to the team which will pay the rider, after deducting sums for which they are contractually responsible towards the rider (calculated on a pro rata daily basis of the minimum salary for new-professional rider as defined in article 2.13.177). The payment will be made to the team which will pay the rider, after deducting sums for which they are contractually responsible towards the rider. 
 
 _* Upon justification of the participation in a stage race starting in July and ending in August, the registration of these riders may occur in July no earlier than the day before the first race day of the aforesaid event._ 
@@ -7638,8 +6966,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.208** The riders of the UCI Women’s WorldTeams are entitled to a fixed minimum salary, of which the annual gross amount is fixed as follows for the years 2023 to 2025: 
 
 ||Employee|Employee|Self-employed(164%)|Self-employed(164%)|
@@ -7648,8 +6974,6 @@ ROAD RACES
 |2023 Season|26’849€|32’102€|44’032€|52’647€|
 |2024 Season|29’270€|35’000€|47’986€|57’400€|
 |2025 Season|31’768€|38’000€|52’100€|62’320€|
-
-
 
 The salary for the following years will be covered in an amendment to these regulations. 
 
@@ -7681,8 +7005,6 @@ ON THE OTHER HAND
 
 ## Whereas: 
 
-1. the Employer is engaged in setting up a cycling team who, within the UCI Women’s WorldTeam.... and under the management of ….. .(name of manager or sports director), intend to take part, during the duration of the present contract, in cycle road races governed by the regulations of the Union Cycliste Internationale; 
-
 2. the Rider wishes to join the team (name of the UCI Women’s WorldTeam); 3. both parties are acquainted with and declare that they will abide wholly by the UCI constitution, codes and regulations, and those of its affiliated National Federations. 
 
 E0226 
@@ -7690,8 +7012,6 @@ E0226
 198 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 It is thus agreed as follows: 
 
@@ -7705,13 +7025,9 @@ The employment shall be subject to the registration of the team as a UCI Women�
 
 ## **ARTICLE 2 - Duration** 
 
-This contract shall be entered into for a fixed period commencing on ... and expiring on 31st December.... 
-
 Unless the contract has already been renewed, each party shall notify the other in writing, no later than the 30 September preceding the termination of the contract, of their intentions as to the renewal of the contract. 
 
 ## **ARTICLE 3 - Salary** 
-
-1. The Rider is entitled to a gross annual salary of.... 
 
 This pay may not be less than the higher of the two following amounts: 
 
@@ -7740,8 +7056,6 @@ E0226
 199 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Furthermore, the Rider shall have the right to the following bonuses: 
 
@@ -7781,8 +7095,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 with a legitimate need to know for medical purposes, in the interests of the Rider and his health and always with equivalent confidentiality as when processed by the Medical Data Processors. 
 
 The Rider retains the right to access his medical data as provided by applicable laws and regulations. In the event the Rider has any queries about his medical data the team doctor can be contacted at the following address:_______________(email address of the team doctor) and the UCI (also for any queries regarding medical data processed by its provider service) at the following address: data.protection@uci.ch. 
@@ -7819,8 +7131,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
    - if the UCI Women’s WorldTour licence for the team expires, is withdrawn, or if the UCI Women’s WorldTeam is suspended for a period of three months or more; 
 
    - if the name of the UCI Women’s WorldTeam or its principal partners is changed during the calendar year without the approval required under article 2.13.164 of the UCI Regulations; 
@@ -7850,8 +7160,6 @@ E0226
 202 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ARTICLE 10 - Defeasance** 
 
@@ -7901,8 +7209,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Parties: 
 
 1. … 
@@ -7950,8 +7256,6 @@ E0226
 204 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Contract in force from… to… 
 
@@ -8003,8 +7307,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The declaration must be drawn up in line with the model and include the elements set out in article 2.13.212. 
 
 - **2.13.218** The obligation to complete this declaration and submit it to the UCI-appointed auditor is applicable at any time, even if the relevant agreement intervenes after the signature of the employment contract and its filing with the auditor. 
@@ -8039,8 +7341,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The pregnancy shall be duly established. The UCI Women’s WorldTeam may require that the rider undergoes an examination, either with a doctor designated by mutual agreement or with an occupational doctor recognised by the applicable social security scheme. 
 
 ## **2.13.224** 
@@ -8054,8 +7354,6 @@ The pregnancy shall be duly established. The UCI Women’s WorldTeam may require
 |Health insurance|Insurance covering healthcare costs (doctor,<br>medicine, etc.) for the rider for an amount of<br>€100,000 per year|
 |Maternity insurance|Insurance<br>covering<br>maternity-related<br>costs<br>(examinations and costs during pregnancy and<br>childbirth)|
 |Pension plan|Insurance providing for the payment of a pension,<br>annuities or a capital at the end of the professional<br>cycling career at the earliest, with a premium that<br>will represent at least 12% of gross annual salary,<br>limited to €115,000 per year|
-
-
 
    3. The UCI Women’s WorldTeam shall cover half of the insurance premiums set out in point two: 
 
@@ -8071,23 +7369,17 @@ The pregnancy shall be duly established. The UCI Women’s WorldTeam may require
 |---|---|
 |Hospitalisation and<br>repatriation insurance|This insurance must cover all costs not covered by<br>social security linked to the rider’s hospitalisation<br>for an amount of €100,000– per incident and per<br>individual;<br>All expenses for repatriation for medical reasons or<br>due to death, related to professional travel|
 
-
-
 E0226 
 
 207 
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |**Type of insurance**|**Description**|
 |---|---|
 |Accident insurance|Accident insurance must cover costs in the event of<br>an accident as in a work situation (training,<br>competition, travel, promotion etc.).|
 |Life insurance|A life insurance policy pursuant to which an amount<br>of €100,000 will be paid to the beneficiaries<br>designated by the rider in the policy.<br>The following may be excluded from cover: risks<br>linked to high-risk sports or sporting activities<br>unrelated to the preparation, maintenance or<br>recovery of the cyclist’s physical condition, such as<br>air<br>sports,<br>motorsports<br>(including<br>motorised<br>vehicles, on land or not), ice sports, combat sports,<br>caving, rafting, sport climbing, SCUBA diving, as a<br>participant, instructor, official or in any role other<br>than that of spectator.|
 |Permanent disability<br>insurance|An insurance policy pursuant to which a minimum<br>amount of €250,000 will be paid to the rider in the<br>event of absolute and permanent disability due to<br>an accident (24/7); permanent disability resulting<br>from illness or disorders caused by the practice of<br>cycling must not be covered by this policy.<br>The following may be excluded from cover: risks<br>linked to high-risk sports or sporting activities<br>unrelated to the preparation, maintenance or<br>recovery of the cyclist’s physical condition, such as<br>air<br>sports,<br>motorsports<br>(including<br>motorised<br>vehicles, on land or not), ice sports, combat sports,<br>caving, rafting, sport climbing, SCUBA diving, as a<br>participant, instructor, official or in any role other<br>than that of spectator.|
-
-
 
 - **2.13.226** The UCI Women’s WorldTeam shall attach to each contract a list of the legal or contractual insurance benefits to which the rider will, or will not, be entitled. 
 
@@ -8106,8 +7398,6 @@ E0226
 208 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 The first registration period extends from 1 to 15 August and applies for registrations with immediate effect during the season. 
 
@@ -8139,8 +7429,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.13.231** In any case where a rider is already contracted with another UCI-registered team, registration with a UCI Women’s WorldTeam in accordance with articles 2.13.229a and 2.13.229b shall only be completed upon receipt by the UCI of proof of termination of the relevant contract, if any. Such proof may be the transfer agreement between the two teams concerned and the rider, the mutual termination agreement between the team and the rider or the unilateral termination notice by the team or the rider. 
 
 _(text modified on 17.06.24)_ 
@@ -8170,8 +7458,6 @@ E0226
 210 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 2. be entitled to register riders from its development team with the same paying agent up to the minimum number of riders required by article 2.13.197, on condition that the riders were already registered with the development team before notification of the registration ban; 
 
@@ -8203,13 +7489,11 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In case of failure to comply with the obligations under this article, a fee of CHF 200 per day of delay shall be due by the UCI Women’s WorldTeam. In addition, fines may be imposed as follows: CHF 2,000 to 10,000 for the rider or riders’ agent and CHF 5,000 to 20,000 for the UCI Women’s WorldTeam. 
 
 _(text modified on 17.06.24)_ 
 
-- **2.13.234** The UCI shall maintain a publication on a platform accessible to UCI-registered teams and riders’ agents which includes the following information : 
+- **2.13.234** The UCI shall maintain a publication on a platform accessible to UCI-registered teams and riders’ agents which includes the following information: 
 
    - the duration of rider contracts; 
 
@@ -8243,8 +7527,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Compulsory staff** 
 
 - **2.13.241** Each UCI Women’s WorldTeam must employ — on a full-time basis and for the whole registration year — at least 2 sport directors and 5 other staff members, who must all be paid for their activity (coaches, doctors, paramedical assistants, mechanics, etc.). 
@@ -8255,7 +7537,7 @@ ROAD RACES
 
 - **2.13.243** Each licence-holder and each UCI Women’s WorldTeam must give to the UCI, upon first request, any document or information which it deems useful for verifying compliance with the regulations and the rights and interests of members of the UCI Women’s WorldTeam. In the event of refusal, without prejudice to other consequences, the licence-holder shall be liable to a fine of between CHF 500 and 2,000 and the UCI Women’s WorldTeam to a fine of CHF 5,000. Furthermore, the offending party may be suspended in accordance with article 12.4.017. 
 
-- **2.13.244** The UCI is entitled to demand copies of contracts, financial records and any other document submitted within the registration process, from the concerned rider, the UCI Women’s WorldTeam or auditor in the following cases : 
+- **2.13.244** The UCI is entitled to demand copies of contracts, financial records and any other document submitted within the registration process, from the concerned rider, the UCI Women’s WorldTeam or auditor in the following cases: 
 
    1. In order to verify compliance with UCI regulations with a view to potentially submitting a petition to the UCI Disciplinary Commission or Ethics Commission; 
 
@@ -8288,8 +7570,6 @@ E0226
 213 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 and restrictions of use of the logo and the brand as defined in the contract entered into with the UCI. 
 
@@ -8333,8 +7613,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 WorldTeam of the applicable amount of training compensation. The UCI Women’s WorldTeam shall not be liable for any payment in case a National Federation provides the relevant information after expiry of the deadline. The UCI Women’s WorldTeam shall make the payment(s) to the National Federation(s) at least six months after the publication of the rider’s registration on the UCI’s website, subject to an agreement between the UCI Women’s WorldTeam and the National Federation(s) regarding the payment dates. National Federation(s) shall provide the proof of payment to its affiliated club(s) and/or UCI Women’s Continental team(s), to the UCI Women’s WorldTeam, during the year in which the payment was made. 
 
 In case a club or UCI Women’s Continental team would not exist anymore, the amount of the training compensation fee will be used by the National Federation for its own development programs. 
@@ -8346,8 +7624,6 @@ E0226
 215 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIV  UCI CUPS** 
 
@@ -8398,8 +7674,6 @@ E0226
 216 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.14.024** _[article abrogated on 01.11.25]._ 
 
@@ -8455,8 +7729,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **UCI Men Junior Nations’ Cup ranking** 
 
 - **2.14.040** The points for the UCI Men Junior Nations’ Cup count towards the individual ranking and 
@@ -8494,8 +7766,6 @@ _(text modified on 01.01.08; 01.07.11; 01.08.13; 01.01.17; 09.11.20; 20.10.25)_
 |**19**|2|
 |**20**|1|
 
-
-
 ## **Results in prologue and stages** 
 
 |Position|Prologue and<br>stages|
@@ -8507,8 +7777,6 @@ _(text modified on 01.01.08; 01.07.11; 01.08.13; 01.01.17; 09.11.20; 20.10.25)_
 |**5**|2|
 |**6**|1|
 
-
-
 ## **Final results in UCI Men Junior Nation’s Cup one-day races** 
 
 |Position|One-dayraces|
@@ -8519,15 +7787,11 @@ _(text modified on 01.01.08; 01.07.11; 01.08.13; 01.01.17; 09.11.20; 20.10.25)_
 |**4**|13|
 |**5**|11|
 
-
-
 E0226 
 
 218 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |Position|One-dayraces|
 |---|---|
@@ -8542,8 +7806,6 @@ ROAD RACES
 |**14**|2|
 |**15**|1|
 
-
-
 ## **Final results in the Continental Championships** 
 
 |Position|European Continental<br>Championships|European Continental<br>Championships|Asian, African, American and<br>Oceanian Championships|Asian, African, American and<br>Oceanian Championships|
@@ -8557,8 +7819,6 @@ ROAD RACES
 |**6**|3|3|||
 |**7**|2|2|||
 |**8**|1|1|||
-
-
 
 ## **Final results in the UCI Road World Championships** 
 
@@ -8581,8 +7841,6 @@ ROAD RACES
 |**14**|2|2|
 |**15**|1|1|
 
-
-
 _(text modified on 01.01.08; 01.07.11; 01.08.13; 01.01.17; 09.11.20; 17.06.24)._ 
 
 E0226 
@@ -8590,8 +7848,6 @@ E0226
 219 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.14.041** Only the national teams which participated in the event are included in the classification. 
 
@@ -8647,8 +7903,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - the cars of teams which failed to confirm their starting riders by the time limit set under article 1.2.090; 
 
 - the cars of teams not represented at the sports directors’ meeting. 
@@ -8699,8 +7953,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2.14.054  Points scale** 
 
 For team time trial events and stages the points on the scale shall be awarded to the teams. 
@@ -8733,8 +7985,6 @@ The awarding of points for stage races is in accordance with article 2.6.001 reg
 |**19**|2|
 |**20**|1|
 
-
-
 ## **Results in prologue and stages** 
 
 |Position|Prologue and<br>stages|
@@ -8745,8 +7995,6 @@ The awarding of points for stage races is in accordance with article 2.6.001 reg
 |**4**|3|
 |**5**|2|
 |**6**|1|
-
-
 
 ## **Final results in UCI Women Junior Nation’s Cup one day races** 
 
@@ -8762,15 +8010,11 @@ The awarding of points for stage races is in accordance with article 2.6.001 reg
 |**8**|8|
 |**9**|7|
 
-
-
 E0226 
 
 222 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |**10**|6|
 |---|---|
@@ -8779,8 +8023,6 @@ ROAD RACES
 |**13**|3|
 |**14**|2|
 |**15**|1|
-
-
 
 ## **Final results in the Continental Championships** 
 
@@ -8795,8 +8037,6 @@ ROAD RACES
 |**6**|3|3|||
 |**7**|2|2|||
 |**8**|1|1|||
-
-
 
 ## **Final results in the UCI Road World Championships** 
 
@@ -8819,8 +8059,6 @@ ROAD RACES
 |**14**|2|2|
 |**15**|1|1|
 
-
-
 _(text modified on 09.11.20; 17.06.24)._ 
 
 E0226 
@@ -8828,8 +8066,6 @@ E0226
 223 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Separating tied nations** 
 
@@ -8885,8 +8121,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Within groups 2, 3 and 4 the order is determined by drawing lots. 
 
 The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate. 
@@ -8900,8 +8134,6 @@ E0226
 225 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XV  UCI WORLDTOUR** 
 
@@ -8946,8 +8178,6 @@ E0226
 226 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 For the period 2020-2022, up to two additional UCI WorldTour licences may be issued in the event existing UCI WorldTeams fulfil the sporting criterion via article 2.15.011b, without prejudice to other applicable conditions. 
 
@@ -8999,8 +8229,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - the code of ethics and related statement of recognition from members of team staff; 
 
 - its contractual obligations; 
@@ -9041,8 +8269,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Examination by the licence commission** 
 
 - **2.15.017** The licence commission shall examine the licence application on the basis of documentation consisting of the following elements: 
@@ -9077,7 +8303,7 @@ _(text modified on 12.01.17)._
 
 _(text modified on 01.10.21)._ 
 
-- **2.15.020** The applicant must lodge any statement in support of his application to the commission in four copies, at least 3 days before the date of the hearing, except in exceptional cases justifying a different deadline , with a copy to the UCI, the auditor and the organiser auditor. A statement lodged after this deadline shall automatically be disregarded. 
+- **2.15.020** The applicant must lodge any statement in support of his application to the commission in four copies, at least 3 days before the date of the hearing, except in exceptional cases justifying a different deadline, with a copy to the UCI, the auditor and the organiser auditor. A statement lodged after this deadline shall automatically be disregarded. 
 
 _(text modified on 12.01.17; 01.10.21)._ 
 
@@ -9088,8 +8314,6 @@ E0226
 229 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 identity of those persons who will represent him or attend the hearing. The licence commission may refuse to hear any persons not notified within this time. 
 
@@ -9141,8 +8365,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.030** [article abrogated on 24.09.14] 
 
 ## **Duration of validity of the licence** 
@@ -9187,8 +8409,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.039** In the event of the revocation or withdrawal of the licence, no reimbursement shall be made. Any sums due remain payable and may not be offset. 
 
 _(text modified on 24.09.14; 12.01.17)._ 
@@ -9228,8 +8448,6 @@ E0226
 232 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Referral to the licence commission** 
 
@@ -9274,8 +8492,6 @@ E0226
 233 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.045** A transferred licence shall expire at its original term. 
 
@@ -9323,8 +8539,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The choice of the nationality of the country of the registered office of the paying agent is valid for the entire duration of the licence and cannot be changed, except if the Professional Cycling Council approves a new paying agent which has its registered office in another country, in accordance with article 2.15.061. In the latter case, the UCI WorldTeam may make another choice in accordance with the first paragraph. 
 
 The choice of the nationality of a country where a product or service is marketed by the or a main sponsor under the UCI WorldTeam’s name or component of this name is valid for the entire duration of the licence and cannot be changed except if the main sponsor concerned no longer holds this status. 
@@ -9360,8 +8574,6 @@ E0226
 235 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Sponsors and principal partners** 
 
@@ -9407,8 +8619,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.063** The paying agent and the principal partners must inform the Professional Cycling Council without delay and within 10 days of the following factors: transfer of the company's registered office, reduction in capital, change of legal form or identity (for example by merger or takeover), any request for or implementation of any agreement or any measure concerning all creditors. 
 
 The information referred to in the present article must be sent simultaneously to the auditor appointed by the UCI. 
@@ -9447,8 +8657,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 15 September preceding the registration year. No later than 21 days after the granting of registration, the UCI WorldTeam must pay into the UCI account the remaining sum. In the event of delay, the registration fee shall be automatically increased by CHF 1,000.00 per day. If the registration fee and the increase are not paid in full by 31 January, registration will be refused and the licence automatically revoked. Further, a fine of CHF 7,500.00 shall be payable. 
 
 The registration fee for the first registration year after award of a licence, after deduction of the application fee, is due within 21 days of grant of the licence. If payment is not made within this time, the licence shall automatically be revoked. Further, a fine of CHF 7,500 shall be payable. 
@@ -9459,7 +8667,7 @@ _(text modified on 01.04.11; 24.09.14; 01.01.15; 10.06.21)._
 
 - **2.15.067** On 15 October preceding the registration year, all UCI WorldTeams or licence applicants must: 
 
-   1. Ensure that the issuing bank submits to the UCI’s bank (UBSWCHZH12A), by SWIFT messaging, a first-demand bank guarantee, an amendment to an existing bank guarantee or a supplementary guarantee in compliance with article 2.15.092 and the following articles ; 
+   1. Ensure that the issuing bank submits to the UCI’s bank (UBSWCHZH12A), by SWIFT messaging, a first-demand bank guarantee, an amendment to an existing bank guarantee or a supplementary guarantee in compliance with article 2.15.092 and the following articles; 
 
    2. Submit to the UCI headquarters, the following information: 
 
@@ -9502,8 +8710,6 @@ E0226
 238 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 8. financial plan for the period covered by the licence application or the remainder of the licence period. 
 
@@ -9559,8 +8765,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In the event of a breach of the present article, a fine of between CHF 1,000 and 10,000 may be imposed, without prejudice to the application of article 2.15.040 in the event of a serious offence. 
 
 _(article introduced on 12.01.17)_ 
@@ -9594,8 +8798,6 @@ E0226
 240 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _Note: a failure to submit all the documents required will give the riders the right to terminate their contracts as provided for under article 8.1.f of the model contract under article 2.15.139._ 
 
@@ -9637,8 +8839,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 3. At least 5 days before the date of hearing, except in exceptional cases justifying a different deadline, the UCI WorldTeam shall notify the licence commission and the UCI of the identity of those persons who will represent him or attend the hearing. The licence commission may refuse to hear any persons not notified within this time; 
 
 4. The UCI may participate in the hearing. The auditor and the organisational auditor may be heard at the request of the UCI WorldTeam, the UCI or the licence commission; 
@@ -9674,8 +8874,6 @@ E0226
 242 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.074** With the exception of the provisions set out in article 2.15.069bis, the UCI will make no automatic statements regarding the progress of the registration procedure. It is for the interested parties, including the riders and organisers, to request information from the UCI. 
 
@@ -9713,8 +8911,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.080** The company auditor shall audit the annual accounts in accordance with the national legislation applicable to fixed-capital companies in the country of the UCI WorldTeam's registered office, even if such an audit is not required by the law. The company auditor shall also audit the intermediate accounts at 30 June. He must draft a written report on the result of his audits and address a copy directly to the auditor appointed by the UCI. 
 
 _(text modified on 01.04.11; 01.01.15)._ 
@@ -9744,8 +8940,6 @@ E0226
 244 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.087** Without having to request them, the auditor appointed by the UCI must receive each year no later than 30 June, a copy of the annual accounts and the State-approved company auditor's report. However, the UCI may require these documents for 1[st] March at the earliest, by request sent 2 months in advance. 
 
@@ -9786,8 +8980,6 @@ E0226
 245 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Bank guarantee** 
 
@@ -9833,8 +9025,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 2. Debts contracted by any other party in return for the services of a rider or any other member under contract for the benefit of the UCI WorldTeam shall be considered as debts contracted by the licence holder, the paying agent and the sponsors and covered by the guarantee, inter alia debts contracted under the contracts referred to in articles 2.15.116 and 2.15.117; 
 
 3. The companies through which the licence holders concerned, apart from the riders, carry out their activities for the operation of the UCI WorldTeam shall be considered as members of the UCI WorldTeam; 
@@ -9875,15 +9065,13 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.099** If the bank guarantee proves to be inadequate the UCI WorldTeam shall be liable for a fine of between CHF 5,000 and 50,000. Further, the UCI WorldTeam will be automatically suspended if it fails to establish the additional or amended guarantee within one month of the date of the decision to impose the fine and for so long as he fails to do so. In the event of persistent default, the UCI may refer the case to the licence commission in accordance with article 2.15.040. 
 
 _(text modified on 01.01.15; 01.11.15; 24.03.17)._ 
 
 - **2.15.100** The UCI may not be held responsible for the inadequacy of the guarantee, insolvency of the issuer of the bank guarantee, or any delays in the remittance of funds by the issuer. 
 
-_(text modified on 17.06.24)_ . 
+_(text modified on 17.06.24)_. 
 
 - **2.15.101** The term of the guarantee may vary between one and three years depending on the term of the UCI WorldTour licence granted to the team. In every case, it must remain valid until 31 March after the last registration year covered by the guarantee. 
 
@@ -9903,7 +9091,7 @@ _(text modified on 18.06.07, 17.06.24)._
 
 _(text modified on 01.01.15)._ 
 
-- **2.15.104** For any call on the bank guarantee, the UCI shall draw, in addition to the amount claimed by the creditor, , a) the amount of CHF 500 as costs (this amount is drawn for each creditor, up to a maximum of CHF 15,000 per bank guarantee); and b) an amount corresponding to the bank charges applied for calling up the bank guarantee. 
+- **2.15.104** For any call on the bank guarantee, the UCI shall draw, in addition to the amount claimed by the creditor,, a) the amount of CHF 500 as costs (this amount is drawn for each creditor, up to a maximum of CHF 15,000 per bank guarantee); and b) an amount corresponding to the bank charges applied for calling up the bank guarantee. 
 
 _(text modified on 01.07.09, 17.06.24)._ 
 
@@ -9912,8 +9100,6 @@ E0226
 248 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.105** The actual payment to the creditor shall not take place until one month after the implementation of the guarantee. If, in the interim, the UCI WorldTeam raises a written objection to the payment of the money to the creditor, the UCI shall pay the disputed sum into a special account and shall subsequently distribute it in accordance with any agreement reached between the parties or according to an enforceable judicial or arbitral decision. 
 
@@ -9940,8 +9126,6 @@ E0226
 249 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 regulations, or related to their application, which are due by such creditor to the UCI, from the amount payable to the creditor. In case of ongoing proceeding involving the creditor and which may result in payments being due to the UCI – including but not limited to fines, fees, costs, etc. - the UCI may withhold the payment of amounts due to the creditor until the issuance of a final decision that allows to definitively establish the amount to be paid to the creditor, if any. 
 
@@ -9975,8 +9159,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Professionnels Associés) and the AIGCP (Association Internationale des Groupes Cyclistes Professionnels) in the following manner: 
 
 |Minimum number of new professionals<br>under contract to the UCI WorldTeam|Maximum number of riders<br>registered with the UCI|
@@ -9984,8 +9166,6 @@ Professionnels Associés) and the AIGCP (Association Internationale des Groupes 
 |0|28|
 |1|29|
 |2|30|
-
-
 
 If the number of riders proves to be less than the stipulated minimum, the UCI shall issue a warning to the UCI WorldTeam and allow it a period of grace of 30 days to regularize the situation. In the event of failure to do so, the UCI WorldTeam shall be liable for a fine of between CHF 10,000 and 100,000. To determine the fine, the UCI shall take account in particular of the reduction of the payroll costs from which the team benefits during the period for which its numbers fall short of the required minimum. 
 
@@ -10009,7 +9189,7 @@ _(text modified on 20.10.05; 15.11.08; 01.01.10; 01.10.12; 01.07.13; 01.01.15; 0
 
    6. The riders in question may continue to take part in events in their club team or, if appropriate, in their UCI continental team; 
 
-   7. These riders will be indemnified by the UCI WorldTeam on the basis of a flatrate payment for each race day or day of participation to a UCI WorldTeam’s event (e.g. training camp, promotional event, …), as well as travel days. The amount of the flat rate payment will correspond to at least 50% of the amount of the minimum salary (calculated on a daily pro-rata of the minimum salary for new-professional riders as per the joint agreement). The payment will be made by the UCI WorldTeam to the team with which the rider is registered for the season; payment to the rider is then made by the latter team, after deducting sums which they contractually owe the rider[(2)] . 
+   7. These riders will be indemnified by the UCI WorldTeam on the basis of a flatrate payment for each race day or day of participation to a UCI WorldTeam’s event (e.g. training camp, promotional event, …), as well as travel days. The amount of the flat rate payment will correspond to at least 50% of the amount of the minimum salary (calculated on a daily pro-rata of the minimum salary for new-professional riders as per the joint agreement). The payment will be made by the UCI WorldTeam to the team with which the rider is registered for the season; payment to the rider is then made by the latter team, after deducting sums which they contractually owe the rider[(2)]. 
 
 _(1) Upon justification of the participation in a stage race starting in July and ending in August, the registration of these riders may occur in July no earlier than the day before the first race day of the aforesaid race._ 
 
@@ -10018,8 +9198,6 @@ E0226
 251 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(2) The teams concerned may agree that payment to the rider shall be made directly by the UCI WorldTeam in the event the transfer of funds can for legal grounds not be made through the team with which the rider is registered for the season. If for justified legal grounds, the funds may neither be paid via the team with which the rider is registered, nor directly by the UCI WorldTeams, both teams and the rider shall enter into a specific agreement providing for an alternative mechanism of remuneration which, in any case, ensures receipt of equivalent benefits by the rider._ 
 
@@ -10056,8 +9234,6 @@ E0226
 252 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Model Contract between a self-employed rider and a UCI WorldTeam** 
 
@@ -10105,8 +9281,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 20.10.05)._ 
 
 - **2.15.117** Without prejudice to articles 2.15.115 and 2.15.116 the parties must declare, under all circumstances and on every contract submitted to the auditor appointed by the UCI, any other contract concluded regarding the services of the rider or any other contracted person to the benefit of the UCI WorldTeam, whatever the nature of the services and whatsoever the parties to these other contracts. 
@@ -10151,8 +9325,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The first registration period extends from 1 to 15 August and applies for registrations with immediate effect during the season. 
 
 The second registration period extends from 15 October to 31 December and applies for the registration of riders as from 1 January of the following year. 
@@ -10182,8 +9354,6 @@ E0226
 255 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.121a** [ _Article introduced on 01.07.10; text modified on 01.07.11; 01.10.13; article abrogated on 17.06.24_ ] 
 
@@ -10221,8 +9391,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 2. be entitled to register riders from its development team with the same paying agent up to the minimum number of riders required by article 2.15.110, on condition that the riders were already registered with the development team before notification of the registration ban; 
 
 3. be entitled to register neo-professional riders up to the minimum number of riders required by article 2.15.110 if it does not have a development team with the same paying agent. 
@@ -10255,13 +9423,11 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(Text modified on 01.01.15; 17.06.24)_ 
 
-- **2.15.125** The UCI shall maintain a publication on a platform accessible to UCI-registered teams and riders’ agents which includes the following information : 
+- **2.15.125** The UCI shall maintain a publication on a platform accessible to UCI-registered teams and riders’ agents which includes the following information: 
 
-   - the duration of rider contracts ; 
+   - the duration of rider contracts; 
 
    - the names of the riders’ agent representing a rider. 
 
@@ -10300,8 +9466,6 @@ E0226
 258 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 The UCI may decide not to not to demand payment of the aforementioned amounts in case of absence, withdrawal or giving up of a UCI WorldTeam, in case the two cumulative conditions below are fulfilled: 
 
@@ -10347,8 +9511,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.134** All the rights and obligations of each party as regards the promotion of the UCI WorldTour shall be specified in the contract concluded between the UCI WorldTeam and the UCI. 
 
 _(text modified on 01.01.15)._ 
@@ -10358,8 +9520,6 @@ E0226
 260 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Dissolution of the UCI WorldTeam** 
 
@@ -10372,8 +9532,6 @@ _(text modified on 01.01.15)._
 - **2.15.136** A rider who is contracted to a UCI WorldTeam may, subject to the conditions set out below, conclude a contract to ride for another team (UCI WorldTeam, UCI ProTeam or UCI continental team) in the event that his contract with his current UCI WorldTeam is terminated prematurely for recognised reasons relating to the financial situation of this UCI WorldTeam: 
 
    1. The rider must notify the Professional Cycling Council of the situation of his UCI WorldTeam, of his particular position and of his intention to seek another team, prior to signing a contract with that team. The Professional Cycling Council may request information from any interested party; 
-
-   2. The contract between the rider and the other team must contain the following clause: "The parties confirm that the contract between the rider and his current UCI WorldTeam only expires on.... . The paying agent recognises and accepts that this contract will be respected. The present contract is concluded provisionally and shall be subject to the premature termination of the contract between the rider and his current UCI WorldTeam on grounds previously authorised by the Professional Cycling Council." 
 
    1. The contract with the new team shall be lodged with the Professional Cycling Council. Should more than one contract be deposited by the same rider, only the first contract deposited shall be recognised, unless the parties to that contract mutually agree otherwise; 
 
@@ -10390,8 +9548,6 @@ E0226
 261 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Supervision and penalties** 
 
@@ -10437,8 +9593,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 born in 
 
 on 
@@ -10448,8 +9602,6 @@ of  ……………… nationality holding a licence issued by hereinafter " the
 ON THE SECOND PART 
 
 Whereas: 
-
-- the Employer is engaged in setting up a cycling team who, within the UCI WorldTeam.... and under the management of Mr (name of manager or sports director), intend to take part, during the duration of the present contract, in cycle road races governed by the regulations of the Union Cycliste Internationale; 
 
 - the Rider wishes to join the team (name of the UCI WorldTeam); 
 
@@ -10467,13 +9619,9 @@ The engagement shall be subject to the registration of the team as a UCI WorldTe
 
 ## **ARTICLE 2 - Duration** 
 
-The present contract shall be concluded for a fixed period commencing on ... and expiring on 31 December...... 
-
 Unless the contract has already been renewed, each party shall notify the other in writing no later than the 30 September preceding the termination of the contract of his intentions as to the renewal of the contract. A copy of this document shall be sent to the CPA. 
 
 ## **ARTICLE 3 - Salary** 
-
-- The Rider shall have the right to gross annual pay of .... 
 
    - This pay may not be less than the higher of the two following amounts: A. The legal minimum wage of the country of the nationality of the UCI WorldTeam as defined under article 2.15.051 of the regulations; 
 
@@ -10486,8 +9634,6 @@ E0226
 263 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ARTICLE 4 - Payment of the salary** 
 
@@ -10533,8 +9679,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In none of the aforementioned cases shall the present contract be suspended. 
 
 ## **ARTICLE 6 BIS – Medical Data** 
@@ -10566,8 +9710,6 @@ E0226
 265 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ARTICLE 8 - Termination of the contract** 
 
@@ -10607,8 +9749,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - iii.Either party shall be entitled to terminate the present contract, without notice or liability, should the Rider be rendered permanently unable to exercise the occupation of professional cyclist. 
 
 ## **ARTICLE 9 - Defeasance** 
@@ -10628,8 +9768,6 @@ The rider shall have the right to ascertain from the UCI-appointed auditor the c
 The parties declare that, apart from the present contract, 
 
 no other contract has been concluded concerning the Rider's activities for the benefit of the UCI WorldTeam in the sense of articles 2.15.116 or 2.15.117 of the UCI cycling regulations. 
-
-Done at ..... on ..... In 3 original copies 
 
 The Rider For the UCI WorldTeam Rider’s agent The paying agent [signatory’s name] 
 
@@ -10661,8 +9799,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - 
 
 ... 
@@ -10673,8 +9809,6 @@ Date of signature: Contract in force from ... to ... Total pay and other benefit
 
 ... 
 
-Done at ..... on ..... In 3 original copies 
-
 The Rider For the UCI WorldTeam Rider’s agent The paying agent [signatory’s name] 
 
 _(text modified on 01.07.09; 01.07.10; 01.04.11; 01.07.12; 01.01.15; 01.01.18; 01.07.19; 10.06.21)._ 
@@ -10684,8 +9818,6 @@ _(text modified on 01.07.09; 01.07.10; 01.04.11; 01.07.12; 01.01.15; 01.01.18; 0
 - **2.15.140** The parties declare that, apart from the present contract, 
 
 no other contract has been concluded concerning the services of the contracting person for the benefit of the UCI WorldTeam in the sense of article 2.15.117 of the UCI cycling regulations. 
-
-Done at ..... on ..... In 3 original copies 
 
 The contracting person 
 
@@ -10721,11 +9853,7 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 1 ... 
-
-Done at ..... on ..... In 3 original copies 
 
 The contracting person For the UCI WorldTeam Rider’s agent The paying agent [signatory’s name] 
 
@@ -10781,8 +9909,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Beneficiary: UNION CYCLISTE INTERNATIONALE, ALLÉE FERDI KÜBLER 12, 1860 AIGLE, SWITZERLAND ("BENEFICIARY") 
 
 Underlying relationship: The APPLICANT's obligation in respect of the cycling regulations of the UNION CYCLISTE INTERNATIONALE for the purpose of guaranteeing, within the limits set in those regulations, the payment of sums due by the UCI WorldTeam / UCI ProTeam [ **INSERT NAME OF THE TEAM** ] (paying agent: [ **INSERT NAME OF THE PAYING AGENT** ]) to riders and other creditors covered by said regulations as well as the payment of fees, expenses, indemnities, fines and sanctions or sentences imposed by or in virtue of the regulations of the UCI or related to their application. 
@@ -10808,8 +9934,6 @@ E0226
 270 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 This guarantee is subject to the Uniform Rules for Demand Guarantees (URDG) 2010 Revision, ICC Publication No. 758, the supporting statement under article 15 a. being expressly excluded. 
 
@@ -10859,8 +9983,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 12.01.17)_ 
 
 - **2.15.147** In addition to meeting the conditions set out in the regulations, the following selection criteria shall be taken into consideration by the Professional Cycling Council in deciding to refuse an application, submit the registration to the respect of conditions and/or measures considered appropriate or reduce its duration: 
@@ -10908,8 +10030,6 @@ E0226
 272 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.149** The deadline for the submission of the application for registration is set by the Professional Cycling Council. 
 
@@ -10959,8 +10079,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.156** The UCI shall forward its opinion or report to the Professional Cycling Council prior to the latter’s decision establishing the calendar of the following season. The UCI will have the opportunity to submit further opinions to the extent that the applicant adds new elements to his documentation or new elements come to the UCI’s knowledge in any other way. 
 
 _(article introduced on 18.06.07; text modified on 12.01.17)._ 
@@ -11009,8 +10127,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Expiry of the registration** 
 
 - **2.15.165** Unless renewed, the registration expires automatically at the end of the period for which it was granted. 
@@ -11057,8 +10173,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.11.15; 12.01.17; 01.01.25)._ 
 
 ## **2.15.172  Referral to the UCI Management Committee** 
@@ -11098,8 +10212,6 @@ E0226
 276 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.176** If the owner of the event is not the actual organiser of the event, the event owner must inform the UCI and indicate in the application for registration the exact identity of the actual organiser or of any other intermediary. 
 
@@ -11141,8 +10253,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.15.184** In the absence of regularisation in the manner and in time indicated by the Professional Cycling Council, or in the event of a dispute regarding the existence of a prohibited link or regularisation, the dispute shall be brought before the UCI Management Committee upon simple written request, either by the president of the Professional Cycling Council or by the event owner. If the UCI Management Committee deems that there is a prohibited link within the meaning of article 2.15.179 or 2.15.180, it may submit the registration to the respect of conditions and/or measures considered appropriate, reduce its duration or withdraw it, where appropriate, after having granted a deadline to rectify the situation. 
 
 _(text modified on 01.07.12; 01.11.15; 12.01.17; 01.01.25)._ 
@@ -11182,8 +10292,6 @@ E0226
 278 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 UCI WorldTeams must inform the UCI of the event for which they wish to decline their participation for the following season, if any, no later than 10[th] December. The UCI will inform the organiser who will be required to provide as many additional invitations to UCI ProTeams as the number of UCI WorldTeams which declined. The additional invitations to UCI ProTeams are in addition to obligatory invitations as defined by article 2.1.007bis. 
 
@@ -11225,8 +10333,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **UCI WorldTour promotion** 
 
 - **2.15.196** The event owner shall participate in the promotion of the UCI WorldTour label in the context of his event in accordance with the promotion and merchandising policy to be contractually agreed between the UCI and the event owner. 
@@ -11267,8 +10373,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The Licence Commission makes its decisions based on the registration application file submitted by the UCI, including the reports of the external auditor and the organisational auditor. The Licence Commission may require the external auditor or organisational auditor to produce any document submitted by the applicant in connection with their current application or any previous application. 
 
 _(text modified on 01.01.15; 01.11.15; 12.01.17; 01.10.21; 01.01.25; 01.11.25)._ 
@@ -11306,8 +10410,6 @@ E0226
 281 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.15.208** The decisions of the licence commission shall be taken either by a single judge or by the majority of the panel members. They shall be in writing, dated and signed. The signature of the president shall suffice. 
 
@@ -11348,8 +10450,6 @@ E0226
 282 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 12.01.17)._ 
 
@@ -11404,8 +10504,6 @@ E0226
 283 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 any further documentary submissions and/or hearings. The case shall then be adjudged on the basis of the documentation as submitted to the commission on the occasion of its initial decision. 
 
@@ -11467,8 +10565,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 finance department. 
 
 - **2.15.237** The financial director of the UCI shall draw up an annual report on the use of the sums mentioned in article 2.15.227 and on the fund management. The report will be submitted to the Professional Cycling Council for approval. 
@@ -11511,8 +10607,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 paying agent and share a common identity (at least part of the name and design of the jersey). 
 
 This development team will need to fulfil requirements set for UCI continental teams as per art. 2.17.001 and following. 
@@ -11545,8 +10639,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(paragraph introduced on 01.06.23; text modified on 13.06.23)._ 
 
 E0226 
@@ -11554,8 +10646,6 @@ E0226
 287 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XVI  UCI PROTEAMS** 
 
@@ -11592,8 +10682,6 @@ E0226
 288 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.16.004** The principal partner(s) and the paying agent may act in that capacity with respect to one UCI ProTeam only. 
 
@@ -11637,8 +10725,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 in the country in which the paying agent will be subject to income taxes and social security charges as an employer for all its activities concerning the team. 
 
 The paying agent must keep separate accounts for the activities of the team. The administration of the UCI may issue directives for the procedures for such accounts. On its request or on the request of the UCI, the accounts for the current and/or preceding years must be submitted to the auditor specified in article 2.16.013. 
@@ -11672,8 +10758,6 @@ E0226
 290 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.16.011** By 15 August preceding the registration year, all UCI ProTeams or candidates applying to this status which do not have a valid bank guarantee transmitted by SWIFT for the following season must: 
 
@@ -11716,8 +10800,6 @@ E0226
 291 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - D. the surnames, forenames, addresses, nationalities and dates of birth of the riders; 
 
@@ -11777,8 +10859,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In the event of delay the registration fee will automatically be increased by CHF 500 per day. This increase shall not be cumulative with that applied under article 2.16.012 where they apply to the same period. The team in question may not claim the status of UCI ProTeam. Furthermore the audit shall be postponed until such time as the documentation is in order. 
 
 The documents required for the audit will also include all the contracts signed with riders. The number of these contracts, approved by the auditor, must be at least 10 by 15 October and 15 by 1 November. All the contracts, numbering at least 20*, must be submitted to and approved by the auditor no later than 1 December. 
@@ -11812,8 +10892,6 @@ E0226
 293 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 An additional report is also required should the team's total value of contractual benefits increase without adding to the riders or staff. 
 
@@ -11855,8 +10933,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The decision of the licence commission is subject to appeal to the CAS. 
 
 _(article introduced on 01.07.10; text modified on 01.10.21)._ 
@@ -11890,8 +10966,6 @@ E0226
 295 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.16.022** The registration of a UCI ProTeam with the UCI shall give rise to a registration fee payable by the UCI ProTeam. The amount due shall be determined annually by the UCI Management Committee. 
 
@@ -11933,8 +11007,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 registration year. These sums constitute a contractual debt at the moment of the breach of the contract; and 
 
 - late payment interest on the sums mentioned above up to a maximum of 5%. 
@@ -11971,8 +11043,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The UCI may not be held liable for the inadequacy of the bank guarantee, insolvency of the issuer of the bank guarantee, or any delays in the remittance of funds by the issuer. 
 
 _(text modified on 01.07.10; 01.05.17; 17.06.24)._ 
@@ -12003,8 +11073,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 the paying agent when the bank guarantee has been reconstituted (unless the team is no longer registered as a UCI-registered team). 
 
 4. In the event that all or part of the funds are to be released to the creditor in accordance with article 2.16.027, the UCI shall deduct any unpaid fees, expenses, indemnities, fines, penalties, or charges imposed by or in accordance with UCI regulations, or related to their application, which are due by such creditor to the UCI, from the amount payable to the creditor. In case of ongoing proceeding involving the creditor and which may result in payments being due to the UCI – including but not limited to fines, fees, costs, etc. - the UCI may withhold the payment of amounts due to the creditor until the issuance of a final decision that allows to definitively establish the amount to be paid to the creditor, if any. 
@@ -12032,8 +11100,6 @@ E0226
 299 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.16.030** Whenever a competent authority pronounces the opening of liquidation or bankruptcy **bis** proceedings against a paying agent, the UCI may release the bank guarantee in favour of the liquidation or bankruptcy administration, upon request from the competent authority. 
 
@@ -12065,8 +11131,6 @@ The maximum number of riders per UCI ProTeam which may be registered with the UC
 |1|29|
 |2 or more|30|
 
-
-
 If the number of riders is fewer than the minimum permitted, the UCI shall give notice to the UCI ProTeam and set it a period of 30 days within which to regularise the situation. If this does not occur, the UCI ProTeam shall be liable to a fine of between CHF 5,000 and 50,000. To determine the fine, the UCI shall take specific account of the reduction in the wages bill from which the team benefits during the period for which it is under strength. 
 
 The payment of the fine does not release the UCI ProTeam from the obligation to once more take on the minimum number of riders. 
@@ -12076,8 +11140,6 @@ E0226
 300 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 In the event of persistent failure to comply, the UCI ProTeam will be suspended. 
 
@@ -12097,7 +11159,7 @@ _(text modified on 25.06.08; 01.01.10; 01.10.11; 01.10.12; 01.08.13; 01.07.18; 0
 
    - F. The riders in question may continue to take part in events in their club team or, if appropriate, in their UCI continental team; 
 
-   - G. These riders will be indemnified by the UCI ProTeam on the basis of a flat-rate payment for each race day or day of participation to a UCI ProTeam’s event (example: training camp, promotional event, …), as well as travel days. The amount of the flat rate payment will correspond to at least 50% of the amount of the minimum salary (calculated on a daily pro-rata of the minimum salary for new-professional riders as per the joint agreement). The payment will be made by the UCI ProTeam to the team with which the rider is registered for the season; payment to the rider is then made by the latter team, after deducting sums which they contractually owe the rider[(2)] . 
+   - G. These riders will be indemnified by the UCI ProTeam on the basis of a flat-rate payment for each race day or day of participation to a UCI ProTeam’s event (example: training camp, promotional event, …), as well as travel days. The amount of the flat rate payment will correspond to at least 50% of the amount of the minimum salary (calculated on a daily pro-rata of the minimum salary for new-professional riders as per the joint agreement). The payment will be made by the UCI ProTeam to the team with which the rider is registered for the season; payment to the rider is then made by the latter team, after deducting sums which they contractually owe the rider[(2)]. 
 
 _(1) Upon justification of the participation in a stage race starting in July and ending in August, the registration of these riders may occur in July no earlier than the day before the first race day of the aforesaid race._ 
 
@@ -12116,8 +11178,6 @@ E0226
 301 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 be considered to have been granted if, on being duly requested, the paying agent has not replied within ten days. 
 
@@ -12163,8 +11223,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 7. The first page of the contract must be headed in a striking manner, «contract for a SELFEMPLOYED rider» and summarise the principal obligations of the parties as regards remuneration, tax and social security, as per the standard contract in article 2.16.053bis. The paying agent shall be responsible for the accuracy of these data. 
 
 _(article introduced on 01.06.06; modified on 01.07.12; 01.01.15)._ 
@@ -12207,9 +11265,7 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-invoked against him; the rider or other contracted person may rely on such clauses. The name of the person who signs on behalf of the team must be given on the last page of the contract alongside his or her signature ; 
+invoked against him; the rider or other contracted person may rely on such clauses. The name of the person who signs on behalf of the team must be given on the last page of the contract alongside his or her signature; 
 
 - C. Without prejudice to article 2.16.037, the parties must declare, on any contract submitted to the auditor appointed by the UCI, any other contract concluded concerning the services of the rider or any other contracted person, to the benefit of the UCI ProTeam, regardless of the nature of the services and regardless of the identity of the parties to these other contracts. 
 
@@ -12251,8 +11307,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(article introduced on 01.07.10; text modified on 01.04.11; 17.06.24)._ 
 
 - **2.16.042** Unless ordered otherwise by a competent authority, and without prejudice to potential consequences according to article 2.16.044a and 2.16.044c, the UCI will allow the registration of a rider by a UCI ProTeam during the registration periods stated in article 2.16.041a when the rider’s contract with another UCI-registered team has been unilaterally terminated by either the rider or the UCI-registered team. 
@@ -12280,8 +11334,6 @@ E0226
 305 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 rider, the UCI ProTeam shall enter into a transfer agreement with the rider and his current team. 
 
@@ -12323,8 +11375,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.16.044c** Riders and their agents are responsible for informing the UCI ProTeam wishing to enter into discussions on a potential contract about the rider’s contractual status and, in particular, whether an agreement, in any form, has been entered into in the meantime with another team. 
 
 Any incorrect or misleading information provided by a rider or their agent to the UCI ProTeam on whether the rider is bound by another contract, in any form, for the relevant period shall be sanctioned with a fine corresponding to two months’ salary and a suspension of three months for the rider and a fine corresponding to three months’ salary of the rider and a suspension of two months for the agent. 
@@ -12339,7 +11389,7 @@ In addition, upon entering into a binding agreement (according to applicable law
 
 In case of failure to comply with the obligations under this article, a fee of CHF 200 per day of delay shall be due by the UCI ProTeam. In addition, fines may be imposed as follows: CHF 2,000 to 10,000 for the rider or riders’ agent and CHF 5,000 to 20,000 for the UCI Women’s WorldTeam. 
 
-- **2.16.046** The UCI shall maintain a publication on a platform accessible to UCI-registered teams and riders’ agents which includes the following information : 
+- **2.16.046** The UCI shall maintain a publication on a platform accessible to UCI-registered teams and riders’ agents which includes the following information: 
 
    - the duration of rider contracts; 
 
@@ -12363,13 +11413,9 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.16.048** A rider who is under contract to a UCI ProTeam may, subject to the conditions set out below, conclude a contract to ride for another team (UCI WorldTeam, UCI ProTeam or UCI continental team) in the event that his contract with his current UCI ProTeam is terminated prematurely for recognised reasons relating to the financial situation of that UCI ProTeam. 
 
    1. The rider must notify the UCI of the situation of his current UCI ProTeam, of his particular position and of his intention to seek another team, prior to signing a contract with that team. The UCI may request information from any interested party; 
-
-   2. The contract between the rider and the other team must contain the following clause: “The parties confirm that the contract between the rider and his current UCI ProTeam expires only on .... The paying agent recognises and accepts that this contract will be respected. The present contract is concluded provisionally and shall be subject to the premature termination of the contract between the rider and his current UCI ProTeam on grounds previously authorised by the UCI”; 
 
    3. The contract with the new team shall be lodged with the UCI. Should more than one contract be deposited by the same rider, only the first contract deposited shall be recognised, unless the parties to that contract mutually agree otherwise; 
 
@@ -12399,9 +11445,7 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-- **2.16.051** The UCI is entitled to demand copies of contracts, financial records and any other **bis** document submitted within the registration process, from the concerned rider, UCI ProTeam or auditor in the following cases : 
+- **2.16.051** The UCI is entitled to demand copies of contracts, financial records and any other **bis** document submitted within the registration process, from the concerned rider, UCI ProTeam or auditor in the following cases: 
 
    1. In order to verify compliance with UCI regulations with a view to potentially submitting a petition to the UCI Disciplinary Commission or Ethics Commission; 
 
@@ -12439,8 +11483,6 @@ hereinafter "the Rider"
 
 Whereas: 
 
-- the Employer is in the process of establishing a team of cyclists who, forming the ..... UCI ProTeam and under the direction of Mr (name of the manager or sports director), he intends to take part during the term of the present contract, in cycling road races governed by the regulations of the UNION CYCLISTE INTERNATIONALE; 
-
 - the Rider wishes to join the team (name of the UCI ProTeam); 
 
 - both parties are acquainted with and declare that they will abide wholly by the UCI constitution and regulations, and those of its affiliated National Federations as well as the joint agreements concluded between CPA and AIGCP and approved by the Professional Cycling Council. 
@@ -12450,8 +11492,6 @@ E0226
 309 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 It is thus agreed as follows: 
 
@@ -12470,8 +11510,6 @@ The present contract shall be concluded for a fixed period commencing on ... and
 Unless the contract has already been renewed, each party shall notify the other in writing no later than the 30 September preceding the termination of the contract of his intentions as to the renewal of the contract. A copy of this notification shall be sent to CPA. 
 
 ## **ARTICLE 3 - Remuneration** 
-
-1. The Rider shall have the right to gross annual salary of .... 
 
 This salary may not be less than the higher of the two following amounts: 
 
@@ -12500,8 +11538,6 @@ E0226
 310 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Furthermore, the rider shall have the right to the following bonuses: 
 
@@ -12539,8 +11575,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 with a legitimate need to know for medical purposes, in the interests of the Rider and his health and always with equivalent confidentiality as when processed by the Medical Data Processors. 
 
 The Rider retains the right to access his medical data as provided by applicable laws and regulations. In the event the Rider has any queries about his medical data the team doctor can be contacted at the following address:_______________(email address of the team doctor) and the UCI (also for any queries regarding medical data processed by its provider service) at the following address: data.protection@uci.ch. 
@@ -12574,8 +11608,6 @@ E0226
 312 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 period in excess of 6 weeks or over four discontinuous periods of 7 days each, during which periods at least 1 one-day race on the international calendar took place. Where relevant, the Employer shall be required to prove that the Rider was not in a condition to take part in a race. 
 
@@ -12611,8 +11643,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The rider shall have the right to ascertain from the UCI-appointed auditor the contract(s) which has/have been submitted to the latter by the paying agent. The contract(s) shall be covered by the bank guarantee subject to the conditions and restrictions set out in articles 2.16.023 to 2.16.031 of the UCI cycling regulations. 
 
 ## **ARTICLE 12 - Declaration** 
@@ -12620,8 +11650,6 @@ The rider shall have the right to ascertain from the UCI-appointed auditor the c
 The parties declare that in addition to the present contract, 
 
 - no other contracts have been concluded in connection with the services of the Rider for the benefit of the UCI ProTeam according to the sense of articles 2.16.037, 2[nd] paragraph, and 2.16.040, 3[rd] paragraph, of the UCI cycling regulations. 
-
-Done at ..... on ..... 
 
 In 3 original copies 
 
@@ -12651,8 +11679,6 @@ Date of signature: Contract in force from ... to ... Total remuneration and othe
 
 3. ... 
 
-Done at ..... on ..... 
-
 In 3 original copies 
 
 The Rider For the UCI ProTeam Rider’s agent The paying agent [name of signatory] 
@@ -12669,11 +11695,7 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - no other contracts have been concluded in connection with the services of the contracting person for the benefit of the UCI ProTeam according to the sense of article 2.16.040.3 of the UCI cycling regulations. 
-
-Done at ..... on ..... 
 
 In 3 original copies The contracting person For the UCI ProTeam Rider’s agent The paying agent [name of signatory] 
 
@@ -12699,8 +11721,6 @@ Date of signature: Contract in force from ... to ... Total remuneration and othe
 
 3. ... 
 
-Done at ..... on ..... In 3 original copies The contracting person For the UCI ProTeam Rider’s agent The paying agent [name of signatory] 
-
 _(text modified on 01.06.06; 01.07.11)._ 
 
 ## **Model for the first page for the “contract for a SELFEMPLOYED rider”** 
@@ -12718,8 +11738,6 @@ E0226
 315 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Effective monthly net remuneration: The rider is required to issue invoices: 
 
@@ -12775,8 +11793,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The obligation of disclosure on events is as set out in article 2.15.240. 
 
 The obligation of disclosure concerns only the remuneration and other advantages that are not foreseen in the UCI Regulations. 
@@ -12812,8 +11828,6 @@ E0226
 317 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XVII  UCI CONTINENTAL TEAMS** 
 
@@ -12852,8 +11866,6 @@ E0226
 318 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 having competed in the UCI Track World Championships or Continental Championships of the current or previous (track) season. 
 
@@ -12898,8 +11910,6 @@ E0226
 319 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Trainees** 
 
@@ -12955,8 +11965,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Furthermore, the team representative and the principal partners must inform the National Federation without delay of any of the following: a change of domicile or registered offices, reduction in capital, change of legal form or identity (merger, takeover), request for or implementation of any agreement or any measure concerning all creditors. 
 
 ## **§ 2 Requirements imposed on the team by the National Federation** 
@@ -12999,8 +12007,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Bank guarantee** 
 
 - **2.17.017** For each registration year, a UCI women's or UCI continental team or any team applying for this status must set up an unconditional bank guarantee (comprehensive guarantee) in favour of its National Federation, using the model set out in article. 2.17.029. 
@@ -13033,8 +12039,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Calling up the bank guarantee** 
 
 - **2.17.023** The National Federation shall call up the bank guarantee in favour of the creditor specified in article 2.17.018 unless the claim is manifestly unfounded. The UCI Continental team or UCI women’s continental team shall be notified of the creditor's claim and the call on the guarantee. 
@@ -13064,8 +12068,6 @@ E0226
 323 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.17.027** A UCI Continental team or UCI women’s continental team whose guarantee is drawn upon shall be automatically suspended if the guarantee is not made up to its full amount within one month. 
 
@@ -13106,8 +12108,6 @@ E0226
 324 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Contract** 
 
@@ -13167,8 +12167,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 It is thus agreed as follows: 
 
 ## **ARTICLE 1 - Engagement** 
@@ -13219,8 +12217,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **ARTICLE 6 - Miscellaneous obligations** 
 
 - i. The Rider may not, for the duration of the present contract, work for any other team or advertise for any other sponsors than those belonging to the UCI Team (name of team), save in such cases as are provided for in the regulations of the UCI and its affiliated federations. 
@@ -13265,8 +12261,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 announces its dissolution, the winding up of its activities or its inability to meet its commitments; should this be announced for a given date, the Rider shall continue to perform the contract until that date; 
 
    - iii. in the event of serious misconduct on the part of the Team. Serious misconduct is considered to include a failure to permit the Rider, despite his repeated requests, to participate in competitions over a continuous period in excess of six weeks or over four discontinuous periods of seven days each, during which periods at least one one-day race on the continental calendar took place. Where relevant, the Team shall be required to prove that the Rider was not in a condition to take part in a race. 
@@ -13304,8 +12298,6 @@ E0226
 328 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 1. (name and address) (where applicable, the employer) 
 
@@ -13365,8 +12357,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 1. The Team shall pay the sums referred to in article 3 on or before the last working day of each month, provided that the Rider’s expenses form has been received by the 20th of the month in question; 
 
 2. In the event of a failure to make payment of the sums due on their due date, the Rider shall have the right, without notice, to the interest and increases provided under national legislation; 
@@ -13405,8 +12395,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The Rider shall inform the Team of any such activity and/or use of equipment beforehand and the latter shall not be requested to bear any costs related thereto. 
 
 For the sake of clarity, any and all image rights granted to the Team by the Rider shall remain in force until expiry of the present contract 
@@ -13442,8 +12430,6 @@ E0226
 331 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ARTICLE 11 - Declaration** 
 
@@ -13486,8 +12472,6 @@ E0226
 332 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.07.10; 01.05.17; 01.07.18)._ 
 
@@ -13535,8 +12519,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Penalties** 
 
 - **2.17.039** The National Federation must appoint qualified and independent persons to manage the registration process and set up suitable procedures. For this procedure, at least one specialist must be involved to assist with legal and financial questions. 
@@ -13565,8 +12547,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _This page is intentionally left blank._ 
 
 E0226 
@@ -13574,8 +12554,6 @@ E0226
 335 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XVIII  MEN ELITE UCI PROSERIES** 
 
@@ -13627,8 +12605,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The UCI Management Committee may decide to exceed the maximum percentage on a case-by-case basis. 
 
 (text modified on _20.10.25_ ). 
@@ -13649,8 +12625,6 @@ The UCI Management Committee may decide to exceed the maximum percentage on a ca
 |Minimum number of UCI WorldTeams and UCI ProTeams at the<br>start for the relevant year|10|
 |Minimum number of UCI WorldTeams at the start for the relevant<br>year|3|
 |Minimum number of UCI ProTeams at the start for the relevant<br>year|5|
-
-
 
 - B. the format, structure and nature of the event, contributing to the image of the UCI ProSeries as elite events; 
 
@@ -13675,8 +12649,6 @@ E0226
 337 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - L. respect of sporting ethics; 
 
@@ -13722,8 +12694,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The UCI Management Committee shall decide, at its discretion, whether additional documents and information are required from the applicant. If this is the case, the UCI Management Committee shall set relevant deadlines and may summon the applicant to a hearing. 
 
 - **2.18.015** The dossier shall be drafted in French or English. Documents by third parties that are written in another language must be accompanied by a translation into the language of the dossier. 
@@ -13758,8 +12728,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Duration of registration** 
 
 - **2.18.022** The UCI ProSeries calendar consists of cycles of three seasons starting from the 20202022 cycle. Events are registered for one to three seasons depending on their entry into the cycle in progress. 
@@ -13775,8 +12743,6 @@ E0226
 340 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.18.024** The owner of an event for which registration on the UCI ProSeries calendar is expiring may request registration for a further three-year cycle by following the same procedure as used for the initial application. 
 
@@ -13818,8 +12784,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.18.034** If the actual organiser of the event changes during the registration period, the UCI Management Committee must be informed by the event owner. 
 
 - **2.18.035** The event owner shall not have any link, whether directly or indirectly, with a team registered with the UCI. In exceptional cases, which do not call into question the integrity or sporting equity of the event, the UCI Management Committee may grant a derogation of this article. 
@@ -13848,8 +12812,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Financial transparency** 
 
 - **2.18.044** The event owner accepts the principle of financial transparency by spontaneously and comprehensively informing the UCI Management Committee and providing it with all useful documentation and information in the following cases: 
@@ -13877,8 +12839,6 @@ E0226
 343 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIX  UCI WOMEN’S PROTEAMS** 
 
@@ -13912,8 +12872,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The change of nationality comes into effect on 1st January following its notification to the UCI administration. 
 
 - **2.19.007** The members of UCI Women’s ProTeams may have no link with the members of other UCI Women’s WorldTeams, UCI Women’s ProTeams or with UCI women’s continental teams likely to challenge or be perceived to challenge the integrity of the competition or sporting fairness. In particular, it would be considered that any common main sponsor, ownership structure, shareholding or senior managers between these teams challenges the integrity of the competition and/or sporting fairness. 
@@ -13940,8 +12898,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.19.014** The UCI Women’s ProTeam must propose to the UCI-appointed auditor, for prior approval, a State-approved company auditor. The auditor must be independent of the UCI Women’s ProTeam, its members and associated persons or bodies. In this respect, they will sign a declaration that there is no conflict of interests. 
 
 This proposal must be made by 1st July at the latest. It must be renewed annually before the same date. However the UCI Women’s ProTeam may propose, and the UCI-appointed auditor may accept, the same company auditor for a period not exceeding four years. 
@@ -13967,8 +12923,6 @@ E0226
 346 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.19.022** Without having to request them, the UCI-appointed auditor must receive each year, no later than 30[th] June, a copy of the annual accounts closed on 31 December of the previous year and the company auditor's report. However, the UCI may require these documents for 1[st] March at the earliest, by request sent two months in advance. 
 
@@ -14006,8 +12960,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.19.030** The paying agent must be a trading company or other legal entity authorised by the law in the country in which the company has its registered offices. 
 
 - **2.19.031** The paying agent may only act through the intermediary of the physical persons holding a personal licence as set out in article 1.1.010. 
@@ -14042,8 +12994,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The maximum number of riders per UCI Women's ProTeam which may be registered with the UCI is restricted according to the number of new professional riders under contract (as per article 2.19.042), in the following manner: 
 
 |contract (as per article 2.19.042), in the|following manner:|
@@ -14052,8 +13002,6 @@ The maximum number of riders per UCI Women's ProTeam which may be registered wit
 |0|18|
 |1|19|
 |2|20|
-
-
 
 The riders taken into account must be contracted on a full-time basis and for the whole registration year. 
 
@@ -14086,8 +13034,6 @@ E0226
 349 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
    1. The rider reaches the age of 24 during this period; 
 
@@ -14123,8 +13069,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In all other respects, the relationship between the rider and the UCI Women’s ProTeam shall be mutually agreed between the parties. 
 
 ## **§6 Contract** 
@@ -14159,16 +13103,12 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ||Employee|Employee|Self-employed(164%)|Self-employed(164%)|
 |---|---|---|---|---|
 ||New<br>Professional|Other|New<br>Professional|Other|
 |2025 Season|16’720 €|20 000€|27’420 €|32’800 €|
 |2026 Season|18’392€|22’000 €|30’162 €|36’080 €|
 |2027 Season|20’064 €|24’000 €|32’905 €|39’ 360 €|
-
-
 
 The salary for the following years will be covered in an amendment to these regulations. 
 
@@ -14210,11 +13150,7 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## Whereas: 
-
-- the Employer is engaged in setting up a cycling team who, within the UCI Women’s ProTeam.... and under the management of ….. .(name of manager or sports director), intend to take part, during the duration of the present contract, in cycle road races governed by the regulations of the Union Cycliste Internationale; 
 
 - the Rider wishes to join the team (name of the UCI Women’s ProTeam); 
 
@@ -14242,8 +13178,6 @@ terminate the present contract without notice or compensation.
 
 This contract shall be entered into for a fixed period commencing on ... and expiring 
 
-on 31st December.... 
-
 Unless the contract has already been renewed, each party shall notify the other in writing, no later than the 30 September preceding the termination of the contract, of their intentions as to the renewal of the contract. 
 
 E0226 
@@ -14252,11 +13186,7 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **ARTICLE 3 - Salary** 
-
-- The Rider is entitled to a gross annual salary of.... 
 
 This pay may not be less than the higher of the two following amounts: 
 
@@ -14288,15 +13218,11 @@ Furthermore, the Rider shall have the right to the following bonuses:
 
 none 
 
-
 ![](images/2-ROA-20260206-E.pdf-0354-17.png)
-
 
 1… 
 
-
 ![](images/2-ROA-20260206-E.pdf-0354-19.png)
-
 
 2… 
 
@@ -14307,8 +13233,6 @@ E0226
 354 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ARTICLE 6 - Miscellaneous obligations** 
 
@@ -14348,8 +13272,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Rider understands that, under this provision, only medical data pertinent to the Rider's health and necessary for the purpose of the “Programme of obligatory tests for UCI medical monitoring” – the objective of which is to safeguard the health and safety of riders - will be collected and processed. 
 
 The Rider further acknowledges that any disclosure of medical data to persons other than those designated as Medical Data Processors shall be limited to those individuals with a legitimate need to know for medical purposes, in the interests of the Rider and his health and always with equivalent confidentiality as when processed by the Medical Data Processors. 
@@ -14375,8 +13297,6 @@ E0226
 356 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 provisions of the UCI Regulations. 
 
@@ -14412,8 +13332,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 her repeated requests, to participate in 5 consecutive competitions in which the team participates. 
 
 Where relevant, the Employer shall be required to prove that the Rider was not in a condition to take part in a race; 
@@ -14447,8 +13365,6 @@ E0226
 358 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 body: … 
 
@@ -14500,8 +13416,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Signed in … on … 
 
 In 3 original copies 
@@ -14539,8 +13453,6 @@ E0226
 360 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Effective monthly earnings payable: The rider is required to issue invoices: YES NO 
 
@@ -14590,8 +13502,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.19.062** The obligation to complete this declaration and submit it to the UCI-appointed auditor is applicable at any time, even if the relevant agreement intervenes after the signature of the employment contract and its filing with the auditor. 
 
 All contracts must be included in the budget and in the calculations of the sum for the bank guarantee. 
@@ -14622,8 +13532,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 This entitlement shall cease at the end of the pregnancy or contract. 
 
 The entitlement to the salary shall be assumed by the UCI Women’s ProTeam, after deduction of social insurance benefits for loss of revenue to which the rider may be entitled for this situation. 
@@ -14642,8 +13550,6 @@ The pregnancy shall be duly established. The UCI Women’s ProTeam may require t
 |Maternity insurance|Insurance covering maternity-related costs<br>(examinations and costs during pregnancy and<br>childbirth)|
 |Pension plan|Insurance providing for the payment of a pension,<br>annuities or a capital at the end of the professional<br>cycling career at the earliest, with a premium that will<br>represent at least 12% of gross annual salary, limited<br>to €115,000 per year|
 
-
-
 3. The UCI Women’s ProTeam shall cover half of the insurance premiums set out in point two: 
 
    1. if the rider has been able to become affiliated, as a free policyholder for example, with another legal social security system to that to which the UCI Women’s ProTeam is subject; 
@@ -14658,8 +13564,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2.19.069** Independently of the benefits referred to in article 2.19.068, the UCI Women’s ProTeam shall take out and cover the costs: 
 
 |**Type of insurance**|**Description**|
@@ -14669,15 +13573,11 @@ ROAD RACES
 |Life insurance|A life insurance policy pursuant to which an amount<br>of €100,000 will be paid to the beneficiaries<br>designated by the rider in the policy.<br>The following may be excluded from cover: risks<br>linked to high-risk sports or sporting activities<br>unrelated to the preparation, maintenance or<br>recovery of the cyclist’s physical condition, such as<br>air sports, motorsports (including motorised vehicles,<br>on land or not), ice sports, combat sports, caving,<br>rafting, sport climbing, SCUBA diving, as a<br>participant, instructor, official or in any role other than<br>that of spectator.|
 |Permanent disability<br>insurance|An insurance policy pursuant to which a minimum<br>amount of €250,000 will be paid to the rider in the<br>event of absolute and permanent disability due to an<br>accident (24/7); permanent disability resulting from<br>illness or disorders caused by the practice of cycling<br>must not be covered by this policy.<br>The following may be excluded from cover: risks<br>linked to high-risk sports or sporting activities<br>unrelated to the preparation, maintenance or<br>recovery of the cyclist’s physical condition, such as<br>air sports, motorsports (including motorised vehicles,<br>on land or not), ice sports, combat sports, caving,<br>rafting, sport climbing, SCUBA diving, as a<br>participant, instructor, official or in any role other than<br>that of spectator.|
 
-
-
 E0226 
 
 364 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.19.070** The UCI Women’s ProTeam shall attach to each contract a list of the legal or contractual insurance benefits to which the rider will, or will not, be entitled. 
 
@@ -14713,8 +13613,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The President of the UCI Arbitral Board can also make the authorisation conditional on the increase of the UCI Women’s ProTeam’s bank guarantee for an amount corresponding to half of the residual remuneration under the terminated contract. Such amount shall be released from the bank guarantee by the UCI upon the competent authority rendering a final decision finding the unilateral termination lawful and called-up by the UCI for payment to the former team in case the decision finds the termination unlawful. The amount may also be called-up by the UCI and blocked on a dedicated account in case the bank guarantee is due to expire – such as but not limited to cases where the team ceases its activities - before the issuance of the aforementioned final decision. The amount shall, in any case, not be used for any other purpose prior to issuance of the final decision based on which the UCI may either release the funds to the rider’s new team or seize the funds for distribution to the former team. 
 
 - **2.19.075** In any case where a rider is already contracted with another UCI-registered team, registration with a UCI Women’s ProTeam in accordance with articles 2.19.073a and 2.19.073b shall only be completed upon receipt by the UCI of proof of termination of the relevant contract, if any. Such proof may be the transfer agreement between the two teams concerned and the rider, the mutual termination agreement between the team and the rider or the unilateral termination notice by the team or the rider. 
@@ -14740,8 +13638,6 @@ E0226
 366 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 terminated by the rider. In case such information is notified to the UCI between 1 August and 31 December, the ban on registering riders under let c) shall apply from 1 January of the following year. The effective period of suspensions under let d) shall be set by the UCI in accordance with article 12.3.020. 
 
@@ -14772,8 +13668,6 @@ E0226
 367 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 2.19.044 et seq. of UCI Regulations and submit it to the auditor appointed by the UCI within a deadline of 30 days _._ 
 
@@ -14809,8 +13703,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Compulsory staff** 
 
 - **2.19.084** Each UCI Women’s ProTeam must employ — on a full-time basis and for the whole registration year — at least 1 sport director and 3 other staff members, who must all be paid for their activity (coaches, doctors, paramedical assistants, mechanics, etc.). 
@@ -14821,7 +13713,7 @@ ROAD RACES
 
 - **2.19.086** Each licence-holder and each UCI Women’s ProTeam must give to the UCI, upon first request, any document or information which it deems useful for verifying compliance with the regulations and the rights and interests of members of the UCI Women’s ProTeam. In the event of refusal, without prejudice to other consequences, the licence-holder shall be liable to a fine of between CHF 500 and 2,000 and the UCI Women’s ProTeam to a fine of CHF 5,000. Furthermore, the offending party may be suspended in accordance with article 12.4.017. 
 
-- **2.19.087** The UCI is entitled to demand copies of contracts, financial records and any other document submitted within the registration process, from the concerned rider, the UCI Women’s ProTeam or auditor in the following cases : 
+- **2.19.087** The UCI is entitled to demand copies of contracts, financial records and any other document submitted within the registration process, from the concerned rider, the UCI Women’s ProTeam or auditor in the following cases: 
 
    1. In order to verify compliance with UCI regulations with a view to potentially submitting a petition to the UCI Disciplinary Commission or Ethics Commission; 
 
@@ -14846,8 +13738,6 @@ E0226
 369 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.19.090** By being registered, the UCI Women’s ProTeam commits to participate in the anti-doping programme defined by the International Testing Agency (ITA). 
 
@@ -14884,8 +13774,6 @@ E0226
 370 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Audits related to the registration procedure** 
 
@@ -14937,8 +13825,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Concerning rider and staff contracts, a copy must be sent electronically to the auditor. The original document must be kept by the team and made available at any time if requested by the auditor. 
 
 - **2.19.100** The budget and the bank guarantee to be submitted by 15 October must take account of all the riders that the UCI Women’s ProTeam intends to recruit. 
@@ -14983,8 +13869,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In case of reoccurrence of an infringement, the fine imposed may be doubled and a suspension of up to one month may be imposed on the person responsible for such infringement and/or the UCI Women’s ProTeam. 
 
 ## **Common provisions to the financial audit and organisational audit** 
@@ -15014,8 +13898,6 @@ E0226
 373 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.19.111** All expenses resulting from additional work, carried out by the auditor or the organisational auditor on a UCI Women’s ProTeam, or a team that is a candidate for this status, may be invoiced to the team as additional audit costs. 
 
@@ -15048,8 +13930,6 @@ E0226
 374 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Reporting requirements** 
 
@@ -15086,8 +13966,6 @@ E0226
 375 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 random audit may be charged to the team and a fine may be imposed under the relevant provisions. 
 
@@ -15127,8 +14005,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
    - J. debts contracted by any other party in return for the services of a rider or any other member under contract for the benefit of the UCI Women’s ProTeam shall be considered as debts contracted by the paying agent and the sponsors and covered by the guarantee, in particular debts contracted under the contracts referred to in articles 2.19.060 and 2.19.061; 
 
    - K. the companies through which the licence holders concerned, apart from the riders, carry out their activities for the operation of the UCI Women’s ProTeam shall be considered as members of the UCI Women’s ProTeam; 
@@ -15163,8 +14039,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **2.19.132** If the bank guarantee proves to be inadequate, the UCI Women’s ProTeam shall be liable for a fine of between CHF 1,000 and 10,000. In addition, the UCI Women’s ProTeam will be automatically suspended if it fails to establish the additional or amended guarantee within one month of the date of the decision to impose the fine and for so long as it fails to do so. In the event of persistent default, the UCI may refer the case to the licence commission in accordance with article 2.19.147. 
 
 - **2.19.133** The UCI may not be held responsible for the inadequacy of the guarantee, insolvency of the issuer of the bank guarantee, or any delays in the remittance of funds by the issuer. 
@@ -15195,8 +14069,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 basis during the three months following the date of their call on the guarantee, the paying agent may apply to the UCI to have the blocked funds released in their favour. The funds shall be released should the creditor fail to take proceedings within one month of the despatch of notice by the UCI. The creditor then has 15 days to provide the UCI with proof that they have commenced proceedings. If the body before which the creditor has commenced proceedings declares that it is not competent, the creditor must take fresh proceedings within one month of learning of this decision. Should this not be the case, the paying agent may call on the UCI to release the funds in their favour. The funds shall be released should the creditor fail to take further proceedings within one month of the despatch of notice by the UCI. The creditor then has 15 days to provide the UCI with proof that they have recommenced proceedings. 
 
 **2.19.140** Any creditor having called-up the bank guarantee shall keep the UCI informed of all follow-up action and proceedings initiated before the competent decision-making body. If the creditor fails to provide the UCI with information regarding the status of proceedings before the competent decision-making body during a period of three years as from blocking of the funds by the UCI or as from the last notification from the creditor, the UCI shall release the funds in favour of the paying agent in accordance with article 2.19.140bis. 
@@ -15216,8 +14088,6 @@ E0226
 379 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 payment are fulfilled. The acknowledged balance of the debt may be paid from the global guarantee on condition that the latter is not exhausted at the end of its period of validity. In the event that there are several creditors, the available balance of the guarantee will be allocated proportionally between them. 
 
@@ -15251,8 +14121,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 In the event of any change in the status or name of the team upon issuance of this performance bond, this performance bond continues to cover debts and obligations of the team both under the old and new team name/status without requiring any amendment or reissuance of this performance bond. Guarantee amount and currency: [ **INSERT AMOUNT & CURRENCY** ] (in words: [ **INSERT AMOUNT & CURRENCY** ]) ("GUARANTEE AMOUNT") Form of Presentation ("FORM OF PRESENTATION"): Paper form or transmitted in full by authenticated swift through one of the GUARANTOR's correspondent banks. For the purpose of identification, the BENEFICIARY's demand and supporting statement must bear or be accompanied by a signed confirmation of one of the GUARANTOR's correspondent banks stating that the latter has verified the BENEFICIARY's signature(s) appearing thereon. In case of a swift transmission through one of the GUARANTOR's correspondent banks, the latter has to confirm having verified the BENEFICIARY's signature(s) appearing on the demand and supporting statement. 
 
 In case that at the time of a demand under this guarantee, there is a client relationship between BENEFICIARY and a branch of the GUARANTOR in ( **INSERT COUNTRY OF GUARANTOR** ) with a valid list of authorized signatures regarding the persons signing for the BENEFICIARY, the verification of signature(s) by a third bank is not required. In such case, BENEFICIARY's demand and supporting statement must be presented to the GUARANTOR duly signed in paper form (swift excluded). 
@@ -15272,8 +14140,6 @@ E0226
 381 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **2.19.146a** The administrative criterion takes particular account of the compliance of the application and registration documentation (contracts, insurance, bank guarantee, etc.), the professionalism and rapidity with which this documentation is assembled and respect for deadlines. 
 
@@ -15308,8 +14174,6 @@ E0226
 382 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - ✓ The team must have internal medical regulations describing terms and conditions of care for riders as well as, in particular, access to medical data; 
 
@@ -15347,8 +14211,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The development team will need to fulfil requirements set for UCI continental teams as per art. 2.17.001 and following. 
 
 - **2.19.150** The registration of the development team shall be done through the national federation of the nationality of the majority of the riders as per art. 2.17.001, or through the national federation of the nationality of the UCI Women’s ProTeam. 
@@ -15369,19 +14231,15 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Annex A Minimum criteria for International road events (Women Elite)** 
 
 |**International calendar**|**Minimum required**|
 |---|---|
 |||
 |**Women Elite events**||
-|UCI Women’s<br>WorldTour|**TV production**<br>1.<br>Live TV diffusion of minimum 45 minutes<br>2.<br>Minimum quality of the signal<br>**Events’ history**<br>3.<br>Year Y-1 : UCI ProSeries<br>4.<br>Year Y-2 : Class 1<br>**Other requirements**<br>5.<br>Minimum 15 teams at the start<br>6.<br>Respect of obligations in terms of “UCI” visual<br>identity|
-|UCI ProSeries|**TV production**<br>7.<br>Live TV or Internet or highlights of 20 minutes<br>minimum<br>**Events’ history**<br>8.<br>Year Y-1 : UCI Women’s WorldTour or Class 1<br>or<br>9.<br>Organiser of a UCI WorldTour event<br>**Other requirements**<br>10. Minimum 15 teams at the start<br>11. Evaluation of the commissaire’s report of Year Y-1<br>12. Evaluation of the participation of Year Y-1|
-|Class 1 events|**TV production**<br>13. Highlights of 2 minutes minimum of the race or each<br>stage to be broadcast at least on social media<br>**Event’s history**<br>Year Y-1 :<br>14. Class 2<br>or<br>15. Organiser of a Men Elite UCI ProSeries minimum<br>**Other requirements**<br>16. Minimum 15 teams at the start<br>17. Evaluation of the commissaire’s report of Year Y-1<br>18. Evaluation of the participation of Year Y-1|
-
-
+|UCI Women’s<br>WorldTour|**TV production**<br>1.<br>Live TV diffusion of minimum 45 minutes<br>2.<br>Minimum quality of the signal<br>**Events’ history**<br>3.<br>Year Y-1: UCI ProSeries<br>4.<br>Year Y-2: Class 1<br>**Other requirements**<br>5.<br>Minimum 15 teams at the start<br>6.<br>Respect of obligations in terms of “UCI” visual<br>identity|
+|UCI ProSeries|**TV production**<br>7.<br>Live TV or Internet or highlights of 20 minutes<br>minimum<br>**Events’ history**<br>8.<br>Year Y-1: UCI Women’s WorldTour or Class 1<br>or<br>9.<br>Organiser of a UCI WorldTour event<br>**Other requirements**<br>10. Minimum 15 teams at the start<br>11. Evaluation of the commissaire’s report of Year Y-1<br>12. Evaluation of the participation of Year Y-1|
+|Class 1 events|**TV production**<br>13. Highlights of 2 minutes minimum of the race or each<br>stage to be broadcast at least on social media<br>**Event’s history**<br>Year Y-1:<br>14. Class 2<br>or<br>15. Organiser of a Men Elite UCI ProSeries minimum<br>**Other requirements**<br>16. Minimum 15 teams at the start<br>17. Evaluation of the commissaire’s report of Year Y-1<br>18. Evaluation of the participation of Year Y-1|
 
 _(text introduced on 23.10.19; text modified on 01.11.21)._ 
 
@@ -15390,8 +14248,6 @@ E0226
 385 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Annex B Protocol for discussions regarding extreme weather and the riders’ safety during events** 
 
@@ -15415,8 +14271,6 @@ This document forms an integral part of the UCI Regulations and is applied in ac
 |2.1.5|Poor visibility;|
 |2.1.6|Air pollution.|
 
-
-
 2.2 In case of a significant deterioration in weather conditions or during the stage or race. There is a significant deterioration in weather conditions in-race if one of the following criteria are met: 
 
 2.2.1 Poor visibility 2.2.2 Strong wind; 2.2.3 Snowfall or icy road conditions; 2.2.4 Extreme temperatures; 2.2.5 A mass crash causing partial or total road blockage and limiting emergency ressources; 2.2.6 Warnings issued by local authorities or emergency services indicating imminent, localized danger to the peloton. 
@@ -15434,8 +14288,6 @@ E0226
 386 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 2.3.4 Failure to control spectators (behaviour, crowd management, smoke bombs, etc.); 2.3.5 Failings relating to the movement of vehicles in the race convoy. 
 
@@ -15479,27 +14331,25 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The following persons may attend the meetings held prior to the start of the stage/race: 
 
 - The President of the Commissaires’ Panel, 
 
 - The Organiser’s representatives:  the Race Director (or its representative),  the Race Doctor, and the Event Safety Manager. 
 
-- The teams’ representatives: the Sports Director of a participating team appointed by the AIGCP[(1)] and  the team doctor of a participating team appointed by the AIGCP, if any[(2)] . 
+- The teams’ representatives: the Sports Director of a participating team appointed by the AIGCP[(1)] and  the team doctor of a participating team appointed by the AIGCP, if any[(2)]. 
 
-- The riders’ representative appointed by the CPA[(3)] ; 
+- The riders’ representative appointed by the CPA[(3)]; 
 
 - A UCI representative (if attending the event). 
 
 - The President of the AICGP and the CPA (if attending the event). 
 
-5. Meetings held during the stage or race If the President of the Commissaires’ Panel decides to neutralise the stage or race in accordance with Sections 1 and 2 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions_ , he shall convene a Decision Panel according to Section 3.3 of the above Restart Protocol. 
+5. Meetings held during the stage or race If the President of the Commissaires’ Panel decides to neutralise the stage or race in accordance with Sections 1 and 2 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions_, he shall convene a Decision Panel according to Section 3.3 of the above Restart Protocol. 
 
 The President of the Commissaires’ Panel shall also convene a Decision Panel if the two teams’ representatives formally request an immediate evaluation due to a serious safety risk. 
 
-The composition of the Decision Panel shall be the one indicated in Section 3.3 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions._ For the representation of the riders during the race, three riders can be named by the CPA in advance _[(4)]_ . 
+The composition of the Decision Panel shall be the one indicated in Section 3.3 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions._ For the representation of the riders during the race, three riders can be named by the CPA in advance _[(4)]_. 
 
 The Decision Panel may deliberate via radio or other secure channels and shall make express decisions as quickly as possible to avoid unnecessary disruption of the race. For any decision made during the stage or race, the President of the Commissaires’ Panel shall use best efforts to ensure an adequate consultation of stakeholders in consideration of the specific circumstances. Any decision must remain proportionate, limited in scope and duration, and strictly based on the risk identified. 
 
@@ -15519,8 +14369,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _Sport Directors’ meeting. If a riders’ representative is not appointed by the CPA, this representative will be appointed by the President of the Commissaires’ Panel (with the agreement of the rider concerned)._ 
 
 > (4) _Riders shall avoid as much as possible appointing representatives who are likely to have a direct interest in the outcome of potential decisions that may be taken during the race (e.g. leaders or direct contenders for the general classification or points classification, as well as their teammates). The President of the Commissaires’ Panel may rely on the opinion expressed by the majority of the riders’ representatives consulted._ 
@@ -15538,8 +14386,6 @@ E0226
 389 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Annex C Protocol for discussions regarding high temperatures and the riders’ safety during events** 
 
@@ -15579,11 +14425,11 @@ The meeting shall have the following participants:
 
    - Teams’ representatives: 
 
-      - Sports Director of a participating team appointed by the AIGCP;[(1)] ; 
+      - Sports Director of a participating team appointed by the AIGCP;[(1)]; 
 
-      - Team doctor of a participating team appointed appointed by the AIGCP, if any[(2)] ; 
+      - Team doctor of a participating team appointed appointed by the AIGCP, if any[(2)]; 
 
-3. Riders’ representative appointed by the CPA[(3)] ; 
+3. Riders’ representative appointed by the CPA[(3)]; 
 
 4. UCI representative if attending the event. 
 
@@ -15594,8 +14440,6 @@ E0226
 390 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(1) The teams’ representative appointed by the AIGCP will make himself or herself known to the President of the Commissaires’ Panel of the event, at the latest by the start of the Sport Directors’ meeting. If a teams’ representative is not appointed by the AIGCP, this representative will be appointed during the Sport Directors meeting._ 
 
@@ -15643,8 +14487,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - 5 The estimated value of the WBGT index appears in the "WBGT (outdoors)" cell. 
 
 ## **Risk assessment for the riders’ safety** 
@@ -15666,8 +14508,6 @@ E0226
 392 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Decisions** 
 
@@ -15696,8 +14536,6 @@ E0226
 393 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Annex D Riders’ Agent Regulations** 
 
@@ -15737,8 +14575,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Examination** 
 
 - **Article 5.** Any individual who wants to conduct the activities of an RA shall submit a written application to the UCI to take the examination. 
@@ -15777,8 +14613,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **Article 14.** The RA is responsible for keeping this insurance policy continuously up to date in respect of any changes of the total of contracts achieved, the implementation of guarantees and obligations incumbent on the RA and the policy's renewal on expiry. 
 
 - **Article 15.** In the event of the non-respect of Article 14, the RA is liable to sanctions imposed by the UCI, in accordance with these regulations. 
@@ -15814,8 +14648,6 @@ E0226
 396 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 In absence of a request for renewal of the certificate before its expiration, it shall be deemed terminated. A candidate wishing to practice as a riders’ agent after such expiration shall have to resit the examination in order to be issued a new certificate. 
 
@@ -15855,8 +14687,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **Article 28.** The standard contract is drawn up in triplicate and all constituent pages shall be duly signed by both parties. The first copy is for the rider, the second is retained by the licensed RA who then sends the third copy to the Federation for registration within 30 working days of signature. 
 
 - **Article 29.** When the licensed RA negotiates a contract with a team for a rider that is of a duration in excess of that of the contract between the licensed RA and the rider, the RA shall continue to have the right to receive the due remuneration until the expiry of the rider's contract with the team. 
@@ -15890,8 +14720,6 @@ E0226
 398 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **Article 32.** Any licensed RA who abuses the rights conferred, or who does not comply with the obligations established by these Regulations, shall be liable to sanctions such as those described below. 
 
@@ -15943,8 +14771,6 @@ E0226
 
 ROAD RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **Article 41.** Further to the sanctions described by Part XII of the UCI Regulations, the following sanctions can be specifically applied to teams that contravene these Regulations and/or annexes: 
 
    - A. warning; 
@@ -15957,7 +14783,7 @@ The sanctions may be cumulative.
 
 - **Article 42.** Further to the sanctions described by Part XII of the UCI Regulations, the following sanctions can be applied to an organiser who contravenes these Regulations and/or annexes: 
 
-   - A. warning ; 
+   - A. warning; 
 
    - B. fine of 1 000 CHF to 10 000 CHF; 
 
@@ -15981,29 +14807,17 @@ The sanctions may be cumulative.
 
 ## **The parties** 
 
-……................................................................................................................................... ..........................................................................… hereinafter the RIDERS’ AGENT (RA) 
-
 and 
-
-…....................................................................................................................................... ...............................................................................................… hereinafter THE CLIENT 
 
 agree to sign a mediation contract in accordance with the following terms: 
 
 ## **1 – Duration** 
-
-The contract is signed for the duration of ................................ (24 months maximum). 
-
-It enters into effect on ................................. 
-
-It expires automatically on .................................................... 
 
 E0226 
 
 400 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **2 – Remuneration** 
 
@@ -16019,15 +14833,11 @@ The commission is paid by the Client by one of the two following methods:
 
 **2** - By a payment divided into two, payable at the start of the period of the contract and at the start of the second half of the period of the contract. 
 
-............................................................................................................................... 
-
 Each payment will made by bank transfer. 
 
 ## **3 – Exclusivity** 
 
 The parties agree that the following rights shall be conferred to the RA: 
-
-Exclusively: .............................................. Not exclusively: ……………………………… 
 
 ## **4 – Supplementary agreements** 
 
@@ -16048,8 +14858,6 @@ E0226
 401 
 
 ROAD RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Final provisions** 
 
@@ -16073,5 +14881,4 @@ E0226
 
 402 
 
-ROAD RACES 
-
+ROAD RACES

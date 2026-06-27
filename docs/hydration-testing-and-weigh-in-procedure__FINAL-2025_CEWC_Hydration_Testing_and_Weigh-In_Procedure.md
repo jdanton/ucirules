@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2J7pd7f9f5jkhVNP7hyTfH/783
 source_sha256: a7e1bc7f14738413d8712063c6d473e88292b1f1ca1f787e773e4cc244627641
 converter: pymupdf4llm
 ---
-
-
 ![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0001-00.png)
-
 
 ## **Hydration Testing and Weigh-In Procedure** 
 
@@ -41,9 +38,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0002-00.png)
-
 
 A weigh-in cannot be completed and is not valid until the athlete passes the hydration test. 
 
@@ -59,13 +54,13 @@ Weigh-ins will be conducted using a calibrated digital scale on a hard, flat sur
 
 The seminar will cover the following topics: 
 
-- **Definition of Unhealthy Weight-Cutting** : An explanation of what constitutes dangerous or manipulative weight-loss practices, including rapid dehydration, excessive fluid restriction, sauna use, and the use of diuretics or laxatives. 
+- **Definition of Unhealthy Weight-Cutting**: An explanation of what constitutes dangerous or manipulative weight-loss practices, including rapid dehydration, excessive fluid restriction, sauna use, and the use of diuretics or laxatives. 
 
-- **Health Risks of Repeated Weight Cutting** : A review of the short- and long-term consequences of engaging in weight-cutting behaviors, including impaired performance, increased injury risk, hormonal disruption, cognitive decline, and cardiovascular strain. 
+- **Health Risks of Repeated Weight Cutting**: A review of the short- and long-term consequences of engaging in weight-cutting behaviors, including impaired performance, increased injury risk, hormonal disruption, cognitive decline, and cardiovascular strain. 
 
-- **Hydration Testing Protocol** : A walkthrough of the urine-specific gravity (USG) test used to assess hydration status, including how to interpret results, why proper hydration is required before weigh-in, and how hydration status reflects an athlete’s overall readiness to race safely. 
+- **Hydration Testing Protocol**: A walkthrough of the urine-specific gravity (USG) test used to assess hydration status, including how to interpret results, why proper hydration is required before weigh-in, and how hydration status reflects an athlete’s overall readiness to race safely. 
 
-- **Weigh-In Procedure Overview** : A detailed explanation of the scheduled weigh-in process, including retesting opportunities, minimum allowable race weight policies, the use of weight data in the virtual platform, and how the UCI ensures fairness and transparency. 
+- **Weigh-In Procedure Overview**: A detailed explanation of the scheduled weigh-in process, including retesting opportunities, minimum allowable race weight policies, the use of weight data in the virtual platform, and how the UCI ensures fairness and transparency. 
 
 Athletes will be provided with educational materials summarizing key points, and medical officers will be available to answer questions and offer guidance. This seminar is an essential component of the event’s commitment to athlete welfare and fair competition, and attendance is required for weigh-in eligibility. 
 
@@ -75,9 +70,7 @@ Page **2** / **3**
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-
 ![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0003-00.png)
-
 
 ## **Saturday 15 November Hydration Test & Race Weigh-In** 
 
@@ -103,5 +96,4 @@ In case of any disputes, the Commissaire will review the request, and may allow 
 
 Page **3** / **3** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
-
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland

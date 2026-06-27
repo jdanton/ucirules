@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1O8vZKfSFHCD5F17rTS9Lv/c28
 source_sha256: 446c5e9cb2bc4987151052e9bbee2fd3ca4d861cbaa6b5376efc304581c652ee
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 03.10.2025 
 
-
 ![](images/2-ROA-20261019-E-amendments_on_19.10.26.pdf-0001-01.png)
-
 
 ## **PART II - ROAD RACES** 
 
@@ -49,5 +46,4 @@ _(article introduced on 19.10.26)._
 
 These additional points are included in the team ranking only if the rider is among the top 20 riders within his team’s Men Elite ranking. No points from these disciplines are added to the individual UCI Road Rankings. 
 
-_(article introduced on 19.10.26)._ 
-
+_(article introduced on 19.10.26)._

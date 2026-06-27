@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4j05LGT7utAvK9EjXMPogW/18d
 source_sha256: c52549fa0338f24f5a1fc57fd15d865c9d3e1ce156efecd917638f511ff1e719
 converter: pymupdf4llm
 ---
-
-
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -35,7 +32,7 @@ Except when separate category races are organised, ~~women junior,~~ women under
 
 ~~- continental and national championships, at the discretion of continental confederations or respectively national federations.~~ 
 
-~~In all other events, women junior can ride in the race for women elite, even if a separate race is being run for women junior~~ . 
+~~In all other events, women junior can ride in the race for women elite, even if a separate race is being run for women junior~~. 
 
 Women under 23 riders cannot compete with women elite during the following competitions: - UCI cyclo-cross world championships; 
 
@@ -59,9 +56,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0002-00.png)
-
 
 ## […]. 
 
@@ -105,9 +100,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0003-00.png)
-
 
 ~~- for the women junior races, the UCI cyclo-cross individual ranking of the women category;~~ - for the women under 23 races, the UCI cyclo-cross individual ranking of the women elite category; 
 
@@ -131,7 +124,7 @@ _(text modified on 01.09.99; 01.10.02; 01.09.03; 01.09.04; 01.02.07; 26.06.07; 0
 
 - 50 minutes for men under 23 races; 
 
-- 50 minutes for women elite races ~~without women junior~~ ; 
+- 50 minutes for women elite races ~~without women junior~~; 
 
 - 60 minutes for men elite races. 
 
@@ -165,9 +158,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0004-00.png)
-
 
 ## **Chapter II  UCI CYCLO-CROSS RANKING** 
 
@@ -219,9 +210,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0005-00.png)
-
 
 3. UCI cyclo-cross world championships men junior and women junior; 
 
@@ -255,7 +244,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 _(text modified on 01.09.99; 01.09.03; 01.09.04; 01.09.06; 01.09.08; 01.07.11; 01.07.15; 21.06.19; 12.06.20; 01.07.27)_ 
 
-- **5.2.006** The number of points awarded for each event is set in Annexe 4 . 
+- **5.2.006** The number of points awarded for each event is set in Annexe 4. 
 
 For all categories except ~~men~~ junior all results are taken into account. 
 
@@ -271,5 +260,4 @@ Page **5** / **5**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

@@ -4,14 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7IE4WjTvQLqeRF5aniDP34/ffc
 source_sha256: e7352ecb88dae2d27bf0a01977c09ecfb36d599beb065cff7f6f92b408c15cb6
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 3 TRACK RACES** 
 
 **Version on 01.01.2026** 
-
-## **TABLE OF CONTENTS** 
 
 |**TA**|**LE OF CONTENTS**|Page|
 |---|---|---|
@@ -57,15 +52,11 @@ converter: pymupdf4llm
 |§ 9|UCI Model Contract Between a Rider and a UCI Track Team|112|
 |§ 10|Bank guarantee of UCI Track Team|115|
 
-
-
 E0126 
 
 1 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |**Chapter VIII CALENDAR**|**118**|
 |---|---|
@@ -73,15 +64,11 @@ TRACK RACES
 |**Chapter X RACE INCIDENTS AND SPECIFIC INFRINGEMENTS**|**125**|
 |Appendix 1|136|
 
-
-
 E0126 
 
 2 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 3 TRACK RACES** 
 
@@ -145,8 +132,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.1.007** (N) The National Federation of the organiser shall without delay communicate to the UCI any changes made to the results communicated by the organiser. 
 
 ## **Security** 
@@ -199,8 +184,6 @@ TRACK RACES
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 During Team Pursuit and Individual Pursuit, one coach per team only is permitted on the safety zone. 
 
 Specific team staff may be permitted to access the safety zone (i.e. the mechanic following a crash) at the commissaires’ discretion. 
@@ -215,15 +198,13 @@ TRACK RACES
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter II TRACK RACES** 
 
 ## **§ 1 General observations** 
 
 ## **Participation** 
 
-- **3.2.001** The track season starts on January 1[st] and ends on December 31[st] . 
+- **3.2.001** The track season starts on January 1[st] and ends on December 31[st]. 
 
 Track competitions shall be held in the categories as defined in article 1.1.036 and 1.1.037. 
 
@@ -239,8 +220,6 @@ Riders of the under 23 category can take part in elite competitions.
 |Elite|Elite, under-23, & junior riders aged 18 (2ndyear junior)|
 |Under 23|Under 23 & junior riders aged 18 (2ndyear junior)|
 |Junior|Junior riders|
-
-
 
 _(text modified on 25.09.07; 12.06.20; 17.10.22, 01.01.26)_ 
 
@@ -271,8 +250,6 @@ E0126
 6 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 As an exception to Article 1.3.008, riders may use their forearms as an additional point of support on the handlebar, provided that all other points of support defined by Article 1.3.008 are maintained at all times. 
 
@@ -316,8 +293,6 @@ TRACK RACES
 
 7 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Commissaires’ panel** 
 
 - **3.2.010** The composition of the commissaires’ panel is indicated in Article 1.2.116. 
@@ -359,8 +334,6 @@ E0126
 8 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 **3.2.017** Any rider holding up the start for reasons not accepted by the starter shall not be permitted to start. 
 
@@ -404,8 +377,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 points and laps accumulated prior to the mishap, unless otherwise provided in a specific provision. 
 
 _(article introduced on 04.03.19; modified on 01.10.19; 12.06.20; 01.01.26)_ 
@@ -432,11 +403,9 @@ All other incidents are considered un-recognised mishaps. _(text modified on 01.
 |-<br>Elimination Race<br>-<br>Omnium<br>-<br>Scratch Race<br>-<br>Points Race<br>-<br>Individual Pursuit||UCI Individual Ranking<br>(Endurance)||
 |-<br>Madison<br>-<br>Team Pursuit<br>-<br>Team Sprint||UCI Nation Rankings<br>(specific to the event)||
 
-
-
 Riders/teams with no ranking shall be seeded last in random order by the commissaires’ panel. In the case where qualification heats are held for a bunch event, riders in the subsequent race and finals shall be seeded according to the results from these heats. 
 
-For _World Cup_ , _World Championships_ and _Olympic Games_ , riders and teams shall be seeded by the UCI. When applicable, the current World Champion will have the best seed. 
+For _World Cup_, _World Championships_ and _Olympic Games_, riders and teams shall be seeded by the UCI. When applicable, the current World Champion will have the best seed. 
 
 _(article introduced on 01.02.11; text modified on 01.10.12; 12.06.20, 01.01.26)_ 
 
@@ -451,8 +420,6 @@ E0126
 10 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 A team or a rider which causes a further false start or suffer a further recognised mishap in the first round shall be relegated. 
 
@@ -510,8 +477,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 04.07.03)_ 
 
 ## **Organisation of the event** 
@@ -528,7 +493,7 @@ _(text modified on 04.07.03)_
 
    - 1/2 finals, best of three heats; 
 
-   - finals 3[rd] -4t[h] and 1[st] -2[nd] , best of three heats. 
+   - finals 3[rd] -4t[h] and 1[st] -2[nd], best of three heats. 
 
 _(article introduced on 30.03.09; 14.10.16; 01.10.19)_ 
 
@@ -569,8 +534,6 @@ E0126
 12 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.02; 01.01.04; 01.10.11; 01.08.23; 01.01.26)_ 
 
@@ -614,8 +577,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 committed and the other competitor declared the winner. In three or four up heat, the race shall be immediately restarted with the remaining two or three riders. 
 
 If the fall is not caused by a competitor committing a fault, the commissaires’ panel shall decide whether the race is to be restarted with the riders in the same order or whether the positions at the time of the fall should be considered final. 
@@ -637,15 +598,11 @@ _(text modified on 01.01.02; 01.08.23; 01.01.26)_
 |Interrupted before completion<br>of the 1/4 finals|Interrupted after<br>completion of the 1/4<br>finals, but before the<br>completion of the semi-<br>finals|Interruption after<br>the completion of<br>the semi-finals|
 |No final classification.<br>No results will be submitted<br>and no UCI points will be<br>awarded.|Riders qualified for the<br>semi-finals will be awarded<br>4thplace.<br>All other riders will be<br>ranked according to the<br>rules applicable for this<br>event.|Riders qualified for<br>the gold medal final<br>will be awarded 2nd<br>place, and riders<br>qualified for the<br>bronze medal final<br>will be awarded 4th<br>place.<br>All other riders will<br>be ranked|
 
-
-
 E0126 
 
 14 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 according to the rules applicable for this event. 
 
@@ -692,8 +649,6 @@ _(article introduced on 01.01.25)_
 |4|Finals<br>2 X 2→1 = 2<br>(in 2 heats,<br>3 if required)|1|1D1 - 2D1|1er(gold)|2e(silver)|
 |||2|1D2 – 2D2|3e<br>(bronze)|4e|
 
-
-
 _(text modified on 26.08.04; 10.06.05; 20.06.14; 14.10.16; 05.04.17; 12.06.20, 01.08.23)_ 
 
 E0126 
@@ -701,8 +656,6 @@ E0126
 15 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **OLYMPIC GAMES** 
 
@@ -753,8 +706,6 @@ TRACK RACES
 |4|Finals<br>2 x 2 -> 1 = 2<br>(in 2 heats<br>3 if required)|1|1H1 - 2H1|1st(gold)|2nd(silver)|
 |||2|1H2 - 2H2|3rd(bronze)|4th|
 
-
-
 _(text modified on 25.09.07; 04.03.19, 01.08.23)_ 
 
 E0126 
@@ -762,8 +713,6 @@ E0126
 16 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 4 Individual pursuit** 
 
@@ -813,15 +762,13 @@ _(text modified on 01.10.19)_
 
 - **3.2.060** Should a rider fail to take the start of a final, his opponent is declared the winner. 
 
-A rider failing to start the final for 1[st] and 2[nd] places shall be placed 2[nd] ; a rider failing to start the final for 3[rd ] and 4[th] places shall be placed 4[th] . If the reason for failing to ride is not accepted, the absent rider shall be disqualified, and his place shall remain vacant. 
+A rider failing to start the final for 1[st] and 2[nd] places shall be placed 2[nd]; a rider failing to start the final for 3[rd ] and 4[th] places shall be placed 4[th]. If the reason for failing to ride is not accepted, the absent rider shall be disqualified, and his place shall remain vacant. 
 
 E0126 
 
 17 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **3.2.061** In the event that riders record the same times, the rider who records the best time for the final lap shall be declared the winner. 
 
@@ -869,8 +816,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Race stoppages** 
 
 **3.2.073** In the case the event is interrupted for any reason, and it is not possible to restart **bis** and complete the event before the end of the competition, the commissaires’ panel shall decide pursuant to the table below: 
@@ -881,8 +826,6 @@ TRACK RACES
 |---|---|
 |Interrupted before completion<br>of the qualification round|Interrupted after completion<br>of the qualification round|
 |No final classification.<br>No results will be submitted<br>and no UCI points will be<br>awarded.|Classification according to<br>the<br>results<br>from<br>the<br>qualification round.|
-
-
 
 _(article introduced on 01.01.25)_ 
 
@@ -929,8 +872,6 @@ E0126
 19 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Organisation of the event** 
 
@@ -982,8 +923,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The team having obtained the 2[nd] fastest time against the one having obtained the 3[rd] fastest time. 
 
 The team having obtained the fastest time against the one having obtained the 4[th] fastest time. 
@@ -1027,8 +966,6 @@ E0126
 21 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **3.2.089** Situations of teams not starting and ties on time shall be decided in accordance with the regulations for the individual pursuit and with reference to article 3.3.012. 
 
@@ -1080,8 +1017,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.2.098** The race shall be over at the moment that the third rider of each team crosses the finishing line for the final time at full distance or, in the finals, at the point that one team (at least 3 riders riding together) catches the other team. 
 
 _(text modified on 01.01.02)_ 
@@ -1094,8 +1029,6 @@ _(text modified on 01.01.02)_
 |---|---|---|
 |Interrupted before completion<br>of the qualification round|Interrupted after<br>completion of the<br>qualification round,<br>before completion of<br>the First round|Interruption after the<br>completion of the First<br>round|
 |No final classification.<br>No results will be submitted<br>and no UCI points will be<br>awarded.|Classification according<br>to the results from the<br>qualification round.|Riders qualified for the<br>gold medal final will be<br>awarded 2ndplace, and<br>riders qualified for the<br>bronze medal final will<br>be awarded 4thplace.<br>All other riders will be<br>ranked according to<br>the rules applicable for<br>this event.|
-
-
 
 _(article introduced on 01.01.25)_ 
 
@@ -1122,8 +1055,6 @@ E0126
 23 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 In the event of a recognised mishap in the first half-lap, the race is stopped and restarted immediately. 
 
@@ -1159,7 +1090,7 @@ _(text modified on 01.01.25)_
 
 - **3.2.106** A qualifying round shall be organised in two-up heats to find the 8 best riders. In the finals, each participant shall take the track alone. 
 
-_(text modified on 14.10.16)_ . 
+_(text modified on 14.10.16)_. 
 
 - **3.2.106** (N) This event shall be organised in two phases: **bis** 1.  The qualifying round to select the 8 best riders on the basis of their times; 
 
@@ -1182,8 +1113,6 @@ E0126
 24 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 In the case the event is interrupted for any reason, and it is not possible to restart and complete the event before the end of the competition, the commissaires’ panel shall decide pursuant to the table below: 
 
@@ -1231,8 +1160,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.02; 01.01.03)_ 
 
 ## **Organisation of the event** 
@@ -1263,8 +1190,6 @@ _(text modified on 01.08.23)_
 ||Qualif.|14|35|7|10|25|5|10|25|5|8|20|4|
 |400|Final|30|75|15|20|50|10|20|50|10|16|40|8|
 
-
-
 _During World Cup, Continental Championships, and World Championships the distances, number of laps and number of sprints shall be as shown in the following table:_ 
 
 |TRACK<br>LENGTH<br>(in m)|_Event_|MEN ELITE<br>_Distance_<br>_(km)_<br>_Laps_<br>_Sprints_|MEN ELITE<br>_Distance_<br>_(km)_<br>_Laps_<br>_Sprints_|MEN ELITE<br>_Distance_<br>_(km)_<br>_Laps_<br>_Sprints_|WOMEN ELITE|WOMEN ELITE|WOMEN ELITE|MEN JUNIOR|MEN JUNIOR|MEN JUNIOR|WOMEN JUNIOR|WOMEN JUNIOR|WOMEN JUNIOR|
@@ -1277,23 +1202,17 @@ _During World Cup, Continental Championships, and World Championships the distan
 |285.71|Qualif.|20|70|7|16|56|5|16|56|5|10|35|3|
 ||Final|40|140|14|25|84|8|25|84|8|20|70|7|
 
-
-
 E0126 
 
 26 
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |333.33|Qualif.|20|60|12|16|48|9|16|48|9|10|30|6|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||Final|40|120|24|25|75|15|25|75|15|20|60|12|
 ||Qualif.|20|50|10|16|40|8|16|40|8|10|25|5|
 |400|Final|40|100|20|25|65|13|25|60|12|20|50|10|
-
-
 
 In the case where the total number of laps is not divisible by the indicated number of laps between sprints, the “additional” laps shall be ridden prior to the first sprint. (For example, on a 285.7m track, sprints are held every 10 laps. If the race is 56 laps, the first sprint will take place after 16 laps, and then every 10 laps thereafter). 
 
@@ -1337,8 +1256,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.02; 01.01.03; 01.10.19)_ 
 
 - **3.2.127** Riders one or several laps down may be withdrawn by the commissaires’ panel. 
@@ -1373,8 +1290,6 @@ If it is not possible to restart the race in the same session, the commissaires�
 |Race stopped between 40-80%|Resume race with points accumulated/lost|
 |Race stopped after 80%|Let results stand|
 
-
-
 If less than 80% of the race is completed by the end of the competition, there will be no final classification. No results will be submitted and no UCI points will be awarded. 
 
 _(text modified on 01.01.02; 01.01.03, 01.08.23; 01.01.25)_ 
@@ -1390,8 +1305,6 @@ E0126
 28 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 The number of laps without the motorized pacer shall equal the number of laps behind the motorized pacer. 
 
@@ -1417,8 +1330,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## The event shall be organised as shown in the following tables: 
 
 ||1stround|1stround||
@@ -1426,16 +1337,12 @@ TRACK RACES
 |No of<br>riders|No of<br>heats|No of<br>riders per<br>heat||
 |10 à 14|2|5-7|Top 3 in final 1-6<br>4th to 6th in final 7-12|
 
-
-
 |||1stround|1stround||Repechages|Repechages|1/2 finals|1/2 finals||
 |---|---|---|---|---|---|---|---|---|---|
 |No of<br>riders|No of<br>heats|No of<br>riders per<br>heat|Riders<br>qualified per<br>heat for the<br>1/2 finals|No of<br>heats|No of<br>riders per<br>heat|Riders<br>qualified per<br>heat for the<br>1/2 finals|No of<br>heats|No of<br>riders per<br>heat||
 |15 to 21|3|5-7|2|2-3|5-7|2-3|||Top 3 in final 1-6<br>Others in final 7-12|
 |22 to 28|4|5-7|2|4|3-5|1|2|6||
 |29 to 42|6|4-7|1|6|3-6|1||||
-
-
 
 |||1stround|1stround||Repechages|Repechages||1/4 finals|1/4 finals|Repechages|Repechages|Repechages|1/2 finals|1/2 finals||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1445,21 +1352,15 @@ TRACK RACES
 |57 to 63|9|6-7|1|8|6-7|2|4|6-7|2|4|4-5|1||||
 |64 to 70|10|6-7|1|9|6-7|2|4|7|2|4|5|1||||
 
-
-
 |TRACK LENGTH|NO. OF LAPS|PACER (No. of laps to the finish)|
 |---|---|---|
 |250|6|3|
-
-
 
 E0126 
 
 30 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 28 RIDERS** 
 
@@ -1488,15 +1389,11 @@ TRACK RACES
 |||RA5|RB5|RC5|RD5|
 |2ndROUND:<br>(1/2 finals)|Composition:<br>2 heats of 6 riders<br>FA<br>FB<br>QA1<br>QB1<br>QD1<br>QC1<br>QB2<br>QA2<br>QC2<br>QD2<br>RA1<br>RB1<br>RD1<br>RC1<br>Results:<br>*FA1<br>*FB1<br>*FA2<br>*FB2<br>*FA3<br>*FB3<br>**FA4<br>**FB4<br>**FA5<br>**FB5<br>**FA6<br>**FB6<br>*Riders qualified for the FINAL 1 – 6<br>**Riders qualified for the FINAL 7 – 12|||||
 
-
-
 E0126 
 
 31 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **COMPOSITION EXAMPLE OF KEIRIN EVENTS INVOLVING 30 RIDERS AT OLYMPIC GAMES AND UCI TRACK WORLD CHAMPIONSHIPS** 
 
@@ -1532,21 +1429,15 @@ TRACK RACES
 |||RA5|RB5|RC5|RD5||
 |2ndROUND<br>1/4 finals|Composition:<br>3 heats of 6 riders<br>A<br>B<br>C<br>QA1<br>QB1<br>QC1<br>QD1<br>QE1<br>QA2<br>QB2<br>QC2<br>QD2<br>RB1<br>RA1<br>QE2<br>RC1<br>RD1<br>RA2<br>RD2<br>RC2<br>RB2<br>Results:<br>*SA1<br>*SB1<br>*SC1<br>*SA2<br>*SB2<br>*SC2<br>*SA3<br>*SB3<br>*SC3<br>*SA4<br>*SB4<br>*SC4<br>All ranked 13<br>SA5<br>SB5<br>SC5<br>All ranked 16<br>SA6<br>SB6<br>SC6<br>*Riders qualified for ½ finals – the other riders are ranked relative to the finish order of each of the heats||||||
 
-
-
 E0126 
 
 32 
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |3rdROUND<br>1/2 finals||
 |---|---|
 ||Composition:<br>2 heats of 6 riders<br>SA<br>SB<br>SA1<br>SB1<br>SA2<br>SC1<br>SB2<br>SC2<br>SB3<br>SA3<br>SC3<br>SA4<br>SC4<br>SB4<br>Results:<br>*FA1<br>*FB1<br>*FA2<br>*FB2<br>*FA3<br>*FB3<br>**FA4<br>**FB4<br>**FA5<br>**FB5<br>**FA6<br>**FB6<br>*Riders qualified for the FINAL 1 – 6<br>**Riders qualified for the FINAL 7 – 12|
-
-
 
 _(text modified on 01.01.02; 30.03.09; 19.06.09; 21.06.18; 04.03.19; 12.06.20, 01.01.26)_ 
 
@@ -1578,19 +1469,11 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0034-01.png)
-
-
 
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0034-02.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0034-03.png)
-
 
 _Figure 1_ 
 
@@ -1603,8 +1486,6 @@ E0126
 34 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **3.2.141** The race shall be run according to the Sprint Regulations. 
 
@@ -1624,8 +1505,6 @@ _(text modified on 01.01.02; 20.09.05; 04.03.19; 01.01.26)_
 |---|---|
 |Interrupted before completion<br>of the qualification round, 1/4<br>finals*, 1/2 finals*<br>*if applicable|Interrupted after completion of the<br>qualification round, 1/4 finals*, 1/2<br>finals*, but before completion of<br>the finals<br>*if applicable|
 |No final classification. No<br>results will be submitted and no<br>UCI points will be awarded.|The last available position in the<br>respective finals is attributed to<br>the riders who qualified for the<br>finals|
-
-
 
 _(article introduced on 01.01.25)_ 
 
@@ -1655,8 +1534,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 1. The qualifying round to select the 8 best teams on the basis of their times; 
 
 2. In the first round, the 8 best teams shall be matched as follows: The team having obtained the 4[th] fastest time against the one having obtained the 5[th] fastest time 
@@ -1679,11 +1556,9 @@ Should there be less than 8 teams taking part in the event, the event shall be r
 |First round, based on<br>the results of the<br>qualifying round:<br>a.<br>4thagainst 5th<br>b.<br>3rdagainst 6th<br>c.<br>2ndagainst 7th<br>d.<br>1stalone|First round, based on<br>the results of the<br>qualifying round:<br>a.<br>4thagainst 6th<br>b.<br>3rdagainst 5th<br>c.<br>2ndalone<br>d.<br>1stalone|First round, based on<br>the results of the<br>qualifying round:<br>a.<br>4thagainst 5th<br>b.<br>3rdalone<br>c.<br>2ndalone<br>d.<br>1stalone||
 |Final:<br>Winners of each heat<br>of the first round (4<br>teams)|Final:<br>Winners of each heat<br>of the first round (4<br>teams)|Final:<br>Winners of each heat<br>of the first round (4<br>teams)|Final:<br>4 best teams of<br>the qualifying<br>round|
 
-
-
 _(text modified on 01.01.02; 14.10.16, 01.08.23; 01.01.26)_ 
 
-- **3.2.146** _**At the Olympic Games only:**_ The four losing teams from the first round shall dispute the finals for 5[th] to 8[th] place. The teams having made the 5[th] and 6[th] fastest time shall ride the final for 5[th] and 6[th] and the other two teams shall ride the final for 7[th] and 8[th] . 
+- **3.2.146** _**At the Olympic Games only:**_ The four losing teams from the first round shall dispute the finals for 5[th] to 8[th] place. The teams having made the 5[th] and 6[th] fastest time shall ride the final for 5[th] and 6[th] and the other two teams shall ride the final for 7[th] and 8[th]. 
 
 _(article introduced on 26.06.07; modified on 14.10.16)_ 
 
@@ -1696,8 +1571,6 @@ E0126
 36 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 If the reason for which that team did not ride is not accepted, the absent team shall be disqualified. 
 
@@ -1745,8 +1618,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.2.153** At the completion of his lap, the leading edge of the leading rider’s front wheel must cross the pursuit line ahead of the leading edge of the front wheel of the following rider. Thereafter, the leading rider must draw aside immediately and ride above the sprinter’s line no later than within 15 meters after the pursuit line. 
 
 Pushing between members of the same team is strictly forbidden. 
@@ -1761,8 +1632,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Race stoppages** 
 
 **3.2.153** In the case the event is stopped for any reason, and it is not possible to restart and **bis** complete the event before the end of the competition, the commissaires’ panel shall decide pursuant to the table below: 
@@ -1772,21 +1641,14 @@ TRACK RACES
 |Interrupted before<br>completion of the<br>qualification round|Interrupted after<br>completion of the<br>qualification round,<br>before completion of the<br>First round|Interruption after the<br>completion of the First<br>round|
 |No final classification.<br>No results will be<br>submitted and no UCI<br>points will be awarded.|Classification according<br>to the results from the<br>qualification round|Riders qualified for<br>the gold medal final<br>will be awarded 2nd<br>place, and riders<br>qualified for the<br>bronze medal final will<br>be awarded 4thplace.<br>All other riders will be<br>ranked according to<br>the rules applicable<br>for this event|
 
-
-
 _(article introduced on 01.01.25)_ 
-
 
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0039-05.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0039-06.png)
-
 
 **----- Start of picture text -----**<br>
 Figure 1<br>**----- End of picture text -----**<br>
-
 
 E0126 
 
@@ -1794,31 +1656,20 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-01.png)
-
-
 
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-02.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-03.png)
-
 
 _Figure 2_ 
 
 _Figure 3_ 
 
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0040-06.png)
-
 
 **----- Start of picture text -----**<br>
 Figure 4<br>**----- End of picture text -----**<br>
-
 
 E0126 
 
@@ -1826,51 +1677,32 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-01.png)
-
-
 
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-02.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-03.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-04.png)
-
 
 **----- Start of picture text -----**<br>
 Figure 5<br>**----- End of picture text -----**<br>
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-05.png)
-
 
 **----- Start of picture text -----**<br>
 Figure 6<br>**----- End of picture text -----**<br>
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0041-06.png)
-
 
 **----- Start of picture text -----**<br>
 Figure 7<br>**----- End of picture text -----**<br>
-
 
 E0126 
 
 41 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Mishap** 
 
@@ -1914,15 +1746,11 @@ The event shall be held over at least the following distances (number of laps), 
 |250|Qualif|15|60|6|10|40|4|10|40|4|10|40|4|
 ||Final|30|120|12|20|80|8|20|80|8|15|60|6|
 
-
-
 E0126 
 
 42 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |285.714|Qualif|16|56|5|12|42|4|12|42|4|10|35|3|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1931,8 +1759,6 @@ TRACK RACES
 ||Final|30|90|18|20|60|12|20|60|12|16|48|9|
 |400|Qualif|14|35|7|10|25|5|10|25|5|8|20|4|
 ||Final|30|75|15|20|50|10|20|50|10|16|40|8|
-
-
 
 _At World Cup, Continental Championships, World Championships and Olympic Games, the distances, number of laps and number of sprints shall be as shown in the following table:_ 
 
@@ -1949,8 +1775,6 @@ _At World Cup, Continental Championships, World Championships and Olympic Games,
 ||Final|50|150|30|30|90|18|30|90|18|20|60|12|
 ||Qualif.|26|65|12|14|35|7|14|35|7|10|25|5|
 |400|Final|50|125|25|30|75|15|30|75|15|20|50|10|
-
-
 
 There shall be an equal number of laps between all sprints, starting from the final sprint, according to the following: Tracks of less than 333.33m – 10 laps Tracks of 333.3m or more – 5 laps 
 
@@ -1975,8 +1799,6 @@ E0126
 43 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 points sprint, they will both score 5 points; there will not be a second place in this case). 
 
@@ -2030,8 +1852,6 @@ TRACK RACES
 
 44 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.10.19)_ 
 
 - **3.2.170** [article transferred to article 3.2.020bis on 04.03.19] 
@@ -2053,8 +1873,6 @@ If it is not possible to restart the race in the same session, the commissaires�
 |Race stopped before 40%|Complete rerun|
 |Race stopped between 40-80%|Resume race with points accumulated/lost|
 |Race stopped after 80%|Let results stand|
-
-
 
 If less than 80% of the race is completed by the end of the competition, there will be no final classification. No results will be submitted and no UCI points will be awarded. 
 
@@ -2082,16 +1900,12 @@ TRACK RACES
 
 45 
 
-**UCI CYCLING REGULATIONS** 
-
 necessarily qualifying the maximum number of riders permitted. An equal number of riders shall be eliminated from each heat, at a minimum of 2 riders per heat, among the riders who have started the race. 
 
 |**CATEGORY**|**DISTANCE TO RUN**|
 |---|---|
 |MEN ELITE & WOMEN ELITE|7.5 km|
 |MEN & WOMEN JUNIOR|5 km|
-
-
 
 _(text modified on 01.01.02; 01.01.03; 12.06.20, 01.01.25)_ 
 
@@ -2142,8 +1956,6 @@ E0126
 46 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 12 Tandem** 
 
@@ -2197,8 +2009,6 @@ TRACK RACES
 
 47 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.2.196** The Chief Commissaire shall designate two reserve pacers. These pacers, throughout the races, shall stand by ready to start up the reserve motorbikes if one of the machines in the race should break down. 
 
 ## **Organisation of the event** 
@@ -2247,8 +2057,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.2.207** Each rider shall have the same pacer throughout the entire competition. 
 
 - **3.2.208** The pacers shall enter the track without the riders. On a signal from the starter, the pacers, after a few laps to warm up, shall take up their positions at the start. 
@@ -2273,8 +2081,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.2.215** Pacers committing the following faults shall be punished as follows 
 
 |**Penalty**|**Penalty**||**Flag**|**Flag**|**Flag**|**Degree**|**Degree**|
@@ -2297,8 +2103,6 @@ TRACK RACES
 |10)|Overtaking on the inside||D|||||
 |11)|Riding with only one hand on the handlebar||A|B|C||D|
 
-
-
 **3.2.216** In the case of a motorcycle breakdown or recognised mishap before the riders join their pacers, a false start shall be indicated, and the race shall be restarted. 
 
 Should the same thing happen after the riders have joined their pacers, a neutralisation shall be granted for the number of laps closest to 1500 metres, save during the last 1500 metres or the last minutes of time races, in which case the race shall continue. The rider having suffered the mishap shall be placed in the position he held at the time of the mishap, if the commissaires consider that his result was a foregone conclusion. If that is not the case, he shall be placed last amongst riders who have ridden the same numbers of laps at the moment of the mishap. 
@@ -2314,8 +2118,6 @@ E0126
 50 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 14 Elimination Race** 
 
@@ -2359,8 +2161,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 An eliminated rider shall leave the track immediately, failing which he shall be penalised depending on the gravity of the situation (relegation with a warning, or disqualification). In the case where the rider does not leave the track immediately, the president of the commissaires’ panel may decide to neutralise the race in order to remove the rider. 
 
 _(text modified on 18.06.10; 30.09.10; 01.10.11; 21.06.18; 12.06.20)_ 
@@ -2390,8 +2190,6 @@ E0126
 52 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 15 Six-Day Races** 
 
@@ -2434,8 +2232,6 @@ E0126
 53 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 When the provisional team is finally disbanded, laps gained or lost and any points won shall be credited towards the general placings of the original teams from which each of the members of the provisional team were drawn. 
 
@@ -2492,8 +2288,6 @@ E0126
 TRACK RACES 
 
 54 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.04)_ 
 
@@ -2553,8 +2347,6 @@ TRACK RACES
 
 55 
 
-**UCI CYCLING REGULATIONS** 
-
       - 20 km for Women Elite 20 km for Men Junior 15 km for Women Junior 
 
    - _(text modified on 24.09.09; 29.03.10; 18.06.10; 01.02.11; 20.06.14; 14.10.16, 01.01.25)_ 
@@ -2595,8 +2387,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Final overall Omnium ranking shall evolve through the Points Race. 
 
 The winner of the Omnium shall be the rider who has obtained the highest total of points. 
@@ -2634,8 +2424,6 @@ E0126
 TRACK RACES 
 
 57 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 17 Flying Lap** 
 
@@ -2693,8 +2481,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 28.02.17; 05.04.17; 01.10.19)_ 
 
 ## **Race Procedure** 
@@ -2722,8 +2508,6 @@ E0126
 59 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III UCI TRACK RANKINGS** 
 
@@ -2785,8 +2569,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - the best World Championships result (as per the maximum number of riders by nationality stipulated in article 9.2.022) in each of the events included in the respective ranking. 
 
 - the best Continental Championships result (as per the maximum number of riders by nationality stipulated in article 10.1.005) in each of the events included in the respective ranking. 
@@ -2830,8 +2612,6 @@ E0126
 61 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 will award the UCI points shall be clearly identified on the programme of the competition, failing that, the points will not be awarded. 
 
@@ -2893,8 +2673,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |||ELITE / JUNIOR<br>Men and Women|ELITE / JUNIOR<br>Men and Women||
 |---|---|---|---|---|
 ||Rank|World<br>Championships<br>Olympic Games*|World<br>Cup*|Continental<br>Championships|
@@ -2924,8 +2702,6 @@ TRACK RACES
 ||24|85|80|60|
 ||25 to X|1|1|1|
 
-
-
 *Elite only 
 
 E0126 
@@ -2933,8 +2709,6 @@ E0126
 63 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ELITE / JUNIOR Men and Women 
 
@@ -2967,8 +2741,6 @@ ELITE / JUNIOR Men and Women
 ||24|65|60|45|
 ||25 to X|1|1|1|
 
-
-
 *Elite only 
 
 E0126 
@@ -2976,8 +2748,6 @@ E0126
 64 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||ELITE / JUNIOR<br>Men and Women|ELITE / JUNIOR<br>Men and Women||
 |---|---|---|---|---|
@@ -3002,8 +2772,6 @@ TRACK RACES
 ||18|362 (2 x 181)|352 (2 x 176)|264 (2 x 132)|
 ||19 to X|2 (2 x 1)|2 (2 x 1)|2 (2 x 1)|
 
-
-
 *Elite only 
 
 E0126 
@@ -3011,8 +2779,6 @@ E0126
 65 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ELITE / JUNIOR Men and Women 
 
@@ -3045,8 +2811,6 @@ ELITE / JUNIOR Men and Women
 ||24|180 (4 x 45)|160 (4 x 40)|120 (4 x 30)|
 ||25 to X|2 (4 x 0.5)|2 (4 x 0,5)|2 (4 x 0,5)|
 
-
-
 *Elite only 
 
 E0126 
@@ -3054,8 +2818,6 @@ E0126
 66 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ELITE / JUNIOR Men and Women 
 
@@ -3088,8 +2850,6 @@ ELITE / JUNIOR Men and Women
 ||24|135 (3 x 45)|120 (3 x 40)|90 (3 x 30)|
 ||25 to X|1.5 (3 x 0.5)|1.5 (3 x 0.5)|1.5 (3 x 0.5)|
 
-
-
 *Elite only 
 
 E0126 
@@ -3097,8 +2857,6 @@ E0126
 67 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||ELITE / JUNIOR<br>Men and Women|ELITE / JUNIOR<br>Men and Women|
 |---|---|---|---|
@@ -3129,15 +2887,11 @@ TRACK RACES
 ||24|20|10|
 ||25 to X|1|1|
 
-
-
 E0126 
 
 68 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||ELITE / JUNIOR<br>Men and Women|ELITE / JUNIOR<br>Men and Women|
 |---|---|---|---|
@@ -3168,15 +2922,11 @@ TRACK RACES
 ||24|15|8|
 ||25 to X|1|1|
 
-
-
 E0126 
 
 69 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||ELITE / JUNIOR<br>Men and Women|ELITE / JUNIOR<br>Men and Women|
 |---|---|---|---|
@@ -3201,15 +2951,11 @@ TRACK RACES
 ||18|88(2 x 44)|44(2 x 22)|
 ||19 to X|2(2 x 1)|2(2 x 1)|
 
-
-
 E0126 
 
 70 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||ELITE / JUNIOR<br>Men and Women|ELITE / JUNIOR<br>Men and Women|
 |---|---|---|---|
@@ -3240,15 +2986,11 @@ TRACK RACES
 ||24|40 (4 x 10)|20 (4 x 5)|
 ||25 to X|2 (4 x 0.5)|2 (4 x 0.5)|
 
-
-
 E0126 
 
 71 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||ELITE / JUNIOR<br>Men and Women|ELITE / JUNIOR<br>Men and Women|
 |---|---|---|---|
@@ -3279,8 +3021,6 @@ TRACK RACES
 ||24|30 (3 x 10)|15 (3 x 5)|
 ||25 to X|1.5 (3 x 0.5)|1.5 (3 x 0.5)|
 
-
-
 _(text modified on 10.06.05; 19.09.06; 25.09.07; 13.06.08, 29.03.10; 1.07.12; 1.02.13; 10.04.13; 15.03.16; 14.10.16; 01.07.17; 05.03.18; 21.06.18, 12.06.20; 17.10.2022, 01.01.25)_ 
 
 ## **Regional Games** 
@@ -3300,8 +3040,6 @@ E0126
 72 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **National championships** 
 
@@ -3347,8 +3085,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **3.3.012    Ranking for classification** 
 
 Riders who are classified as finishers according to the specific UCI Regulations, will be ranked, and will score UCI points, according to those specific regulations. 
@@ -3385,8 +3121,6 @@ TRACK RACES
 
 74 
 
-**UCI CYCLING REGULATIONS** 
-
 When creating the final classification of the event, no rider can be moved up into a position for which he was not competing. Some positions may therefore be left vacant. 
 
 The final classification of the event shall be drawn up in groups in the following order: 1. Riders competing in the major final and finishing (based on the UCI Regulations) will be ranked and will score UCI points according to the UCI Regulations. 
@@ -3422,8 +3156,6 @@ E0126
 TRACK RACES 
 
 75 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **D. 1kmTime Trial** 
 
@@ -3467,8 +3199,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 8. All teams competing in the qualifying round and having been disqualified (indicated as DSQ) will not be assigned a rank, and will score no UCI points. 
 
 ## **F. Individual Pursuit** 
@@ -3507,8 +3237,6 @@ TRACK RACES
 
 77 
 
-**UCI CYCLING REGULATIONS** 
-
 8. All teams competing in the qualifying round and having been disqualified (indicated as DSQ) will not be assigned a rank, and will score no UCI points. 
 
 _(article introduced on 01.10.19, text modified on 01.08.23, 01.01.25)_ 
@@ -3518,8 +3246,6 @@ E0126
 78 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV UCI TRACK WORLD CUP** 
 
@@ -3555,8 +3281,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.03; 21.01.06; 25.02.13; 10.04.13; 20.06.14; 15.03.16; 01.07.17; 05.03.18; 12.06.20; 25.10.21; 17.10.22; 01.01.25, 01.01.26)_ 
 
 - **3.4.004** [abrogated on 01.01.25] **bis** 
@@ -3585,8 +3309,6 @@ _(text modified on 25.09.07; 01.10.12; 01.02.13; 10.04.13; 15.03.16; 14.10.16; 2
 |Elimination|1 rider|Elimination|1 rider|
 |Madison|1 team|Madison|1 team|
 
-
-
 A maximum of one substitute rider for each event is permitted. Substitute riders must be confirmed at the confirmation of starters as per article 3.4.009. Team Managers may forward modifications to the secretary of the college of commissaires until the start of the first competition session on the day of each event. 
 
 For the sake of clarity, in team events, only the best ranked team of the same nationality will score points as per article 3.3.002. 
@@ -3598,8 +3320,6 @@ E0126
 80 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **3.4.007** [abrogated on 01.01.25] **bis** 
 
@@ -3646,8 +3366,6 @@ E0126
 81 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 of the commissaires’ panel in the presence of the UCI Technical Delegate and the persons responsible for the organisation. 
 
@@ -3701,8 +3419,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter V WORLD RECORDS** 
 
 ## **General comments** 
@@ -3747,8 +3463,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 Each application for the Hour record attempt must state a specific time and a single date for that attempt. For the other World Record special attempts, the organiser (rider, national federation, team, or other) must identify a time window of maximum 2 hours in which the attempt must take place. The rider may make more than one attempt for the record provided that the attempts start within the declared 2 hours window. In the event of a recognised mishap, the attempt may be rescheduled for the day after the fixed date, following the same principle. 
 
 If the organiser wishes to alter the date or time after receiving UCI authorisation, it is imperative that all relevant parties be duly notified by the organiser, particularly with regards to the facilities, timekeeping, commissaires and doping control. Furthermore, the organiser shall submit a formal request for authorisation to the UCI, accompanied by a statement confirming that all necessary measures have been taken to ensure full compliance with the applicable provisions. 
@@ -3784,8 +3498,6 @@ E0126
 84 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Time-keeping** 
 
@@ -3835,8 +3547,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.5.021** Records established during World Cup rounds, World Championships and Olympic Games may be confirmed by a certified copy of the official result communiqué, signed by the Chief Commissaire and by the UCI Technical Delegate. In case of disagreement, a request for conformation may be lodged with the Management Committee pursuant to the following articles. 
 
 _(text modified on 01.01.02; 10.06.05)_ 
@@ -3881,8 +3591,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## TTC 
 
 Where: D = distance covered in the hour 
@@ -3922,8 +3630,6 @@ E0126
 87 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI EQUIPMENT AND INFRASTRUCTURE** 
 
@@ -3973,8 +3679,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Saddle** 
 
 - **3.6.013** The saddle, of a commercially available type, shall be 300 mm wide and 350 mm long. The position of the pacer being what is referred to as “standing”, the saddle shall be set tipped forward. The saddle may in no case be modified; the addition of cushions, leather, cloth, etc., which might afford additional shelter, shall be absolutely forbidden. The front outer edge of the saddle shall be set at 800 mm from the ground and 250 mm forwards of a perpendicular passing through the rear wheel spindle. The rearmost point of the saddle shall be set at 1030 mm from the ground and touching that same perpendicular passing through the rear wheel spindle. 
@@ -4013,8 +3717,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.6.025** The overall width between the outer edges of the two footrests shall be 650 mm maximum. 
 
 ## **Roll** 
@@ -4025,21 +3727,15 @@ TRACK RACES
 
 ## **3.6.028** 
 
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0090-06.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0090-07.png)
-
 
 E0126 
 
 90 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 3 Mopeds** 
 
@@ -4093,8 +3789,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 For tracks of less than 200 m, the handlebar grips shall be 920 mm from the ground (distance measured from the top of the grips). 
 
 - **3.6.045** The rearmost points of the handlebar shall be 200 mm maximum to the rear of the steering expander tightening bolt. The tube ends shall be filled and the grips may be clad in insulating tape. Rubber grips shall be absolutely forbidden. 
@@ -4117,17 +3811,13 @@ For tracks of less than 200 m, the handlebar grips shall be 920 mm from the grou
 
 ## **3.6.051** 
 
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0092-12.png)
-
 
 E0126 
 
 92 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 4 Attire of motor-pacers** 
 
@@ -4144,8 +3834,6 @@ TRACK RACES
 ||-|circumference of collar|44 cm|
 ||-|height of collar|3.5 cm|
 
-
-
 - **3.6.053** The collar shall be closed by two hooks. The jacket shall zip up the back (from the bottom up). 
 
 - **3.6.054** The jacket may not be opened during the race or in any way modified for the purpose of favouring a rider. 
@@ -4161,8 +3849,6 @@ TRACK RACES
 ||-|circumference below the knee|36 cm|
 ||-|circumference of calf|40 cm|
 ||-|circumference of ankle|30 cm|
-
-
 
 - **3.6.056** The leather trousers shall also have a 22 cm wide cloth belt with, to the rear and pointing downward, a rubber tail 48 cm long by 9 cm wide. 
 
@@ -4183,8 +3869,6 @@ E0126
 93 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 5 Attire of moped pacers** 
 
@@ -4227,8 +3911,6 @@ E0126
 94 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Track geometry** 
 
@@ -4278,8 +3960,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.6.072** A fence (inner fence) of a construction ensuring the adequate safety for riders to a **bis** height of at least 120 cm above the level of the safety zone must be permanently installed on the inner edge of the safety zone. This requirement applies both during track competitions and outside of them, except in cases where there is no height difference or abrupt gradient between the safety zone and the track centre or within the track centre itself. In such cases, the inner fence must be installed during competitions for all velodromes that received their initial homologation after 1 January 2026. 
 
 The inner fence must be stable, solidly mounted, and transparent and in no circumstances may any advertising boards be attached to it. It must present no protrusions or projecting parts and the upper edge of the inner fence shall be fitted with protective covering. 
@@ -4304,19 +3984,11 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0097-01.png)
-
-
 
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0097-02.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0097-03.png)
-
 
 Diagram showing the inner fence at different heights 
 
@@ -4325,8 +3997,6 @@ E0126
 97 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Any gates provided in the fencing must be fitted with simple and reliable fastenings. They must be kept closed while racing and training is in progress. 
 
@@ -4371,8 +4041,6 @@ E0126
 98 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Measuring line** 
 
@@ -4426,13 +4094,9 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - Team Sprint: three square markings (each a 9 cm[2] ), spaced 1.5 m apart, shall be used. The first marking, positioned on the inside of the track and defining the position of the others, shall coincide with the first marking used for the Team Pursuit. The third marking shall coincide with the fourth Team Pursuit starting position marking. The second marking, positioned between the first and third, is the only marking applied exclusively for the Team Sprint event and shall be coloured red. 
 
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0100-02.png)
-
 
 Diagram of the Starting Position Track Markings 
 
@@ -4452,8 +4116,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Outer fence** 
 
 - **3.6.087** The outside edge of the track must be surrounded by a safety fence (outer fence) to protect riders and spectators. It must be stable and solidly mounted, with an overall height of at least 140 cm above the track for velodromes requesting their initial homologation after 1[st] July 2025. The inside part must be smooth, unbroken and with no projecting parts. 
@@ -4470,9 +4132,7 @@ At the places where the area outside the track is at a level 1.5 metres or more 
 
 Where there is a difference in the height of the outer fence, the transition between these heights must not exceed an angle of 45°. 
 
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0101-09.png)
-
 
 E0126 
 
@@ -4480,15 +4140,9 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0102-01.png)
 
-
-
 ![](images/PART_3_E_-_As_of_01.01.2026.pdf-0102-02.png)
-
 
 Diagram showing the outer fence at different heights 
 
@@ -4523,8 +4177,6 @@ E0126
 102 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 During training sessions without spectators, vertical lighting must be at least 300 lux (maintained average). 
 
@@ -4568,12 +4220,8 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 |Type of Velodrome|Indoor<br>(250m tracks only)|Indoor<br>Roofed<br>Cantilever<br>Outdoor|
 |---|---|---|
-
-
 
 _(text modified on 01.01.26)_ 
 
@@ -4583,8 +4231,6 @@ _(text modified on 01.01.26)_
 |---|---|---|---|---|
 |Radius of bends|19-25 m|22-28 m|25-35 m|28-50 m|
 |Width|7-8 m|7-8 m|7-9 m|7-10 m|
-
-
 
 _(text modified on 01.01.02, 01.01.26)_ 
 
@@ -4614,8 +4260,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.01.10)_ 
 
 - **3.6.101** Any changes to or renovation of the facilities following the inspection of the velodrome shall nullify the homologation. The new homologation of existing facilities is subject to the procedure described in articles 3.6.097 and following, as well as the UCI homologation procedure available on the UCI website. 
@@ -4627,8 +4271,6 @@ E0126
 105 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VII TRACK TEAMS** 
 
@@ -4670,8 +4312,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.10.11; 25.10.21)_ 
 
 - **3.7.007** Two UCI Track Teams, their principal partners or team representative, may not bear the same name. Should application for a new and identical name be simultaneously made by two or more UCI Track Teams, priority shall be given to the UCI Track Team which has used the name for the longer or longest time. In case of first registration, the UCI Track Team that first submitted its application to the UCI shall receive priority for the name. 
@@ -4680,7 +4320,7 @@ _(text modified on 25.10.21)_
 
 ## **Transfer period** 
 
-- **3.7.008** During the season, a rider cannot join a UCI Track Team outside from the UCI Track Team registration period going from 2 months to 2 weeks before the start of the new Track Individual Classification, January 1[st] . 
+- **3.7.008** During the season, a rider cannot join a UCI Track Team outside from the UCI Track Team registration period going from 2 months to 2 weeks before the start of the new Track Individual Classification, January 1[st]. 
 
 _(text modified on 30.09.10; 25.10.21; 17.10.202_ ~~_2)_~~ 
 
@@ -4719,8 +4359,6 @@ E0126
 107 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **3.7.010** The application for the status of UCI Track Team must be made to the National Federation of the nationality of the majority of the riders of the team in accordance with the procedures set out below (articles 3.7.010bis to 3.7.028bis). 
 
@@ -4776,8 +4414,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 3. the names and addresses of the principal partners, team representative and the team manager. 
 
 4. the surnames, first names, addresses, nationalities and dates of birth of the riders, and UCI ID of the riders. 
@@ -4819,8 +4455,6 @@ E0126
 109 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 have been granted if, on being duly requested, the team representative has not replied within ten days. 
 
@@ -4868,8 +4502,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.7.026** On the expiration of the foreseen term of the contract, the rider shall be free to enter the service of some other employer. No system of transfer fees shall be permitted. 
 
 ## **§ 7 Dissolution of a UCI Track Team** 
@@ -4895,8 +4527,6 @@ E0126
 111 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 9 UCI Model Contract Between a Rider and a UCI Track Team** 
 
@@ -4964,8 +4594,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - Where there is no legal minimum, than the usual salary that is paid or should be paid to full-time workers employed in the country whose National Federation issued the Rider’s licence 
 
 - The amount set by (name of NF) in its national regulations; 
@@ -5014,8 +4642,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## ARTICLE 6 - Premiums and prizes 
 
 The Rider shall be entitled to premiums and prizes won during cycling competitions in which he/she participated for the UCI Track Team, in accordance with the Regulations of the UCI and its Affiliated Federations. 
@@ -5060,8 +4686,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - If need be, the Rider shall have to prove that he was in no state to participate in a race. 
 
 3. Either party shall be entitled to terminate the present contract, without notice or liability, should the Rider be rendered permanently unable to exercise the occupation of professional cyclist. 
@@ -5075,8 +4699,6 @@ Any clause agreed upon between the parties that runs counter to the terms of the
 Any dispute between the Parties arising from the present Contract shall be submitted to arbitration, to the exclusion of the courts, by the UCI arbitral board. 
 
 Made in on 
-
-in as many copies as required by the legislation applicable to the present Contract, that is to say,..... plus one scanned copy to be sent to the UCI. (Each page of the contract and annexes has been signed by both parties.) 
 
 The Rider The Employer 
 
@@ -5103,8 +4725,6 @@ E0126
 115 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **3.7.032** The minimum total amount of the bank guarantee shall be the higher of: 
 
@@ -5135,8 +4755,6 @@ E0126
 116 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 amounts due to the UCI or the National Federation in accordance with article 3.7.034 to 3.7.037. 
 
@@ -5175,8 +4793,6 @@ E0126
 117 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 Any call on the present guarantee must be received by the bank no later than [last day of the third month following the end of the relevant season]. 
 
@@ -5217,8 +4833,6 @@ E0126
 118 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 2 the following edition. If a specific event as specified in article 3.8.003 does not comply with the minimum requirements, only this event might be relegated to Class 2 the following edition. 
 
@@ -5270,15 +4884,11 @@ _(text modified on 01.01.04; 26.08.04; 15.03.16; 25.10.21, 01.08.23)_
 ||||U23:5)|
 ||||•Sprint: 8 riders (article 3.2.031)|
 
-
-
 E0126 
 
 119 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 • Keirin: 10 riders (article 3.2.135) • Bunch events: 12 riders • Madison: 8 teams 
 
@@ -5310,8 +4920,6 @@ _(article modified on 01.01.04; 25.10.21)_
 |National Championships|Governed by National Federations|
 |Other competitions|Governed by National Federations|
 
-
-
 _(article introduced on 01.01.04)_ 
 
 E0126 
@@ -5319,8 +4927,6 @@ E0126
 120 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IX MASTERS** 
 
@@ -5366,8 +4972,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 There shall be no separate race for an age group if there are less than 12 participants in mass start events (i.e. points race) or less than 8 participants in the other events. 
 
 For team events, a team may include riders from more than one age category. However, the team must compete in the age category corresponding to the youngest rider. 
@@ -5386,8 +4990,6 @@ _(text modified on 25.01.08; 30.01.09; 05.03.18; 21.06.18, 01.08.23, 01.01.26)_
 |**Women**|PR|15km|10km|10km|10km|10km|10km|10km|10km|10km|
 |If more than 24 riders, qualifyings (half distance) as per 3.2.117 // 10 points for gaining/losing a lap for races<br>under 20km|||||||||||
 
-
-
 ## **B. Scratch** 
 
 The races shall be held over the following distances: 
@@ -5397,8 +4999,6 @@ The races shall be held over the following distances:
 |**Men**|SH|10km|10km|10km|7.5km|7.5km|5km|5km|5km|5km|
 |**Women**|SH|5km|||||||||
 |If more than 24 riders,qualifyings (half distance) asper 3.2.175|||||||||||
-
-
 
 ## **C. Sprint** 
 
@@ -5410,15 +5010,11 @@ The races shall be held over the following number of laps:
 |**Women**|SP|3 laps|||||||||
 |Asper table in art. 3.2.050|||||||||||
 
-
-
 E0126 
 
 122 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **D. Individual Pursuit** 
 
@@ -5430,8 +5026,6 @@ The races shall be held over the following distances:
 |**Women**|IP|3km|3km|3km|2km|2km|2km|2km|2km|2km|
 |Qualification and best 4 in finals|||||||||||
 
-
-
 ## **E. Time Trial** 
 
 The races shall be held over the following distances: 
@@ -5441,8 +5035,6 @@ The races shall be held over the following distances:
 |**Men**|TT|1km|750m|750m|500m|500m|500m|500m|500m|500m|
 |**Women**|TT|1km|750m|750m|500m|500m|500m|500m|500m|500m|
 |Direct finals|||||||||||
-
-
 
 ## **F. Team Pursuit** 
 
@@ -5454,8 +5046,6 @@ The races shall be held over the following distances:
 |**Women**|TP|4km, 4 riders|||||||||
 |Qualification and best 4 in finals|||||||||||
 
-
-
 ## **G. Team Sprint** 
 
 The races shall be held over the following number of laps: 
@@ -5465,8 +5055,6 @@ The races shall be held over the following number of laps:
 |**Men**|TS|3 laps, 3 riders|||||||||
 |**Women**|TS|3 laps, 3 riders|||||||||
 |Qualification and best 4 in finals|||||||||||
-
-
 
 _(article introduced on 01.01.26)_ 
 
@@ -5481,8 +5069,6 @@ E0126
 123 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **3.9.008** The UCI must be informed of the best performances recorded in the UCI Masters Track World Championships, using a confirmation request form for masters. The request must be accompanied by the following documents: proof of electronic or manual time-keeping; the place; the date and the nature of the competition; the result of the race in which the performance was recorded. The form must be countersigned by a UCI commissaire or Elite National commissaire appointed for the event in question. 
 
@@ -5507,8 +5093,6 @@ E0126
 124 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter X RACE INCIDENTS AND SPECIFIC INFRINGEMENTS** 
 
@@ -5554,8 +5138,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 The licence holder is directly informed of warnings verbally, or by displaying his race number together with a yellow flag after the warning has been issued. An additional sanction may be applied by the person issuing the warning if the irregularity for which the warning was issued during the race turns out to be an infringement related to a race incident. 
 
 Warnings shall be noted in the communiqué of the commissaires’ panel and will be sent to the UCI. 
@@ -5565,8 +5147,6 @@ E0126
 126 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Relegations** 
 
@@ -5604,8 +5184,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **3.10.008 Table of race incidents and specific infringements relating to track competitions** 
 
 ||**Column 1**|**Column 1**||**Column 2**||**Column 3**|
@@ -5619,15 +5197,11 @@ TRACK RACES
 |2.1<br>Attempting to start a race<br>with a bicycle that does not<br>comply with the regulations||Rider:Start refused||Rider:Start refused||Rider:Start refused|
 |2.2<br>Starting a race on a bicycle<br>that has not been checked<br>by the commissaires for that<br>race||Team:200 fine and warning||Team:100 fine and warning||Team:50 fine and warning|
 
-
-
 E0126 
 
 128 
 
 TRACK RACES 
-
-## **UCI CYCLING REGULATIONS** 
 
 |||**UCI CYCLINGR**|**E**|**GULATIONS**||||
 |---|---|---|---|---|---|---|---|
@@ -5641,15 +5215,11 @@ TRACK RACES
 |2.10 Carrying equipment on the<br>bicycle or rider that falls, or<br>can fall onto the track during<br>a race||Rider:Start refused, or 300 fine,<br>and/or warning or disqualification||Rider:Start refused, or 200 fine,<br>and/or warning or disqualification||Rider:Start refused, or 100 fine,<br>and/or warning or disqualification||
 |2.11 Use of forbidden onboard<br>technology device||Rider:Elimination or<br>disqualification<br>Other team member: Exclusion||Rider:Elimination or<br>disqualification<br>Other team member: Exclusion||Rider: Elimination or<br>disqualification<br>Other team member: Exclusion||
 
-
-
 E0126 
 
 129 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**||
 |---|---|---|---|---|---|---|---|
@@ -5667,15 +5237,11 @@ TRACK RACES
 |3.10Wearing tinted glasses or<br>visors while seated in the<br>waiting area for a race||Rider:200||Rider:200||Rider:200||
 |3.11Riders in the same team<br>and race failing to wear a<br>distinguishing item on them||Rider:100 fine per rider involved<br>and/or warning||Rider:100 fine per rider involved<br>and/or warning||Rider:50 fine per rider involved<br>and/or warning||
 
-
-
 E0126 
 
 130 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -5691,15 +5257,11 @@ TRACK RACES
 |6.1<br>Rider refusing to quit the<br>race after being withdrawn<br>by the commissaires||Rider:200 fine, and<br>disqualification||Rider:100 fine and disqualification||Rider:50 fine, and disqualification||
 |6.2<br>Rider refusing to quit the<br>race after being disqualified<br>by commissaires||Rider:200 to 500* fine||Rider:100 to 200* fine||Rider:50 to 100 fine||
 
-
-
 E0126 
 
 131 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |6.3<br>6.4<br>Encouraging a rider to<br>remain in the race or on the<br>track after they have been<br>withdrawn or disqualified by<br>the commissaires||Other licence holder:500 fine and<br>exclusion||Other licence holder:200 fine and<br>exclusion||Other licence holder:100 fine and<br>exclusion||
 |---|---|---|---|---|---|---|---|
@@ -5709,8 +5271,6 @@ TRACK RACES
 |**7.**<br>**Failure to respect instructions, improper or dangerous behaviour; damage to the environment or**||||||**the image of the sport**||
 |7.1<br>Failing to respect the<br>instructions of the organiser<br>or commissaires||Rider:100 to 500* fine<br>Other licence holder:200 to 500*<br>fine||Rider:100 to 200* fine<br>Other licence holder:100 to 200*<br>fine||Rider:50 to 100* fine<br>Other licence holder:50 to 100*<br>fine||
 |7.2  Failing to respect<br>instructions regarding<br>participation and conduct<br>during the official training<br>and warm-up sessions||Rider:200 to 500* fine<br>Other licence holder:200 to 500*<br>fine||Rider:100 to 200* fine<br>Other licence holder:100 to 200*<br>fine||Rider:50 to 100* fine<br>Other licence holder:100 to 200*<br>fine||
-
-
 
 E0126 
 
@@ -5727,15 +5287,11 @@ TRACK RACES
 |7.7  Failing to maintain proper<br>control of the bicycle||Rider:100 to 500* fine, and/or<br>warning or disqualification||Rider:100 to 200* fine, and/or<br>warning or disqualification||Rider:50 to 100* fine, and/or<br>warning or disqualification||
 |7.8  Behaviour that causes<br>damage to the environment||Rider or any other license holder:<br>200 to 500* fine and/or warning or<br>disqualification||Rider or any other license holder:<br>100 to 500* fine and/or warning or<br>disqualification||Rider or any other license holder:<br>50 to 100* fine and/or warning or<br>disqualification||
 
-
-
 E0126 
 
 133 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 |**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**|**UCI CYCLINGREGULATIONS**||
 |---|---|---|---|---|---|---|---|
@@ -5747,8 +5303,6 @@ TRACK RACES
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating<br>circumstances or if an infringement offers an advantage, the commissaires’ panel may exclude a licence<br>holder from the competition.||||||
 |8.3<br>Unseemly or inappropriate<br>behaviour (for example,<br>undressing in public in the<br>infield of a velodrome)||Rider or any other licence holder:<br>200 to 500 fine*||Rider or any other licence holder:<br>100 to 200 fine*||Rider or any other licence holder:<br>50 to 100 fine*||
 |||_Note: The penalty is applied to the team if the licence holder cannot be specifically identified_||||||
-
-
 
 _* When there is a scale of sanctions, the commissaire must take into account any extenuating or aggravating circumstances, including:_ 
 
@@ -5772,8 +5326,6 @@ E0126
 
 TRACK RACES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **3.10.008** Unless otherwise stated, sanctions are to be applied “per infringement” and “for the **bis** licence holder involved”. When a penalty is imposed regarding “points from UCI rankings”, the points will be removed from the event specific UCI rankings in which the rider/team may be ranked. As a consequence, the sanction will also impact other UCI rankings that are calculated on the basis of the points scored by the rider/team in an event ranking. 
 
 Unless otherwise stated, sanctions for a Team Manager and/or Coach are given to the Team Manager in charge of the team. 
@@ -5787,8 +5339,6 @@ E0126
 135 
 
 TRACK RACES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## Appendix 1 
 
@@ -5825,8 +5375,6 @@ During a competition or Special Attempt Resume of record
 |(electronic)||||
 |UCI DopingControl Agent||||
 
-
-
 **To be enclosed – Print out electronic timing slips** 
 
 **– Doping control form (if available)** 
@@ -5845,5 +5393,4 @@ E0126
 
 136 
 
-TRACK RACES 
-
+TRACK RACES

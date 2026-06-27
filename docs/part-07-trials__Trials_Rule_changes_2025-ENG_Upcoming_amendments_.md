@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3Jr7WV5r0jjoXIOaLq0fCg/2f0
 source_sha256: 3c94cde5af60a83c833c00e7cebcff298c2c623981d6a5cf5c6b987b01299554
 converter: pymupdf4llm
 ---
-
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -37,7 +34,7 @@ converter: pymupdf4llm
 
    - ~~Poussins~~ Boys U10 white course 0,80 m maximum 
 
-   - − ~~Benjamins B~~ oys U12 blue course 1,00 m maximum − ~~Minimes~~ Boys U14 green course 1,20 m maximum − ~~Cadets~~ Boys U16 black course 1,40 m maximum − ~~Youth Girls~~ Girls U10 white course* 0,80 m maximum − Girls U13 blue course* 1,00 m maximum − Girls U16 green course* 1,20 m maximum − Men Junior ~~s~~ red course ~~1,60~~ 1,80 m maximum − Men Elite yellow course ~~1,80 2~~ ,00 m maximum − Women Junior orange course 1,40 m maximum 
+   - − ~~Benjamins B~~ oys U12 blue course 1,00 m maximum − ~~Minimes~~ Boys U14 green course 1,20 m maximum − ~~Cadets~~ Boys U16 black course 1,40 m maximum − ~~Youth Girls~~ Girls U10 white course* 0,80 m maximum − Girls U13 blue course* 1,00 m maximum − Girls U16 green course* 1,20 m maximum − Men Junior ~~s~~ red course ~~1,60~~ 1,80 m maximum − Men Elite yellow course ~~1,80 2~~,00 m maximum − Women Junior orange course 1,40 m maximum 
 
 Page **1** / **9** 
 
@@ -45,9 +42,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0002-00.png)
-
 
 − 
 
@@ -97,9 +92,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0003-00.png)
-
 
 ## **Chapter III UCI TRIALS WORLD CUP** 
 
@@ -151,9 +144,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0004-00.png)
-
 
 - If the number of non-qualified riders entered is more than 30 they will be split in 4 groups. 
 
@@ -193,9 +184,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0005-00.png)
-
 
 UCI Trials World Cup standings 
 
@@ -251,9 +240,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0006-00.png)
-
 
 - 1 Men Elite 26” 
 
@@ -307,9 +294,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0007-00.png)
-
 
 The start order of the riders in each ~~national~~ mixed team is determined by each team manager. 
 
@@ -355,9 +340,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0008-00.png)
-
 
 ## **Chapter VI UCI TRIALS RANKING** 
 
@@ -408,17 +391,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |_39_|63|37|39|22||||||
 |_40_|62|36|38|21||||||
 
-
-
 T: +41 24 468 58 11 E: admin@uci.ch 
 
 Page **8** / **9** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-
 ![](images/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf-0009-00.png)
-
 
 |_41_|61|35|37|10*||||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -443,13 +422,10 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 |_60_|42|16|18|||||||
 |_61_|10*|10*|10*|||||||
 
-
-
 *Amount of points for each ranked rider 
 
 Page **9** / **9** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

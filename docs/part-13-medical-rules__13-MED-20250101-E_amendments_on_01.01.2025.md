@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/52SfqiDfaPCXxVjBF2B58i/30b
 source_sha256: c2c5d7d400f109d48826d978aa3a5d3902e27265688152658bc1c03d73f7179a
 converter: pymupdf4llm
 ---
-
-
 ![](images/13-MED-20250101-E_amendments_on_01.01.2025.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -37,8 +34,6 @@ a. Vehicles capable of carrying a stretcher with an injured person in reasonable
 
 c. Whenever the evacuation with the ambulance shall take more than 30’ (thirty minutes), a medical helicopter shall be available as nearly as possible for transport of patients on stretchers in order to minimise the second intervention time, plus a helicopter landing area close to the venue. 
 
-d. Additional means of rescue and transport depending on the topography of the competition site: alpine rescuers, quads, etc.... 
-
 ## **Disposition on the field** 
 
 ## _A. Road races_ 
@@ -63,5 +58,4 @@ Page **2** / **2**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

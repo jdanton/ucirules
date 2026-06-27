@@ -4,22 +4,15 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3EjeIEEJpI38fDQOoc54AI/f12
 source_sha256: 057df54f49fa99d0d077baa40ce3860264fe177cdfa697e39f9f17aa5bf24846
 converter: pymupdf4llm
 ---
-
-
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0001-00.png)
-
 
 ## **Road teams’ participation - 2026 season** 
 
 ## _**Participation équipes route - saison 2026**_ 
 
-
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0001-03.png)
 
-
-
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0001-04.png)
-
 
 The teams which are concerned by article 2.2.001 are following. 
 
@@ -27,17 +20,11 @@ Page **1** / **3**
 
 **Union Cycliste Internationale** 26 juin 2026 
 
-
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0002-00.png)
-
-
 
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0002-01.png)
 
-
-
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0002-02.png)
-
 
 _Veuillez trouver ci-après les équipes concernées par l’article 2.2.001._ 
 
@@ -45,9 +32,7 @@ Page **2** / **3**
 
 **Union Cycliste Internationale** 26 juin 2026 
 
-
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0003-00.png)
-
 
 ## Teams on the same line or cell can’t participate to the same race. 
 
@@ -109,9 +94,6 @@ _**Les équipes comportant un astérisque * bénéficient des règles de partici
 |O'SHEA RED CHILLI BIKES|O'SHEA DEVELOPMENT TEAM||
 |TEAM AMANI|BLACK MAMBA DEVELOPMENT TEAM||
 
-
-
 Page **3** / **3** 
 
-**Union Cycliste Internationale** 26 juin 2026 
-
+**Union Cycliste Internationale** 26 juin 2026

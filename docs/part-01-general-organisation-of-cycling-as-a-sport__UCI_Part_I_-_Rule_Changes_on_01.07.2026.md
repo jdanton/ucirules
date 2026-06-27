@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6mWZF699dl7xZhIOWSbuVX/04b
 source_sha256: 288dc95f89a1c405aac3ab0bb813fbf05b0bd1ca9d057d54f79fc56920f4cf92
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 08.06.2026 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.07.2026.pdf-0001-01.png)
-
 
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 01.07.2026** 
 
@@ -41,9 +38,8 @@ _(text modified on 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.01.08; 01.07.10; 0
 
 ## **§ 2 Technical Specifications** 
 
-- **1.3.10bis** Except where stated to the contrary, the following technical specifications shall apply to bicycles used in road, track and cyclo-cross competitions ~~racing~~ . 
+- **1.3.10bis** Except where stated to the contrary, the following technical specifications shall apply to bicycles used in road, track and cyclo-cross competitions ~~racing~~. 
 
 The specific characteristics of bicycles used in mountain bike, gravel, BMX Racing, BMX Freestyle, trials, indoor cycling and paracycling for riders with disabilities are set out in the part Regulating the discipline in question. 
 
-_(text modified on 01.01.05; 25.06.07; 01.01.17; 01.07.26)_ 
-
+_(text modified on 01.01.05; 25.06.07; 01.01.17; 01.07.26)_

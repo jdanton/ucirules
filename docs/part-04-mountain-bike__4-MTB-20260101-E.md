@@ -4,66 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6qYIYIddcAPjN248n7tVDI/952
 source_sha256: 32a35397be5c0111ea7d130ad504666c241a54aa6db61752697b23951dc732e8
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 **version on 01.01.2026** 
 
 ## **PART 4 MOUNTAIN BIKE** 
-
-## **TABLE OF CONTENTS** 
-
-|**ABLE OF CONTENTS**|**ABLE OF CONTENTS**|
-|---|---|
-|**Chapter I**<br>**GENERAL RULES .................................................................................. 3**||
-|§ 1|Race types ............................................................................................................. 3|
-|§ 2|Age categories and participation ............................................................................ 3|
-|§ 3|Calendar ................................................................................................................ 5|
-|§ 4|Technical delegate ................................................................................................. 7|
-|§ 5|Marshals ................................................................................................................ 7|
-|§ 6|Event procedure .................................................................................................... 8|
-|§ 7|Equipment ............................................................................................................10|
-|§ 8|Installations ...........................................................................................................11|
-|§ 9|Course ..................................................................................................................11|
-|§ 10|UCI International Elite Number System ...............................................................11|
-|**Chapter II**<br>**CROSS-COUNTRY EVENTS ................................................................13**||
-|§ 1|Race characteristics..............................................................................................13|
-|§ 2|Course ..................................................................................................................16|
-|§ 3|Course marking ....................................................................................................17|
-|§ 4|Start and finish zones ...........................................................................................19|
-|§ 5|Feed/Technical Assistance zone ..........................................................................20|
-|§ 6|Technical assistance.............................................................................................22|
-|§ 7|Safety ...................................................................................................................23|
-|§ 8|Event procedure ...................................................................................................24|
-|§ 9|Stage races ..........................................................................................................25|
-|**Chapter III**<br>**DOWNHILL EVENTS ...........................................................................27**||
-|§ 1|Organisation of competition ..................................................................................27|
-|§ 2|Course ..................................................................................................................27|
-|§ 3|Clothing and protective accessories ......................................................................29|
-|§ 4|Marshals ...............................................................................................................30|
-|§ 5|First aid (minimum requirements)..........................................................................31|
-|§ 6|Training.................................................................................................................31|
-|§ 7|Transport ..............................................................................................................32|
-|**Chapter IV**<br>**FOUR CROSS EVENTS ......................................................................33**||
-|§ 1|Nature ...................................................................................................................33|
-|§ 2|Organisation of competition ..................................................................................33|
-|§ 3|Course ..................................................................................................................35|
-|§ 4|Transport ..............................................................................................................36|
-|§ 5|Clothing and protective accessories ......................................................................36|
-|§ 6|First aid (minimum requirements)..........................................................................36|
-|§ 7|Training - competition ...........................................................................................37|
-|§ 8|Card procedure .....................................................................................................37|
-|**Chapter V**<br>**ENDURO EVENTS ...............................................................................38**||
-|§ 1|Race characteristics..............................................................................................38|
-|§ 2|Technical assistance.............................................................................................38|
-|§ 3|Equipment ............................................................................................................38|
-|§ 4|Course map ..........................................................................................................40|
-|§ 5|Course marking ....................................................................................................40|
-|§ 6|Organisation of competition ..................................................................................41|
-|§ 7|Results .................................................................................................................43|
-|§ 8|Infringements ........................................................................................................44|
-
-
 
 E0126 
 
@@ -71,63 +14,11 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
-|§ 9<br>Marshals ...............................................................................................................44|
-|---|
-|§ 10<br>Medical service ..................................................................................................44|
-|**Chapter VI   PUMP TRACK ..........................................................................................45**|
-|§ 1<br>Definition and nature ............................................................................................45|
-|§ 2<br>Categories ...........................................................................................................45|
-|§ 3<br>Equipment ............................................................................................................45|
-|§ 4<br>Course ..................................................................................................................46|
-|§ 5<br>Competition Format ..............................................................................................46|
-|**Chapter VII   SNOW BIKE ............................................................................................54**|
-|**Chapter VIII   E-MOUNTAIN BIKE................................................................................55**|
-|**Chapter IX   UCI MOUNTAIN BIKE WORLD SERIES ..................................................56**|
-|**Chapter X UCI MOUNTAIN BIKE CROSS-COUNTRY WORLD CUP ..........................58**|
-|**Chapter XI UCI MOUNTAIN BIKE DOWNHILL WORLD CUP .....................................67**|
-|**Chapter XII**<br>**UCI MOUNTAIN BIKE MARATHON WORLD CUP ..............................77**|
-|**Chapter XIII UCI MOUNTAIN BIKE ENDURO WORLD CUP .......................................80**|
-|**Chapter XIV UCI E-MOUNTAIN BIKE CROSS-COUNTRY WORLD CUP ...................87**|
-|**Chapter XV UCI MOUNTAIN BIKE ELIMINATOR WORLD CUP .................................88**|
-|**Chapter XVI** **UCI MOUNTAIN BIKE RANKING .......................................................89**|
-|**Chapter XVII   MASTERS WORLD CHAMPIONSHIPS ................................................92**|
-|**Chapter XVIII  UCI MTB WORLD SERIES TEAMS ......................................................93**|
-|§ 1<br>Identity ..................................................................................................................93|
-|§ 2<br>Legal and financial status .....................................................................................95|
-|§ 3<br>Registration ..........................................................................................................95|
-|§ 4<br>Contract of Employment .......................................................................................96|
-|§ 5<br>Dissolution of a team ............................................................................................97|
-|§ 6<br>Penalties ...............................................................................................................97|
-|§ 7<br>Model contract between a rider and a UCI MTB WORLD SERIES TEAM .............97|
-|**Chapter XIX  UCI MTB TEAMS ....................................................................................98**|
-|§ 1<br>Identity ..................................................................................................................98|
-|§ 2<br>Legal and financial status .....................................................................................99|
-|§ 3<br>Registration ..........................................................................................................99|
-|§ 4<br>Contract of employment ...................................................................................... 100|
-|§ 5<br>Dissolution of a team .......................................................................................... 101|
-|§ 6<br>Penalties ............................................................................................................. 101|
-|§ 7<br>Model contract between a rider and a UCI MTB TEAM ....................................... 101|
-|**Chapter XX   MTB RACE INCIDENTS TABLE ........................................................... 102**|
-|**ANNEX 1 - Model contract between a rider and a UCI MTB TEAM ......................... 110**|
-|**ANNEX 2 - UCI MTB XCO points ............................................................................... 114**|
-|**ANNEX 2a - UCI MTB XCC points ............................................................................. 116**|
-|**ANNEX 2b - UCI MTB XCM points ............................................................................ 117**|
-|**ANNEX 3 - UCI MTB DHI points ................................................................................ 118**|
-|**ANNEX 3a - UCI MTB EDR points ............................................................................. 120**|
-|**ANNEX 4- UCI MTB 4X points ................................................................................... 121**|
-|**ANNEX 5 – XCE SCHEDULE (32 riders, 4 per heat)................................................. 122**|
-
-
-
 E0126 
 
 **2** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 4 MOUNTAIN BIKE** 
 
@@ -193,8 +84,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 World Cup season as elite or under 23. All other under 23 riders must race the UCI World Cup season in the under 23 category. Riders benefitting from the injury status should decide whether they want to race the entire UCI World Cup season as elite or under 23 if they were amongst the top 5 men under 23 or top 5 women under 23 of the last UCI XCO individual ranking before injury. 
 
 Separate under 23 XCO hors class and class 1 events may be organized for men and women, in this case separate results must be submitted for both categories. A rider can only race in one category in the same competition. During class 2 and class 3 XCO events under 23, men and women, will compete with the elite categories. As such no separate results must be submitted for the under 23 categories at class 2 and class 3 XCO events. 
@@ -240,8 +129,6 @@ E0126
 **4** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 - **4.1.007** 4X events are open to all riders aged 17 or over. No separate results must be submitted for the juniors, under 23 or elite categories. 
 
@@ -299,8 +186,6 @@ MOUNTAIN BIKE
 
 **5** 
 
-**UCI CYCLING REGULATIONS** 
-
    - No hors class, UCI Mountain Bike Continental Series or class 1 event of the same format may be organised on the same continent on the same day as a UCI World Cup event. 
 
    - The continental championships (CC) and national championships (CN) in a format may not be organised during a UCI World Cup event in the same format. 
@@ -355,8 +240,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - A separate under 23 race registered for both genders for XCO 
 
 - At least eight riders from the top 50 of the UCI ranking for both gender 
@@ -398,8 +281,6 @@ E0126
 MOUNTAIN BIKE 
 
 **7** 
-
-**UCI CYCLING REGULATIONS** 
 
 applicable, the UCI technical delegate meet the marshal coordinator before the event in order to optimise the procedure for giving instructions to the marshals (emergency plans, equipment, whistles, flags, radios, etc.) 
 
@@ -445,8 +326,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 Before they arrive, access to the course must be subject to the laws in force and local rules governing the event venue. The organiser may not refuse access to the course for any other reason. 
 
 - **4.1.025** Before the official training periods start, the UCI technical delegate must check that the course is properly and safely marked. A report of this check is made to the president of the commissaires’ panel and the organiser. In the absence of the UCI technical delegate the course check and report is made by the president of the commissaires' panel. 
@@ -480,8 +359,6 @@ E0126
 **9** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 1.01.20; 1.01.23)._ 
 
@@ -531,8 +408,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - **4.1.042** Cameras are not permitted during final for cross-country and during qualifying rounds and final for downhill/four cross/cross-country eliminator. The riders are responsible for securing the fixation of the cameras on the bike or on the visor/peak of the helmet in order to avoid any danger. The UCI can decide to allow a camera during final but only for the usage of the TV production company 
 
    - _Comment:_ 
@@ -579,8 +454,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 Upon retirement being confirmed to the UCI or communicated publicly, a rider's unique career number will be made available for allocation to other riders. 
 
 Elite riders will be asked to select their number in descending order starting with the rider who currently has the highest number of UCI World Cup wins. 
@@ -594,8 +467,6 @@ E0126
 **12** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II CROSS-COUNTRY EVENTS** 
 
@@ -614,8 +485,6 @@ MOUNTAIN BIKE
 |Women under 23|1:15<br>-<br>1:30||N/A*||N/A*||
 |Men elite|1:20<br>-<br>1:40||1:30<br>-<br>2:00||No<br>restriction||
 |Women elite|1:20<br>-<br>1:40||1:30<br>-<br>2:00||||
-
-
 
 *under 23 compete with elite 
 
@@ -642,8 +511,6 @@ E0126
 **13** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 The race can be run over a single lap, or multi-lap with a maximum number of laps of three (3). 
 
@@ -694,8 +561,6 @@ E0126
 **14** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 1.10.13; 4.04.14; 1.01.16; 1.01.21; 1.01.22; 1.01.26)._ 
 
@@ -757,8 +622,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 Riders who are DNF, DSQ or DNS in the semi-finals may not enter the small final. 
 
 - The final classification of the competition is drawn up in groups in the following order: 1. all riders competing in the big final, except for riders DSQ. 
@@ -813,8 +676,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - **4.2.016** The course for a cross-country race normally includes a variety of terrain such as road sections, forest tracks, fields, and natural or gravel paths, and include significant amounts of climbing and descending. Paved or tarred/asphalt roads cannot exceed 15% of the total course. 
 
 ## _(text modified on 1.01.21)_ 
@@ -851,19 +712,13 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/4-MTB-20260101-E.pdf-0018-01.png)
-
 
 - **4.2.026** The sections of a cross-country course that involve steep or potentially dangerous slopes must be marked and protected with safe and visible course markers that present no safety risks to riders. 
 
 In very fast sections of the course where the riders’ line is close to the course boundary, B zones must be installed as per diagram: 
 
-
 ![](images/4-MTB-20260101-E.pdf-0018-04.png)
-
 
 _(text modified on 1.01.17; 1.01.23)_ 
 
@@ -874,8 +729,6 @@ E0126
 **18** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 In appropriate areas, such as along the edge of steep drops, catch nets which comply with safety standards must be used. Nets or mesh fencing with openings greater than 5 cm x 5 cm may not be used, unless covered. 
 
@@ -939,8 +792,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 **4.2.033** Barriers must be in place on both sides of the course for a minimum of 100 metres before and 50 metres after the start and finish line(s). 
 
 ## **4.2.034** 
@@ -949,9 +800,7 @@ The final kilometre of the race must be clearly and precisely indicated.
 
 ## **§ 5 Feed/Technical Assistance zone** 
 
-
 ![](images/4-MTB-20260101-E.pdf-0020-05.png)
-
 
 E0126 
 
@@ -959,13 +808,9 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
-## DIAGRAM 4 : FEED/TECHNICAL ASSISTANCE ZONE WITH A PIT LANE 
-
+## DIAGRAM 4: FEED/TECHNICAL ASSISTANCE ZONE WITH A PIT LANE 
 
 ![](images/4-MTB-20260101-E.pdf-0021-02.png)
-
 
 - **4.2.035** Feeding is permitted only in the zones designated for that purpose, which are also used as technical assistance zones. The zone is called feed/technical assistance zone. 
 
@@ -998,8 +843,6 @@ E0126
 **21** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.20; 01.01.23; 01.01.25; 01.01.26)_ 
 
@@ -1042,8 +885,6 @@ E0126
 **22** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 1.01.16)._ 
 
@@ -1088,8 +929,6 @@ E0126
 **23** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 **4.2.059** The organiser must provide for cross-country marathon events a motorcycle to mark the front of the race (“lead bike”), and a motorcycle to mark the rear of the race ("sweep bike"). 
 
@@ -1147,8 +986,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 1.02.12)._ 
 
 ## **§ 9 Stage races** 
@@ -1199,8 +1036,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 The individual general classification is based on an individual competitor's cumulative time for each stage. 
 
 Where two or more riders make the same time in the general individual time classification, the fractions of a second registered during individual time trials (including the prologue) are added back into the total time to decide the order. 
@@ -1240,8 +1075,6 @@ E0126
 **26** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III   DOWNHILL EVENTS** 
 
@@ -1289,15 +1122,10 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/4-MTB-20260101-E.pdf-0028-01.png)
-
 
 **----- Start of picture text -----**<br>
 UCI World  Class 2 events  Class 3<br>Championships, UCI  events<br>World Cup, Continental<br>Championships, UCI<br>Mountain Bike<br>Continental Series,<br>Hors Class, class 1<br>events<br>Minimum  Maximum  Minimum  Maximum<br>Duration  2  5 minutes  1 minute  5 minutes  No<br>of  the  minutes  restriction<br>event<br>**----- End of picture text -----**<br>
-
 
 _(text modified on 1.01.16; 1.01.25; 1.01.26)_ 
 
@@ -1305,9 +1133,7 @@ _(text modified on 1.01.16; 1.01.25; 1.01.26)_
 
 In very fast and dangerous sections, where the riders line is close to the course boundary, B zones must be installed as per diagram: 
 
-
 ![](images/4-MTB-20260101-E.pdf-0028-05.png)
-
 
 B zones must be cleaned to avoid any hidden obstacles and to be safe. 
 
@@ -1324,8 +1150,6 @@ E0126
 **28** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 **4.3.009** The start area must be at least 1 meter and no more than 2 meters wide. A suitable handrail must be installed, the floor must be covered with a non-slip surface and the start area must be covered. 
 
@@ -1381,8 +1205,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## _Comment:_ 
 
 _The riders shall inquire about any applicable national federation regulation. The use of protective gear other than helmets may also be imposed by national legislation. The rider shall inquire about  this. Compliance with such legislation is the exclusive responsibility of the rider._ 
@@ -1424,8 +1246,6 @@ E0126
 **30** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 The red flags are used in training and racing. 
 
@@ -1481,8 +1301,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 1.01.23)._ 
 
 - **4.3.023** Riders must start all training runs at the official start gate. Any rider starting a training run below the start line must be disqualified from the competition. 
@@ -1506,8 +1324,6 @@ E0126
 **32** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV   FOUR CROSS EVENTS** 
 
@@ -1546,8 +1362,6 @@ Heat order (men first until women come to equal heat system, finals: women small
 |12-23|16 riders|
 |6-11|8 riders|
 
-
-
 The number of riders in the qualifying round may not be fewer than six, otherwise no 4X event may be held. 
 
 The race numbers for the main event are allocated on the basis of the results of the qualifying round; starting with number 1 for the rider with the best time during the qualifying round and so on. 
@@ -1558,13 +1372,9 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 **4.4.006** The main event comprises elimination heats in which the groups of riders are matched as shown in the table below, in order to ensure that the first and second in the qualifying round can only meet in the final. 
 
-
 ![](images/4-MTB-20260101-E.pdf-0034-02.png)
-
 
 - **4.4.007** 
 
@@ -1575,8 +1385,6 @@ E0126
 **34** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 **4.4.008** In addition to the final, a small final round is held for the riders ranked third and fourth in the semi-finals. Riders who are DNF, DSQ or DNS in the semi-finals may not enter the small final. 
 
@@ -1630,8 +1438,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 special features. It may also include unbanked turns. There is normally no climbing requiring the riders to pedal. 
 
 The course must also be wide enough to allow four riders to line up side by side, and to enable overtaking. 
@@ -1678,8 +1484,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 coordinator must meet the technical delegate if applicable or the president of the commissaires’ panel before the first training session. 
 
 ## **§ 7 Training - competition** 
@@ -1706,8 +1510,6 @@ No training is permitted whilst a race is in progress.
 |Blue|Relegation<br>Specified in articles: 4.4.011,<br>4.4.012 and 4.4.016|REL|a heat classification different<br>from the actual finish.|
 |Red|Disqualification<br>Specified in article 4.2.012|DSQ|excluded<br>from<br>further<br>competition, no classification|
 
-
-
 − A rider who receives a second card, whatever the colour, in the same event is disqualified. 
 
 − Cards must be shown by the designated commissaire (card commissaire) after confirmation by the president of the commissaires’ panel and must be communicated directly via TV and the event speaker. 
@@ -1717,8 +1519,6 @@ E0126
 **37** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter V   ENDURO EVENTS** 
 
@@ -1774,8 +1574,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 Liaison, they may remove the helmet. Whilst riding, the helmet must always be worn correctly with straps fastened. 
 
 In addition to the above, the UCI strongly recommends that riders wear the protections as indicated in art. 4.3.013. 
@@ -1816,17 +1614,13 @@ Equipment Marking Stickers must be applied on the rider’s right-hand side of t
 
 - both wheel rims. 
 
-
 ![](images/4-MTB-20260101-E.pdf-0039-21.png)
-
 
 E0126 
 
 **39** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.01.26)_ 
 
@@ -1840,15 +1634,11 @@ _(text modified on 01.01.26)_
 
 Course markers installed on opposite sides of the course will create a gate, which riders must pass between. Gates can be used to clearly mark sections of the course that a rider must pass through. Missing a gate will be deemed as course cutting. 
 
-
 ![](images/4-MTB-20260101-E.pdf-0040-07.png)
-
 
 In very fast and dangerous sections, where the riders’ line is close to the course boundary, B zones must be installed as per diagram: 
 
-
 ![](images/4-MTB-20260101-E.pdf-0040-09.png)
-
 
 _(text modified on 1.01.23; 1.01.26)._ 
 
@@ -1857,8 +1647,6 @@ E0126
 **40** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 **4.5.007** Extra care must be taken by the organiser to make sure that the course is clearly and no shortcuts are possible. 
 
@@ -1899,8 +1687,6 @@ E0126
 **41** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 Any rider found to be riding upwards against the direction of travel will be penalised. Riders may push up outside of the course marking. 
 
@@ -1950,8 +1736,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 In the event of a rider being delayed on a Special Stage due to assisting another rider in a medical emergency or due to some other circumstance outside of their control, such as a race hold on that Special Stage, **and only** if Race Control decide it is appropriate, a rider may be offered a re-run on that Special Stage. 
 
 If Race Control deem that a re-run of the Special Stage in question is not possible then at the end of the race the rider will be allocated an “average” Special Stage position and time. This will be calculated as follows: 
@@ -1998,8 +1782,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 A rider not finishing a Special Stage will not be allowed to rejoin the race at any time. 
 
 _(text modified on 01.01.26)_ 
@@ -2035,8 +1817,6 @@ E0126
 **44** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI   PUMP TRACK** 
 
@@ -2098,8 +1878,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 1.01.21)_ 
 
 ## **§ 4 Course** 
@@ -2151,8 +1929,6 @@ E0126
 **46** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 Other qualifying formats are allowed. The qualifying formats must be described in the technical guide. 
 
@@ -2208,8 +1984,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - Riders will go head-to-head riding on the track at the same time, starting at different positions and ride in the same direction. 
 
 - The rider with the fastest qualification time has priority on their start position (1 or 2). 
@@ -2226,9 +2000,7 @@ MOUNTAIN BIKE
 
 - previous round or the qualification rounds will determine the winner. 
 
-
 ![](images/4-MTB-20260101-E.pdf-0048-08.png)
-
 
 Example of track and timing layout. 
 
@@ -2258,8 +2030,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - Run 2: Both riders switch lanes. The riders go head-to-head for the second time and they both set a 2nd time. 
 
 - The combination of both times (left and right course) per rider determines the riders overall time. 
@@ -2270,9 +2040,7 @@ MOUNTAIN BIKE
 
 - the Qualification round will determine the winner. 
 
-
 ![](images/4-MTB-20260101-E.pdf-0049-05.png)
-
 
 Example of track and timing layout. 
 
@@ -2303,8 +2071,6 @@ E0126
 **49** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 (article modified on 1.01.21; 1.01.25) 
 
@@ -2342,13 +2108,9 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 Example of competition grid. 
 
-
 ![](images/4-MTB-20260101-E.pdf-0051-02.png)
-
 
 E0126 
 
@@ -2356,15 +2118,9 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
-
 ![](images/4-MTB-20260101-E.pdf-0052-01.png)
 
-
-
 ![](images/4-MTB-20260101-E.pdf-0052-02.png)
-
 
 ## **4.6.016 Open session** 
 
@@ -2383,8 +2139,6 @@ E0126
 **52** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 - 
 
@@ -2442,8 +2196,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter VII   SNOW BIKE** 
 
 _(chapter introduced on 1.01.19)_ 
@@ -2486,8 +2238,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter VIII   E-MOUNTAIN BIKE** 
 
 _(chapter introduced on 1.01.19)_ 
@@ -2527,8 +2277,6 @@ _(text modified on 1.01.25)_
 E0126 
 
 MOUNTAIN BIKE **55** 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IX   UCI MOUNTAIN BIKE WORLD SERIES** 
 
@@ -2582,8 +2330,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - **4.9.008** The colours and the design of the leaders' jerseys shall be communicated to the riders concerned once approved by the UCI. 
 
 E0126 
@@ -2591,8 +2337,6 @@ E0126
 MOUNTAIN BIKE 
 
 **57** 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter X UCI MOUNTAIN BIKE CROSS-COUNTRY WORLD CUP** 
 
@@ -2607,21 +2351,15 @@ _(Chapter reviewed on 1.01.23)._
 |XCO - men elite (aged 23 and over)<br>XCO - women elite (aged 23 and<br>over)|1. UCI MTB WORLD SERIES TEAM, maximum 4 riders<br>per race and category<br>2.Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>the event<br>3. Any rider ranked in the top 100 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>4. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>5. Topthreeriders of any round of aUCI Mountain Bike<br>Continental Series, limited to 1 round of the UCI MTB<br>World Cupwithin 52 weeks of the qualification<br>(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>6. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Elite<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>7. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23 (if progressing into Elite category)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>8. Current Olympic Champion, UCI World Champion,<br>Continental Champions, National Champions|
 |XCO - men under 23 (aged from 19 to<br>22)<br>XCO - women under 23 (aged from 19<br>to 22)|1. UCI MTB WORLD SERIES, maximum 4 riders per<br>race and category<br>2.Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>to the event<br>3. Any rider ranked in the top 200 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>4. The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>5. Topthreeriders of any round of aUCI Mountain Bike<br>Continental Series, limited to 1 round of the UCI MTB<br>World Cupwithin 52 weeks of the qualification<br>(Golden Ticket)|
 
-
-
 E0126 
 
 **58** 
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ||_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>6. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>7. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Junior (if progressing into U23 category)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>8. UCI World Champion, Continental Champions,<br>National Champions|
 |---|---|
 |XCC – men elite (aged 23 and over)<br>XCC – women elite (aged 23 and<br>over)<br>XCC – men under 23 (aged from 19 to<br>22)<br>XCC – women under 23 (aged from<br>19 to 22)|Riders already registered and confirmed for the XCO<br>event taking place during the same weekend shall be<br>allowed to start in the XCC event. The riders shall be<br>selected as per article 4.10.003, points 1 and 2,to reach a<br>total number of 40 riders per gender.On top of those 40<br>riders, wild cards can be awarded as per article 4.10.003,<br>point 3.No online registration is required for the XCC<br>event.<br>The same bike must be used for XCC and XCO. For XCC,<br>the minimum tyre width must be 45mm.|
-
-
 
 ## **Registration** 
 
@@ -2658,8 +2396,6 @@ E0126
 **59** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 1.01.25; 1.01.26)._ 
 
@@ -2717,8 +2453,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 XCO men under 23 and women under 23: 
 
 1. the riders ranked in the top 24 of the XCC race of the same UCI World Cup round 
@@ -2775,8 +2509,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - **4.10.008** The UCI World Cup standings are drawn up on the basis of the points won by each rider in accordance with the table in article 4.10.010. 
 
 For the sake of clarity, the cross-country world cup standings are drawn up by summing the points scored in the XCC and XCO events. 
@@ -2806,13 +2538,9 @@ _(text modified on 1.01.25)._
 |5|140|70|140|38|70|19|
 |6|130|65|130|37|65|18|
 
-
-
 E0126 
 
 MOUNTAIN BIKE **62** 
-
-**UCI CYCLING REGULATIONS** 
 
 |7|120|60|120|36|60|17|
 |---|---|---|---|---|---|---|
@@ -2861,15 +2589,11 @@ MOUNTAIN BIKE **62**
 |50|18|11|||||
 |51|17|10|||||
 
-
-
 E0126 
 
 **63** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 |52|16|9|||||
 |---|---|---|---|---|---|---|
@@ -2881,8 +2605,6 @@ MOUNTAIN BIKE
 |58|10|3|||||
 |59|9|2|||||
 |60|8|1|||||
-
-
 
 B. Team standing 
 
@@ -2918,15 +2640,11 @@ B. Team standing
 |27|34|14|14||
 |28|33|13|13||
 
-
-
 E0126 
 
 **64** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 |29|32|12|12||
 |---|---|---|---|---|
@@ -2963,8 +2681,6 @@ MOUNTAIN BIKE
 |60|1||||
 |60|1||||
 
-
-
 ## **Injury status** 
 
 **4.10.011** If due to injury a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply to the UCI for recognition of injury status. An application must be received at the UCI in writing no later than October 30[th] of the disrupted season. 
@@ -2976,8 +2692,6 @@ E0126
 **65** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 Such benefit shall be limited to the first two rounds of the UCI World Cup in which the rider takes part during the following season. 
 
@@ -3001,8 +2715,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XI UCI MOUNTAIN BIKE DOWNHILL WORLD CUP** 
 
 _(Chapter reviewed on 1.01.23)._ 
@@ -3016,15 +2728,11 @@ _(Chapter reviewed on 1.01.23)._
 |DHI - men elite (aged 19 and over)<br>DHI - women elite (aged 19 and over)|1. UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>2.Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior to the event<br>3. Any rider ranked in the top 50 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>4. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>5. Topthreeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br>UCI MTB World Cupwithin 52 weeks of the<br>qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>6. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Elite<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>7. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Junior (if progressing into Elite<br>category)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>8. Current UCI World Champion, Continental<br>Champions, National Champions|
 |DHI - men juniors (aged 17 and 18)<br>DHI – women juniors (aged 17 and 18)|1. UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>2.Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior the event<br>3. Any rider ranked in the top 100 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior the event)<br>4. The national federations may enter a maximum of 4<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>5. Topthreeriders of any round of aUCI Mountain Bike<br>Continental Series, limited to 1 round of the UCI<br>MTB World Cupwithin 52 weeks of the qualification|
 
-
-
 E0126 
 
 **67** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 - _Not applicable for riders member of a UCI MTB WORLD SERIES TEAM_ 
 
@@ -3082,8 +2790,6 @@ E0126
 
 MOUNTAIN BIKE **68** 
 
-**UCI CYCLING REGULATIONS** 
-
 Riders with injury status shall be integrated in the start order in accordance with article 4.11.021. 
 
 Riders with pregnancy status shall be integrated in the start order in accordance with article 4.11.022. 
@@ -3136,8 +2842,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 The transport system closes 15 minutes before the end of the training times unless otherwise specified. A closing rider needs to be supplied by the organiser to clear the course between training sessions under the instructions of the president of the commissaires’ panel. 
 
 _(text modified on 1.01.25)._ 
@@ -3181,8 +2885,6 @@ E0126
 **70** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 No points are awarded during the juniors qualifying rounds. 
 
@@ -3238,8 +2940,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - **4.11.019** A team standing is drawn up for each round of the UCI Downhill World Cup. Only riders registered in a UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM can score points for their team in accordance with the team standing table in article 4.11.020. 
 
 For downhill, a mixed team classification is drawn up by summing the 4 highest scored points of each team without making a distinction between men elite, men juniors, women elite and women juniors. Only the results of the finals are taken into account. Teams with only one, two or three riders scoring points are also included in the team classification. Tied teams will have their relative positions determined by their best placed rider. Should there still be a tie, the order is determined as follows: best placed men elite, best placed women elite, best placed men juniors, best placed women juniors. 
@@ -3274,15 +2974,11 @@ N.B. – In accordance with article 4.11.013, in the last round of the UCI World
 |14|11|63||35|
 |15|10|60||30|
 
-
-
 E0126 
 
 **72** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 |16|9|58|||
 |---|---|---|---|---|
@@ -3331,15 +3027,11 @@ MOUNTAIN BIKE
 |59|||||
 |60|||||
 
-
-
 E0126 
 
 **73** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 B. 
 
@@ -3368,8 +3060,6 @@ B.
 |19|7||
 |20|6||
 
-
-
 C. Team standing 
 
 |standing|||||
@@ -3384,15 +3074,11 @@ C. Team standing
 |7|24|10|4||
 |8|23|8|3||
 
-
-
 E0126 
 
 **74** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 |9|22|7|2||
 |---|---|---|---|---|
@@ -3418,8 +3104,6 @@ MOUNTAIN BIKE
 |29|2||||
 |30|1||||
 
-
-
 _(text modified on 1.01.24; 1.01.25)_ 
 
 ## **Injury status** 
@@ -3444,8 +3128,6 @@ MOUNTAIN BIKE
 
 **75** 
 
-**UCI CYCLING REGULATIONS** 
-
 A rider with pregnancy status shall be integrated in the ranking that is used to determine the start list, with the number of points determined according to following calculation: the average points gained per round in which the rider took part multiplied by the number of rounds of the UCI World Cup season during which the rider was absent due to pregnancy. 
 
 In case the rider is no longer included in the UCI World Cup standings, his UCI ranking of the year n-2 on 31 December will be considered. 
@@ -3459,8 +3141,6 @@ E0126
 **76** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XII UCI MOUNTAIN BIKE MARATHON WORLD CUP** 
 
@@ -3524,8 +3204,6 @@ MOUNTAIN BIKE
 
 **77** 
 
-**UCI CYCLING REGULATIONS** 
-
 The first three riders in the race and the leader of the general classification of the UCI World Cup must attend the podium. 
 
 The UCI Mountain Bike World Cup licensee shall award a trophy to the first three of the final classification of the UCI Mountain Bike World Cup in each category. 
@@ -3568,13 +3246,9 @@ _(text modified on 1.01.25)._
 |16|74|46|22|
 |17|72|47|21|
 
-
-
 E0126 
 
 MOUNTAIN BIKE **78** 
-
-**UCI CYCLING REGULATIONS** 
 
 |18|70|48|20|
 |---|---|---|---|
@@ -3591,15 +3265,11 @@ MOUNTAIN BIKE **78**
 |29|48|59|9|
 |30|46|60|8|
 
-
-
 E0126 
 
 **79** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIII UCI MOUNTAIN BIKE ENDURO WORLD CUP** 
 
@@ -3624,8 +3294,6 @@ _(text modified on 1.01.25)._
 |EDR - men elite (aged 19 and over)<br>EDR - women elite (aged 19 and over)|1. UCI MTB WORLD SERIES TEAM<br>2. UCI MTB TEAM<br>3. Any rider ranked in the top 300 (men) or top 75<br>(women) of the Enduro Global ranking on<br>31.12.2025<br>4. Any rider ranked in the top 50 (men) or top 50<br>(women) of the last UCI EDR individual ranking<br>before the event entry closing date (one month prior<br>to the event)<br>5. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>6. Current UCI World Champion, Continental<br>Champion, National Champions|
 |EDR - men junior (aged 17 and 18)<br>EDR – women junior (aged 17 and 18)|1. UCI MTB WORLD SERIES TEAM<br>2. UCI MTB TEAM<br>3. Any rider ranked in the top 300 (men) or top 75<br>(women) of the Enduro Global ranking on<br>31.12.2025<br>4. Any rider ranked in the top 50 (men) or top 50<br>(women) of the last UCI EDR individual ranking<br>before the event entry closing date (one month prior<br>to the event)<br>5. The national federations may enter a maximum of 4<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>6. Current UCI World Champion|
 
-
-
 Details on the participation criteria are included in a dedicated UCI Enduro World Cup technical guide available on a dedicated website. 
 
 _(text modified on 01.01.26)_ 
@@ -3635,8 +3303,6 @@ _(text modified on 01.01.26)_
 E0126 
 
 MOUNTAIN BIKE **80** 
-
-**UCI CYCLING REGULATIONS** 
 
 - **4.13.005** [article abrogated on 01.01.26] 
 
@@ -3694,8 +3360,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - the team leading the team standings after the event in question; 
 
 - the team of the day. 
@@ -3735,8 +3399,6 @@ E0126
 **82** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 |**Position**|**Men**<br>**Elite**<br>**points**|**Women**<br>**Elite**<br>**points**|
 |---|---|---|
@@ -3780,15 +3442,11 @@ MOUNTAIN BIKE
 |38|||
 |39|||
 
-
-
 E0126 
 
 **83** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
@@ -3811,15 +3469,11 @@ D. Enduro men and women junior
 |13|16||
 |14|14||
 
-
-
 E0126 
 
 **84** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 E. 
 
@@ -3830,8 +3484,6 @@ E.
 |18|8||
 |19|7||
 |20|6||
-
-
 
 ## Team standing 
 
@@ -3868,15 +3520,11 @@ E.
 |29|2||||
 |30|1||||
 
-
-
 E0126 
 
 **85** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(article introduced on 01.01.26)_ 
 
@@ -3909,8 +3557,6 @@ E0126
 **86** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIV UCI E-MOUNTAIN BIKE CROSS-COUNTRY WORLD CUP** 
 
@@ -3958,8 +3604,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XV UCI MOUNTAIN BIKE ELIMINATOR WORLD CUP** 
 
 _(Chapter introduced on 1.01.23)._ 
@@ -4003,8 +3647,6 @@ E0126
 **88** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XVI    UCI MOUNTAIN BIKE RANKING** 
 
@@ -4064,8 +3706,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 7 events in class 1 8 events in class 2 9 events in class 3 
 
 _(text modified on 1.01.18; 1.01.21; 1.01.22; 1.01.23; 1.01.25)._ 
@@ -4105,8 +3745,6 @@ E0126
 **90** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 For the cross-country Olympic (XCO) ranking only the types of events that meet the criteria set out in articles 4.2.001, 4.2.002, 4.2.008, 4.2.010 ~~,~~ 4.2.011 to 4.2.013 and 4.2.015 are eligible. 
 
@@ -4158,8 +3796,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XVII   MASTERS WORLD CHAMPIONSHIPS** 
 
 _(articles numbering reviewed on 1.01.23)._ 
@@ -4181,8 +3817,6 @@ E0126
 **92** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XVIII  UCI MTB WORLD SERIES TEAMS** 
 
@@ -4233,8 +3867,6 @@ E0126
 **93** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 Three (3) weekends after the UCI MTB TEAM registration deadline (as defined in article 4.19.011) the UCI will release the above teams ranking linked to the new team composition. 
 
@@ -4287,8 +3919,6 @@ E0126
 **94** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 - **4.18.005** The principal partner(s) and the paying agent commit themselves to the UCI MTB WORLD SERIES TEAM for a whole number of calendar years. 
 
@@ -4344,8 +3974,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 - **4.18.013** Article 4.18.012 also applies to any changes to the riders and other staff for UCI MTB WORLD SERIES TEAMS. 
 
    - Such changes are immediately submitted by the UCI MTB WORLD SERIES TEAMS to the UCI. During the season, no rider already registered with a UCI MTB WORLD SERIES TEAM or UCI MTB TEAM for the current season may join another UCI MTB WORLD SERIES TEAM or UCI MTB TEAM outside the transfer period as in the team benefits document sent at registration confirmation unless approved as a replacement or additional rider (article 4.18.001) 
@@ -4384,8 +4012,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 The contract must also make provision for the payment of indemnities to the rider in the event of sickness and/or accident. 
 
 _(text modified on 1.01.25)._ 
@@ -4417,8 +4043,6 @@ E0126
 **97** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIX  UCI MTB TEAMS** _**(Chapter revised on 1.01.23).**_ 
 
@@ -4465,8 +4089,6 @@ E0126
 **98** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 or more Teams, priority is given to the Team which has used the name for the longer or longest time. 
 
@@ -4517,8 +4139,6 @@ E0126
 **99** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 - **4.19.013** Only UCI MTB TEAMS on the list approved by the UCI may receive benefits. 
 
@@ -4574,8 +4194,6 @@ E0126
 
 MOUNTAIN BIKE **100** 
 
-**UCI CYCLING REGULATIONS** 
-
 - **4.19.020** On the expiry of the term of the contract, the rider is free to enter the service of another paying agent. No system of transfer fees are permitted. 
 
 Before the expiry date of the contract, transfers of riders are only permitted if a global agreement in writing is reached between the three parties concerned: the rider, his current paying agent and the new paying agent, and with the authorisation of the UCI. 
@@ -4598,8 +4216,6 @@ E0126
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XX   MTB RACE INCIDENTS TABLE** 
 
 _(chapter introduced on 1.01.20; chapter revised on 1.01.23)._ 
@@ -4620,15 +4236,11 @@ Except if stated differently, the amounts mentioned in the table below are in Sw
 |2.<br>Clothing, helmet and accessories|||
 |2.1<br>Presentation at the start with non-<br>compliant<br>clothing, helmet or accessories|Start refused|Start refused|
 
-
-
 E0123 
 
 **102** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 |2.2<br>Use of non-compliant clothing, helmet<br>or accessories during an event||Disqualification (DSQ)|Disqualification (DSQ)||Disqualification (DSQ)|
 |---|---|---|---|---|---|
@@ -4645,15 +4257,11 @@ MOUNTAIN BIKE
 |ONE-DAY RACE|||Elimination||Elimination|
 |STAGE RACE|||||Time trial: 20’’ penalty<br>Relegation (REL) to last place of the stage|
 
-
-
 E0123 
 
 **103** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 |6.<br>Failure to respect the instructions of<br>the race organisation or commissaires|Rider:50to 100 fine<br>Other licence holder: 100 to 200 fine|Rider:50to 100 fine<br>Other licence holder: 50 to 200 fine|
 |---|---|---|
@@ -4668,15 +4276,11 @@ MOUNTAIN BIKE
 |8.3    Spraying water on riders or bicycles<br>8.4<br>Irregular mechanic assistance|1stoffence: official warning<br>2ndoffense 50 fine|1stoffence: official warning<br>2ndoffense 50 fine|
 |ONE-DAY RACE|Disqualification (DSQ) and 100 fine mechanic|Disqualification (DSQ) and 50 fine mechanic|
 
-
-
 E0123 
 
 **104** 
 
 MOUNTAIN BIKE 
-
-## **UCI CYCLING REGULATIONS** 
 
 |STAGE RACE||1stoffence 1’ penalisation in stage results rider and<br>50 fine mechanic<br>2ndoffence disqualification (DSQ) rider and 100 fine<br>mechanic|
 |---|---|---|
@@ -4693,15 +4297,11 @@ MOUNTAIN BIKE
 |ONE-DAY RACE|Relegation (REL) to the last place in the rider’s<br>group or<br>Disqualification (DSQ) at sole discretion of the<br>commissaires’ panel in case of serious cases|Relegation (REL) to the last place in the rider’s<br>group or<br>Disqualification (DSQ) at sole discretion of the<br>commissaires’ panel in case of serious cases|
 |STAGE RACE||1stoffence Relegation REL and 30” penalisation in<br>the stage results.<br>2ndoffence Disqualification (DSQ)|
 
-
-
 E0123 
 
 **105** 
 
 MOUNTAIN BIKE 
-
-## **UCI CYCLING REGULATIONS** 
 
 |19.<br>Training outside training time during<br>the<br>event and when course stated as<br>“closed”on  the event schedule|||
 |---|---|---|
@@ -4719,15 +4319,11 @@ MOUNTAIN BIKE
 |25.<br>Act of violence<br>25.1<br>Among riders|||
 |ONE-DAY RACE|200 fine|100 fine|
 
-
-
 E0123 
 
 **106** 
 
 MOUNTAIN BIKE 
-
-## **UCI CYCLING REGULATIONS** 
 
 |STAGE RACE||100 fine plus 1’ penalisation|
 |---|---|---|
@@ -4737,30 +4333,22 @@ MOUNTAIN BIKE
 |26.<br>SPECIFIC ON DOWNHILL EVENTS<br>26.1<br>Rider no completing at least 2<br>training  runs<br>26.2<br>Start training run below the start<br>line<br>26.3<br>Rider no wearing protections<br>imposed  by the national federation|Disqualification (DSQ)<br>Disqualification (DSQ)<br>Start refused|Disqualification (DSQ)<br>Disqualification (DSQ)<br>Start refused|
 |27.<br>SPECIFIC ON ENDURO EVENTS<br>27.1<br>Feeding outside the feed/technical<br>assistance Zone<br>27.2<br>Changing any marked bicycle<br>component<br>during<br>a<br>race<br>without<br>permission from the race control.<br>27.3<br>Rider leaving the marked race<br>route to access feed and technical<br>assistance zone.<br>27.4<br>Riding on special stages after the<br>official course release and outside of<br>official training<br>27.5<br>Riding or pushing the bike on a<br>special stage against the direction of race|Disqualification (DSQ)<br>With permission from race control: 3 minutes<br>penalty<br>Without permission from race control:<br>Disqualification (DSQ)<br>With permission from race control: 3 minutes<br>penalty<br>Without permission from race control:<br>Disqualification (DSQ)<br>1stoffence 5 minutes penalty<br>2ndoffence disqualification (DSQ)<br>Disqualification (DSQ)||
 
-
-
 E0123 
 
 **107** 
 
 MOUNTAIN BIKE 
 
-## **UCI CYCLING REGULATIONS** 
-
 |travel within the racecourse markings (race<br>or training)<br>27.6<br>Not following the official marked<br>route of a liaison between stages<br>27.7<br>Failure to follow / stay within the<br>marked and/or defined route of a special<br>stage (shortcutting)<br>27.8<br>Damaging or altering the course<br>marking<br>27.9<br>Arriving late for at start or any<br>special stage allocated start time<br>27.10<br>Unauthorised private shuttling of<br>athletes|1stoffence 5 minutes penalty<br>2ndoffence 5 minutes penalty<br>Accidental advantage gained 1 to 5 minutes penalty<br>Intentional disqualification (DSQ)<br>Disqualification (DSQ)<br>Up to 5 minutes late 1 minute penalty<br>5-30 minutes late 5 minutes penalty<br>Over 30 minutes late Did Not Finish (DNF)<br>Training<br>Rider disqualification (DSQ)<br>Team 250 fine<br>Race<br>5 minutes penalty<br>Team 250 fine||
 |---|---|---|
 |28.<br>Late entries|UCI World Cup cross-country, cross-country short<br>track, cross-country marathon, downhill and<br>enduro: CHF 300|N/A|
 |29.<br>LITTERING<br>29.1<br>Rider or team disposing of waste<br>or other objects outside of feed and<br>technical assistance areas or organised<br>littering zone.<br>29.2<br>Disposing of waste or other<br>objects in a careless or dangerous manner.|<br>1stoffence 250 fine<br>2ndoffence 500 fine and disqualification (DSQ)|1stoffence 100 fine<br>2ndoffence 200 fine and disqualification (DSQ)|
-
-
 
 E0123 
 
 **108** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 1.01.00; 1.01.02; 1.01.03; 5.05.03; 1.01.04; 1.01.05; 1.01.06; 1.01.07; 1.01.09; 1.07.10; 1.10.10; 1.07.11; 1.10.11; 1.10.13; 7.03.14; 16.06.14; 1.01.15; 1.07.15; 1.01.16; 1.01.17; 1.07.17; 1.01.19; 1.01.20; 10.06.21; 1.01.23; 1.01.25; 1.01.26)_ 
 
@@ -4769,8 +4357,6 @@ E0123
 **109** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 1 - Model contract between a rider and a UCI MTB TEAM** 
 
@@ -4788,13 +4374,9 @@ hereinafter "the paying agent"
 
 and: (name and address of the rider) 
 
-born at  on (date) of ....... nationality holding a licence issued by hereinafter "the rider" 
-
 ## ON THE OTHER PART 
 
 Where as: 
-
-- the paying agent employs a team of cyclists who participate as members of the UCI MTB WORLD SERIES TEAM / UCI MTB TEAM.... (team name) under the management of Mr. …………. (name of the general manager or team manager) in mountain bike races governed by the regulations of the International Cycling Union; 
 
 - the rider wishes to join the……………… (name of the team); 
 
@@ -4810,13 +4392,9 @@ Participation by the rider in events in other disciplines is decided by the part
 
 ## ARTICLE 2 - Duration 
 
-The present contract is concluded for a fixed period commencing on.... and expiring on.... 
-
 ARTICLE 3 - Remuneration / reimbursement of expenses 
 
 a) Paid rider 
-
-The rider is entitled to an annual gross salary of.... This remuneration may not be lower than the legal minimum wage or, where there is no legal minimum, than the usual salary that is paid or has to be paid to full-time workers employed in the country whose national federation issued the rider’s licence or in the country where the team has its head office, whichever is the higher. 
 
 If the duration of that contract is to be less than one year, the rider must, over that period, earn at least the full annual salary provided for in the preceding paragraph, less the salary that he earned as a rider with some other employer in the course of the same year. 
 
@@ -4825,8 +4403,6 @@ E0123
 **110** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 This provision does not apply if the present contract is extended. 
 
@@ -4886,8 +4462,6 @@ E0123
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 3. The rider may not compete in a race as an individual without the express consent of the paying agent. The paying agent is deemed to have given its agreement if it has not replied within a period of ten days from the date of the request. In no case may the rider take part in a race within any other structure or a mixed team if the (name of the team) has already entered for that race. 
 
    - In the event of selection for a national team, the paying agent is required to permit the rider to participate in such races and preparatory programmes as may be determined by the national federation. The paying agent must authorise the national federation, acting on its own behalf, to give to the rider any instructions of a purely sporting nature that it deems necessary in the context of and for the duration of the selection. 
@@ -4924,8 +4498,6 @@ Made in
 
 on 
 
-In as many copies as required by the legislation applicable to the present contract, that is to say,..... plus one copy to be sent to the UCI. 
-
 The rider 
 
 The paying agent 
@@ -4936,8 +4508,6 @@ E0123
 
 MOUNTAIN BIKE 
 
-**UCI CYCLING REGULATIONS** 
-
 Legal representative (for juniors riders) 
 
 E0123 
@@ -4945,8 +4515,6 @@ E0123
 **113** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 2 - UCI MTB XCO points** 
 
@@ -5018,15 +4586,11 @@ MOUNTAIN BIKE
 ||**nombre de points pour chaque coureur classé /** _amount ofpoints for each ranked rider_|||||||||||||
 ||***les points ne sont pas nominatifs aux coureurs mais à la Nation /_thepoints are not n_|||||||||_ominatif to the riders but to the Nation_||||
 
-
-
 E0123 
 
 **114** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ||**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|<br>**Hors Classe /**<br>**Continental Series**|<br>**Hors Classe /**<br>**Continental Series**|**Classe 1**|**Classe 1**|**Classe 2 / COUPE du**<br>**MONDE XCE /**<br>XCE WORLD CUP/<br>Jeux régionaux /<br>Regional Games|**Classe 3  /**<br>~~**Jeux**~~<br>~~**réionaux /**~~|**XCO**<br>**JUNIOR**<br>**SERIE**|**XCO**<br>**Junior  /**<br>**Continent**<br>**al Series**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -5097,15 +4661,11 @@ MOUNTAIN BIKE
 ||**nombre de points pour chaque coureur classé /|||||** _amount ofpoints for each ranked rider_||||||
 ||***les points ne sont pas nominatifs aux coureurs|||||mais à la Nation /_thepoints are not nominat_|||_if to the riders_|_but to the_|_Nation_|
 
-
-
 E0123 
 
 **115** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 2a - UCI MTB XCC points** 
 
@@ -5154,15 +4714,11 @@ MOUNTAIN BIKE
 |**_40_**|2|1|||||||
 |**_41_**|x|X|||||||
 
-
-
 E0123 
 
 **116** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 2b - UCI MTB XCM points** 
 
@@ -5236,15 +4792,11 @@ MOUNTAIN BIKE
 |||||**nombre de points|pour chaque coureur classé /** _a_|||_mount ofpoints for each ranked rider_|||||
 |||||***les points ne sont|pas nominatifs aux coureurs mai|||s à la Nation /_thepoints are not nominatif to the rid_|||_ers but to the Nation_||
 
-
-
 E0123 
 
 **117** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 3 - UCI MTB DHI points** 
 
@@ -5315,15 +4867,11 @@ MOUNTAIN BIKE
 |||||||||||||
 ||** For the final round,no world cup points will be awared for thequa|||lifyinground,those world cup points will begiven to the final instead.||||||||
 
-
-
 E0123 
 
 **118** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ||**CHAMP. CONT.**<br>_CONT. CHAMP._|**CHAMP. CONT.**<br>_CONT. CHAMP._|**CHAMP. NAT.**<br>_NAT. CHAMP._|**CHAMP. NAT.**<br>_NAT. CHAMP._|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|
 |---|---|---|---|---|---|---|---|---|---|
@@ -5393,15 +4941,11 @@ MOUNTAIN BIKE
 |||||||||||
 ||** For the final round,no world cup points will be awared for thequalifyinground,||||those world cup points will begiven to the final instead.|||||
 
-
-
 E0123 
 
 **119** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 3a - UCI MTB EDR points** 
 
@@ -5471,15 +5015,11 @@ MOUNTAIN BIKE
 |**_60_**|15|||||||||
 |**_61_**|5*|||||||||
 
-
-
 E0123 
 
 **120** 
 
 MOUNTAIN BIKE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 4- UCI MTB 4X points** 
 
@@ -5539,13 +5079,9 @@ MOUNTAIN BIKE
 |**_50_**|||||||
 |**_51_**|||||||
 
-
-
 E0123 
 
 MOUNTAIN BIKE **121** 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX 5 – XCE SCHEDULE (32 riders, 4 per heat)** 
 
@@ -5564,8 +5100,6 @@ MOUNTAIN BIKE **121**
 |24.|24|||
 |25.|25|||
 
-
-
 |QR|**Bib**|**Heat 3**|**Rank**|
 |---|---|---|---|
 |4.|4|||
@@ -5578,8 +5112,6 @@ MOUNTAIN BIKE **121**
 |12.|12|||
 |21.|21|||
 |28.|28|||
-
-
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -5608,16 +5140,12 @@ MOUNTAIN BIKE **121**
 |Heat 4>1.||||||||
 |Heat 4 > 2.||||||||
 
-
-
 |QR|**Bib**|**Heat 5**|**Rank**|
 |---|---|---|---|
 |2.|2|||
 |15.|15|||
 |18.|18|||
 |31.|31|||
-
-
 
 ||||**Rank**|**Rank**|||**Bib**|**Heat 11**|**Rank**|||**FINALS**||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -5647,8 +5175,6 @@ MOUNTAIN BIKE **121**
 ||||||Heat 8>1.|||||||||
 ||||||Heat 8>2.|||||||||
 
-
-
 |||||**Bib**|**Heat**|**11**|**Rank**||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Heat|5|>|1.||||||||||||||
@@ -5658,8 +5184,6 @@ MOUNTAIN BIKE **121**
 ||||||||||Semi|Final|2|>|3.||||
 ||||||||||Semi|Final|2|>|4.||||
 
-
-
 |||||**Bib**|**Big Final**|**Rank**|
 |---|---|---|---|---|---|---|
 |Semi Final|1|>|1.||||
@@ -5667,15 +5191,12 @@ MOUNTAIN BIKE **121**
 |Semi Final|2|>|1.||||
 |Semi Final|2|>|2.||||
 
-
-
 Notes: 
 
-- If fewer than 24 riders are ranked in the qualifying round (QR), the first round will be the ¼ finals : Heat 1 > Bib 1-8-9-16, Heat 2 > 4-5-12-13, Heat 3 > 2-7-10-15, Heat 4 > 3-6-11-14. - The competition shall not be held if fewer than 6 riders are entered for the qualifying round. 
+- If fewer than 24 riders are ranked in the qualifying round (QR), the first round will be the ¼ finals: Heat 1 > Bib 1-8-9-16, Heat 2 > 4-5-12-13, Heat 3 > 2-7-10-15, Heat 4 > 3-6-11-14. - The competition shall not be held if fewer than 6 riders are entered for the qualifying round. 
 
 E0123 
 
 **122** 
 
-MOUNTAIN BIKE 
-
+MOUNTAIN BIKE

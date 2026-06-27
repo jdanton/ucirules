@@ -159,6 +159,8 @@ annotate.
 | `docs/images/` | ✅ | Figures/diagrams extracted from the PDFs (PNG) |
 | `docs/.manifest.json` | ✅ | Source URL → {name, stem, SHA-256} (drives delta detection) |
 | `.github/workflows/monthly-sync.yml` | ✅ | Scheduled monthly sync + deploy (GitHub Actions) |
+| `clean_md.py` | ✅ | Strips printed TOCs / page furniture from converted Markdown |
+| `reclean_docs.py` | ✅ | One-off: re-clean existing `docs/` in place |
 | `build_nav.py` | ✅ | Scans `docs/` → clean page titles + grouped nav |
 | `titles.yml` | ✅ | `{filename: title}` mapping (editable; drives the nav) |
 | `properdocs.yml` | ✅ | ProperDocs site config + generated `nav:` |

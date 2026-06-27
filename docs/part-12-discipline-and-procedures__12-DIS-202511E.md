@@ -4,14 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2B5HmwoAwiDz1xteuaysXa/977
 source_sha256: 335abaa09acee9f48973e480eec11dba1d480eb8d6afca431964af27137ee8f2
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 12 DISCIPLINE AND PROCEDURES** 
 
 Version on 1 November 2025 
-
-## **TABLE OF CONTENTS** 
 
 |**Chapter**|**I**<br>**PRELIMINARY PROVISIONS**|**2**|
 |---|---|---|
@@ -53,15 +48,11 @@ Version on 1 November 2025
 |§ 1|General information|25|
 |§ 2|UCI Arbitral Board|25|
 
-
-
 E1125 
 
 1 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 12 DISCIPLINE AND PROCEDURES** 
 
@@ -117,8 +108,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 bodies (including the appeals body if necessary) rule on these events after the entry of this Part 12 into effect. 
 
 The procedural rules of this Part 12 shall apply from the entry into effect of this Part 12. 
@@ -152,8 +141,6 @@ E1125
 3 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II  GENERAL SECTION** 
 
@@ -213,8 +200,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Statute of limitations** 
 
 - **12.2.008** Unless otherwise specified, any infringement described by this Part 12 shall be timebarred if it has not been reported to the Disciplinary Commission within one year of the date on which it was discovered. 
@@ -263,8 +248,6 @@ DISCIPLINE AND PROCEDURES
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 In exercising these powers, the UCI shall consider all relevant circumstances, including but not limited to the gravity of the infringement, the urgency of the matter, the severity of potential sanctions, and the possibility of establishing the infringement using less intrusive methods of investigation, ensuring that the application of these powers is both proportional and necessary for the investigation at hand. 
 
 These powers may include, but are not limited to, the following actions: 
@@ -304,8 +287,6 @@ E1125
 6 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III  DISCIPLINARY MEASURES** 
 
@@ -348,8 +329,6 @@ E1125
 DISCIPLINE AND PROCEDURES 
 
 7 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 4 Fine** 
 
@@ -394,8 +373,6 @@ E1125
 8 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 5 Return of prizes** 
 
@@ -444,8 +421,6 @@ E1125
 9 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Participation of a suspended licence holder in a cycling event or other activity for which a licence is required** 
 
@@ -497,8 +472,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Decision and enforcement** 
 
 - **12.3.026** The Disciplinary Commission shall make its decision as soon as possible. The decision is immediately enforceable. 
@@ -515,8 +488,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter IV INFRINGEMENTS** 
 
 ## **§ 1 Infringements related to race incidents** 
@@ -525,9 +496,9 @@ DISCIPLINE AND PROCEDURES
 
 - **12.4.001** The infringements relating to race incidents are those listed in the tables of race incidents as set out in the articles below: 
 
-   - 2.12.007 for Road cycling and Para-cycling Road ; 
+   - 2.12.007 for Road cycling and Para-cycling Road; 
 
-   - 3.10.008 for Track cycling and Para-cycling Track ; 
+   - 3.10.008 for Track cycling and Para-cycling Track; 
 
    - 4.20.001 for Mountain Bike; 
 
@@ -562,8 +533,6 @@ E1125
 12 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **12.4.003** Technological fraud is an infringement of article 1.3.010 that is subject to a disciplinary **bis** sanction. 
 
@@ -606,8 +575,6 @@ E1125
 13 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Fraud** 
 
@@ -663,8 +630,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 guides for the different disciplines; the UCI WorldTour organiser's specifications; the various technical guides as well as any directives or other documents setting out the organiser’s obligations. 
 
 ## **§ 5 Other infringements** 
@@ -694,8 +659,6 @@ E1125
 15 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter V  ORGANISATION** 
 
@@ -739,8 +702,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 5.05.23; 2.02.24)._ 
 
 ## **Jurisdiction** 
@@ -776,8 +737,6 @@ E1125
 17 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 UCI Disciplinary Commission c/o Union Cycliste Internationale CH-1860 Aigle Disciplinary.Commission@uci.ch 
 
@@ -825,8 +784,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Appeals to the UCI** 
 
 - **12.5.012** If, according to a National Federation’s regulations, a licence holder does not have the option to bring an appeal regarding a decision against him, he may lodge an appeal with the UCI Disciplinary Commission if a suspension of one month or more has been imposed. This appeal must be lodged within 30 days of the communication or, failing that, of the publication of the decision taken. The Disciplinary Commission decides in the final instance. 
@@ -848,8 +805,6 @@ E1125
 19 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI PROCEDURE – DISCIPLINARY COMMISSION** 
 
@@ -899,8 +854,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 4 Procedure** 
 
 ## **Language of the procedure** 
@@ -940,8 +893,6 @@ E1125
 21 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 5 Evidence** 
 
@@ -999,8 +950,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Extension of time limits** 
 
 - **12.6.014** The Disciplinary Commission may, upon a reasoned request, extend the time limits, provided that the request is made before the expiry of the initial time limit set by the Disciplinary Commission or established in compliance with this Part. 
@@ -1051,8 +1000,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 10 Road Sub-Committee** 
 
 - **12.6.021** The rules of procedure of the Disciplinary Commission shall apply to the proceedings before the Road Sub-Committee insofar as they do not contradict any of provisions below. In case of discrepancy, the articles below shall prevail. 
@@ -1080,8 +1027,6 @@ E1125
 24 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VII  PROCEDURE - ARBITRAL BOARD** 
 
@@ -1127,8 +1072,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 The competences of the Licence Commission and the Court of Arbitration for Sport (hereinafter CAS) are reserved. 
 
 _(text modified on 6.04.05; 1.01.10)._ 
@@ -1170,8 +1113,6 @@ E1125
 26 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 The President of the Arbitral Board cannot serve more than two terms of four years in total, whether continuously or interruptedly. He/she can continue to serve as a member in between terms as President or after reaching the term limit. 
 
@@ -1227,8 +1168,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **12.7.018** The President of the panel, or, in cases of urgency, the President of the Arbitral Board, shall set the time limits within which the defendant(s) must provide a response and associated documents. 
 
 The President of the panel shall lead the procedure. Where necessary, the President shall authorise other written exchanges and set the relevant time limits. 
@@ -1270,8 +1209,6 @@ E1125
 28 
 
 DISCIPLINE AND PROCEDURES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **12.7.025** Hearings shall be public unless otherwise decided by the panel at the request of one of the parties. 
 
@@ -1323,8 +1260,6 @@ E1125
 
 DISCIPLINE AND PROCEDURES 
 
-**UCI CYCLING REGULATIONS** 
-
 of the panel. All procedural documents shall therefore be written in that language, failing which they shall be considered invalid. 
 
 _(text modified on 1.01.10)._ 
@@ -1347,5 +1282,4 @@ E1125
 
 30 
 
-DISCIPLINE AND PROCEDURES 
-
+DISCIPLINE AND PROCEDURES

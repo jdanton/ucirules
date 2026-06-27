@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2qsIuXfqIF2NaTMMS4Gioc/bfd
 source_sha256: 86518a478d4ef6be3781aae0c6cc4df64f55f6de1d90a9bffd58551defcde6a9
 converter: pymupdf4llm
 ---
-
 6.02.2026 
 
-
 ![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -75,9 +72,7 @@ converter: pymupdf4llm
 
 - the criteria used to determine the starting order of a time trial event or prologue; the criteria shall determine the order of teams; each team shall determine the starting order of its riders. 
 
-
 ![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0002-00.png)
-
 
 ## MEMORANDUM 
 
@@ -133,9 +128,7 @@ _(text introduced on 8.02.21; modified on 01.11.22; 6.02.26)._
 
 6.02.2026 
 
-
 ![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0003-01.png)
-
 
 ## MEMORANDUM 
 
@@ -173,13 +166,9 @@ _(chapter introduced on 1.01.20)._
 |Minimum number of UCI<br>WorldTeams at the start for the<br>relevant year<br>|4|
 |Minimum number of UCI<br>ProTeams at the start for the|6|
 
-
-
 6.02.2026 
 
-
 ![](images/2-ROA-20260206-E-amendments_on_06.02.26.pdf-0004-01.png)
-
 
 ## MEMORANDUM 
 
@@ -219,5 +208,4 @@ The UCI Management Committee may also grant exemptions from the above criteria u
 
 ~~The eligibility criteria for submitting an application for registration on the UCI ProSeries calendar are defined above and may be adapted by the UCI Management Committee if necessary. The UCI Management Committee may also take acknowledged facts into account.~~ 
 
-_(text modified on 12.06.20, 20.10.25, 6.02.2026)_ 
-
+_(text modified on 12.06.20, 20.10.25, 6.02.2026)_

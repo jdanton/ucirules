@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/LIBc2inTfcSydoQFznedL/eb97
 source_sha256: ac38885e05df0a84337c78cb47a6280996361d937e88b9dda24c1576a17a3474
 converter: pymupdf4llm
 ---
-
-
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-00.png)
-
 
 ## **Use of the rainbow stripes, the UCI marks and the UCI event marks** 
 
@@ -21,31 +18,21 @@ The following assets are protected by means of intellectual property rights:
 
 The use of the rainbow stripes is reserved exclusively to the partners and licensees of the UCI. Visual identification of the rainbow stripes: 
 
-
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-07.png)
-
 
 - The UCI marks i.e. the UCI name and logo, are the exclusive property of the UCI. Partners of the UCI receive the rights to use the UCI marks and display them in public as per the specific usage guidelines of the UCI. 
 
 A selection of the UCI marks include: 
 
-
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-10.png)
-
-
 
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-11.png)
 
-
 - The event marks comprise all logos, names, official mascots, emblems or designations that identify or refer to a UCI World Championship event in particular. Event marks are the property of the concerned UCI-appointed Organizing Committee. The Organizing Committee receives a license from the UCI to use the acronym "UCI" and/or the UCI logo in order to combine these UCI properties with the event-specific identities. Any use of the full event logos (examples shown below) requires the prior authorization or consent of the UCI and/or of the UCI-appointed Organizing Committee. 
-
 
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-13.png)
 
-
-
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-14.png)
-
 
 The rule is simple: if you are not expressly authorized to use any of the aforementioned assets, don't use them! The UCI and the UCI-appointed Organizing Committee will systematically take the necessary steps to make sure that their rights are being respected and that unauthorized use, if any, will be stopped. 
 
@@ -61,7 +48,4 @@ Similarly, any commercial or promotional activity on the competition venue -  i.
 
 For more information, please contact legal@uci.ch. 
 
-
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-22.png)
-
-

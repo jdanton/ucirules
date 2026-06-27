@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4Jwn3HfNQvCcTQFQs5RFle/80a
 source_sha256: 3301ec2df59887b7a9a50583e6861658a18547b9ab766c2312af55e61732ec54
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 08.06.2026 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2028.pdf-0001-01.png)
-
 
 ## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT** 
 
@@ -73,7 +70,7 @@ _(Article introduced on 10.06.21; 01.01.28_
 
 In the disciplines road, track and cyclo-cross, only wheel designs granted prior approval by the UCI as per the Approval Protocol may be used. 
 
-Wheels which meet the definition of traditional wheels are assumed to be compliant and do not need to follow the Approval Protocol ~~application procedure provided for in this article~~ . 
+Wheels which meet the definition of traditional wheels are assumed to be compliant and do not need to follow the Approval Protocol ~~application procedure provided for in this article~~. 
 
 ~~**Definition of Traditional wheels:**~~ **Traditional wheels are defined as meeting the criteria below:** 
 
@@ -101,9 +98,7 @@ Wheels approved in mass start competitions in the disciplines of road and cycloc
 
 - the maximum height of the rim does not measure more than 65 mm (measured as the perpendicular distance from the tangential line passing through any point of the outer extremity of the rim to the inner extremity of the rim), see illustration below; 
 
-
 ![](images/UCI_Part_I_-_Rule_Changes_on_01.01.2028.pdf-0003-06.png)
-
 
 - have at least 12 spokes, which can be round, flattened or oval, provided that no dimension of their sections exceeds 10 mm. 
 
@@ -115,7 +110,7 @@ The following dimensional limits apply per discipline:
 
 - Road and Track: the overall wheel diameter (including installed and inflated tyre) shall not exceed 700 mm; 
 
-- Cyclo-cross: The width of the tyre (measured at the the section) shall not exceed 33 m ~~m and the tyre shall not incorporate any form of spikes or studs~~ . 
+- Cyclo-cross: The width of the tyre (measured at the the section) shall not exceed 33 m ~~m and the tyre shall not incorporate any form of spikes or studs~~. 
 
 ~~Wheels of the bicycle may vary in diameter between 700 mm maximum and 550 mm minimum, including the tyre.~~ 
 
@@ -131,5 +126,4 @@ Wheels used in the road, track and cyclo-cross disciplines must meet the impact 
 
 In track competition, including motor-pacing, the use of a front disc wheel is only permitted in the specialties against the clock. 
 
-_(text modified on 01.01.02; 01.01.03; 01.09.03; 01.01.05; 01.07.10; 01.10.13; 01.01.16, 25.06.19, 01.01.24; 01.01.26; 01.01.28)_ 
-
+_(text modified on 01.01.02; 01.01.03; 01.09.03; 01.01.05; 01.07.10; 01.10.13; 01.01.16, 25.06.19, 01.01.24; 01.01.26; 01.01.28)_

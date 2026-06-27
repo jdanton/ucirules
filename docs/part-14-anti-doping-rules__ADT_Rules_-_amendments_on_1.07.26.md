@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/ERSIpwioDU4yk69S3eVre/718e
 source_sha256: 336178d11e91161a2d46038c38ce4b148929db02f96bab12f0ef8de85e91c40f
 converter: pymupdf4llm
 ---
-
 8.06.2026 
 
-
 ![](images/ADT_Rules_-_amendments_on_1.07.26.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -61,5 +58,4 @@ Testing Agency – ITA and/or by external counsel appointed by the latter.
 
 4. The Tribunal may request the production of a power of attorney. 
 
-_(text modified on 04.02.21; 1.07.26)_ 
-
+_(text modified on 04.02.21; 1.07.26)_

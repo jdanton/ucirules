@@ -4,49 +4,17 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4nj0eMn8dOZa37oOfbowBm/074
 source_sha256: fab07e006c3c9db2dcd4113713a58e55383ae72a9f7b14e54fc3eadb0b8f75a7
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 15 CYCLING FOR ALL** 
 
 **Version on 01.01.2022** 
 
-## **TABLE OF CONTENTS** 
-
 ## **Contents** 
-
-|**Chapter**|**I GENERAL PROVISIONS ...................................................................................... 2**|
-|---|---|
-|§ 1|Participation ............................................................................................................. 2|
-|§ 2|Entries and responsibility of participants ................................................................... 2|
-|§ 3|Organisation ............................................................................................................. 3|
-|**Chapter**|**II CYCLOSPORTIVE EVENT ................................................................................... 5**|
-|§ 1|Course and safety .................................................................................................... 5|
-|§ 2|First aid .................................................................................................................... 5|
-|§ 3|Feeding .................................................................................................................... 6|
-|§ 4|Communications ...................................................................................................... 6|
-|§ 5|Technical assistance ................................................................................................ 6|
-|§ 6|Timekeeping and classification ................................................................................. 6|
-|**Chapter**|**IIIGRAVEL .............................................................................................................. 7**|
-|**Chapter**|**IV MASTERS (ROAD) ............................................................................................. 9**|
-|§ 1|Participation in events on the UCI masters calendar ................................................ 9|
-|§ 2|Events ...................................................................................................................... 9|
-|**Chapter**|**V UCI GRAN FONDO WORLD SERIES AND WORLD CHAMPIONSHIPS .......... 10**|
-|§ 1|General Provisions ................................................................................................. 10|
-|§ 2|UCI Gran Fondo World Championships ................................................................. 12|
-|**Chapter**|**VI UCI GRAVEL WORLD SERIE AND WORLD CHAMPIONSHIPS ..................... 14**|
-|§ 1|General Provisions ................................................................................................. 14|
-|§ 2|UCI Gravel World Championships .......................................................................... 15|
-
-
 
 CYCLING FOR ALL 
 
 E0619 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 15 CYCLING FOR ALL** 
 
@@ -87,8 +55,6 @@ CYCLING FOR ALL
 E0122 
 
 2 
-
-**UCI CYCLING REGULATIONS** 
 
 - **15.1.007** By the act of entering, the participant confirms that he accepts and undertakes to respect the regulations of the UCI and the national federation, as well as the special regulations for the event. 
 
@@ -160,8 +126,6 @@ E0122
 
 3 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Environment** 
 
 - **15.1.015** The organiser must take all appropriate measures for the protection of the environment. 
@@ -173,8 +137,6 @@ CYCLING FOR ALL
 E0122 
 
 4 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II CYCLOSPORTIVE EVENT** 
 
@@ -226,8 +188,6 @@ E0122
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 - **15.2.014** The members of the first aid services shall be stationed at fixed posts and mobile units, as appropriate to the length and configuration of the course. 
 
 - **15.2.015** The principal first aid post must be readily identifiable and situated close to the finishing line. 
@@ -269,8 +229,6 @@ CYCLING FOR ALL
 E0122 
 
 6 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III GRAVEL** 
 
@@ -320,8 +278,6 @@ E0122
 
 7 
 
-**UCI CYCLING REGULATIONS** 
-
 The wearing of a hard-shell helmet is mandatory. 
 
 ## **Feed and technical assistance zones** 
@@ -345,8 +301,6 @@ CYCLING FOR ALL
 E0122 
 
 8 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV MASTERS (ROAD)** 
 
@@ -381,8 +335,6 @@ _(text modified on 01.10.10; 25.06.19)_
 |MM|120 km||||80 km|||40 km||
 |WM|80 km||40 km|||||||
 
-
-
 _(text modified on 01.10.10)_ 
 
 ## **Individual time trial** 
@@ -394,15 +346,11 @@ _(text modified on 01.10.10)_
 |MM|40 km||||30 km|||20 km||
 |WM|30 km||||20 km|||||
 
-
-
 CYCLING FOR ALL 
 
 E0122 
 
 9 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter V UCI GRAN FONDO WORLD SERIES AND WORLD CHAMPIONSHIPS** 
 
@@ -438,7 +386,7 @@ _(text modified on 01.01.16; 01.09.17)_
 
 - **15.5.003** The organisation of UCI Gran Fondo World Series events is governed by Part 2 Road races with the exception of the provision 15.5.004. 
 
-## **15.5.004 Age categories** : 
+## **15.5.004 Age categories**: 
 
 Races shall be organised for the following age categories: 
 
@@ -448,11 +396,9 @@ E0122
 
 10 
 
-**UCI CYCLING REGULATIONS** 
-
 19-34   35 - 39     40 - 44   45 - 49     50 - 54     55 - 59     60 - 64    65 - 69 and any further 5-year (70-74, 75-79 etc) category for which riders have entered. 
 
-## **Course distances** : 
+## **Course distances**: 
 
 - The course distances are determined as follows: 
 
@@ -506,8 +452,6 @@ E0122
 
 11 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 2 UCI Gran Fondo World Championships** 
 
 - **15.5.011** All licence holders according to article 15.5.001bis may participate in the UCI Gran Fondo World Championships, apart from: 
@@ -560,8 +504,6 @@ E0122
 
 12 
 
-**UCI CYCLING REGULATIONS** 
-
 - In UCI Gran Fondo World Series events in the discipline in which they won the World Champion title; 
 
 - In events where amateurs/masters/cycling for all riders race together with elite riders, it is allowed for UCI Gran Fondo World Champions with an Elite license to wear the UCI Gran Fondo World Champion jersey in the discipline in which they won the World Champion title; 
@@ -575,8 +517,6 @@ CYCLING FOR ALL
 E0122 
 
 13 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI UCI GRAVEL WORLD SERIE AND WORLD CHAMPIONSHIPS** 
 
@@ -623,8 +563,6 @@ CYCLING FOR ALL
 E0122 
 
 14 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Material and Equipment** 
 
@@ -676,8 +614,6 @@ E0122
 
 15 
 
-**UCI CYCLING REGULATIONS** 
-
 - **15.6.014** Riders taking part in the UCI Gravel World Championships shall represent their country and wear a jersey of their choice representative of their nationality. 
 
 - **15.6.015** All the details specific to the UCI Gravel World Championships may be obtained directly from the organiser or on the UCI website. 
@@ -708,5 +644,4 @@ CYCLING FOR ALL
 
 E0122 
 
-16 
-
+16

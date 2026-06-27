@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/50QlrMa7ZcAumOJJDB1wdu/1c3
 source_sha256: d8fd6dd38d8ee1bbdb84a0f484ed86fe12f58bda8b43a5a981de94c9a98873c8
 converter: pymupdf4llm
 ---
-
-
 ![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0001-00.png)
-
 
 “In-race communication” test protocol for the 2024 season Decision of the UCI Management Committee – 12 June 2024 
 
@@ -41,9 +38,7 @@ Page 1 / 4
 
 **Union Cycliste Internationale** Updated 7 August 2024 
 
-
 ![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0002-00.png)
-
 
 For stage races, it shall be determined for each stage individually if one of the two options apply or not. Therefore, different stages within a stage race can see either no restrictions on the use of earpieces being applied or one of the two options above. 
 
@@ -89,9 +84,7 @@ Page 2 / 4
 
 **Union Cycliste Internationale** Updated 7 August 2024 
 
-
 ![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0003-00.png)
-
 
 ## Provision 4 – The responsibilities of the organiser 
 
@@ -119,9 +112,7 @@ Page 3 / 4
 
 **Union Cycliste Internationale** Updated 7 August 2024 
 
-
 ![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0004-00.png)
-
 
 ## **Appendix 1** 
 
@@ -149,9 +140,9 @@ The use of such a system is subject to any relevant legal provisions and to thou
 
 2. In addition with the sanctions provided in article 2.12.007, the disciplinary commission may impose the following sanctions: 
 
-   - riders : fine of CHF 100 to 10,000; 
+   - riders: fine of CHF 100 to 10,000; 
 
-   - team : fine of CHF 1,000 to 100,000; 
+   - team: fine of CHF 1,000 to 100,000; 
 
 An infringement committed by a rider leads to the irrefutable presumption of an infringement committed by the rider’s team. 
 
@@ -165,5 +156,4 @@ _(text modified on 1.01.02; 1.01.05; 1.01.08; 1.01.09; 1.01.10; 1.10.10; 1.02.11
 
 Page 4 / 4 
 
-**Union Cycliste Internationale** Updated 7 August 2024 
-
+**Union Cycliste Internationale** Updated 7 August 2024

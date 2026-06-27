@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5DaVVhDSf9bsXNSCj1Hfvl/0ba
 source_sha256: 58b7b1ab906ef635b9e98717b72f1f5286a520b21f6474320926fdb3ab0e4ce5
 converter: pymupdf4llm
 ---
-
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -24,17 +21,13 @@ converter: pymupdf4llm
 |Women Junior|WJ|1.Ncup<br>2.Ncup|-<br>National teams<br>-<br>Nationalmixed teams<br>-<br>Regional~~and club~~teams<br>~~-~~<br>Continental Confederation’s team<br>(excluding Grand Final)<br>~~-~~<br>UCI World Cycling Centre’s team<br>(Grand Final only)|
 |||1.1<br>2.1|- National teams<br>- Regional and club teams<br>- Mixed teams WJ 1<br>-Junior development teams|
 
-
-
 ~~_(2) Only regional and club teams from the country of the organiser or border country and only if the national team of the country of the regional or club team is also taking part in the event._~~ 
 
 _(text modified on 01.01.99; 01.01.05; 01.01.06; 01.10.06; 25.09.07; 01.01.08; 01.1.09; 01.07.09; 01.10.09; 01.10.10; 01.07.11; 01.07.12; 01.10.13; 01.01.14; 01.01.15; 01.01.16; 12.01.17; 01.02.17; 01.01.18; 23.10.19; 01.01.20; 09.11.20; 01.01.24; 01.07.24; 01.01.25; 20.10.25; 01.11.25; 01.01.26; 01.09.26)._ 
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0002-01.png)
-
 
 ## MEMORANDUM 
 
@@ -86,9 +79,7 @@ Race organisers applying for registration on the UCI Junior Road Nations Cup cal
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0003-01.png)
-
 
 ## MEMORANDUM 
 
@@ -134,9 +125,7 @@ MEMORANDUM
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0004-02.png)
-
 
 The awarding of points for stage races is in accordance with article 2.6.001 regarding the duration of the event. 
 
@@ -184,9 +173,7 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0005-01.png)
-
 
 ## MEMORANDUM 
 
@@ -218,8 +205,6 @@ _(article introduced on 01.09.26)._
 |**19**|2|
 |**20**|1|
 
-
-
 ## **Results in prologue and stages** 
 
 |**esults in**|**prologue and stag**|
@@ -231,8 +216,6 @@ _(article introduced on 01.09.26)._
 |**4**|3|
 |**5**|2|
 |**6**|1|
-
-
 
 ## **UCI Junior Road Nations Cup one-day races** 
 
@@ -254,11 +237,7 @@ _(article introduced on 01.09.26)._
 |**14**|2|
 |**15**|1|
 
-
-
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0006-00.png)
-
 
 ## MEMORANDUM 
 
@@ -290,8 +269,6 @@ _(article introduced on 01.09.26)._
 |**19**|3|1|
 |**20**|1|1|
 
-
-
 ## **UCI Road World Championships** 
 
 |**UCI Road**|**World Championships**|**World Championships**|
@@ -313,11 +290,7 @@ _(article introduced on 01.09.26)._
 |**13**|19|7|
 |**14**|18|6|
 
-
-
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0007-00.png)
-
 
 ## MEMORANDUM 
 
@@ -343,8 +316,6 @@ _(article introduced on 01.09.26)._
 |**29**|2|1|
 |**30**|1|1|
 
-
-
 _Not all points listed in the tables are awarded for each event._ 
 
 _Indeed, when several riders from the same nation achieve a result for which points should be awarded, only the first rider is awarded points. The points corresponding to the place of the second rider are not awarded._ 
@@ -367,9 +338,7 @@ If there is still a tie, the highest-placed rider in their most recent race coun
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0008-01.png)
-
 
 ## MEMORANDUM 
 
@@ -421,9 +390,7 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0009-01.png)
-
 
 ## MEMORANDUM 
 
@@ -471,9 +438,7 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0010-01.png)
-
 
 ## MEMORANDUM 
 
@@ -530,11 +495,7 @@ _(article introduced on 01.09.26)._
 ||~~**5**~~||~~16~~|
 ||~~**6**~~||~~15~~|
 
-
-
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0011-00.png)
-
 
 ## MEMORANDUM 
 
@@ -556,8 +517,6 @@ _(article introduced on 01.09.26)._
 |~~**19**~~|~~2~~|
 |~~**20**~~|~~1~~|
 
-
-
 ## ~~**Results in prologue and stages**~~ 
 
 |~~Position~~||~~Prologue and~~<br>~~stages~~|~~Prologue and~~<br>~~stages~~|
@@ -568,8 +527,6 @@ _(article introduced on 01.09.26)._
 |~~**4**~~|||~~3~~|
 |~~**5**~~|||~~2~~|
 |~~**6**~~|||~~1~~|
-
-
 
 ## ~~**Final results in UCI Men Junior Nation’s Cup one-day races**~~ 
 
@@ -591,8 +548,6 @@ _(article introduced on 01.09.26)._
 ||~~**14**~~||~~2~~|
 ||~~**15**~~||~~1~~|
 
-
-
 ## ~~**Final results in the Continental Championships**~~ 
 
 ||~~Position~~|||~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~||~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|
@@ -606,11 +561,7 @@ _(article introduced on 01.09.26)._
 ||~~**5**~~||~~4~~|||~~4~~||||||
 ||~~**6**~~||~~3~~|||~~3~~||||||
 
-
-
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0012-00.png)
-
 
 ## MEMORANDUM 
 
@@ -622,8 +573,6 @@ _(article introduced on 01.09.26)._
 |||||||||||||
 ||~~**7**~~||~~2~~|||~~2~~||||||
 ||~~**8**~~||~~1~~|||~~1~~||||||
-
-
 
 ## ~~**Final results in the UCI Road World Championships**~~ 
 
@@ -647,8 +596,6 @@ _(article introduced on 01.09.26)._
 |||~~**14**~~|||~~2~~||~~2~~|
 |||~~**15**~~|||~~1~~||~~1~~|
 
-
-
 ~~_(text modified on 1.01.08; 1.07.11; 1.08.13; 1.01.17; 9.11.20, 17.06.24)._~~ 
 
 - ~~**2.14.041** Only the national teams which participated in the event are included in the classification.~~ 
@@ -671,9 +618,7 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0013-01.png)
-
 
 ## MEMORANDUM 
 
@@ -731,9 +676,7 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0014-01.png)
-
 
 ## MEMORANDUM 
 
@@ -785,11 +728,7 @@ _(article introduced on 01.09.26)._
 ||~~**8**~~||~~13~~|
 ||~~**9**~~||~~12~~|
 
-
-
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0015-00.png)
-
 
 ## MEMORANDUM 
 
@@ -808,8 +747,6 @@ _(article introduced on 01.09.26)._
 |~~**19**~~|~~2~~|
 |~~**20**~~|~~1~~|
 
-
-
 ## ~~**Results in prologue and stages**~~ 
 
 ||~~Position~~||~~Prologue and~~<br>~~stages~~|~~Prologue and~~<br>~~stages~~|
@@ -820,8 +757,6 @@ _(article introduced on 01.09.26)._
 ||~~**4**~~|||~~3~~|
 ||~~**5**~~|||~~2~~|
 ||~~**6**~~|||~~1~~|
-
-
 
 ## ~~**Final results in UCI Women Junior Nation’s Cup one day races**~~ 
 
@@ -844,8 +779,6 @@ _(article introduced on 01.09.26)._
 ||~~**14**~~||~~2~~|
 ||~~**15**~~||~~1~~|
 
-
-
 ## ~~**Final results in the Continental Championships**~~ 
 
 ||~~Position~~||||~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~|~~European Continental~~<br>~~Championships~~|||~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|~~Asian, African, American and~~<br>~~Oceanian Championships~~|
@@ -861,13 +794,9 @@ _(article introduced on 01.09.26)._
 ||~~**7**~~|||~~2~~|||~~2~~||||||
 ||~~**8**~~|||~~1~~|||~~1~~||||||
 
-
-
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0016-01.png)
-
 
 ## MEMORANDUM 
 
@@ -894,8 +823,6 @@ _(article introduced on 01.09.26)._
 |||~~**14**~~|||~~2~~||~~2~~|
 |||~~**15**~~|||~~1~~||~~1~~|
 
-
-
 ~~_(text modified on 9.11.20, 17.06.24)._~~ 
 
 ## ~~**Separating tied nations**~~ 
@@ -918,9 +845,7 @@ _(article introduced on 01.09.26)._
 
 8 June 2026 
 
-
 ![](images/2-ROA-20260901-E-amendments_on_01.09.26.pdf-0017-01.png)
-
 
 ## MEMORANDUM 
 
@@ -956,5 +881,4 @@ _(article introduced on 01.09.26)._
 
 ~~The car of a team covered by point 1 or 2, but which falls into the categories covered by points 3 or 4, will be in group 3 or 4 as appropriate.~~ 
 
-~~The rules above shall apply to the first stage of a stage race. The order of team cars for subsequent stages shall be determined by the individual general classification by time.~~ 
-
+~~The rules above shall apply to the first stage of a stage race. The order of team cars for subsequent stages shall be determined by the individual general classification by time.~~

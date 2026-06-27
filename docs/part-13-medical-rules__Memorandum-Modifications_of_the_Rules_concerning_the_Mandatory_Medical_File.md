@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6WlKUtPYFvKGW0AiGH2SRz/eba
 source_sha256: fd3321d28a7378df6fb8b43428c364ed550a8202a4a3ccd1d013b6450b4cafe1
 converter: pymupdf4llm
 ---
-
-
 ![](images/Memorandum-Modifications_of_the_Rules_concerning_the_Mandatory_Medical_File.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -21,7 +18,7 @@ converter: pymupdf4llm
 
 ## **Medical file** 
 
-- 13.3.021      This medical file will contain all examination results required for the rider in accordance with the provisions of these regulations, as well as any additional relevant health information, ~~which will be added with their consent~~ . In particular, all traumatic events occurring during races or training will be documented, including any cases of concussions where the diagnosis has been confirmed. 
+- 13.3.021      This medical file will contain all examination results required for the rider in accordance with the provisions of these regulations, as well as any additional relevant health information, ~~which will be added with their consent~~. In particular, all traumatic events occurring during races or training will be documented, including any cases of concussions where the diagnosis has been confirmed. 
 
 - 13.3.024    The team doctor, and if necessary, the UCI Medical Commission, will treat the results of the examinations as confidential information, without prejudice of the team doctor’s obligation to report any diagnosed concussion, and, if applicable, that a rider is unfit to train or compete. 
 
@@ -39,5 +36,4 @@ Page 1 / 1
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 D: +41 24 468 58 09 E: medical@uci.ch 
-
+T: +41 24 468 58 11 D: +41 24 468 58 09 E: medical@uci.ch

@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5hGw8gdhwOiJXI0ZlUyVLn/f0b
 source_sha256: 13ca8b3c49c36ef882494f1d27415a29fc001f3ab92315c0923e9771c6e6cea8
 converter: pymupdf4llm
 ---
-
-
 ![](images/UCI_Part_IX_-_Rule_Changes_on_01.10.2025_-_ENG.pdf-0001-00.png)
-
 
 MEMORANDUM 01.10.2025 
 
@@ -27,5 +24,4 @@ Road race – all divisions; Individual Time Trial – all divisions; Mixed Team
 
 Kilometre ~~/500 m~~ – divisions B & C; Individual pursuit – divisions ~~B & C;~~ Mixed Team sprint – division C; Sprint – division B & C; Scratch race – division C; Elimination – division C; ~~Para Omnium – division C;~~ Mixed Tandem Team Sprint – division B. 
 
-_(article introduced on 01.10.13; text modified on 11.02.20; 01.10.25)_ 
-
+_(article introduced on 01.10.13; text modified on 11.02.20; 01.10.25)_

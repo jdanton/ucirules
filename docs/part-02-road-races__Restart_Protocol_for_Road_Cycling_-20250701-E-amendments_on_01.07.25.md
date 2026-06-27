@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1CSoHjBlqW2pTewl6rXxlh/df1
 source_sha256: 07047d6b1e83389ba4973e3c8749ec5ac8ad775a63a158b6f6778b6389294b71
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 01.07.2025 
 
-
 ![](images/Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf-0001-01.png)
-
 
 ## **Rules amendments applying on 01.07.2025** 
 
@@ -41,9 +38,7 @@ If the weather conditions do not permit start or to maintain a safe and fair neu
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf-0002-01.png)
-
 
 to stop in a designated safe zone, ideally sheltered and free from immediate danger (unstable trees, power lines, flooding, etc.). 
 
@@ -105,9 +100,7 @@ The Commissaires’ Panel will ensure that all safety and fairness conditions ar
 
 MEMORANDUM 01.07.2025 
 
-
 ![](images/Restart_Protocol_for_Road_Cycling_-20250701-E-amendments_on_01.07.25.pdf-0003-01.png)
-
 
 ## **4.3.1 Maintained Time Gaps** 
 
@@ -133,5 +126,4 @@ Every time a time indication is giving via RadioTour (e.g., time to resume after
 
    - “The race will resume – new start at 12:15”. 
 
-- This message is repeated every 5 minutes until the actual restart. 
-
+- This message is repeated every 5 minutes until the actual restart.

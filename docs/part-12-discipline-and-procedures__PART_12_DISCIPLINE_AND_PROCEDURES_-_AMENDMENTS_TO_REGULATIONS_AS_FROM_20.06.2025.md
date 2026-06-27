@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/LO1l4h9SPu5rwstGnk2rm/1f33
 source_sha256: 5b473c92a615ae59105e5968a50b68a869bdac7897182a0d0392ec3d702278f5
 converter: pymupdf4llm
 ---
-
-
 ![](images/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_20.06.2025.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -97,5 +94,4 @@ The presence and/or use of equipment ~~a bicycle t~~ hat does not comply with th
 
 Technological fraud is not subject to a statute of limitation ~~of 10 years from the date of the offence.~~ 
 
-_(text modified on 20.06.25)_ 
-
+_(text modified on 20.06.25)_

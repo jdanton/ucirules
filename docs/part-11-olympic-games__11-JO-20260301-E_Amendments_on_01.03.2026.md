@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/62yOW9g0rfiOt7LjHolXEU/16d
 source_sha256: 1e5d29abf37646059a2f0fbb77b808678ffc17509159b3c1072408444f4812d5
 converter: pymupdf4llm
 ---
-
 1 March 2026 
 
-
 ![](images/11-JO-20260301-E_Amendments_on_01.03.2026.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -37,5 +34,4 @@ Page **1** / **1**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

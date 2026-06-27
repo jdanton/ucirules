@@ -4,24 +4,17 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1E5md2JnFdQViirOf8fsi6/790
 source_sha256: e8a711b7f815adec4ae8ffb0daa5a839539bde0f86a25fecad4ae6b531fde9d3
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 13 MEDICAL RULES** 
 
 ## **[Version entering into force on 10 february 2026]** 
 
 ## **SUMMARY** 
 
-**Chapter I OLYMPIC MOVEMENT MEDICAL CODE………………………………………..2 Chapter II MEDICAL ACTORS IN CYCLING ................................................................ 10** § 1 UCI Medical Commission ........................................................................................ 10 § 2 UCI Doctor .............................................................................................................. 10 § 3 UCI Medical Delegate ............................................................................................. 10 § 4 National Medical Doctor .......................................................................................... 11 § 5 Team Doctors ......................................................................................................... 11 § 6 Paramedical Assistants ........................................................................................... 13 **Chapter III PROTECTION AND PROMOTION OF THE RIDER’S HEALTH** .................... **16** § 1 General rules .......................................................................................................... 16 § 2 Medical monitoring of UCI WorldTeams and UCI ProTeams ................................... 16 § 3 Medical monitoring for women road, mountain bike (cross-country), track and BMX disciplines ............................................................................................................... 19 § 4 Ban on injections ..................................................................................................... 21 § 5 Diagnosis and return to competition after concussion .............................................. 23 § 6  Ban of monoxide carbon inhalations outside medical facilities……………………….24 **Chapter IV MEDICAL SERVICE AT EVENTS ............................................................... 26** § 1 General rules .......................................................................................................... 26 § 2 UCI World Championships, UCI World Cup events and UCI World Tour events ...... 27 **Chapter V ELIGIBILITY REGULATIONS FOR TRANSGENDER ATHLETES ............. 30** § 1 Introduction. ........................................................................................................... 30 § 2 Application. ............................................................................................................ 31 § 3 Eligibility conditions for Transgender athletes…………………………………………. 33 § 4 Assessment of Cases ............................................................................................ 34 § 5 Investigations and continuing compliance .............................................................. 36 § 6 Disciplinary proceedings. ........................................................................................ 38 § 7 Dispute resolution .................................................................................................. 39 § 8 Confidentiality. ........................................................................................................ 39 § 9 Costs. .................................................................................................................... 40 §10 Mutual recognition ................................................................................................... 40 §11 Limitation of liability. ............................................................................................... 40 §12 Transitional measures............................................................................................ 40 Appendix: Medical guidelines  ................................................................................................ 42 Appendix 1 .............................................................................................................................. 48 Appendix 2 .................................................................................................................... 49 
-
 E0226 
 
 MEDICAL RULES 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 13 MEDICAL RULES** 
 
@@ -71,8 +64,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **PREAMBLE** 
 
 ## _“Fundamental Principles of Olympism_ 
@@ -115,8 +106,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **2. Information** 
 
 Athletes should be fully informed, in a clear and appropriate way, about their health status and their diagnosis; preventive measures; proposed medical interventions, together with the risks and benefits of each intervention; alternatives to proposed interventions, including the consequences of non-treatment for their health and for their return to sports practice; and the prognosis and progress of treatment and rehabilitation measures. 
@@ -155,8 +144,6 @@ MEDICAL RULES
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 - 4.6. Intrusion into the private life of an athlete should be permissible only if necessary for diagnosis, treatment and care, with the consent of the athlete, or if it is legally required. Such intrusion is also permissible pursuant to the provisions of the World Anti-Doping Code. 
 
 - 4.7. Any medical intervention should respect privacy and be carried out in the presence of only those persons necessary for the intervention, unless the athlete expressly consents or requests otherwise. 
@@ -193,8 +180,6 @@ MEDICAL RULES
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 care provider. Health care providers must also refuse to provide a false medical certificate concerning the fitness of an athlete to participate in training or competition. 
 
 - 6.4. When the health of athletes is at risk, health care providers should strongly discourage them from continuing training or competition and inform them of the risks. 
@@ -226,8 +211,6 @@ E0226
 6 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 - 7.4. Measures for the protection and the promotion of the athletes’ health should be based on the latest recognised medical knowledge. 
 
@@ -271,8 +254,6 @@ MEDICAL RULES
 
 7 
 
-**UCI CYCLING REGULATIONS** 
-
 - 10.1. The Code is intended to guide all members of the Olympic Movement, in particular the IOC, the International Sports Federations and the National Olympic Committees (hereafter the Signatories). Each Signatory adopts the Code according to its own procedural rules. 
 
 - 10.2. The Code is first adopted by the IOC. It is not mandatory, but desirable, that all members of the Olympic Movement adopt it. 
@@ -315,8 +296,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 - 14.3. The Signatories may withdraw acceptance of the Code after providing the IOC with written notice of their intent to withdraw. 
 
 ## **15. Amendments** 
@@ -336,8 +315,6 @@ E0226
 9 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II MEDICAL ACTORS IN CYCLING** 
 
@@ -359,17 +336,17 @@ _Comment: the decision of the UCI Management Committee dated 18-19 June 2009 and
 
 **13.2.004** The duties of the UCI Medical Delegate shall be: 
 
-   1. Where appropriate, to observe and advise on the application of the UCI health rules and the Olympic Movement Medical Code ; 
+   1. Where appropriate, to observe and advise on the application of the UCI health rules and the Olympic Movement Medical Code; 
 
    2. To become acquainted with the UCI Medical Report Form submitted by the organizer and to check that the medical facilities at the World Championships comply with it and with the UCI rules; 
 
-   3. To inspect the medical facilities with the Chief Medical Officer (CMO) of the Local Organising Committee (LOC) the day before the first official training session. Further checks will be made on a regular basis during the event to check that medical facilities are in accordance with the UCI rules and to report any shortcomings found to the organizer and, for his information, to the UCI Technical Delegate ; 
+   3. To inspect the medical facilities with the Chief Medical Officer (CMO) of the Local Organising Committee (LOC) the day before the first official training session. Further checks will be made on a regular basis during the event to check that medical facilities are in accordance with the UCI rules and to report any shortcomings found to the organizer and, for his information, to the UCI Technical Delegate; 
 
-   4. To obtain from the Chief Medical Officer at the end of each day the ad hoc list form of riders who required medical care and of the riders who were evacuated to a medical care centre ; 
+   4. To obtain from the Chief Medical Officer at the end of each day the ad hoc list form of riders who required medical care and of the riders who were evacuated to a medical care centre; 
 
-   5. To visit riders who have been evacuated to medical care centres ; 
+   5. To visit riders who have been evacuated to medical care centres; 
 
-   6. To be the contact person for team doctors ; 
+   6. To be the contact person for team doctors; 
 
    7. To receive information on riders listed on the starting list and who don’t wish to compete for medical reasons. 
 
@@ -384,8 +361,6 @@ E0226
 10 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 to the UCI. Findings of non-compliance are notified to the organizer who shall take appropriate measures and remain exclusively responsible for the safety at the world championships under the UCI rules and the terms of the organization agreement. 
 
@@ -420,8 +395,6 @@ E0226
 MEDICAL RULES 
 
 11 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **13.2.016** 
 
@@ -481,8 +454,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 of the first, the offence shall be penalised by a fine of between CHF 2,000.00 and CHF 20,000.00 and/or a suspension of at least six months or permanent exclusion. 
 
 - **13.2.019** If the case involves a rider who, during the year of the offence, has taken part in or is taking part in races on the international calendar, the National Federation shall inform the UCI before it starts disciplinary procedures. The UCI may require disciplinary proceedings to be held in accordance with the Anti-Doping regulations. If the UCI does not make use of this right within fifteen days of its being informed of the case by the National Federation, the latter may proceed with disciplinary proceedings in accordance with its own regulations. 
@@ -518,8 +489,6 @@ E0226
 13 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 oppose training sessions or participation in races in cases where the health and security of the rider cannot be ensured. He shall play an active role in injury prevention and athlete education. 
 
@@ -559,8 +528,6 @@ MEDICAL RULES
 
 14 
 
-**UCI CYCLING REGULATIONS** 
-
 caring for a rider as defined in article 13.2.020 shall be suspended for a minimum of one month up to a maximum of one year and/or be subjected to a fine of minimum CHF 750.00 up to maximum CHF 10,000.00. Should there be a repeat of the offence within two years, the punishment shall be a minimum suspension of six months or final debarment and a fine of minimum CHF 1,500.00 up to maximum CHF 20,000.00. 
 
 - **13.2.041** The same penalties as referred to in article 13.2.040 shall be imposed on any licenceholders caring for riders as defined in article 13.2.020 without holding a Paramedical Assistant’s or a doctor’s licence or who are accessories to any breach committed by an Paramedical Assistant, in particular by inciting or forcing the Paramedical Assistant to commit acts counter to the present Regulations. 
@@ -572,8 +539,6 @@ E0226
 MEDICAL RULES 
 
 15 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III PROTECTION AND PROMOTION OF THE RIDER’S HEALTH** 
 
@@ -612,8 +577,6 @@ E0226
 16 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **13.3.010** The Team shall not oblige or allow any rider to participate in cycling events if he has been judged unfit by the Team doctor or if it learns in any other way that he is unfit. 
 
@@ -657,8 +620,6 @@ MEDICAL RULES
 
 17 
 
-**UCI CYCLING REGULATIONS** 
-
 - **13.3.024** The team doctor, and if necessary, the UCI Medical Commission, will treat the results of the examinations as confidential information, without prejudice of the team doctor’s obligation to report any diagnosed concussion, and, if applicable, that a rider is unfit to train or compete. 
 
 - **13.3.025** The medical file shall be handed over to the rider when he leaves the Team. The rider shall hand it over to the Team doctor of his new Team. 
@@ -690,8 +651,6 @@ E0226
 18 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 3 Medical monitoring for women road, mountain bike (cross-country), track and BMX disciplines** 
 
@@ -731,8 +690,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **13.3.038** The programme of obligatory test must include a check-up when request for the licence is submitted. Subsequently, examinations are carried out as shown in the table in the programme. 
 
 - **13.3.039** Within the context of medical monitoring, each examination shall include a physical examination by a medical doctor, preferably with experience in sports medicine, and the specific examinations stipulated in the programme. 
@@ -768,8 +725,6 @@ E0226
 20 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Penalties** 
 
@@ -815,8 +770,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **13.3.053** The prohibition under article 13.3.052 applies to any substance that is injected, whether endogenous or exogenous, whether prohibited under the UCI Anti-Doping Rules or not. 
 
 - **13.3.054** The prohibition under article 13.3.052 applies to any type of injection: intravenous, intramuscular, intra-articular, peri-articular, peri-tendinous, epidural, intra-dermal, subcutaneous, etc. 
@@ -846,8 +799,6 @@ E0226
 22 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **13.3.059** At stage races expedited disciplinary proceedings may be conducted as determined by the president of the UCI Disciplinary Commission. 
 
@@ -889,8 +840,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§6  Ban of monoxide carbon inhalations outside medical facilities** 
 
 ## **13.3.066 Introduction** 
@@ -914,8 +863,6 @@ E0226
 24 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV MEDICAL SERVICE AT EVENTS** 
 
@@ -958,8 +905,6 @@ E0226
 25 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ 2  UCI World Championships, UCI World Cup events and UCI World Tour events** 
 
@@ -1011,11 +956,7 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 - c) Whenever the evacuation with the ambulance shall take more than 30’ (thirty minutes), a medical helicopter shall be available as nearly as possible for transport of patients on stretchers in order to minimise the second intervention time, plus a helicopter landing area close to the venue. 
-
-- d) Additional means of rescue and transport depending on the topography of the competition site: alpine rescuers, quads, etc.... 
 
 ## _B. Medical equipment_ 
 
@@ -1057,8 +998,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **13.4.026** The organiser shall provide a central medical post that can be a permanent or temporary structure with adequate space for medical personnel and equipment to treat ill or injured persons for major and minor injuries or medical problems. 
 
 The central medical post shall be located at the start-finish area at mountain bike and cyclo-cross events, adjacent to the venue for BMX, trial and indoor events and in the velodrome at track events. 
@@ -1089,8 +1028,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter V ELIGIBILITY REGULATIONS FOR TRANSGENDER ATHLETES** 
 
 ## **§ 1  Introduction** 
@@ -1114,8 +1051,6 @@ MEDICAL RULES
 - E0226 MEDICAL RULES 29 
 
 E0226 
-
-**UCI CYCLING REGULATIONS** 
 
 persons and entities hosting an International Event, persons and entities who are participating in International Events, etc. 
 
@@ -1151,8 +1086,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
    2. to cooperate promptly and in good faith with the Medical Manager and the Expert Panel in the discharge of their respective responsibilities under these Regulations, including: 
 
       - a) providing all of the information and evidence the Medical Manager and/or Expert Panel request to assess their compliance with these Regulations, including submitting to testing in accordance with these Regulations; 
@@ -1182,8 +1115,6 @@ E0226
 31 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 must ensure that any Transgender athlete under its jurisdiction that is entered to compete in an International Event is eligible to do so under these Transgender Regulations. 
 
@@ -1221,8 +1152,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **13.5.016** For the avoidance of doubt, no athlete will be forced to undergo any medical assessment and/or treatment under these Regulations. It is the athlete's responsibility, in close consultation with their medical team, to decide on the advisability of proceeding with any assessment and/or treatment. 
 
 - **13.5.017** For the further avoidance of doubt, there are no other special conditions (i.e., other than the Transgender Female Eligibility Conditions) that a Transgender athlete must satisfy in order to compete at an International Event, in the category of competition that is consistent with their gender identity (because such requirements are not relevant to the imperatives identified above). In particular, the following are not required in order for a Transgender athlete to be eligible to compete at an International Event, in the category of competition that is consistent with their gender identity: 
@@ -1248,8 +1177,6 @@ E0226
 33 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
    1. Must file the appropriate declaration referred to in article 13.5.015/1 of these Regulations with the Medical Manager. 
 
@@ -1281,8 +1208,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 serum at less than 2.5 nmol/L for a longer period; monitoring; reporting; and further reviews). 
 
    2. If the Expert Panel decides that the Transgender Female Eligibility Conditions have been met, the Medical Manager will issue a written certification of that athlete's eligibility to compete in the female category of competition in International Events. That eligibility will be conditional in every case on the athlete's continuing to maintain their serum testosterone at a concentration of less than 2.5 nmol/L. 
@@ -1311,8 +1236,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 assessed. 
 
 - **13.5.032** The dignity of every individual must be respected. All forms of abuse and/or harassment are prohibited. In particular (but without limitation): 
@@ -1337,7 +1260,7 @@ assessed.
 
    4. may refer the Transgender female athlete back to the Expert Panel for further assessment. 
 
-- **13.5.035** If a Transgender female athlete who has previously been declared eligible to compete in the female category of competition at International Events is found to have failed to keep the concentration of testosterone in their serum below 2.5 nmol/L, ; then (subject always to article 13.5.036 of these Regulations): 
+- **13.5.035** If a Transgender female athlete who has previously been declared eligible to compete in the female category of competition at International Events is found to have failed to keep the concentration of testosterone in their serum below 2.5 nmol/L,; then (subject always to article 13.5.036 of these Regulations): 
 
    - 1.1 where UCI considers it necessary to do so to maintain the integrity of competition results, they may disqualify the individual results obtained by the athlete in the female classification of a competition at an International Event and/or other competitions, with all resulting consequences, including forfeiture of any medals, ranking points, prize money, records (including world records), and other items awarded to the athlete based on those results; 
 
@@ -1346,8 +1269,6 @@ E0226
 36 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
       - 1.2 where the athlete is able to satisfy the Expert Panel on the balance of probabilities that their failure to keep the concentration of testosterone in their serum below 2.5 nmol/L was unintentional, the athlete will be ineligible to compete in the female classification of a competition at an International Event for such period (if any) as the Expert Panel shall consider necessary to protect fair competition in the female classification; and 
 
@@ -1383,8 +1304,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 4. a specified period of ineligibility to participate in International Events; 
 
 5. a fine; and/or 
@@ -1414,8 +1333,6 @@ E0226
 38 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 - **13.5.044** All cases arising under these Regulations, and in particular all information relating to an athlete that is provided to UCI under these Regulations, and all results of examinations and assessments conducted under these Regulations, must be maintained in strict confidence at all times. All medical information and data relating to an athlete will be treated as sensitive personal information and the Medical Manager must ensure that it is processed as such in accordance with applicable data protection and privacy laws. Such information and data may not be used for any purpose that is not contemplated in these Regulations and may not be disclosed to any third party save (a) as is strictly necessary for the effective application and enforcement of these Regulations; or (b) as is required by law. 
 
@@ -1447,8 +1364,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 - **13.5.050** The present Chapter to the UCI Medical Rules was adopted by the UCI Management Committee on 10 July 2023 and enters into force on 17 July 2023 and shall apply to all Transgender athletes. 
 
 E0226 
@@ -1456,8 +1371,6 @@ E0226
 40 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **APPENDIX: MEDICAL GUIDELINES** 
 
@@ -1498,8 +1411,6 @@ E0226
 MEDICAL RULES 
 
 41 
-
-**UCI CYCLING REGULATIONS** 
 
 ## Transgender male treatment strategy and typical regimens 
 
@@ -1544,8 +1455,6 @@ E0226
 42 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 typical for precocious puberty. However, GnRH agonist therapy can be very effective in lowering serum testosterone levels for adult transgender women as well. There are no long-term safety data for GnRH therapy in such patients. Its use is further limited by being substantially more expensive than either spironolactone or cyproterone acetate, as well as being administered parenterally, whereas the other two are administered orally. 
 
@@ -1601,8 +1510,6 @@ E0226
 
 MEDICAL RULES 
 
-**UCI CYCLING REGULATIONS** 
-
 ## breasts, respectively). 
 
 ## Transgender female monitoring 
@@ -1647,8 +1554,6 @@ MEDICAL RULES
 
 44 
 
-**UCI CYCLING REGULATIONS** 
-
 typical clinical monitoring regime is detailed above. 
 
 2.2 For eligibility purposes, the Transgender Regulations authorize UCI to monitor an athlete’s compliance with the Transgender Female Eligibility Conditions at any time, with or without notice, whether by random or targeted testing of the athlete’s serum testosterone levels, or by any other appropriate means. 
@@ -1689,8 +1594,6 @@ MEDICAL RULES
 
 45 
 
-**UCI CYCLING REGULATIONS** 
-
 feet on the floor for at least ten minutes prior to providing the sample.  Samples should not be collected within two hours of any physical exertion. 
 
 - A collection tube containing a clotting agent and a gel separator should be used e.g. BD Vacutainer SST-II Advance (a single sample only will be sufficient, but UCI may decide to collect a reserve sample as well, at its discretion). 
@@ -1704,8 +1607,6 @@ E0226
 46 
 
 MEDICAL RULES 
-
-**UCI CYCLING REGULATIONS** 
 
 ## Appendix 1 
 
@@ -1754,8 +1655,6 @@ E0226
 MEDICAL RULES 
 
 47 
-
-**UCI CYCLING REGULATIONS** 
 
 ## Appendix 2 
 
@@ -1835,5 +1734,4 @@ E0226
 
 48 
 
-MEDICAL RULES 
-
+MEDICAL RULES

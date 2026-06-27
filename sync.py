@@ -36,6 +36,8 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+import clean_md  # post-process pymupdf4llm output (strip TOCs/page furniture)
+
 # pymupdf4llm is imported lazily inside sync_markdown() — it pulls in the heavy
 # PyMuPDF stack, which a docs-only build (--docs --no-sync) shouldn't require.
 
@@ -337,6 +339,7 @@ def sync_markdown(args) -> bool:
                 write_images=True, image_path=str(images_dir), dpi=150,
             )
             md = md.replace(link_prefix, IMG_DIR + "/")
+            md = clean_md.clean_markdown(md)  # strip printed TOCs and page furniture
             name = output_name(md, stem)
             # If a change renamed the doc, drop the file under its old name.
             if u in old and old[u]["name"] != name:

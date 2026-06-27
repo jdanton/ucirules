@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6sAirIbDCnWdiIXzjsnl96/fe6
 source_sha256: 47fb2f4d6bfed5367f09ae0d7ab195127d776f07c2d2bb3773a857049cb60540
 converter: pymupdf4llm
 ---
-
-
 ![](images/2026_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -197,7 +194,7 @@ next held, even if more than one year passes between them, as long as the next e
 
 - E. HC: International competitions – Hors Class (best 3 scores); 
 
-- F. ~~RJ: Regional Games~~ ; C1, C2 and Regional Games (JR): International competitions (best ~~5~~ 8 scores); 
+- F. ~~RJ: Regional Games~~; C1, C2 and Regional Games (JR): International competitions (best ~~5~~ 8 scores); 
 
 - G. CN: National Championships (country of the rider’s nationality): 
 
@@ -257,8 +254,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |31st||81|24|22|55|9||||||||||||||||
 |32nd||77|22|21|52|7||||||||||||||||
 
-
-
 Page **6** / **9** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -300,8 +295,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |62nd||18|||10|
 |63rd||17|||9|
 |64th||16|||8|
-
-
 
 Points are only awarded to the maximum phase of 1/8 final, when held. 
 
@@ -353,13 +346,10 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |Length<br>First<br>straight<br>(minimum)|See UCI BMX Racing Track Guide.|||||
 |Distance<br>between<br>obstacles|See UCI BMX Racing Track Guide.|||||
 
-
-
 ## _(text modified on 01.01.23; 01.01.26)_ 
 
 Page **9** / **9** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

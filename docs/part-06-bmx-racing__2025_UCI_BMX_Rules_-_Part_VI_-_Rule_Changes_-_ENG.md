@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/v3xLMwpHRPreGOS5B7uhk/fd28
 source_sha256: ac8feb86739c33fd894e19554958c73fd759d0bb84519ce2c335607aaaadd2c6
 converter: pymupdf4llm
 ---
-
-
 ![](images/2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -315,8 +312,6 @@ The riders confirmation deadlines are indicated ~~on~~ within the ~~official pro
 |101 and over|4|
 |Host nation|5|
 
-
-
 A team manager or ~~his~~ a nominated assistant is accredited with the right to enter a restricted zone, as granted by the race director, in order to perform ~~his~~ their duties. Such accreditation may be revoked for any breach of the UCI Regulations or noncompliance with the instructions of the ~~organisation~~ Organiser or the Commissaires’ panel. 
 
 (text modified on 01.01.18; 01.01.25). 
@@ -467,7 +462,7 @@ In order of lap time (fastest to slowest) from the preceding phase or round.
 
 ## Final Classification 
 
-- **6.3.016** For all categories in each stage of a UCI BMX Racing World Cup ~~event~~ , a Final Classification shall be drawn up in accordance with article 6.1.041. When preparing the Final Classification, those riders who participated in the Last Chance phase, but who did not advance to the Qualifiers shall have their position in the Final Classification determined using their results from the Last Chance phase, and not their Results from Round 1 (in other words, the Round 1 results for all such riders shall be ignored). However, such riders shall be ranked below those who transferred directly to the Qualifiers from Round 1. It is the Final Classification which shall be used to award the prizes and points in the UCI ~~Individual~~ BMX Racing Individual ranking and UCI BMX Racing World Cup ranking. 
+- **6.3.016** For all categories in each stage of a UCI BMX Racing World Cup ~~event~~, a Final Classification shall be drawn up in accordance with article 6.1.041. When preparing the Final Classification, those riders who participated in the Last Chance phase, but who did not advance to the Qualifiers shall have their position in the Final Classification determined using their results from the Last Chance phase, and not their Results from Round 1 (in other words, the Round 1 results for all such riders shall be ignored). However, such riders shall be ranked below those who transferred directly to the Qualifiers from Round 1. It is the Final Classification which shall be used to award the prizes and points in the UCI ~~Individual~~ BMX Racing Individual ranking and UCI BMX Racing World Cup ranking. 
 
 (text modified on 01.01.18; 01.01.22; 01.01.25). 
 
@@ -481,7 +476,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-~~and for the overall standings~~ . This prize money shall be paid by the organiser of each such ~~event~~ stage. 
+~~and for the overall standings~~. This prize money shall be paid by the organiser of each such ~~event~~ stage. 
 
 ~~Additionally, the~~ For each category, the highest ranked rider ~~male participating in the Under 23 category and the highest ranked female participating in the Under 23 category~~ within the UCI BMX Racing World Cup ranking following each ~~event~~ stage shall be recognised by way of coloured number plate as follows: 
 
@@ -553,7 +548,7 @@ Cruisers
 
    - b. Each national federation shall be permitted to register up to 16 riders in each Masters category. 
 
-   - c. The limits specified in ‘a’ and b’ above exclude riders ranked from 1 to 8 at previous edition of the UCI BMX Racing World Challenge or Masters event ~~of the previous year~~ . These riders can be added on top of the riders selected according to the above criteria. 
+   - c. The limits specified in ‘a’ and b’ above exclude riders ranked from 1 to 8 at previous edition of the UCI BMX Racing World Challenge or Masters event ~~of the previous year~~. These riders can be added on top of the riders selected according to the above criteria. 
 
 Any errors made during the registration process by a national federation, ~~including the late entries,~~ may be corrected at latest up until the moment of riders confirmation. However, a fine of CHF 100 payable by the national federation may apply for each correction that is made. No Late Entries are accepted. 
 
@@ -739,8 +734,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ~~born at on (date)~~ 
 
-~~of ....... nationality~~ 
-
 ~~holding a licence issued by~~ 
 
 ## ~~hereinafter "the rider"~~ 
@@ -748,8 +741,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ~~ON THE OTHER PART~~ 
 
 ## ~~Whereas:~~ 
-
-~~1. the paying agent employs a team of cyclists who participate as members of the UCI BXM Team .... (team name) under the management of Mr. …………. (name of the general manager or team manager) in BMX Racing governed by the regulations of the Union Cycliste Internationale ;~~ 
 
 ~~2. The rider wishes to join the……………… (name of the team);~~ 
 
@@ -769,13 +760,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## ~~ARTICLE 2 – Duration~~ 
 
-~~The present contract is concluded for a fixed period commencing on.... and expiring on....~~ 
-
 ~~ARTICLE 3 - Remuneration / reimbursement of expenses~~ 
 
 ## ~~a) Paid rider~~ 
-
-~~The rider is entitled to an annual gross salary of.... This remuneration may not be lower than the legal minimum wage or, where there is no legal minimum, than the usual salary that is paid or has to be paid to full-time workers employed in the country whose national federation issued the rider~~ ’ ~~s licence or in the country where the team has its head office, whichever is the higher. If the duration of that contract is to be less than one year, the rider must, over that period, earn at least the full annual salary provided for in the preceding paragraph, less the salary that he earned as a rider with some other employer in the course of the same year.~~ 
 
 ~~This provision does not apply if the present contract is extended. b) Unpaid rider~~ 
 
@@ -869,13 +856,10 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 
 ~~Made in ………. copies on ………..~~ 
 
-~~Made in as many copies as required by the legislation applicable to the present contract, that is to say,..... plus one copy to be sent to the UCI.~~ 
-
 ~~The Rider or its legal representative The paying agent~~ 
 
 Page **24** / **24** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

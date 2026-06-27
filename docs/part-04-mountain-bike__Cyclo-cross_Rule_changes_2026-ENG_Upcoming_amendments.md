@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4iN4LFhlXOSXXSp1p2vtGC/6bb
 source_sha256: b2030be7360c49f57c5b7b3fbd98e4a49144861f989ac90eaef26262a7a7d2f6
 converter: pymupdf4llm
 ---
-
-
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -21,7 +18,7 @@ converter: pymupdf4llm
 
 - **5.1.008** The provisions of articles 13.4.001 to 13.4.011 concerning medical services shall apply to **bis** all cyclo-cross competitions. 
 
-~~At least one ambulance and~~ . At each competition, at least one (1) basic first aid post and ~~at least are required at all races. For each event, at least one (1) doctor and~~ at least four (4) people qualified to perform first aid under the laws of the country shall be present for the duration of the competition. 
+~~At least one ambulance and~~. At each competition, at least one (1) basic first aid post and ~~at least are required at all races. For each event, at least one (1) doctor and~~ at least four (4) people qualified to perform first aid under the laws of the country shall be present for the duration of the competition. 
 
 The location of the first aid posts and first-aid personnel, mobile and/or fixed, will be determined under the responsibility of the course manager, in consideration of the location of: 
 
@@ -63,9 +60,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 08.06.2026 
 
-
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0002-01.png)
-
 
 ## MEMORANDUM 
 
@@ -93,7 +88,7 @@ The last seconds before the start are not accompanied with any progressive sound
 
 - in case of a light system, the light turns from red to green, or form off to on but without any progression indicating that the start is coming in few seconds. 
 
-_(text modified on 01.10.02; 01.09.08; 10.06.21_ ; _01.07.26)_ 
+_(text modified on 01.10.02; 01.09.08; 10.06.21_; _01.07.26)_ 
 
 Page **2** / **4** 
 
@@ -103,9 +98,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 08.06.2026 
 
-
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0003-01.png)
-
 
 ## MEMORANDUM 
 
@@ -145,9 +138,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0004-00.png)
-
 
 ## MEMORANDUM 
 
@@ -164,13 +155,10 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**2. Clothing, helmet and accessories**|||
 |2.2Use of non-compliant accessory (e.g.<br>glasses, socks or shoe cover, rain jacket,<br>sleeves, jersey etc.) worn by rider, non-compliant<br>or non-authorised modification to clothing.|Rider: CHF 200 fine and either 20 points from UCI<br>ranking or relegation of 1 place|Rider: CHF 50 fine and either 5 points from UCI<br>ranking or relegation of 1 place|
 
-
-
 _(text modified on 01.07.22; 01.03.24; 01.07.25; 01.07.26)_ 
 
 Page **4** / **4** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

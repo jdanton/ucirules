@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/755O3EuZ7JTU9MYkm3PAl3/354
 source_sha256: 385f607f586ff6a4f4cd65e2474e50419a6aa429edb242d69d2668fe928e64fe
 converter: pymupdf4llm
 ---
-
-
 ![](images/Part_3_Track_Regulations_amendments_01072026.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -26,8 +23,6 @@ converter: pymupdf4llm
 |1.1<br>Failing to attend official<br>ceremonies (including press<br>conference,etc.)||Rider:500 fine and forfeiture of<br>prizes and points for respective UCI<br>rankings earned duringthe event.||Rider:200 fine and forfeiture of<br>prizes and points for respective UCI<br>rankings earned duringthe event.||Rider:100 fine and forfeiture of<br>prizes and points for respective UCI<br>rankings earned duringthe event.|
 |1.2<br>Non-compliant clothing during<br>podium and protocol<br>ceremonies||Rider:500 fine per rider involved||Rider:200 fine per rider involved||Rider:100 fine per rider involved|
 |1.3<br>Failing to attend required<br>Team Managers’ meeting||Team Manager:300 fine||Team Manager:200 fine||Team Manager:100 fine|
-
-
 
 Page **1** / **8** 
 
@@ -49,8 +44,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |2.8<br>Evading, refusing or<br>obstructing an equipment/<br>clothingcheck||Rider:Disqualification<br>Other team member:Exclusion||Rider:Disqualification<br>Other team member:Exclusion||Rider:Disqualification<br>Other team member:Exclusion<br>.|
 |2.9<br>Modifying equipment/<br>clothingto be used in a race||Rider:500 fine and disqualification||Rider:200 fine and disqualification||Rider:100 fine and disqualification|
 
-
-
 Page **2** / **8** 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
@@ -67,8 +60,6 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 |3.4     Rider taking off mandatory<br>helmet during the race||Rider:200 fine and disqualification||Rider:100 fine and disqualification||Rider:50 fine and disqualification|
 |3.5     Rider taking off mandatory<br>helmet after passing the finish<br>line||Rider:200 fine, and/or warning or<br>disqualification||Rider:100 fine, and/or warning or<br>disqualification||Rider:50 fine, and/or warning or<br>disqualification|
 |3.6     Body number replicated on a<br>medium other than that<br>provided bythe organiser||Rider:Start refused||Rider:Start refused||Rider:Start refused|
-
-
 
 Page **3** / **8** 
 
@@ -88,8 +79,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |5.1<br>Deviation from the chosen line<br>that obstructs or endangers<br>another rider or irregular<br>sprint (including pulling the<br>jersey or saddle of another<br>rider, moving down to quickly<br>on another rider||Rider:200 fine||Rider:100 fine||Rider:50 fine|
 |5.2<br>Non-regulation use of the blue<br>band duringthe race||Rider:200 fine||Rider:100 fine||Rider:50 fine|
 
-
-
 Page **4** / **8** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -106,8 +95,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |6.3<br>Encouraging a rider to remain<br>in the race or on the track<br>after they have been<br>withdrawn or disqualified by<br>the commissaires||Other licence holder:500 fine and<br>exclusion||Other licence holder:200 fine and<br>exclusion||Other licence holder:100 fine and<br>exclusion|
 |6.4<br>Cheating, attempted cheating,<br>collusion between riders or<br>other licence holders who are<br>involved or complicit. For<br>particularly serious cases, in<br>addition to any warning,<br>relegation or disqualification<br>that maybe issued||Rider:500 fine for each rider involved<br>Other licence holder:500 fine||Rider:200 fine for each rider involved<br>Other licence holder:200 fine||Rider:100 fine for each rider involved<br>Other licence holder:100 fine|
 
-
-
 Page **5** / **8** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -123,8 +110,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |7.3<br>Use of a road bike on the track<br>or safety zone during any part<br>of the competition program<br>(including official training<br>sessions, warm-up sessions,<br>etc)||Rider:100 to 200* fine||Rider:100 to 200* fine||Rider:50 to 100* fine|
 |7.4<br>Failing to exit the track in a<br>proper manner after the event<br>(too many warm-down laps,<br>usingthe wrong gate,etc)||Rider:200 to 500* fine||Rider:100 to 200* fine||Rider:50 to 100* fine|
 |7.5<br>Being late at the start,<br>including not having<br>appropriate spares at the start||Rider:100 to 500* fine, and/or<br>warning or elimination<br>Other licence holder:200 to 500*<br>fine||Rider:100 to 200* fine, and/or<br>warning or elimination<br>Other licence holder:200 to 500*<br>fine||Rider:50 to 100* fine, and/or<br>warning or elimination<br>Other licence holder:200 to 500*<br>fine|
-
-
 
 Page **6** / **8** 
 
@@ -143,8 +128,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |8.2 Directed at any other person<br>(including spectators)||Rider:200 to 1,000* fine per<br>infringement<br>Other licence holder:500 to 2,000<br>fine*||Rider:100 to 500* fine per<br>infringement<br>Other licence holder:200 to 1,000<br>fine*||Rider:50 to 200* fine per<br>infringement<br>Other licence holder:200 fine|
 |||In addition to the above provisions, in serious cases, in cases of repeated infringement or aggravating circumstances or<br>if an infringement offers an advantage,the commissaires’panel mayexclude a licence holder from the competition.|||||
 
-
-
 Page **7** / **8** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -154,8 +137,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |8.3<br>Unseemly or inappropriate<br>behaviour (for example,<br>undressing in public in the<br>infield of a velodrome)||Rider or any other licence holder: 200<br>to 500 fine*||Rider or any other licence holder:100<br>to 200 fine*||Rider or any other licence holder: 50<br>to 100 fine*|
 |---|---|---|---|---|---|---|
 |||_Note: The penalty is applied to the team if the licence holder cannot be specifically identified_|||||
-
-
 
 - _When there is a scale of sanctions, the commissaire must take into account any extenuating or aggravating circumstances, including:_ 
 
@@ -175,5 +156,4 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 Page **8** / **8** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
-
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland

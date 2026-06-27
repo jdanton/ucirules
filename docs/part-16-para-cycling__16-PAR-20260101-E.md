@@ -4,56 +4,15 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2hSKKwLFWuz8ApFjJHZVWf/f38
 source_sha256: 9341b0cb2cc46e8a040d7cacd3ed2c3f933f2ebe2f33dc73b4fa03bfdb1e3f32
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 16 PARA CYCLING** 
 
 **Version on 01.01.2026** 
-
-|**TABLE OF CONTENTS**|Page|
-|---|---|
-|**Chapter I GOVERNANCE**|**3**|
-|**Chapter II CATEGORIES**|**4**|
-|**Chapter III ELIGIBILITY FOR PARA CYCLING COMPETITIONS**|**5**|
-|**Chapter IV UCI CLASSIFICATION RULES AND REGULATIONS**|**7**|
-|**Chapter V PARA CYCLING DIVISION & SPORT CLASS PROFILES**|**34**|
-|**Chapter VI PARA CYCLING WORLD CHAMPIONSHIPS**|**47**|
-|**Chapter VII ROAD RACES**|**48**|
-|§ 1<br>Road Races|48|
-|§ 2<br>Individual Time Trials|50|
-|§ 3<br>Team Relay (TR)|53|
-|**Chapter VIII TRACK RACES**|**55**|
-|§1<br>Kilometer|55|
-|§2<br>Individual Pursuit|55|
-|§3<br>C class Sprint|56|
-|§4<br>Tandem Sprint|59|
-|§5<br>MixedTeam Sprint (TS)|60|
-|§6<br>Scratch Race|61|
-|§7<br>Elimination Race|62|
-|§8<br>Mixed Tandem Team Sprint|64|
-|**Chapter IX WORLD RECORDS**|**66**|
-|**Chapter X RACE CLOTHING**|**69**|
-|**Chapter XI MEDALS AND JERSEYS FOR UCI PARA CYCLING WORLD**|**71**|
-|**CHAMPIONSHIPS**|**71**|
-|**Chapter XII RACE INCIDENTS AND SPECIFIC INFRINGEMENTS**|**72**|
-|**Chapter XIII ANTIDOPING**|**73**|
-|**Chapter XIV EQUIPMENT REGULATIONS**|**74**|
-|**Chapter XV TANDEM BICYCLE**|**76**|
-|**CHAPTER XVI TRICYCLE**|**77**|
-|**Chapter XVII HANDCYCLE**|**79**|
-|**Chapter XVIII PARA CYCLING INDIVIDUAL RANKING**|**82**|
-|**Chapter XIX PARA CYCLING NATIONS’ RANKING**|**86**|
-
-
 
 E0126 
 
 1 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 |**Chapter XX PARA CYCLING WORLD CUP**|**88**|
 |---|---|
@@ -64,15 +23,11 @@ PARA CYCLING
 |Appendix 1|99|
 |Appendix 2|101|
 
-
-
 E0126 
 
 2 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 16 PARA CYCLING** 
 
@@ -108,8 +63,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter II CATEGORIES** 
 
 - **16.2.001** In para cycling competitions, except the Paralympic Games, UCI age categories described at article 1.1.034 and the following of the UCI regulations rules shall apply for both men and women. Different age categories may compete together. In para cycling combined age competitions, age category awards are not mandatory: 
@@ -127,8 +80,6 @@ E0126
 PARA CYCLING 
 
 4 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III ELIGIBILITY FOR PARA CYCLING COMPETITIONS** 
 
@@ -170,8 +121,6 @@ PARA CYCLING
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 - **16.3.006** Each visually impaired athlete is allowed a maximum of one pilot for any para cycling competition. The athlete and his pilot shall have the same sporting nationality. 
 
 _(text modified on 26.06.07; 01.01.09; 01.02.11; 01.01.16; 01.02.17)_ 
@@ -185,8 +134,6 @@ E0126
 6 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV UCI CLASSIFICATION RULES AND REGULATIONS** 
 
@@ -246,8 +193,6 @@ PARA CYCLING
 
 7 
 
-**UCI CYCLING REGULATIONS** 
-
 Competitions. The UCI will advise Athletes, National Federations and National Paralympic Committees in advance as to such International Competitions. 
 
 An Athlete will only be permitted to undergo International Classification if he or she: 
@@ -298,8 +243,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - c) assist in the development, management and implementation of Classification Systems; and 
 
 - d) cooperate with any investigations concerning violations of these Classification Rules. 
@@ -328,8 +271,6 @@ _(text modified on 01.07.13; 01.02.17; 01.02.18, 01.02.19; 01.01.21; 01.01.25)_
 |H4||C4||
 |H5||C5||
 
-
-
 The UCI recommends using the codes below on UCI para-cyclists licenses: 
 
 |Tandem|MB|WB|
@@ -350,8 +291,6 @@ The UCI recommends using the codes below on UCI para-cyclists licenses:
 |Cycle C4|MC4|WC4|
 |Cycle C5|MC5|WC5|
 
-
-
 The rider’s code is read as follows: 
 
 − 1[st] letter: gender 
@@ -365,8 +304,6 @@ E0126
 9 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Part Two: Classification Personnel** 
 
@@ -418,8 +355,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - **16.4.005 Classifier Competencies, Training and Certification** A Classifier will be authorised to act as a Classifier if that Classifier has been certified by the UCI as having the relevant Classifier Competencies. 
 
 The UCI will provide training and education to Classifiers to ensure Classifiers obtain and/or maintain Classifier Competencies. 
@@ -459,8 +394,6 @@ E0126
 11 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 - a) act as neutral evaluators in determining Sport Class and Sport Class Status for all Athletes; 
 
@@ -510,8 +443,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 Vision Impairment where the current assessment criteria is not yet sport specific and does not include a requirement that the athletes are assessed in respect of the ‘extent to which the Athlete is able to execute the specific tasks and activities fundamental to the sport’). 
 
 _(text modified on 01.02.18; 01.01.26)_ 
@@ -550,8 +481,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - d) If the UHC Assessor is satisfied that the Athlete has (or has had) at least one medically and/or clinically diagnosed Underlying Health Condition, they must notify the UCI of the outcome of their assessment in writing. The UCI must provide the Diagnostic Information and the UHC Assessor’s written outcome to the Classification Panel and will then proceed with scheduling an Evaluation Session. 
 
 - e) If the UHC Assessor is not satisfied that the Athlete has (or has had) at least one medically and/or clinically diagnosed Underlying Health Condition, they must notify the UCI of the outcome and provide a written explanation for the decision. The UCI will provide a copy of the written explanation to the Athlete’s National Federation and designate the Athlete as “Not Eligible – Underlying Health Condition (Re-evaluation)” with the resulting consequences specified in Article 16.4.020. The UCI will arrange for a second independent UHC Assessor to repeat the UHC Assessment as soon as reasonably practicable. 
@@ -581,8 +510,6 @@ E0126
 14 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 The Classification Panel must review the documentation relating to the UHC Assessment, namely the Athlete’s Diagnostic Information and the written outcome of the UHC Assessor. 
 
@@ -618,8 +545,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **16.4.011 Sport Class** 
 
 A Sport Class is a category defined by the UCI in the Classification Rules, in which Athletes are grouped by reference to the impact of an Eligible Impairment on their ability to execute the specific tasks and activities fundamental to a sport. 
@@ -649,8 +574,6 @@ E0126
 16 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Part Four: Athlete Evaluation and the Classification Panel** 
 
@@ -698,8 +621,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 Although other factors such as low fitness level, poor technical proficiency and aging may also affect the fundamental tasks and activities of the sport, the allocation of Sport Class must not be affected by these factors. 
 
 An Athlete who has a Non-Eligible Impairment and an Eligible Impairment may be evaluated by a Classification Panel on the basis of the Eligible Impairment, provided the Non-Eligible Impairment does not affect the Classification Panel’s ability to allocate a Sport Class. 
@@ -740,8 +661,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - The Athlete must disclose the use of any medication and/or medical device/implant to the Classification Panel. 
 
 - The Athlete must comply with all reasonable instructions given by the Classification Panel. 
@@ -777,8 +696,6 @@ E0126
 19 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 Classification Panel after the conclusion of the initial components of the Evaluation Session. 
 
@@ -817,8 +734,6 @@ E0126
 20 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 If changes to the Sport Class or Sport Class Status of an Athlete are ultimately made following Observation in Competition and re-evaluation, the changes are effective immediately. 
 
@@ -860,8 +775,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - A Classification Panel may base its decision that further Evaluation Sessions will be required based on a number of factors, including but not limited to situations where the Athlete, has only recently entered competitions sanctioned by the UCI, has a fluctuating and/or progressive Impairment/Impairments that is/are permanent but not stable; and/or, has not reached full muscular skeletal or sports maturity. 
 
 - An Athlete with Sport Class Status Review at the Next Available Opportunity (R) must complete Athlete Evaluation prior to competing at any subsequent International Competition, unless the UCI specifies otherwise. 
@@ -897,8 +810,6 @@ E0126
 22 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **16.4.018 Multiple Sport Classes** 
 
@@ -952,8 +863,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - or a Classification Panel determines that an Athlete: 
 
    - has an Impairment that is not an Eligible Impairment; or 
@@ -996,8 +905,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 Not Eligible – Minimum Impairment Criteria (Re-evaluation). The Athlete is entitled to undergo a second assessment by a second Classification Panel as soon as reasonably practicable. If the second Classification Panel is not satisfied that the Athlete’s Eligible Impairment meets the Minimum Impairment Criteria for Para Cycling, the Athlete will be designated as Not Eligible – Minimum Impairment Criteria (NE – MIC). 
 
 An Athlete who is allocated Sport Class Not Eligible – Minimum Impairment Criteria (NE – MIC) by the UCI is not permitted to compete in the sport of Para Cycling based on the same Eligible Impairment(s), however the Athlete may be eligible to compete in Para Cycling based on a different Eligible Impairment. 
@@ -1036,8 +943,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **16.4.023 National Protests** 
 
 A National Federation or a National Paralympic Committee may only make a Protest in respect of an Athlete under its jurisdiction. In particular, it cannot make a Protest in respect of Sport Class allocated to an Athlete from another National Federation. However, it can raise any such concerns with the UCI, so that the UCI can consider if it wishes to make an International Federation Protest. 
@@ -1075,8 +980,6 @@ E0126
 26 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 Protest Documents the Chief Classifier will conduct a review of the Protest, in consultation with the UCI, of which there are two possible outcomes: 
 
@@ -1122,8 +1025,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - the protested Athlete’s Sport Class will remain unchanged pending the outcome of the Protest; 
 
 - the protested Athlete’s Sport Class Status will immediately be changed to Review unless the protested Athlete’s Sport Class Status is already Review; and 
@@ -1165,8 +1066,6 @@ E0126
 28 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **16.4.028 Provisions Where No Protest Panel is Available** 
 
@@ -1214,8 +1113,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - the Classification Panel believes that the use (or non-use) of any medication and/or medical procedure/device/implant disclosed by the Athlete will affect the ability to conduct Athlete Evaluation in a fair manner; 
 
 - the Athlete has a Health Condition that may limit or prevent from complying with requests of the Classification Panel during an Evaluation Session, which the Classification Panel considers will affect its ability to conduct the Evaluation Session in a fair manner; 
@@ -1258,8 +1155,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 extent the Athlete’s Impairment has changed, and why it is believed that the Athlete’s ability to execute the specific tasks and activities required by a sport has changed. 
 
 A Medical Review Request must be received by the UCI as soon as reasonably practicable. 
@@ -1300,8 +1195,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - disqualification from all events at the Competition at which the Intentional Misrepresentation occurred, and any subsequent Competitions at which the Athlete competed; 
 
 - being allocated with Sport Class Not Eligible (NE) and designated a Review with Fixed Review Date (FRD) Sport Class Status for a specified period of time ranging from 1 to 4 years; 
@@ -1335,8 +1228,6 @@ E0126
 32 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Part Ten: Appeals** 
 
@@ -1378,8 +1269,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter V PARA CYCLING DIVISION & SPORT CLASS PROFILES** 
 
 ## **16.5.001 Eligible Impairment Types** 
@@ -1394,22 +1283,16 @@ The following eight (8) impairment types are eligible in Para Cycling. Each Para
 |**Leg Length Difference**<br>Athletes with Leg Length Difference have a<br>difference in the length of their legs as a result<br>of limb growth, or as a result of trauma.|Dysmelia and congenital or traumatic disturbance of<br>limb growth.|
 |**Hypertonia/Spasticity**<br>Athletes with hypertonia have an increase in<br>muscle tension that may be velocity-<br>dependent and/or a reduced ability of a<br>muscle to stretch, consistent with an<br>Underlying Health Condition affecting the<br>structure and function of the central nervous<br>system.|Cerebral palsy, traumatic brain injury and stroke.|
 
-
-
 E0126 
 
 34 
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 |**Ataxia**<br>Athletes with Ataxia have limited precision in<br>direction and velocity of voluntary movement,<br>consistent with an Underlying Health<br>Condition affecting the structure and function<br>of the central nervous system.<br>**Inclusion:**cerebellar Ataxia only<br>**Exclusions:**sensory ataxia, problems of<br>control of voluntary movement that do not fit<br>description of cerebellar Ataxia|Cerebral palsy, traumatic brain injury, stroke and<br>multiple sclerosis.|
 |---|---|
 |**Dyskinesia (athetosis, dystonia, chorea)**<br>Athletes with dyskinesia present with<br>involuntary movements that interfere with<br>voluntary movements, consistent with an<br>Underlying Health Condition affecting the<br>structure and function of the central nervous<br>system.<br>**Exclusions**;<br>sleep<br>related<br>movement<br>disorders|Cerebral palsy, traumatic brain injury and stroke.|
 |**Vision Impairment**<br>Athletes with Vision Impairment an Underlying<br>Health Condition affecting the structure or<br>function of the eye, optic nerve, optic chiasm,<br>post chiasma visual pathways, or visual cortex<br>of the brain resulting in reduced or no visual<br>function even when using the best possible<br>refractive or optical correction.|Retinitis pigmentosa and diabetic retinopathy.|
-
-
 
 _(text modified on 01.02.10; 01.07.10; 01.02.11; 01.01.16; 01.02.17; 01.02.18; 01.01.21; 01.01.25)_ 
 
@@ -1422,15 +1305,11 @@ The UCI has set Minimum Impairment Criteria (MIC) to ensure that an Athlete’s 
 |**Impaired Muscle Power**|Upper limb - Full loss of grip in one hand, inability<br>to form and maintain a cylindrical grasp - Muscle<br>Grade 0.<br>Lower Limb - Inability to heel raise tested in single<br>leg stance.<br>Comparable incomplete spinal cord injury or<br>comparable multiple impairment.|
 |**Impaired Passive Range of Movement**|Loss of Passive Range of Movement with<br>comparable effect on function as described for<br>Impaired Muscle Power.|
 
-
-
 E0126 
 
 35 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ||Upper Limb – Full loss of grip in one hand, inability<br>to form and maintain a cyclindrical grasp – no<br>functional hand movement due to Impaired<br>Passive Range of Movement<br>Lower Limb – Inability to heel raise tested in single<br>leg stance due to Impaired Passive Range of<br>Movement|
 |---|---|
@@ -1441,15 +1320,11 @@ PARA CYCLING
 |**Athetosis**|Occasional Dyskinesia signs with mild or subtle<br>intensity or amplitude of movement (reference to<br>DIS Scale).<br>Unilateral or bilateral (symmetrical/asymmetrical)|
 |**Vision Impairment**|MIC for Athletes with a Vision Impairment have<br>been set based on the Athlete's corrected vision.<br>The difference in approach for Athletes with Vision<br>Impairment must be seen within the historical<br>context of Classification for these Athletes, which<br>is an assessment with 'best correction' as used in<br>the context of medical diagnostics for visual acuity.<br>The Athlete must meet both of the criteria below:<br>The Athlete must have at least one of the following<br>Impairments:<br>•<br>impairment of the eye structure;<br>•<br>impairment of the optical nerve/optic<br>pathways;<br>•<br>impairment of the visual cortex.<br>The Athlete’s Visual Impairment must result in a<br>visual acuity of less than or equal to LogMAR 1.0<br>or a visual field restricted to less than 40 degrees<br>diameter.|
 
-
-
 E0126 
 
 36 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 _(article introduced on 01.02.18; text modified on 01.01.21)_ 
 
@@ -1468,15 +1343,11 @@ The following methods are used for assessing the Eligible Impairment types in Pa
 |**Athetosis/Dystonia**|Athetosis must be evident in<br>abnormal posturing and inability<br>to control unwanted movements<br>at rest and in activity.|Dyskinesia Impairment Scale<br>(DIS) modified for Para Cycling<br>and neurological assessment.|
 |**Vision Impairment**|Visual acuity is tested using the<br>LogMAR chart for distance visual<br>acuity testing with Illiterate “E”<br>and/or the Berkeley Rudimentary<br>Vision Test.<br>Visual field may be tested using<br>a<br>Goldmann<br>Visual<br>Field<br>Perimeter,<br>Humphrey<br>Field|Visual Acuity: LogMAR and/or<br>the Berkeley Rudimentary<br>Vision Test.<br>Visual Field: Goldmann Visual<br>Field Perimeter, Humphrey Field<br>Analyser or Octopus Interzeag.|
 
-
-
 E0126 
 
 37 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 Analyser or Octopus Interzeag. The software in automatic perimeters must be for full range fields (80º or more), not only for central visual fields. The reference stimulus/isopter is Goldman III/4 or the equivalent on other equipment. 
 
@@ -1531,8 +1402,6 @@ E0126
 38 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 - A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H1, making it impossible to ride a bicycle or tricycle. 
 
@@ -1602,8 +1471,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H3. 
 
 _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.05.16; 01.02.18; 01.01.21; 01.01.26_ 
@@ -1665,8 +1532,6 @@ E0126
 40 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Limb Deficiency** 
 
@@ -1744,8 +1609,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Ataxia** 
 
 - 
@@ -1819,8 +1682,6 @@ E0126
 42 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Muscle Power/ Passive Range of Movement** 
 
@@ -1901,8 +1762,6 @@ E0126
 43 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 - Single below knee amputation with the use of prosthesis + Single below elbow amputation; or 
 
@@ -1986,8 +1845,6 @@ PARA CYCLING
 
 44 
 
-**UCI CYCLING REGULATIONS** 
-
 - Occasional signs of Athetosis/Dystonia with mild or subtle intensity of posturing or amplitude of movement; 
 
 _(text modified on 01.02.10; 01.07.10; 01.02.11; 01.02.18; 01.01.21)_ 
@@ -2031,8 +1888,6 @@ E0126
 PARA CYCLING 
 
 45 
-
-**UCI CYCLING REGULATIONS** 
 
 Any Athlete Support Personnel accompanying the Athlete during an Evaluation Session must remain out of sight of the visual acuity charts during the Assessment. 
 
@@ -2098,8 +1953,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter VI PARA CYCLING WORLD CHAMPIONSHIPS** 
 
 ## **Programme** 
@@ -2123,8 +1976,6 @@ E0126
 PARA CYCLING 
 
 47 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VII ROAD RACES** 
 
@@ -2173,8 +2024,6 @@ _(text modified on 26.06.07; 01.01.10; 01.01.16)_
 |H2 women|25 km|50 km|
 |H1 women|25 km|50 km|
 
-
-
 For courses with unique and desirable features, exceptions may be permitted at the discretion of the UCI. 
 
 E0126 
@@ -2182,8 +2031,6 @@ E0126
 48 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 26.06.07; 01.02.08; 01.02.09; 01.01.10; 01.02.11; 01.10.13; 01.02.14, 01.02.19; 01.01.2023; 01.01.25)_ 
 
@@ -2224,8 +2071,6 @@ E0126
 49 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 01.02.09; 01.07.10)_ 
 
@@ -2271,8 +2116,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Time Trial Distances** 
 
 **16.7.009** The maximum and minimum distances which are recommended for UCI para cycling international time trials should be: 
@@ -2313,8 +2156,6 @@ PARA CYCLING
 |H2 women|10 km|20 km|
 |H1 women|10 km|20 km|
 
-
-
 For courses with unique and desirable features, exceptions may be permitted at the discretion of the UCI. 
 
 _(text modified on 26.06.07; 01.02.08; 01.02.09; 01.01.10; 01.02.11; 01.10.13; 01.02.14, 01.02.19; 01.01.25)_ 
@@ -2324,8 +2165,6 @@ E0126
 51 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Starting Order for Time Trials** 
 
@@ -2373,8 +2212,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ 3 Team Relay (TR)** 
 
 - **16.7.012** Races shall be for athletes of the following sport classes: 
@@ -2401,8 +2238,6 @@ For all para cycling TR competitions, the maximum shall be two teams for any giv
 |H2 women|1|
 |H1 women|1|
 
-
-
 _(text modified on 01.02.11; 01.10.12; 01.02.14; 11.02.20; 01.01.26)_ 
 
 - **16.7.013** The Team manager must give the names and sport classes that make up their team as well as the order in which the athletes will be placed in the relay. The order needs to be provided to the president of the commissaires panel at the latest 1 hour after the end of the last event involving H division athletes. This start order may not be altered subsequently. 
@@ -2418,8 +2253,6 @@ E0126
 53 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 teammates, the next athlete will start his lap. Each athlete must complete 3 rounds for a total of 9 laps per team. 
 
@@ -2461,8 +2294,6 @@ PARA CYCLING
 
 54 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter VIII TRACK RACES** 
 
 - **16.8.001** Track events are only open to athletes part of the sport classes C and B. 
@@ -2484,8 +2315,6 @@ _(article introduced on 01.01.09; text modified on 01.02.17; 01.01.21)_
 |Tandem men and women - B|1000 m|
 |Cycle men and women – C5; C4; C3; C2; C1|1000 m|
 
-
-
 _(text modified on 01.02.09; 01.01.10; 01.01.25)_ 
 
 ## **§2 Individual Pursuit** 
@@ -2497,8 +2326,6 @@ _(text modified on 01.02.09; 01.01.10; 01.01.25)_
 |Tandem men and women – B|4000 m|
 |Cycle men and women – C5;C4|4000 m|
 |Cycle men and women – C3; C2; C1|3000 m|
-
-
 
 _(text modified on 01.02.09; 01.01.10; 01.01.25)_ 
 
@@ -2515,8 +2342,6 @@ E0126
 PARA CYCLING 
 
 55 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§3 C class Sprint** 
 
@@ -2572,8 +2397,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - **16.8.015** The race shall begin from the Pursuit line. The rider on the inside of the track, unless overtaken, shall lead at least at walking pace and make no manoeuvre to force his opponent through until reaching the pursuit line on the opposite side of the track. Should the leading rider not respect this requirement, the race shall be restarted and the rider not at fault shall decide their starting position. 
 
 _(article introduced on 01.01.25)_ 
@@ -2610,8 +2433,6 @@ PARA CYCLING
 
 57 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Race stoppages** 
 
 ## **16.8.023** 
@@ -2640,8 +2461,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **16.8.024** Format Table for Sprint Competition based on the number of entries: 
 
 |**Starters**|**Qualification**|**Semi finals**|**Finals**|**Final standings**|
@@ -2651,8 +2470,6 @@ PARA CYCLING
 |3-5|Flying 200m|None|3 up single race final<br>based on the top 3 flying<br>200m qualification<br>times.  Results<br>determine top 3<br>positions.|Sprint final and then<br>remaining non<br>finalists based on<br>flying 200m times|
 |6-8|Flying 200m|2 single race semi<br>finals with 3 athletes<br>each race. Winner<br>qualifies for the final:<br>Race 1 includes<br>qualifiers 1, 4, and 6.<br>Race 2 includes<br>qualifiers 2,3, and 5.|2 up final with winner<br>overall winner and<br>second place overall 2nd<br>place.|Final results with<br>final standings<br>based on finals<br>place, then<br>remaining non<br>finalists based on<br>qualifying times.|
 |9+|Flying 200m|3 single race semi<br>finals with 3 athletes in<br>each race. Winner<br>qualifies for the final:<br>Race 1 includes<br>qualifiers 1, 6, and 9<br>Race 2 includes<br>qualifiers 2, 5, and 8<br>Race 3 includes<br>qualifiers 3, 4, and 7|3 up single race final<br>with final position<br>determining the top 3<br>positions|Final results with<br>final positions of the<br>event final then<br>remaining non<br>finalists based on<br>qualifying times.|
-
-
 
 _(article introduced on 01.01.25)_ 
 
@@ -2678,8 +2495,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Sprint Format** 
 
 **16.8.026** Paralympic Games and UCI World Championships 
@@ -2698,8 +2513,6 @@ The qualifying time for the TS will be measured over 200 m. After the qualifying
 ||Finals 5-6<br>2x1 → 1=2|2|3A2- 4A2|5th|6th|
 |4|Finals<br>2x2 → 1=2<br>(in 2 heats, 3 if<br>required)|1|1B2-2B2|3rd (Bronze)|4th|
 |||2|1B1-2B1|1st (Gold)|2nd (Silver)|
-
-
 
 If a rider is disqualified in the ¼ finals, the next two highest seeds will race for 5th and 6th place. 
 
@@ -2723,8 +2536,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 |**Gender, Sport Class**|**Points**|
 |---|---|
 |Men C5|4|
@@ -2737,8 +2548,6 @@ PARA CYCLING
 |Women C3|2|
 |Women C2|1|
 |Women C1|1|
-
-
 
 During qualification phases, one single team can be on the track at a time, while during finals, two teams can be on the track at the same time. 
 
@@ -2761,8 +2570,6 @@ _(article introduced on 01.10.13)_
 |Men Cycle – C5;C4;C3;C2,C1|10 km|
 |Women Cycle – C5; C4; C3; C2, C1|10 km|
 
-
-
 Each sport class will have its own event, results and award ceremony. If there are less than six (6) participants in a sport class, the sport class will be combined with the upper sport class for the conduct of the event until the minimum of six (6) athletes is reached. A medal ceremony shall be organised for each sport class after the end of the race, even if the sport classes are combined. 
 
 E0126 
@@ -2770,8 +2577,6 @@ E0126
 61 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 _Example: there are 3 athletes in the MC1 sport class and 9 in the MC2 sport class. Athletes in the MC1 sport class will race with athletes in the MC2 sport class for a total of 12 athletes in a race._ 
 
@@ -2813,8 +2618,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - **16.8.035** A sprint shall be run every third lap on tracks of less than 200 metres, every second lap on tracks of 200 metres to less than 333.33 metres, and every lap on tracks of 333.33 metres or more. 
 
 On tracks of less than 333.33 metres, each lap that precedes the sprint shall be indicated by a bell. 
@@ -2850,8 +2653,6 @@ E0126
 63 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 - **16.8.039** In the case of a recognized mishap by one or more riders, as decided by the president of the commissaires’ panel, the race shall immediately be neutralized for a maximum distance of the number of laps closest to 1250 metres to allow the affected riders to return to the bunch. In the case where all riders on the track suffer a recognized mishap, the race shall be neutralized for a maximum of 3 minutes to allow the affected riders to return to the race. 
 
@@ -2889,8 +2690,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text introduced on 01.01.20)_ 
 
 - **16.8.045** The winner is determined by the fastest time. 
@@ -2910,8 +2709,6 @@ E0126
 65 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IX WORLD RECORDS** 
 
@@ -2948,8 +2745,6 @@ E0126
 66 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 - **16.9.005** A succinct report specifying the circumstances in which the record has been set shall in all cases be drawn up on the template provided by the UCI. The report shall be immediately written and signed by the UCI international commissaire, by at least one other official present and by the athlete(s) who set the record. 
 
@@ -2993,8 +2788,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 taking a decision. If that is not done and if the record is not ratified the athlete may lodge an appeal with CAS. 
 
 _(article introduced on 01.07.12)_ 
@@ -3008,8 +2801,6 @@ E0126
 68 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter X RACE CLOTHING** 
 
@@ -3039,8 +2830,6 @@ _(article introduced on 01.10.13)_
 |Green|H1  men|
 |Orange|H1<br>women|
 
-
-
 The athletes’ sport classes are recognisable by using the above-mentioned helmet colours, which enable the commissaires and public to detect without delay and confusion the group they belong to. Athletes using the wrong colour helmet in road events will not be allowed to start or will be withdrawn from the race and disqualified. 
 
 _(text modified on 26.06.07; 01.02.09; 01.01.10; 01.07.10; 01.10.13; 01.02.14; 01.01.16)_ 
@@ -3061,8 +2850,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 The penalty structure will be in compliance with the penalties for helmet infringements of points 3.3 and 3.4 of the table of race incidents appended to Part II. 
 
 _(text modified on 01.02.09; 01.10.13; 01.01.26)_ 
@@ -3073,8 +2860,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 # **Chapter XI MEDALS AND JERSEYS FOR UCI PARA CYCLING WORLD CHAMPIONSHIPS** 
 
 See part IX of UCI regulations. 
@@ -3084,8 +2869,6 @@ E0126
 71 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XII RACE INCIDENTS AND SPECIFIC INFRINGEMENTS** 
 
@@ -3113,8 +2896,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XIII ANTIDOPING** 
 
 - **16.13.001** Drug testing and health checks may be carried out at any para cycling competition using UCI rules. The refusal of an athlete to submit to these checks will be treated as if the athlete tested positive, or failed a health check. 
@@ -3126,8 +2907,6 @@ E0126
 73 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIV EQUIPMENT REGULATIONS** 
 
@@ -3158,8 +2937,6 @@ E0126
 PARA CYCLING 
 
 74 
-
-**UCI CYCLING REGULATIONS** 
 
 - **16.14.004** Artificial handgrips and prosthesis are allowed on upper impaired limbs, but not fixed to the cycle. For reasons of safety in the event of a fall, mounted or fixed orthopaedic braces/prostheses or fastened limbs on parts of the cycle, are not allowed. In any cases, a safety mechanism has to be installed. 
 
@@ -3193,8 +2970,6 @@ PARA CYCLING
 
 75 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XV TANDEM BICYCLE** 
 
 ## **Definition** 
@@ -3210,8 +2985,6 @@ E0126
 76 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **CHAPTER XVI TRICYCLE** 
 
@@ -3243,13 +3016,9 @@ PARA CYCLING
 
 77 
 
-**UCI CYCLING REGULATIONS** 
-
 - **16.16.010** In all races, a tricycle with two rear wheels shall be fitted with a safety bar to prevent the front wheel of a following tricycle from entering the space between the rear wheels. The safety bar must be well fixed to the tricycle so that there is no risk of the bar moving during competition. The distance from the ground to the centre of the safety bar should be the same as the distance between the ground and the middle of the hub when the tires are inflated to the pressure used in competition. The safety bar must not exceed the width of each rear wheel tire and all tube ends closed or plugged. The safety bar must be fitted 15 mm (+/- 2 mm) behind the wheels. It must be a round tube of at least 18 mm in diameters, made of adequate solid material. Both tube ends must be plugged (see drawing). 
 
-
 ![](images/16-PAR-20260101-E.pdf-0078-02.png)
-
 
 _(text modified on 01.01.09; 01.01.10; 01.01.17; 01.08.23)_ 
 
@@ -3258,8 +3027,6 @@ E0126
 78 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XVII HANDCYCLE** 
 
@@ -3294,8 +3061,6 @@ E0126
 79 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 _(article introduced on 01.02.09)_ 
 
@@ -3337,17 +3102,13 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - **16.17.013** Leg and foot rests shall be fitted as necessary, with a secure means of protecting static lower limbs from all moving parts. Handcyclists must wear shoes for safety measures. Covered foot rests are not allowed. 
 
 _(text modified on 01.01.04; 01.02.09; 01.01.18)_ 
 
 - **16.17.014** In all races, it is mandatory that a handcycle be fitted with a rear safety bar to prevent the front wheel of a following handcycle from entering the space between the rear wheels. A safety bar must not exceed the width of each rear wheel tire and all tube ends closed or plugged. The safety bar must be fitted 15 mm (+/- 2 mm) behind the wheels. It must be a round tube (at least 18 mm in diameters) made of adequate solid material. Both tube ends must be plugged. The distance between the ground and the bar axis must be 280 mm (+/- 10 mm). The structure and assembly of the safety bar must guarantee that normal bumps, which happen during a race, don’t affect the safe functioning of the bar (see diagram). 
 
-
 ![](images/16-PAR-20260101-E.pdf-0081-04.png)
-
 
 _(text modified on 01.01.04; 01.02.09; 01.02.17; 01.08.23)_ 
 
@@ -3360,8 +3121,6 @@ E0126
 81 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XVIII PARA CYCLING INDIVIDUAL RANKING** 
 
@@ -3417,8 +3176,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 events will be accumulated in the UCI Para Cycling Individual Ranking by Sport Class. 
 
 Class 2 (C2) Para Cycling competitions: 
@@ -3458,8 +3215,6 @@ _(text modified on 01.01.10; 01.02.11; 01.10.11; 01.10.13; 01.02.17; 01.01.23; 0
 |19|4|2|2|||
 |20|3|1|1|||
 
-
-
 _(text modified on 01.01.10; 01.01.11; 01.01.16; 01.02.17, 01.01.19; 01.07.20; 01.01.26)_ 
 
 E0126 
@@ -3467,8 +3222,6 @@ E0126
 83 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **16.18.005** 
 
@@ -3510,8 +3263,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 next athlete in the ranking, in order that all places are always occupied. In case the Sport Class change occurs after the publication of results and rankings, the changes will be made on the following publication. The same procedure will also be applied to each stage in case of stage races. 
 
 The athlete can be re-introduced in the results and ranking of his new Sport Class if the race took place in the same session, in the same conditions and over the same distance. The re-introduction is possible only for individual timed events and if the team quota is not filled. 
@@ -3525,8 +3276,6 @@ E0126
 85 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XIX PARA CYCLING NATIONS’ RANKING** 
 
@@ -3568,8 +3317,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - In the case of a mixed nations team (different nations represented), each athlete affords his or her nation a third of the points on offer for the nation's ranking for team events (e.g.: a composite team winning a round of the world cup made up of two athletes from Nation A and one athlete from Nation B would contribute 20 points to the ranking for Nation A and 10 points to the ranking for Nation B); 
 
 - − A team may be both mixed genders and mixed nations; 
@@ -3581,8 +3328,6 @@ E0126
 87 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XX PARA CYCLING WORLD CUP** 
 
@@ -3640,8 +3385,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 In all para cycling world cup events, the nation of the winner of the previous year’s world cup shall have the right to an additional place to be taken up by that winner of the previous year’s world cup. 
 
 If this individual cannot take part, this place is not added to that nation’s quota. 
@@ -3677,8 +3420,6 @@ E0126
 89 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 3. The year after the Paralympic Games, the reigning Paralympic Games champion; 
 
@@ -3730,8 +3471,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 athletes will commence with the fastest riders and conclude with the slowest riders in order to ease any problems of riders passing each other during the event. 
 
 _(article introduced on 01.10.11; text modified on 01.10.12)_ 
@@ -3778,8 +3517,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 _Comment:  In other words, in order to draw up the world cup team ranking, the highest placed team of a Nation (irrespective of the athletes it comprises, who may change from one round to the next) shall contribute the corresponding points to the ranking for that Nation._ 
 
 _The second-placed team of a Nation, irrespective of the athletes it comprises, shall not add points to the overall ranking but shall keep its place in the classification for the round of the world cup._ 
@@ -3818,8 +3555,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 - **16.20.023** The riders are permitted to put their own advertising logos on the leader’s jersey as follows: 
 
    - a maximum of four (4) advertising logos are permitted; 
@@ -3846,8 +3581,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XXI WORLD CHAMPIONSHIPS QUALIFICATION SYSTEM** 
 
 See Part IX: Word Championships of UCI Regulations, articles 9.2.001 and following (General comments) and 9.2.062 and the following (Para Cycling). 
@@ -3857,8 +3590,6 @@ E0126
 94 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XXII PARALYMPIC GAMES** 
 
@@ -3914,8 +3645,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter XXIII PARA CYCLING TECHNICAL NOTES** 
 
 - **16.23.001** All technical notes carry the same authority as UCI regulations. The technical notes will be subject to continuous revision by the UCI management committee, to reflect technological advances in world cycling and changes to UCI regulations. 
@@ -3927,8 +3656,6 @@ E0126
 96 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XXIV PARA CYCLING CALENDAR** 
 
@@ -3968,8 +3695,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **International Calendar** 
 
 ## **16.24.003** 
@@ -4003,8 +3728,6 @@ PARA CYCLING
 |||Oceania and in Africa|||
 ||-|Must meet UCI standard|||
 
-
-
 _(article introduced on 01.01.26)_ 
 
 - **16.24.004** The Continental Championships must be registered by the Continental Federation and the host country. 
@@ -4021,43 +3744,13 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 Appendix 1 
 
 ## **UCI REQUEST FOR WORLD RECORD HOMOLOGATION** 
 
-|Date|||of|||the|the|performance:|
-|---|---|---|---|---|---|---|---|---|
-|Date||of|the||request||sent|to<br>UCI:|
-|(The request|shall reach the UCI no later than|||1|month after the||performance - Immediate notification by||
-|email to UCI)|||||||||
-|Secretary||General|||of||National|Federation:|
-|**Velodrome**|||||||||
-|Location||of|Track|||(City|<br>and|<br>Country):|
-|Track Measurement ........................................... metres||||||Material ...........................................  (wood, etc.)|||
-|Covered|||||or|||Open:|
-|UCI|||Homologation|||||Date:|
-|**Information for Processing**|||||||||
-|Request|for|<br>World|Record|/|<br>Best||Performance|Homologation<br>for:|
-
-
-
 (Men - Women - Junior Men - Junior Women – Masters Men – Masters Women) 
 
 Distance: 
-
-|Start<br>(standing|or|flying):|
-|---|---|---|
-|Date of attempt or event: ....................................................................................... Result:|||
-|Complete name of the rider: .................................................................................. Nationality:|||
-|UCI ID: ................................................................................Licence||number:|
-|Laboratory<br>in<br>charge<br>of<br>Doping|<br>Control|analysis:|
-|Time<br>of<br>the<br>attempt|or|event:|
-|During<br>an<br>event<br>/|Special|Attempt:|
-|Resume<br>of||record:|
-
-
 
 ## **Attestation of the result by Officials** 
 
@@ -4071,13 +3764,9 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 UCI Technical Delegate UCI International Commissaires Official Timekeepers (manual) (electronic) UCI Doping Control Officer 
 
 To be enclosed: – Print out electronic timing slips – Doping control form 
-
-Place and date: ......................................................................................................................................................................... UCI International Commissaire Signature: ......................................................................................................................................................................... 
 
 NB: This document is established in accordance with the world records / best performances regulations. 
 
@@ -4087,13 +3776,11 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 ## Appendix 2 
 
 ## **Glossary to the UCI Para Cycling Classification Rules and Regulations (Chapters IV and V)** 
 
-**Adaptive Equipment** : Any implement, apparatus, and/or technical aid adapted to the special needs of an Athlete to reduce the impact of their impairment(s) and that is permitted by the International Federation’s rules, except that refractive or optical correction (such as eyeglasses or corrective lenses) are not considered to be Adaptive Equipment. 
+**Adaptive Equipment**: Any implement, apparatus, and/or technical aid adapted to the special needs of an Athlete to reduce the impact of their impairment(s) and that is permitted by the International Federation’s rules, except that refractive or optical correction (such as eyeglasses or corrective lenses) are not considered to be Adaptive Equipment. 
 
 **Appeals:** The means by which a complaint that UCI has made an unfair decision during the Classification process is resolved. 
 
@@ -4115,15 +3802,13 @@ PARA CYCLING
 
 **Classification Master List:** A list made available by the UCI that identifies Athletes who have been allocated a Sport Class and designated a Sport Class Status. 
 
-**Classification Not Completed** : The designation applied to an Athlete who has commenced but not completed Athlete Evaluation to the satisfaction of the UCI. 
+**Classification Not Completed**: The designation applied to an Athlete who has commenced but not completed Athlete Evaluation to the satisfaction of the UCI. 
 
 E0126 
 
 101 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 **Classification Organisation:** Any organisation that conducts the process of Athlete Evaluation and allocates Sport Classes and/or holds Classification Data. 
 
@@ -4137,9 +3822,9 @@ PARA CYCLING
 
 **Classifier:** A person authorised and certified as an official by the UCI to evaluate Athletes as a member of a Classification Panel. 
 
-**Classifier Certification** : The processes by which the UCI must assess that a Classifier has met the specific Classifier Competencies required to obtain and maintain certification or licensure. 
+**Classifier Certification**: The processes by which the UCI must assess that a Classifier has met the specific Classifier Competencies required to obtain and maintain certification or licensure. 
 
-**Classifier Competencies** : The qualifications and abilities that the UCI deems necessary for a Classifier to be competent to conduct Athlete Evaluation for Para Cycling governed by the UCI. 
+**Classifier Competencies**: The qualifications and abilities that the UCI deems necessary for a Classifier to be competent to conduct Athlete Evaluation for Para Cycling governed by the UCI. 
 
 ~~**Classifier**~~ **Classification Personnel Code of Conduct:** The behavioural and ethical standards for Classification Personnel specified by the UCI. 
 
@@ -4149,9 +3834,9 @@ PARA CYCLING
 
 **Compliance:** The implementation of rules, regulations, policies and processes that adhere to the text, spirit and intent of the Code as defined by the IPC. 
 
-**Continuing Education** : The delivery of higher knowledge and practical skills specified by the UCI to preserve and/or advance knowledge and skills as a Classifier in the sport(s) under its governance. 
+**Continuing Education**: The delivery of higher knowledge and practical skills specified by the UCI to preserve and/or advance knowledge and skills as a Classifier in the sport(s) under its governance. 
 
-**Diagnostic Information** : Medical records and/or any other documentation that enables the UCI to assess the existence or otherwise of an Eligible Impairment or Underlying Health Condition. 
+**Diagnostic Information**: Medical records and/or any other documentation that enables the UCI to assess the existence or otherwise of an Eligible Impairment or Underlying Health Condition. 
 
 E0126 
 
@@ -4159,17 +3844,15 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 **Eligible Impairment:** An impairment that is Permanent and that falls within one of the categories recognised and approved by the Paralympic Movement. 
 
-**Entry Criteria** : Standards set by the UCI relating to the expertise or experience levels of persons 
+**Entry Criteria**: Standards set by the UCI relating to the expertise or experience levels of persons 
 
 who wish to be Classifiers. This may be, for example, former Athletes or coaches, sports scientists, physical educators and medical professionals, all of whom have the qualifications and abilities relevant to conduct all, or specific parts of, Athlete Evaluation. 
 
-**Evaluation Session** : The session an Athlete is required to attend for a Classification Panel to assess that Athlete’s Eligible Impairment and compliance with the Minimum Impairment Criteria; and allocation of a Sport Class and Sport Class Status depending on the extent to which that Athlete is able to execute the specific tasks and activities fundamental to Para Cycling. An Evaluation Session may include Observation in Competition. 
+**Evaluation Session**: The session an Athlete is required to attend for a Classification Panel to assess that Athlete’s Eligible Impairment and compliance with the Minimum Impairment Criteria; and allocation of a Sport Class and Sport Class Status depending on the extent to which that Athlete is able to execute the specific tasks and activities fundamental to Para Cycling. An Evaluation Session may include Observation in Competition. 
 
-**Event** : A single race. 
+**Event**: A single race. 
 
 **First Appearance:** The first time an Athlete competes in an Event during a Competition in a particular Sport Class. 
 
@@ -4195,8 +3878,6 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 **International Standards:** A document complementing the IPC Code and providing additional technical and operational requirements for Classification. 
 
 **IPC:** International Paralympic Committee. 
@@ -4209,7 +3890,7 @@ PARA CYCLING
 
 **Medical Review Request:** A request made by a National Body or National Paralympic Committee for Medical Review, made on behalf of an Athlete. 
 
-**Minimum Impairment Criteria** : The minimum level of impairment resulting from an Eligible Impairment that is required in order for an Athlete to be eligible to participate in Para Cycling, as determined by the UCI in its Classification rules. 
+**Minimum Impairment Criteria**: The minimum level of impairment resulting from an Eligible Impairment that is required in order for an Athlete to be eligible to participate in Para Cycling, as determined by the UCI in its Classification rules. 
 
 **Models of Best Practice:** An ad hoc guidance document prepared by the IPC to assist in the implementation of the Code and International Standards. 
 
@@ -4221,7 +3902,7 @@ PARA CYCLING
 
 **National Protest:** A Protest made by a National Body or a National Paralympic Committee in respect of an Athlete under its jurisdiction. 
 
-**Next Available Opportunity** : The next available opportunity at which the Athlete can attend a new Evaluation Session, as determined by the International Federation. 
+**Next Available Opportunity**: The next available opportunity at which the Athlete can attend a new Evaluation Session, as determined by the International Federation. 
 
 **Non-Eligible Impairment:** Any impairment that is not listed as an Eligible Impairment in these Classification rules. 
 
@@ -4231,11 +3912,9 @@ E0126
 
 PARA CYCLING 
 
-**UCI CYCLING REGULATIONS** 
-
 **Observation in Competition:** The observation of an Athlete in a Competition by a Classification Panel so that the Classification Panel can complete its determination as to the extent to which an Eligible Impairment affects that Athlete’s ability to execute the specific tasks and activities fundamental to the sport. 
 
-**Out-of-Competition** : Any period that is not in-Competition. 
+**Out-of-Competition**: Any period that is not in-Competition. 
 
 **Paralympic Games:** The major international event owned and sanctioned by the IPC comprising summer and winter editions usually held in alternating biennial cycles where Para athletes compete in Para sports that are on the Paralympic Games Sport Programme. 
 
@@ -4263,17 +3942,15 @@ that is unlikely to be resolved meaning the principal effects are lifelong.
 
 **Protest Panel:** A Classification Panel appointed by the UCI to conduct an Evaluation Session as a result of a Protest. 
 
-**Re-certification** : The process by which the UCI must assess that a Classifier has maintained specific Classifier Competencies. 
+**Re-certification**: The process by which the UCI must assess that a Classifier has maintained specific Classifier Competencies. 
 
-**Recognised Competition** : A Competition that is sanctioned or approved by the UCI. 
+**Recognised Competition**: A Competition that is sanctioned or approved by the UCI. 
 
 E0126 
 
 105 
 
 PARA CYCLING 
-
-**UCI CYCLING REGULATIONS** 
 
 **Research Purposes:** Research into matters pertaining to the development of sports within the Paralympic Movement, including the impact of Impairment on the fundamental activities in each specific sport and the impact of assistive technology on such activities. 
 
@@ -4285,19 +3962,18 @@ PARA CYCLING
 
 **Tracking Code Observation Assessment (OA):** a designation given to an Athlete that replaces the Athlete’s Sport Class Status until Observation in Competition has been completed. 
 
-**Trainee Classifier** : A person who is in the process of formal training to become a Classifier. 
+**Trainee Classifier**: A person who is in the process of formal training to become a Classifier. 
 
-**UHC Assessment** : The assessment of an underlying health condition, prior to Classification. 
+**UHC Assessment**: The assessment of an underlying health condition, prior to Classification. 
 
-**UHC Assessor** : Any person or body responsible for conducting UHC Assessments. 
+**UHC Assessor**: Any person or body responsible for conducting UHC Assessments. 
 
 **Underlying Health Condition:** A verifiable Health Condition that may lead to an Eligible Impairment catered for by the UCI. 
 
-**Vision Impairment** : an Impairment of the eye structure, optical nerves or optical pathways, or visual cortex of the central brain that adversely affects an Athlete’s vision. 
+**Vision Impairment**: an Impairment of the eye structure, optical nerves or optical pathways, or visual cortex of the central brain that adversely affects an Athlete’s vision. 
 
 E0126 
 
 106 
 
-PARA CYCLING 
-
+PARA CYCLING

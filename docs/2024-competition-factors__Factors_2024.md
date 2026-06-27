@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/27PPvp5fg1HTKTBAnvJg91/d22
 source_sha256: 007aa557f1d611f9a0dd48b11667dd65c1f975e2990ca4e94ec25abc000c37d4
 converter: pymupdf4llm
 ---
-
-
 ![](images/Factors_2024.pdf-0001-00.png)
-
 
 ## **2024 Competition Factors** 
 
@@ -30,15 +27,11 @@ converter: pymupdf4llm
 |B MEN|100.00%||||||||||
 |B WOMEN|89.95%|100.00%|||||||||
 
-
-
 Page **1** / **3** 
 
 **Union Cycliste Internationale** 1 May 2024 
 
-
 ![](images/Factors_2024.pdf-0002-00.png)
-
 
 ## **Road Factors** 
 
@@ -54,8 +47,6 @@ Page **1** / **3**
 |C2|Women|77.90%|81.52%|83.56%|86.13%|90.45%|91.98%|94.65%|97.02%|100.00%||
 |C1|Women|72.95%|76.34%|78.25%|80.65%|84.70%|86.13%|88.64%|90.85%|93.64%|100.00%|
 
-
-
 |T2|Men|100.00%||||
 |---|---|---|---|---|---|
 |T1|Men|87.44%|100.00%|||
@@ -65,15 +56,11 @@ Page **1** / **3**
 |B|Men|100.00%||||
 |B|Women|86.13%|100.00%|||
 
-
-
 Page **2** / **3** 
 
 **Union Cycliste Internationale** 1 May 2024 
 
-
 ![](images/Factors_2024.pdf-0003-00.png)
-
 
 |H5|Men|100.00%||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -87,9 +74,6 @@ Page **2** / **3**
 |H1|Men|60.09%|60.09%|62.65%|69.77%|69.77%|72.74%|72.74%|84.45%|100.00%||
 |H1|Women|51.76%|51.76%|53.96%|60.09%|60.09%|62.65%|62.65%|72.74%|86.13%|100.00%|
 
-
-
 Page **3** / **3** 
 
-**Union Cycliste Internationale** 1 May 2024 
-
+**Union Cycliste Internationale** 1 May 2024

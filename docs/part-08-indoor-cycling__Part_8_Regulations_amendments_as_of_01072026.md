@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/180T0aW1DfwEE7dxZnr395/2fb
 source_sha256: 20aa128ceea50c4ea304df4512fc7566972d7b05ace451ec2fa62f7c25a1685f
 converter: pymupdf4llm
 ---
-
 8 June 2026 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01072026.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -34,8 +31,6 @@ converter: pymupdf4llm
 |**C.**|**Elite Leagues**|||
 |-|Up to22 ~~23 ~~years  =||U23|
 |-|From 19 years on  =||Elite|
-
-
 
 The league depends on the year of birth, i.e. throughout the year of a player’s 18th birthday he may play in the Junior league. 
 
@@ -76,8 +71,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |_7 Teams_|_9_|_2_|_0_|_0_|_0_|_0_|_0_|_1_|_6_|_1_|_1_|_0_|_20_|
 |_8 Teams_|_12_|_2_|_0_|_0_|_0_|_0_|_1_|_1_|_6_|_1_|_1_|_1_|_25_|
 
-
-
 ## _Format_ 
 
 _Number is based on the result at the UCI Indoor Cycling World Championships the year before_ 
@@ -88,8 +81,6 @@ _Number is based on the result at the UCI Indoor Cycling World Championships the
 |4|3|
 |6|5|
 |8|7|
-
-
 
 Page **2** / **3** 
 
@@ -133,13 +124,10 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||||||||||||
 |~~25~~<br>24|~~1s~~|~~t place F4~~<br>W21||~~:~~||||~~W24~~<br>W22|Gold Game|||
 
-
-
 _(article introduced on 01.01.13; text modified on 01.01.24; 01.07.25, 01.07.26)_ 
 
 Page **3** / **3** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

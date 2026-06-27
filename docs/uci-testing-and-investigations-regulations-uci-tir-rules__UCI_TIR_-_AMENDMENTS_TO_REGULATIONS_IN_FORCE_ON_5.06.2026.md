@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7eOPBFpvGU9U1qJqYFmtBd/8af
 source_sha256: 4195bf5180ca68b454a832633e72613783728917dda0e9fc23797b64a3701f2f
 converter: pymupdf4llm
 ---
-
-
 ![](images/UCI_TIR_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_ON_5.06.2026.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -23,7 +20,7 @@ converter: pymupdf4llm
 
    - b) All _Samples_ have been properly stored and dispatched in accordance with the relevant analytical guidelines; and 
 
-   - c)  If a blood _Sample_ is to be collected in a serum tube from the _Rider_ , _Sample_ collection shall not occur within sixty (60) minutes of the _Rider’s_ training, participation in _Competition_ or other similar physical activity. If the _Rider_ has trained or competed less than sixty (60) minutes before the time the _Rider_ has been notified of their selection, the DCO or other designated Sample Collection Personnel shall keep the _Rider_ under direct observation until this 60-minute period has elapsed. The same applies for whole blood _Samples_ analyzed for the Hematological Module of the _Athlete Biological Passport_ in line with Annex I.2.1 and I.2.2. The DCO shall document on the Blood Collection Supplementary Report Form whether the _Rider_ was engaged in any type of physical activity prior to _Sample_ collection and if so record that the _Rider_ waited the required sixty (60) minutes prior to _Sample_ collection. This information shall be made available to the Laboratory. 
+   - c)  If a blood _Sample_ is to be collected in a serum tube from the _Rider_, _Sample_ collection shall not occur within sixty (60) minutes of the _Rider’s_ training, participation in _Competition_ or other similar physical activity. If the _Rider_ has trained or competed less than sixty (60) minutes before the time the _Rider_ has been notified of their selection, the DCO or other designated Sample Collection Personnel shall keep the _Rider_ under direct observation until this 60-minute period has elapsed. The same applies for whole blood _Samples_ analyzed for the Hematological Module of the _Athlete Biological Passport_ in line with Annex I.2.1 and I.2.2. The DCO shall document on the Blood Collection Supplementary Report Form whether the _Rider_ was engaged in any type of physical activity prior to _Sample_ collection and if so record that the _Rider_ waited the required sixty (60) minutes prior to _Sample_ collection. This information shall be made available to the Laboratory. 
 
 _[Comment to Annex D.3.1 c): Part of the sixty (60) minute wait includes the Rider sitting in an upright stationary position with their feet on the floor for at least ten (10) minutes as outlined in Article D.4.5. The sixty (60) minute wait does not apply to whole blood Samples collected in EDTA tubes that will not be analyzed for the Hematological Module of the Athlete Biological Passport.]_ 
 
@@ -37,7 +34,7 @@ elapsed.
 
 - **I2.2** If the Sample was collected within ~~two~~ sixty ~~(2~~ 60) ~~hours~~ minutes of training or Competition, the nature, duration and intensity of the exertion shall be recorded by the DCO to make this information available to the APMU. 
 
-- **I2.9** The DCO _/_ BCO shall collect and record the following additional information on a ~~n~~ Blood Collection Supplementary Report Form ~~Athlete Biological Passport supplementary form~~ , _Athlete Biological Passport_ specific _Doping Control_ form or other related report form to be signed by the _Rider_ and the DCO/BCO: 
+- **I2.9** The DCO _/_ BCO shall collect and record the following additional information on a ~~n~~ Blood Collection Supplementary Report Form ~~Athlete Biological Passport supplementary form~~, _Athlete Biological Passport_ specific _Doping Control_ form or other related report form to be signed by the _Rider_ and the DCO/BCO: 
 
    - a) Has the _Rider_ been seated for at least ten (10) minutes with their feet on the floor prior to blood collection, as per Annex I.2.8? 
 
@@ -65,7 +62,6 @@ elapsed.
 
 - a) The _Doping Control_ form, as per Article 4.9.1 b); 
 
-- b) The Blood Collection Supplementary Report Form ~~Athlete Biological Passport supplementary form~~ , and/or the additional information specific to the _Athlete Biological Passport_ collected on a related report form; 
+- b) The Blood Collection Supplementary Report Form ~~Athlete Biological Passport supplementary form~~, and/or the additional information specific to the _Athlete Biological Passport_ collected on a related report form; 
 
-- c) In the Chain of Custody, the temperature data logger ID (without any time reference) and the time zone of the _Testing_ location in GMT. 
-
+- c) In the Chain of Custody, the temperature data logger ID (without any time reference) and the time zone of the _Testing_ location in GMT.

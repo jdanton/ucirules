@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4SZyGyu6jke9EAVgMgAbbh/817
 source_sha256: 25e1732993ed3e0d1196661e04b8bf1bbc97c6babf515157de734b0cc13763fd
 converter: pymupdf4llm
 ---
-
 MEMORANDUM 16 June 2025 
 
-
 ![](images/Part_8_Regulation_amendments_applying_on_01.07.2025.pdf-0001-01.png)
-
 
 ## **Regulation amendments applying on 01.07.25** 
 
@@ -42,8 +39,6 @@ MEMORANDUM 16 June 2025
 |_7 Teams_|_9_|_2_|_0_|_0_|_0_|_0_|_0_|_1_|_6_|_1_|_1_|_0_|_20_|
 |_8 Teams_|_12_|_2_|_0_|_0_|_0_|_0_|_1_|_1_|_6_|_1_|_1_|_1_|_25_|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 
@@ -63,8 +58,6 @@ _Number is based on the result at the UCI Indoor Cycling World Championships the
 |4|3|
 |6|5|
 |8|7|
-
-
 
 |_Schedule_<br>1<br>6<br>:<br>2<br>5<br>:<br>3<br>1<br>:<br>4<br>2<br>:<br>5<br>4<br>:<br>6<br>3<br>:<br>7<br>1<br>:<br>8<br>2<br>:<br>9<br>4<br>:<br>10<br>3<br>:<br>11<br>1<br>:<br>12<br>3<br>:<br>13<br>2A<br>:<br>14<br>2B<br>:<br>:<br>15<br>4A<br>:<br>16<br>L13<br>17<br>L15<br>:<br>18<br>1A<br>:<br>19<br>W13<br>:<br>20<br>1A<br>21<br>1B<br>:<br>22<br>1A<br>23<br>1B<br>24<br>2ndplace F4<br>:<br>25<br>1stplace F4<br>:|_Schedule_<br>1<br>6<br>:<br>2<br>5<br>:<br>3<br>1<br>:<br>4<br>2<br>:<br>5<br>4<br>:<br>6<br>3<br>:<br>7<br>1<br>:<br>8<br>2<br>:<br>9<br>4<br>:<br>10<br>3<br>:<br>11<br>1<br>:<br>12<br>3<br>:<br>13<br>2A<br>:<br>14<br>2B<br>:<br>:<br>15<br>4A<br>:<br>16<br>L13<br>17<br>L15<br>:<br>18<br>1A<br>:<br>19<br>W13<br>:<br>20<br>1A<br>21<br>1B<br>:<br>22<br>1A<br>23<br>1B<br>24<br>2ndplace F4<br>:<br>25<br>1stplace F4<br>:|_Schedule_<br>1<br>6<br>:<br>2<br>5<br>:<br>3<br>1<br>:<br>4<br>2<br>:<br>5<br>4<br>:<br>6<br>3<br>:<br>7<br>1<br>:<br>8<br>2<br>:<br>9<br>4<br>:<br>10<br>3<br>:<br>11<br>1<br>:<br>12<br>3<br>:<br>13<br>2A<br>:<br>14<br>2B<br>:<br>:<br>15<br>4A<br>:<br>16<br>L13<br>17<br>L15<br>:<br>18<br>1A<br>:<br>19<br>W13<br>:<br>20<br>1A<br>21<br>1B<br>:<br>22<br>1A<br>23<br>1B<br>24<br>2ndplace F4<br>:<br>25<br>1stplace F4<br>:|_Schedule_<br>1<br>6<br>:<br>2<br>5<br>:<br>3<br>1<br>:<br>4<br>2<br>:<br>5<br>4<br>:<br>6<br>3<br>:<br>7<br>1<br>:<br>8<br>2<br>:<br>9<br>4<br>:<br>10<br>3<br>:<br>11<br>1<br>:<br>12<br>3<br>:<br>13<br>2A<br>:<br>14<br>2B<br>:<br>:<br>15<br>4A<br>:<br>16<br>L13<br>17<br>L15<br>:<br>18<br>1A<br>:<br>19<br>W13<br>:<br>20<br>1A<br>21<br>1B<br>:<br>22<br>1A<br>23<br>1B<br>24<br>2ndplace F4<br>:<br>25<br>1stplace F4<br>:|||
 |---|---|---|---|---|---|
@@ -100,8 +93,6 @@ _Number is based on the result at the UCI Indoor Cycling World Championships the
 ||24|2ndplace F4|:|3rdplace F4|Bronze/Silver Game|
 ||25|1stplace F4|:|W24|Gold Game|
 
-
-
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 Page **2** / **4** 
@@ -126,8 +117,6 @@ Page **2** / **4**
 ||~~Relegation~~|||||||||||||~~1~~|~~1~~|~~1~~|
 ||~~**N°games TOTAL**~~|~~**10**~~|~~**17**~~|~~**22**~~|~~**29**~~|~~**33**~~|~~**38**~~|~~**44**~~|~~**36**~~|~~**40**~~|~~**44**~~|~~**49**~~|~~**54**~~|~~**47**~~|~~**52**~~|~~**55**~~|
 
-
-
 _(article introduced on 01.01.13; text modified on 01.01.24; 01.07.25)_ 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -138,9 +127,7 @@ Page **3** / **4**
 
 ## **8.11.002** _World Championships_ mode 
 
-
 ![](images/Part_8_Regulation_amendments_applying_on_01.07.2025.pdf-0004-01.png)
-
 
 If a match ends in a draw in the rounds from the quarterfinals to the semifinals, a penalty shoot-out will decide the match. 
 
@@ -152,5 +139,4 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-Page **4** / **4** 
-
+Page **4** / **4**

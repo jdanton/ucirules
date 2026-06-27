@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4BxcBW3Ez2KLl3NzIAaPH2/09e
 source_sha256: 53eb5a817b85b53c68b4647c10289e510ff013551e1421b52da583862c33e9ed
 converter: pymupdf4llm
 ---
-
-
 ![](images/Directives_for_organisers_following_the_measures_taken_by_the_UCI_in_response_to_the_situation_in_Ukraine.pdf-0001-00.png)
-
 
 ## **Directives for organisers following the measures taken by the UCI in response to the situation in Ukraine** 
 
@@ -51,5 +48,4 @@ The restrictions put in place in 2022 have been lifted. The participation of Bel
 
 Page **2** / **2** 
 
-**Union Cycliste Internationale** 24 juin 2026 
-
+**Union Cycliste Internationale** 24 juin 2026

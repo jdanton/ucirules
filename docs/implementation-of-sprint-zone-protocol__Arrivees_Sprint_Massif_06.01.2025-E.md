@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/YJGaLYiiXnNOv7PW2I3Jz/25d0
 source_sha256: 21d0d185ea9c633b99b22c4516a9d80f8bd7c56f0362ad7ac84f65e180da206e
 converter: pymupdf4llm
 ---
-
-
 ![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0001-00.png)
-
 
 Sprint zone protocol for stages "expected to finish in bunch sprints" Decision of the UCI Management Committee of 18 December 2024 Applicable while published on the UCI website 
 
@@ -49,7 +46,7 @@ Thus, in a sprint at 60 km/h the actual distance between riders represents:
 
 - A 3-second gap = 50 metres 
 
-In addition, this protocol shall serve for the application of the **modification, on a trial basis, to the so-called ‘three kilometre’ or ‘sprint zone’ rule** (article 2.6.027 of the UCI Regulations) which applies when a race enters the zone leading to the final sprint and according to which, in the event of a duly noted incident (for example a **fall involving several riders** , mechanical problem or puncture) in the last three kilometres of a road stage (excluding summit finishes), a rider affected is credited with the time of the rider or riders with whom they were riding at the time of the incident. 
+In addition, this protocol shall serve for the application of the **modification, on a trial basis, to the so-called ‘three kilometre’ or ‘sprint zone’ rule** (article 2.6.027 of the UCI Regulations) which applies when a race enters the zone leading to the final sprint and according to which, in the event of a duly noted incident (for example a **fall involving several riders**, mechanical problem or puncture) in the last three kilometres of a road stage (excluding summit finishes), a rider affected is credited with the time of the rider or riders with whom they were riding at the time of the incident. 
 
 It is specified that the incident must be independent of the rider's control of his bicycle or his own physical abilities. 
 
@@ -193,7 +190,7 @@ Applications from the organiser of the event must in principle be submitted prio
 
 In case an application is approved after the publication of the technical guide, the details must be published in a race communique prior to the start of the stage. 
 
-_(text modified on 1.01.05; 1.10.11; 1.02.12; 1.01.18, 12.06.24 ; 01.01.25)._ 
+_(text modified on 1.01.05; 1.10.11; 1.02.12; 1.01.18, 12.06.24; 01.01.25)._ 
 
 ## **Examples of application of time gap extension** 
 
@@ -203,15 +200,13 @@ The rule applies to all riders:
 
 - any rider who finishes behind the preceding rider with a gap of **less than 3 seconds** is given the **same time** as the preceding rider; 
 
-- any rider who finishes behind the preceding rider with a gap of **3 seconds or more** is given a **new time** . 
+- any rider who finishes behind the preceding rider with a gap of **3 seconds or more** is given a **new time**. 
 
 Page **5** / 
 
 **Union Cycliste Internationale** 6 janvier 2025 
 
-
 ![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0006-00.png)
-
 
 ## – Example no. 2 A clearly established breakaway of a sole rider (or small group of riders) finishes ahead followed by the next group in a bunch sprint 
 
@@ -219,17 +214,14 @@ Page **5** /
 
 - if the first rider of the next group is less than 1 second behind the breakaway finishing ahead, the next group is given the **same time** as the rider/group finishing ahead. 
 
-- if the first rider of the next group is **more than 1 second** behind the breakaway finishing ahead, the next group is given a **new time** . 
+- if the first rider of the next group is **more than 1 second** behind the breakaway finishing ahead, the next group is given a **new time**. 
 
 - Within the next group and all other riders, only time gaps **in excess of 3 seconds** will be considered. 
 
 - For all subsequent groups, only time gaps in excess of 3 seconds will be considered. 
 
-
 ![](images/Arrivees_Sprint_Massif_06.01.2025-E.pdf-0006-07.png)
-
 
 Page **6** / 
 
-**Union Cycliste Internationale** 6 janvier 2025 
-
+**Union Cycliste Internationale** 6 janvier 2025

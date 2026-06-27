@@ -4,14 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/nXiyjxTjj73r1gdoLytfQ/4437
 source_sha256: 6108baea752e503faf230e3d204e7cdbae4adf8b42fae081c8c186446ec9a52d
 converter: pymupdf4llm
 ---
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0001-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0001-01.png)
-
 
 (version on 01.01.2024) 
 
@@ -57,13 +52,9 @@ Any derogation from the provisions of this agreement to the detriment of the rid
 
 1/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0002-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0002-01.png)
-
 
 ## **DISPUTES** 
 
@@ -87,7 +78,7 @@ The consultation before the mediator shall be free for the parties and all relat
 
 _(article introduced on 01.01.18)_ 
 
-## **Chapte** r **II** : **WORKING CONDITIONS** 
+## **Chapte** r **II**: **WORKING CONDITIONS** 
 
 ## **HIRING** 
 
@@ -99,13 +90,9 @@ The contract shall be drawn up in writing by means of a form corresponding to th
 
 2/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0003-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0003-01.png)
-
 
 agreed by and between the signatories and approved by the UCI as an insertion in its regulations as a standard contract. 
 
@@ -157,13 +144,9 @@ During this period the rider shall retain the status of new professional even if
 
 3/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0004-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0004-01.png)
-
 
 agent and the two principal partners is less than the duration of the contract as determined under the first paragraph of point 2 above but equal to at least one year, the duration of the new professional’s contract may be limited to the remaining duration of the contract with the principal partner or the longer of the contracts with the two principal partners. 
 
@@ -197,8 +180,6 @@ The rider shall be entitled to a fixed remuneration, the annual minimum gross am
 |2024|46.234 €|55.279 €|55.793 €|68.957 €|
 |2025|48.545 €|58.043 €|58.582 €|72.404 €|
 
-
-
 The remuneration for the following years will be negotiated by the parties and will be subject to an amendment to this agreement. In the event that no agreement can be found, the amounts of 2025 will remain in force. 
 
 In particular situations and in the interest of the development of cycling, the Professional Cycling Council may decide exemptions on the joint proposal of the signatories of this agreement. 
@@ -211,13 +192,9 @@ The fixed remuneration shall be paid in cash, in the currency stipulated in the 
 
 4/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0005-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0005-01.png)
-
 
 The payment must be made by transfer on the rider's bank account as indicated in the contract. Only the proof of the execution of the bank transfer shall be accepted as proof of payment. 
 
@@ -265,13 +242,9 @@ _(text modified on 01.01.13)_
 
 5/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0006-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0006-01.png)
-
 
 ## **Art. 17** 
 
@@ -313,13 +286,9 @@ _(text modified on 01.01.13)_
 
 6/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0007-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0007-01.png)
-
 
 ## **Art. 22** 
 
@@ -359,13 +328,9 @@ Risks relating to sports or sports activities that are not connected to the prep
 
 7/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0008-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0008-01.png)
-
 
 motor vehicle, whether ground-based or not), ice sports, contact sports, potholing, rafting, rockclimbing, deep-sea diving, whether in a participant, instructor, official or in any other capacity apart from that of spectator may be excluded from the coverage. 
 
@@ -407,13 +372,9 @@ The parties agree that EU GDPR (General Data Protection Regulation) or equivalen
 
 8/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0009-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0009-01.png)
-
 
 the rider’s personal data must adhere to the definitions and principles expressed in the EU GDPR. Appendix 3 contains guidelines for the preparation of a "Privacy Notice", compliant with the requirements of the EU GDPR, to be used by each team according to its own situation and to the relevant legislation provided by each country. 
 
@@ -427,21 +388,15 @@ Adam Hansen President
 
 9/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0010-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0010-01.png)
-
 
 ## **APPENDIX 1** 
 
 ## **LIST OF INSURANCES** 
 
 The team certifies that the rider, 
-
-Last Name:.....................First Name:.....................Date of birth: ..................., 
 
 will benefit, as a result of his job, from the following insurances or benefits (for riders who do not have a legal social security system, the team states that it was given a proof of the following insurances or benefits): 
 
@@ -467,8 +422,6 @@ will benefit, as a result of his job, from the following insurances or benefits 
 |16.  repatriation insurance (art. 23.3 b)|||
 |17.  others|||
 
-
-
 * The scope of the coverage depends on the legal social security system in use in the different countries. Therefore some risks may not be insured. Refer to the joint agreement and to the UCI Regulations for the minimum coverage. 
 
 ** For insurances subscribed by the team, provide a copy of insurance policies and general conditions. For contractual insurances subscribed by the rider himself, the team has to obtain from the rider a proof signed by the insurance company, according to the attached model. This certificate has to be presented to the local auditor. 
@@ -479,21 +432,15 @@ Signature of the paying agent:
 
 10/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0011-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0011-01.png)
-
 
 ## **APPENDIX 2** 
 
 ## **CERTIFICATE OF INSURANCE FOR A PROFESSIONAL RIDER** 
 
 The insurance company undersigned certifies that the rider, 
-
-Last Name:.....................First Name:.....................Date of birth: ..................., 
 
 is insured to the company from January 1st and for the whole year 20.. for the following risks and benefits (to the minimum)*: 
 
@@ -505,8 +452,6 @@ is insured to the company from January 1st and for the whole year 20.. for the f
 |4. Disability insurance|In case of total and permanent disability<br>of the rider due to an accident (round the<br>clock)or illness, payment of € 250’000 to<br>the rider.|In accordance<br>with joint agr. art.<br>23.2||
 |5. Reimbursement of<br>hospitalization<br>expenses|Hospitalization expenses for an amount of<br>€ 100’000 per disaster|In accordance<br>with joint agr. art.<br>23.3.1a)and b)||
 |6. Reimbursement of<br>repatriation expenses|Repatriation expenses of the rider for<br>medical reasons or in case of decease<br>during professional trips|In accordance<br>with joint agr. art.<br>23.3.1 c)||
-
-
 
 This certificate is delivered in order to allow the rider to prove to his team and to the authorities of control of the professional cycling that he fulfils the registration conditions fixed by the UCI Regulations for the season 20... These Regulations refer for minimal insurance coverage to the Joint Agreement concerning the working conditions of the riders. This certificate will not be used for any other purposes. 
 
@@ -526,13 +471,9 @@ Tel. number:
 
 11/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0012-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0012-01.png)
-
 
 ## **Appendix 3** 
 
@@ -544,7 +485,7 @@ Tel. number:
 
 Organizations provide individuals with Privacy Notices to explain how their Personal Data is handled. 
 
-Under GDPR, Privacy Notices must, _inter alia_ : 
+Under GDPR, Privacy Notices must, _inter alia_: 
 
 - identify who the effective Data Controller is; 
 
@@ -582,19 +523,15 @@ If a Team is collecting Personal Data from a Rider directly, it must include the
 
 - the possible existence of an automated decision-making system, including profiling, and information about how this system has been set up, the significance, and the consequences. 
 
-If a Team obtains Riders’ Personal Data indirectly (i.e. via third parties) its Privacy Notice must provide all the above information[1] , plus the categories of Personal Data obtained in this way. 
+If a Team obtains Riders’ Personal Data indirectly (i.e. via third parties) its Privacy Notice must provide all the above information[1], plus the categories of Personal Data obtained in this way. 
 
 > 1 Except for the aside “ _whether the provision of Personal Data is part of a statutory or contractual requirement or obligation and the possible consequences of failing to provide the Personal Data_ ”. 
 
 12/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0013-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0013-01.png)
-
 
 ## **III. Which categories of Personal Data are usually processed by Teams?** 
 
@@ -602,7 +539,7 @@ Riders’ Personal Data processed by Teams may include the following categories:
 
 - “ordinary data”, including, by way of example, name, surname and tax code of the Riders; 
 
-- “special data” (Art. 9 GDPR), i.e. those data from which, among other things, the health status of the Riders can be deduced and whose processing is subject to a specific manifestation of consent by each individual Rider. In particular, within the limits of the principles of minimisation and relevance of data processing, Teams may process: (i) data related to the health status of each Rider as part of the preventive and periodic checks of the sporting suitability or as part of the local federal procedures of verification and management of a state of illness declared by the Rider as a cause of abstention from sporting activity or from participation in sporting competitions of any kind or as part of the insurance procedures provided for by contracts or by law or as part of the procedures for the purposes of the fight against doping (ii) data relating to racial and/or ethnic origin and/or religious beliefs and/or anthropometric data; (iii) the so-called “Performance Data”, which may also include geolocation and “special data”, capable of revealing, _inter alia_ , genetic data, biometric data, data relating to a person's health or sexual life or sexual orientation; 
+- “special data” (Art. 9 GDPR), i.e. those data from which, among other things, the health status of the Riders can be deduced and whose processing is subject to a specific manifestation of consent by each individual Rider. In particular, within the limits of the principles of minimisation and relevance of data processing, Teams may process: (i) data related to the health status of each Rider as part of the preventive and periodic checks of the sporting suitability or as part of the local federal procedures of verification and management of a state of illness declared by the Rider as a cause of abstention from sporting activity or from participation in sporting competitions of any kind or as part of the insurance procedures provided for by contracts or by law or as part of the procedures for the purposes of the fight against doping (ii) data relating to racial and/or ethnic origin and/or religious beliefs and/or anthropometric data; (iii) the so-called “Performance Data”, which may also include geolocation and “special data”, capable of revealing, _inter alia_, genetic data, biometric data, data relating to a person's health or sexual life or sexual orientation; 
 
 - data relating to criminal convictions and offences (Art. 10 GDPR), only in the event that the sports justice bodies, for the sole purpose of their functional competence, access copies of the records of any criminal proceedings under current legislation; 
 
@@ -614,7 +551,7 @@ Riders’ Personal Data processed by Teams may include the following categories:
 
 Purposes of processing may include the followings: 
 
-- **A)** _**Purposes connected with and instrumental to the management of relations with the Riders, with reference to the sports activities carried out by reason of membership to the Team, in particular**_ : 
+- **A)** _**Purposes connected with and instrumental to the management of relations with the Riders, with reference to the sports activities carried out by reason of membership to the Team, in particular**_: 
 
    - purposes concerning the execution of the contractual relationship and, in general, the fulfilment of all obligations inherent to the relationship between the Team and the Riders; 
 
@@ -630,13 +567,9 @@ Purposes of processing may include the followings:
 
 13/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0014-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0014-01.png)
-
 
 ## **B)** _**Purposes connected with the fulfilment of obligations relating to the registration and participation of the Riders in national and international competitions, in particular:**_ 
 
@@ -668,7 +601,7 @@ Purposes of processing may include the followings:
 
 - **F)** _**Purpose of producing and publishing information and on paper and telematic support concerning the activities carried out by the Team, also for marketing and sponsorship purposes.**_ 
 
-- **G)** _**Purposes of producing and marketing printed products, digital audio and video products and websites with information and advertising purposes, relating to the activities of the Team**_ . 
+- **G)** _**Purposes of producing and marketing printed products, digital audio and video products and websites with information and advertising purposes, relating to the activities of the Team**_. 
 
 ## **V. What may be the Legal basis of the Processing by Teams?** 
 
@@ -682,17 +615,13 @@ For the purposes referred to in Point IV, letter C, the legal basis of the Proce
 
 14/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0015-00.png)
-
-
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0015-01.png)
 
-
 For the purposes referred to in Point IV, letters D, E, F and G, the legal basis of the Processing may be the explicit consent given by the Rider. 
 
-Where the legal basis is the consent of the Rider, the Team will ask the latter to express or deny his/her consent to the Processing, on specific forms related to the individual purposes[2] . 
+Where the legal basis is the consent of the Rider, the Team will ask the latter to express or deny his/her consent to the Processing, on specific forms related to the individual purposes[2]. 
 
 ## **VI. How is the Provision of Data and Consent to Processing regulated?** 
 
@@ -728,13 +657,9 @@ These recipients may include:
 
 15/16 
 
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0016-00.png)
 
-
-
 ![](images/Joint_Agreements_20240101-E_.pdf-0016-01.png)
-
 
 services, classification management services, race secretariat management services, race registration management services, etc.). 
 
@@ -762,5 +687,4 @@ A Privacy Notice must also contain information regarding the following additiona
 
 * * * 
 
-16/16 
-
+16/16

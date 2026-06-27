@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4cQZW6O7AnM2Z6DagtDWxg/268
 source_sha256: 43d05e1344ac5666c1fd2ff5cdf73f636bc966c044be25bed415f61a697b49e4
 converter: pymupdf4llm
 ---
-
-
 ![](images/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_01.10.2025.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -37,5 +34,4 @@ The Road Sub-Committee has jurisdiction to judge and sanction infringements unde
 
 The Disciplinary Commission shall assess the admissibility of the cases referred to it and may refer any case which it considers inadmissible or which does not fall within its competence to the UCI or any other competent judicial body. 
 
-_(text modified on 03.06.21, 05.05.23, 16.02.24, 01.10.25)._ 
-
+_(text modified on 03.06.21, 05.05.23, 16.02.24, 01.10.25)._

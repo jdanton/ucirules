@@ -4,9 +4,6 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3MyeUMW4jEZ2lXFYkmKW9d/abd
 source_sha256: 22887f8971ab9653f5c41a3ea5ea33318cb9f46e7b3d60449cbd875c26f4abca
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 10 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES** 
 
 **Version on 01.01.2026** 
@@ -18,15 +15,11 @@ converter: pymupdf4llm
 |**Chapter I**|**CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS………2**|
 |**Chapter II**|**REGIONAL GAMES – GENERAL REGULATIONS………………………..4**|
 
-
-
 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES 
 
 E0126 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 10 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES** 
 
@@ -60,8 +53,6 @@ E0126
 
 2 
 
-**UCI CYCLING REGULATIONS** 
-
 - **10.1.004** To ensure the technical supervision of races, the UCI will directly appoint: − A UCI Technical Delegate 
 
    - The President of the Commissaires Panel (additional UCI international commissaires may also be appointed as required.). For BMX Freestyle events, the Head Judge shall be appointed instead of the President of the Commissaires Panel. Officials are appointed in accordance with the procedures laid out in article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. 
@@ -92,8 +83,6 @@ For Track cycling, the maximum number of riders eligible for points in the Natio
 |Madison|2|
 |Elimination Race|1|
 
-
-
 M = Men, W = Women 
 
 _(text modified on 05.03.18; 17.10.22; 01.01.25; 01.01.26)_ 
@@ -103,8 +92,6 @@ CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES
 E0126 
 
 3 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II REGIONAL GAMES – GENERAL REGULATIONS** 
 
@@ -160,8 +147,6 @@ E0126
 
 4 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Registration on the UCI International Calendar** 
 
 - **10.2.002** Multi-sport events fulfilling both the above definition and the following conditions may be registered as Regional Games on the UCI International Calendar for each of the Olympic disciplines included in the programme. Registration shall follow the calendar registration procedures for each discipline as published by the UCI each year. 
@@ -194,8 +179,6 @@ E0126
 
 5 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **UCI Officials** 
 
 - **10.2.004** Appointment of UCI International Commissaires (or Judges for BMX Freestyle): The UCI will appoint the President of the Commissaires’ Panel (or the Head Judge for BMX Freestyle events) for each included discipline of a Regional Games in accordance with the article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. Where possible, the same official may serve across multiple disciplines, in line with Commissaire specialisation. 
@@ -214,5 +197,4 @@ CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES
 
 E0126 
 
-6 
-
+6

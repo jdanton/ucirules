@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1KTLUdyYs5GpBYK6N17Arr/078
 source_sha256: 651bbff9f9ad6ccef0d7fe6335e477361491f751ee6573edb9d9bba974135267
 converter: pymupdf4llm
 ---
-
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -43,9 +40,7 @@ At the UCI World Championships, ~~(as from 2024) and~~ UCI World Cup and Contine
 
 For other events no separate results must be submitted for the under 23 or elite categories. 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0002-00.png)
-
 
 ## **Cross-country eliminator – XCE** 
 
@@ -71,7 +66,7 @@ _(text modified on 01.07.12; 01.10.13; 04.04.14; 01.01.17; 01.01.25; 01.01.26)_
 
 - **4.1.011** International mountain bike races are registered on the UCI international calendar in accordance with the following classification: 
 
-   - A. Olympic Games (OG) : 
+   - A. Olympic Games (OG): 
 
       - No other international mountain bike event of cross-country (XC) may be organised during the mountain bike competition of the Olympic Games. 
 
@@ -93,9 +88,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0003-00.png)
-
 
    - No hors class, UCI Mountain Bike Continental Series or Class 1 event of the same format may be organised on the same continent on the same day as a Continental Championships. 
 
@@ -113,7 +106,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - No stage race Hors Class may be organised during the mountain bike competition of the Olympic Games, or the UCI World Championships cross-country (XC) or marathon, ~~UCI World Cup events~~ in the concerned continent. 
 
-   - No stage race, in HC or C1, may be organised during the Continental Championships of the same format on the same day(s) ~~as any crosscountry (XC) race~~ , on the concerned continent. 
+   - No stage race, in HC or C1, may be organised during the Continental Championships of the same format on the same day(s) ~~as any crosscountry (XC) race~~, on the concerned continent. 
 
 - H. One day races: 
 
@@ -139,9 +132,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0004-00.png)
-
 
 - event registered for at least the last three years as C1 on the UCI International Calendar; 
 
@@ -183,9 +174,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0005-00.png)
-
 
 ## **Chapter II CROSS-COUNTRY EVENTS** 
 
@@ -223,9 +212,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0006-00.png)
-
 
 In case a pit lane is implemented, the riders are not allowed to use it to gain advantage in the race. Should the riders take the pit lane for no valid reason, the commissaires may disqualify them. 
 
@@ -269,9 +256,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0007-00.png)
-
 
 ## **Chapter III  DOWNHILL EVENTS** 
 
@@ -285,25 +270,19 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||Minimum|Maximum|Minimum|Maximum||
 |Duration<br>of<br>the<br>event|2<br>minutes|5 minutes|1 minute|5 minutes|No<br>restriction|
 
-
-
 _(text modified on 01.01.16; 01.01.25; 01.01.26)_ 
 
 - **4.3.007** The entire downhill course must be marked and protected with safe and visible course markers that present no safety risks to riders. 
 
 In very fast and dangerous sections, where the riders line is close to the course boundary, B zones must be installed as per diagram: 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0007-08.png)
-
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0008-00.png)
-
 
 B zones must be cleaned to avoid any hidden obstacles and to be safe. 
 
@@ -351,9 +330,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0009-00.png)
-
 
 Liaison stages can include either mechanical uplift (e.g. chairlift), pedal powered climbs or a mixture of both. The emphasis of the track must be on rider enjoyment, technical and physical ability. 
 
@@ -381,7 +358,7 @@ _(text modified on 01.01.26)_
 
 ## **§ 3 Equipment** 
 
-- **4.5.004** Riders must wear a full-face helmet at all times during competition. This includes during both Liaison and Special Stages. If a rider dismounts and pushes their bike on a Liaison, they may remove the helmet. Whilst riding, the helmet must always be worn correctly with straps fastened. ~~In very technical terrain or on courses that feature steep mountainsides or very high-speed trails, the organiser can specify in his particular rules that competitors must wear a full-face helmet (either fixed or detachable)~~ . 
+- **4.5.004** Riders must wear a full-face helmet at all times during competition. This includes during both Liaison and Special Stages. If a rider dismounts and pushes their bike on a Liaison, they may remove the helmet. Whilst riding, the helmet must always be worn correctly with straps fastened. ~~In very technical terrain or on courses that feature steep mountainsides or very high-speed trails, the organiser can specify in his particular rules that competitors must wear a full-face helmet (either fixed or detachable)~~. 
 
 In addition to the above, the UCI strongly recommends that riders wear the protections as indicated in art. 4.3.013. 
 
@@ -389,9 +366,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0010-00.png)
-
 
 Furthermore, it is strongly recommended that all riders carry: 
 
@@ -429,9 +404,7 @@ Equipment Marking Stickers must be applied on the rider’s right-hand side of t
 
 - both wheel rims. 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0010-19.png)
-
 
 _(text modified on 01.01.26)_ 
 
@@ -439,9 +412,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0011-00.png)
-
 
 ## **§ 5 Course marking** 
 
@@ -449,15 +420,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 Course markers installed on opposite sides of the course will create a gate, which riders must pass between. Gates can be used to clearly mark sections of the course that a rider must pass through. Missing a gate will be deemed as course cutting. 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0011-04.png)
-
 
 In very fast and dangerous sections, where the riders’ line is close to the course boundary, B zones must be installed as per diagram: 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0011-06.png)
-
 
 _(text modified on 01.01.26)_ 
 
@@ -465,9 +432,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0012-00.png)
-
 
 **4.5.007** Extra care must be taken by the organiser to make sure that the course is clearly marked and no shortcuts are possible. 
 
@@ -505,9 +470,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0013-00.png)
-
 
 Any rider found to be riding upwards against the direction of travel will be penalised. Riders may push up outside of the course marking. 
 
@@ -551,9 +514,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0014-00.png)
-
 
 Example. If there is a 10-minute course hold on Special Stage 1, 10 minutes must be added to the start times of all remaining Special Stages, for all riders effected by the hold, for the remainder of the race. 
 
@@ -595,9 +556,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0015-00.png)
-
 
 ## **§ 7 Results** 
 
@@ -637,9 +596,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0016-00.png)
-
 
 ## **Chapter VII SNOW BIKE** 
 
@@ -660,21 +617,15 @@ _(text modified on 01.01.26)_
 |XCO - men elite (aged 23 and over)<br>XCO - women elite (aged 23 and<br>over)|1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.|UCI MTB WORLD SERIES TEAM, maximum 4 riders<br>per race and category<br>Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>the event<br>Any rider ranked in the top 100 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>The national federations may enter a maximum of 3<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top~~five~~threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br>~~current ~~UCI MTB World Cupwithin 52 weeks of the<br>qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Elite~~(from 2026)~~<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23 (if progressing into Elite category)~~(from~~<br>~~2026)~~<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Current Olympic Champion, UCI World Champion,<br>Continental Champions, National Champions|
 |XCO - men under 23 (aged from 19 to<br>22)|1.|UCI MTB WORLD SERIES, maximum 4 riders per<br>race and category|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0017-00.png)
-
 
 |XCO - women under 23 (aged from 19<br>to 22)||2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.|Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>to the event<br>Any rider ranked in the top 200 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top~~five~~threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br>~~current ~~UCI MTB World Cupwithin 52 weeks of the<br>qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23 ~~(from 2026)~~<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Junior (if progressing into U23 category)~~(from~~<br>~~2026)~~<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>UCI World Champion, Continental Champions,<br>National Champions|
 |---|---|---|---|
 |XCC – men elite (aged 23 and over)<br>XCC – women elite (aged 23 and<br>over)<br>XCC – men under 23 (aged from 19 to<br>22)<br>XCC – women under 23 (aged from<br>19 to 22)||~~A maximum of 40R~~iders~~per gender~~already registered<br>and confirmed for the XCO event taking place during the<br>same weekend shall be allowed to start in the XCC event.<br>The riders shall be selected as per article 4.10.003, points<br>1 and 2,to reach a total number of 40 riders per gender.<br>On top of those 40 riders, wild cards can be awarded as<br>per article 4.10.003, point 3.No online registration is<br>required for the XCC event.<br>The same bike must be used for XCC and XCO. For XCC,<br>the minimum tyre width must be 45mm.||
-
-
 
 ## **Registration** 
 
@@ -686,9 +637,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0018-00.png)
-
 
 ## **Wildcard** 
 
@@ -752,9 +701,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0019-00.png)
-
 
 The place 33rd to 40th will be allocated following the rank of each rider, whatever the ranking: UCI cyclo-cross or UCI road world ranking. If two or three riders have the same ranking, they will be placed by drawing lots. 
 
@@ -810,9 +757,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0020-00.png)
-
 
 _(text modified on 01.01.25; 01.01.26)_ 
 
@@ -854,23 +799,17 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0021-00.png)
-
 
 |DHI - men elite (aged 19 and over)<br>DHI - women elite (aged 19 and over)|1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior to the event<br>Any rider ranked in the top 50 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>The national federations may enter a maximum of 3<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>Top~~five~~threeriders of any round of aUCI<br>Mountain BikeContinental Series, limited to 1<br>round of the~~current ~~UCI MTB World Cupwithin 52<br>weeks of the qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Elite~~(from 2026)~~<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Junior (if progressing into Elite<br>category) ~~(from 2026)~~<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Current UCI World Champion, Continental<br>Champions, National Champions|
 |---|---|---|
 |DHI - men junior (aged 17 and 18)<br>DHI – women junior (aged 17 and 18)|1.<br>2.<br>3.<br>4.<br>5.<br>6.|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior the event<br>Any rider ranked in the top 100 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior the event)<br>The national federations may enter a maximum of 4<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>Top ~~five~~threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br>~~current ~~UCI MTB World Cupwithin 52 weeks of the<br>qualification<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Junior~~(from 2026)~~|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0022-00.png)
-
 
 _Not applicable for riders member of a UCI MTB WORLD SERIES TEAM_ 7. Top five riders from the final standings of any of the UCI Mountain Bike Continental Series of the previous year, Cadet (if progressing into Junior category) ~~(from 2026)~~ _Not applicable for riders member of a UCI MTB WORLD SERIES TEAM_ 8. Current UCI World Champion, Continental Champions, National Champions 
 
@@ -882,7 +821,7 @@ Riders registration can be done only by a UCI MTB WORLD SERIES TEAM, a UCI MTB T
 
 Criteria to award the maximum 8 UCI MTB TEAM wildcards (as per point 2 of the participation criteria) per event will be based on the: 
 
-- UCI team ranking, current and previous season ; 
+- UCI team ranking, current and previous season; 
 
 - profile of any individual riders; 
 
@@ -924,9 +863,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0023-00.png)
-
 
 1. reverse order of qualifying round 1 results; 
 
@@ -938,7 +875,7 @@ The start order for the qualifying rounds is determined as follows: Men Junior, 
 
 2. as per the most recently published UCI World Cup standings; 
 
-3. as per the most recently published UCI DHI individual ranking ~~, starting in reverse order~~ . 
+3. as per the most recently published UCI DHI individual ranking ~~, starting in reverse order~~. 
 
 4. unclassified riders: by drawing lots. 
 
@@ -978,9 +915,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0024-00.png)
-
 
 Bicycles cannot be taken onto the podium. However, an area is provided in front of the podium to display the bicycle of the winner during the official ceremony. 
 
@@ -1016,9 +951,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0025-00.png)
-
 
 ## **Chapter XII UCI MOUNTAIN BIKE MARATHON WORLD CUP** 
 
@@ -1026,7 +959,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - **4.12.005** The age category for the UCI Marathon World Cup is 19 years or over. Holders of elite licences may participate. 
 
-There are no separate races or results for under 23 ~~or masters categories~~ . 
+There are no separate races or results for under 23 ~~or masters categories~~. 
 
 Masters categories shall be listed in a separate results. 
 
@@ -1066,15 +999,11 @@ _(text modified on 01.01.25; 01.01.26)_
 |---|---|
 |EDR - men elite (aged 19 and over)<br>EDR - women elite (aged 19 and over)|1. UCI MTB WORLD SERIES TEAM<br>2. UCI MTB TEAM<br>3. Any rider ranked in the top 300 (men) or top 75<br>(women) of the Enduro Global ranking on<br>31.12.2025|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0026-00.png)
-
 
 4. Any rider ranked in the top 50 (men) or top 50 (women) of the last UCI EDR individual ranking before the event entry closing date (one month prior to the event) 
 
@@ -1118,9 +1047,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0027-00.png)
-
 
 Riders with injury status shall be integrated in the start order in accordance with article 4.13.012. 
 
@@ -1172,9 +1099,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0028-00.png)
-
 
 ## **UCI World Cup standings** 
 
@@ -1208,15 +1133,11 @@ _(article introduced on 01.01.26)_
 |4|160|150|
 |5|140|120|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0029-00.png)
-
 
 |6|125|90|
 |---|---|---|
@@ -1262,15 +1183,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |46|||
 |47|||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0030-00.png)
-
 
 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
@@ -1300,8 +1217,6 @@ B.
 |18|8||
 |19|7||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
@@ -1310,9 +1225,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 C. Team standing 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0031-02.png)
-
 
 |**Position**|**Men**<br>**Elite**<br>**points**|**Women**<br>**Elite**<br>**points**|**Men**<br>**Junior**<br>**points**|**Women**<br>**Junior**<br>**points**|
 |---|---|---|---|---|
@@ -1347,17 +1260,13 @@ C. Team standing
 |29|2||||
 |30|1||||
 
-
-
 _(article introduced on 01.01.26)_ 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0032-00.png)
-
 
 ## **Injury status** 
 
@@ -1399,9 +1308,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0033-00.png)
-
 
 The first three riders in the race and the leader of the general classification of the UCI World Cup must attend the podium. 
 
@@ -1453,9 +1360,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0034-00.png)
-
 
 A UCI gravity team ranking is calculated using by adding the point of the 4 highest scored points of each team without making a distinction between men elite, men junior, women elite and women junior. Only the results of the finals are taken into account. 
 
@@ -1503,11 +1408,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0035-00.png)
 
-
-require the production of documents to verify the nature of such link. UCI MTB WORLD SERIES TEAMS can select one rider per UCI World Cup event from their development team to compete ~~at a UCI World Cup~~ , within the maximum of 4 riders per race per category. 
+require the production of documents to verify the nature of such link. UCI MTB WORLD SERIES TEAMS can select one rider per UCI World Cup event from their development team to compete ~~at a UCI World Cup~~, within the maximum of 4 riders per race per category. 
 
 ## **Guest rider** 
 
@@ -1519,9 +1422,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0036-00.png)
-
 
 ## **Chapter XX MTB RACE INCIDENTS TABLE** 
 
@@ -1539,11 +1440,7 @@ Except if stated differently, the amounts mentioned in the table below are in Sw
 |1.2.<br>Use of a bicycle that does not comply<br>with<br>the regulations in a race|Disqualification (DSQ)|Disqualification (DSQ)|
 |1.3.<br>Use or presence of a bicycle that does<br>not<br>comply with article 1.3.010 (cf. art.<br>12.4.003)|Rider: disqualification (DSQ)|Rider: disqualification (DSQ)|
 
-
-
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0037-00.png)
-
 
 |2.<br>Clothing, helmet and accessories||||||
 |---|---|---|---|---|---|
@@ -1558,17 +1455,13 @@ Except if stated differently, the amounts mentioned in the table below are in Sw
 |ONE-DAY RACE|||Rider:~~50 ~~100fine||Rider:~~30 ~~50fine|
 |STAGE RACE|||1stoffence:~~50 ~~100fine<br>2ndoffence: 200 fine<br>3rdoffence: elimination||1stoffence:~~30 ~~50fine<br>2ndoffence:~~50 ~~100fine<br>3rdoffence: elimination|
 
-
-
 Page **37** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0038-00.png)
-
 
 |4.<br>Deliberate deviation from the race<br>route,  attempting to be placed without<br>having  covered the entire race route by<br>bicycle|Rider: 200 fine and elimination|Rider: 100 fine and elimination|
 |---|---|---|
@@ -1582,17 +1475,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |ONE-DAY RACE|Disqualification (DSQ) and 100 fine licence holder|Disqualification (DSQ) and 50 fine licence holder|
 |STAGE RACE||1’ penalisation in the stage results rider|
 
-
-
 Page **38** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0039-00.png)
-
 
 |8.2<br>Licence<br>holder<br>running<br>in<br>the<br>Feed/Technical Assistance Zone|||
 |---|---|---|
@@ -1605,17 +1494,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |10.<br>Rider failing to respect the rules for<br>the start|100 fine|50 fine|
 |11.<br>Use of a means of communication|Start refused or disqualification (DSQ) (if find during<br>the race)|Start refused or disqualification (DSQ) (if find during<br>the race)|
 
-
-
 Page **39** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0040-00.png)
-
 
 |12.<br>Delayed or lapped rider continuing the<br>race  in breach of the regulations|Disqualification (DSQ)|Disqualification (DSQ)|
 |---|---|---|
@@ -1629,17 +1514,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |STAGE RACE||1stoffence Relegation REL and 30” penalisation in<br>the stage results.<br>2ndoffence Disqualification (DSQ)|
 |19.<br>Training outside training time during<br>the<br>event and when course stated as<br>“closed”onthe event schedule|||
 
-
-
 Page **40** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0041-00.png)
-
 
 |ONE-DAY RACE|1stoffence:~~50 ~~100fine<br>2ndoffence: Start refused|1stoffence: 50 fine<br>2ndoffence:  Start refused|
 |---|---|---|
@@ -1655,17 +1536,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |24.<br>Insult,<br>threats,<br>inappropriate<br>behaviour|Any licence holder~~50 ~~100to 200 fine|Any licence holder 50 to 200 fine|
 |25.<br>Act of violence<br>25.1<br>Amongriders|||
 
-
-
 Page **41** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0042-00.png)
-
 
 |ONE-DAY RACE||200 fine||100 fine|
 |---|---|---|---|---|
@@ -1676,22 +1553,16 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |26.<br>SPECIFIC ON DOWNHILL EVENTS<br>26.1<br>Rider no completing at least 2<br>training  runs<br>26.2<br>Start training run below the start<br>line<br>26.3<br>Rider no wearing protections<br>imposed  by the national federation||Disqualification (DSQ)<br>Disqualification (DSQ)<br>Start refused||Disqualification (DSQ)<br>Disqualification (DSQ)<br>Start refused|
 |27.<br>SPECIFIC ON ENDURO EVENTS<br>~~27.1~~<br>~~Rider without bike mark at the~~<br>~~finish~~<br>~~27.2~~<br>~~Deliberate obstruction of the~~<br>~~fastest rider~~<br>27.3<br>Feeding outside the feed/technical<br>assistance Zone<br>27.4<br>Changing any marked bicycle<br>component<br>during<br>a<br>race<br>without<br>permission from the race control.||~~Not applicable~~<br>Disqualification (DSQ)<br>With permission from race control: 3 minutes<br>penalty||~~1~~’~~penalization~~<br>~~1~~’~~penalisation~~|
 
-
-
 Page **42** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0043-00.png)
-
 
 ||27.5<br>Rider leaving the marked race<br>route to access feed and technical<br>assistance zone.<br>27.6<br>Riding on special stages after the<br>official course release and outside of<br>official training<br>27.7<br>Riding or pushing the bike on a<br>special stage against the direction of race<br>travel within the racecourse markings (race<br>or training)<br>27.8<br>Not following the official marked<br>route of a liaison between stages<br>27.9<br>Failure to follow / stay within the<br>marked and/or defined route of a special<br>stage (shortcutting)<br>27.10<br>Damaging or altering the course<br>marking<br>27.11<br>Arriving late for at start or any<br>special stage allocated start time<br>27.12<br>Unauthorised private shuttling of<br>athletes|Without permission from race control:<br>Disqualification (DSQ)<br>With permission from race control: 3 minutes<br>penalty<br>Without permission from race control:<br>Disqualification (DSQ)<br>1stoffence 5 minutes penalty<br>2ndoffence disqualification (DSQ)<br>Disqualification (DSQ)<br>1stoffence 5 minutes penalty<br>2ndoffence 5 minutes penalty<br>Accidental advantage gained 1 to 5 minutes penalty<br>Intentional disqualification (DSQ)<br>Disqualification (DSQ)<br>Up to 5 minutes late 1 minute penalty<br>5-30 minutes late 5 minutes penalty<br>Over 30 minutes late Did Not Finish (DNF)<br>Training<br>Riderdisqualification(DSQ)||
 |---|---|---|---|
-
-
 
 Page **43** / **50** 
 
@@ -1699,9 +1570,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0044-00.png)
-
 
 ||Team 250 fine<br>Race<br>5 minutes penalty<br>Team 250 fine||
 |---|---|---|
@@ -1709,17 +1578,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |29.<br>LITTERING<br>29.1<br>Rider or team disposing of waste<br>or other objects outside of feed and<br>technical assistance areas or organised<br>littering zone.<br>29.2<br>Disposing of waste or other<br>objects in a careless or dangerous manner.|<br>1stoffence 250 fine<br>2ndoffence 500 fine and disqualification (DSQ)|1stoffence 100 fine<br>2ndoffence 200 fine and disqualification (DSQ)|
 |_(text modified on 01.01.00; 01.01.02; 01.01.03; 05.05.03; 01.01.04; 01.01.05; 01.01.06; 01.01.07; 01.01.09; 01.07.10; 01.10.10; 01.07.11;_<br>_01.10.11; 01.10.13; 07.03.14; 16.06.14; 01.01.15; 01.07.15; 01.01.16; 01.01.17; 01.07.17; 01.01.19; 01.01.20; 10.06.21; 01.01.23; 01.01.25;_<br>_01.01.26) _|||
 
-
-
 Page **44** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0045-00.png)
-
 
 ## **ANNEX 2 - UCI MTB XCO points** 
 
@@ -1791,11 +1656,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||**nombre de points pour chaque coureur classé /** _amount ofpoints for each ranked rider_|||||||||||||
 ||***les points ne sont pas nominatifs aux coureurs mais à la Nation /_thepoints are not n_|||||||||_ominatif to the riders but to the Nation_||||
 
-
-
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0046-00.png)
-
 
 ||**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|<br>**Hors Classe /**<br>**Continental Series**|<br>**Hors Classe /**<br>**Continental Series**|**Classe 1**|**Classe 1**|**Classe 2 / COUPE du**<br>**MONDE XCE /**<br>XCE WORLD CUP/<br>Jeux régionaux /<br>Regional Games|**Classe 3  /**<br>~~**Jeux**~~<br>~~**réionaux /**~~|**XCO**<br>**JUNIOR**<br>**SERIE**|**XCO**<br>**Junior  /**<br>**Continent**<br>**al Series**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1866,15 +1727,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||**nombre de points pour chaque coureur classé /|||||** _amount ofpoints for each ranked rider_||||||
 ||***les points ne sont pas nominatifs aux coureurs|||||mais à la Nation /_thepoints are not nominat_|||_if to the riders_|_but to the_|_Nation_|
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0047-00.png)
-
 
 ## **ANNEX 2a - UCI MTB XCC Points** 
 
@@ -1923,15 +1780,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**_40_**|2|1|||||||
 |**_41_**|x|X|||||||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0048-00.png)
-
 
 ## **ANNEX 3 - UCI MTB DHI points** 
 
@@ -2002,15 +1855,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||||||||||||
 ||** For the final round,no world cup points will be awared for thequa|||lifyinground,those world cup points will begiven to the final instead.||||||||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0049-00.png)
-
 
 ||**CHAMP. CONT.**<br>_CONT. CHAMP._|**CHAMP. CONT.**<br>_CONT. CHAMP._|**CHAMP. NAT.**<br>_NAT. CHAMP._|**CHAMP. NAT.**<br>_NAT. CHAMP._|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|
 |---|---|---|---|---|---|---|---|---|---|
@@ -2080,15 +1929,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||||||||||
 ||** For the final round,no world cup points will be awared for thequalifyinground,||||those world cup points will begiven to the final instead.|||||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0050-00.png)
-
 
 ## **ANNEX 3a - UCI MTB EDR points** 
 
@@ -2158,9 +2003,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**_60_**|15|||||||||
 |**_61_**|5*|||||||||
 
-
-
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

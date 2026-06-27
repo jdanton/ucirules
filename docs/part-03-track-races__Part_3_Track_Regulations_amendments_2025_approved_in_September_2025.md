@@ -4,12 +4,9 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2TbzcEo3uXo2pQpbyTSNhF/223
 source_sha256: f96e107a35df6089ec0391e92c2765e93194101f2b540419d8e6b00bde5a3dc1
 converter: pymupdf4llm
 ---
-
 06.10.2025 
 
-
 ![](images/Part_3_Track_Regulations_amendments_2025_approved_in_September_2025.pdf-0001-01.png)
-
 
 ## MEMORANDUM 
 
@@ -35,5 +32,4 @@ Page **1** / **1**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

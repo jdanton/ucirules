@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/74mXMQQSD1VJOU3Hm0RMgh/e4a
 source_sha256: 39e4452c890afb9adbc60e51cfa1989d6386b984a0e753afcd05813bc5654f03
 converter: pymupdf4llm
 ---
-
-
 ![](images/2026_UCI_BFR_Rules_-_Part_VIbis_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -55,12 +52,10 @@ The combination of phases and heats (if applicable) for a category depends on th
 
 |Number of entries|Competition<br>phases|Qualification rule|Number of heats|
 |---|---|---|---|
-|5 - 8 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 4 in qualification<br>advance to final|Qualification<br>as<br>below :<br>1 heat of 4 in final|
-|9 - 15 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 8 in qualification<br>advance to final|Qualification<br>as<br>below :<br>2 heats of 4 in final|
-|16 - 31 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 12 in qualification<br>advance to final|Qualification<br>as<br>below :<br>2 heats of 6 in final|
-|More than 31 entries|3 phases:<br>Qualification x 1<br>Semi-final x 1<br>Final x 1|Top 24 in qualification<br>advance to semi-final<br>Top 12 in semi-final<br>advance to final|Qualification<br>as<br>below :<br>4 heats of 6 in<br>semi-final<br>2 heats of 6 in final|
-
-
+|5 - 8 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 4 in qualification<br>advance to final|Qualification<br>as<br>below:<br>1 heat of 4 in final|
+|9 - 15 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 8 in qualification<br>advance to final|Qualification<br>as<br>below:<br>2 heats of 4 in final|
+|16 - 31 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 12 in qualification<br>advance to final|Qualification<br>as<br>below:<br>2 heats of 6 in final|
+|More than 31 entries|3 phases:<br>Qualification x 1<br>Semi-final x 1<br>Final x 1|Top 24 in qualification<br>advance to semi-final<br>Top 12 in semi-final<br>advance to final|Qualification<br>as<br>below:<br>4 heats of 6 in<br>semi-final<br>2 heats of 6 in final|
 
 **Number of heats:** The number of heats in each round is found in the table above. For the ~~qualification~~ qualifying phase, the number of heats should be chosen such that as many heats as possible have 4-6 riders. 
 
@@ -81,8 +76,6 @@ Whenever it is not possible for all heats to have 6 riders, a number of heats wi
 ||9 – 15 entries||2 phases:<br>Qualification x 1<br>Final x 1||Top 8 in qualification<br>advance to final|
 ||~~16 - 21 entries~~<br>More than 16 entries||~~3 ~~2phases:<br>Qualification x 1<br>~~Semi-final x 1~~<br>Final x 1||~~Top 12 in qualification~~<br>~~advance to semi-final~~<br>Top~~8~~12ins~~emi-final~~<br>qualificationadvance to<br>Final|
 ||~~More than 21 entries~~||~~3 phases:~~<br>~~Qualification x 1~~<br>~~Semi-final x 1~~<br>~~Final x 1~~||~~Top 16 in qualification~~<br>~~advance to semi-final~~<br>~~Top~~<br>~~8~~<br>~~in~~<br>~~semi-final~~<br>~~advance to final~~|
-
-
 
 ## _(text modified on 01.02.18; 02.02.19; 11.02.20; 08.02.21; 01.01.26)_ 
 
@@ -236,8 +229,6 @@ _(text modified on 01.01.25; 01.01.26)_
 |20||180|110|40||||
 |21||150|90|30||||
 
-
-
 Page **6** / **7** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -275,13 +266,10 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |49||4|2|||||
 |50||2|1|||||
 
-
-
 _(annex modified on 01.01.22; 01.01.25; 01.01.26)_ 
 
 Page **7** / **7** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

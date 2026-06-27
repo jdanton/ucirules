@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1FTq2wssjEzoMO93vJyF9D/816
 source_sha256: dc0f6794fef7aa33ec126149ae6267955cbb97998015f626188337feac27c43d
 converter: pymupdf4llm
 ---
-
-
 ![](images/2026_UCI_Gran_Fondo_World_Championships_-_Qualification_System_ENG.pdf-0001-00.png)
-
 
 ## **QUALIFICATION SYSTEM FOR THE 2026 UCI GRAN FONDO WORLD CHAMPIONSHIPS (NISEKO, JAPAN)** 
 
@@ -71,7 +68,7 @@ As per article 15.5.004 of the UCI Regulations, the age categories of the UCI Gr
 
 - Etc. 
 
-Age groups are defined by riders’ age on 31 December of the year of the UCI Gran Fondo World Championships[3] . The minimum age to participate in the UCI Gran Fondo World Championships is 19 years. Therefore, only riders born on or before 31 December 2007 can qualify for the 2026 edition. However, for qualifying events held in October to December 2025 (i.e., after the 2025 UCI Gran Fondo World Championships), riders who are 18 at the time of qualification are also eligible as they will turn 19 in the year of the World Championships they are qualifying for. 
+Age groups are defined by riders’ age on 31 December of the year of the UCI Gran Fondo World Championships[3]. The minimum age to participate in the UCI Gran Fondo World Championships is 19 years. Therefore, only riders born on or before 31 December 2007 can qualify for the 2026 edition. However, for qualifying events held in October to December 2025 (i.e., after the 2025 UCI Gran Fondo World Championships), riders who are 18 at the time of qualification are also eligible as they will turn 19 in the year of the World Championships they are qualifying for. 
 
 At the UCI Gran Fondo World Championships, medals and titles will be awarded for men and/or women as soon as 1 rider is registered in the respective 5-year age category. 
 
@@ -123,5 +120,4 @@ Page **3** / **3**
 
 Allée Ferdi Kübler 12 1860 Aigle Suisse 
 
-T: +41 24 468 58 11 F: +41 24 468 58 12 E: massevents@uci.ch 
-
+T: +41 24 468 58 11 F: +41 24 468 58 12 E: massevents@uci.ch

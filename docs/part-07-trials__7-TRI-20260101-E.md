@@ -4,53 +4,17 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5KcRdcFsb78lXudaKO5fq4/2f0
 source_sha256: c499bf26b79561af6a7a4f339ab41e577a2cd5a6ad3304585c212dd6cdc56ecf
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 7 TRIALS** 
 
 **Version on 01.01.2026** 
 
 ## **TABLE DES MATIÈRES** 
 
-|**Chapter I GENERAL RULES ......................................................................................... 2**|**Chapter I GENERAL RULES ......................................................................................... 2**|
-|---|---|
-|§ 1|Age categories and participation......................................................................... 2|
-|§2|Calendar............................................................................................................... 2|
-|§3|Technical Delegate............................................................................................... 4|
-|§4|Competition......................................................................................................... 4|
-|§5|Sections................................................................................................................ 5|
-|§6|Competition area.................................................................................................. 7|
-|§7|Starting and riding regulations............................................................................. 8|
-|§8|Duration of the competition................................................................................. 9|
-|§9|Repairs................................................................................................................. 9|
-|§10|Classifications and results................................................................................... 9|
-|§11|Competition facilities.........................................................................................10|
-|§12|Officials and staff...............................................................................................11|
-|§13|Clothing and safety equipment..........................................................................13|
-|§14|Bicycle...............................................................................................................14|
-|§15|Starting numbers...............................................................................................15|
-|§16|Infringements, penalties, deduction of points and protest..................................17|
-|Part|1: Infringements...................................................................................................17|
-|Part|2: Penalties...........................................................................................................17|
-|Part|3: Deduction of points and disqualification...........................................................19|
-|Part|4: Protests............................................................................................................21|
-|§17|Riding system....................................................................................................21|
-|**Chapter II INTERNATIONAL EVENTS ........................................................................23**||
-|**Chapter III UCI TRIALS WORLD CUP .........................................................................25**||
-|**Chapter IV UCI TRIALS WORLD YOUTH GAMES ......................................................30**||
-|**Chapter V UCI TRIALS MIXED TEAM COMPETITION ................................................32**||
-|**Chapter VI UCI TRIALS RANKING .............................................................................36**||
-
-
-
 E0126 
 
 1 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 7 TRIALS** 
 
@@ -88,8 +52,6 @@ _(text modified on 01.02.11; 01.02.12; 15.10.18)_
 |−|Men Elite|19 years old and over|yellow course|26”|
 |−|Women Elite|19 years old and over|pink course|Open|
 
-
-
 _(text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18; 01.01.21; 01.01.25)_ 
 
 ## **§2 Calendar** 
@@ -98,7 +60,7 @@ _(text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18; 01.01.21; 01.01.25)_
 
 - **7.1.003** The calendar season starts on January 1 and continues until December 31 of the same year. International Trials events are registered on the international calendar in accordance with the following classification: 
 
-   - A. UCI Trials World Championships (CM) ; 
+   - A. UCI Trials World Championships (CM); 
 
       - No other Trials event (CDM, CC, CN, HC, C1, JMJ) may be organised on the weekend prior to or on the same dates as the UCI Trials World Championships. 
 
@@ -109,8 +71,6 @@ E0126
 2 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
    - No other Trials event (CM, CC, CN, HC, C1, JMJ) may be organised on the same dates as the UCI Trials World Cup. 
 
@@ -158,11 +118,9 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§3 Technical Delegate** 
 
-- **7.1.006** The Technical Delegate shall : 
+- **7.1.006** The Technical Delegate shall: 
 
    1. supervise the technical aspects of the events; 
 
@@ -210,8 +168,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 The rider with the highest total of points scored shall be declared the winner in his/her category. 
 
 _(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_ 
@@ -255,8 +211,6 @@ E0126
 5 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 can also be plastic course tape, rope or white lines on the ground inside the section to indicate different lines of difficulty or closing some obstacles adding extra difficulty. 
 
@@ -302,8 +256,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 _(text modified on 01.02.12; 18.03.15)_ 
 
 **7.1.025** In choosing sections, it is recommended not to exceed the following maximum drop-off heights: 
@@ -339,8 +291,6 @@ E0126
 7 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 - **7.1.027** A section chart shall be displayed to permit the riders and teams to acknowledge in which phase of the competition the sections will be used. 
 
@@ -387,8 +337,6 @@ E0126
 8 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 - **7.1.038** Sections shall be marked with numbered arrows of the colour corresponding with the category of the competition and shall be ridden in accordance with this marking. 
 
@@ -440,8 +388,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 2. Highest number of sections with fifty points, with forty points, etc; 
 
 3. Best result in the ½ Finals; 
@@ -491,8 +437,6 @@ E0126
 10 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 Within the technical area the organiser must provide an area using containers and tents or a lorry intended for this purpose. 
 
@@ -553,8 +497,6 @@ E0126
 11 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 The Commissaires’ Panel is the highest authority at any competition and has the right to impose a penalty on any rider, minders, parent, spectator or team manager in the interests of safety or for violation of these rules, as described in §16 of the present rule book and in Part 1 of the UCI Regulations. 
 
@@ -626,8 +568,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Additional personnel** 
 
 - **7.1.060** Additional personnel that are necessary to ensure a smooth organization of the Trials events are to be provided by the organiser and shall include, among others the following: 
@@ -683,8 +623,6 @@ E0126
 13 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 _(text modified on 15.10.18)_ 
 
@@ -748,8 +686,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - All components, accessories and other parts must be firmly attached to the bicycle. 
 
 ## **Wheels and tires** 
@@ -798,8 +734,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - **7.1.079** Starting numbers shall be allocated sequentially starting from the first event. The number one plate shall be reserved for the current world champions and the order of the following riders shall be based on the latest UCI Trials ranking. 
 
 _(text modified on 01.01.23)_ 
@@ -809,8 +743,6 @@ E0126
 16 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§16 Infringements, penalties, deduction of points and protest** 
 
@@ -862,8 +794,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - **7.1.084** Resting a pedal and/or the lower chain guard on the ground or on the obstacle (1 penalty point). 
 
 _(text modified on 18.03.15)_ 
@@ -909,8 +839,6 @@ E0126
 18 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 - **7.1.092** Fall, i.e. parts of the body above the hips in contact with the ground or sit on the ground or on an obstacle (5 penalty points). 
 
@@ -970,8 +898,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - **7.1.101** Leaving or shortcutting the circuit (disqualification). 
 
 - **7.1.102** Abandoning the competition (disqualification). 
@@ -1026,8 +952,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - **7.1.114** The UCI may by its sole discretion and for cause suspend for any period of time, or permanently revoke, the licence entitling a rider to compete in a Trials event. The following offences will result in suspension: 
 
    - A. competing under a false name; 
@@ -1074,8 +998,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 The rider can only score five penalty points in the whole section. If a rider has got five penalty points before finishing the whole section, he/she has to leave the section, but he/she keeps the previous score gained. 
 
 _(article introduced on 27.01.17; text modified on 15.10.18; 01.01.23)_ 
@@ -1085,8 +1007,6 @@ E0126
 22 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II INTERNATIONAL EVENTS** 
 
@@ -1140,8 +1060,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Competition format** 
 
 - **7.2.007** The riders eligible to compete in the Final round shall be as follow: 
@@ -1165,8 +1083,6 @@ E0126
 24 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III UCI TRIALS WORLD CUP** 
 
@@ -1211,8 +1127,6 @@ E0126
 25 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
    - Men Elite 26: made by Men Elite 26 + Men Junior 26 + second year of Boys U16. 
 
@@ -1264,8 +1178,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 ## Men Elite 20 and 26 ½ Finals 
 
 The number of riders qualified in the ½ Finals including the top ten is always 25. 
@@ -1308,8 +1220,6 @@ _(text modified on 01.02.11; 01.02.12; 01.10.13; 18.03.15; 27.01.17; 15.10.18; 0
 |½ Finals|5|2|
 |Final|5|1|
 
-
-
 _(text modified on 01.02.11; 01.02.12; 18.03.15)_ 
 
 ## **Recognition and awards** 
@@ -1321,8 +1231,6 @@ E0126
 27 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 This title shall remain the property of the UCI and may not be used in conjunction with any product endorsement or for any other commercial purpose without UCI’s prior express consent. 
 
@@ -1370,8 +1278,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - the leaders of the Men Elite 20, Men Elite 26 and Women Elite UCI Trials World Cup standings after the competition in question. 
 
 Bicycles cannot be taken onto the podium. However, an area can be provided by the organiser in front of the podium to display the bicycle of the winner during the official ceremony. 
@@ -1383,8 +1289,6 @@ E0126
 29 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter IV UCI TRIALS WORLD YOUTH GAMES** 
 
@@ -1434,8 +1338,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - **7.4.007** Categories depend on age as stated in article 7.1.002 of the present rule book. 
 
 ## **Competition format** 
@@ -1455,8 +1357,6 @@ The number of sections and laps are as indicated below:
 |Direct Final|5|3|
 |½ Finals|5|2|
 |Final|5|2|
-
-
 
 _(text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18)_ 
 
@@ -1489,8 +1389,6 @@ E0126
 31 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter V UCI TRIALS MIXED TEAM COMPETITION** 
 
@@ -1539,8 +1437,6 @@ E0126
 32 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 The start order of the riders in each mixed team is determined by each team manager. 
 
@@ -1596,8 +1492,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 A rider starts the section with zero penalty points and zero points. A rider can choose the level (gates) he wants to ride in each part of the section or skip some of them. 
 
 The level gates chosen in each part can only be passed once. 
@@ -1648,8 +1542,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 All members of the first three mixed teams must attend the official ceremony. 
 
 ## UCI World Youth Games 
@@ -1663,8 +1555,6 @@ E0126
 35 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI UCI TRIALS RANKING** 
 
@@ -1692,7 +1582,7 @@ _(text modified on 18.03.15)_
 
 - **7.6.004** Riders who are tied in the individual ranking shall have their positions decided by their ranking in the most recent event of the season, in the following order: 
 
-   1. UCI Trials World Championships ; 
+   1. UCI Trials World Championships; 
 
    2. UCI Trials World Cup events; 
 
@@ -1718,8 +1608,6 @@ E0126
 
 TRIALS 
 
-**UCI CYCLING REGULATIONS** 
-
 - **bis** weekend of June. However, it is possible to run them together with the national mountain bike championships. 
 
 The UCI may grant dispensations for the southern hemisphere or in cases of force majeure. 
@@ -1735,8 +1623,6 @@ E0126
 37 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 ||**_UCI TRIALS WORLD_**<br>**_CHAMPIONSHIPS_**<br>**_(CM)_**|**_UCI TRIALS WORLD_**<br>**_CHAMPIONSHIPS_**<br>**_(CM)_**|**UCI**<br>**TRIALS**<br>**WORLD**<br>**CUP**<br>**(CDM)**|**CONTINENTAL**<br>**CHAMPIONSHIPS**<br>**(CC)**|**CONTINENTAL**<br>**CHAMPIONSHIPS**<br>**(CC)**|**NATIONAL**<br>**CHAMPIONSHIPS**<br>**(CN)**|**NATIONAL**<br>**CHAMPIONSHIPS**<br>**(CN)**|**INTERNATIONAL EVENTS**|**INTERNATIONAL EVENTS**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -1798,15 +1684,11 @@ TRIALS
 |_54_|48|22|24|||||||
 |_55_|47|21|23|||||||
 
-
-
 E0126 
 
 38 
 
 TRIALS 
-
-**UCI CYCLING REGULATIONS** 
 
 |_56_|46|20|22|||||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -1816,8 +1698,6 @@ TRIALS
 |_60_|42|16|18|||||||
 |_61_|10*|10*|10*|||||||
 
-
-
 *Amount of points for each ranked rider 
 
 _(text modified on 01.02.12; 01.10.13; 18.03.15; 27.01.17; 01.01.21; 01.01.25)_ 
@@ -1826,5 +1706,4 @@ E0126
 
 39 
 
-TRIALS 
-
+TRIALS

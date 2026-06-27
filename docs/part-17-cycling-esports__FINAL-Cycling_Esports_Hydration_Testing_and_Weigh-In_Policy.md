@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7EF2IRerppYiZ26ghcnu20/867
 source_sha256: 727782f9a4430403af07cc8fc13ea0fbc1ad8ddb22d478cbc05b3c0915efcdf3
 converter: pymupdf4llm
 ---
-
-
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0001-00.png)
-
 
 ## **Hydration Testing and Weigh-In Policy** 
 
@@ -31,9 +28,7 @@ Page **1** / **6**
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0002-00.png)
-
 
 **Rationale:** The goal of this policy is to eliminate the incentive for riders to engage in rapid weight-cutting and is designed to remove any competitive advantage from dangerous shortterm weight loss through dehydration, thereby protecting athlete health and promoting fair competition. 
 
@@ -65,9 +60,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0003-00.png)
-
 
 measurement on the same sample to double-check accuracy using the same or another refractometer. 
 
@@ -93,7 +86,7 @@ Prior to the weigh-in, all competitors will attend a mandatory information semin
 
 The seminar will cover the following topics: 
 
-- **Definition of Unhealthy Weight-Cutting** : An explanation of what constitutes dangerous or manipulative weight-loss practices, including rapid dehydration, excessive fluid restriction, sauna use, and the use of diuretics or laxatives. 
+- **Definition of Unhealthy Weight-Cutting**: An explanation of what constitutes dangerous or manipulative weight-loss practices, including rapid dehydration, excessive fluid restriction, sauna use, and the use of diuretics or laxatives. 
 
 Page **3** / **6** 
 
@@ -101,15 +94,13 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0004-00.png)
 
+- **Health Risks of Repeated Weight Cutting**: A review of the short- and long-term consequences of engaging in weight-cutting behaviours, including impaired performance, increased injury risk, hormonal disruption, cognitive decline, and cardiovascular strain. 
 
-- **Health Risks of Repeated Weight Cutting** : A review of the short- and long-term consequences of engaging in weight-cutting behaviours, including impaired performance, increased injury risk, hormonal disruption, cognitive decline, and cardiovascular strain. 
+- **Hydration Testing Protocol**: A walkthrough of the urine-specific gravity (USG) test used to assess hydration status, including how to interpret results, why proper hydration is required before weigh-in, and how hydration status reflects an athlete’s overall readiness to race safely. 
 
-- **Hydration Testing Protocol** : A walkthrough of the urine-specific gravity (USG) test used to assess hydration status, including how to interpret results, why proper hydration is required before weigh-in, and how hydration status reflects an athlete’s overall readiness to race safely. 
-
-- **Weigh-In Procedure Overview** : A detailed explanation of the scheduled weigh-in process, including retesting opportunities, minimum allowable race weight policies, the use of weight data in the virtual platform, and how the UCI ensures fairness and transparency. 
+- **Weigh-In Procedure Overview**: A detailed explanation of the scheduled weigh-in process, including retesting opportunities, minimum allowable race weight policies, the use of weight data in the virtual platform, and how the UCI ensures fairness and transparency. 
 
 Athletes will be provided with educational materials summarizing key points, and the medical team will be available to answer questions and offer guidance. This seminar is an essential component of the event’s commitment to athlete welfare and fair competition, and attendance is required for weigh-in eligibility. 
 
@@ -127,9 +118,7 @@ Page **4** / **6**
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
-
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0005-00.png)
-
 
 **Athlete Welfare and Guidance:** This policy is designed to prioritize athlete welfare at every step. 
 
@@ -153,9 +142,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0006-00.png)
-
 
 ## **Conclusion** 
 
@@ -171,5 +158,4 @@ This policy is intended to safeguard athletes’ health. The UCI is committed to
 
 Page **6** / **6** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
-
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland

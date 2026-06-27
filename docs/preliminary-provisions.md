@@ -4,9 +4,6 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4duDBFRJyx2nFmkbTgaucB/375
 source_sha256: 1518c0381ad3e8a6bd02d5c35c97c61682f8efc646ad90db6452f8f950be34de
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PRELIMINARY PROVISIONS** 
 
 ## **Version on 05.02.2019** 
@@ -45,8 +42,6 @@ E0219
 
 PRELIMINARY PROVISIONS 
 
-**UCI CYCLING REGULATIONS** 
-
 - **11** In the event of divergence between the English and the French texts, the text in its original language shall prevail. 
 
 The original language of the different parts of the Regulations is: 
@@ -71,13 +66,10 @@ The original language of the different parts of the Regulations is:
 |Part 15|Cycling for All|English|
 |Part 16|Para-Cycling|English|
 
-
-
 _(text modified on 25.09.08; 18.06.10; 30.09.10; 1.05.14; 24.09.15)._ 
 
 E0219 
 
 2 
 
-PRELIMINARY PROVISIONS 
-
+PRELIMINARY PROVISIONS

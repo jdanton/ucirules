@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6nm1gmOU49xH2TdNL51ZFV/cca
 source_sha256: 435d031b2034099229490d4176e0b420798f731df95a6de2d8eda8437580e8fe
 converter: pymupdf4llm
 ---
-
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -37,9 +34,7 @@ converter: pymupdf4llm
 
 Seat on the saddle, chest directed to the handlebar, feet on the pedals. / Stand with feet on the handlebar-grips. Stands and shoulderseats on one bicycle **8.2.030** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0001-15.png)
-
 
 **2276** 
 
@@ -87,17 +82,12 @@ Both hands behind the back on the handlebar, front wheel between the legs, feet 
 
 **a-b:** Both hands behind the back on the handlebar, front wheel between the legs, feet on the pedals. / Stand with one foot on the saddle and the other foot on the handlebar. **c-d:** Like **a-b** until slash / Stand with feet on the saddle. Stands and shoulderseats on one bicycle **8.2.030** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0004-05.png)
-
-
 
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0004-06.png)
 
-
 **----- Start of picture text -----**<br>
 2332<br>**----- End of picture text -----**<br>
-
 
 Page **4** / **60** 
 
@@ -113,7 +103,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-**Lying on saddle / Handlebarstand; Handlebar 2352 handstand a-b:** Lying with front of the body on the saddle, closed legs stretched horizontally backwards. / Stand with feet on the handlebar-grips. **c-d:** Like **a-b** until slash / Handstand with both hands on the handlebar-grips. Arms stretched, legs closed and stretched straight upwards. Stands and shoulderseats on one bicycle **8.2.030** Headstands, shoulderstands and handstands on one bicycle **8.2.031 Waterscale / Stand bent on saddle; Saddlestand 2353 a-b:** Lying with back of the body in a straight line on the handlebar, stretched legs or feet under the saddle. / Stand with one foot on the saddle, trunk bent-forward to the handlebar, free leg stretched backwards. **c-d:** Like **a-b** : until slash / Stand with feet on the saddle. Straight line **8.2.023** Stands and shoulderseats on one bicycle **8.2.030 Saddle handlebarstand / Saddle handlebarstand 2356** Both stand with one foot on the saddle and the other foot on the handlebar. Stands and shoulderseats on one bicycle **8.2.030 Saddle handlebarstand / Stand on pins; Saddlestand; 2357 Handlebarstand a-b:** Stand with one foot on the saddle and the other foot on the handlebar. / Stand with feet each on a rear-pin. Both knees behind the saddle. **c-d:** Like **a-b** until slash / Stand with feet on the saddle. **e-f:** Like **a-b** : until slash / Stand with feet on the handlebar-grips. Stands and shoulderseats on one bicycle **8.2.030 Handlebarstand / Stand on pins 2358 a** Stand with feet on the handlebar-grips. / Stand with feet each **2358 b** on a rear-pin. Both knees behind the saddle. **2358 g g-h:** The rider jumps from regular seat to the **2358 h** fronthandlebarstand; further according to **a-b** . Stands and shoulderseats on one bicycle **8.2.030** 
+**Lying on saddle / Handlebarstand; Handlebar 2352 handstand a-b:** Lying with front of the body on the saddle, closed legs stretched horizontally backwards. / Stand with feet on the handlebar-grips. **c-d:** Like **a-b** until slash / Handstand with both hands on the handlebar-grips. Arms stretched, legs closed and stretched straight upwards. Stands and shoulderseats on one bicycle **8.2.030** Headstands, shoulderstands and handstands on one bicycle **8.2.031 Waterscale / Stand bent on saddle; Saddlestand 2353 a-b:** Lying with back of the body in a straight line on the handlebar, stretched legs or feet under the saddle. / Stand with one foot on the saddle, trunk bent-forward to the handlebar, free leg stretched backwards. **c-d:** Like **a-b**: until slash / Stand with feet on the saddle. Straight line **8.2.023** Stands and shoulderseats on one bicycle **8.2.030 Saddle handlebarstand / Saddle handlebarstand 2356** Both stand with one foot on the saddle and the other foot on the handlebar. Stands and shoulderseats on one bicycle **8.2.030 Saddle handlebarstand / Stand on pins; Saddlestand; 2357 Handlebarstand a-b:** Stand with one foot on the saddle and the other foot on the handlebar. / Stand with feet each on a rear-pin. Both knees behind the saddle. **c-d:** Like **a-b** until slash / Stand with feet on the saddle. **e-f:** Like **a-b**: until slash / Stand with feet on the handlebar-grips. Stands and shoulderseats on one bicycle **8.2.030 Handlebarstand / Stand on pins 2358 a** Stand with feet on the handlebar-grips. / Stand with feet each **2358 b** on a rear-pin. Both knees behind the saddle. **2358 g g-h:** The rider jumps from regular seat to the **2358 h** fronthandlebarstand; further according to **a-b**. Stands and shoulderseats on one bicycle **8.2.030** 
 
 Page **6** / **60** 
 
@@ -166,8 +156,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |Stands and shoulderseats on one bicycle**8.2.030**||
 |Headstands, shoulderstands and handstands on one bicycle||
 |**8.2.031**||
-
-
 
 Page **7** / **60** 
 
@@ -228,8 +216,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |Headstands, shoulderstands and handstands on one bicycle||
 |**8.2.031**||
 
-
-
 Page **8** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -254,9 +240,7 @@ Exception: Headstands, shoulderstands and handstands on one bicycle **8.2.031** 
 
 **c-d:** Like **a-b** until slash / Stand with feet on the partner’s shoulders. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0009-09.png)
-
 
 **2391** 
 
@@ -292,21 +276,14 @@ Diagonal pull **(8.2.068)**
 
 - A **4 f.e.o. diagonal pull 2 s.r.l. 2 s.r.r.** During the figure, two riders have to perform each a single ring left and two riders have to perform each a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-04.png)
-
-
 
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-05.png)
 
-
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-06.png)
-
 
 **----- Start of picture text -----**<br>
 4006<br>**----- End of picture text -----**<br>
-
 
 4006 b 
 
@@ -330,17 +307,11 @@ All riders have to ride, following each other, around a spot on a half of the co
 
 Rider 1 and 3 have to perform an eight without changing the distances between each other. After completing the eight they have to circle the spot at least once. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-18.png)
-
-
 
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-19.png)
 
-
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0011-20.png)
-
 
 **4007 a 4008 a 4010 a** 
 
@@ -389,8 +360,6 @@ All riders have to ride, following each other, performing a longline.
 |Each two riders have to ride, next to each other, without grip connection||
 |performing a longline opposite direction.||
 
-
-
 ## Longline opposite direction **(8.2.067)** 
 
 |A|**2 n.e.o. longline opposite direction 4 s.r.l.**|4013 b|
@@ -405,8 +374,6 @@ All riders have to ride, following each other, performing a longline.
 ||through the space between the two other riders. During the figure,||
 ||each rider has to perform a single ring left.||
 ||Single ring left**(8.2.053)**||
-
-
 
 Page **12** / **60** 
 
@@ -464,9 +431,7 @@ All riders have to perform a 2 connected wingmill. During the figure, each rider
 
 All riders have to form the grip connection of a 2 connected wingmill and have to release the grip connection in motion, then all riders have to perform 50cm-spinnings on the longitudinal axis or on the transversal axis. After completing the 50cm-spinnings the inside riders have to grip each other with their left hands above the inner circle and have to 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0014-07.png)
-
 
 **4024 c** 
 
@@ -537,8 +502,6 @@ Single ring left **(8.2.053)** Single ring right **(8.2.054)**
 ||the same level, they have to connect into two mills.||
 ||2 mills**(8.2.071)**||
 
-
-
 Page **16** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -551,9 +514,7 @@ Two riders each have to ride, next to each other, without grip connection perfor
 
 Half alternate ring **(8.2.057)** Half shortline opp. dir. alternate ring **(8.2.059)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0017-03.png)
-
 
 **4044 f 4045 d 4048 a** 
 
@@ -616,8 +577,6 @@ A **2 con. half circle / circle 2 con. s.r.l.** 4071 c-d During the figure, each
 ||During the figure, each rider has to perform a single ring left.||
 ||Single ring left**(8.2.053)**||
 
-
-
 Page **18** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -626,9 +585,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 D **2 con. f.e.o. longline 2 s.r.l. 2 s.r.r.** During the figure, two riders each have to perform a single ring left and two riders each have to perform a single ring right. Rider 1 and 3 and rider 2 and 4 have to perform the same type of single ring. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0019-01.png)
-
 
 4082 b 
 
@@ -652,9 +609,7 @@ Single ring left **(8.2.053)**
 
 During the figure, each rider has to perform a single ring right on the transversal axis. During the single ring right, each pair has to ride through the space between the two other riders. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0019-13.png)
-
 
 4083 b 
 
@@ -688,13 +643,9 @@ Single ring left **(8.2.053)**
 
 Two riders each have to ride, next to each other, and are connected by a grip connection, thus they form a pair of riders. Both pairs of riders, ride on a common axis which runs parallel to the long side of the competition surface, from the long side of the competition surface to the other side. Both pairs have to perform a half alternate ring. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0020-06.png)
 
-
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0020-07.png)
-
 
 4086 d 4087 c 4088 f-g 4089 d 
 
@@ -706,9 +657,7 @@ Half alternate ring **(8.2.057)**
 
 Two riders each have to ride, next to each other, and are connected by a grip connection, thus they form a pair of riders. Both pairs of riders, ride on a common axis which runs parallel to the long side of the competition surface and have to perform an alternate ring. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0020-13.png)
-
 
 **4096 b 4097 b 4098 b 4098 d 4099 b** 
 
@@ -732,9 +681,7 @@ Single ring left **(8.2.053)** Single ring right **(8.2.054)**
 
 Two riders each are connected by hand-inhand-grip, thus they form a pair of riders. Both pairs of riders are on the same, imaginary axis, which runs through the inner circle or parallel to the long or short side of the competition surface. The distance between the pairs of riders has to be equal. One rider of each pair has to stand on a spot, without 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0021-06.png)
-
 
 **4116 4117** 
 
@@ -769,8 +716,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||During the figure, each rider has to||
 ||perform 50cm-spinnings.||
 ||50cm-spinnings**(8.2.046)**||
-
-
 
 Page **22** / **60** 
 
@@ -820,8 +765,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||4164 c|
 ||Single ring left**(8.2.053)**||
 
-
-
 Page **24** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -854,9 +797,7 @@ All riders have to ride around the middle circle. Rider 1 has to grip with the r
 
 Rider 2 has to grip with the left hand backwards to the right shoulder of rider 3. Rider 3 has to grip with the left hand forward to the right shoulder of rider 4. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0025-13.png)
-
 
 **4181** 
 
@@ -938,9 +879,7 @@ All riders have to perform a 2 connected wingring.
 
 2 con. wingring **(8.2.075)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0029-06.png)
-
 
 **4223 4224** 
 
@@ -948,9 +887,7 @@ All riders have to perform a 2 connected wingring.
 
 The riders have to connect to the grip connection of a 2 connected wingmill. The two outside riders have to release their grip connections simultaneously and in motion and have to perform, following each other, one complete circle. The two inside riders have to perform a mill. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0029-10.png)
-
 
 **4230 4231 4232 a-b 4233 a** 
 
@@ -1038,9 +975,7 @@ Alternate ring **(8.2.058)**
 
 A **Mill with half synchronous door** The two other riders are shifted a half way of their stretch, each on one half of the competition surface. Each rider is riding once through the space between the mill. The competition surface is split by the longitudinal or transversal axis. To pass the mill the own half of the competition surface may be left. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0033-16.png)
-
 
 4288 a 
 
@@ -1128,9 +1063,7 @@ Two riders have to form a door.
 
 The two other riders have to ride at equal distances, following each other, each once (half door ring) / each twice (door ring) through the space between the door. Thus, the riders who are passing the door perform an insidering. 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0036-12.png)
-
 
 **4307 a-b** 
 
@@ -1164,9 +1097,7 @@ All riders have to perform a star inside.
 
 Star inside **(8.2.061)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0037-08.png)
-
 
 **4316 a 4317 a-f** 
 
@@ -1216,9 +1147,7 @@ Each two riders are connected by a grip connection. During the figure, the grip 
 
 Turn on the spot **(8.2.047)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0039-03.png)
-
 
 **4341** 
 
@@ -1228,9 +1157,7 @@ All riders are connected by a grip connection and have to stand on a common axis
 
 Turn on the spot **(8.2.047)** 
 
-
 ![](images/Part_8_Regulations_amendments_as_of_01012027.pdf-0039-08.png)
-
 
 **4342** 
 
@@ -1260,8 +1187,6 @@ _(text modified on 01.01.16; 01.01.17; 01.01.20; 01.02.21; 01.01.26; 01.01.27)_
 ||1288|<br>b|P. raiser headtube rev. backhang|1,4|
 ||1289|a|P. backhang standraiser|6,1|
 
-
-
 Page **39** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1280,8 +1205,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |1293|a  P. standraiser raiser headtube rev.|1,8|
 |1293|<br>b  P. raiser headtube rev. standraiser|3,6|
 |_(text modified on 01.01.16; 01.01.17,01.01.27) _|||
-
-
 
 |**§**|**2**||**Pair artistic cycling**|**Pair artistic cycling**||
 |---|---|---|---|---|---|
@@ -1311,8 +1234,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 ||||2271|b  Reg. seat bw. / Chest suspended hang C.|2,6|
 ||||2276|a  Reg. seat / Handlebarstand HC.|1,2|
 ||||2276|b  Reg. seat / Handlebarstand C.|1,3|
-
-
 
 Page **40** / **60** 
 
@@ -1364,8 +1285,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |2303|d|Handlebarseat rev. frh. / Shoulderseat C.|2,2|
 |2304|a|Handlebarseat rev. / Shoulderstand HC.|2,9|
 
-
-
 Page **41** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1414,8 +1333,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |2332|c|Fronthang / Saddlestand HC.|1,8|
 |2332|d|Fronthang / Saddlestand C.|2,0|
 |2334|a|Fronthang / Headstand HC.|2,8|
-
-
 
 Page **42** / **60** 
 
@@ -1468,8 +1385,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |2358|d|Handlebarstand 1 turn / Stand on pins T (7,2 - 7,7 - 8,2 - 8,7)|<br>6,7|
 |2358|e|Handlebarstand 1½ turns / Stand on pins T|7,5|
 
-
-
 Page **43** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1489,8 +1404,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |||(8,8 - 9,3 - 9,8 - 10,3)|||
 |2358|l|Handlebarstand 2 turns out of reg. seat / Stand on pins T||9,1|
 |||(9,6 - 10,1 - 10,6 - 11,1)|||
-
-
 
 ||||**Given**||**Given**|**Given**||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -1524,8 +1437,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |2373||a|Headstand / Handlebar support straddle HC.|||||6,1||
 |2373||b|Headstand / Handlebar support straddle C.|||||6,5||
 
-
-
 Page **44** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1555,8 +1466,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |2391|c|Stillstand on pedals / Shoulderstand||2,7|
 |2391|d|Stillstand on pedals frh. / Shoulderstand||3,2|
 
-
-
 _(text modified on 01.01.16; 01.01.20, 01.01.27)_ 
 
 ## **§ 3 Artistic Cycling Team 4** 
@@ -1580,8 +1489,6 @@ _(text modified on 01.01.16; 01.01.20, 01.01.27)_
 ||4002|e|4 a.r. overlapping bw.|4,9|
 ||4003|a|4 f.e.o. HC. raiser|2,0|
 ||4003|b|4 f.e.o. C. raiser|2,5|
-
-
 
 Page **45** / **60** 
 
@@ -1631,8 +1538,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4015|<br>a|4 n.e.o. half shortline a.r.|2,0|
 |4015|<br>b|4 n.e.o. shortline a.r.|2,4|
 |4016|<br>a|4 n.e.o. half shortline a.r. raiser bw. frh.|8,7|
-
-
 
 Page **46** / **60** 
 
@@ -1686,8 +1591,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4032|<br>a|2 f.e.o. shortline bw.|2,0|
 |4032|<br>b|2 f.e.o. shortline 4 s.r.l. bw.|3,1|
 
-
-
 Page **47** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1715,8 +1618,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4048|<br>c|2 n.e.o. shortline opp. dir. a.r. through raiser bw. frh.|10,5|
 |||T (11,3 - 12,1)||
 
-
-
 |||**Given**|||
 |---|---|---|---|---|
 |**Shown**<br>4048c<br>no crossing<br>**10,5**<br>1 x crossing<br>**11,3**|||||
@@ -1742,8 +1643,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4073|g|2 con. HC. 2 con. s.r.l. raiser frh.||2,3|
 |4073|h|2 con. C. 2 con. s.r.l. raiser frh.||3,0|
 |4073|i|2 con. HC. 4 s.r.l. raiser||2,9|
-
-
 
 Page **48** / **60** 
 
@@ -1797,8 +1696,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4089|<br>d|2 con. shortline 4 s.r.l. raiser bw. frh.|6,4|
 |4096|<br>a|2 con. half shortline a.r.|0,7|
 
-
-
 Page **49** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1846,8 +1743,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4123|<br>f|Two mills raiser in- a. outside indiv. frh.|5,1|
 |4124|<br>a|Two mills raiser bw. frh.|3,6|
 |4124|<br>b|Two mills raiser bw. inside indiv. frh.|5,6|
-
-
 
 Page **50** / **60** 
 
@@ -1903,8 +1798,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4153|<br>g|4 con. HC. 2 con. s.r.l. raiser frh.|3,9|
 |4153|<br>h|4 con. C. 2 con. s.r.l. raiser frh.|3,6|
 
-
-
 Page **51** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -1954,8 +1847,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4181|<br>a|Coach HC.|0,6|
 |4181|<br>b|Coach C.|0,8|
 |4182|<br>a|Coach HC. raiser|1,5|
-
-
 
 Page **52** / **60** 
 
@@ -2007,8 +1898,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4214|<br>i|2 con. wingmill HD. 4 s.r.r. raiser bw. in- a. outside indiv. frh.|7,2|
 |4214|<br>j|2 con. wingmill 4 s.r.r. raiser bw. frh.|6,0|
 
-
-
 Page **53** / **60** 
 
 Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
@@ -2056,8 +1945,6 @@ Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerla
 |4251|<br>c|Insidering around 1 raiser inside indiv. frh.|4,7|
 |4251|<br>d|Insidering around 1 raiser in- a. outside indiv.|4,6|
 |4251|<br>e|Insidering around 1 raiser in- a. outside indiv. frh.|5,5|
-
-
 
 Page **54** / **60** 
 
@@ -2113,8 +2000,6 @@ Figure No. / Name of figure
 |4280|<br>d|Synchronous door|2,8|
 |4280|<br>e|Opp. dir. door sim.|3,4|
 
-
-
 Page **55** / **60** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
@@ -2159,8 +2044,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4294|<br>a|Snake double door raiser bw. frh.|7,7|
 |4294|<br>b|Turbine snake double door count dir. raiser bw. frh.|9,6|
 |4296|<br>a|Alternate ring door bw.|5,2|
-
-
 
 Page **56** / **60** 
 
@@ -2210,8 +2093,6 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |4342|<br>b|4 con. raiser 1 turn on the spot|8,1|
 |4342|<br>c|4 con. raiser 1½ turns on the spot|9,1|
 |4342|<br>d|4 con. raiser 2 turns on the spot|10,1|
-
-
 
 _(text modified on 01.01.16; 01.01.17; 01.01.20; 01.01.22, 01.01.26; 01.01.27)_ 
 
@@ -2301,5 +2182,4 @@ Page **60** / **60**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
-
+T: +41 24 468 58 11 E: admin@uci.ch

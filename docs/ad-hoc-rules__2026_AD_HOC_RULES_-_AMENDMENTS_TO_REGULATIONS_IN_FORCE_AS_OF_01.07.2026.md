@@ -4,9 +4,6 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7uLMptMENGkfvDnlhblv1T/d7b
 source_sha256: d84dfd6b5201edab5187a4f4f6afc77b8bc2e105e257d51b9dec38bd97c33097
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **AD HOC RULES** 
 
 ## **Version on 01.07.2026** 
@@ -29,7 +26,7 @@ converter: pymupdf4llm
 
 - **5** Any participation in an event on the UCI International Calendar is subject to the rules set out in the Annex 1 to these Rules. 
 
-- **6** For any participation of an Individual Neutral Athlete or a team made up of Individual Neutral Athletes in the Elite and Under 23 categories, the rider(s) and their support personnel may only be registered if the status of _Individual Neutral Athlete_ , or of support personnel of an _Individual Neutral Athlete_ , has been granted to them by the UCI beforehand. 
+- **6** For any participation of an Individual Neutral Athlete or a team made up of Individual Neutral Athletes in the Elite and Under 23 categories, the rider(s) and their support personnel may only be registered if the status of _Individual Neutral Athlete_, or of support personnel of an _Individual Neutral Athlete_, has been granted to them by the UCI beforehand. 
 
 - **7** Junior riders and their support personnel shall not be required to apply for the status of _Individual Neutral Athlete_ in order to be registered for an event on the UCI International Calendar, including UEC European Championships, UCI World Cup events and UCI World Championships. They shall, however, be required to comply with these Rules and Annex 1. Any breach of these Rules or Annex 1 shall result in the rider or support personnel concerned being prohibited from participating in UEC European Championships, UCI World Cup events or UCI World Championships, as well as from being registered by the Russian National Federation for any event on the UCI International Calendar. 
 
@@ -40,8 +37,6 @@ E010726
 AD HOC RULES 
 
 1 
-
-**UCI CYCLING REGULATIONS** 
 
 from participating in UEC European Championships, UCI World Cup events or UCI World Championships. 
 
@@ -69,7 +64,7 @@ from participating in UEC European Championships, UCI World Cup events or UCI Wo
 
 - **16** Organisers shall withdraw references to Russia on all documents and publications in both printed and electronic format, including, but not limited to, start lists, result lists, rankings and TV graphics. 
 
-- **17** Russian national champion jerseys shall be forbidden on all UCI International Calendar events, both in and on the margins of competitions. Therefore, any current national champion of Russia shall wear the team’s jersey when participating in an event with their team. In the case of participation in an event as _Individual Neutral Athlete_ , the jersey must comply with the provisions stipulated in Annex 1 of these Rules. 
+- **17** Russian national champion jerseys shall be forbidden on all UCI International Calendar events, both in and on the margins of competitions. Therefore, any current national champion of Russia shall wear the team’s jersey when participating in an event with their team. In the case of participation in an event as _Individual Neutral Athlete_, the jersey must comply with the provisions stipulated in Annex 1 of these Rules. 
 
 Winners of a national championships organised during the period of validity of the present Rules shall not be entitled to wear the national champions’ jersey both during and after the period of validity of the present Rules. 
 
@@ -80,8 +75,6 @@ E010726
 AD HOC RULES 
 
 2 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ Invitations** 
 
@@ -117,8 +110,6 @@ AD HOC RULES
 
 3 
 
-**UCI CYCLING REGULATIONS** 
-
 - **28** Any infringement committed outside an event will be subject to disciplinary proceedings for violation of article 12.4.017 lit. a. of the UCI Regulations. 
 
 - **29** The UCI shall take all necessary measures to ensure the enforcement of these Rules, including Annex 1. In particular, the UCI shall take the relevant measures to verify the compliance with the requirement of neutrality for riders and support personnel by subscribing to the necessary services, if need be. 
@@ -129,5 +120,4 @@ E010726
 
 AD HOC RULES 
 
-4 
-
+4

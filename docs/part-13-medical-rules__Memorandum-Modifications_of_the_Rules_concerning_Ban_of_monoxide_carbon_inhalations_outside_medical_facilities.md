@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5swcIms2xF2x1xIHE4isix/282
 source_sha256: e87d4c20a00679e5d4e1f2b356e1a09460552af461f7727f35b4828e69020e3d
 converter: pymupdf4llm
 ---
-
-
 ![](images/Memorandum-Modifications_of_the_Rules_concerning_Ban_of_monoxide_carbon_inhalations_outside_medical_facilities.pdf-0001-00.png)
-
 
 ## MEMORANDUM 
 
@@ -83,5 +80,4 @@ T: +41 24 468 58 09 E: medical@uci.ch
 
 Page 3 / 3 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 09 1860 Aigle E: medical@uci.ch Switzerland 
-
+Allée Ferdi Kübler 12 T: +41 24 468 58 09 1860 Aigle E: medical@uci.ch Switzerland

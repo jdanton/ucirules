@@ -4,24 +4,15 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/73az93YUIYgyAWhHXPVRPf/359
 source_sha256: 2374322d295051c920af46b8d7d4d43b36e8e43f02eb0703e30b774d35001538
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **PART 6BIS BMX FREESTYLE** 
 
 **Version on 01.01.2026** 
-
-## **TABLE OF CONTENTS** 
-
-**Chapter I LICENCE-HOLDERS ................................................................................... 2** BMX Freestyle Competitions ........................................................................................ 2 **Chapter II CATEGORIES AND LICENSES ................................................................. 3 Chapter III CALENDAR AND THE ORGANISATION OF UCI EVENTS ...................... 5 Chapter IV CLOTHING AND EQUIPMENT ................................................................11 Chapter V CONDUCT OF PARTICIPANTS, AND PENALTIES .................................13 Chapter VI BMX FREESTYLE COMPETITIONS ........................................................15 Chapter VII COMPETITION FACILITIES AND FIELD OF PLAY ...............................25 Chapter VIII COMPETITION OFFICIALS ...................................................................28 Chapter IX RULES FOR THE UCI BMX FREESTYLE WORLD CUP ........................30** Event Format ...............................................................................................................34 **Chapter X UCI BMX FREESTYLE WORLD CHAMPIONSHIPS ................................36 Chapter XI UCI BMX FREESTYLE RANKING ...........................................................38 ANNEX I UCI BMX FREESTYLE RANKING POINTS TABLE ....................................41 ANNEX II TABLE OF HEATS FOR PARK COMPETITIONS ......................................43** 
 
 E0126 
 
 1 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **PART 6 BIS BMX FREESTYLE** 
 
@@ -52,8 +43,6 @@ E0126
 2 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter II CATEGORIES AND LICENSES** 
 
@@ -107,8 +96,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## Flatland Competitions 
 
 For BMX Freestyle Flatland Competitions, the process above for BMX Freestyle Park Competitions shall be followed, however the minimum number of riders needed to hold a separate competition for the category shall be 3 riders registered and confirmed following riders’ confirmation. 
@@ -128,8 +115,6 @@ E0126
 4 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter III CALENDAR AND THE ORGANISATION OF UCI EVENTS** 
 
@@ -177,8 +162,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
       - A detailed technical guide must be presented to the UCI during the calendar registration process. A template for such technical guide is provided by the UCI upon request; 
 
       - The event has been registered for at least the last three years on the UCI International Calendar; 
@@ -223,8 +206,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 The organiser is not allowed to accept any entries after the riders’ confirmation deadline found in the Technical Guide. The Commissaire appointed to supervise the Competition shall rule in the event of a dispute. 
 
 Ignorance of the provisions of the Technical Guide or of the competition schedule shall not be admitted as an excuse by any rider or other license holder. 
@@ -267,8 +248,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Riders Meeting** 
 
 **6bis.3.013** If they decide that it is necessary, the organiser and the Commissaire acting jointly may decide to call a riders’ meeting. If it is not mentioned in the Technical Guide, a notice announcing the time and place of the meeting shall be announced at the Competition venue (example: posted in the riders’ area at the Competition, or an announcement is made). 
@@ -306,8 +285,6 @@ E0126
 8 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 Riders must be completely registered before beginning their first practice; they are not allowed in the Competition venue until they are completely registered. 
 
@@ -348,8 +325,6 @@ E0126
 9 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 The organiser shall take particular care to ensure that these officials may work in optimum conditions. 
 
@@ -397,8 +372,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter IV CLOTHING AND EQUIPMENT** 
 
 ## **General Rules concerning the Bicycle** 
@@ -441,8 +414,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 It is strongly recommended that riders wear: 
 
 - A. back, elbow, knee and shoulder protectors; 
@@ -484,8 +455,6 @@ E0126
 12 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter V CONDUCT OF PARTICIPANTS, AND PENALTIES** 
 
@@ -537,8 +506,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 An official warning shall be noted on all results in which the rider concerned is listed. In case an official warning is given, any further misconduct by the rider concerned within the same event shall result in disqualification. 
 
 The Commissaire shall make an official report to the UCI following the competition concerning the circumstances of each official warning, disqualification or refusal of start. 
@@ -556,8 +523,6 @@ E0126
 14 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VI BMX FREESTYLE COMPETITIONS** 
 
@@ -586,15 +551,11 @@ The combination of phases and heats (if applicable) for a category depends on th
 |16 - 31 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top<br>12<br>in<br>Qualification<br>advance to Final|Qualification:<br>as<br>below<br>2 heats of 6 in Final|
 |More<br>than<br>31<br>entries|3 phases:<br>Qualification x 1<br>Semi-final x 1<br>Final x 1|Top<br>24<br>in<br>Qualification<br>advance to Semi-<br>final<br>Top 12 in Semi-final<br>advance to Final|Qualification:<br>as<br>below<br>4 heats of 6 in<br>Semi-final<br>2 heats of 6 in Final|
 
-
-
 E0126 
 
 15 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 **Number of heats:** The number of heats in each round is found in the table above. For the qualifying phase, the number of heats should be chosen such that as many heats as possible have 4-6 riders. 
 
@@ -608,8 +569,6 @@ Whenever it is not possible for all heats to have 6 riders, a number of heats wi
 |5 - 8 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 4 in qualification<br>advance to final|
 |9 – 15 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 8 in qualification<br>advance to final|
 |More than 16 entries|2phases:<br>Qualification x 1<br>Final x 1|Top12inqualification<br>advance to Final|
-
-
 
 _(text modified on 01.02.18; 02.02.19; 11.02.20; 08.02.21; 01.01.26)_ 
 
@@ -634,8 +593,6 @@ E0126
 16 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Start Order** 
 
@@ -679,8 +636,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 - **6bis.6.010** In case one or more riders do not start in a Semi-final or the Final for the reason of missing the deadline described in article 6bis.6.009, the heats shall be redrawn as described in article 6bis.6.003. 
 
 In case one or more riders withdraw (or are disqualified or refused their start) once the deadline described in article 6bis.6.009 has passed, the heats will not be changed. 
@@ -722,8 +677,6 @@ E0126
 18 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 as injury or an act of god beyond their control. It is the responsibility of the rider or their representative to contact the organisation and provide acceptable proof of this. 
 
@@ -772,8 +725,6 @@ E0126
 19 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 - **6bis.6.019** No scores shall be released as official until verified and approved by the Head Judge. 
 
@@ -824,8 +775,6 @@ E0126
 20 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 - G. variety of tricks (refers to a good mix of standard airs, rotations, grinds,...); 
 
@@ -899,8 +848,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 During the qualifying phase, each rider shall do 1 run. Each run will have a duration of between 2 and 3 minutes; the duration of a run for the qualifying phase of the Competition will be set in the technical guide. In the final phase, each rider shall do 2 runs. Each run will have a duration between 1 and 3 minutes; the duration of a run for the final phase of the Competition will be set in the technical guide. In case of bad weather or an unusually high number of entries, the organiser can decide to reduce the duration of a run to the minimum prior to the start of the Phase in question. 
 
 _(text modified on 01.02.18; 01.01.26)_ 
@@ -934,8 +881,6 @@ E0126
 22 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Finishing a Run** 
 
@@ -978,8 +923,6 @@ E0126
 23 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 In case the run to be re-started is the final run of a heat, then the rider concerned will be allowed a 2 minute rest break before re-starting the run in question. 
 
@@ -1027,8 +970,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter VII COMPETITION FACILITIES AND FIELD OF PLAY** 
 
 ## **Park Competition Facilities** 
@@ -1058,8 +999,6 @@ E0126
 25 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 Local, Regional, National, National Championships and International C1 Events 
 
@@ -1097,8 +1036,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 The boundaries of the Flatland Area shall be visibly and clearly marked. 
 
 _(article introduced on 01.02.18)_ 
@@ -1120,8 +1057,6 @@ E0126
 27 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter VIII COMPETITION OFFICIALS** 
 
@@ -1173,8 +1108,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 If a rider requests that the announcer is quiet during his run, the announcer must respect that rider’s request. 
 
 _(text modified on 01.02.18)_ 
@@ -1215,8 +1148,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter IX RULES FOR THE UCI BMX FREESTYLE WORLD CUP** 
 
 ## **General Terms Applicable to the UCI BMX Freestyle World Cup** 
@@ -1256,8 +1187,6 @@ E0126
 30 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 - **6bis.9.004** The maximum number of participants is set in article 6bis.9.002 **.** No further entries will be accepted once any such limit has been reached. 
 
@@ -1313,8 +1242,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 Following the last event in the UCI BMX Freestyle World Cup Series each season, the highest ranked rider in Men Elite and also Women Elite will be declared the UCI BMX Freestyle Park World Cup Winner, respectively, for the year in question. 
 
 _(text modified on 01.02.18; 02.02.19; 08.02.21; 01.01.25)_ 
@@ -1358,8 +1285,6 @@ E0126
 32 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 practice group shall be the same, and will be decided by the technical delegate, as will the method used to decide the composition of the practice groups. 
 
@@ -1405,8 +1330,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 If the Semi-final is finished, then the Semi-final results are taken, with the riders not transferring from the Qualification round ranked below the Semi-final riders. 
 
 _(text modified on 01.02.18, 08.02.21; 01.01.25)_ 
@@ -1448,8 +1371,6 @@ E0126
 34 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Final Phase** 
 
@@ -1503,8 +1424,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **Chapter X UCI BMX FREESTYLE WORLD CHAMPIONSHIPS** 
 
 (chapter introduced on 01.02.18) 
@@ -1541,8 +1460,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 |**Rank**|**Quota **|
 |---|---|
 |1st to 3rd|Maximum 6 riders|
@@ -1553,8 +1470,6 @@ BMX FREESTYLE
 |Host country of the championships (if not already<br>qualified)|Maximum 2 riders|
 |All others, including countries not ranked|Maximum 1 rider|
 
-
-
 _(text modified on 02.02.19, 01.01.22)_ 
 
 E0126 
@@ -1562,8 +1477,6 @@ E0126
 37 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **Chapter XI UCI BMX FREESTYLE RANKING** 
 
@@ -1612,8 +1525,6 @@ E0126
 38 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 the case, the points from the continental championships held shall expire after 12 months. 
 
@@ -1681,8 +1592,6 @@ E0126
 
 BMX FREESTYLE 
 
-**UCI CYCLING REGULATIONS** 
-
 placed riders for men and the two best placed riders for women from each nation in the UCI BMX Freestyle Individual Ranking. 
 
 A rider’s points are awarded to the nation of this nationality, even if he is a license holder of the federation of another country. 
@@ -1710,8 +1619,6 @@ E0126
 40 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX I UCI BMX FREESTYLE RANKING POINTS TABLE** 
 
@@ -1763,15 +1670,11 @@ BMX FREESTYLE
 |44||13|11|||||
 |45||12|10|||||
 
-
-
 E0126 
 
 41 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 |46||10|8|||||
 |---|---|---|---|---|---|---|---|
@@ -1780,8 +1683,6 @@ BMX FREESTYLE
 |49||4|2|||||
 |50||2|1|||||
 
-
-
 _(annex modified on 01.01.22; 01.01.25; 01.01.26)_ 
 
 E0126 
@@ -1789,8 +1690,6 @@ E0126
 42 
 
 BMX FREESTYLE 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **ANNEX II TABLE OF HEATS FOR PARK COMPETITIONS** 
 
@@ -1825,11 +1724,8 @@ BMX FREESTYLE
 |29|5|6|6|6|6|
 |30|6|6|6|6|6|
 
-
-
 E0126 
 
 43 
 
-BMX FREESTYLE 
-
+BMX FREESTYLE

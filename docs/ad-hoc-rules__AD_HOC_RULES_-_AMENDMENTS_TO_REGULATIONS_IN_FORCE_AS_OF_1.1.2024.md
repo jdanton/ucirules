@@ -4,9 +4,6 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4s2UBcEZrOTa1TTjuaPy0m/f1a
 source_sha256: 97da812805b0b6688bb62a01d869169c5ccb8430e289743ef337f9f4391ff063
 converter: pymupdf4llm
 ---
-
-**UCI CYCLING REGULATIONS** 
-
 ## **AD HOC RULES** 
 
 ## **Version on 1.1.2024** 
@@ -41,8 +38,6 @@ AD HOC RULES
 
 1 
 
-**UCI CYCLING REGULATIONS** 
-
 ## **§ UCI Teams** 
 
 - **8** UCI Team status may not be granted to a team under Russian or Belarusian nationality (as defined in the UCI Regulations governing the nationality of teams for each discipline). 
@@ -67,7 +62,7 @@ AD HOC RULES
 
 - **15** Organisers shall withdraw references to Russia and/or Belarus on all documents and publications in both printed and electronic format, including, but not limited to, start lists, result lists, rankings and TV graphics. 
 
-- **16** Russian and Belarusian national champion jerseys shall be forbidden on all UCI International Calendar events, both in and on the margins of competitions. Therefore, any current national champion of Russia or Belarus shall wear the team’s jersey when participating in an event with their team. In the case of participation in an event as _Individual Neutral Athlete_ , the jersey must comply with the provisions stipulated in Annex 1 of these Rules. 
+- **16** Russian and Belarusian national champion jerseys shall be forbidden on all UCI International Calendar events, both in and on the margins of competitions. Therefore, any current national champion of Russia or Belarus shall wear the team’s jersey when participating in an event with their team. In the case of participation in an event as _Individual Neutral Athlete_, the jersey must comply with the provisions stipulated in Annex 1 of these Rules. 
 
 Winners of a national championships organised during the period of validity of the present Rules shall not be entitled to wear the national champions’ jersey both during and after the period of validity of the present Rules. 
 
@@ -78,8 +73,6 @@ E010124
 AD HOC RULES 
 
 2 
-
-**UCI CYCLING REGULATIONS** 
 
 ## **§ Invitations** 
 
@@ -115,8 +108,6 @@ AD HOC RULES
 
 3 
 
-**UCI CYCLING REGULATIONS** 
-
 or any communication, whether verbal, non-verbal or written, in support of the war in Ukraine, shall be excluded by the commissaires panel of the event or by the UCI directly. 
 
 - **27** Any infringement committed outside an event will be subject to disciplinary proceedings for violation of article 12.4.017 lit. a. of the UCI Regulations. 
@@ -129,5 +120,4 @@ E010124
 
 AD HOC RULES 
 
-4 
-
+4

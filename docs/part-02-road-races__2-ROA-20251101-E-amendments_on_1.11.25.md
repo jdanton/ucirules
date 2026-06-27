@@ -4,10 +4,7 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5mVMnjLcvZ4wzgMJHt9lMz/e5d
 source_sha256: 567434e3c751166f7bf4f1ef0377669f50411740f70f7ff9cae23523dd1249d9
 converter: pymupdf4llm
 ---
-
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0001-00.png)
-
 
 MEMORANDUM 3.10.2025 
 
@@ -29,11 +26,7 @@ MEMORANDUM 3.10.2025
 |UCI WorldTour|ME|1.UWT<br>2.UWT|-UCI WorldTeams (see Art. 2.15.127)<br>-Invited UCI ProTeams<br>-National team of the organising<br>country in events determined by the<br>PCC|
 |UCI Europe Tour|ME<br>MU|1.Pro<br>2.Pro|-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams of the country<br>(1)<br>-UCI cyclo-cross professional teams<br>of the country(1)<br>-Foreign<br>UCI<br>continental<br>teams<br>(max. 2)(1)<br>-National team of the country of the<br>organiser|
 
-
-
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0002-00.png)
-
 
 ## MEMORANDUM 
 
@@ -47,11 +40,7 @@ MEMORANDUM 3.10.2025
 |UCI America Tour<br>UCI Asia Tour<br>UCI Oceania Tour<br>UCI Africa Tour|ME||1.Pro<br>2.Pro||-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams(1)<br>-UCI cyclo-cross professional teams<br>(1)<br>-National teams|
 ||||1.1<br>2.1||-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 
-
-
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0003-00.png)
-
 
 ## MEMORANDUM 
 
@@ -65,11 +54,7 @@ MEMORANDUM 3.10.2025
 |Women Elite|WE||1.WWT<br>2.WWT||-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br>-National team from the country of the<br>organiser with the agreement of the<br>UCI|
 ||||1.Pro<br>2.Pro||- UCI Women’s WorldTeams (min 4)<br>- UCI Women’s ProTeams<br>- UCI women’s continental teams<br>- UCI cyclo-cross professional teams<br>- National teams|
 
-
-
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0004-00.png)
-
 
 ## MEMORANDUM 
 
@@ -84,15 +69,11 @@ MEMORANDUM 3.10.2025
 |Women Junior|WJ|1.Ncup<br>2.Ncup|-National teams<br>-Regional and club teams<br>-Mixed teams|
 |||1.1<br>2.1|-National teams<br>-Regional and club teams<br>-Mixed teams WJ 1|
 
-
-
 _(1) In order to compete in a UCI ProSeries event, UCI Continental Teams and UCI cyclocross professional teams must contribute to the programme for the fight against doping related to UCI ProSeries events as provided in the Financial Obligations published on_ 
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0005-01.png)
-
 
 _the UCI website; the teams concerned will be included in a list published on the UCI website._ 
 
@@ -110,7 +91,7 @@ _(text modified on 1.01.99; 1.01.05; 1.01.06; 1.10.06; 25.09.07; 1.01.08; 1.1.09
 
 ## **2.1.007  Obligatory invitations to events on the international calendar bis Provisions for Grand Tours and UCI WorldTour stage races** 
 
-The organiser must invite the best UCI ProTeams on ~~the UCI World Team Ranking~~ UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , according to the following: 
+The organiser must invite the best UCI ProTeams on ~~the UCI World Team Ranking~~ UCI World Ranking by Teams, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)], according to the following: 
 
 |**Number**<br>**of**<br>**UCI WorldTeams**|**Obligatory**<br>**Invitation of best**<br>**UCI ProTeams(2)(4)**|**Remaining**<br>**for Organisers**|**wild**<br>**cards**|
 |---|---|---|---|
@@ -118,8 +99,6 @@ The organiser must invite the best UCI ProTeams on ~~the UCI World Team Ranking~
 |18|3|2|4|
 |17|4|2|4|
 |16|4|3|5|
-
-
 
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
@@ -135,9 +114,7 @@ _From the 2026 season onwards, only the 30 best ranked teams on the UCI World_
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0006-01.png)
-
 
 _ranking by teams of the previous season shall be entitled to receive a “wild-card” invitation from a Grand Tour organiser._ 
 
@@ -147,7 +124,7 @@ UCI ProTeams that accept the obligatory invitation from the organiser (except wi
 
 ## **Provisions for UCI WorldTour one-day races** 
 
-The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , according to the following: 
+The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)], according to the following: 
 
 |**Number**<br>**of**<br>**UCI WorldTeams**|**Obligatory Invitation of best**<br>**UCI ProTeams(2) (3)**|**Remaining**<br>**wild**<br>**cards**<br>**for Organisers(3)**|
 |---|---|---|
@@ -155,21 +132,19 @@ The organiser must invite the best UCI ProTeams on the UCI World Team Ranking, a
 |17|4|4|
 |16|4|5|
 
-
-
 > _**(1)** For the purpose of this article, teams registered as UCI ProTeam or UCI WorldTeam during the previous season are taken into consideration._ 
 
 > _**(2)** Invitations declined by invited UCI ProTeams may be used by the organiser as additional wild cards._ 
 
 ## **Provisions for UCI Women’s WorldTour events** 
 
-The organiser must send an invitation to ~~all UCI Women's WorldTeams and to~~ the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)] , in accordance with the following provisions. 
+The organiser must send an invitation to ~~all UCI Women's WorldTeams and to~~ the two best UCI Women's ProTeams in the UCI World Team Ranking, as at the last day of the previous season (within the meaning of article 2.1.001)[ (1)], in accordance with the following provisions. 
 
 In the event that the number of UCI Women's WorldTeams is less than 13, the number of obligatory invitations to UCI Women’s ProTeams, based on the abovementioned ranking, shall be increased accordingly in order to ensure a minimum number of 15 invitations to UCI WorldTeams and UCI Women’s ProTeam. 
 
 ## **Provisions for ME UCI ProSeries** 
 
-The organiser must invite the first 5 UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)] . 
+The organiser must invite the first 5 UCI ProTeams on the UCI World Team Ranking, as considered on the last day of the previous season (within the meaning of article 2.1.001)[ (1)]. 
 
 The organiser must also invite the UCI ProTeams of the host country. 
 
@@ -179,9 +154,7 @@ As a matter of exception to article 1.2.049, the UCI ProTeam shall confirm its
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0007-01.png)
-
 
 participation or not to the organiser at the latest 70 days before the event. 
 
@@ -217,9 +190,7 @@ Without prejudice to articles 1.2.053, 1.2.055 and 2.2.003 bis, if a team, witho
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0008-01.png)
-
 
 ## **Special provisions for UCI ProSeries men elite events** 
 
@@ -234,8 +205,6 @@ The minimum number of starting teams for UCI ProSeries events is established as 
 |One-day events|20 teams of 6 riders;<br>or<br>17 teams of 7 riders|21 teams of 6 riders;<br>or<br>18 teams of 7 riders|22 teams of 6 riders;<br>or<br>19 teams of 7 riders|
 |**Events outside Europe**||||
 |Stage races and<br>One-day events|17 teams of 6 riders;<br>or<br>15 teams of 7 riders|18 teams of 6 riders;<br>or<br>16 teams of 7 riders|19 teams of 6 riders;<br>or<br>17 teams of 7 riders|
-
-
 
 ## **Special provisions for Women Elite events of the UCI Women’s WorldTour and UCI ProSeries** 
 
@@ -269,9 +238,7 @@ _3. the start order of nations which are not ranked in the men’s UCI world ran
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0009-01.png)
-
 
 ## _**Women Elite**_ 
 
@@ -285,7 +252,7 @@ _3. the start order of nations which are not ranked in the women’s UCI world r
 
 _1. for the world championships only, the nation which won the previous world champion title;_ 
 
-_2. The nations ranked according to th_ ~~_e the latest standings of the Under 23 nations’ cup ;_~~ _last published men’s UCI world ranking Under 23 by nation_ 
+_2. The nations ranked according to th_ ~~_e the latest standings of the Under 23 nations’ cup;_~~ _last published men’s UCI world ranking Under 23 by nation_ 
 
 _3. The start order of nations which are not ranked in the_ ~~_Under 23 nations’ cup_~~ _last published men’s UCI world ranking Under 23 by nation shall be determined by drawing lots._ 
 
@@ -325,9 +292,7 @@ _(text modified on 1.01.00; 1.01.08; 1.01.09; 1.08.13; 1.01.16; 1.07.18, 01.01.2
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0010-01.png)
-
 
 - **2.10.004 UCI Under 23 UCI World ranking by nations** 
 
@@ -373,9 +338,7 @@ The awarding of points for stage races is in accordance with article 2.6.001
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0011-01.png)
-
 
 regarding the duration of the event. 
 
@@ -426,13 +389,9 @@ For team time trial events and stages the points on the scale shall be awarded t
 |**39**|3||||||
 |**40**|3||||||
 
-
-
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0012-01.png)
-
 
 **- Prologue, stages and half stages in continental calendar events** 
 
@@ -444,16 +403,12 @@ MEMORANDUM 3.10.2025
 |**4**|5||||||
 |**5**|3||||||
 
-
-
 **Wearing the race leader’s jersey in a continental calendar event (per stage)** 
 
 |**stage)**|||||||
 |---|---|---|---|---|---|---|
 |Positi<br>on|UCI ProSer<br>ies|Class 1|Class 2|2.2U|~~Ncup~~<br>~~Tour~~<br>~~de~~<br>~~l~~’~~Avenir~~|~~Ncup~~|
 |**1**|5|3|1|1|~~2~~|~~1~~|
-
-
 
 _(article introduced on 1.01.16; modified on 1.01.17; 25.10.17; 22.10.18; 1.01.19; 23.10.19, 1.01.23; 17.06.24, 01.11.25)._ 
 
@@ -473,21 +428,17 @@ Article 2.10.014, paragraphs 2 to 4, apply to “UCI World ranking for women UCI
 
 Ties between teams shall be resolved by counting the greatest number of 1st places on the (final general) classification (on time) within the results which 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0013-00.png)
-
 
 ## MEMORANDUM 
 
 ## 3.10.2025 
 
-count towards the “UCI World ranking for women UCI teams – 3 years” over the course of the period of the ranking ~~of their best 8 riders on the UCI individual world ranking during races run in the course of the current season~~ . . If there is still a tie between teams, it will be resolved by the greatest number of 2nd places, then 3rd places, etc. 
+count towards the “UCI World ranking for women UCI teams – 3 years” over the course of the period of the ranking ~~of their best 8 riders on the UCI individual world ranking during races run in the course of the current season~~. . If there is still a tie between teams, it will be resolved by the greatest number of 2nd places, then 3rd places, etc. 
 
 ( _article introduced on 1.11.21; modified on 1.11.25_ ). 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0014-00.png)
-
 
 MEMORANDUM 3.10.2025 
 
@@ -503,13 +454,9 @@ _(chapter introduced on 1.01.19)._
 |---|---|---|---|---|---|
 ||**Games and Championships**<br>Olympic Games<br>Elite UCI World Championships<br>**Men Elite events**<br>UCI WorldTour||**Games and Championships**<br>Under-23 and Junior UCI World<br>Championships<br>Continental Championships<br>Continental Games<br>National Championships Elite ME-<br>WE<br>**Men Elite events**<br>UCI ProSeries<br>Class 1<br>**Women Elite events**<br>UCI Women’s WorldTour<br>UCI ProSeries<br>Para-cycling<br>Paralympic Games<br>UCI World Championships<br>UCI World Cups||**Men Elite events**<br>Class 2<br>**Women Elite events**<br>Class 1 and Class 2<br>**Men Under 23 events**<br>~~UCI Nations~~’~~Cup~~<br>Other events<br>**Other events**<br>UCI Junior Nations’ Cups<br>Junior events<br>National events<br>Other events<br>Para-cycling:<br>Other events|
 
-
-
 _(text modified on 1.07.19; 24.09.19; 23.10.19; 1.04.21; 17.04.21; 10.06.21; 1.01.23; 1.01.24; 1.08.24, 1.01.25; 1.04.25; 1.11.25)_ 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0015-00.png)
-
 
 ## MEMORANDUM 
 
@@ -525,15 +472,11 @@ _(text modified on 1.07.19; 24.09.19; 23.10.19; 1.04.21; 17.04.21; 10.06.21; 1.0
 |4.2        Infringements or non-compliance with obligations relating to event safety and in particular:<br>-<br>obligation to provide sufficient security staff to ensure the safety of the race;<br>-<br>obstacle or danger that is not indicated or not made sufficiently safe;<br>-<br>race route not entirely closed and road traffic not stopped on the route;<br>-<br>obstacles representing a risk and tunnels not indicated or insufficiently lit;<br>-<br>obligations relating to the protection of the race route by the appropriate use of barriers;<br>-<br>race route used by vehicles or persons other than riders or following vehicles during a<br>time trial.|Fine of CHF 10,000 to 50,000|
 |4.3<br>Failure to appoint Event Safety Manager certified by UCI or non-compliance with obligations<br>relating to his role|Fine of CHF 5,000 to 25,000|
 
-
-
 _(text modified on 8.02.21; 01.11.25)._ 
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0016-01.png)
-
 
 ## **Chapter XIII  UCI WOMEN’S WORLDTOUR** 
 
@@ -567,9 +510,7 @@ The obligations of UCI Women’s WorldTeams with respect to participation in the
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0017-01.png)
-
 
 ## **2.13.006 BIS** 
 
@@ -609,9 +550,7 @@ _(text introduced on 01.11.25)._
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0018-01.png)
-
 
 The licence commission may also take account of acknowledged facts. 
 
@@ -625,17 +564,9 @@ _(text modified on 12.06.20; 10.06.21; 01.11.25)._
 
 ## **Chapter XIV  UCI CUPS** 
 
-|~~**§ 2**~~<br>~~**2.14.015**~~ <br>~~**2.14.016**~~ <br>~~**2.14.017**~~ <br>~~**2.14.018**~~<br>~~**2.14.019**~~ <br>~~**2.14.020 **~~|~~**UCI Men Under 23 Nations’ Cup**~~<br>~~_(paragraph introduced on 1.01.07). [_~~_Paragraph abrogated on 01.11.25]._<br>~~**General**~~<br>~~The UCI Men Under 23 Nations~~’~~Cup shall be the exclusive property of the UCI.~~<br>~~The UCI Men Under 23 Nations~~’~~Cup consists of a number of events selected~~<br>~~each year by the UCI Management Committee as listed in the points scale in~~<br>~~Art. 2.14.026.~~<br>~~_(text modified on 9.11.20)_[~~article abrogated on_01.11.25_].<br>~~The organisers must sign a contract with the UCI, governing, inter alia, the~~<br>~~audio-visual broadcasting rights, marketing rights and the material organisation~~<br>~~of the events.~~<br>_[article abrogated on 01.11.25]._<br>~~**Participation**~~<br>~~The UCI Men Under 23 Nations~~’~~Cup is reserved for men from 19 to 22 years of~~<br>~~age.~~<br>~~_(text modified on 1.01.15; 1.01.16)._~~_[article abrogated on 01.11.25]._<br>~~UCI Men Under 23 Nations~~’~~Cup events are open to national teams (one team~~<br>~~per nation), regional and club teams subject to provisions of Article 2.1.005 and~~<br>~~mixed teams.~~<br>~~_(text modified on 1.10.10; 23.10.19)._~~_[article abrogated on 01.11.25]._<br>~~The organiser of events which take place during the 1st January to 30 June,~~<br>~~must send an invitation to 26 countries as follows:~~|
-|---|---|
-||~~e organser o evens wc ae pace urng e~~<br>~~must send an invitation to 26 countries as follows:~~|
-
-
-
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0019-01.png)
-
 
       - ’ 
 
@@ -695,11 +626,7 @@ MEMORANDUM 3.10.2025
 ||~~**10**~~||~~11~~|
 ||~~**11**~~||~~10~~|
 
-
-
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0020-00.png)
-
 
 MEMORANDUM 3.10.2025 
 
@@ -715,8 +642,6 @@ MEMORANDUM 3.10.2025
 |~~**19**~~||~~2~~|
 |~~**20**~~||~~1~~|
 
-
-
 ## ~~**Results in prologue and stages**~~ 
 
 |~~Position~~||~~Prologue~~<br>~~and~~<br>~~stages~~|
@@ -724,8 +649,6 @@ MEMORANDUM 3.10.2025
 |~~**1**~~||~~3~~|
 |~~**2**~~||~~2~~|
 |~~**3**~~||~~1~~|
-
-
 
 ## ~~**Final results in UCI Men Under 23 Nation’s Cup one-day races**~~ 
 
@@ -747,8 +670,6 @@ MEMORANDUM 3.10.2025
 |~~**14**~~||~~2~~|
 |~~**15**~~||~~1~~|
 
-
-
 ## ~~**Final results in the Continental Championships**~~ 
 
 |~~Position~~||~~Euroean~~||~~Continental~~||~~Asian,~~<br>~~African,~~<br>~~American~~<br>~~and~~<br>~~Oceanian Championships~~|~~Asian,~~<br>~~African,~~<br>~~American~~<br>~~and~~<br>~~Oceanian Championships~~|~~Asian,~~<br>~~African,~~<br>~~American~~<br>~~and~~<br>~~Oceanian Championships~~|
@@ -764,17 +685,13 @@ MEMORANDUM 3.10.2025
 |~~**7**~~||~~2~~||~~2~~|||||
 |~~**8**~~||~~1~~||~~1~~|||||
 
-
-
 ~~**Final results in the UCI Road World Championships** Position UCI Road World Championships~~ 
 
 ~~Men Under 23~~ 
 
 ~~Men Under 23~~ 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0021-00.png)
-
 
 MEMORANDUM 3.10.2025 
 
@@ -800,8 +717,6 @@ MEMORANDUM 3.10.2025
 |~~**18**~~||~~2~~|||
 |~~**19**~~||~~1~~|||
 |~~**20**~~||~~1~~|||
-
-
 
 ~~_(text modified on 1.07.11; 1.01.17; 9.11.20, 17.06.24)._~~ _[article abrogated on 01.11.25]._ 
 
@@ -829,9 +744,7 @@ _[article abrogated on 01.11.25]._
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0022-01.png)
-
 
 ~~_(text modified on 1.01.08; 9.11.20)._~~ _[article abrogated on 01.11.25 ]._ 
 
@@ -879,9 +792,7 @@ MEMORANDUM 3.10.2025
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0023-01.png)
-
 
 ## **Examination by the licence commission** 
 
@@ -927,9 +838,7 @@ In addition, the team shall be liable to pay the organiser of the UCI WorldTour 
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0024-01.png)
-
 
 writing between the team and the organiser. In the case of services in kind, their counter-value will be defined in consideration of the amount that would effectively have been paid by the organiser. 
 
@@ -965,9 +874,7 @@ A maximum of four UCI WorldTeams may decline their participation in the same eve
 
 MEMORANDUM 3.10.2025 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0025-01.png)
-
 
 season will be authorised not to participate. The other teams will be allowed to select a different event for which less than four UCI WorldTeams have declined participation within 15 days of the UCI’s notification. 
 
@@ -1001,11 +908,8 @@ However, a UCI continental team shall also have the right to add up to 4 riders 
 
 A UCI women’s continental team may also add 4 riders specialising in one of the disciplines listed in the preceding paragraph, as long as the riders in question are among the top 150 of the final UCI individual classification for that discipline. 
 
-
 ![](images/2-ROA-20251101-E-amendments_on_1.11.25.pdf-0026-00.png)
-
 
 MEMORANDUM 3.10.2025 
 
-_(text modified on 1.07.09; 1.07.12; 1.01.17; 1.07.18; 1.01.20; 1.11.25)._ 
-
+_(text modified on 1.07.09; 1.07.12; 1.01.17; 1.07.18; 1.01.20; 1.11.25)._
