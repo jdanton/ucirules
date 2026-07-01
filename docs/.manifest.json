@@ -279,10 +279,10 @@
     "stem": "2-ROA-20251101-E-amendments_on_1.11.25",
     "sha256": "567434e3c751166f7bf4f1ef0377669f50411740f70f7ff9cae23523dd1249d9"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/5sjOY2mlHAD9cuaRr1KrKd/c0aee1234992a5eca3846e477ae9256c/PART_8_E_-_As_of_01.02.2026.pdf": {
-    "name": "part-08-indoor-cycling__PART_8_E_-_As_of_01.02.2026.md",
-    "stem": "PART_8_E_-_As_of_01.02.2026",
-    "sha256": "9fd5dee880bdfa07b03de63080ce3ffcabeaf84d25137ff7e25fc27ecf997e0e"
+  "https://assets.ctfassets.net/761l7gh5x5an/5sjOY2mlHAD9cuaRr1KrKd/f231de049ebc07a37bfabf35a6e59ecd/PART_8_E_-_As_of_01.07.2026.pdf": {
+    "name": "part-08-indoor-cycling__PART_8_E_-_As_of_01.07.2026.md",
+    "stem": "PART_8_E_-_As_of_01.07.2026",
+    "sha256": "34bf2af7df8fcf6d2a31254243b47ed82d9090a047c8b66ffa77392a5775a1b6"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/5swcIms2xF2x1xIHE4isix/282b7a59a84f2606b2e6402e30e9447a/Memorandum-Modifications_of_the_Rules_concerning_Ban_of_monoxide_carbon_inhalations_outside_medical_facilities.pdf": {
     "name": "part-13-medical-rules__Memorandum-Modifications_of_the_Rules_concerning_Ban_of_monoxide_carbon_inhalations_outside_medical_facilities.md",
@@ -299,10 +299,10 @@
     "stem": "BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_",
     "sha256": "fe585eaadb38f11d2a9b4d6b5cd87d98169a0968cac1eaca94f2ddf3cbcf3610"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/6FEzFHeA2oKMBGb5sdIvQ7/6495a6535b573ed5eb8d7fd213b9e808/2-ROA-20260206-E.pdf": {
-    "name": "part-02-road-races__2-ROA-20260206-E.md",
-    "stem": "2-ROA-20260206-E",
-    "sha256": "4b48943d13131d5923f771ffbbd836e58f8c4c0a1c00b7f41568678629828dad"
+  "https://assets.ctfassets.net/761l7gh5x5an/6FEzFHeA2oKMBGb5sdIvQ7/96aad776f210fc38853ec9bf9ec9acba/2-ROA-20260701-E.pdf": {
+    "name": "part-02-road-races__2-ROA-20260701-E.md",
+    "stem": "2-ROA-20260701-E",
+    "sha256": "16d86260e39ce56f40ad0d610cf6de134e7a488728e17107f06c855e84f92dbc"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/6VTlwWPZHAN3CMMv94Vm32/e8035ef77b775f501e72323bb52c2801/2-ROA-20260701-E-amendments_on_01.07.26.pdf": {
     "name": "part-02-road-races__2-ROA-20260701-E-amendments_on_01.07.26.md",
@@ -394,15 +394,15 @@
     "stem": "2-ROA-20270101-E-amendments_on_01.01.27",
     "sha256": "dcb16458f773ba6c7c96ad4332423be2b2710d89b637658593802c3dd149c668"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/7IE4WjTvQLqeRF5aniDP34/ffccabbbc5b69d25994a5f656ecb2225/PART_3_E_-_As_of_01.01.2026.pdf": {
-    "name": "part-03-track-races__PART_3_E_-_As_of_01.01.2026.md",
-    "stem": "PART_3_E_-_As_of_01.01.2026",
-    "sha256": "e7352ecb88dae2d27bf0a01977c09ecfb36d599beb065cff7f6f92b408c15cb6"
+  "https://assets.ctfassets.net/761l7gh5x5an/7IE4WjTvQLqeRF5aniDP34/8a65a0feb153c6525e98fca04d1c9aa6/PART_3_E_-_As_of_01.07.2026.pdf": {
+    "name": "part-03-track-races__PART_3_E_-_As_of_01.07.2026.md",
+    "stem": "PART_3_E_-_As_of_01.07.2026",
+    "sha256": "5b31bafcfe8b3d1b3bbbf2153093a5537451ce3fa872056e2053d521d512baf9"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/7LBRCcIhjcH5S3U0kazXqf/356f16390bd307c5a81237276374c9f0/LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/7LBRCcIhjcH5S3U0kazXqf/42b6813e08badaf11626010f778444f3/LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.pdf": {
     "name": "list-of-individual-neutral-athletes__LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.md",
     "stem": "LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL",
-    "sha256": "97362abfaec5683bec708c1c2dbb792cd8a4cd0999f04f32a9b2a58381d8944e"
+    "sha256": "7e26e9165fcac6498de3c239a70fde6c53746c6b1b5de406e26b6e5954db5c15"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/73103de3e7723606e2d93602470b57d5/2026.06.05_UCI_Regulations_for_Testing_and_Investigations.pdf": {
     "name": "uci-regulations-for__2026.06.05_UCI_Regulations_for_Testing_and_Investigations.md",
