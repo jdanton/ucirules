@@ -59,10 +59,10 @@
     "stem": "Factors_2024",
     "sha256": "007aa557f1d611f9a0dd48b11667dd65c1f975e2990ca4e94ec25abc000c37d4"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/2B5HmwoAwiDz1xteuaysXa/977f60087b98e4e5aefe87d09897818f/12-DIS-202511E.pdf": {
-    "name": "part-12-discipline-and-procedures__12-DIS-202511E.md",
-    "stem": "12-DIS-202511E",
-    "sha256": "335abaa09acee9f48973e480eec11dba1d480eb8d6afca431964af27137ee8f2"
+  "https://assets.ctfassets.net/761l7gh5x5an/2B5HmwoAwiDz1xteuaysXa/2a17f38b016ede2aa07843a30c25629b/12-DIS-202607E.pdf": {
+    "name": "part-12-discipline-and-procedures__12-DIS-202607E.md",
+    "stem": "12-DIS-202607E",
+    "sha256": "b9f8bb4a01505b21d360a349194b3538cdaf19bc3690fab1f2941690da35c36e"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2J7pd7f9f5jkhVNP7hyTfH/7839730f973d4e136f352e55e2fa8409/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf": {
     "name": "hydration-testing-and-weigh-in-procedure__FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.md",
@@ -139,10 +139,15 @@
     "stem": "5-CRO-20260701-E",
     "sha256": "441477261dbcacbc2916b002869f8163a1fca09db73c201ba1c208891944c6f1"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/3pavbOFmuTjhAqthYpIn6n/487377afaa9f5278980c4dfa28d335bc/2023.01.01_UCI_ADT_Rules_final.pdf": {
-    "name": "uci-anti-doping-tribunal-procedural-rules__2023.01.01_UCI_ADT_Rules_final.md",
-    "stem": "2023.01.01_UCI_ADT_Rules_final",
-    "sha256": "c772a8c4c83702a69c0a8bf5bcd16d68e6966af93c161043a19db34dbd2ad872"
+  "https://assets.ctfassets.net/761l7gh5x5an/3h0FLd2SnseyczC3IXZpwW/b62181a7a95b56b6c00e7858f59fdbe8/040b82b3-0ce0-419b-8efe-4792f7c5d467.pdf": {
+    "name": "agents-de-coureurs-certifies-uci-uci-certified-riders__040b82b3-0ce0-419b-8efe-4792f7c5d467.md",
+    "stem": "040b82b3-0ce0-419b-8efe-4792f7c5d467",
+    "sha256": "28c2446dfba2d0363b168a5ec963c720036173d54da47be7b20a0ecdb02c578b"
+  },
+  "https://assets.ctfassets.net/761l7gh5x5an/3pavbOFmuTjhAqthYpIn6n/eb059d2c8928bbd29ec19e0c902e2c2e/2026.07.01_UCI_ADT_Rules.pdf": {
+    "name": "uci-anti-doping-tribunal-procedural-rules__2026.07.01_UCI_ADT_Rules.md",
+    "stem": "2026.07.01_UCI_ADT_Rules",
+    "sha256": "3039a0b5142c4ed215efeae23d7c9b87f1a45d7f0178bfbc544b7a5111bbf87c"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/3yzOk640gEd8yy8jeN0cYR/5d57f3579d61e0f71f79b4241d0bf045/17-CES-20260101-E.pdf": {
     "name": "part-17-cycling-esports__17-CES-20260101-E.md",
@@ -209,20 +214,15 @@
     "stem": "15-CPT-20220101-E",
     "sha256": "fab07e006c3c9db2dcd4113713a58e55383ae72a9f7b14e54fc3eadb0b8f75a7"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/4s2UBcEZrOTa1TTjuaPy0m/f1a4efdaceca502c1bfa6dc7cdd6ad2c/AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.pdf": {
-    "name": "ad-hoc-rules__AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024.md",
-    "stem": "AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_1.1.2024",
-    "sha256": "97da812805b0b6688bb62a01d869169c5ccb8430e289743ef337f9f4391ff063"
-  },
   "https://assets.ctfassets.net/761l7gh5x5an/4ssPO45UeJq3Vpla15aTfm/72cd79c19a5260f0fcf4aaafb507b0f3/2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.pdf": {
     "name": "qualification-system-for-the-2026-uci-gravel-world__2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.md",
     "stem": "2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG",
     "sha256": "88bef3930b0aff994ad07c48f30f369d01bbb7c9ec4f3496eae27ed75845537e"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/4x2vC8gH7hE38xE4A20PVp/4c0d6d64a1b11a72a0f2ea070a3f6b11/UCIProSeries_17062026.pdf": {
-    "name": "participation-equipes-continentales-uci-epreuves-uci-proseries-saison__UCIProSeries_17062026.md",
-    "stem": "UCIProSeries_17062026",
-    "sha256": "beb676afc8bdcc4addafe68db859452669a0c53f84a03b8c4b8b7debc7f4b972"
+  "https://assets.ctfassets.net/761l7gh5x5an/4x2vC8gH7hE38xE4A20PVp/0ec04f51d9455eabea46057c008f40f6/UCIProSeries_30072026.pdf": {
+    "name": "participation-equipes-continentales-uci-epreuves-uci-proseries-saison__UCIProSeries_30072026.md",
+    "stem": "UCIProSeries_30072026",
+    "sha256": "edb29d29e88878c06ac36064931e81504839763cd893de6dc1c745c2f396ff5a"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/50QlrMa7ZcAumOJJDB1wdu/1c319a91b96ae1c79c631ff3b9dc7923/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf": {
     "name": "implementation-of-in-race-communication-test-protocol___In-race_communication__test_protocol_for_the_2024_season_07.08.2024.md",
@@ -399,15 +399,15 @@
     "stem": "PART_3_E_-_As_of_01.07.2026",
     "sha256": "5b31bafcfe8b3d1b3bbbf2153093a5537451ce3fa872056e2053d521d512baf9"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/7LBRCcIhjcH5S3U0kazXqf/42b6813e08badaf11626010f778444f3/LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/7LBRCcIhjcH5S3U0kazXqf/86dacbb42fdd9049340039331d7d55dd/LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.pdf": {
     "name": "list-of-individual-neutral-athletes__LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.md",
     "stem": "LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL",
-    "sha256": "7e26e9165fcac6498de3c239a70fde6c53746c6b1b5de406e26b6e5954db5c15"
+    "sha256": "d00fc758c76880f7eff444e5e3ae989130e2cbb3844c89c7f587ff89cfcf7e50"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/73103de3e7723606e2d93602470b57d5/2026.06.05_UCI_Regulations_for_Testing_and_Investigations.pdf": {
-    "name": "uci-regulations-for__2026.06.05_UCI_Regulations_for_Testing_and_Investigations.md",
-    "stem": "2026.06.05_UCI_Regulations_for_Testing_and_Investigations",
-    "sha256": "13a4c2353f06d87bd2d39ea01c3bd5cb619defacef0fdf850d00248dcfd37649"
+  "https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/d6daf415c4d010291c676d83a28d3910/2026.06.05_UCI_Regulations_for_Testing_and_Investigations-.pdf": {
+    "name": "uci-regulations-for__2026.06.05_UCI_Regulations_for_Testing_and_Investigations-.md",
+    "stem": "2026.06.05_UCI_Regulations_for_Testing_and_Investigations-",
+    "sha256": "1e6be0b856ff457034ca28596c73ef62e29bd41c0fa1d21b50ee0d9929a6e856"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/7eOPBFpvGU9U1qJqYFmtBd/8afe6ad0f298c8bec1ad2b5aeb5180e5/UCI_TIR_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_ON_5.06.2026.pdf": {
     "name": "uci-testing-and-investigations-regulations-uci-tir-rules__UCI_TIR_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_ON_5.06.2026.md",
@@ -454,15 +454,10 @@
     "stem": "protectedmarksambushmarketing_neutral",
     "sha256": "ac38885e05df0a84337c78cb47a6280996361d937e88b9dda24c1576a17a3474"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/LO1l4h9SPu5rwstGnk2rm/1f3365d5b3d369a4a40d8b387c9cf2c8/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_20.06.2025.pdf": {
-    "name": "part-12-discipline-and-procedures__PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_20.06.2025.md",
-    "stem": "PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_20.06.2025",
-    "sha256": "5b473c92a615ae59105e5968a50b68a869bdac7897182a0d0392ec3d702278f5"
-  },
-  "https://assets.ctfassets.net/761l7gh5x5an/MiBPXV3F9Y4jGKqffTUNr/900519630eaa839e5970615b6fc6f141/1-GEN-20260701-E.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/MiBPXV3F9Y4jGKqffTUNr/4783235017d89743df0411995d198784/1-GEN-20260701-E.pdf": {
     "name": "part-01-general-organisation-of-cycling-as-a-sport__1-GEN-20260701-E.md",
     "stem": "1-GEN-20260701-E",
-    "sha256": "cd5a0185206086a7a47a752610569a8db09bf9cc4a62f7fb9b7b7f848632b818"
+    "sha256": "0e17e335645200fc854d7ee53ca4fea230d92fcccbf0c773f8c57bcd00d74c8a"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/NAeT9EN3grfH1b8uTXoYv/937423b10b08168cecdd562162fc7372/2-ROA-20251020-E-amendments_on_20.10.25.pdf": {
     "name": "part-02-road-races__2-ROA-20251020-E-amendments_on_20.10.25.md",
