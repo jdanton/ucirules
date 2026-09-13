@@ -145,10 +145,12 @@ gh workflow run monthly-sync.yml
 gh run watch
 ```
 
-The automated run handles the mechanical sync + deploy. The narrative
-[What changed](docs/whats-changed.md) summary is written separately (it reads
-the amendment text), so refresh that by hand after a sync that you want to
-annotate.
+The automated run handles the mechanical sync + deploy. Each sync that finds
+changes also inserts a dated entry at the top of
+[What changed](docs/whats-changed.md) listing the documents it added, updated
+or removed, flagged "summary not yet written". The plain-English summary reads
+the amendment text, so write it by hand: replace that note with the
+article-by-article changes.
 
 ## Layout
 

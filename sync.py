@@ -31,6 +31,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import time
 import unicodedata
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -357,9 +358,82 @@ def sync_markdown(args) -> bool:
             del manifest[u]
             print(f"  deleted {old[u]['name']}")
 
+    log_sync(out, [manifest[u]["name"] for u in added],
+             [manifest[u]["name"] for u in changed],
+             [old[u]["name"] for u in removed])
     manifest_path.write_text(json.dumps(dict(sorted(manifest.items())), indent=2) + "\n")
     print(f"\nManifest updated: {manifest_path}")
     return True
+
+
+CHANGELOG_NAME = "whats-changed.md"
+CHANGELOG_MARKER = "<!-- sync-log: new entries are inserted below this line -->"
+
+
+def log_sync(out: Path, added: list[str], changed: list[str], removed: list[str]) -> None:
+    """Insert a dated entry at the top of the What changed page listing the
+    documents this sync added, updated or removed.
+
+    The plain-English summary needs a human (it reads the amendment text), so
+    the entry is flagged as pending; the document list keeps the page from
+    silently falling behind the regulations it describes. A new version of a
+    document usually arrives under a new URL (added + removed); when exactly
+    one of each shares a title slug, they are reported as a single update.
+    """
+    if not (added or changed or removed):
+        return
+    page = out / CHANGELOG_NAME
+    if not page.exists():
+        print(f"  (no {CHANGELOG_NAME}; skipping change log)")
+        return
+    import build_nav  # lazy: build_nav imports this module
+
+    known = build_nav.load_titles()
+
+    def title(name: str) -> str:
+        if (out / name).exists():
+            md = (out / name).read_text(encoding="utf-8", errors="ignore")
+            return build_nav.make_title(md, build_nav.src_stem(name))
+        return known.get(name) or build_nav.src_stem(name)
+
+    def slug(name: str) -> str | None:
+        return name.split("__", 1)[0] if "__" in name else None
+
+    added, removed = list(added), list(removed)
+    replaced: list[tuple[str, str]] = []
+    for s in {slug(n) for n in added} - {None}:
+        new = [n for n in added if slug(n) == s]
+        gone = [n for n in removed if slug(n) == s]
+        if len(new) == 1 and len(gone) == 1:
+            replaced.append((new[0], gone[0]))
+            added.remove(new[0])
+            removed.remove(gone[0])
+
+    def link(name: str) -> str:
+        return f"[{title(name)}]({name})"
+
+    lines = [
+        f"## {time.strftime('%Y-%m-%d', time.gmtime())} sync", "",
+        "> Automated entry — plain-English summary not yet written. Open the",
+        "> documents below for the full text.", "",
+    ]
+    lines += [f"- **Updated:** {link(new)} (replaces {title(old)})"
+              for new, old in sorted(replaced)]
+    lines += [f"- **Updated:** {link(n)}" for n in sorted(changed)]
+    lines += [f"- **Added:** {link(n)}" for n in sorted(added)]
+    lines += [f"- **Removed:** {title(n)}" for n in sorted(removed)]
+    entry = "\n".join(lines) + "\n\n"
+
+    text = page.read_text(encoding="utf-8")
+    if CHANGELOG_MARKER in text:
+        head, tail = text.split(CHANGELOG_MARKER, 1)
+        text = head + CHANGELOG_MARKER + "\n\n" + entry + tail.lstrip("\n")
+    else:  # no marker: put the entry before the first dated section
+        i = text.find("\n## ")
+        text = text + "\n" + entry if i < 0 else text[:i + 1] + entry + text[i + 1:]
+    page.write_text(text, encoding="utf-8")
+    n = sum(1 for line in lines if line.startswith("- "))
+    print(f"  logged {n} document change(s) in {CHANGELOG_NAME}")
 
 
 def build_docs(deploy: bool) -> None:
