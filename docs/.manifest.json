@@ -1,8 +1,8 @@
 {
-  "https://assets.ctfassets.net/761l7gh5x5an/11IRWyNkJrLJbb55eBVIv9/245031cfd77e572ed4ebf3db41005ff9/LIST_OF_RIDERS_AND_SUPPORT_PERSONNEL_INELIGIBLE_TO_TAKE_PART_IN_EVENTS_ON_THE_UCI_INTERNATIONAL_CALENDAR.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/11IRWyNkJrLJbb55eBVIv9/d317b322bc9ae0c853a41e1f906dd5c4/LIST_OF_RIDERS_AND_SUPPORT_PERSONNEL_INELIGIBLE_TO_TAKE_PART_IN_EVENTS_ON_THE_UCI_INTERNATIONAL_CALENDAR.pdf": {
     "name": "LIST_OF_RIDERS_AND_SUPPORT_PERSONNEL_INELIGIBLE_TO_TAKE_PART_IN_EVENTS_ON_THE_UCI_INTERNATIONAL_CALENDAR.md",
     "stem": "LIST_OF_RIDERS_AND_SUPPORT_PERSONNEL_INELIGIBLE_TO_TAKE_PART_IN_EVENTS_ON_THE_UCI_INTERNATIONAL_CALENDAR",
-    "sha256": "eca0d3b94c5416083f45d4f2a4eefa9f1bf17a7595535d998aa72cbbe8ce6e73"
+    "sha256": "0b79f29bce85dd16a652198c15bbfaddbcbd3659588632b7a071e174a5539b7b"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/122Ylx2XJjbqzh6xPCu7sK/fe762381d62cd065d5549e7d7bdacfb8/6-BMX-20260101-E.pdf": {
     "name": "part-06-bmx-racing__6-BMX-20260101-E.md",
@@ -34,10 +34,10 @@
     "stem": "UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG",
     "sha256": "651bbff9f9ad6ccef0d7fe6335e477361491f751ee6573edb9d9bba974135267"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/1O8vZKfSFHCD5F17rTS9Lv/c288d685785715d23d1c224c1acddbe8/2-ROA-20261019-E-amendments_on_19.10.26.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/1O8vZKfSFHCD5F17rTS9Lv/b4a67895a46d1c4399590baa4eb78131/2-ROA-20261019-E-amendments_on_19.10.26.pdf": {
     "name": "part-02-road-races__2-ROA-20261019-E-amendments_on_19.10.26.md",
     "stem": "2-ROA-20261019-E-amendments_on_19.10.26",
-    "sha256": "446c5e9cb2bc4987151052e9bbee2fd3ca4d861cbaa6b5376efc304581c652ee"
+    "sha256": "e56b30bd4f2422a20f605b948d9ea2494cd14bbd8eca0b940537319cfb1cd2ee"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/1OdDb4wFtapxklyz0ct6F5/e6461e82ab7e3e92dd88a9c64c6a2029/OBLIGATORY_INVITATIONS_TO_2026_EVENTS_ANG.pdf": {
     "name": "obligatory-invitations-to-2026-events__OBLIGATORY_INVITATIONS_TO_2026_EVENTS_ANG.md",
@@ -79,6 +79,11 @@
     "stem": "Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26",
     "sha256": "337b1aee5b2fb2d8326e7f33e12e946a1d9cfcfafd712e38623720bbbdf792f7"
   },
+  "https://assets.ctfassets.net/761l7gh5x5an/2TYigEwTPlhhihdU6b0ZPh/60cd28dae8fa0b7326e5ee7ad3aa492e/18-GRA-20261001-E.pdf": {
+    "name": "part-18-gravel__18-GRA-20261001-E.md",
+    "stem": "18-GRA-20261001-E",
+    "sha256": "c98a41cb19c4cbac1680b295884a65fdd6778e977a2185ac52ab9b2bf19a99ff"
+  },
   "https://assets.ctfassets.net/761l7gh5x5an/2TbzcEo3uXo2pQpbyTSNhF/22363b6729decab26748f9189fb926e5/Part_3_Track_Regulations_amendments_2025_approved_in_September_2025.pdf": {
     "name": "part-03-track-races__Part_3_Track_Regulations_amendments_2025_approved_in_September_2025.md",
     "stem": "Part_3_Track_Regulations_amendments_2025_approved_in_September_2025",
@@ -89,10 +94,10 @@
     "stem": "2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026",
     "sha256": "417a18e11c9b4c4e8d2f38c4c139169f28ff7e4434fa4de1f26c8adaaf8bf4a5"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/2hSKKwLFWuz8ApFjJHZVWf/f38b6379015dee7735b62aa3218583ed/16-PAR-20260101-E.pdf": {
-    "name": "part-16-para-cycling__16-PAR-20260101-E.md",
-    "stem": "16-PAR-20260101-E",
-    "sha256": "9341b0cb2cc46e8a040d7cacd3ed2c3f933f2ebe2f33dc73b4fa03bfdb1e3f32"
+  "https://assets.ctfassets.net/761l7gh5x5an/2hSKKwLFWuz8ApFjJHZVWf/cdbade9308cf360207a9e432c130fa28/16-PAR-20261001-E.pdf": {
+    "name": "part-16-para-cycling__16-PAR-20261001-E.md",
+    "stem": "16-PAR-20261001-E",
+    "sha256": "51fcc400faf26bc97676eddb12ab73ea9ed8d12e5d21235d544a0a96dcc47bce"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2qsIuXfqIF2NaTMMS4Gioc/bfd08f444c404aeb24737471a5fea7a0/2-ROA-20260206-E-amendments_on_06.02.26.pdf": {
     "name": "part-02-road-races__2-ROA-20260206-E-amendments_on_06.02.26.md",
@@ -109,15 +114,15 @@
     "stem": "2025_UCI_CONSTITUTION___CONGRESS_EN_sept",
     "sha256": "a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1"
   },
+  "https://assets.ctfassets.net/761l7gh5x5an/362rx6eX91snbNpx8YdLYp/0a44902edd6756149fc6f380c9d32060/GUIDELINES_UCI_EVENT_SAFETY_MANAGER_ENG.pdf": {
+    "name": "guidelines-uci-uci-event-safety-manager-guide__GUIDELINES_UCI_EVENT_SAFETY_MANAGER_ENG.md",
+    "stem": "GUIDELINES_UCI_EVENT_SAFETY_MANAGER_ENG",
+    "sha256": "bc24d67d0bf0a95a0c2cbf2b518f3af1f1947267a0ab2427f606f554caa9f6e5"
+  },
   "https://assets.ctfassets.net/761l7gh5x5an/3EjeIEEJpI38fDQOoc54AI/f129dfb46216fb0da53ee7a76e0b05e9/Article2.2.001_Participation_Equipes_2026_20032026.pdf": {
     "name": "road-teams-participation-2026-season__Article2.2.001_Participation_Equipes_2026_20032026.md",
     "stem": "Article2.2.001_Participation_Equipes_2026_20032026",
     "sha256": "057df54f49fa99d0d077baa40ce3860264fe177cdfa697e39f9f17aa5bf24846"
-  },
-  "https://assets.ctfassets.net/761l7gh5x5an/3Jr7WV5r0jjoXIOaLq0fCg/2f076a7932b1e4a0c760e3aee7aa8362/Trials_Rule_changes_2025-ENG_Upcoming_amendments_.pdf": {
-    "name": "part-07-trials__Trials_Rule_changes_2025-ENG_Upcoming_amendments_.md",
-    "stem": "Trials_Rule_changes_2025-ENG_Upcoming_amendments_",
-    "sha256": "3c94cde5af60a83c833c00e7cebcff298c2c623981d6a5cf5c6b987b01299554"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/3MyeUMW4jEZ2lXFYkmKW9d/abd0891cf682a8de2485ab1ca939519b/10-CC-20260101-E.pdf": {
     "name": "part-10-continental-championships-and-regional-games__10-CC-20260101-E.md",
@@ -134,10 +139,20 @@
     "stem": "2026_ANNEX_1_OF_THE_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01_07_2026",
     "sha256": "dbc6e4484da10fe7e00c5f8527c2c176cb99a58fc27a263aa92e37428257c4fc"
   },
+  "https://assets.ctfassets.net/761l7gh5x5an/3VR4HXhjyqVBEzL53UEeYN/1b5877f49f399d4c9ed3eeb82ca02ed2/BMX_Freestyle_Rule_changes_2027-ENG_Upcoming_amendments.pdf": {
+    "name": "part-06bis-bmx-freestyle__BMX_Freestyle_Rule_changes_2027-ENG_Upcoming_amendments.md",
+    "stem": "BMX_Freestyle_Rule_changes_2027-ENG_Upcoming_amendments",
+    "sha256": "324d90cffdda825086c41d6da8dabbd9964451de9f3b06d0ed3db17a257bef1b"
+  },
   "https://assets.ctfassets.net/761l7gh5x5an/3X0PPNdbWNAhMGaZzKly8J/c1ffde19720611fa2fddae4e4601845b/5-CRO-20260701-E.pdf": {
     "name": "part-05-cyclo-cross__5-CRO-20260701-E.md",
     "stem": "5-CRO-20260701-E",
     "sha256": "441477261dbcacbc2916b002869f8163a1fca09db73c201ba1c208891944c6f1"
+  },
+  "https://assets.ctfassets.net/761l7gh5x5an/3YY9ImXFrPDcp0C3UFAYlB/a195df4b7b52e495d17a24ae97be6770/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf": {
+    "name": "part-04-mountain-bike__MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.md",
+    "stem": "MTB_Rules_Changes_2027_-_EN__Upcoming_amendments",
+    "sha256": "8b67fff8378932f2f4a401f7fad9e44edd3b33e4ca9a2ef1c5eb243c15bda4fd"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/3h0FLd2SnseyczC3IXZpwW/98e9198fa33ddef1c3d6409bea66fedb/c47d71b8-29db-46f7-a9d4-b15154dbe2d7.pdf": {
     "name": "agents-de-coureurs-certifies-uci-uci-certified-riders__c47d71b8-29db-46f7-a9d4-b15154dbe2d7.md",
@@ -153,11 +168,6 @@
     "name": "part-17-cycling-esports__17-CES-20260101-E.md",
     "stem": "17-CES-20260101-E",
     "sha256": "a86963cb62eb5f4730d0f894045261bd9df37230830d07a66453851824628130"
-  },
-  "https://assets.ctfassets.net/761l7gh5x5an/42H9bdLhZapXY8bU7Y66xJ/c5cab52fd752fdae150d97eb9b8faf1c/2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.pdf": {
-    "name": "part-04-mountain-bike__2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN.md",
-    "stem": "2025_UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_-_EN",
-    "sha256": "d517b5e19bc546785b16058d545d811f490b44fa2f870b85a40ff2279578411b"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/42nORb31V3AuUM8Vtnjomk/691a80911977dbfaf8533253af791a27/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf": {
     "name": "part-07-trials__2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.md",
@@ -184,6 +194,11 @@
     "stem": "UCI_Part_I_-_Rule_Changes_on_01.01.2028",
     "sha256": "3301ec2df59887b7a9a50583e6861658a18547b9ab766c2312af55e61732ec54"
   },
+  "https://assets.ctfassets.net/761l7gh5x5an/4M5KimNkW8jl8wNtK9mfLS/6799061a5eb8bf2b9510e6e6f03a389e/BMX_Racing_Rule_changes_2027-ENG_Upcoming_amendments.pdf": {
+    "name": "part-06-bmx-racing__BMX_Racing_Rule_changes_2027-ENG_Upcoming_amendments.md",
+    "stem": "BMX_Racing_Rule_changes_2027-ENG_Upcoming_amendments",
+    "sha256": "7288925064891cf8922a6838765e803faa2c659b70e2032cc08e90bae7f55387"
+  },
   "https://assets.ctfassets.net/761l7gh5x5an/4SZyGyu6jke9EAVgMgAbbh/817b7cfb4e1772a70c567f4103df47d2/Part_8_Regulation_amendments_applying_on_01.07.2025.pdf": {
     "name": "part-08-indoor-cycling__Part_8_Regulation_amendments_applying_on_01.07.2025.md",
     "stem": "Part_8_Regulation_amendments_applying_on_01.07.2025",
@@ -209,10 +224,10 @@
     "stem": "Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments",
     "sha256": "c52549fa0338f24f5a1fc57fd15d865c9d3e1ce156efecd917638f511ff1e719"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/4nj0eMn8dOZa37oOfbowBm/074e1d5411d67fd5f71ddb9239d63c81/15-CPT-20220101-E.pdf": {
-    "name": "part-15-cycling-for-all__15-CPT-20220101-E.md",
-    "stem": "15-CPT-20220101-E",
-    "sha256": "fab07e006c3c9db2dcd4113713a58e55383ae72a9f7b14e54fc3eadb0b8f75a7"
+  "https://assets.ctfassets.net/761l7gh5x5an/4nj0eMn8dOZa37oOfbowBm/27a36cc878ba3ae13ab9825d430e76a9/15-CPT-20261001-E.pdf": {
+    "name": "part-15-cycling-for-all__15-CPT-20261001-E.md",
+    "stem": "15-CPT-20261001-E",
+    "sha256": "79b4d09cbf9d096702fcedc3f0571e16ed2abecea47a1eeec385fa2900da3daf"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/4ssPO45UeJq3Vpla15aTfm/72cd79c19a5260f0fcf4aaafb507b0f3/2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.pdf": {
     "name": "qualification-system-for-the-2026-uci-gravel-world__2026_UCI_Gravel_World_Championships_-_Qualification_System_-_ENG.md",
@@ -259,20 +274,25 @@
     "stem": "UCI_Part_I_-_Rule_Changes_on_01.01.2027",
     "sha256": "36f2ef591c06a10932a971432effeca73d9a276ecebbe66d65107be8d3a34bd8"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/5Xb7NjQq4EnBY3TsmuMDSF/de069b1786973522fcf9f14dbe9453fb/1-E_Amendments_on_01.01.2026.pdf": {
-    "name": "part-01-general-organisation-of-cycling-as-a-sport__1-E_Amendments_on_01.01.2026.md",
-    "stem": "1-E_Amendments_on_01.01.2026",
-    "sha256": "efc994350db6b761f618aba9e564a43e352f631a8c25b0da929c060e18be2009"
+  "https://assets.ctfassets.net/761l7gh5x5an/5Sawa0dC4dCcl9necHajEx/fe97c630720368850cdd14b9112c4678/Trials_Rule_changes_2027-ENG_Upcoming_amendments.pdf": {
+    "name": "part-07-trials__Trials_Rule_changes_2027-ENG_Upcoming_amendments.md",
+    "stem": "Trials_Rule_changes_2027-ENG_Upcoming_amendments",
+    "sha256": "12a6ed4f136b7d4c848bfbfdf2c4fd886b85102c0292fafdb4f20e56330a5f30"
+  },
+  "https://assets.ctfassets.net/761l7gh5x5an/5Xb7NjQq4EnBY3TsmuMDSF/3481a690e0d95a29109267f8ff877659/UCI_Part_I_-_Rule_Changes_on_01.10.2026.pdf": {
+    "name": "part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_01.10.2026.md",
+    "stem": "UCI_Part_I_-_Rule_Changes_on_01.10.2026",
+    "sha256": "d3ed2e34d718b2f08bc52cd942c43a8b43bb5cd08da83fc85864de80b4c34d03"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/5ZszbcdPPoMq5cC82OxkTl/1bd65dd4b4e10902357c7bd727c9d77b/2023_UCI_ETHICS_EN_04-08-23.pdf": {
     "name": "officials__2023_UCI_ETHICS_EN_04-08-23.md",
     "stem": "2023_UCI_ETHICS_EN_04-08-23",
     "sha256": "85c14ce1220a7c1076e54b305ad384619a8239d5f4461e88000eddaf036b643a"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/5hGw8gdhwOiJXI0ZlUyVLn/f0be59d89c4abfffd1544fa773bace67/UCI_Part_IX_-_Rule_Changes_on_01.10.2025_-_ENG.pdf": {
-    "name": "part-09-world-championships__UCI_Part_IX_-_Rule_Changes_on_01.10.2025_-_ENG.md",
-    "stem": "UCI_Part_IX_-_Rule_Changes_on_01.10.2025_-_ENG",
-    "sha256": "13ca8b3c49c36ef882494f1d27415a29fc001f3ab92315c0923e9771c6e6cea8"
+  "https://assets.ctfassets.net/761l7gh5x5an/5hGw8gdhwOiJXI0ZlUyVLn/fc3d4647f9c1720a070648c5af79bcb3/9-20270101-E_Amendments_on_01.01.2027.pdf": {
+    "name": "part-09-world-championships__9-20270101-E_Amendments_on_01.01.2027.md",
+    "stem": "9-20270101-E_Amendments_on_01.01.2027",
+    "sha256": "27f4d872f7a089ebe582884f1fbd3131250ceebc4ace92b90c4c7db1ce2d8b32"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/5mVMnjLcvZ4wzgMJHt9lMz/e5de0c5f9a78fb94a8e124ce24fc6403/2-ROA-20251101-E-amendments_on_1.11.25.pdf": {
     "name": "part-02-road-races__2-ROA-20251101-E-amendments_on_1.11.25.md",
@@ -289,20 +309,25 @@
     "stem": "Memorandum-Modifications_of_the_Rules_concerning_Ban_of_monoxide_carbon_inhalations_outside_medical_facilities",
     "sha256": "e87d4c20a00679e5d4e1f2b356e1a09460552af461f7727f35b4828e69020e3d"
   },
+  "https://assets.ctfassets.net/761l7gh5x5an/5wSxs2VUuaj7IOiWNh7zhX/593dba0f682e23e94d28a84c5fdfc4af/Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.01.2027.pdf": {
+    "name": "part-16-para-cycling__Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.01.2027.md",
+    "stem": "Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.01.2027",
+    "sha256": "3e72ec2c045385cee6d0c8095844319f70405dd1c0e03b3659ff00e073051df7"
+  },
   "https://assets.ctfassets.net/761l7gh5x5an/62yOW9g0rfiOt7LjHolXEU/16d97be52cb0c7851d097246b2190735/11-JO-20260301-E_Amendments_on_01.03.2026.pdf": {
     "name": "part-11-olympic-games__11-JO-20260301-E_Amendments_on_01.03.2026.md",
     "stem": "11-JO-20260301-E_Amendments_on_01.03.2026",
     "sha256": "1e5d29abf37646059a2f0fbb77b808678ffc17509159b3c1072408444f4812d5"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/64e6MN4YxtqT8UcQFdekcg/417ec0c0598582815229ec4336b38377/BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.pdf": {
-    "name": "part-06bis-bmx-freestyle__BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_.md",
-    "stem": "BMX_Freestyle_Rule_changes_2025-ENG_Upcoming_amendments_",
-    "sha256": "fe585eaadb38f11d2a9b4d6b5cd87d98169a0968cac1eaca94f2ddf3cbcf3610"
+  "https://assets.ctfassets.net/761l7gh5x5an/6FEzFHeA2oKMBGb5sdIvQ7/9da669a83c210f198edf4783dcb49113/2-ROA-20260901-E.pdf": {
+    "name": "part-02-road-races__2-ROA-20260901-E.md",
+    "stem": "2-ROA-20260901-E",
+    "sha256": "54863db7960d81cbd6786ebd2ad114185ba4a1711c7026795875acbe8eb192d2"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/6FEzFHeA2oKMBGb5sdIvQ7/96aad776f210fc38853ec9bf9ec9acba/2-ROA-20260701-E.pdf": {
-    "name": "part-02-road-races__2-ROA-20260701-E.md",
-    "stem": "2-ROA-20260701-E",
-    "sha256": "16d86260e39ce56f40ad0d610cf6de134e7a488728e17107f06c855e84f92dbc"
+  "https://assets.ctfassets.net/761l7gh5x5an/6Snok0oMP0mtjJo3Re4Md/bf74fd785c4ccbbaf71fc5af44c7439f/Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.10.2026.pdf": {
+    "name": "part-16-para-cycling__Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.10.2026.md",
+    "stem": "Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.10.2026",
+    "sha256": "40f6546f7654074ab8c665933df45813b4ebe3a5205211df13dfb698cc4d9ca4"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/6VTlwWPZHAN3CMMv94Vm32/e8035ef77b775f501e72323bb52c2801/2-ROA-20260701-E-amendments_on_01.07.26.pdf": {
     "name": "part-02-road-races__2-ROA-20260701-E-amendments_on_01.07.26.md",
@@ -318,11 +343,6 @@
     "name": "part-13-medical-rules__Memorandum-Modifications_of_the_Rules_concerning_the_Mandatory_Medical_File.md",
     "stem": "Memorandum-Modifications_of_the_Rules_concerning_the_Mandatory_Medical_File",
     "sha256": "fd3321d28a7378df6fb8b43428c364ed550a8202a4a3ccd1d013b6450b4cafe1"
-  },
-  "https://assets.ctfassets.net/761l7gh5x5an/6drZqZV72vboZMMK80YH5j/bdc46bdcb483ffa03f85f54d4d22cf13/UCI_Part_IX_-_Rule_Changes_on_01.01.2026_-_ENG.pdf": {
-    "name": "part-09-world-championships__UCI_Part_IX_-_Rule_Changes_on_01.01.2026_-_ENG.md",
-    "stem": "UCI_Part_IX_-_Rule_Changes_on_01.01.2026_-_ENG",
-    "sha256": "72ccb106bf15c9a62520036306408b810beb534153e38100803d4c57855c8cd9"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/6kmsw3GgD4yhv8r4im6d8W/f8c04a1b38d9349f0953d9277ae7e6d9/dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.pdf": {
     "name": "special-provisions-for-littering__dispositions-ravitaillement-jets-dechets-eng---updated-21.06.21.md",
@@ -379,30 +399,25 @@
     "stem": "Part_3_Track_Regulations_amendments_01072026",
     "sha256": "385f607f586ff6a4f4cd65e2474e50419a6aa429edb242d69d2668fe928e64fe"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/7BIcNmTrbFCG018F0G3lhA/e830462fac9664216f1a53d5905eec84/2-ROA-20250701-E-amendments_on_01.07.25.pdf": {
-    "name": "part-02-road-races__2-ROA-20250701-E-amendments_on_01.07.25.md",
-    "stem": "2-ROA-20250701-E-amendments_on_01.07.25",
-    "sha256": "7fa277326c29a0dca546c557d6f1140a62dbf46205815834718e7057ec0de91d"
-  },
   "https://assets.ctfassets.net/761l7gh5x5an/7EF2IRerppYiZ26ghcnu20/867c0c144f2705b441e48c7093603f13/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf": {
     "name": "part-17-cycling-esports__FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.md",
     "stem": "FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy",
     "sha256": "727782f9a4430403af07cc8fc13ea0fbc1ad8ddb22d478cbc05b3c0915efcdf3"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/7ENtPTI8CbdMTheqxnRYAN/574332079cfa906ec8f1521ba510bcb2/2-ROA-20270101-E-amendments_on_01.01.27.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/7ENtPTI8CbdMTheqxnRYAN/5083ce8d77a442afaeeb521cce029ac3/2-ROA-20270101-E-amendments_on_01.01.27.pdf": {
     "name": "part-02-road-races__2-ROA-20270101-E-amendments_on_01.01.27.md",
     "stem": "2-ROA-20270101-E-amendments_on_01.01.27",
-    "sha256": "dcb16458f773ba6c7c96ad4332423be2b2710d89b637658593802c3dd149c668"
+    "sha256": "2ffe4dfd11c48699ab04220f6b3171953109d716129df4fa4f812e6b14a4b848"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/7IE4WjTvQLqeRF5aniDP34/886f3c73d9f0241465b71f9e2e0833d8/PART_3_E_-_As_of_01.09.2026.pdf": {
     "name": "part-03-track-races__PART_3_E_-_As_of_01.09.2026.md",
     "stem": "PART_3_E_-_As_of_01.09.2026",
     "sha256": "878aea01ba6b111a3843c702e5eebfc04e732e0f88f5e6d413cbcc41a7e8993f"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/7LBRCcIhjcH5S3U0kazXqf/31d3b9aaa5401afc682694bf2a4db107/LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.pdf": {
+  "https://assets.ctfassets.net/761l7gh5x5an/7LBRCcIhjcH5S3U0kazXqf/768fe36a1c2814c13f3c0e9409cb9663/LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.pdf": {
     "name": "list-of-individual-neutral-athletes__LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.md",
     "stem": "LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL",
-    "sha256": "f95f60c659a75fe8a4b1be3998add6226fb258907dce5139facdac5dc2e0fe58"
+    "sha256": "45eaeb2943a6f7d991075519e56467e524deac89c5dfd2ca5858d1b21b062021"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/d6daf415c4d010291c676d83a28d3910/2026.06.05_UCI_Regulations_for_Testing_and_Investigations-.pdf": {
     "name": "uci-regulations-for__2026.06.05_UCI_Regulations_for_Testing_and_Investigations-.md",
@@ -423,6 +438,11 @@
     "name": "part-03-track-races__Part_3_Track_Regulations_amendments_01012028.md",
     "stem": "Part_3_Track_Regulations_amendments_01012028",
     "sha256": "6e709bfb7c101ce82c634dc1eca1048ae68eacf6cb2149cf385b9e463d4bea3a"
+  },
+  "https://assets.ctfassets.net/761l7gh5x5an/7tMPeQpkmu5jvyDY5nNSSx/34ec1ecdbede4329dea33cdc40edb722/Gravel_Rule_changes_2027-ENG_Upcoming_amendments.pdf": {
+    "name": "part-xviii-gravel__Gravel_Rule_changes_2027-ENG_Upcoming_amendments.md",
+    "stem": "Gravel_Rule_changes_2027-ENG_Upcoming_amendments",
+    "sha256": "4fc2a93b7580a4d2ef6123b75bffed363319e8db9d441af7ec5522bfbf972bc9"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/7uLMptMENGkfvDnlhblv1T/d7bb4f777f82aebaa73340707c118de9/2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026.pdf": {
     "name": "ad-hoc-rules__2026_AD_HOC_RULES_-_AMENDMENTS_TO_REGULATIONS_IN_FORCE_AS_OF_01.07.2026.md",
@@ -459,11 +479,6 @@
     "stem": "1-GEN-20260701-E",
     "sha256": "6ffa7fe1d13ea69ec19efcc0e27571cc0aa742bedd6eb1b04cf35eb8aa474d4b"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/NAeT9EN3grfH1b8uTXoYv/937423b10b08168cecdd562162fc7372/2-ROA-20251020-E-amendments_on_20.10.25.pdf": {
-    "name": "part-02-road-races__2-ROA-20251020-E-amendments_on_20.10.25.md",
-    "stem": "2-ROA-20251020-E-amendments_on_20.10.25",
-    "sha256": "7e9caf4a6b22e654f0b9499e091ad353a27dfb39ff6d682b5758894d683c02eb"
-  },
   "https://assets.ctfassets.net/761l7gh5x5an/X3PWUWEmItPDmv4tsBYj4/c2317dee859a0c9f041bf1f25d78d535/10-CC-20250612-E_Amendments_on_01.01.2026.pdf": {
     "name": "part-10-continental-championships-and-regional-games__10-CC-20250612-E_Amendments_on_01.01.2026.md",
     "stem": "10-CC-20250612-E_Amendments_on_01.01.2026",
@@ -488,11 +503,6 @@
     "name": "joint-agreements__Joint_Agreements_20240101-E_.md",
     "stem": "Joint_Agreements_20240101-E_",
     "sha256": "6108baea752e503faf230e3d204e7cdbae4adf8b42fae081c8c186446ec9a52d"
-  },
-  "https://assets.ctfassets.net/761l7gh5x5an/v3xLMwpHRPreGOS5B7uhk/fd285b78cb011c28e7ad898f43613256/2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG.pdf": {
-    "name": "part-06-bmx-racing__2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG.md",
-    "stem": "2025_UCI_BMX_Rules_-_Part_VI_-_Rule_Changes_-_ENG",
-    "sha256": "ac8feb86739c33fd894e19554958c73fd759d0bb84519ce2c335607aaaadd2c6"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/vXrDrFCrhpNw7ZXnJtOSm/08ba1caa93adeeaf048a620657a8bd41/2-ROA-20260101-E-amendments_on_01.01.26.pdf": {
     "name": "part-02-road-races__2-ROA-20260101-E-amendments_on_01.01.26.md",

@@ -9,6 +9,39 @@ them; open the corresponding regulation in the sidebar for the full text.
 
 <!-- sync-log: new entries are inserted below this line -->
 
+## 2026-09-30 sync
+
+> Automated entry — plain-English summary not yet written. Open the
+> documents below for the full text.
+
+- **Updated:** [LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL](list-of-individual-neutral-athletes__LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.md) (replaces LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL)
+- **Updated:** [Part 1 — General Organisation of Cycling as a Sport (amendments 01.10.2026)](part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_01.10.2026.md) (replaces Part 1 — General Organisation of Cycling as a Sport (amendments 01.01.2026) · 1-E_Amendments_on_01.01.2026)
+- **Updated:** [Part 4 — Mountain Bike (amendments 01.01.2027)](part-04-mountain-bike__MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.md) (replaces Part 4 — Mountain Bike (amendments 01.01.2025))
+- **Updated:** [Part 6 — BMX Racing (amendments 01.01.2027)](part-06-bmx-racing__BMX_Racing_Rule_changes_2027-ENG_Upcoming_amendments.md) (replaces Part 6 — BMX Racing (amendments 01.01.2025))
+- **Updated:** [Part 6bis — BMX Freestyle (amendments 01.01.2027)](part-06bis-bmx-freestyle__BMX_Freestyle_Rule_changes_2027-ENG_Upcoming_amendments.md) (replaces Part 6bis — BMX Freestyle (amendments 01.01.2025))
+- **Updated:** [Part 7 — Trials (amendments 01.01.2027)](part-07-trials__Trials_Rule_changes_2027-ENG_Upcoming_amendments.md) (replaces Part 7 — Trials (amendments 01.01.2025))
+- **Updated:** [Part 15 — Cycling for All (in force 01.10.2026)](part-15-cycling-for-all__15-CPT-20261001-E.md) (replaces Part 15 — Cycling for All (in force 01.01.2022))
+- **Added:** [List of Riders and Support Personnel Ineligible to Take Part in Events on the UCI International Calendar](LIST_OF_RIDERS_AND_SUPPORT_PERSONNEL_INELIGIBLE_TO_TAKE_PART_IN_EVENTS_ON_THE_UCI_INTERNATIONAL_CALENDAR.md)
+- **Added:** [Guidelines UCI UCI Event Safety Manager Guide](guidelines-uci-uci-event-safety-manager-guide__GUIDELINES_UCI_EVENT_SAFETY_MANAGER_ENG.md)
+- **Added:** [Part 2 — Road Races (in force 01.09.2026)](part-02-road-races__2-ROA-20260901-E.md)
+- **Added:** [Part 2 — Road Races (amendments 19.10.2026)](part-02-road-races__2-ROA-20261019-E-amendments_on_19.10.26.md)
+- **Added:** [Part 2 — Road Races (amendments 01.01.2027)](part-02-road-races__2-ROA-20270101-E-amendments_on_01.01.27.md)
+- **Added:** [Part 9 — World Championships (amendments 01.01.2027)](part-09-world-championships__9-20270101-E_Amendments_on_01.01.2027.md)
+- **Added:** [Part 16 — Para-Cycling (in force 01.10.2026)](part-16-para-cycling__16-PAR-20261001-E.md)
+- **Added:** [Part 16 — Para-Cycling (amendments 01.01.2027)](part-16-para-cycling__Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.01.2027.md)
+- **Added:** [Part 16 — Para-Cycling (amendments 01.10.2026)](part-16-para-cycling__Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.10.2026.md)
+- **Added:** [Part 18 Gravel (01.10.2026)](part-18-gravel__18-GRA-20261001-E.md)
+- **Added:** [Part Xviii: Gravel (amendments 01.10.2026)](part-xviii-gravel__Gravel_Rule_changes_2027-ENG_Upcoming_amendments.md)
+- **Removed:** List of Riders and Support Personnel Ineligible to Take Part in Events on the UCI International Calendar
+- **Removed:** Part 2 — Road Races (amendments 01.07.2025)
+- **Removed:** Part 2 — Road Races (amendments 20.10.2025)
+- **Removed:** Part 2 — Road Races (in force 01.07.2026)
+- **Removed:** Part 2 — Road Races (amendments 19.10.2026)
+- **Removed:** Part 2 — Road Races (amendments 01.01.2027)
+- **Removed:** Part 9 — World Championships (amendments 01.01.2026)
+- **Removed:** Part 9 — World Championships (amendments 01.10.2025)
+- **Removed:** Part 16 — Para-Cycling (in force 01.01.2026)
+
 ## 2026-09-01 sync
 
 The consolidated Part 3 (Track) now includes the 01.09.2026 amendments listed
