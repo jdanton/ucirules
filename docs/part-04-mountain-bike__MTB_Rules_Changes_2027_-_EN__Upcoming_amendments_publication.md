@@ -1,13 +1,13 @@
 ---
-source_pdf: MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf
-source_url: https://assets.ctfassets.net/761l7gh5x5an/3YY9ImXFrPDcp0C3UFAYlB/a195df4b7b52e495d17a24ae97be6770/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf
-source_sha256: 8b67fff8378932f2f4a401f7fad9e44edd3b33e4ca9a2ef1c5eb243c15bda4fd
+source_pdf: MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf
+source_url: https://assets.ctfassets.net/761l7gh5x5an/3YY9ImXFrPDcp0C3UFAYlB/d02ed8d1919e2eb79a03bc636aff53b9/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf
+source_sha256: 8baf5f23e41b7be40b2ab05a0f63edd7b386e313644a2da2944707af9481ba75
 converter: pymupdf4llm
 ---
 
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0001-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0001-00.png)
 
 MEMORANDUM 29.09.2026 
 
@@ -53,7 +53,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0002-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0002-00.png)
 
 - UCI Masters World Championships <del>(CMM)</del> 
 
@@ -101,7 +101,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0003-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0003-00.png)
 
 preceding year and any other information at disposal of the UCI. A new competition may only be given class 2 or 3 status in its first year. 
 
@@ -137,7 +137,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0004-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0004-00.png)
 
 ### **Conduct of riders** 
 
@@ -177,7 +177,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0005-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0005-00.png)
 
 - **4.2.011** <del>A</del> t least 6 riders must be entered for the qualifying round, otherwise no XCE competition may be held. 
 
@@ -197,7 +197,7 @@ The main competition comprises elimination heats in which the riders are matched
 
 The race numbers for the <del>qualifying rounds</del> timed run are in sequence, starting from 33, based on the most recent UCI XCE World Cup standing and UCI XCO individual ranking and in the following order: 
 
-1. riders ranked in the top 32 men and the top 16 women of the most recent UCI XCE World Cup standing (for the first competition, as per the final UCI XCE World Cup standing of the previous year) in ascending order <del>rank</del>; 
+1. riders ranked in the top 32 men and the top 16 women of the most recent UCI XCE World Cup standing (for the first competition, as per the final UCI XCE World Cup standing of the previous year) in ascending order <del>rank;</del> 
 
 2. <del>standings of the previous year</del>; 
 
@@ -215,7 +215,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0006-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0006-00.png)
 
 The riders start in the timed run <del>sequence by</del> following the order of race numbers, the highest number starting first. The women ride before the men. 
 
@@ -225,27 +225,26 @@ A rider must finish the timed run in order to be ranked. In case of a tie betwee
 
 The following rules apply for qualification to the main competition, according to the number of riders ranked after the timed run: 
 
-|**Number of**<br>**riders**|**Riders going to**<br>**qualification heats**|**Riders qualified for main**<br>**competition**|**Number of**<br>**riders in main**<br>**competition**|
+|**Number**<br>**of riders**|**Riders going to qualification**<br>**heats**|**Riders qualified for**<br>**main competition**|**Maximum**<br>**number of riders**<br>**in main**<br>**competition**|
 |---|---|---|---|
-|less than 6|-no competition|-no competition|no competition|
-|6 - 8|-no qualification<br>heats|all riders|8|
-|9-11|Riders ranked 8 to 11<br>in timed run|- top 7 of the timed run<br>- winner of qualification heat 1|8|
-|12-14|Riders ranked 7 to 14<br>in timed run|- top 6 of the timed run<br>- winner of qualification heat 1<br>- winner of qualification heat 2|8|
-|15-16|-no qualification heats|all riders|16|
-|17-19|Riders ranked 16 to<br>19 in timed run|- top 15 of the timed run<br>- winner of qualification heat 1|16|
-|20-26|riders ranked 11 to 26<br>in timed run|- top 10 of the timed run<br>- top 2 of qualification heat 1<br>- top 2 of qualification heat 2<br>- winner of qualification heat 3<br>- winner of qualification heat 4|16|
-|27-31|riders ranked 11 to 31|- top 10 of the timed run<br>- winners of each of 6 qualification<br>heats|16|
-|32|-|all riders|32|
-|33-35|riders ranked 29 to 35|- top 28 of the timed run<br>- top 2 of each of 2 qualification<br>heats|32|
-|36+|riders ranked 29 to 44|- top 28 of the timed run<br>- winners of each of 4 qualification<br>heats|32|
+|4 – 5|/|4|4|
+|6 - 8|/|8|8|
+|9 - 11|Riders ranked 8 to 11 in timed run|- top 7 of the timed run<br>- winner of the<br>qualification heat|8|
+|12 – 16|/|All riders|16|
+|17 - 23|Riders ranked 14 to 23 in timed run<br>Qualification heat 1:  14 – 19 – 22<br>Qualification heat 2: 15 – 18 – 21<br>Qualification heat 3: 16 - 17 – 20 –<br>23|- top 13 of the timed run<br>- winner qualification heat<br>1: 14<br>- winner qualification heat<br>1: 15<br>- winner qualification heat<br>1: 16|16|
+|24 - 32|/|All riders|32|
+|33 - 35|Riders ranked 29 to 35 in timed run<br>Qualification heat 1: 29 – 31 – 34<br>Qualification heat 2: 30 – 32 – 35|- top 28 of the timed run<br>- top 2 qualification heat<br>1: 29 - 31<br>- top 2 qualification heat<br>2: 30 - 32|32|
+|> 35|Riders ranked 29 to 44 in timed run<br>Qualification heat 1: 29 – 36 – 40 -<br>44<br>Qualification heat 2: 30 – 35 – 39 -<br>43<br>Qualification heat 3: 31 – 34 – 38 -<br>42<br>Qualification heat 4: 32 – 33 – 37 -<br>41|- top 28 of the timed run<br>- winner qualification heat<br>1: 29<br>- winner qualification heat<br>2: 30<br>- winner qualification heat<br>3: 31<br>- winner qualification heat<br>4: 32|32|
 
 Page **6** / **31** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0007-00.png)
+E: admin@uci.ch 
+
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0007-00.png)
 
 Riders qualified through the qualification heats are ranked in the qualifying round immediately after the directly-qualified riders (the top riders of the timed run). The winners of the qualification heats are ranked first, in order of heat number (winner of heat 1, then winner of heat 2, and so on); where a heat also qualifies its secondplaced rider, all heat winners are ranked ahead of all second-placed riders, the second-placed riders then being ordered by heat number. 
 
@@ -259,7 +258,7 @@ The main competition comprises elimination heats in which the groups of riders a
 
 Heat order: 
 
-- men first until women come to equal round of main competition <del>heat system;</del> 
+- men first until women come to equal round of main competition <del>heat system</del>; 
 
 - finals: women small final <del>followed by</del>; 
 
@@ -297,7 +296,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0008-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0008-00.png)
 
 All riders ranked after a rider DSQ are re-ranked one place higher within the affected phase only. No rider eliminated in an earlier phase can move up in the final classification. For example, in case of a DSQ in the big final, all riders ranked after the DSQ rider will be ranked one place higher and the rank four in the final classification will remain unallocated. 
 
@@ -311,7 +310,9 @@ _(text modified on 1.02.12; 1.01.19; 1.01.22; 01.01.27)._
 
 **4.3.006** The length of the course and the duration of the competition are determined as follows: 
 
-<del>Minimum Maximum Course length 1500m 3500 m Duration of the competition  2 minutes 5 minutes</del> Course length Minimum 1500m - Maximum 3500 m Or duration as per table below: 
+<del>Minimum Maximum</del> 
+
+<del>Course length 1500m 3500 m Duration of the competition  2 minutes 5 minutes</del> Course length Minimum 1500m - Maximum 3500 m Or duration as per table below: 
 
 ||UCI World Ch<br>UCI World Cu<br>Championship<br>Mountain Bike<br>Series, Hors C<br>competitions|ampionships,<br>p, Continental<br>s, UCI<br>Continental<br>lass, Class 1|Class 2 com|petitions|Class 3<br>competitions|
 |---|---|---|---|---|---|
@@ -336,7 +337,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0009-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0009-00.png)
 
 - an on-foot inspection of the course must be organised before the first training session. No bikes are allowed on the course during the on foot downhill course inspection. <del>The on-foot inspection is reserved exclusively for riders, the team managers and the coaches who must hold a valid license. Other team staff are not allowed to attend the on-foot inspection.</del> 
 
@@ -378,7 +379,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0010-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0010-00.png)
 
 Taking shortcuts on course to gain an advantage can damage both the environment and bring the sport of enduro mountain bike racing into disrepute. Where no defined trail exists, the organiser should mark the course to keep the riders on the intended racecourse. If a clear and defined trail exists, the organiser may choose to create gates. In this instance riders must ride the existing defined trail between gates and not look to leave the trail to take a short cut and gain an unfair advantage. 
 
@@ -416,7 +417,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0011-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0011-00.png)
 
 Any rider arriving at the start of a Special Stage later than 30 minutes after their specified start time will be assigned a DNF for the race and will not be allowed to continue. 
 
@@ -452,7 +453,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0012-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0012-00.png)
 
 Any venue specific details or restrictions on shuttling will be outlined in the <del>Race Book</del> Technical Guide and the official training schedule. 
 
@@ -488,7 +489,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0013-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0013-00.png)
 
 #### **Leader's jersey** 
 
@@ -512,11 +513,11 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0014-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0014-00.png)
 
 ||Bike Continental Series of the previous year<del>Elite.</del> <del>Not applicable</del><br><del>for riders member of a UCI MTB WORLD SERIES TEAM.</del><br>7.Thetop five riders,excluding members of UCI WORLD SERIES<br>TEAM,from the(U23)final standings of any<del>of theU</del>CI Mountain<br>Bike Continental Series of the previous year,<del>U23,i</del>fthe rider<br>concernedprogresses totheElite category.<del>Not applicable for</del><br><del>riders member of a UCI MTB WORLD SERIES TEAM. </del><br>8. Current Olympic Champion, UCI World Champion, Continental<br>Champions, National Champions|
 |---|---|
-|**Category**<br>XCO - Men Under 23<br>(aged from 19 to 22)<br>XCO - Women Under<br>23 (aged from 19 to 22)|**One of the below mentioned criteria needs to be fulfilled**<br> <br>1. UCI MTB WORLD SERIES TEAM, maximum 4 riders per race<br>and category. Individual rights acquired by riders to enter one or<br>several UCI Mountain Bike World Cup competitions through their<br>results or ranking, as set out below, shall not allow the UCI MTB<br>TEAM to enter more than 4 riders.<br>2. Maximum 8 UCI MTB TEAM wild cardsper competition,<br>maximum 4 riders per race and category decided one month prior<br>the competition.Individual rights acquired by riders to enter one or<br>several UCI Mountain Bike World Cup competitions through their<br>results or ranking, as set out below, shall not allow the UCI MTB<br>TEAM to enter more than 4 riders.<br>3. Any rider ranked in the top 200 of the<del>last </del>UCI XCO individual<br>rankingat the date referenced in the UCI Mountain Bike World Cup<br>official document published on the UCI website. <del>before the</del><br><del>competition entry closing date (one month prior to the competition)</del><br>4. The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must wear<br>national team clothing.<br>5.Thetop three riders,excluding members of UCI WORLD<br>SERIES TEAM,of any round of a UCI Mountain Bike Continental<br>Seriesqualify for entry<del>limited</del> to one round of the UCI Mountain<br>Bike World Cup within 52 weeks of<del>the qualification</del>such<br>competition(Golden Ticket).<del>Not applicable for riders member of a</del><br><del>UCI MTB WORLD SERIES TEAM.</del><br>6.Thetop five riders,excluding members of UCI WORLD SERIES<br>TEAMS,from the final standings(U23)of any<del>of theU</del>CI Mountain<br>Bike Continental Series of the previous year<del>U23. Not applicable</del><br><del>for riders member of a UCI MTB WORLD SERIES TEAM.</del><br><del>7. Top five riders from the final standings of any of the UCI</del><br><del>Mountain Bike Continental Series of the previous year, Junior (if</del><br><del>progressing into U23 category)</del>|
+|**Category**<br>XCO - Men Under 23<br>(aged from 19 to 22)<br>XCO - Women Under<br>23 (aged from 19 to 22)|**One of the below mentioned criteria needs to be fulfilled**<br> <br>1. UCI MTB WORLD SERIES TEAM, maximum 4 riders per race<br>and category. Individual rights acquired by riders to enter one or<br>several UCI Mountain Bike World Cup competitions through their<br>results or ranking, as set out below, shall not allow the UCI MTB<br>TEAM to enter more than 4 riders.<br>2. Maximum 8 UCI MTB TEAM wild cardsper competition,<br>maximum 4 riders per race and category decided one month prior<br>the competition.Individual rights acquired by riders to enter one or<br>several UCI Mountain Bike World Cup competitions through their<br>results or ranking, as set out below, shall not allow the UCI MTB<br>TEAM to enter more than 4 riders.<br>3. Any rider ranked in the top 200 of the<del>last </del>UCI XCO individual<br>rankingat the date referenced in the UCI Mountain Bike World Cup<br>official document published on the UCI website. <del>before the</del><br><del>competition entry closing date (one month prior to the competition)</del><br>4. The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must wear<br>national team clothing.<br>5.Thetop three riders,excluding members of UCI WORLD<br>SERIES TEAM,of any round of a UCI Mountain Bike Continental<br>Seriesqualify for entry<del>limited</del> to one round of the UCI Mountain<br>Bike World Cup within 52 weeks of<del>the qualification</del>such<br>competition(Golden Ticket).<del>Not applicable for riders member of a</del><br><del>UCI MTB WORLD SERIES TEAM.</del><br>6.Thetop five riders,excluding members of UCI WORLD SERIES<br>TEAMS,from the final standings(U23)of any<del>of theU</del>CI Mountain<br>Bike Continental Series of the previous year<del>U23. Not applicable</del><br><del>for riders member of a UCI MTB WORLD SERIES TEAM.</del><br><del>7. Top five riders from the final standings of any of the UCI</del><br><del>Mountain Bike Continental Series of the previous year, Junior (if</del><br><del>progressing into U23 category) </del>|
 
 Page **14** / **31** 
 
@@ -524,7 +525,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0015-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0015-00.png)
 
 ||_<del>Not applicable for riders member of a UCI MTB WORLD SERIES</del>_<br>_<del>TEAM</del>_<br>7. UCI World Champion, Continental Champions, National<br>Champions|
 |---|---|
@@ -566,7 +567,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0016-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0016-00.png)
 
 Prior to issuing a decision, the UCI can request the production of information or documents to assess the applicable criteria <del>above.</del> The UCI may also take established facts into account at its own initiative. 
 
@@ -622,7 +623,7 @@ T: +41 24 468 58 11 Page **16** / **31** E: admin@uci.ch
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0017-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0017-00.png)
 
 XCO men under 23 and women under 23: 
 
@@ -674,7 +675,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0018-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0018-00.png)
 
 ### **Injury status** 
 
@@ -713,7 +714,7 @@ T: +41 24 468 58 11
 
 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0019-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0019-00.png)
 
 ||official document published on the UCI website. <del>before the</del><br><del>competition entry closing date (one month prior to the competition)</del><br>4. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders must wear<br>national team clothing.<br>5.Thetop three riders,excluding members of UCI WORLD<br>SERIES TEAMS,of any round of a UCI Mountain Bike Continental<br>Seriesqualify for entry<del>limited</del> to one round of the UCI Mountain<br>Bike World Cup within 52 weeks of<del>the qualification</del>such<br>competition(Golden Ticket).<del>Not applicable for riders member of a</del><br><del>UCI MTB WORLD SERIES TEAM.</del><br>6.Thetop five riders,excluding members of UCI WORLD SERIES<br>TEAMS,from the final standings (Elite) of any<del>of theU</del>CI Mountain<br>Bike Continental Series of the previous year<del>Elite.</del> <del>Not applicable</del><br><del>for riders member of a UCI MTB WORLD SERIES TEAM.</del><br>7.Thetop five riders,excluding members of UCI WORLD SERIES<br>TEAMS,from theJuniorfinal standings of any<del>of theU</del>CI Mountain<br>Bike Continental Series of the previous year,<del>Junior,i</del>fthe rider<br>concernedprogresses totheElite category.<del>Not applicable for</del><br><del>riders member of a UCI MTB WORLD SERIES TEAM. </del><br>8. Current Olympic Champion, UCI World Champion, Continental<br>Champions, National Champions|
 |---|---|
@@ -725,7 +726,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0020-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0020-00.png)
 
 Series qualify for entry <del>limited</del> to one round of the UCI Mountain Bike World Cup within 52 weeks of <del>the qualification</del> such competition (Golden Ticket). <del>Not applicable for riders member of a UCI MTB WORLD SERIES TEAM.</del> 6. The top five riders, excluding members of UCI WORLD SERIES TEAMS, from the final standings (Junior) of any <del>of the U</del> CI Mountain Bike Continental Series of the previous year <del>Junior. Not applicable for riders member of a UCI MTB WORLD SERIES TEAM. 7. Top five riders from the final standings of any of the UCI Mountain Bike Continental Series of the previous year, Cadet (if progressing into Junior category)</del> _Not applicable for riders member of a UCI MTB WORLD SERIES_ _<del>TEAM</del>_ 7. UCI World Champion, Continental Champions, National Champions 
 
@@ -767,7 +768,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0021-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0021-00.png)
 
 ### **Training** 
 
@@ -789,14 +790,14 @@ A training period that is reserved only for the riders qualified for the finals 
 
 ### **Participation** 
 
-**4.13.003** UCI Enduro World Cup (Enduro and E-Enduro) <del>c</del> ompetitions are open to riders following these conditions: 
+**4.13.003** UCI Enduro World Cup (Enduro and E-Enduro) competitions are open to riders following these conditions: 
 
 |**Category**|**One of the below mentioned criteria needs to be fulfilled**|
 |---|---|
 |EDR - men elite|1. UCI MTB WORLD SERIES TEAM|
 |(aged 19 and over)|2. UCI MTB TEAM|
 |EDR - women elite|<del>3. Any rider ranked in the top 300 (men) or top 75 (women) of the</del>|
-|(aged 19 and over)|<del>Enduro Global ranking on 31.12.2025</del><br>3.Any rider ranked in the top300 <del>50 </del>(men) or top100 <del>50</del>(women)<br>of the<del>last</del>UCI EDR individual rankingat the date referenced in the<br>official document published on the UCI Website .<del>before the</del><br><del>competition entry closing date (one month prior to the competition)</del><br>4. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders must wear<br>national team clothing.<br>5. Current UCI World Champion, Continental Champion, National<br>Champions|
+|(aged 19 and over)|<del>Enduro Global ranking on 31.12.2025</del><br>3.Any rider ranked in the top300 <del>50 </del>(men) or top100 <del>50 </del>(women)<br>of the<del>last</del> UCI EDR individual rankingat the date referenced in the<br>official document published on the UCI Website .<del>before the</del><br><del>competition entry closing date (one month prior to the competition)</del><br>4. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders must wear<br>national team clothing.<br>5. Current UCI World Champion, Continental Champion, National<br>Champions|
 
 Page **21** / **31** 
 
@@ -804,13 +805,13 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0022-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0022-00.png)
 
 |**Category**|**One of the below mentioned criteria needs to be fulfilled**|
 |---|---|
 |EDR - men junior (aged|1. UCI MTB WORLD SERIES TEAM|
 |17 and 18) EDR –|2. UCI MTB TEAM|
-|women junior (aged 17<br>and 18)|<del>3. Any rider ranked in the top 300 (men) or top 75 (women) of the</del><br><del>Enduro Global ranking on 31.12.2025</del><br>3.Any rider ranked in the top300 <del>50 </del>(men) or top100 <del>50</del>(women)<br>of the<del>last</del>UCI EDR individual rankingat the date referenced in the<br>official document published on the UCI Website<del>before the</del><br><del>competition entry closing date (one month prior to the competition)</del><br>4.The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must wear<br>national team clothing.<br>5.Current UCI World Champion,Continental Champions, National<br>Champions|
+|women junior (aged 17<br>and 18)|<del>3. Any rider ranked in the top 300 (men) or top 75 (women) of the</del><br><del>Enduro Global ranking on 31.12.2025</del><br>3.Any rider ranked in the top300 <del>50 </del>(men) or top100 <del>50 </del>(women)<br>of the<del>last</del> UCI EDR individual rankingat the date referenced in the<br>official document published on the UCI Website<del>before the</del><br><del>competition entry closing date (one month prior to the competition)</del><br>4.The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must wear<br>national team clothing.<br>5.Current UCI World Champion,Continental Champions, National<br>Champions|
 
 Details on the participation criteria are included in a dedicated UCI Enduro World Cup technical guide available on a dedicated website. 
 
@@ -822,7 +823,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0023-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0023-00.png)
 
 #### **Start Order** 
 
@@ -860,7 +861,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0024-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0024-00.png)
 
 ## **Chapter XIV -** **<del>UCI E-MOUNTAIN BIKE CROSS-COUNTRY WORLD CUP</del>** 
 
@@ -904,7 +905,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0025-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0025-00.png)
 
 For the Cross-country Olympic (XCO) ranking only the types of competitions that meet the criteria set out in articles 4.2.001, 4.2.002, 4.2.008, 4.2.010, 4.2.011 to 4.2.013 and 4.2.015 are eligible. 
 
@@ -942,7 +943,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0026-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0026-00.png)
 
 <del>calculated as per article 4.16.006 and will be used to determine the UCI MTB WORLD SERIES DOWNHILL TEAM status.</del> 
 
@@ -986,7 +987,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0027-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0027-00.png)
 
 Where, for a given season, fewer than ten (10) teams hold a multi-year status, in particular following a withdrawal, a loss of status or a refusal of the offer, the statuses which thereby become available are granted for one (1) year in accordance with the preceding paragraph, so that fifteen (15) statuses are allocated for each season. 
 
@@ -1014,11 +1015,11 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0028-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0028-00.png)
 
 reason for the late addition. The information and contract must be transmitted to the UCI no later than 31 December. Such changes are immediately submitted by the UCI MTB WORLD SERIES TEAMS to the UCI. 
 
-During the season, no rider <del>already registered with a UCI MTB WORLD SERIES TEAM or UCI MTB TEAM for the current season m</del> ay join or may add <del>another</del> a UCI MTB WORLD SERIES TEAM or UCI MTB TEAM outside the transfer period <del>as in the team benefits document sent at registration confirmation unless approved as a replacement or additional rider (article 4.18.001) as</del> specified in the reference document published on the UCI website. 
+During the season, no rider <del>already registered with a UCI MTB WORLD SERIES TEAM or UCI MTB TEAM for the current season</del> may join or may add <del>another</del> a UCI MTB WORLD SERIES TEAM or UCI MTB TEAM outside the transfer period <del>as in the team benefits document sent at registration confirmation unless approved as a replacement or additional rider (article 4.18.001) as</del> specified in the reference document published on the UCI website. 
 
 <del>During the season, a rider can be added to a UCI MTB WORLD SERIES TEAM or UCI MTB TEAM only during the transfer period set every season.</del> 
 
@@ -1046,7 +1047,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0029-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0029-00.png)
 
 List of benefits: 
 
@@ -1078,7 +1079,7 @@ List of benefits:
 
 **4.19.020** On the expiry of the term of the contract, the rider is free to enter the service of another paying agent. No system of transfer fees are permitted. 
 
-Before the expiry date of the contract, the registration of the rider with another team shall only be authorised upon presentation of a written agreement <del>transfers of riders are only permitted if a global agreement in writing i</del> s reached between the three parties concerned: the rider, his current paying agent and the new paying agent, and with the autorisation of the UCI. Such registration may only occur during a registration or transfer period. 
+Before the expiry date of the contract, the registration of the rider with another team shall only be authorised upon presentation of a written agreement <del>transfers of riders are only permitted if a global agreement in writing</del> is reached between the three parties concerned: the rider, his current paying agent and the new paying agent, and with the autorisation of the UCI. Such registration may only occur during a registration or transfer period. 
 
 (text modified on 1.01.25; 01.01.27). 
 
@@ -1102,11 +1103,11 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0030-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0030-00.png)
 
 # **ANNEX 3 - UCI MTB DHI points** 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0030-02.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0030-02.png)
 
 Page **30** / **31** 
 
@@ -1114,11 +1115,11 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0031-00.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0031-00.png)
 
 # **ANNEX 3a - UCI MTB EDR points** 
 
-![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf-0031-02.png)
+![](images/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf-0031-02.png)
 
 Page **31** / **31** 
 

@@ -9,6 +9,13 @@ them; open the corresponding regulation in the sidebar for the full text.
 
 <!-- sync-log: new entries are inserted below this line -->
 
+## 2026-10-01 sync
+
+> Automated entry — plain-English summary not yet written. Open the
+> documents below for the full text.
+
+- **Updated:** [Part 4 — Mountain Bike (amendments 01.01.2027)](part-04-mountain-bike__MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.md) (replaces Part 4 — Mountain Bike (amendments 01.01.2027))
+
 ## 2026-09-30 sync
 
 > Automated entry — plain-English summary not yet written. Open the

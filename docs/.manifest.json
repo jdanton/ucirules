@@ -149,10 +149,10 @@
     "stem": "5-CRO-20260701-E",
     "sha256": "441477261dbcacbc2916b002869f8163a1fca09db73c201ba1c208891944c6f1"
   },
-  "https://assets.ctfassets.net/761l7gh5x5an/3YY9ImXFrPDcp0C3UFAYlB/a195df4b7b52e495d17a24ae97be6770/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.pdf": {
-    "name": "part-04-mountain-bike__MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.md",
-    "stem": "MTB_Rules_Changes_2027_-_EN__Upcoming_amendments",
-    "sha256": "8b67fff8378932f2f4a401f7fad9e44edd3b33e4ca9a2ef1c5eb243c15bda4fd"
+  "https://assets.ctfassets.net/761l7gh5x5an/3YY9ImXFrPDcp0C3UFAYlB/d02ed8d1919e2eb79a03bc636aff53b9/MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.pdf": {
+    "name": "part-04-mountain-bike__MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication.md",
+    "stem": "MTB_Rules_Changes_2027_-_EN__Upcoming_amendments_publication",
+    "sha256": "8baf5f23e41b7be40b2ab05a0f63edd7b386e313644a2da2944707af9481ba75"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/3h0FLd2SnseyczC3IXZpwW/98e9198fa33ddef1c3d6409bea66fedb/c47d71b8-29db-46f7-a9d4-b15154dbe2d7.pdf": {
     "name": "agents-de-coureurs-certifies-uci-uci-certified-riders__c47d71b8-29db-46f7-a9d4-b15154dbe2d7.md",
