@@ -22,7 +22,8 @@ them; open the corresponding regulation in the sidebar for the full text.
 > documents below for the full text.
 
 - **Updated:** [LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL](list-of-individual-neutral-athletes__LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.md) (replaces LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL)
-- **Updated:** [Part 1 — General Organisation of Cycling as a Sport (amendments 01.10.2026)](part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_01.10.2026.md) (replaces Part 1 — General Organisation of Cycling as a Sport (amendments 01.01.2026) · 1-E_Amendments_on_01.01.2026)
+- **Added:** [Part 1 — General Organisation of Cycling as a Sport (amendments 01.10.2026)](part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_01.10.2026.md)
+- **Removed:** Part 1 — General Organisation of Cycling as a Sport (amendments 01.01.2026) · 1-E_Amendments_on_01.01.2026
 - **Updated:** [Part 4 — Mountain Bike (amendments 01.01.2027)](part-04-mountain-bike__MTB_Rules_Changes_2027_-_EN__Upcoming_amendments.md) (replaces Part 4 — Mountain Bike (amendments 01.01.2025))
 - **Updated:** [Part 6 — BMX Racing (amendments 01.01.2027)](part-06-bmx-racing__BMX_Racing_Rule_changes_2027-ENG_Upcoming_amendments.md) (replaces Part 6 — BMX Racing (amendments 01.01.2025))
 - **Updated:** [Part 6bis — BMX Freestyle (amendments 01.01.2027)](part-06bis-bmx-freestyle__BMX_Freestyle_Rule_changes_2027-ENG_Upcoming_amendments.md) (replaces Part 6bis — BMX Freestyle (amendments 01.01.2025))

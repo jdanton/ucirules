@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import http.client
 import json
 import re
 import subprocess
@@ -33,6 +34,7 @@ import sys
 import tempfile
 import time
 import unicodedata
+import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -48,6 +50,9 @@ PDF_RE = re.compile(r'assets\.ctfassets\.net/[^\\"]+\.pdf')
 MANIFEST_NAME = ".manifest.json"
 IMG_DIR = "images"  # figures extracted from PDFs, stored under <out>/images/
 UA = {"User-Agent": "Mozilla/5.0 (uci-regulations-sync)"}
+# Statuses worth a retry; anything else (404, 403...) is a real answer.
+TRANSIENT_STATUS = {408, 425, 429, 500, 502, 503, 504}
+DOWNLOAD_ATTEMPTS = 4
 
 # Stable titles for the numbered Regulation Parts. Amendment documents often
 # open with a generic "MEMORANDUM" heading, so the Part title is taken from
@@ -89,10 +94,30 @@ _KEYWORD_PART = [
 ]
 
 
-def fetch(url: str) -> bytes:
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read()
+class FetchError(Exception):
+    """A URL could not be fetched, after any retries."""
+
+
+def fetch(url: str, attempts: int = DOWNLOAD_ATTEMPTS) -> bytes:
+    """Fetch a URL, retrying transient failures with exponential backoff.
+
+    UCI publishes in batches, so a sync on the 1st often catches the CDN
+    mid-update: a flaky asset shouldn't end the whole run.
+    """
+    for attempt in range(1, attempts + 1):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            err, retriable = f"HTTP {e.code}", e.code in TRANSIENT_STATUS
+        except (urllib.error.URLError, http.client.HTTPException,
+                TimeoutError, ConnectionError) as e:
+            err, retriable = f"{type(e).__name__}: {e}", True
+        if not retriable or attempt == attempts:
+            raise FetchError(f"{err} after {attempt} attempt(s)") from None
+        time.sleep(2 ** (attempt - 1))
+    raise AssertionError("unreachable")  # attempts >= 1
 
 
 def discover_pdfs() -> dict[str, str]:
@@ -117,20 +142,34 @@ def discover_pdfs() -> dict[str, str]:
     return out
 
 
-def download_all(pdfs: dict[str, str], dest: Path) -> dict[str, tuple[Path, str]]:
-    """Download every PDF into dest. Return {stem: (path, sha256)}."""
-    def grab(item: tuple[str, str]) -> tuple[str, Path, str]:
+def download_all(
+    pdfs: dict[str, str], dest: Path
+) -> tuple[dict[str, tuple[Path, str]], dict[str, str]]:
+    """Download every PDF into dest.
+
+    Returns ({stem: (path, sha256)}, {stem: error}). A download that keeps
+    failing is reported rather than raised, so one unavailable asset can't
+    abort a sync of a hundred healthy ones.
+    """
+    def grab(item: tuple[str, str]) -> tuple[str, Path | None, str]:
         stem, url = item
-        data = fetch(url)
+        try:
+            data = fetch(url)
+        except FetchError as e:
+            return stem, None, str(e)
         p = dest / (stem + ".pdf")
         p.write_bytes(data)
         return stem, p, hashlib.sha256(data).hexdigest()
 
     results: dict[str, tuple[Path, str]] = {}
+    failed: dict[str, str] = {}
     with ThreadPoolExecutor(max_workers=8) as ex:
-        for stem, path, digest in ex.map(grab, pdfs.items()):
-            results[stem] = (path, digest)
-    return results
+        for stem, path, info in ex.map(grab, pdfs.items()):
+            if path is None:
+                failed[stem] = info
+            else:
+                results[stem] = (path, info)
+    return results, failed
 
 
 # --------------------------------------------------------------------------- #
@@ -299,11 +338,25 @@ def sync_markdown(args) -> bool:
     print(f"Found {len(pdfs)} PDF(s). Downloading to a temp dir for checksum compare...")
 
     with tempfile.TemporaryDirectory(prefix="uci_pdfs_") as tmp:
-        current = download_all(pdfs, Path(tmp))  # {stem: (path, sha)}
-        cur_sha = {url: current[stem][1] for url, stem in by_url.items()}
+        current, failed = download_all(pdfs, Path(tmp))  # {stem: (path, sha)}
+        if failed:
+            print(f"\n{len(failed)} download(s) failed after retries:")
+            for stem, err in sorted(failed.items()):
+                print(f"  ! {stem} — {err}")
+            # A CDN or network outage must never read as UCI withdrawing
+            # documents, which would delete their Markdown wholesale.
+            if len(failed) > max(3, len(pdfs) // 10):
+                sys.exit("Too many downloads failed — aborting, docs/ untouched.")
+            print("  (previous Markdown kept for these; the next run retries them)")
+
+        # Assets that wouldn't download are simply absent from this run: their
+        # manifest entry and Markdown carry forward untouched.
+        skipped = {pdfs[stem] for stem in failed}
+        cur_sha = {url: current[stem][1]
+                   for url, stem in by_url.items() if stem in current}
 
         added   = [u for u in cur_sha if u not in old]
-        removed = [u for u in old if u not in cur_sha]
+        removed = [u for u in old if u not in cur_sha and u not in skipped]
         changed = [u for u in cur_sha if u in old and cur_sha[u] != old[u].get("sha256")]
         todo = sorted(added + changed, key=lambda u: by_url[u])
 
@@ -366,6 +419,9 @@ def sync_markdown(args) -> bool:
     return True
 
 
+# A source filename that is just a Contentful asset UUID, with no title in it.
+_UUID_STEM = re.compile(r"(?i)^[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$")
+
 CHANGELOG_NAME = "whats-changed.md"
 CHANGELOG_MARKER = "<!-- sync-log: new entries are inserted below this line -->"
 
@@ -399,12 +455,30 @@ def log_sync(out: Path, added: list[str], changed: list[str], removed: list[str]
     def slug(name: str) -> str | None:
         return name.split("__", 1)[0] if "__" in name else None
 
+    def version_key(name: str) -> str:
+        """The source stem with digits and punctuation dropped, so two
+        versions of one document ('..._As_of_01.07.2026' / '..._01.09.2026')
+        share a key while unrelated documents under one slug don't."""
+        return re.sub(r"[^a-z]", "", build_nav.src_stem(name).lower())
+
+    def same_document(new: str, gone: str) -> bool:
+        """Whether two filenames look like two versions of one document.
+
+        Some documents (the certified agents' list) are re-uploaded under a
+        bare asset UUID, which carries no title to compare; for those the
+        shared slug is all there is to go on.
+        """
+        if all(_UUID_STEM.match(build_nav.src_stem(n)) for n in (new, gone)):
+            return True
+        a, b = version_key(new), version_key(gone)
+        return bool(a) and (a.startswith(b) or b.startswith(a))
+
     added, removed = list(added), list(removed)
     replaced: list[tuple[str, str]] = []
     for s in {slug(n) for n in added} - {None}:
         new = [n for n in added if slug(n) == s]
         gone = [n for n in removed if slug(n) == s]
-        if len(new) == 1 and len(gone) == 1:
+        if len(new) == 1 and len(gone) == 1 and same_document(new[0], gone[0]):
             replaced.append((new[0], gone[0]))
             added.remove(new[0])
             removed.remove(gone[0])

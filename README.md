@@ -25,7 +25,10 @@ A single pass in [`sync.py`](sync.py):
    PDFs are never kept on disk).
 3. **Checksum** each PDF (SHA-256) and compare against
    [`docs/.manifest.json`](docs/.manifest.json) from the previous run to
-   classify every document as added / changed / removed / unchanged.
+   classify every document as added / changed / removed / unchanged. A
+   download that keeps failing after retries is skipped with a warning — its
+   Markdown and manifest entry carry forward and the next run picks it up — so
+   one unavailable asset can't abort the sync or look like a withdrawn document.
 4. **Convert** only the added and changed PDFs to Markdown (via `pymupdf4llm`),
    extracting any figures/diagrams to `docs/images/`. Markdown and images for
    removed PDFs are deleted, and the manifest is rewritten.
