@@ -1,12 +1,13 @@
 ---
-source_pdf: preliminary-provisions.pdf
-source_url: https://assets.ctfassets.net/761l7gh5x5an/4duDBFRJyx2nFmkbTgaucB/37540852baf261ba47bbd76509a0515e/preliminary-provisions.pdf
-source_sha256: 1518c0381ad3e8a6bd02d5c35c97c61682f8efc646ad90db6452f8f950be34de
+source_pdf: Preliminary_provisions.pdf
+source_url: https://assets.ctfassets.net/761l7gh5x5an/4duDBFRJyx2nFmkbTgaucB/1afef20d59d9557ee6b05f140c9e1161/Preliminary_provisions.pdf
+source_sha256: 61f46a76c4d27752e58976ec09110557c3f1286b39911339413fe2f35f6dc1f7
 converter: pymupdf4llm
 ---
-## **PRELIMINARY PROVISIONS** 
 
-## **Version on 05.02.2019** 
+# **PRELIMINARY PROVISIONS** 
+
+**Version on 01.10.2026** 
 
 - **1** The present UCI Cycling Regulations (hereinafter referred to as “the Regulations”) shall be applicable to all cycling races. 
 
@@ -36,7 +37,7 @@ National Federations shall also include the Policy in their respective regulatio
 
 _(article introduced on 1.01.09; text modified on 5.02.19)._ 
 
-E0219 
+E1026 
 
 1 
 
@@ -65,10 +66,12 @@ The original language of the different parts of the Regulations is:
 |Part 14|Anti-Doping Rules of the UCI|English|
 |Part 15|Cycling for All|English|
 |Part 16|Para-Cycling|English|
+|Part 17|Cycling Esports|English|
+|Part 18|Gravel|English|
 
-_(text modified on 25.09.08; 18.06.10; 30.09.10; 1.05.14; 24.09.15)._ 
+_(text modified on 25.09.08; 18.06.10; 30.09.10; 1.05.14; 24.09.15; 01.10.2026)._ 
 
-E0219 
+E1026 
 
 2 
 

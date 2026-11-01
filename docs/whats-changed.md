@@ -9,6 +9,32 @@ them; open the corresponding regulation in the sidebar for the full text.
 
 <!-- sync-log: new entries are inserted below this line -->
 
+## 2026-11-01 sync
+
+> Automated entry — plain-English summary not yet written. Open the
+> documents below for the full text.
+
+- **Updated:** [LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL](list-of-individual-neutral-athletes__LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL.md) (replaces LIST_OF_INDIVIDUAL_NEUTRAL_ATHLETES_AND_SUPPORT_PERSONNEL)
+- **Updated:** [Part 16 — Para-Cycling (amendments 01.01.2027)](part-16-para-cycling__Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.01.2027.md) (replaces Part 16 — Para-Cycling (amendments 01.01.2027))
+- **Added:** [Preliminary Provisions (01.10.2026)](Preliminary_provisions.md)
+- **Added:** [Agents De Coureurs Certifiés UCI UCI Certified Riders' Agents (28.10.2026)](agents-de-coureurs-certifies-uci-uci-certified-riders__20261028_UCI_Certified_Riders-_Agents.md)
+- **Added:** [Part 1 — General Organisation of Cycling as a Sport (in force 01.10.2026)](part-01-general-organisation-of-cycling-as-a-sport__1-GEN-20261001-E.md)
+- **Added:** [Part 1 — General Organisation of Cycling as a Sport (amendments 01.01.2027)](part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_01.01.2027-3.md)
+- **Added:** [Part 1 — General Organisation of Cycling as a Sport (amendments 01.10.2026)](part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_01.10.2026.md)
+- **Added:** [Part 1 — General Organisation of Cycling as a Sport (amendments 19.10.2026)](part-01-general-organisation-of-cycling-as-a-sport__UCI_Part_I_-_Rule_Changes_on_19.10.2026.md)
+- **Added:** [Part 2 — Road Races (in force 19.10.2026)](part-02-road-races__2-ROA-20261019-E.md)
+- **Added:** [Part 9 — World Championships (amendments 01.01.2027)](part-09-world-championships__9-20270101-E_Amendments_on_01.01.2027.md)
+- **Added:** [Part 9 — World Championships (amendments 01.10.2026)](part-09-world-championships__UCI_Part_IX_-_Rule_Changes_on_01.10.2026_-_ENG.md)
+- **Added:** [Preliminary Provisions (amendments 01.10.2026)](preliminary-provisions__UCI_Part_I_-_Rule_Changes_on_01.10.2026__1_.md)
+- **Added:** [Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions](restart-protocol-for-road-cycling-after-an-interruption__Restart_Protocol_ENG.md)
+- **Removed:** Agents De Coureurs Certifiés UCI UCI Certified Riders' Agents
+- **Removed:** 1-GEN-20260701-E
+- **Removed:** Part 1 — General Organisation of Cycling as a Sport (amendments 01.10.2026)
+- **Removed:** Part 2 — Road Races (in force 01.09.2026)
+- **Removed:** Restart Protocol for Road Cycling (amendments 01.07.2025)
+- **Removed:** Part 9 — World Championships (amendments 01.01.2027)
+- **Removed:** Preliminary Provisions (05.02.2019)
+
 ## 2026-10-01 sync
 
 > Automated entry — plain-English summary not yet written. Open the

@@ -122,8 +122,13 @@ def good_content_title(cands: list[str]) -> str | None:
 
 
 def find_date(md: str, stem: str) -> str | None:
-    if (m := _VER_LINE.search(md)):
+    for m in _VER_LINE.finditer(md):
         d, mo, y = m.group(1), m.group(2), m.group(3)
+        # UCI's own text sometimes carries a typo ("Version on 19.20.2026");
+        # an impossible date falls through to the source filename, which
+        # encodes the same date and is machine-generated.
+        if not (1 <= int(d) <= 31 and 1 <= int(mo) <= 12):
+            continue
         y = "20" + y if len(y) == 2 else y
         return f"{int(d):02d}.{int(mo):02d}.{y}"
     if (m := _DATE_YMD.search(stem)):

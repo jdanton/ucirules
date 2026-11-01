@@ -384,15 +384,16 @@ def sync_markdown(args) -> bool:
 
         manifest = dict(old)
         if todo:
-            # Heavy import; only needed when converting PDFs. pymupdf4llm 2.0
-            # is an empty placeholder (the code moved into pymupdf 2.x), so an
-            # unpinned install resolves to nothing importable.
+            # Heavy import; only needed when converting PDFs. The module is
+            # shipped by pymupdf 2.x itself — the standalone pymupdf4llm 2.0
+            # distribution is an empty placeholder, so installing that name
+            # alone leaves nothing importable.
             try:
                 import pymupdf4llm
             except ModuleNotFoundError:
-                sys.exit("pymupdf4llm is not installed (2.0 is an empty "
-                         "placeholder package). Install the pinned version: "
-                         "pip install -r requirements.txt")
+                sys.exit("pymupdf4llm is missing: it ships inside pymupdf 2.x, "
+                         "and the standalone package of that name is an empty "
+                         "placeholder. Run: pip install -r requirements.txt")
         for u in todo:
             stem, (path, digest) = by_url[u], current[by_url[u]]
             clear_images(images_dir, stem)  # drop stale figures before re-rendering
@@ -419,9 +420,10 @@ def sync_markdown(args) -> bool:
             del manifest[u]
             print(f"  deleted {old[u]['name']}")
 
-    log_sync(out, [manifest[u]["name"] for u in added],
-             [manifest[u]["name"] for u in changed],
-             [old[u]["name"] for u in removed])
+    if not args.force:
+        log_sync(out, [manifest[u]["name"] for u in added],
+                 [manifest[u]["name"] for u in changed],
+                 [old[u]["name"] for u in removed])
     manifest_path.write_text(json.dumps(dict(sorted(manifest.items())), indent=2) + "\n")
     print(f"\nManifest updated: {manifest_path}")
     return True
