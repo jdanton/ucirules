@@ -48,10 +48,10 @@ jobs:
       - name: Rebuild page titles and nav
         run: python build_nav.py
 
-      - name: Commit changes and deploy
+      - name: Commit any regulation changes
         run: |
           if [ -z "$(git status --porcelain)" ]; then
-            echo "No regulation changes this run — nothing to commit or deploy."
+            echo "No regulation changes this run — nothing to commit."
             exit 0
           fi
           echo "Changes detected:"
@@ -59,6 +59,12 @@ jobs:
           git add -A
           git commit -m "Monthly UCI sync ($(date -u +%F))"
           git push
-          # Build from the just-committed Markdown (no second download) and
-          # push the rendered site to the gh-pages branch.
-          python sync.py --ghdeploy --no-sync
+
+      - name: Deploy the docs site
+        # Deliberately outside the "any changes?" check above. The site has to
+        # track the default branch, which also moves through code changes and
+        # hand-written pages — a converter upgrade rewrote every document
+        # without UCI touching a single PDF. Builds from the Markdown already
+        # on disk (no second download) and pushes to the gh-pages branch;
+        # gh-deploy is idempotent, so a quiet run just rebuilds the same site.
+        run: python sync.py --ghdeploy --no-sync

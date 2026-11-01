@@ -144,7 +144,9 @@ schedule (cron / CI) to keep a continuous history.
 the whole flow **on the 1st of each month** (and on demand): it installs the
 dependencies, runs `sync.py`, regenerates the titles/nav with `build_nav.py`,
 and — only if something changed — commits the new Markdown to the default
-branch and redeploys the site to `gh-pages`. No external infrastructure or
+branch. The site is then redeployed to `gh-pages` on every run, changes or
+not, so it tracks the default branch: code changes and hand-written pages move
+the site without UCI touching a PDF. No external infrastructure or
 secrets are required; it uses the built-in `GITHUB_TOKEN` (the workflow grants
 itself `contents: write`).
 
