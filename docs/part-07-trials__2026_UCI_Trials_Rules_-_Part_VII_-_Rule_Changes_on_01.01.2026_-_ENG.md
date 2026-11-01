@@ -4,21 +4,22 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/42nORb31V3AuUM8Vtnjomk/691
 source_sha256: 74d7b66ffa2f9008cb586b47a52431e2cc2da7fecd2b178ab7af9f43335c83ff
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
 
-## MEMORANDUM 
+MEMORANDUM 06.10.2025 
 
-06.10.2025 
+# **PART 7 TRIALS** 
 
-## **PART 7 TRIALS Rules amendments applying on 01.01.2026** 
+**Rules amendments applying on 01.01.2026** 
 
 ## **Chapter I GENERAL RULES** 
 
-## **§ 2 Calendar** 
+### **§ 2 Calendar** 
 
-## **Events classes and date protection** 
+#### **Events classes and date protection** 
 
 - **7.1.003** The calendar season starts on January 1 and continues until December 31 of the same year. International Trials events are registered on the international calendar in accordance with the following classification: 
 
@@ -66,9 +67,7 @@ All events registered on the international calendar must comply with the UCI fin
 
 _(text modified on 01.10.13; 15.10.18; 01.01.26)_ 
 
-## **§ 5** 
-
-## **Sections** 
+### **§ 5 Sections** 
 
 - **7.1.018** Each side of the section must be marked by plastic course tape, rope or white lines on the ground. The tape or rope should be installed 20 to 30 cm above the ground. There can also be plastic course tape, rope or white lines on the ground inside the section to indicate different lines of difficulty or closing some obstacles adding extra difficulty. 
 
@@ -96,7 +95,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0003-00.png)
 
-## **§ 16 Infringements, penalties, deduction of points and protest** 
+### **§ 16 Infringements, penalties, deduction of points and protest** 
 
 - **7.1.087** Entering the gate of some other category, skipping a gate of his/her own category or not riding the gates in the correct order (5 penalty points). 
 
@@ -112,35 +111,39 @@ _(text modified on 01.10.13; 18.03.15; 15.10.18; 01.01.23; 01.01.26)_
 
 ## **Chapter II INTERNATIONAL EVENTS** 
 
-## **Competition format** 
+#### **Competition format** 
 
-- **7.2.007** The riders eligible to compete in the Final round shall be as follow: 
+**7.2.007** The riders eligible to compete in the Final round shall be as follow: 
 
-   - if the category has 6 or less riders, the best 3 riders in the ½ Final round will be eligible to compete in the Final; 
+- if the category has 6 or less riders, the best 3 riders in the ½ Final round will be eligible to compete in the Final; 
 
-   - if the category has between 7 and 8 riders, the best 4 riders in the ½ Final round will be eligible to compete in the Final; 
+- if the category has between 7 and 8 riders, the best 4 riders in the ½ Final round will be eligible to compete in the Final; 
 
-   - if the category has 9 or more riders, the best 6 riders in the ½ Final round will be eligible to compete in the Final. 
+- if the category has 9 or more riders, the best 6 riders in the ½ Final round will be eligible to compete in the Final. 
 
 The scores gained in the ½ Finals round do not count in the Final round. 
 
 _(article introduced on 01.01.26)_ 
 
-## **Events format** 
+#### **Events format** 
 
-- **7.2.0** <del>**078**</del> Hors Class (HC) events shall be run in one or two days. One qualification round and one final round will be run. International events Class 1 (C1) shall be run in one day with a single round. 
+**7.2.0** **<del>078</del>** Hors Class (HC) events shall be run in one or two days. One qualification round and one final round will be run. International events Class 1 (C1) shall be run in one day with a single round. 
 
 _(article introduced on 01.10.13; text modified on 15.10.18, former article 7.2.007 moved to 7.2.008)_ 
 
 Page **3** / **4** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
+Allée Ferdi Kübler 12 1860 Aigle Switzerland 
+
+T: +41 24 468 58 11 E: admin@uci.ch 
 
 ![](images/2026_UCI_Trials_Rules_-_Part_VII_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0004-00.png)
 
 ## **Chapter VI UCI TRIALS RANKING** 
 
-- **7.6.002** The UCI has created the UCI Trials ranking. The UCI is its exclusive owner. 
+#### **7.6.002** 
+
+The UCI has created the UCI Trials ranking. The UCI is its exclusive owner. 
 
 The UCI Trials ranking is drawn up over a period of one year, in accordance with the conditions set out below, by adding the points won since the preceding ranking was drawn up and respecting the provisions of article 7.6.004. 
 

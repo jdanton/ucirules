@@ -4,21 +4,24 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6mWZF699dl7xZhIOWSbuVX/04b
 source_sha256: 288dc95f89a1c405aac3ab0bb813fbf05b0bd1ca9d057d54f79fc56920f4cf92
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-MEMORANDUM 08.06.2026 
+MEMORANDUM 
 
-![](images/UCI_Part_I_-_Rule_Changes_on_01.07.2026.pdf-0001-01.png)
+08.06.2026 
 
-## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 01.07.2026** 
+![](images/UCI_Part_I_-_Rule_Changes_on_01.07.2026.pdf-0001-02.png)
+
+# **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 01.07.2026** 
 
 ## **Chapter II RACES** 
 
 ## **§ 7 National Championships** 
 
-## **Dates of the National Championships** 
+#### **Dates of the National Championships** 
 
-- **1.2.029** National road championships shall be organised during the last full week of the month of June. All results must be received by the UCI within UCI DataRide no later than two days after the last day of the event. No result received after that time shall be taken into consideration for the UCI classification. UCI points awarded will be included in the ranking calculated on the week following the receiving of the results. 
+**1.2.029** National road championships shall be organised during the last full week of the month of June. All results must be received by the UCI within UCI DataRide no later than two days after the last day of the event. No result received after that time shall be taken into consideration for the UCI classification. UCI points awarded will be included in the ranking calculated on the week following the receiving of the results. 
 
 The national cyclo-cross championships shall be run on the second weekend of January. 
 
@@ -38,7 +41,7 @@ _(text modified on 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.01.08; 01.07.10; 0
 
 ## **Section 2: bicycles** 
 
-## **§ 2 Technical Specifications** 
+### **§ 2 Technical Specifications** 
 
 - **1.3.10bis** Except where stated to the contrary, the following technical specifications shall apply to bicycles used in road, track and cyclo-cross competitions <del>racing</del>. 
 

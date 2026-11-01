@@ -4,9 +4,10 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7EF2IRerppYiZ26ghcnu20/867
 source_sha256: 727782f9a4430403af07cc8fc13ea0fbc1ad8ddb22d478cbc05b3c0915efcdf3
 converter: pymupdf4llm
 ---
+
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0001-00.png)
 
-## **Hydration Testing and Weigh-In Policy** 
+# **Hydration Testing and Weigh-In Policy** 
 
 ## **Purpose and Scope** 
 
@@ -26,7 +27,9 @@ In short, unhealthy weight-cutting endangers athletes’ health and often underm
 
 Page **1** / **6** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
+Allée Ferdi Kübler 12 1860 Aigle Switzerland 
+
+T: +41 24 468 58 11 E: admin@uci.ch 
 
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0002-00.png)
 
@@ -56,9 +59,7 @@ Our adoption of the 1.020 standard errs on the side of safety and ensures that r
 
 Page **2** / **6** 
 
-Allée Ferdi Kübler 12 1860 Aigle Switzerland 
-
-T: +41 24 468 58 11 E: admin@uci.ch 
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0003-00.png)
 
@@ -80,7 +81,7 @@ For the avoidance of doubt, if an athlete cannot satisfy the testing requirement
 
 All competitors must complete the official weigh-in under the supervision of the neutral medical team. The weigh-in process is tightly coupled with the hydration checks described above – a weigh-in is not official unless the athlete passes the hydration test. 
 
-## **Racer Information Seminar** 
+### **Racer Information Seminar** 
 
 Prior to the weigh-in, all competitors will attend a mandatory information seminar. The session is designed to ensure that every athlete understands the health and safety principles underlying the weigh-in and hydration protocol and to promote informed, responsible participation. 
 
@@ -116,7 +117,9 @@ All aspects of weigh-ins and hydration testing will be overseen by a neutral med
 
 Page **4** / **6** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
+Allée Ferdi Kübler 12 1860 Aigle Switzerland 
+
+T: +41 24 468 58 11 E: admin@uci.ch 
 
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0005-00.png)
 
@@ -140,7 +143,9 @@ Page **5** / **6**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
+
+E: admin@uci.ch 
 
 ![](images/FINAL-Cycling_Esports_Hydration_Testing_and_Weigh-In_Policy.pdf-0006-00.png)
 
@@ -150,7 +155,7 @@ In summary, the UCI Cycling Esports Weigh-In and Hydration Policy is a comprehen
 
 This policy is intended to safeguard athletes’ health. The UCI is committed to an athlete-centric approach: every rider will be given full support to meet the requirements, and punitive measures are reserved only for those who intentionally flout the rules. With this policy in place, the UCI will support riders at their healthiest and highest performance capacity, ensuring an event that is fair, competitive, and safe for all participants. 
 
-## **Sources:** 
+#### **Sources:** 
 
 - Burke L, Slater GJ, Matthews JJ, Langan-Evans C, Horswill CA. ACSM Expert Consensus Statement on Weight Loss in Weight-Category Sports. Curr Sports Med Rep. 2021 Apr 1;20(4):199-217. 
 
@@ -158,4 +163,8 @@ This policy is intended to safeguard athletes’ health. The UCI is committed to
 
 Page **6** / **6** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland
+Allée Ferdi Kübler 12 1860 Aigle Switzerland 
+
+T: +41 24 468 58 11 
+
+E: admin@uci.ch

@@ -78,6 +78,19 @@ PART_TITLES = {
     "17": "Cycling Esports",
 }
 
+# Documents whose slug must not be guessed from a heading. These open with a
+# section heading rather than a title, so the guess is both meaningless and
+# unstable — it shifted on every one of these when the converter changed, which
+# renames the file and breaks the published URL. Keyed by source stem.
+SLUG_OVERRIDE = {
+    "2025_UCI_CONSTITUTION___CONGRESS_EN_sept": "uci-constitution-and-congress",
+    "2023_UCI_ETHICS_EN_04-08-23": "uci-code-of-ethics",
+    "2026.06.05_UCI_Regulations_for_Testing_and_Investigations-":
+        "uci-regulations-for-testing-and-investigations",
+    "Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG":
+        "clarification-guide-of-the-uci-technical-regulation",
+}
+
 # Headings that never describe a document; skipped when guessing a title.
 _GENERIC = {"memorandum", "uci cycling regulations", "preamble"}
 _GENERIC_PREFIXES = (
@@ -281,6 +294,8 @@ def detect_part_in_title(candidates: list[str]) -> str | None:
 
 def doc_slug(md_text: str, stem: str) -> str:
     """Descriptive slug for a document, from its Part or its title heading."""
+    if stem in SLUG_OVERRIDE:
+        return SLUG_OVERRIDE[stem]
     candidates = title_candidates(md_text)
     part = detect_part_in_title(candidates) or detect_part_from_stem(stem)
     if part in PART_TITLES:
@@ -318,6 +333,37 @@ def clear_images(images_dir: Path, stem: str) -> None:
     """
     for p in images_dir.glob(f"{stem}.pdf-*"):
         p.unlink()
+
+
+META_PAGES = {"index.md", "whats-changed.md"}  # hand-written, not generated
+
+
+def prune_orphans(out: Path, manifest: dict[str, dict]) -> None:
+    """Delete generated files the manifest no longer accounts for.
+
+    Renames are normally handled per document, but that relies on comparing
+    against the previous manifest — which `--force` deliberately discards, so
+    a slug change would otherwise leave the old Markdown behind, pointing at
+    images that have since been re-extracted under new names.
+    """
+    keep = {e["name"] for e in manifest.values()} | META_PAGES
+    stale = [p for p in out.glob("*.md") if p.name not in keep]
+    for p in stale:
+        p.unlink()
+        print(f"  pruned stale {p.name}")
+
+    images = out / IMG_DIR
+    if not images.is_dir():
+        return
+    referenced = set()
+    for md in out.glob("*.md"):
+        referenced.update(re.findall(rf"\({IMG_DIR}/([^)]+)\)",
+                                     md.read_text(encoding="utf-8")))
+    unused = [p for p in images.iterdir() if p.is_file() and p.name not in referenced]
+    for p in unused:
+        p.unlink()
+    if unused:
+        print(f"  pruned {len(unused)} unreferenced image(s)")
 
 
 def sync_markdown(args) -> bool:
@@ -420,6 +466,9 @@ def sync_markdown(args) -> bool:
             del manifest[u]
             print(f"  deleted {old[u]['name']}")
 
+    # Runs on every sync, and matters most under --force, which keeps no
+    # previous manifest to detect renames against.
+    prune_orphans(out, manifest)
     if not args.force:
         log_sync(out, [manifest[u]["name"] for u in added],
                  [manifest[u]["name"] for u in changed],

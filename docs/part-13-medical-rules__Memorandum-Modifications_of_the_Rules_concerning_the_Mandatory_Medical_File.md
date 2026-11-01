@@ -4,17 +4,16 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6WlKUtPYFvKGW0AiGH2SRz/eba
 source_sha256: fd3321d28a7378df6fb8b43428c364ed550a8202a4a3ccd1d013b6450b4cafe1
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Memorandum-Modifications_of_the_Rules_concerning_the_Mandatory_Medical_File.pdf-0001-00.png)
 
-## MEMORANDUM 
+MEMORANDUM 07.08.2025 
 
-07.08.2025 
+**PART XIII – MEDICAL RULES Rules amendments applying on 07.08.2025** 
 
-## **PART XIII – MEDICAL RULES Rules amendments applying on 07.08.2025** 
-
-## **Chapter III PROTECTION AND PROMOTION OF THE RIDER’S HEALTH** 
+# **Chapter III PROTECTION AND PROMOTION OF THE RIDER’S HEALTH** 
 
 (Amendments to the regulations are in red text) 
 
@@ -28,7 +27,7 @@ converter: pymupdf4llm
 
 ## **Examinations** 
 
-- 13.3.027 After each examinations, the team doctor will submit a report to the UCI Medical Director, using the template provided by the department, detailing the examinations conducted for each rider. The UCI Medical Director must receive this report no later than the 15[th] of the month following the month in which the examinations took place. 
+- 13.3.027 After each examinations, the team doctor will submit a report to the UCI Medical Director, using the template provided by the department, detailing the examinations conducted for each rider. The UCI Medical Director must receive this report no later than the 15<sup>th</sup> of the month following the month in which the examinations took place. 
 
 - 13.3.028 Upon the request of the UCI Medical Director, and within the deadlines and procedures he has established, the team doctor will provide <del>evidence that the mandatory examinations required by these regulations have been completed, along with any requested explanations and</del> medical information. This information will be treated with the utmost confidentiality. 
 
@@ -38,4 +37,6 @@ Page 1 / 1
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 D: +41 24 468 58 09 E: medical@uci.ch
+T: +41 24 468 58 11 D: +41 24 468 58 09 
+
+E: medical@uci.ch

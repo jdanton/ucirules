@@ -4,19 +4,18 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/vXrDrFCrhpNw7ZXnJtOSm/08ba
 source_sha256: e3cd9e247170976a32d080e98240f7f3972a38c920186d101d12552dc9866761
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-03.10.2025 
+MEMORANDUM 03.10.2025 
 
 ![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0001-01.png)
 
-## MEMORANDUM 
-
-## **PART II - ROAD RACES Rules amendments applying on 1.01.2026** 
+# **PART II - ROAD RACES Rules amendments applying on 1.01.2026** 
 
 ## **Chapter I CALENDAR AND PARTICIPATION** 
 
-## **Mixed Teams** 
+#### **Mixed Teams** 
 
 **2.1.004** <del>A mixed team is composed exclusively of riders belonging to different club teams eligible for participation according to article 2.1.005 and registered for a specific event.</del> 
 
@@ -42,13 +41,11 @@ Riders participating as part of a mixed team shall wear the jersey of their regu
 
 _(text modified on 1.01.99; 1.01.05; 28.04.05; 1.01.07; 12.06.20; 01.01.25; 1.01.26)._ 
 
-MEMORANDUM 
+MEMORANDUM 03.10.2025 
 
-03.10.2025 
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0002-01.png)
 
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0002-02.png)
-
-## **Junior Development Teams** 
+#### **Junior Development Teams** 
 
 **2.1.004bis** A junior development team shall be established for a duration of one year with the purpose of participating in junior events, in accordance with the provisions of Article 2.1.005. 
 
@@ -72,66 +69,66 @@ The UCI shall publish on its website the list of teams communicated by the Natio
 
 _(Article introduced on 1.01.26)_ 
 
-## **2.1.005 International races and participation** 
+#### **2.1.005 International races and participation** 
 
 |**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**|**Class**|**Participation**|
 |---|---|---|---|
 |Olympic games|ME<br>WE|JO|-As per part XI|
 |World championships|ME<br>WE<br>MU<br>WU<br>MJ<br>WJ|CM|-National teams, in accordance with<br>the world championships (see part<br>IX)|
 
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0003-00.png)
+
+# MEMORANDUM 
+
 03.10.2025 
-
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0003-01.png)
-
-## MEMORANDUM 
 
 |**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**|**Class**|**Participation**|
 |---|---|---|---|
-|Continental<br>championships|ME<br>WE<br>MU<br>WU<br>MJ<br>WJ|CC|-National teams, in accordance with<br>the continental championships (see<br>part X)|
-|Continental games||JC|-National teams, in accordance with<br>the specific regulations of the event|
+|Continental<br>championships|ME<br>WE<br>MU<br>WU|CC|-National teams, in accordance with<br>the continental championships (see<br>part X)|
+|Continental games|MJ<br>WJ|JC|-National teams, in accordance with<br>the specific regulations of the event|
 |Regional games||JR|-National teams, in accordance with<br>the regional games (see part X)|
 |UCI WorldTour|ME|1.UWT<br>2.UWT|-UCI WorldTeams (see Art. 2.15.127)<br>-Invited UCI ProTeams<br>-National team of the organising<br>country in events determined by the<br>PCC|
-|UCI Europe Tour|ME|1.Pro<br>2.Pro|-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams of the country<br>(1)<br>-UCI cyclo-cross professional teams<br>of the country(1)<br>-Foreign UCI continental teams<br>(max. 2)(1)<br>-National team of the country of the<br>organiser|
+|UCI Europe Tour|ME|1.Pro<br>2.Pro|-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams of the country<br>(1)<br>-UCI cyclo-cross professional teams<br>of the country<sup>(1)</sup><br>-Foreign UCI continental teams<br>(max. 2)<sup>(1)</sup><br>-National team of the country of the<br>organiser|
 |||1.1<br>2.1|-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
 
-03.10.2025 
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0004-00.png)
 
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0004-01.png)
-
-## MEMORANDUM 
-
-|**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**||**Class**||**Participation**|
-|---|---|---|---|---|---|
-||||1.2<br>2.2||-UCI ProTeams of the country<br>-UCI foreign UCI ProTeams (max. 2)<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
-||MU||1.2U<br>2.2U||<del>- UCI ProTeams of the country</del><br><del>- UCI foreign UCI ProTeams (max. 2)</del><br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>Regional and club teams|
-||||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>||<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
-|UCI America Tour<br>UCI Asia Tour<br>UCI Oceania Tour<br>UCI Africa Tour|ME||1.Pro<br>2.Pro||-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams(1)<br>-UCI cyclo-cross professional teams<br>(1)<br>-National teams|
-||||1.1<br>2.1||-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
+# MEMORANDUM 
 
 03.10.2025 
-
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0005-01.png)
-
-## MEMORANDUM 
-
-|**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**||**Class**||**Participation**|
-|---|---|---|---|---|---|
-||||1.2<br>2.2||-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-African mixed teams(3)|
-||MU||1.2U<br>2.2U||<del>- UCI ProTeams of the country</del><br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-Mixed teams|
-||||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>||<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
-|Women Elite|WE||1.WWT<br>2.WWT||-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br>-National team from the country of<br>the organiser with the agreement of<br>the UCI (4)|
-||||1.Pro<br>2.Pro||- UCI Women’s WorldTeams (min 4)<br>- UCI Women’s ProTeams<br>- UCI women’s continental teams<br>- UCI cyclo-cross professional teams<br>- National teams|
-||||1.1<br>2.1||-UCI Women’s WorldTeams (min 1,<br>max 7)<br>-UCI Women’s ProTeams<br>-UCI women’s continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
-
-03.10.2025 
-
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0006-01.png)
-
-## MEMORANDUM 
 
 |**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**|**Class**|**Participation**|
 |---|---|---|---|
-||WE<br>WU|1.2<br>2.2|-UCI Women’s ProTeams<br>-UCI women’s continental teams<br>-UCI cyclo-cross professional teams<br>-National teams(5)<br>-Regional and club teams(5)<br>-Mixed teams(5)|
+|||1.2<br>2.2|-UCI ProTeams of the country<br>-UCI foreign UCI ProTeams (max. 2)<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
+||MU|1.2U<br>2.2U|<del>- UCI ProTeams of the country</del><br><del>- UCI foreign UCI ProTeams (max. 2)</del><br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>Regional and club teams|
+|||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>|<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
+|UCI America Tour<br>UCI Asia Tour<br>UCI Oceania Tour<br>UCI Africa Tour|ME|1.Pro<br>2.Pro|-UCI WorldTeams (max 72%)<br>-UCI ProTeams<br>-UCI continental teams<sup>(1)</sup><br>-UCI cyclo-cross professional teams<br>(1)<br>-National teams|
+|||1.1<br>2.1|-UCI WorldTeams (max 50%)<br>-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams|
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0005-00.png)
+
+# MEMORANDUM 
+
+03.10.2025 
+
+|**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**|**Class**|**Participation**|
+|---|---|---|---|
+|||1.2<br>2.2|-UCI ProTeams<br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-African mixed teams<sup>(3)</sup>|
+||MU|1.2U<br>2.2U|<del>- UCI ProTeams of the country</del><br>-UCI continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams<br>-Mixed teams|
+|||<del>Ncup</del><br><del>1.2</del><br><del>Ncup</del><br><del>2.2</del>|<del>- National teams</del><br><del>- Regional and club teams (max 16%)</del><br><del>(2)</del><br><del>- Mixed teams</del>|
+|Women Elite|WE|1.WWT<br>2.WWT|-UCI Women’s WorldTeams (min 8)<br>-UCI Women’s ProTeams<br>-National team from the country of<br>the organiser with the agreement of<br>the UCI (4)|
+|||1.Pro<br>2.Pro|- UCI Women’s WorldTeams (min 4)<br>- UCI Women’s ProTeams<br>- UCI women’s continental teams<br>- UCI cyclo-cross professional teams<br>- National teams|
+|||1.1<br>2.1|-UCI Women’s WorldTeams (min 1,<br>max 7)<br>-UCI Women’s ProTeams<br>-UCI women’s continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<br>-Regional and club teams|
+
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0006-00.png)
+
+# MEMORANDUM 
+
+03.10.2025 
+
+|**International**<br>**Calendar**|**Categor**<br>**y of**<br>**event**|**Class**|**Participation**|
+|---|---|---|---|
+||WE<br>WU|1.2<br>2.2|-UCI Women’s ProTeams<br>-UCI women’s continental teams<br>-UCI cyclo-cross professional teams<br>-National teams<sup>(5)</sup><br>-Regional and club teams<sup>(5)</sup><br>-Mixed teams<sup>(5)</sup>|
 |Men Junior|MJ|1.Ncup<br>2.Ncup|-National teams<br>-Regional and club teams (max 16%)<br>(2)<br>-Mixed teams|
 |||1.1<br>2.1|-National teams<br>-Regional and club teams<br>-Mixed teams<br>- Junior development teams|
 |Women Junior|WJ|1.Ncup<br>2.Ncup|-National teams<br>-Regional and club teams<br>-Mixed teams|
@@ -145,11 +142,9 @@ _(3) only for UCI Africa Tour._
 
 _(4)If thirty days prior to the event, the number of confirmed teams remains below the minimum required, and subject to the organiser providing evidence to the UCI that all UCI Women’s WorldTeams and UCI Women’s ProTeams have been duly invited to participate in the event, the UCI may authorise the organiser, as a first step, to invite UCI Women’s Continental Teams registered in the host country, and as a second step, to invite any other UCI Women’s Continental Teams.._ 
 
-MEMORANDUM 
+MEMORANDUM 03.10.2025 
 
-03.10.2025 
-
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0007-02.png)
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0007-01.png)
 
 > (5) _Women of the second year of Junior may be included in these teams, provided they have authorisation from the National Federation that issued their license._ 
 
@@ -159,13 +154,11 @@ _(text modified on 1.01.99; 1.01.05; 1.01.06; 1.10.06; 25.09.07; 1.01.08; 1.1.09
 
 ## **Chapter II GENERAL PROVISIONS** 
 
-## **§ 2 Organisation** 
+### **§ 2 Organisation** 
 
-## **Conduct of riders** 
+#### **Conduct of riders** 
 
-## **2.2.025** 
-
-Riders may not jettison food, bonk-bags, feeding bottles, clothes, etc. outside of the litter zones provided by the organiser. 
+**2.2.025** Riders may not jettison food, bonk-bags, feeding bottles, clothes, etc. outside of the litter zones provided by the organiser. 
 
 The rider must safely and exclusively deposit their waste on the sides of the road in the litter zones provided by the organiser. The rider may not jettison anything on the roadway itself. The rider may also dispose of bottles and clothing to team cars or organisation vehicles or with the team staff in charge of riders’ feeding. 
 
@@ -175,25 +168,23 @@ It is forbidden to carry and/or use glass objects.
 
 Riders must not hold onto a vehicle or push off against a vehicle in order to gain a significant advantage. In addition to the sanction provided for in article 2.12.007, the disciplinary commission may impose a suspension of up to one month as well as a fine of CHF 200 to 5’000. 
 
-## **Use of sidewalks, paths, cycle paths or verges** 
+#### **Use of sidewalks, paths, cycle paths or verges** 
 
 It is strictly prohibited to use sidewalks, paths or cycle paths that do not form part of the course as defined in article 2.2.015, separated by kerbs, verges, level changes or other physical features. 
 
 If a dangerous situation is created inter alia for other riders, spectators or race personnel by such action or if such action procures a significant advantage over other riders, the rider will be sanctioned in accordance with article 2.12.007. 
 
-## **Position on the bicycle** 
+#### **Position on the bicycle** 
 
 Riders must observe the standard position as defined by article 1.3.008. Sitting on the bicycle’s top tube or other positions such as push against the front of the saddle are prohibited. Furthermore, using the forearms as a point of support on the handlebar is prohibited except in time trials where such support is only permitted on fixed additional time trial extension handlebars. 
 
 _(text modified on 1.01.15; 1.01.18; 1.01.19; 1.04.21; 17.04.21; 1.01.26)._ 
 
-03.10.2025 
+MEMORANDUM 03.10.2025 
 
 ![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0008-01.png)
 
-## MEMORANDUM 
-
-## **2.2.029bis Protocol for discussions regarding extreme weather and the riders’ safety during events** 
+#### **2.2.029bis Protocol for discussions regarding extreme weather and the riders’ safety during events** 
 
 The purpose of the protocol is to prevent and/or address incidents or problems relating to extreme weather conditions or riders’ safety during events. 
 
@@ -205,7 +196,9 @@ The protocol shall be applied:
 
 - In UCI ProSeries events, 
 
-- In Men Elite Class 1 events with at least 8 UCI WorldTeams and UCI ProTeams at the start, 
+- In Men Elite Class 1 events with at least 8 UCI WorldTeams and 
+
+   - UCI ProTeams at the start, 
 
 - In Women Elite Class 1 events with a least 6 UCI Women’s WorldTeams and UCI Women’s ProTeams at the start. 
 
@@ -215,9 +208,9 @@ The protocol for discussions regarding extreme weather and the riders’ safety 
 
 _(article introduced on 1.01.16; and modified on 23.10.19; 11.02.20; 5.02.24; 1.01.26)._ 
 
-## **2.2.035bis Regulator** 
+#### **2.2.035bis Regulator** 
 
-## **1. Definition** 
+#### **1. Definition** 
 
 The regulator is a person appointed by the organiser as part of its organisation staff who oversees the safety of the riders during the event and the smooth running of the event. 
 
@@ -225,7 +218,7 @@ The regulator shall travel as a passenger on a motorbike driven by an experience
 
 Two regulators are mandatory in UCI WorldTour and UCI Women’s WorldTour events. At least one regulator is mandatory in UCI ProSeries and Class 1 events. For all other events, the presence of a regulator is strongly recommended. 
 
-## **2. Qualifications** 
+#### **2. Qualifications** 
 
 The regulator must: 
 
@@ -237,33 +230,31 @@ The regulator must:
 
 - Know the specific regulations for the event. 
 
-## **3. Role** 
+**3. Role** 
 
 The role of the regulator is defined in the Regulator's Guide on Road Events published by the UCI 
 
-MEMORANDUM 
+MEMORANDUM 03.10.2025 
 
-03.10.2025 
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0009-01.png)
 
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0009-02.png)
-
-## **4. Identification** 
+#### **4. Identification** 
 
 The regulator must be clearly identifiable through specific red attire as determined by the event organisation. 
 
-## **5. Collaboration** 
+#### **5. Collaboration** 
 
 The regulator shall work in close collaboration with the event safety manager, the motorcycle commissaires, and other event stakeholders to ensure the safety and smooth running of the race. 
 
 _(article introduced on 1.01.26)_ 
 
-## **§ 4 Circulation during the race** 
+#### **§ 4 Circulation during the race** 
 
-- _(numbering of the paragraph modified on 4.05.16)_ 
+_(numbering of the paragraph modified on 4.05.16)_ 
 
-## **Passengers** 
+#### **Passengers** 
 
-- **2.2.041** All passengers of vehicles shall <del>equally ensure that they</del> act in a prudent manner to safeguard the safety of riders in the race, spectators and other vehicles. In doing so, they shall not make any gestures, manipulate any objects or give any instructions to drivers which are susceptible of causing a risk for safety 
+**2.2.041** All passengers of vehicles shall <del>equally ensure that they</del> act in a prudent manner to safeguard the safety of riders in the race, spectators and other vehicles. In doing so, they shall not make any gestures, manipulate any objects or give any instructions to drivers which are susceptible of causing a risk for safety 
 
 _(text modified on 4.05.16; 1.01.26)._ 
 
@@ -277,15 +268,13 @@ In the event the passenger of any other vehicle is not a licence-holder, the dri
 
 _(text modified on 1.01.05; 1.01.13; 4.05.16; 1.01.26)._ 
 
-03.10.2025 
+MEMORANDUM 03.10.2025 
 
 ![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0010-01.png)
 
-## MEMORANDUM 
+#### **Chapter IV INDIVIDUAL TIME TRIALS** 
 
-## **Chapter IV INDIVIDUAL TIME TRIALS** 
-
-## **Start** 
+#### **Start** 
 
 - **2.4.010** All riders <del>must</del> shall present themselves <del>for checks on their bicycles</del> with their equipment at the bike check area no later than <del>15</del> 10 minutes before their scheduled start time. <del>Before the start, an additional check can be done.</del> This check is mandatory and must be passed before the rider is allowed to start. After this final check, riders must remain within the controlled area, composed of the bike check, warm-up and waiting areas, until their start. 
 
@@ -293,9 +282,9 @@ An optional pre-check session may be made available by the Commissaires at a des
 
 _(text modified on 1.01.04; 1.07.11; 1.07.12; 1.01.26)._ 
 
-## **Chapter V TEAM TIME TRIALS** 
+#### **Chapter V TEAM TIME TRIALS** 
 
-## **Starting Order** 
+#### **Starting Order** 
 
 - **2.5.008** Teams shall set off at identical intervals. Nevertheless this interval may be increased between the teams starting last. The interval between teams shall be no less than 4 minutes. 
 
@@ -307,7 +296,7 @@ In case an application is approved after the publication of the technical guide,
 
 _(text modified on 1.01.26)._ 
 
-## **Start** 
+#### **Start** 
 
 - **2.5.009** The riders of each team shall present themselves with their equipment at the bike check <del>point</del> area no later than 15 minutes before their team scheduled start time <del>of the team</del>. <del>Before the start, an additional check can be done. T</del> his check is mandatory and must be passed before the rider is allowed to start. After this final check, riders must remain within the controlled area, composed of the bike check, warm-up and waiting areas, until their start. 
 
@@ -315,21 +304,19 @@ An optional pre-check session may be made available by the Commissaires at a des
 
 _(text modified on 1.01.05; 1.07.12; 1.01.19; 1.01.26)._ 
 
-03.10.2025 
+MEMORANDUM 03.10.2025 
 
 ![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0011-01.png)
-
-## MEMORANDUM 
 
 ## **Chapter XII RACE INCIDENTS AND SPECIFIC INFRINGEMENTS BY ORGANISERS** 
 
 _(chapter introduced on 1.01.19)._ 
 
-## **§ 1  Race incidents in the context of road events** 
+- **§ 1  Race incidents in the context of road events** 
 
-## **General provisions** 
+#### **General provisions** 
 
-- **2.12.001** Infringements related to race incidents concerning riders, teams, <del>and o</del> ther licence holders and, where applicable, accredited individuals, observed in the context of road events are sanctioned by commissaires as set out in the table of race incidents in article 2.12.007, in accordance with article 12.4.001. 
+**2.12.001** Infringements related to race incidents concerning riders, teams, <del>and o</del> ther licence holders and, where applicable, accredited individuals, observed in the context of road events are sanctioned by commissaires as set out in the table of race incidents in article 2.12.007, in accordance with article 12.4.001. 
 
 Sanctions given by commissaires shall be noted in the communiqué of the commissaires’ panel and will be sent to the UCI. 
 
@@ -339,11 +326,11 @@ _(text modified on 01.08.24; 1.01.26)_
 
 ![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0012-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 03.10.2025 
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 01.01.2026 
 
@@ -351,64 +338,69 @@ _(text modified on 01.08.24; 1.01.26)_
 
 **§ 1 Race incidents in the context of road events** 
 
-**2.12.007 Table of race incidents relating to road events** 
+#### **2.12.007 Table of race incidents relating to road events** 
 
-**2. Equipment and innovations** 
-
-|**2.**<br>**Equipment and innovations**|**2.**<br>**Equipment and innovations**|**2.**<br>**Equipment and innovations**|**2.**<br>**Equipment and innovations**|
+|**2.**<br>**Equipment and i**|**nnovations**|||
 |---|---|---|---|
-|2.1.<br>Rider attempting to start<br>a race or stage with a<br>bicycle that does not comply<br>with the regulations|<br> <br> <br>Rider:Start refused|Rider:Start refused|Rider:Start refused|
-|2.2 Use of a bicycle that does<br>not<br>comply<br>with<br>the<br>regulations|<br><br>Rider:Elimination or<br>disqualification<br>Team: CHF 1,000 fine|Rider:Elimination or<br>disqualification<br>Team: CHF 500 fine|Rider:Elimination or<br>disqualification<br>Team: CHF 200 fine|
-|2.3 Use or presence of a bicycle<br>that does not comply with<br>article<br>1.3.010<br>(cf.<br>art.<br>12.4.003)|<br> <br><br>Rider:Elimination or<br>disqualification<br>Team:Elimination or<br>disqualification|Rider:Elimination or<br>disqualification<br>Team:Elimination or<br>disqualification|Rider:Elimination or<br>disqualification<br>Team:Elimination or<br>disqualification|
-|2.4 Use of a prohibited remote<br>communication system by a<br>rider|<br> <br>Rider:Start refused, elimination or<br>disqualification.<br>Sport Director:Exclusion<br>Team vehicles:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Sport Director:Exclusion<br>Team vehicles:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Sport Director:Exclusion<br>Team vehicles:Exclusion|
-|2.5 Use<br>of<br>a<br>technical<br>innovation,<br>innovative<br>clothing or equipment not<br>yet approved by the UCI<br>during anevent|<br> <br>Rider:Start refused, elimination or<br>disqualification.|Rider:Start refused, elimination or<br>disqualification.|Rider:Start refused, elimination or<br>disqualification.|
+|2.1.<br>Rider attempting to start<br>a race or stage with a<br>bicycle that does not comply<br>with the regulations|Rider:Start refused|Rider:Start refused|Rider:Start refused|
+|2.2 Use of a bicycle that does<br>not<br>comply<br>with<br>the<br>regulations|Rider:Elimination or<br>disqualification<br>Team: CHF 1,000 fine|Rider:Elimination or<br>disqualification<br>Team: CHF 500 fine|Rider:Elimination or<br>disqualification<br>Team: CHF 200 fine|
+|2.3 Use or presence of a bicycle<br>that does not comply with<br>article<br>1.3.010<br>(cf.<br>art.<br>12.4.003)|Rider:Elimination or<br>disqualification<br>Team:Elimination or<br>disqualification|Rider:Elimination or<br>disqualification<br>Team:Elimination or<br>disqualification|Rider:Elimination or<br>disqualification<br>Team:Elimination or<br>disqualification|
+|2.4 Use of a prohibited remote<br>communication system by a<br>rider|Rider:Start refused, elimination or<br>disqualification.<br>Sport Director:Exclusion<br>Team vehicles:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Sport Director:Exclusion<br>Team vehicles:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Sport Director:Exclusion<br>Team vehicles:Exclusion|
+|2.5 Use<br>of<br>a<br>technical<br>innovation,<br>innovative<br>clothing or equipment not<br>yet approved by the UCI<br>during anevent|Rider:Start refused, elimination or<br>disqualification.|Rider:Start refused, elimination or<br>disqualification.|Rider:Start refused, elimination or<br>disqualification.|
 
 ![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0013-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 03.10.2025 
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 01.01.2026 
 
-||03.|0.2025|01.01.2026|
+|2.6 Evading, refusing or obstructing<br>an       equipment check|<br>Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|
 |---|---|---|---|
-|2.6 Evading, refusing or obstructing<br>an       equipment check|Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|
 |2.7 Use of forbidden onboard<br>technology device|Rider: Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|Rider:Start refused, elimination or<br>disqualification.<br>Other team member:Exclusion|
-|2.8 Intentional misuse of<br>equipment and/or use of equipment<br>that is damaged or impaired|<br>Rider: CHF 200 fine and/or<br>elimination or disqualification<br>and/or yellow card|Rider: CHF 100 fine and/or<br>elimination or disqualification<br>and/or yellow card|Rider: CHF 50 fine and/or<br>elimination or disqualification|
+|2.8 Intentional misuse of<br>equipment and/or use of equipmen<br>that is damaged or impaired|t<br>Rider: CHF 200 fine and/or<br>elimination or disqualification<br>and/or yellow card|Rider: CHF 100 fine and/or<br>elimination or disqualification<br>and/or yellow card|Rider: CHF 50 fine and/or<br>elimination or disqualification|
 
-|||||||
-|---|---|---|---|---|---|
-|9.<br>**Specific sanctions**|**for time trials**|||||
-|9.1.1. Starting on a bicycle that<br>has not been checked by the<br>commissaires in an individual<br>time trial||Rider:Elimination or<br>disqualification<br>Team:CHF 1,000 fine||Rider:Elimination or<br>disqualification<br>Team:CHF 500 fine|Rider: Elimination or<br>disqualification<br>Team:CHF 200 fine|
-|9.1.2. Starting on a bicycle that<br>has not been checked by the<br>commissaires in a team time trial||Team:CHF 1,000 fine and<br>elimination or disqualification||Team:CHF 500 fine and<br>elimination or disqualification|Team:CHF 200 fine and<br>elimination or disqualification|
-|9.2 Bicycles and equipment not<br>presented for checking at least10<br>minutes before a rider’s start time<br>in an individual time trial, and 15<br>minutes before a team’s start time<br>in a team time trial.||Rider:CHF 500 fine per rider<br>involved<br>Sport Director:CHF 500 fine per<br>rider involved||Rider:CHF 200 fine per rider<br>involved<br>Sport Director:CHF 200 fine per<br>rider involved|Rider: CHF 50 fine per rider<br>involved<br>Sport Director:CHF 50 fine per<br>rider involved|
+#### 9. **Specific sanctions for time trials** 
 
-03.10.2025 
+|9.1.1. Starting on a bicycle that<br>has not been checked by the<br>commissaires in an individual<br>time trial|Rider:Elimination or<br>disqualification<br>Team:CHF 1,000 fine|Rider:Elimination or<br>disqualification<br>Team:CHF 500 fine|Rider: Elimination or<br>disqualification<br>Team:CHF 200 fine|
+|---|---|---|---|
+|9.1.2. Starting on a bicycle that<br>has not been checked by the<br>commissaires in a team time trial|Team:CHF 1,000 fine and<br>elimination or disqualification|Team:CHF 500 fine and<br>elimination or disqualification|Team:CHF 200 fine and<br>elimination or disqualification|
+|9.2 Bicycles and equipment not<br>presented for checking at least10<br>minutes before a rider’s start time<br>in an individual time trial, and 15<br>minutes before a team’s start time<br>in a team time trial.|Rider:CHF 500 fine per rider<br>involved<br>Sport Director:CHF 500 fine per<br>rider involved|Rider:CHF 200 fine per rider<br>involved<br>Sport Director:CHF 200 fine per<br>rider involved|Rider: CHF 50 fine per rider<br>involved<br>Sport Director:CHF 50 fine per<br>rider involved|
+
+MEMORANDUM 03.10.2025 
 
 ![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0014-01.png)
 
-## MEMORANDUM 
-
 ## **Annex B Protocol for discussions regarding extreme weather and the riders’ safety during events** 
 
-1. Background A working group made up of representatives from the UCI, riders (CPA), teams (AIGCP) and organisers (AIOCC) agreed an action plan in the event of extreme weather conditions or concerns or an incident relating to rider’s safety during road cycling events. 
+#### 1. Background 
+
+A working group made up of representatives from the UCI, riders (CPA), teams (AIGCP) and organisers (AIOCC) agreed an action plan in the event of extreme weather conditions or concerns or an incident relating to rider’s safety during road cycling events. 
 
 The group considered the health and safety of the riders to be the absolute priority. 
 
 This document forms an integral part of the UCI Regulations and is applied in accordance with article 2.2.029 bis. 
 
-2. Application The protocol applies in the following circumstances: 
+#### 2. Application The protocol applies in the following circumstances: 
 
 2.1 When extreme weather conditions are anticipated prior to the start of a stage or race. The extreme weather conditions that could lead to such a meeting include: 
 
-2.1.1 Freezing rain; 2.1.2 Accumulation of snow on the road; 2.1.3 Strong wind; 2.1.4 Extreme temperatures; 2.1.5 Poor visibility; 2.1.6 Air pollution. 
+- 2.1.1 Freezing rain; 2.1.2 Accumulation of snow on the road; 2.1.3 Strong wind; 2.1.4 Extreme temperatures; 2.1.5 Poor visibility; 2.1.6 Air pollution. 
 
 2.2 In case of a significant deterioration in weather conditions or during the stage or race. There is a significant deterioration in weather conditions in-race if one of the following criteria are met: 
 
-2.2.1 Poor visibility 2.2.2 Strong wind; 2.2.3 Snowfall or icy road conditions; 2.2.4 Extreme temperatures; 2.2.5 A mass crash causing partial or total road blockage and limiting emergency ressources; 2.2.6 Warnings issued by local authorities or emergency services indicating imminent, localized danger to the peloton. 
+- 2.2.1 Poor visibility 2.2.2 Strong wind; 2.2.3 Snowfall or icy road conditions; 
+
+- 2.2.4 Extreme temperatures; 
+
+- 2.2.5 A mass crash causing partial or total road 
+
+- blockage and limiting emergency ressources; 
+
+- 2.2.6 Warnings issued by local authorities or emergency services indicating imminent, localized danger to the peloton. 
 
 2.3 In case of an issue regarding the route or the organisation of a stage or race that represents a risk to the riders’ safety. The following issues may lead to the convening of a meeting: 
 
@@ -416,34 +408,37 @@ This document forms an integral part of the UCI Regulations and is applied in ac
 
 2.3.3 Specific failings in the final kilometres of a stage or race (road width, protective measures and barriers, final bends, positioning of photographers, etc.); 
 
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0015-00.png)
+
+# MEMORANDUM 
+
 03.10.2025 
-
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0015-01.png)
-
-## MEMORANDUM 
 
 2.3.4 Failure to control spectators (behaviour, crowd management, smoke bombs, etc.); 2.3.5 Failings relating to the movement of vehicles in the race convoy. 
 
-3. Decisions to be made Depending on the problems encountered, and after discussions by the stakeholders, the following actions may be decided for the forthcoming event or stages: 
+3. Decisions to be made 
 
-|3.1|No action;|
-|---|---|
-|3.2|Change of the location or time of the start or|
-||finish;|
-|3.3|Change of the course or neutralisation of a|
-||section of the stage/race;|
-|3.4|Reinforcing safety arrangements for the course|
-||and organisation;|
-|3.5|Any other corrective measure or action adopted|
-||by the stakeholders in compliance with the UCI|
-||Regulations;|
-|3.6|Cancellation of the stage/race.|
+Depending on the problems encountered, and after discussions by the stakeholders, the following actions may be decided for the forthcoming event or stages: 
+
+- 3.1 No action; 
+
+- 3.2 Change of the location or time of the start or finish; 
+
+- 3.3 Change of the course or neutralisation of a section of the stage/race; 
+
+- 3.4 Reinforcing safety arrangements for the course and organisation; 
+
+- 3.5 Any other corrective measure or action adopted by the stakeholders in compliance with the UCI Regulations; 
+
+- 3.6 Cancellation of the stage/race. 
 
 Article 2.2.029 defines further the actions that can be taken by the organiser and/or the President of the Commissaires’ Panel. 
 
 Riders and teams must be informed of the applicable actions by Radio Tour. 
 
-4. Meetings prior to the stage or race A Meeting of Stakeholders can be convened at the request of any of the appointed representatives (see the section on “Appointment of representatives” below) or by the UCI through the President of the Commissaires’ Panel. 
+4. Meetings prior to the stage or race 
+
+A Meeting of Stakeholders can be convened at the request of any of the appointed representatives (see the section on “Appointment of representatives” below) or by the UCI through the President of the Commissaires’ Panel. 
 
 In the event of uncertain or potentially deteriorating weather conditions, additional preparatory meetings can be held the day before the stage or race event and again on the morning of the stage or race. 
 
@@ -457,47 +452,49 @@ Decisions shall be reached by consensus. If stakeholders cannot reach a consensu
 
 As far as possible and subject to the legislation applicable in the country in which the event is being held, decisions shall be taken or confirmed by the morning of the race or relevant stage (if applicable) and in all cases before the start. 
 
-03.10.2025 
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0016-00.png)
 
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0016-01.png)
-
-## MEMORANDUM 
+MEMORANDUM 03.10.2025 
 
 A concise summary of the meeting shall be drawn up by the President of the Commissaires’ Panel and sent to the UCI along with the race report. 
 
 The following persons may attend the meetings held prior to the start of the stage/race: 
 
-- The President of the Commissaires’ Panel, 
+   - The President of the Commissaires’ Panel, 
 
-- • The Organiser’s representatives:  the Race Director (or its representative),  the Race Doctor, and the Event Safety Manager. 
+   - The Organiser’s representatives:  the Race Director (or its representative),  the Race Doctor, and the Event Safety Manager. 
 
-- The teams’ representatives: the Sports Director of a participating team appointed by the AIGCP[(1)] and  the team doctor of a participating team appointed by the AIGCP, if any[(2)]. 
+   - The teams’ representatives: the Sports Director of a participating team appointed by the AIGCP<sup>(1)</sup> and  the team doctor of a participating team appointed by the AIGCP, if any<sup>(2)</sup>. 
 
-- The riders’ representative appointed by the CPA[(3)]; 
+   - The riders’ representative appointed by the CPA<sup>(3)</sup>; 
 
-- • A UCI representative (if attending the event). • The President of the AICGP and the CPA (if attending the event). 
+   - A UCI representative (if attending the event). 
 
-5. Meetings held during the stage or race If the President of the Commissaires’ Panel decides to neutralise the stage or race in accordance with Sections 1 and 2 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions_, he shall convene a Decision Panel according to Section 3.3 of the above Restart Protocol. 
+   - The President of the AICGP and the CPA (if attending the event). 
+
+5. Meetings held during the stage or race 
+
+If the President of the Commissaires’ Panel decides to neutralise the stage or race in accordance with Sections 1 and 2 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions_, he shall convene a Decision Panel according to Section 3.3 of the above Restart Protocol. 
 
 The President of the Commissaires’ Panel shall also convene a Decision Panel if the two teams’ representatives formally request an immediate evaluation due to a serious safety risk. 
 
-The composition of the Decision Panel shall be the one indicated in Section 3.3 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions._ For the representation of the riders during the race, three riders can be named by the CPA in advance _[(4)]_. 
+The composition of the Decision Panel shall be the one indicated in Section 3.3 of the _Restart Protocol for Road Cycling After an Interruption Due to Extreme Weather or Safety Conditions._ For the representation of the riders during the race, three riders can be named by the CPA in advance<sup>_(4)_</sup>. 
 
 The Decision Panel may deliberate via radio or other secure channels and shall make express decisions as quickly as possible to avoid unnecessary disruption of the race. 
 
 For any decision made during the stage or race, the President of the Commissaires’ Panel shall use best efforts to ensure an adequate consultation of stakeholders in consideration of the specific circumstances. Any decision must remain proportionate, limited in scope and duration, and strictly based on the risk identified. 
 
-6. Appointment of representatives Riders’ and teams’ representatives must be present throughout the event in order to be able to attend the meeting in person. 
+6. Appointment of representatives 
+
+Riders’ and teams’ representatives must be present throughout the event in order to be able to attend the meeting in person. 
 
 Representatives shall act in the collective interest of the parties that they represent. Before adopting a position, representatives shall consult a sufficient number of the parties who they represent and who may have contrary opinions or interests (if practicable). They shall present recommendations, opinions and proposals based on their experience. 
 
 > (1) _The teams’ representatives appointed by the AIGCP will make themselves known to the President of the Commissaires’ Panel of the event, at the latest by the start of the Sport Directors’ meeting. If a teams’ representative is not appointed by the AIGCP, this representative will be appointed during the Sport Directors meeting._ 
 
-03.10.2025 
+![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0017-00.png)
 
-![](images/2-ROA-20260101-E-amendments_on_01.01.26.pdf-0017-01.png)
-
-## MEMORANDUM 
+MEMORANDUM 03.10.2025 
 
 > (2) _The name of the team doctors' representative will be communicated by the AIGCP to the President of the Commissaires' Panel of the event. If no representative is appointed before the start of the Sports Directors’ meeting, there will be no substitution on the list of persons to attend the meeting._ 
 
@@ -505,7 +502,7 @@ Representatives shall act in the collective interest of the parties that they re
 
 > (4) _Riders shall avoid as much as possible appointing representatives who are likely to have a direct interest in the outcome of potential decisions that may be taken during the race (e.g. leaders or direct contenders for the general classification or points classification, as well as their teammates). The President of the Commissaires’ Panel may rely on the opinion expressed by the majority of the riders’ representatives consulted._ 
 
-7. Responsibilities 
+#### 7. Responsibilities 
 
 The procedures provided for herein are without prejudice to the responsibility of the organiser established in articles 1.2.032 and 1.2.035 of the UCI Regulations. 
 

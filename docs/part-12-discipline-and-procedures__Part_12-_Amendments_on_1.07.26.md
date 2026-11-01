@@ -4,17 +4,16 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/9VSK0I6lQaYOxrkaAxBdw/123f
 source_sha256: 830ae605b36a8b096b66cc6d557d0331e579b02a17486327e175c9c8de037b09
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-8.06.2026 
+MEMORANDUM 8.06.2026 
 
 ![](images/Part_12-_Amendments_on_1.07.26.pdf-0001-01.png)
 
-## MEMORANDUM 
+**PART 12 DISCIPLINE AND PROCEDURES Rules amendment applying on 1.07.2026** 
 
-## **PART 12 DISCIPLINE AND PROCEDURES Rules amendment applying on 1.07.2026** 
-
-## **Chapter V ORGANISATION** 
+# **Chapter V ORGANISATION** 
 
 ## **§ 2  Disciplinary Commission** 
 
@@ -38,7 +37,7 @@ The Disciplinary Commission shall assess the admissibility of the cases referred
 
 _(text modified on 3.06.21; 5.05.23; 2.02.24; 1.10.25; 1.07.26)._ 
 
-## **Chapter VI PROCEDURE – DISCIPLINARY COMMISSSION** 
+# **Chapter VI PROCEDURE – DISCIPLINARY COMMISSSION** 
 
 ## **§ 10  Road Sub-Committee** 
 

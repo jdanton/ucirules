@@ -4,35 +4,30 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/52SfqiDfaPCXxVjBF2B58i/30b
 source_sha256: c2c5d7d400f109d48826d978aa3a5d3902e27265688152658bc1c03d73f7179a
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/13-MED-20250101-E_amendments_on_01.01.2025.pdf-0001-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
-## **PART XIII – MEDICAL RULES Rules amendments applying on 01.01.2025** 
+**PART XIII – MEDICAL RULES Rules amendments applying on 01.01.2025** 
 
-## **§ 2 UCI World Championships, UCI World Cup events, UCI World Tour, UCI Women’s World Tour and UCI ProSeries events** 
+- **§ 2 UCI World Championships, UCI World Cup events, UCI World Tour, UCI Women’s World Tour and UCI ProSeries events** 
 
-- **13.4.012** The rules of this §2 apply to UCI World Championships, UCI World Cup events, <del>and to the races of the</del> UCI World Tour, UCI Women‘s WorldTour and UCI ProSeries events. 
+**13.4.012** The rules of this §2 apply to UCI World Championships, UCI World Cup events, <del>and to the races of the</del> UCI World Tour, UCI Women‘s WorldTour and UCI ProSeries events. 
 
 ## **Equipment** 
 
-## _A. Vehicles_ 
+_A. Vehicles_ **13.4.018** The LOC shall provide 
 
-- **13.4.018** 
-
-The LOC shall provide 
-
-1. On road races, a car, preferably a convertible, for the doctor who shall act as first responder during an accident and provide acute medical care; 
-
-2. <del>Two</del> Three or more ambulances to provide immediate aid to accident victims and equipped to give emergency cardio-pulmonary resuscitation and advanced life support; at least one ambulance must be available at all times when the other ambulance(s) is/are in use. 
+1. On road races, a car, preferably a convertible, for the doctor who shall act as first responder during an accident and provide acute medical care; 2. <del>Two</del> Three or more ambulances to provide immediate aid to accident victims and equipped to give emergency cardio-pulmonary resuscitation and advanced life support; at least one ambulance must be available at all times when the other ambulance(s) is/are in use. 
 
 3. Depending on the nature of the event, the proximity of hospitals and the suitability of evacuation routes, the following vehicles shall be provided in addition: 
 
 a. Vehicles capable of carrying a stretcher with an injured person in reasonable conditions on difficult routes. 
 
-- b. A motorcycle, designed to ensure prompt medical assistance when access to the patient by car is problematic (narrow roads, crowds on the road, etc.) 
+b. A motorcycle, designed to ensure prompt medical assistance when access to the patient by car is problematic (narrow roads, crowds on the road, etc.) 
 
 c. Whenever the evacuation with the ambulance shall take more than 30’ (thirty minutes), a medical helicopter shall be available as nearly as possible for transport of patients on stretchers in order to minimise the second intervention time, plus a helicopter landing area close to the venue. 
 
@@ -40,9 +35,9 @@ c. Whenever the evacuation with the ambulance shall take more than 30’ (thirty
 
 ## _A. Road races_ 
 
-- **13.4.023** In normal conditions, the medical services are distributed in the race convoy as described below: 
+**13.4.023** In normal conditions, the medical services are distributed in the race convoy as described below: 
 
-   1. The car with the CMO or assistant doctor and a paramedic on board takes up a position 
+1. The car with the CMO or assistant doctor and a paramedic on board takes up a position 
 
 Page **1** / **2** 
 
@@ -60,4 +55,6 @@ Page **2** / **2**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch
+T: +41 24 468 58 11 
+
+E: admin@uci.ch

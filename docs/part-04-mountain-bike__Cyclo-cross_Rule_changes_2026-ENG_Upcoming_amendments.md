@@ -4,19 +4,18 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4iN4LFhlXOSXXSp1p2vtGC/6bb
 source_sha256: b2030be7360c49f57c5b7b3fbd98e4a49144861f989ac90eaef26262a7a7d2f6
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0001-00.png)
+MEMORANDUM 08.06.2026 
 
-## MEMORANDUM 
+![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0001-01.png)
 
-08.06.2026 
-
-## **PART IV CYCLO-CROSS Rules amendments applying on 01.07.2026** 
+**PART IV CYCLO-CROSS Rules amendments applying on 01.07.2026** 
 
 ## **Chapter I CYCLO-CROSS COMPETITIONS** 
 
-## **First aid** 
+### **First aid** 
 
 - **5.1.008** The provisions of articles 13.4.001 to 13.4.011 concerning medical services shall apply to **bis** all cyclo-cross competitions. 
 
@@ -36,7 +35,7 @@ The special provisions of articles 13.4.012 to 13.4.031 apply to UCI cyclo-cross
 
 _(text modified on 01.09.04; 01.09.08; 16.06.14; 01.07.26)_ 
 
-## **Obstacles** 
+### **Obstacles** 
 
 - **5.1.024** The course may include a single section of planks. 
 
@@ -46,13 +45,9 @@ The planks must:
 
 - A. be solid for their entire height; 
 
-- B. be free of sharp edges; 
+- B. be free of sharp edges; C. not be made of metal; 
 
-- C. not be made of metal; 
-
-- D. be of equal height, not exceeding 40 centimetres; and 
-
-- E. extend across the entire width of the course. 
+- D. be of equal height, not exceeding 40 centimetres; and E. extend across the entire width of the course. 
 
 Page **1** / **4** 
 
@@ -60,11 +55,9 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-08.06.2026 
+MEMORANDUM 08.06.2026 
 
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0002-01.png)
-
-## MEMORANDUM 
 
 If the course is abnormally slippery, the plank section shall be removed by decision of the president of the commissaires' panel, taken in consultation with the organiser and, if any, the UCI technical delegate or the UCI cyclo-cross coordinator. 
 
@@ -72,7 +65,7 @@ Either or both of the planks referenced above may be replaced by a tree log. Whe
 
 _(text modified on 01.08.00; 01.09.03; 01.09.04; 01.09.08; 01.07.10; 01.07.11; 07.06.16; 21.06.19; 01.07.26)_ 
 
-## **Starting procedure** 
+### **Starting procedure** 
 
 - **5.1.042** The riders shall assemble in the call-up zone defined in article 5.1.019 at least 10 minutes before the start. 
 
@@ -98,19 +91,15 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-08.06.2026 
+MEMORANDUM 08.06.2026 
 
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0003-01.png)
 
-## MEMORANDUM 
-
 ## **Chapter II  UCI CYCLO-CROSS RANKING** 
 
-- **5.2.003** The UCI cyclo-cross ranking is drawn up <del>as follows:</del> 
+- **5.2.003** The UCI cyclo-cross ranking is drawn up <del>as follows: A. Men under 23 and men elite / women junior, women under 23 and women elite The UCI cyclo-cross ranking is drawn up</del> over a period of one year by adding the points won since the preceding ranking was drawn up. At the same time the remaining points obtained up to the same day of the previous year by each rider in international cyclo-cross competitions are deducted. The new ranking comes into force on the day of publication and stands until the publication of the subsequent ranking. 
 
-<del>A. Men under 23 and men elite / women junior, women under 23 and women elite The UCI cyclo-cross ranking is drawn up</del> over a period of one year by adding the points won since the preceding ranking was drawn up. At the same time the remaining points obtained up to the same day of the previous year by each rider in international cyclo-cross competitions are deducted. The new ranking comes into force on the day of publication and stands until the publication of the subsequent ranking. 
-
-## <del>B. Men junior</del> 
+### <del>B. Men junior</del> 
 
 <del>The UCI cyclo-cross ranking for men junior is drawn up by summing the points won by each rider in international cyclo-cross events in the period from 1 September to 28 or 29 February.</del> 
 
@@ -142,13 +131,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/Cyclo-cross_Rule_changes_2026-ENG_Upcoming_amendments.pdf-0004-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 08.06.2026 
 
 ## **Chapter VI RACE INCIDENTS** 
 
-## **5.6.004 Table of race incidents in accordance with article 12.4.001** 
+### **5.6.004 Table of race incidents in accordance with article 12.4.001** 
 
 |**Cyclo-cross**|**UCI World Championships,**<br>**UCI World Cup, class 1, class 2, continental**<br>**championships**|**Other competitions**|
 |---|---|---|
@@ -159,8 +148,10 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 _(text modified on 01.07.22; 01.03.24; 01.07.25; 01.07.26)_ 
 
+E: admin@uci.ch 
+
 Page **4** / **4** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch
+T: +41 24 468 58 11

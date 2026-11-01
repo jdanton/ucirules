@@ -123,9 +123,7 @@ _(text modified on 04.02.21)_
 
 ### **Article 9 Time limits** 
 
-1. 
-
-   - The Tribunal fixes the time limits, unless otherwise provided under these Rules. 
+1. The Tribunal fixes the time limits, unless otherwise provided under these Rules. 
 
 2. Time limits fixed under these Rules are deemed to be met if the communications by the Parties are sent by email before midnight (time of the location of their own domicile or, if represented, of the domicile of their main legal representative), on the last day on which the relevant time limit expires. 
 
@@ -265,7 +263,9 @@ PROCEDURAL RULES
 
 2. The Parties should set out the facts on which they rely as comprehensively as possible. Each factual allegation should be numbered and refer to the relevant evidence (exhibit, witness statement, expert report). 
 
-3. Legal arguments should be developed in a substantiated way. 
+3. 
+
+   - Legal arguments should be developed in a substantiated way. 
 
 4. Written submissions shall be accompanied by all relevant evidence, including witness statements and expert reports. 
 

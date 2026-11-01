@@ -4,13 +4,14 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4BxcBW3Ez2KLl3NzIAaPH2/09e
 source_sha256: 53eb5a817b85b53c68b4647c10289e510ff013551e1421b52da583862c33e9ed
 converter: pymupdf4llm
 ---
+
 ![](images/Directives_for_organisers_following_the_measures_taken_by_the_UCI_in_response_to_the_situation_in_Ukraine.pdf-0001-00.png)
 
-## **Directives for organisers following the measures taken by the UCI in response to the situation in Ukraine** 
+# **Directives for organisers following the measures taken by the UCI in response to the situation in Ukraine** 
 
-## Updated version – in force as of 1[st] July 2026 
+Updated version – in force as of 1<sup>st</sup> July 2026 
 
-Following the amendments to the UCI Ad Hoc Rules adopted by the UCI Management Committee on 2 June 2026, entering into force on 1[st] July 2026, the following directives must be applied by organisers and timing companies: 
+Following the amendments to the UCI Ad Hoc Rules adopted by the UCI Management Committee on 2 June 2026, entering into force on 1<sup>st</sup> July 2026, the following directives must be applied by organisers and timing companies: 
 
 ## **Russia:** 
 
@@ -18,7 +19,7 @@ The following restrictions on the participation of riders of Russian sporting na
 
 - Riders can now compete together in team events where the competition format requires collective participation (such as the Madison, Team Sprint, Team Pursuit Team Relay, Team Time Trial, and Mixed Team Relay and any other team event according to the UCI Regulations). This applies to all events of the UCI International Calendar. 
 
-- Riders may take part in any Junior events[1] on the UCI International Calendar, including UCI World Cup, UCI World Championships and UEC European Championships without being required to obtain Individual Neutral Athlete status beforehand. The same applies to Support Personnel of riders. Their participation in said events shall remain as neutral athletes, meaning that all national emblems, flags and anthems remain forbidden. 
+- Riders may take part in any Junior events<sup>1</sup> on the UCI International Calendar, including UCI World Cup, UCI World Championships and UEC European Championships without being required to obtain Individual Neutral Athlete status beforehand. The same applies to Support Personnel of riders. Their participation in said events shall remain as neutral athletes, meaning that all national emblems, flags and anthems remain forbidden. 
 
 The restrictions on distinctive signs below are maintained for all cycling categories and disciplines on the UCI International Calendar. They apply to all official documents related to the event (including, but not limited to, start lists, results, rankings, TV graphics, official documents, etc.): 
 

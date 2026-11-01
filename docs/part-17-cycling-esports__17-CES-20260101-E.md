@@ -4,13 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3yzOk640gEd8yy8jeN0cYR/5d5
 source_sha256: a86963cb62eb5f4730d0f894045261bd9df37230830d07a66453851824628130
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-## **PART 17 CYCLING ESPORTS** 
+# **PART 17 CYCLING ESPORTS** 
 
-## **Version on 01.01.2026** 
-
-Page 
+##### **Version on 01.01.2026** 
 
 CYCLING ESPORTS 
 
@@ -18,11 +17,9 @@ E0925
 
 1 
 
-## **PART 17 CYCLING ESPORTS** 
+## **PART 17 CYCLING ESPORTS Chapter I GENERAL PROVISIONS** 
 
-## **Chapter I GENERAL PROVISIONS** 
-
-## **§ 1 Cycling esports platform** 
+#### **§ 1 Cycling esports platform** 
 
 - **17.1.001** A cycling esports event is held on a cycling esports platform. A cycling esports platform is a software that, when coupled with certain hardware, allows individuals to participate in cycling races in a virtual environment. The cycling esports platform must at minimum provide a form of continuous feedback to the participants as to their progress within the competition as related to other participants. 
 
@@ -54,11 +51,11 @@ E0925
 
 2 
 
-riders shall have equal access to each variant. 
+##### riders shall have equal access to each variant. 
 
 _(article introduced on 01.01.2026)_ 
 
-- **17.1.008** Cycling esports platform providers shall ensure that the data displayed is both accurate and precise.  The timing of riders at finish / sprint lines shall be made to an accuracy of 1/1000[th] of a second or better, and throughout an event the positions of the riders, whether displayed to all riders, the broadcasters or appearance in results, shall agree with each other to the closest possible measurement, ensuring visible and equal clarity on rider position. 
+- **17.1.008** Cycling esports platform providers shall ensure that the data displayed is both accurate and precise.  The timing of riders at finish / sprint lines shall be made to an accuracy of 1/1000<sup>th</sup> of a second or better, and throughout an event the positions of the riders, whether displayed to all riders, the broadcasters or appearance in results, shall agree with each other to the closest possible measurement, ensuring visible and equal clarity on rider position. 
 
 _(article introduced on 01.01.2026)_ 
 
@@ -70,11 +67,11 @@ _(article introduced on 01.01.2026)_
 
 _(article introduced on 01.01.2026)_ 
 
-## **§ 2 Categories of riders** 
+#### **§ 2 Categories of riders** 
 
 **17.1.011** Participation in races is organised on the basis of the age and gender categories set out in articles 1.1.034 to 1.1.037 of the UCI Regulations. 
 
-## **§ 3 Race types** 
+#### **§ 3 Race types** 
 
 - **17.1.012** Two types of cycling esports races may be held, either independently or as a combination of: 
 
@@ -94,15 +91,15 @@ that has riders competing from multiple locations, is available to event organis
 
 _(text modified on 01.01.2026)_ 
 
-## **§ 4 Eligibility of participants** 
+#### **§ 4 Eligibility of participants** 
 
-- **17.1.013** Each participating rider must have a valid license with UCI ID code from the national federation of their country of residence, in accordance with the UCI Regulations. 
+   - **17.1.013** Each participating rider must have a valid license with UCI ID code from the national federation of their country of residence, in accordance with the UCI Regulations. 
 
-- **17.1.014** All other eligibility criteria for participating in a cycling esports event are defined by the organiser of the said cycling esports event. 
+   - **17.1.014** All other eligibility criteria for participating in a cycling esports event are defined by the organiser of the said cycling esports event. 
 
-## **§ 5 Commissaires** 
+- **§ 5 Commissaires** 
 
-- **17.1.015** The UCI may appoint commissaires to officiate each in-venue cycling esports event. The minimum number of commissaires to be appointed shall be specified in connection with the technical guide for the cycling esports event. 
+   - **17.1.015** The UCI may appoint commissaires to officiate each in-venue cycling esports event. The minimum number of commissaires to be appointed shall be specified in connection with the technical guide for the cycling esports event. 
 
 _(text modified on 01.01.2026)_ 
 
@@ -110,13 +107,13 @@ _(text modified on 01.01.2026)_
 
 _(text modified on 01.01.2026)_ 
 
-## **§ 6 Calendar** 
+#### **§ 6 Calendar** 
 
 - **17.1.017** Cycling esports events sanctioned by the UCI are entered on the UCI cycling esports calendar. 
 
 - **17.1.018** Every entity organising a UCI-sanctioned cycling esports event shall conduct the event in strict compliance with the UCI Constitution and UCI Regulations. 
 
-## **Chapter II EQUIPMENT** 
+### **Chapter II EQUIPMENT** 
 
 - **17.2.001** Subject to any applicable technical guide and applicable UCI Regulations, bicycles used for cycling esports races shall be (i) bicycles as defined in part 1 of the UCI Regulations in combination with a smart trainer compatible with the cycling esports platform, or (ii) smart bicycles or other equipment compatible with the cycling esports platform. 
 
@@ -138,7 +135,7 @@ calibration or offset procedure for power meters or smart trainers.
 
 _(text modified on 01.01.2026)_ 
 
-## **Chapter III PERFORMANCE VERIFICATION** 
+### **Chapter III PERFORMANCE VERIFICATION** 
 
 - **17.3.001** The organiser of a cycling esports event is required to use an independent third party performance verification system that is approved by the UCI. 
 
@@ -152,7 +149,7 @@ _(text modified on 01.01.2026)_
 
 - **17.3.003** Before the start, or after the conclusion of any race, any equipment used by a rider may be subject to inspection by a commissaire in order to ascertain compliance with these regulations. 
 
-## **Chapter IV SPECIFIC REGULATIONS FOR CYCLING ESPORTS EVENTS** 
+### **Chapter IV SPECIFIC REGULATIONS FOR CYCLING ESPORTS EVENTS** 
 
 - **17.4.001** The organiser of a cycling esports event shall draw up a set of regulations specific to each race. The regulations shall inter alia cover sporting aspects particular to the event. These specific regulations shall comply fully with these regulations. 
 
@@ -184,17 +181,17 @@ E0925
 
 _(text modified on 01.01.2026)_ 
 
-- **17.4.004** In the absence of any specific regulations concerning the format of a race, the analogous UCI regulations will be used. For example, if a race is defined as being an elimination race, in the absence of any specific regulations in the technical guide for how the event shall be run, then the UCI track elimination regulations shall apply. Where there is no analogous UCI event, the technical guide shall fully specify the regulations for the event. 
+**17.4.004** In the absence of any specific regulations concerning the format of a race, the analogous UCI regulations will be used. For example, if a race is defined as being an elimination race, in the absence of any specific regulations in the technical guide for how the event shall be run, then the UCI track elimination regulations shall apply. Where there is no analogous UCI event, the technical guide shall fully specify the regulations for the event. 
 
 _(text modified on 01.01.2026)_ 
 
-- **17.4.005** _(abrogated on 01.01.2026)_ 
+**17.4.005** _(abrogated on 01.01.2026)_ 
 
-## **Chapter V DATA** 
+### **Chapter V DATA** 
 
-- **17.5.001** The organiser of a cycling esports event shall be responsible to comply with all relevant data protection laws. 
+**17.5.001** The organiser of a cycling esports event shall be responsible to comply with all relevant data protection laws. 
 
-## **Chapter VI SPECIFIC INFRINGEMENTS FOR CYCLING ESPORTS** 
+### **Chapter VI SPECIFIC INFRINGEMENTS FOR CYCLING ESPORTS** 
 
 - **17.6.001** Commissaires, when present, shall be responsible for determining any infringements related to cycling esports, including infringements of any rulesets specified in any applicable competition guide. 
 
@@ -210,25 +207,19 @@ E0925
 
 6 
 
-## **17.6.004 Table of infringements for cycling esports:** 
+**17.6.004 Table of infringements for cycling esports:** 
 
-|**17.6.004**<br>**Table of infringements for cycling esports:**|||
-|---|---|---|
-|**INFRINGEMENT**|**SANCTION**||
-|**1. Ineligible Physical Equipment**|Refusal to start, elimination or disqualification||
-|**2. Incorrect Virtual Equipment**<br>Any in-game equipment on the cycling esports platform that is<br>prohibited in connection with the competition guide.|||
-|**3. Ineligible Rider**|||
-|**4. Out-of-date Firmware**|||
-|**5. Out-of-date Software**|||
-|**6. Other Equipment Violation (No Intent to Gain Advantage)**|||
-|**7. Failed Performance Verification (No Intent to Gain Advantage)**|||
-|**8. Disconnection/Lag (Unintentional)**<br>Involuntarily disconnecting from the cycling esports platform server for<br>more than one consecutive minute.|||
-|**9. Disconnection/Lag (Intentional)**||First violation:Refusal to start, elimination or disqualification + 200 CHF fine|
-|Voluntarily disconnecting from the cycling esports platform server for|||
-|||Second violation:One-year suspension + 1000 CHF fine|
-|<br>any length of time for the purpose of altering the outcome of a race.|||
-|||Third violation:Lifetime suspension + 5000 CHF fine|
-||||
+|**INFRINGEMENT**|**SANCTION**|
+|---|---|
+|**1. Ineligible Physical Equipment**||
+|**2. Incorrect Virtual Equipment**<br>Any in-game equipment on the cycling esports platform that is<br>prohibited in connection with the competition guide.||
+|**3. Ineligible Rider**||
+|**4. Out-of-date Firmware**||
+|**5. Out-of-date Software**|Refusal to start, elimination or disqualification|
+|**6. Other Equipment Violation (No Intent to Gain Advantage)**||
+|**7. Failed Performance Verification (No Intent to Gain Advantage)**||
+|**8. Disconnection/Lag (Unintentional)**<br>Involuntarily disconnecting from the cycling esports platform server for<br>more than one consecutive minute.||
+|**9. Disconnection/Lag (Intentional)**<br>Voluntarily disconnecting from the cycling esports platform server for<br>any length of time for the purpose of altering the outcome of a race.|First violation:Refusal to start, elimination or disqualification + 200 CHF fine<br>Second violation:One-year suspension + 1000 CHF fine<br>Third violation:Lifetime suspension + 5000 CHF fine|
 
 CYCLING ESPORTS 
 
@@ -236,33 +227,19 @@ E0925
 
 7 
 
-## **10. Race Disruption** 
-
-- 10.1. Disrupting or conspiring to disrupt the race or impede the performance of other riders. 
-
-- 10.2. Attempting to remove a rider from an event by disconnecting him/her from the cycling esports platform’s servers or by flagging the rider without cause. 
-
-## 10.3. Inappropriately distracting other riders. 
-
-- 10.4. Tampering with or interfering with the normal operation of another rider’s equipment. 
-
-- 10.5. Tampering with or interfering with the information sent between the platform server a rider’s client software, or between any rider’s equipment and the platform. 
-
-## **11. Incorrect Rider Height/Weight** 
-
-Providing inaccurate information about height or weight, including but not limited to intentional or unintentional interference or non-compliance with weigh-in protocols, procedures, and policies and any associated qualifying protocols, procedures, and policies. 
-
-## **12. External Trainer Control** 
-
-Using any software or hardware device to control trainer resistance besides that provided by the platform. 
-
-First violation: Refusal to start, elimination or disqualification + 200 CHF fine Second violation: One-year suspension + 1000 CHF fine Third violation: Lifetime suspension + 5000 CHF fine 
-
-![](images/17-CES-20260101-E.pdf-0008-11.png)
-
-## **13. Use of Bots / Simulated Riders** 
-
-Using bots or simulated riders out-of- competition that results in a benefit in-competition. This includes the use of simulAnt or any other ant+ or Bluetooth data simulation software or device as well as any other means of controlling a rider in-game in any way except the use of a human rider. 
+|**10. Race Disruption**|First violation:Refusal to start, elimination or disqualification + 200 CHF fine|
+|---|---|
+|10.1. Disrupting or conspiring to disrupt the race or impede the<br>performance of other riders.|Second violation:One-year suspension + 1000 CHF fine<br>Third violation:Lifetime suspension + 5000 CHF fine|
+|10.2. Attempting to remove a rider from an event by disconnecting<br>him/her from the cycling esports platform’s servers or by<br>flagging the rider without cause.||
+|10.3. Inappropriately distracting other riders.||
+|10.4. Tampering with or interfering with the normal operation of<br>another rider’s equipment.||
+|10.5. Tampering with or interfering with the information sent<br>between the platform server a rider’s client software, or<br>between any rider’s equipment and the platform.||
+|**11. Incorrect Rider Height/Weight**||
+|Providing inaccurate information about height or weight,including but<br>not limited to intentional or unintentional interference or non-compliance<br>with weigh-in protocols, procedures, and policies and any associated<br>qualifying protocols, procedures, and policies.||
+|**12. External Trainer Control**||
+|Using any software or hardware device to control trainer resistance<br>besides that provided by the platform.||
+|**13. Use of Bots / Simulated Riders**||
+|Using bots or simulated riders out-of- competitionthat results in a<br>benefit in-competition.This includes the use of simulAnt or any other<br>ant+ or Bluetooth data simulation software or device as well as any<br>other means of controlling a rider in-game in any way except the use of<br>a human rider.||
 
 CYCLING ESPORTS 
 
@@ -270,25 +247,17 @@ E0925
 
 8 
 
-**14. Unfair Collusion** First violation: Refusal to start, elimination or disqualification + 200 CHF fine Colluding or attempting to collude with another rider who is knowingly Second violation: One-year suspension + 1000 CHF fine providing support to another rider and not solely considering their own Third violation: Lifetime suspension + 5000 CHF fine sporting interests. Unfair advantage through collusion can also include instances of actively and knowingly cooperating with a rider who is using inaccurate weight or a miscalibrated power source, teams entering ineligible riders in races to aid eligible riders- for instance cooperating with non-resident teammates in a national championship race or applying team strategies related to slipstream (if feature of the platform). 
-
-## **15. Lying to or Misleading Race Officials** 
-
-## **16. Use of Another Rider’s Account for Racing** 
-
-**17. Fabrication or Modification of Data Submitted** First violation: One-year suspension + 1000 CHF fine Second **to the Performance Verification Entity, or otherwise failing to** violation: Lifetime suspension + 5000 CHF fine **provide accurate information that is reasonably requested.** 
-
-![](images/17-CES-20260101-E.pdf-0009-04.png)
-
-## **18. Miscalibration / Data Modification / Tampering with Equipment** 
-
-- 18.1. Tampering with or attempting to tamper with any trainer, power meter, heart rate monitor or cadence sensor with intent to gain advantage 
-
-- 18.2. Altering or attempting to alter data transmissions involving equipment used in cycling esports racing or performance verification in any way. 
-
-## **19. Mechanical / Electronic Fraud** 
-
-Using any mechanical or electronic device that provides an unfair advantage in-race. This includes but is not limited to, electronic motors, devices which alter equipment signals (power meter, cadence monitor, or heart-rate monitor), devices which broadcast simulated rider data, or devices that interfere with broadcast data **.** 
+|**14. Unfair Collusion**|First violation:Refusal to start, elimination or disqualification + 200 CHF fine|
+|---|---|
+|Colluding or attempting to collude with another rider who is knowingly<br>providing support to another rider and not solely considering their own<br>sporting interests. Unfairadvantage through collusioncan alsoinclude<br>instances ofactively and knowingly cooperating with a rider who is<br>using inaccurate weight or a miscalibrated power source, teams<br>entering ineligible riders in races to aid eligible riders- for instance<br>cooperating with non-resident teammates in a national championship<br>raceor applying team strategies related to slipstream (if feature of the<br>platform).|Second violation:One-year suspension + 1000 CHF fine<br> Third violation:Lifetime suspension + 5000 CHF fine|
+|**15. Lying to or Misleading Race Officials**||
+|**16. Use of Another Rider’s Account for Racing**||
+|**17. Fabrication**<br>**or**<br>**Modification of**<br>**Data**<br>**Submitted**<br>**to the Performance Verification Entity,or otherwise failing to**<br>**provide accurate information that is reasonably requested.**|First violation:One-year suspension + 1000 CHF fineSecond<br>violation:Lifetime suspension + 5000 CHF fine|
+|**18. Miscalibration / Data Modification / Tampering with Equipment**||
+|18.1. Tampering with or attempting to tamper with any trainer,<br>power meter, heart rate monitor or cadence sensor with intent<br>to gain advantage||
+|18.2. Altering or attempting to alter data transmissions involving<br>equipment used in cycling esports racing or performance<br>verification in any way.||
+|**19. Mechanical / Electronic Fraud**||
+|Using any mechanical or electronic device that provides an unfair<br>advantage in-race. This includes but is not limited to, electronic motors,<br>devices which alter equipment signals (power meter, cadence monitor,<br>or heart-rate monitor), devices which broadcast simulated rider data, or<br>devices that interfere with broadcast data**.**||
 
 CYCLING ESPORTS 
 
@@ -296,17 +265,11 @@ E0925
 
 9 
 
-## **20. Hacking / Game Modification** 
-
-- 20.1. Modifying the game or gameplay experience in any way. This includes but is not limited to, altering game data files or altering memory values. 
-
-First violation: One-year suspension + 1000 CHF fine Second 
-
-   - violation: Lifetime suspension + 5000 CHF fine 
-
-- 20.2. Using any methods to gain access to game elements that are not publicly available. 
-
-- 20.3. Using a third-party application that provides an unfair advantage in cycling esports racing. 
+|**20. Hacking / Game Modification**|First violation:One-year suspension + 1000 CHF fineSecond|
+|---|---|
+|20.1. Modifying the game or gameplay experience in any way. This<br>includes but is not limited to, altering game data files or<br>altering memory values.|violation:Lifetime suspension + 5000 CHF fine|
+|20.2. Using any methods to gain access to game elements that are<br>not publicly available.||
+|20.3. Using a third-party application that provides an unfair<br>advantage in cycling esports racing.||
 
 _(text modified on 01.01.2026)_ 
 

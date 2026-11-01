@@ -11,9 +11,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 29.09.2026 
 
-**PART VII TRIALS Rules amendments applying on 01.01.2027** 
+# **PART VII TRIALS Rules amendments applying on 01.01.2027** 
 
-# **§5 Sections** 
+## **§5 Sections** 
 
 **7.1.018** Each side of the section must be marked by plastic course tape, rope or white lines on the ground. The tape or rope should be installed 20 to 30 cm above the ground. There can also be plastic course tape, rope or white lines on the ground inside the section to indicate different lines of difficulty or closing some obstacles adding extra difficulty. 
 
@@ -57,15 +57,13 @@ Under special circumstances the Commissaires’ Panel may accept other maximum d
 
 _(text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18; 01.01.25; 01.01.27)_ 
 
-## **§10 Classifications and results 7.1.047** In case of a tie (where two or more riders have the same total of points), the tie shall be solved in the following order: 
+### **§10 Classifications and results 7.1.047** In case of a tie (where two or more riders have the same total of points), the tie shall be solved in the following order: 
 
 1. Highest number of sections covered with maximum points possible; 
 
 2. Highest number of sections with fifty points, with forty points, etc; 
 
-3. Best result in the preceding competition phase, where applicable <del>½ Finals</del>; 
-
-4. In a competition without a preceding competition phase <del>½ Finals</del> and concerning a podium place, a decisive section to be competed will be selected by the Commissaires’ Panel. In the decisive section, in case of equal points the time will be used as the decision-making criterion to allocate the places on the podium. Should several riders obtain zero points, the winner will be the rider who goes furthest in the section; 
+3. Best result in the preceding competition phase, where applicable <del>½ Finals</del>; 4. In a competition without a preceding competition phase <del>½ Finals</del> and concerning a podium place, a decisive section to be competed will be selected by the Commissaires’ Panel. In the decisive section, in case of equal points the time will be used as the decision-making criterion to allocate the places on the podium. Should several riders obtain zero points, the winner will be the rider who goes furthest in the section; 
 
 5. In cases of equal points other than for a podium place, the total competition time will be the decision-making criterion. 
 
@@ -85,11 +83,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/Trials_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0003-00.png)
 
-## **§13 Clothing and safety equipment** 
+### **§13 Clothing and safety equipment** 
 
-## **Jersey - Order of priority** 
+### **Jersey - Order of priority** 
 
-## **7.1.063** Should various provisions requiring the wearing of different Trials jerseys apply to the **bis** same rider, the order of priority shall be as follows: 
+**7.1.063** Should various provisions requiring the wearing of different Trials jerseys apply to the **bis** same rider, the order of priority shall be as follows: 
 
 - the UCI Trials World Champion’s jersey (as per article 1.3.063); 
 
@@ -111,11 +109,11 @@ _(article introduced on 18.03.15; text modified on 15.10.18; 01.01.27)_
 
 _(text modified on 01.01.27)_ 
 
-## **§16 Infringements, penalties, deduction of points and protest** 
+### **§16 Infringements, penalties, deduction of points and protest** 
 
-## **Part 2: Penalties** 
+### **Part 2: Penalties** 
 
-## **Penalty points** 
+### **Penalty points** 
 
 - **7.1.087** Entering the gate of some other category, skipping a gate of his/her own category or not riding the gates in the correct order (5 penalty points) 
 

@@ -4,23 +4,24 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1KTLUdyYs5GpBYK6N17Arr/078
 source_sha256: 651bbff9f9ad6ccef0d7fe6335e477361491f751ee6573edb9d9bba974135267
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0001-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 06.10.2025 
 
-## **PART 4 MOUNTAIN BIKE Rules amendments applying on 01.01.2026** 
+**PART 4 MOUNTAIN BIKE Rules amendments applying on 01.01.2026** 
 
 ## **Chapter I GENERAL RULES** 
 
-## **§ 2 Age categories and participation** 
+### **§ 2 Age categories and participation** 
 
-## **Cross-country Olympic – XCO** 
+#### **Cross-country Olympic – XCO** 
 
-- **4.1.004** Except in the UCI World Championships, Continental Championships, UCI Mountain Bike Continental Series and, at the discretion of national federations, National Championships, under 23 men and women can ride the events for elite men and women respectively, even if a separate event is being run for under 23 riders. 
+**4.1.004** Except in the UCI World Championships, Continental Championships, UCI Mountain Bike Continental Series and, at the discretion of national federations, National Championships, under 23 men and women can ride the events for elite men and women respectively, even if a separate event is being run for under 23 riders. 
 
 Separate under 23 XCO UCI World Cup events are organised for men and women. The first 5 men under 23 and the first 5 women under 23 of the last UCI XCO individual ranking of the preceding year can decide whether they want to race the entire UCI World Cup season as elite or under 23. All other under 23 riders must race the UCI World Cup season in the under 23 category. Riders benefitting from the injury status should decide whether they want to race the entire UCI World Cup season as elite or under 23 if they were amongst the top 5 men under 23 or top 5 women under 23 of the last UCI XCO individual ranking before injury. 
 
@@ -28,13 +29,13 @@ Separate under 23 XCO hors class and class 1 events may be organized for men and
 
 _(text modified on 01.10.13; 01.01.22; 01.01.25; 01.01.26)_ 
 
-## **Cross-country marathon – XCM** 
+#### **Cross-country marathon – XCM** 
 
 - **4.1.005** Cross-country marathon events are open to all riders aged 19 or over and include masters categories. No separate results must be submitted for the under 23 category. 
 
 Masters categories shall be listed in a separate results. 
 
-## **Cross-country short track – XCC** 
+#### **Cross-country short track – XCC** 
 
 Cross-country short circuit events are open to all riders aged 19 or over. 
 
@@ -44,13 +45,13 @@ For other events no separate results must be submitted for the under 23 or elite
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0002-00.png)
 
-## **Cross-country eliminator – XCE** 
+#### **Cross-country eliminator – XCE** 
 
 Cross-country eliminator events are open to all riders aged 17 or over. No separate results must be submitted for the junior, under 23 or elite categories. 
 
 _(text modified on 01.01.17; 01.01.20, 01.01.21; 01.01.23; 01.01.24; 01.01.26)_ 
 
-## **Downhill – DH** 
+#### **Downhill – DH** 
 
 - **4.1.006** Except for the UCI World Championships, UCI World Cup and UCI Mountain Bike Continental Series, downhill events are open to all riders aged 17 or over. 
 
@@ -60,11 +61,11 @@ At the Continental Championships and at the National Championships, separate jun
 
 For all other downhill events on the international calendar, the UCI points are awarded in relation to the riders’ time and not to their category. To ensure that this rule is correctly applied, only one combined result needs to be sent to the UCI. 
 
-<del>_Comment: When a junior downhill rider would score the best time at the National Championships, (s)he must wear the elite jersey. The junior jersey is not awarded in this case._</del> 
+_<del>Comment: When a junior downhill rider would score the best time at the National Championships, (s)he must wear the elite jersey. The junior jersey is not awarded in this case.</del>_ 
 
 _(text modified on 01.07.12; 01.10.13; 04.04.14; 01.01.17; 01.01.25; 01.01.26)_ 
 
-## **§ 3 Calendar** 
+### **§ 3 Calendar** 
 
 - **4.1.011** International mountain bike races are registered on the UCI international calendar in accordance with the following classification: 
 
@@ -112,7 +113,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - H. One day races: 
 
-   - Class: Hors Class (HC) / Class 1 (C1) / Class 2 (C2) / Class 3 (C3) 
+- Class: Hors Class (HC) / Class 1 (C1) / Class 2 (C2) / Class 3 (C3) 
 
 - I. UCI XCO junior series: 
 
@@ -154,13 +155,13 @@ Race entry fees, including uplift facilities for downhill and enduro, for events
 
 _(text modified on 01.02.12; 01.10.13; 04.04.14; 01.01.16; 01.01.17; 01.01.19; 01.01.21; 01.01.22; 01.01.23; 01.01.24; 01.01.25; 01.01.26)_ 
 
-## **§ 6 Event procedure** 
+### **§ 6 Event procedure** 
 
 - **4.1.036** The riders <del>must</del> undertake to respect nature and the environment throughout the course and <del>must make sure that they do</del> not pollute the <del>course venue</del> site. If a littering <del>drop</del> zone is implemented on the course, riders must use it and must abide by any instructions given in this respect. 
 
 _(text modified on 01.01.25; 01.01.26)_ 
 
-## **§ 10 UCI International Elite Number System** 
+### **§ 10 UCI International Elite Number System** 
 
 - **4.1.049** Riders who have won an Elite UCI World Cup race (XCO, DHI, EDR) will be asked to select a unique career number (2-999) for the UCI Mountain Bike World Cup (XCO, DHI, EDR). 
 
@@ -180,11 +181,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Chapter II CROSS-COUNTRY EVENTS** 
 
-## **§ 1 Race characteristics** 
+### **§ 1 Race characteristics** 
 
-## **Cross-country eliminator – XCE** 
+#### **Cross-country eliminator – XCE** 
 
-- **4.2.010** Course 
+- **4.2.010** <u>Course</u> 
 
 The course for a cross-country eliminator race must be between 500m and <del>1000</del> 1200m and include natural and/or artificial obstacles, in conformity with article 4.2.009. The whole course must be 100% rideable, single track sections normally are avoided and where possible the course normally has not more than one 180° turn. The start and finish area must be separated in order to allow short race program. 
 
@@ -196,11 +197,11 @@ Apart from XCE UCI World Championships and XCE UCI World Cup, all other XCE even
 
 _(text modified on 01.10.13; 04.04.14; 01.01.16; 01.01.21; 01.01.22; 01.01.26)_ 
 
-## **§ 5 Feed/Technical Assistance zone** 
+### **§ 5 Feed/Technical Assistance zone** 
 
 - **4.2.036** Each feed/technical assistance zone must be located on flat or uphill sections which are slow and wide enough for the purpose. The zones must be long enough and reasonably evenly spaced around the course. Double feed/technical assistance zones are recommended. 
 
-   - For cross-country short track (XCC) events, a feed/technical assistance zone is not allowed. 
+For cross-country short track (XCC) events, a feed/technical assistance zone is not allowed. 
 
 For Olympic format cross-country events (XCO) at least 1 single feed/technical assistance zone shall be set up. For marathon format cross-country events (XCM) at least 3 feed/technical assistance zones shall be set up. Organisers must anticipate on the team staff access possibilities during cross-country marathon events. 
 
@@ -248,7 +249,7 @@ High pressure washers are forbidden in the feed/technical assistance zone.
 
 _(text modified on 01.01.26)_ 
 
-## **§ 7 Safety** 
+### **§ 7 Safety** 
 
 - **4.2.059** The organiser must provide for cross-country marathon events a motorcycle to mark the front of the race (“lead bike”), and a motorcycle to mark the rear of the race ("sweep bike"). <del>For Olympic format events, only a lead bike must be provided and display on its front the number of laps remaining in the race.</del> 
 
@@ -262,15 +263,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Chapter III  DOWNHILL EVENTS** 
 
-## **§ 2 Course** 
+### **§ 2 Course** 
 
-**4.3.006** The length of the course and the duration of the event are determined as follows: 
-
-|Minimum<br>Maximum<br>Course length<br>1500m<br>3500 m<br>Duration of the event<br>2 minutes<br>5 minutes|Minimum<br>Maximum<br>Course length<br>1500m<br>3500 m<br>Duration of the event<br>2 minutes<br>5 minutes|Minimum<br>Maximum<br>Course length<br>1500m<br>3500 m<br>Duration of the event<br>2 minutes<br>5 minutes|Minimum<br>Maximum<br>Course length<br>1500m<br>3500 m<br>Duration of the event<br>2 minutes<br>5 minutes|Minimum<br>Maximum<br>Course length<br>1500m<br>3500 m<br>Duration of the event<br>2 minutes<br>5 minutes||
-|---|---|---|---|---|---|
-||UCI World<br>Championships, UCI<br>World Cup, Continental<br>Championships,UCI<br>Mountain Bike<br>Continental Series,<br>Hors Class, class 1<br>events||Class 2 events||Class 3<br>events|
-||Minimum|Maximum|Minimum|Maximum||
-|Duration<br>of<br>the<br>event|2<br>minutes|5 minutes|1 minute|5 minutes|No<br>restriction|
+|**4.3.006**|The length of th<br>Cou<br>Dur|e course and t<br>rse length<br>ation of the ev|he duration of<br>Minimu<br>1500m<br>ent<br>2 minute|the event are d<br>m<br>Maximu<br>3500 m<br>s<br>5 minute|etermined as<br>m<br>s|follows:|
+|---|---|---|---|---|---|---|
+|||UCI World<br>Champions<br>World Cup,<br>Champions<br>Mountain Bi<br>Continental<br>Hors Class,<br>events|hips, UCI<br>Continental<br>hips,UCI<br>ke<br>Series,<br>class 1|Class 2 eve|nts|Class 3<br>events|
+|||Minimum|Maximum|Minimum|Maximum||
+||Duration<br>of<br>the<br>event|2<br>minutes|5 minutes|1 minute|5 minutes|No<br>restriction|
 
 _(text modified on 01.01.16; 01.01.25; 01.01.26)_ 
 
@@ -278,7 +277,7 @@ _(text modified on 01.01.16; 01.01.25; 01.01.26)_
 
 In very fast and dangerous sections, where the riders line is close to the course boundary, B zones must be installed as per diagram: 
 
-![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0007-08.png)
+![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0007-07.png)
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -292,7 +291,7 @@ No equipment outside the official Host Broadcaster or Timing Company’s equipme
 
 _(text modified on 01.01.17; 01.01.19; 01.01.23; 01.01.24; 01.01.26)_ 
 
-## **§ 4 Marshals** 
+### **§ 4 Marshals** 
 
 - **4.3.019** Riders observing a waving red flag during the race must stop immediately. 
 
@@ -302,7 +301,7 @@ The re-run should take place before the end of the stopped rider’s category, w
 
 _(text modified on 01.01.26)_ 
 
-## **§ 6 Training** 
+### **§ 6 Training** 
 
 - **4.3.021** The following training sessions must be organised: 
 
@@ -320,7 +319,7 @@ _(text modified on 01.01.20; 01.01.26)_
 
 (chapter reviewed on 01.01.26) 
 
-## **§ 1 Race characteristics** 
+### **§ 1 Race characteristics** 
 
 - **4.5.001** The race includes several liaison stages and timed stages. 
 
@@ -340,7 +339,7 @@ Any other system may be acceptable only under exceptional circumstances and subj
 
 _(text modified on 01.01.26)_ 
 
-## **§ 2 Technical assistance** 
+### **§ 2 Technical assistance** 
 
 - **4.5.002** A technical assistance zone can be provided by the organizer. Riders are allowed to collect and drop equipment or food in the technical assistance zone. 
 
@@ -358,7 +357,7 @@ _(text modified on 01.01.20; 01.01.26)_
 
 _(text modified on 01.01.26)_ 
 
-## **§ 3 Equipment** 
+### **§ 3 Equipment** 
 
 - **4.5.004** Riders must wear a full-face helmet at all times during competition. This includes during both Liaison and Special Stages. If a rider dismounts and pushes their bike on a Liaison, they may remove the helmet. Whilst riding, the helmet must always be worn correctly with straps fastened. <del>In very technical terrain or on courses that feature steep mountainsides or very high-speed trails, the organiser can specify in his particular rules that competitors must wear a full-face helmet (either fixed or detachable)</del>. 
 
@@ -416,7 +415,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0011-00.png)
 
-## **§ 5 Course marking** 
+### **§ 5 Course marking** 
 
 - **4.5.006** The entire enduro courses must be marked and protected with safe and visible course markers that present no safety risks to riders. 
 
@@ -436,7 +435,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0012-00.png)
 
-**4.5.007** Extra care must be taken by the organiser to make sure that the course is clearly marked and no shortcuts are possible. 
+- **4.5.007** Extra care must be taken by the organiser to make sure that the course is clearly marked and no shortcuts are possible. 
 
 Taking shortcuts on course to gain an advantage can damage both the environment and bring the sport of enduro mountain bike racing into disrepute. Where no defined trail exists, the organiser should mark the course to keep the riders on the intended racecourse. If a clear and defined trail exists, the organiser may choose to create gates. In this instance riders must ride the existing defined trail between gates and not look to leave the trail to take a short cut and gain an unfair advantage. 
 
@@ -452,7 +451,7 @@ All wooden features (e.g. wall-rides or large bridges), especially those that ar
 
 _(text modified on 01.01.26)_ 
 
-## **§ 6 Organisation of competition** 
+### **§ 6 Organisation of competition** 
 
 - **4.5.010** Official training must be scheduled by the organiser on all Special Stages before timed competition begins. Training on all Special Stages is strongly recommended but not mandatory. 
 
@@ -502,13 +501,13 @@ Late starters will receive a fixed penalty:
 
 Any rider arriving at the start of a Special Stage later than 30 minutes after their specified start time will be assigned a DNF for the race and will not be allowed to continue. 
 
-## **Start Penalties** 
+#### **Start Penalties** 
 
 Riders must start from a stationary position with their front wheel on the start line. Run up starts are not permitted. 
 
 Any rider starting before the starter’s orders may be subject to a penalty. Other Start Violations (example: pushing into queue, delaying start, jumping start etc.) may also be subject to penalty. 
 
-## **Delays** 
+#### **Delays** 
 
 Any delay applied to Special Stage start times must be maintained throughout that day of racing. Commissaires must not attempt to catch up on delays while racing is underway. 
 
@@ -520,7 +519,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 Example. If there is a 10-minute course hold on Special Stage 1, 10 minutes must be added to the start times of all remaining Special Stages, for all riders effected by the hold, for the remainder of the race. 
 
-## **Disrupted race stage.** 
+#### **Disrupted race stage.** 
 
 In the event of a rider being delayed on a Special Stage due to assisting another rider in a medical emergency or due to some other circumstance outside of their control, such as a race hold on that Special Stage, **and only** if Race Control decide it is appropriate, a rider may be offered a re-run on that Special Stage. 
 
@@ -544,7 +543,7 @@ _(text modified on 01.01.26)_
 
 - **4.5.016** Adequate training must be provided by the organiser for all timed stages. 
 
-_(text modified on 01.01.26)_ 
+   - _(text modified on 01.01.26)_ 
 
 - **4.5.017** The transport of riders between Special Stages by private/team transport (shuttling) is strictly limited to official training and may be used only when an official rider shuttle provided by the organiser operates on the same route. Any rider found using a private or team vehicle at any other time or on any other route may be subject to penalties. 
 
@@ -560,7 +559,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0015-00.png)
 
-## **§ 7 Results** 
+   - **§ 7 Results** 
 
 - **4.5.018** The events General Classification will be calculated by adding all Special Stage times together for each rider. 
 
@@ -570,7 +569,7 @@ A rider not finishing a Special Stage will not be allowed to rejoin the race at 
 
 _(text modified on 01.01.26)_ 
 
-## **§ 6 Infringements** 
+### **§ 6 Infringements** 
 
 - **4.5.019** A rider must act in a sporting manner at all times and must permit any faster rider to overtake without obstructing. 
 
@@ -580,7 +579,7 @@ _(text modified on 01.01.26)_
 
 _(text modified on 01.01.26)_ 
 
-## **§ 9 Marshals** 
+### **§ 9 Marshals** 
 
 - **4.5.021** For marshals, refer to the articles 4.1.017 to 4.1.021. 
 
@@ -588,7 +587,7 @@ A small number of special trained marshals or commissaires should move around th
 
 _(text modified on 01.01.26)_ 
 
-## **§ 10 Medical service** 
+### **§ 10 Medical service** 
 
 - **4.5.022** For first aid (minimum requirements), refer to the articles 4.2.052 to 4.2.059. The organizer must set up an adequate medical service. The organizer must supply each competitor with emergency contact details. 
 
@@ -602,7 +601,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Chapter VII SNOW BIKE** 
 
-## **Clothing and protective accessories** 
+#### **Clothing and protective accessories** 
 
 - **4.7.004** The protective accessories are <del>recommended</del> mandatory to all competitors according to articles 4.3.012 and 4.3.013. 
 
@@ -610,14 +609,14 @@ _(text modified on 01.01.26)_
 
 ## **Chapter X UCI MOUNTAIN BIKE CROSS-COUNTRY WORLD CUP** 
 
-## **Participation** 
+#### **Participation** 
 
-- **4.10.001** UCI Cross-country World Cup events (XCO and XCC) are open to riders meeting the following categories and criteria: 
+**4.10.001** UCI Cross-country World Cup events (XCO and XCC) are open to riders meeting the following categories and criteria: 
 
-|**Category**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|
-|---|---|---|
-|XCO - men elite (aged 23 and over)<br>XCO - women elite (aged 23 and<br>over)|1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.|UCI MTB WORLD SERIES TEAM, maximum 4 riders<br>per race and category<br>Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>the event<br>Any rider ranked in the top 100 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>The national federations may enter a maximum of 3<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top<del>five</del>threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br><del>current </del>UCI MTB World Cupwithin 52 weeks of the<br>qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Elite<del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23 (if progressing into Elite category)<del>(from</del><br><del>2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Current Olympic Champion, UCI World Champion,<br>Continental Champions, National Champions|
-|XCO - men under 23 (aged from 19 to<br>22)|1.|UCI MTB WORLD SERIES, maximum 4 riders per<br>race and category|
+|**Category**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|
+|---|---|
+|XCO - men elite (aged 23 and over)<br>XCO - women elite (aged 23 and<br>over)|1. UCI MTB WORLD SERIES TEAM, maximum 4 riders<br>per race and category<br>2.Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>the event<br>3. Any rider ranked in the top 100 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>4. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>5. Top<del>five</del>threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br><del>current </del>UCI MTB World Cupwithin 52 weeks of the<br>qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>6. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Elite<del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>7. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23 (if progressing into Elite category)<del>(from</del><br><del>2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>8. Current Olympic Champion, UCI World Champion,<br>Continental Champions, National Champions|
+|XCO - men under 23 (aged from 19 to<br>22)|1. UCI MTB WORLD SERIES, maximum 4 riders per<br>race and category|
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -625,11 +624,11 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0017-00.png)
 
-|XCO - women under 23 (aged from 19<br>to 22)||2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.|Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>to the event<br>Any rider ranked in the top 200 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>Top<del>five</del>threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br><del>current </del>UCI MTB World Cupwithin 52 weeks of the<br>qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23 <del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Junior (if progressing into U23 category)<del>(from</del><br><del>2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>UCI World Champion, Continental Champions,<br>National Champions|
-|---|---|---|---|
-|XCC – men elite (aged 23 and over)<br>XCC – women elite (aged 23 and<br>over)<br>XCC – men under 23 (aged from 19 to<br>22)<br>XCC – women under 23 (aged from<br>19 to 22)||<del>A maximum of 40R</del>iders<del>per gender</del>already registered<br>and confirmed for the XCO event taking place during the<br>same weekend shall be allowed to start in the XCC event.<br>The riders shall be selected as per article 4.10.003, points<br>1 and 2,to reach a total number of 40 riders per gender.<br>On top of those 40 riders, wild cards can be awarded as<br>per article 4.10.003, point 3.No online registration is<br>required for the XCC event.<br>The same bike must be used for XCC and XCO. For XCC,<br>the minimum tyre width must be 45mm.||
+|XCO - women under 23 (aged from 19<br>to 22)|2.Maximum8 UCI MTB TEAM wildcards, maximum 4<br>riders per race and category decided one month prior<br>to the event<br>3. Any rider ranked in the top 200 of the last UCI XCO<br>individual ranking before the event entry closing date<br>(one month prior to the event)<br>4. The national federations may enter a maximum of 4<br>supplementary riders per category. These riders must<br>wear national team clothing.<br>5. Top<del>five</del>threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br><del>current </del>UCI MTB World Cupwithin 52 weeks of the<br>qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>6. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, U23 <del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>7. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the previous<br>year, Junior (if progressing into U23 category)<del>(from</del><br><del>2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>8. UCI World Champion, Continental Champions,<br>National Champions|
+|---|---|
+|XCC – men elite (aged 23 and over)<br>XCC – women elite (aged 23 and<br>over)<br>XCC – men under 23 (aged from 19 to<br>22)<br>XCC – women under 23 (aged from<br>19 to 22)|<del>A maximum of 40R</del>iders<del>per gender</del>already registered<br>and confirmed for the XCO event taking place during the<br>same weekend shall be allowed to start in the XCC event.<br>The riders shall be selected as per article 4.10.003, points<br>1 and 2,to reach a total number of 40 riders per gender.<br>On top of those 40 riders, wild cards can be awarded as<br>per article 4.10.003, point 3.No online registration is<br>required for the XCC event.<br>The same bike must be used for XCC and XCO. For XCC,<br>the minimum tyre width must be 45mm.|
 
-## **Registration** 
+#### **Registration** 
 
 Riders registration can be done only by a UCI MTB WORLD SERIES TEAM, a UCI MTB TEAM or a national federation. 
 
@@ -641,7 +640,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0018-00.png)
 
-## **Wildcard** 
+#### **Wildcard** 
 
 Criteria to award the maximum 8 UCI MTB TEAM wildcards (as per point 2 of the participation criteria) per event will be based on the: 
 
@@ -681,7 +680,7 @@ _(text modified on 01.01.25; 01.01.26)_
 
          - top 20 of the UCI road individual world ranking; 
 
-The place 41[st] and after will be allocated following the rank of each rider, whatever the ranking: UCI cyclo-cross or UCI road world ranking. If two or three riders have the same ranking, they will be placed by drawing lots. 
+The place 41<sup>st</sup> and after will be allocated following the rank of each rider, whatever the ranking: UCI cyclo-cross or UCI road world ranking. If two or three riders have the same ranking, they will be placed by drawing lots. 
 
 Riders with injury status shall be integrated in the start order in accordance with article 4.10.011. 
 
@@ -715,13 +714,13 @@ Riders with injury status shall be integrated in the start order in accordance w
 
 Riders with pregnancy status shall be integrated in the start order in accordance with article 4.10.012. 
 
-- XCO men under 23 and women under 23: 
+XCO men under 23 and women under 23: 
 
-   1. the riders ranked in the top 24 of the XCC race of the same UCI World Cup round; 
+1. the riders ranked in the top 24 of the XCC race of the same UCI World Cup round; 
 
-   2. as per the most recently published UCI XCO individual ranking; 
+2. as per the most recently published UCI XCO individual ranking; 
 
-   3. unclassified riders; by drawing lots. 
+3. unclassified riders; by drawing lots. 
 
 Riders with injury status shall be integrated in the start order in accordance with article 4.10.011. 
 
@@ -729,7 +728,7 @@ Riders with pregnancy status shall be integrated in the start order in accordanc
 
 _(text modified on 01.01.24; 01.01.25; 01.01.26)_ 
 
-## **Official ceremony** 
+#### **Official ceremony** 
 
 **4.10.007** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
 
@@ -741,7 +740,7 @@ The following riders must attend:
 
 - the leader of the elite UCI World Cup standings after the event in question (XCO, XCC); 
 
-- - the first three riders in the under 23 events (XCO, XCC); 
+- the first three riders in the under 23 events (XCO, XCC); 
 
 - the leader of the under 23 UCI World Cup standings after the event in question (XCO, XCC); 
 
@@ -763,9 +762,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 _(text modified on 01.01.25; 01.01.26)_ 
 
-## **Injury status** 
+#### **Injury status** 
 
-- **4.10.011** If due to injury a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply to the UCI for recognition of injury status. An application must be received at the UCI in writing no later than October 30[th] of the disrupted season. 
+- **4.10.011** If due to injury a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply to the UCI for recognition of injury status. An application must be received at the UCI in writing no later than October 30<sup>th</sup> of the disrupted season. 
 
 A rider with injury status shall be integrated in the ranking that is used to determine the start list, with the number of points determined according to following calculation: the average points gained per round in which the rider took part multiplied by the number of rounds of the UCI World Cup season during which the rider was absent due to injury. 
 
@@ -775,9 +774,9 @@ Such benefit shall be limited to the first two rounds of the UCI World Cup in wh
 
 _(text modified on 01.01.24; 01.01.26)_ 
 
-## **Pregnancy status** 
+#### **Pregnancy status** 
 
-- **4.10.012** If due to pregnancy a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply to the UCI for recognition of pregnancy status. An application must be received at the UCI in writing no later than December 31[st] of the disrupted season. 
+- **4.10.012** If due to pregnancy a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply to the UCI for recognition of pregnancy status. An application must be received at the UCI in writing no later than December 31<sup>st</sup> of the disrupted season. 
 
 A rider with pregnancy status shall be integrated in the ranking that is used to determine the start list, with the number of points determined according to following calculation: the average points gained per round in which the rider took part multiplied by the number of rounds of the UCI World Cup season during which the rider was absent due to pregnancy. 
 
@@ -789,13 +788,13 @@ _(article introduced on 01.01.24; text modified on 01.01.26)_
 
 ## **Chapter XI UCI MOUNTAIN BIKE DOWNHILL WORLD CUP** 
 
-## **Participation** 
+#### **Participation** 
 
 - **4.11.001** UCI Downhill World Cup events are open to riders meeting the following categories and criteria: 
 
-**Category** 
+#### **Category** 
 
-**One of the below mentioned criteria needs to be fulfilled** 
+**One of the below mentioned criteria needs to be** **<u>fulfilled</u>** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -803,9 +802,10 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0021-00.png)
 
-|DHI - men elite (aged 19 and over)<br>DHI - women elite (aged 19 and over)|1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior to the event<br>Any rider ranked in the top 50 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>The national federations may enter a maximum of 3<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>Top<del>five</del>threeriders of any round of aUCI<br>Mountain BikeContinental Series, limited to 1<br>round of the<del>current </del>UCI MTB World Cupwithin 52<br>weeks of the qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Elite<del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Junior (if progressing into Elite<br>category) <del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Current UCI World Champion, Continental<br>Champions, National Champions|
-|---|---|---|
-|DHI - men junior (aged 17 and 18)<br>DHI – women junior (aged 17 and 18)|1.<br>2.<br>3.<br>4.<br>5.<br>6.|UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior the event<br>Any rider ranked in the top 100 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior the event)<br>The national federations may enter a maximum of 4<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>Top <del>five</del>threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br><del>current </del>UCI MTB World Cupwithin 52 weeks of the<br>qualification<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Junior<del>(from 2026)</del>|
+|DHI - men elite (aged 19 and over)|1. UCI MTB WORLD SERIES TEAM, maximum 4|
+|---|---|
+|DHI - women elite (aged 19 and over)|riders per race and category<br>2.Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior to the event<br>3. Any rider ranked in the top 50 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior to the event)<br>4. The national federations may enter a maximum of 3<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>5. Top<del>five</del>threeriders of any round of aUCI<br>Mountain BikeContinental Series, limited to 1<br>round of the<del>current </del>UCI MTB World Cupwithin 52<br>weeks of the qualification(Golden Ticket)<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>6. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Elite<del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>7. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Junior (if progressing into Elite<br>category) <del>(from 2026)</del><br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>8. Current UCI World Champion, Continental<br>Champions, National Champions|
+|DHI - men junior (aged 17 and 18)<br>DHI – women junior (aged 17 and 18)|<br>1. UCI MTB WORLD SERIES TEAM, maximum 4<br>riders per race and category<br>2.Maximum8 UCI MTB TEAM wildcard, maximum 4<br>riders per race and category decided one month<br>prior the event<br>3. Any rider ranked in the top 100 of the last UCI DHI<br>individual ranking before the event entry closing<br>date (one month prior the event)<br>4. The national federations may enter a maximum of 4<br>supplementary riders per category. These riders<br>must wear national team clothing.<br>5. Top <del>five</del>threeriders of any round of aUCI Mountain<br>BikeContinental Series, limited to 1 round of the<br><del>current </del>UCI MTB World Cupwithin 52 weeks of the<br>qualification<br>_Not applicable for riders member of a UCI MTB_<br>_WORLD SERIES TEAM_<br>6. Top five riders from the final standings of any of the<br>UCI Mountain BikeContinental Series of the<br>previous year, Junior<del>(from 2026)</del>|
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -813,13 +813,17 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0022-00.png)
 
-_Not applicable for riders member of a UCI MTB WORLD SERIES TEAM_ 7. Top five riders from the final standings of any of the UCI Mountain Bike Continental Series of the previous year, Cadet (if progressing into Junior category) <del>(from 2026)</del> _Not applicable for riders member of a UCI MTB WORLD SERIES TEAM_ 8. Current UCI World Champion, Continental Champions, National Champions 
+- _Not applicable for riders member of a UCI MTB WORLD SERIES TEAM_ 
 
-## **Registration** 
+- 7. Top five riders from the final standings of any of the UCI Mountain Bike Continental Series of the previous year, Cadet (if progressing into Junior category) <del>(from 2026)</del> _Not applicable for riders member of a UCI MTB WORLD SERIES TEAM_ 
+
+- 8. Current UCI World Champion, Continental <u>Champions, National Champions</u> 
+
+#### **Registration** 
 
 Riders registration can be done only by a UCI MTB WORLD SERIES TEAM, a UCI MTB TEAM or a national federation. 
 
-## **Wild card** 
+#### **Wild card** 
 
 Criteria to award the maximum 8 UCI MTB TEAM wildcards (as per point 2 of the participation criteria) per event will be based on the: 
 
@@ -871,7 +875,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 2. riders ranked in the top 20 men and the top 10 women of the most recently published UCI World Cup standings (for the first event, as per the final UCI World Cup standings of the previous year), that did not qualify via the qualifying round 1 will start before the top 10 riders from qualifying round 1, starting in reverse order. 
 
-The start order for the qualifying rounds is determined as follows: Men Junior, Women Junior: 
+The start order for the qualifying rounds is determined as follows: 
+
+Men Junior, Women Junior: 
 
 1. riders ranked in the top 20 men junior and the top 10 women junior of the most recently published UCI World Cup standings (not applicable for the first UCI world cup round of the season), starting in reverse order; 
 
@@ -883,7 +889,7 @@ The start order for the qualifying rounds is determined as follows: Men Junior, 
 
 Riders with injury status shall be integrated in the start order in accordance with article 4.11.021. 
 
-## _(text modified on 01.01.24; 01.01.25; 01.01.26)_ 
+_(text modified on 01.01.24; 01.01.25; 01.01.26)_ 
 
 - **4.11.009** Two forerunners must be designated and be ready to run the course as indicated by the president of the commissaires' panel before the qualifying round and finals. The forerunners' bicycles must be fitted with handlebar numbers bearing the letters A and B. The closing rider, according to article 4.11.008, must be fitted with the handlebar number bearing the letter C. 
 
@@ -891,7 +897,7 @@ Forerunners and closing rider must be at least aged 17 and a UCI license holder 
 
 _(text modified on 01.01.26)_ 
 
-## **Official ceremony** 
+#### **Official ceremony** 
 
 **4.11.017** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
 
@@ -923,9 +929,9 @@ Bicycles cannot be taken onto the podium. However, an area is provided in front 
 
 _(text modified on 01.01.25; 01.01.26)_ 
 
-## **Injury status** 
+#### **Injury status** 
 
-- **4.11.021** If due to injury a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of injury status. An application must be received at the UCI in writing no later than October 30[th] of the disrupted season. 
+- **4.11.021** If due to injury a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of injury status. An application must be received at the UCI in writing no later than October 30<sup>th</sup> of the disrupted season. 
 
 A rider with injury status shall be integrated in the ranking that is used to determine the start list, with the number of points determined according to following calculation: the average points gained per round in which the rider took part multiplied by the number of rounds of the UCI World Cup season during which the rider was absent due to injury. 
 
@@ -937,9 +943,9 @@ Such benefit shall be limited to the first two rounds of the UCI World Cup in wh
 
 _(text modified on 01.01.24; 01.01.26)_ 
 
-## **Pregnancy status** 
+#### **Pregnancy status** 
 
-**4.11.022** If due to pregnancy a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of pregnancy status. An application must be received at the UCI in writing no later than December 31[st] of the disrupted season. 
+- **4.11.022** If due to pregnancy a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of pregnancy status. An application must be received at the UCI in writing no later than December 31<sup>st</sup> of the disrupted season. 
 
 A rider with pregnancy status shall be integrated in the ranking that is used to determine the start list, with the number of points determined according to following calculation: the average points gained per round in which the rider took part multiplied by the number of rounds of the UCI World Cup season during which the rider was absent due to pregnancy. 
 
@@ -957,7 +963,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Chapter XII UCI MOUNTAIN BIKE MARATHON WORLD CUP** 
 
-## **Age category** 
+#### **Age category** 
 
 - **4.12.005** The age category for the UCI Marathon World Cup is 19 years or over. Holders of elite licences may participate. 
 
@@ -967,7 +973,7 @@ Masters categories shall be listed in a separate results.
 
 _(text modified on 01.01.25; 01.01.26)_ 
 
-## **Official ceremony** 
+#### **Official ceremony** 
 
 - **4.12.009** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
 
@@ -989,17 +995,19 @@ _(text modified on 01.01.25; 01.01.26)_
 
 (Chapter reviewed on 01.01.26) 
 
-## **Participation** 
+#### **Participation** 
 
-- **4.13.003** UCI Enduro World Cup (Enduro and E-Enduro) events are open to riders meeting the following categories and criteria: 
+**4.13.003** UCI Enduro World Cup (Enduro and E-Enduro) events are open to riders meeting the following categories and criteria: 
 
-   - <del>Having an annual licence issued by a national federation</del> 
+- <del>Having an annual licence issued by a national federation</del> 
 
-   - <del>In order to race in the UCI Enduro World Cup, riders must either be on an official UCI MTB ENDURO TEAM or have the minimum required number of Enduro Global Ranking points</del> 
+- <del>In order to race in the UCI Enduro World Cup, riders must either be on an official UCI MTB ENDURO TEAM or have the minimum required number of Enduro Global Ranking points</del> 
 
 |**Category**|**One of the below mentioned criteria needs to be**<br>**fulfilled**|
 |---|---|
-|EDR - men elite (aged 19 and over)<br>EDR - women elite (aged 19 and over)|1. UCI MTB WORLD SERIES TEAM<br>2. UCI MTB TEAM<br>3. Any rider ranked in the top 300 (men) or top 75<br>(women) of the Enduro Global ranking on<br>31.12.2025|
+|EDR - men elite (aged 19 and over)|1. UCI MTB WORLD SERIES TEAM|
+|EDR - women elite (aged 19 and over)|2. UCI MTB TEAM<br>3. Any rider ranked in the top 300 (men) or top 75|
+||(women) of the Enduro Global ranking on<br>31.12.2025|
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -1011,7 +1019,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 5. The national federations may enter a maximum of 3 supplementary riders per category. These riders must wear national team clothing. 
 
-6. Current UCI World Champion, Continental Champion, National Champions 
+6. Current UCI World Champion, Continental <u>Champion, National Champions</u> 
 
 EDR - men junior (aged 17 and 18) 1. UCI MTB WORLD SERIES TEAM EDR – women junior (aged 17 and 18) 2. UCI MTB TEAM 3. Any rider ranked in the top 300 (men) or top 75 (women) of the Enduro Global ranking on 31.12.2025 
 
@@ -1019,27 +1027,27 @@ EDR - men junior (aged 17 and 18) 1. UCI MTB WORLD SERIES TEAM EDR – women jun
 
 5. The national federations may enter a maximum of 4 supplementary riders per category. These riders must wear national team clothing. 
 
-6. Current UCI World Champion 
+<u>6. Current UCI World Champion</u> 
 
 Details on the participation criteria are included in a dedicated UCI Enduro World Cup technical guide available on a dedicated website. 
 
 _(text modified on 01.01.26)_ 
 
-## <del>Age category</del> 
+#### <del><u>Age category</u></del> 
 
-- <del>**4.13.005** Specific rules for UCI Enduro World Cup are included in a dedicated UCI Enduro World Cup technical guide available on a dedicated website.</del> 
-
-[article abrogated on 01.01.26] 
-
-- <del>**4.13.006** Specific rules for UCI E-Enduro World Cup are included in a dedicated UCI E-Enduro World Cup technical guide available on a dedicated website</del> 
+- **<del>4.13.005</del>** <del>Specific rules for UCI Enduro World Cup are included in a dedicated UCI Enduro World Cup technical guide available on a dedicated website.</del> 
 
 [article abrogated on 01.01.26] 
 
-## **Start Order** 
+- **<del>4.13.006</del>** <del>Specific rules for UCI E-Enduro World Cup are included in a dedicated UCI E-Enduro World Cup technical guide available on a dedicated website</del> 
+
+[article abrogated on 01.01.26] 
+
+#### **Start Order** 
 
 - **4.13.007** <del>The start order for each race is specified in a dedicated UCI Enduro World Cup technical guide available on a dedicated website.</del> 
 
-## Seeding 
+#### <u>Seeding</u> 
 
 Riders will be seeded based on a combination of the current UCI Enduro World Cup standings, the Enduro Global ranking and the UCI EDR individual ranking. Riders will be seeded in reverse order. 
 
@@ -1057,7 +1065,7 @@ Riders with pregnancy status shall be integrated in the start order in accordanc
 
 Group A will consist of the top 30 Men Elite / Top 15 Women Elite from the current UCI Enduro World Cup standings, plus any riders with a career number. All other riders are in Group B. 
 
-## **Reseeding - Final stage** 
+#### **Reseeding - Final stage** 
 
 For one day race, Group A riders will be reseeded for the final stage based on the General Classification to allow the best rider to start last for this final stage. For two-day races the reseeding of Group A riders will take place after day one. There will be no further reseed prior to the final stage. 
 
@@ -1065,7 +1073,7 @@ Riders ranked in the Top 30 (Men) and Top 15 (Women) of the General Classificati
 
 A mandatory time check may be conducted to ensure riders are reseeded accordingly. 
 
-## **Start Intervals** 
+#### **Start Intervals** 
 
 Riders in the UCI Enduro World Cup will have individual preassigned start times for all the stages. Start intervals between riders will be a minimum of 30 seconds. 
 
@@ -1073,7 +1081,7 @@ A minimum five-minute interval between the Group A Men and the Group A Women cat
 
 _(text modified on 01.01.26)_ 
 
-## **Official ceremony** 
+#### **Official ceremony** 
 
 **4.13.008** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
 
@@ -1103,7 +1111,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0028-00.png)
 
-## **UCI World Cup standings** 
+#### **UCI World Cup standings** 
 
 **4.13.009** The UCI World Cup standings are drawn up on the basis of the points won by each rider in accordance with the table in article 4.13.011. 
 
@@ -1111,7 +1119,7 @@ Riders tying on points are ranked by the greatest number of 1st places, 2nd plac
 
 _(article introduced on 01.01.26)_ 
 
-## **UCI MTB Teams Standings** 
+#### **UCI MTB Teams Standings** 
 
 - **4.13.010** A team standing is drawn up for each round of the UCI Enduro World Cup. Only riders registered in a UCI MTB WORLD SERIES TEAM or a UCI MTB TEAM can score points for their team in accordance with the team standing table in article 4.13.011. 
 
@@ -1123,9 +1131,9 @@ The riders of the team leading the team standings are given leaders’ handlebar
 
 _(article introduced on 01.01.26)_ 
 
-## **4.13.011** Points scale 
+- **4.13.011** Points scale 
 
-## A. Enduro men and women elite 
+   - A. Enduro men and women elite 
 
 |**Position**|**Men**<br>**Elite**<br>**points**|**Women**<br>**Elite**<br>**points**|
 |---|---|---|
@@ -1191,11 +1199,12 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0030-00.png)
 
-48 49 50 51 52 53 54 55 56 57 58 59 60 
+|48<br>49<br>50<br>51<br>52<br>53<br>54<br>55<br>|
+|---|
+|56<br>57<br>58|
+|59<br>60|
 
-B. 
-
-## Enduro men and women junior 
+#### B. Enduro men and women junior 
 
 |**Position**|**Men**<br>**Junior**<br>**points**|**Women**<br>**Junior**<br>**points**|
 |---|---|---|
@@ -1221,13 +1230,17 @@ B.
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
+
+E: admin@uci.ch 
 
 20 6 
 
-C. Team standing 
+C. 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0031-02.png)
+
+#### Team standing 
 
 |**Position**|**Men**<br>**Elite**<br>**points**|**Women**<br>**Elite**<br>**points**|**Men**<br>**Junior**<br>**points**|**Women**<br>**Junior**<br>**points**|
 |---|---|---|---|---|
@@ -1270,9 +1283,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0032-00.png)
 
-## **Injury status** 
+#### **Injury status** 
 
-**4.13.012** If due to injury a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of injury status. An application must be received at the UCI in writing no later than October 30[th] of the disrupted season. 
+- **4.13.012** If due to injury a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of injury status. An application must be received at the UCI in writing no later than October 30<sup>th</sup> of the disrupted season. 
 
 A rider with injury status shall be integrated in the ranking that is used to determine the start list, with the number of points determined according to following calculation: the average points gained per round in which the rider took part multiplied by the number of rounds of the UCI World Cup season during which the rider was absent due to injury. 
 
@@ -1282,9 +1295,9 @@ Such benefit shall be limited to the first two rounds of the UCI World Cup in wh
 
 _(article introduced on 01.01.26)_ 
 
-## **Pregnancy status** 
+#### **Pregnancy status** 
 
-- **4.13.013** If due to pregnancy a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of pregnancy status. An application must be received at the UCI in writing no later than December 31[st] of the disrupted season. 
+- **4.13.013** If due to pregnancy a rider took part in less than three rounds of the UCI World Cup in a season, the national federation and the team may apply for recognition of pregnancy status. An application must be received at the UCI in writing no later than December 31<sup>st</sup> of the disrupted season. 
 
 A rider with pregnancy status shall be integrated in the ranking that is used to determine the start list, with the number of points determined according to following calculation: the average points gained per round in which the rider took part multiplied by the number of rounds of the UCI World Cup season during which the rider was absent due to pregnancy. 
 
@@ -1296,9 +1309,9 @@ _(article introduced on 01.01.26)_
 
 ## **Chapter XIV UCI E-MOUNTAIN BIKE CROSS-COUNTRY WORLD CUP** 
 
-## **Official ceremony** 
+#### **Official ceremony** 
 
-- **4.14.005** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
+**4.14.005** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
 
 The following riders must attend: 
 
@@ -1320,9 +1333,9 @@ _(article introduced on 01.01.26)_
 
 ## **Chapter XV UCI MOUNTAIN BIKE ELIMINATOR WORLD CUP** 
 
-## **Official ceremony** 
+#### **Official ceremony** 
 
-**4.15.005** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
+- **4.15.005** The official ceremony takes place immediately after each race. Riders arriving later than 5 minutes after they finished their race are fined. 
 
 The following riders must attend: 
 
@@ -1390,7 +1403,7 @@ _(text modified on 01.02.12; 01.10.13; 01.01.16; 01.01.19, 01.01.21; 01.01.26)_
 
 ## **Chapter XVII UCI MTB WORLD SERIES TEAMS** 
 
-## **§ 1 Identity** 
+#### **§ 1 Identity** 
 
 - **4.18.001** A UCI MTB WORLD SERIES TEAM is an entity consisting of: 
 
@@ -1402,7 +1415,7 @@ _(text modified on 01.02.12; 01.10.13; 01.01.16; 01.01.19, 01.01.21; 01.01.26)_
 
 They are employed and/or sponsored by the same entity, for the purpose to take part in mountain bike events on the International UCI calendar. 
 
-## **Development Team** 
+#### **Development Team** 
 
 A UCI MTB WORLD SERIES TEAM can link with a UCI MTB Team, to be defined as their “development team” and shall report such information to the UCI. The UCI may 
 
@@ -1414,7 +1427,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 require the production of documents to verify the nature of such link. UCI MTB WORLD SERIES TEAMS can select one rider per UCI World Cup event from their development team to compete <del>at a UCI World Cup</del>, within the maximum of 4 riders per race per category. 
 
-## **Guest rider** 
+#### **Guest rider** 
 
 In addition, a UCI MTB WORLD SERIES TEAM will have the opportunity to request to the UCI for 1 rider to be able to race at two UCI World Cup events within the season in either Elite, Junior or under 23 categories, within the maximum of 4 riders per race per category. This can be done outside the transfer period. 
 
@@ -1428,7 +1441,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **Chapter XX MTB RACE INCIDENTS TABLE** 
 
-## **4.20.001** Table of race incidents in accordance with article 12.4.001. 
+#### **4.20.001** Table of race incidents in accordance with article 12.4.001. 
 
 Except if stated differently, the amounts mentioned in the table below are in Swiss Francs (CHF). 
 
@@ -1444,272 +1457,279 @@ Except if stated differently, the amounts mentioned in the table below are in Sw
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0037-00.png)
 
-|2.<br>Clothing, helmet and accessories||||||
-|---|---|---|---|---|---|
-|2.1<br>Presentation at the start with non-<br>compliant<br>clothing, helmet or accessories||Start refused|||Start refused|
-|2.2<br>Use of non-compliant clothing, helmet<br>or accessories during an event||Disqualification (DSQ)|||Disqualification (DSQ)|
-|2.3<br>Rider at the start without mandatory<br>helmet||Start refused|||Start refused|
-|2.4<br>Start with damaged or no regular<br>helmet||Start refused|||Start refused|
-|2.5<br>Rider taking off mandatory helmet<br>during the<br>race||Disqualification (DSQ)|||Disqualification (DSQ)|
-|2.6<br>Use of forbidden onboard technology<br>device||Rider:Elimination or disqualification<br>Other team member:Exclusion|||Rider:Elimination or disqualification<br>Other team member:Exclusion|
-|||||||
-|3.<br>Body number, shoulder number,<br>bicycle<br>number<br>or<br>frame<br>number<br>modified or not<br>positioned<br>in<br>accordance with the  regulations||||||
-|ONE-DAY RACE|||Rider:<del>50 </del>100fine||Rider:<del>30 </del>50fine|
-|STAGE RACE|||1stoffence:<del>50 </del>100fine<br>2ndoffence: 200 fine<br>3rdoffence: elimination||1stoffence:<del>30 </del>50fine<br>2ndoffence:<del>50 </del>100fine<br>3rdoffence: elimination|
+|2.<br>Clothing, helmet and accessories|||
+|---|---|---|
+|2.1<br>Presentation at the start with non-<br>compliant<br>clothing, helmet or accessories|Start refused|Start refused|
+|2.2<br>Use of non-compliant clothing, helmet<br>or accessories during an event|Disqualification (DSQ)|Disqualification (DSQ)|
+|2.3<br>Rider at the start without mandatory<br>helmet|Start refused|Start refused|
+|2.4<br>Start with damaged or no regular<br>helmet|Start refused|Start refused|
+|2.5<br>Rider taking off mandatory helmet<br>during the<br>race|Disqualification (DSQ)|Disqualification (DSQ)|
+|2.6<br>Use of forbidden onboard technology<br>device|Rider:Elimination or disqualification<br>Other team member:Exclusion|Rider:Elimination or disqualification<br>Other team member:Exclusion|
+|3.<br>Body number, shoulder number,|||
+|bicycle<br>number<br>or<br>frame<br>number<br>modified or not<br>positioned<br>in<br>accordance with the  regulations|||
+|ONE-DAY RACE|Rider:<del>50 </del>100fine|Rider:<del>30 </del>50fine|
+|STAGE RACE|1<sup>st</sup>offence:<del>50 </del>100fine<br>2<sup>nd</sup>offence: 200 fine|1<sup>st</sup>offence:<del>30 </del>50fine<br>2<sup>nd</sup>offence:<del>50 </del>100fine|
+||3<sup>rd</sup>offence: elimination|3<sup>rd</sup>offence: elimination|
 
 Page **37** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
+
+E: admin@uci.ch 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0038-00.png)
 
-|4.<br>Deliberate deviation from the race<br>route,  attempting to be placed without<br>having  covered the entire race route by<br>bicycle|Rider: 200 fine and elimination|Rider: 100 fine and elimination|
-|---|---|---|
-|5.<br>Unintentional detour from the race<br>route  constituting an advantage|||
-|ONE-DAY RACE|Elimination|Elimination|
-|STAGE RACE||Time trial: 20’’ penalty<br>Relegation (REL) to last place of the stage|
-|6.<br>Failure to respect the instructions of<br>the race organisation or commissaires|Rider:<del>30 </del>50to 100 fine<br>Other licence holder: 100 to 200 fine|Rider:<del>20 </del>50to 100 fine<br>Other licence holder: 50 to 200 fine|
-|7.<br>Recrossing the finish line in the<br>direction of<br>the race while still wearing a<br>body number<br>and/or transponder (chip)|Rider:<del>30 </del>50fine|Rider: warning|
-|8.<br>Irregular assistance|||
-|8.1<br>Feeding outside the Feed/Technical<br>Assistance Zone|||
-|ONE-DAY RACE|Disqualification (DSQ) and 100 fine licence holder|Disqualification (DSQ) and 50 fine licence holder|
-|STAGE RACE||1’ penalisation in the stage results rider|
+|4.<br>route,<br>having<br>bicycle|Deliberate deviation from the race<br>attempting to be placed without<br>covered the entire race route by<br>|Rider: 200 fine and elimination|Rider: 100 fine and elimination|
+|---|---|---|---|
+|5.<br>route|Unintentional detour from the race<br>constituting an advantage|||
+||ONE-DAY RACE|Elimination|Elimination|
+|STAG|E RACE||Time trial: 20’’ penalty<br>Relegation (REL) to last place of the stage|
+|6.<br>the ra|Failure to respect the instructions of<br>ce organisation or commissaires|Rider:<del>30 </del>50to 100 fine<br>Other licence holder: 100 to 200 fine|Rider:<del>20 </del>50to 100 fine<br>Other licence holder: 50 to 200 fine|
+|7.<br>directi<br>body n|Recrossing the finish line in the<br>on of<br>the race while still wearing a<br>umber<br>and/or transponder (chip)|Rider:<del>30 </del>50fine|Rider: warning|
+|8.|Irregular assistance|||
+|8.1|Feeding outside the Feed/Technical<br>Assistance Zone|||
+|ONE-|DAY RACE|Disqualification (DSQ) and 100 fine licence holder|Disqualification (DSQ) and 50 fine licence holder|
+|STAG|E RACE||1’ penalisation in the stage results rider|
 
 Page **38** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
+
+E: admin@uci.ch 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0039-00.png)
 
-|8.2<br>Licence<br>holder<br>running<br>in<br>the<br>Feed/Technical Assistance Zone|||
-|---|---|---|
-|ONE-DAY RACE|1stoffence:  warning<br>2ndoffence:  Team Manager pass withdrawal and<br>50 fine|1stoffence: warning<br>2ndoffence: Team Manager pass withdrawal|
-|STAGE RACE||1stoffence warning<br>2ndoffence Team Manager pass withdrawal and 30”<br>penalisation rider|
-|8.3    Spraying water on riders or bicycles<br>8.4<br>Irregular mechanic assistance|1stoffence: official warning<br>2ndoffense 50 fine|1stoffence: official warning<br>2ndoffense 50 fine|
-|ONE-DAY RACE|Disqualification (DSQ) and 100 fine mechanic|Disqualification (DSQ) and 50 fine mechanic|
-|STAGE RACE||1stoffence 1’ penalisation in stage results rider and<br>50 fine mechanic<br>2ndoffence disqualification (DSQ) rider and 100 fine<br>mechanic|
-|9.<br>Rider turn back on the course to reach<br>Feed/Technical Assistance Zone|Disqualification (DSQ)|Disqualification (DSQ)|
-|10.<br>Rider failing to respect the rules for<br>the start|100 fine|50 fine|
-|11.<br>Use of a means of communication|Start refused or disqualification (DSQ) (if find during<br>the race)|Start refused or disqualification (DSQ) (if find during<br>the race)|
+|8.2|Licence<br>holder<br>running<br>in<br>the<br>Feed/Technical Assistance Zone|||
+|---|---|---|---|
+|ONE-|DAY RACE|1<sup>st</sup>offence:  warning<br>2<sup>nd</sup>offence:  Team Manager pass withdrawal and<br>50 fine|1<sup>st</sup>offence: warning<br>2<sup>nd</sup>offence: Team Manager pass withdrawal|
+|STAG|E RACE||1<sup>st</sup>offence warning<br>2<sup>nd</sup>offence Team Manager pass withdrawal and 30”<br>penalisation rider|
+|8.3<br>8.4|Spraying water on riders or bicycles<br>Irregular mechanic assistance|1<sup>st</sup>offence: official warning<br>2<sup>nd</sup>offense 50 fine|1<sup>st</sup>offence: official warning<br>2<sup>nd</sup>offense 50 fine|
+|ONE-|DAY RACE|Disqualification (DSQ) and 100 fine mechanic|Disqualification (DSQ) and 50 fine mechanic|
+|STAG|E RACE||1<sup>st</sup>offence 1’ penalisation in stage results rider and<br>50 fine mechanic<br>2<sup>nd</sup>offence disqualification (DSQ) rider and 100 fine<br>mechanic|
+|9.|Rider turn back on the course to reach<br>Feed/Technical Assistance Zone|Disqualification (DSQ)|Disqualification (DSQ)|
+|10.<br>the sta|Rider failing to respect the rules for<br>rt|100 fine|50 fine|
+|11.|Use of a means of communication|Start refused or disqualification (DSQ) (if find during<br>the race)|Start refused or disqualification (DSQ) (if find during<br>the race)|
 
 Page **39** / **50** 
 
-Allée Ferdi Kübler 12 1860 Aigle Switzerland 
-
-T: +41 24 468 58 11 E: admin@uci.ch 
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0040-00.png)
 
-|12.<br>Delayed or lapped rider continuing the<br>race  in breach of the regulations|Disqualification (DSQ)|Disqualification (DSQ)|
-|---|---|---|
-|13.<br>Rider fails to return to the course as in<br>art<br>4.1.035|Disqualification (DSQ)|Disqualification (DSQ)|
-|14.<br>Failure to display handlebar number<br>during  training|100 fine rider<br>200 fine team|50 fine rider<br>100 fine team|
-|15.<br>Identification frame number modified|100 fine|50 fine|
-|16.<br>Alter the course|Disqualification (DSQ)–accreditation removed|Disqualification (DSQ)–accreditation removed|
-|17.<br>Passing through a level crossing that<br>is<br>closed|Disqualification (DSQ)|Disqualification (DSQ)|
-|18.<br>Irregular sprint|||
-|ONE-DAY RACE|Relegation (REL) to the last place in the rider’s<br>group or<br>Disqualification (DSQ) at sole discretion of the<br>commissaires’ panel in case of serious cases|Relegation (REL) to the last place in the rider’s<br>group or<br>Disqualification (DSQ) at sole discretion of the<br>commissaires’ panel in case of serious cases|
-|STAGE RACE||1stoffence Relegation REL and 30” penalisation in<br>the stage results.<br>2ndoffence Disqualification (DSQ)|
-|19.<br>Training outside training time during<br>the<br>event and when course stated as<br>“closed”onthe event schedule|||
+|12.<br>race|Delayed or lapped rider continuing the<br>in breach of the regulations|Disqualification (DSQ)|Disqualification (DSQ)|
+|---|---|---|---|
+|13.<br>art|Rider fails to return to the course as in<br>4.1.035|Disqualification (DSQ)|Disqualification (DSQ)|
+|14.<br>during|Failure to display handlebar number<br>training|100 fine rider<br>200 fine team|50 fine rider<br>100 fine team|
+|15.|Identification frame number modified|100 fine|50 fine|
+|16.|Alter the course|Disqualification (DSQ)–accreditation removed|Disqualification (DSQ)–accreditation removed|
+|17.<br>is|Passing through a level crossing that<br>closed|Disqualification (DSQ)|Disqualification (DSQ)|
+|18.|Irregular sprint|||
+|ONE-|DAY RACE|Relegation (REL) to the last place in the rider’s<br>group or<br>Disqualification (DSQ) at sole discretion of the<br>commissaires’ panel in case of serious cases|Relegation (REL) to the last place in the rider’s<br>group or<br>Disqualification (DSQ) at sole discretion of the<br>commissaires’ panel in case of serious cases|
+|STAG|E RACE||1<sup>st</sup>offence Relegation REL and 30” penalisation in<br>the stage results.<br>2<sup>nd</sup>offence Disqualification (DSQ)|
+|19.<br>the<br>“close|Training outside training time during<br>event and when course stated as<br>d”onthe event schedule|||
 
 Page **40** / **50** 
 
-Allée Ferdi Kübler 12 1860 Aigle Switzerland 
-
-T: +41 24 468 58 11 E: admin@uci.ch 
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0041-00.png)
 
-|ONE-DAY RACE|1stoffence:<del>50 </del>100fine<br>2ndoffence: Start refused|1stoffence: 50 fine<br>2ndoffence:  Start refused|
-|---|---|---|
-|STAGE RACE||1stoffence 30’’ penalisation in the stage results<br>2ndoffence 1’ penalisation in the stage results|
-|20.<br>Cutting the course – short cut,using<br>the pit lane to gain advantage|||
-|ONE-DAY RACE|Disqualification<br>(DSQ)<br>or<br>relegation<br>(REL)<br>dependingon the length of the cut|Disqualification<br>(DSQ)<br>or<br>relegation<br>(REL)<br>dependingon the length of the cut|
-|STAGE RACE||2’-5’ penalisation in the stage results (or a time<br>major to the gained advantage)|
-|21.<br>Failure to wear the race leader’s<br>jersey|||
-|ONE-DAY RACE|1stoffence 250 fine<br>2ndoffence start refused and 500 fine|1stoffence 100 fine<br>2ndoffence start refused and 100 fine|
-|STAGE RACE||1stoffence 30’’penalisation in stage results<br>2ndoffence start refused|
-|22.<br>Failing to attend official ceremonies|500 fine|100 fine|
-|23.<br>Non-compliant clothing during podium<br>ceremony|500 fine|100 fine|
-|24.<br>Insult,<br>threats,<br>inappropriate<br>behaviour|Any licence holder<del>50 </del>100to 200 fine|Any licence holder 50 to 200 fine|
-|25.<br>Act of violence<br>25.1<br>Amongriders|||
+|ONE-|DAY RACE|1<sup>st</sup>offence:<del>50 </del>100fine<br>2<sup>nd</sup>offence: Start refused|1<sup>st</sup>offence: 50 fine<br>2<sup>nd</sup>offence:  Start refused|
+|---|---|---|---|
+|STAG|E RACE||1<sup>st</sup>offence 30’’ penalisation in the stage results<br>2<sup>nd</sup>offence 1’ penalisation in the stage results|
+|20.<br>the pit|Cutting the course – short cut,using<br>lane to gain advantage|||
+|ONE-|DAY RACE|Disqualification<br>(DSQ)<br>or<br>relegation<br>(REL)<br>dependingon the length of the cut|Disqualification<br>(DSQ)<br>or<br>relegation<br>(REL)<br>dependingon the length of the cut|
+|STAG|E RACE||2’-5’ penalisation in the stage results (or a time<br>major to the gained advantage)|
+|21.<br>jersey|Failure to wear the race leader’s<br>|||
+|ONE-|DAY RACE|1<sup>st</sup>offence 250 fine<br>2<sup>nd</sup>offence start refused and 500 fine|1<sup>st</sup>offence 100 fine<br>2<sup>nd</sup>offence start refused and 100 fine|
+|STAG|E RACE||1<sup>st</sup>offence 30’’penalisation in stage results<br>2<sup>nd</sup>offence start refused|
+|22.|Failing to attend official ceremonies|500 fine|100 fine|
+|23.|Non-compliant clothing during podium<br>ceremony|500 fine|100 fine|
+|24.<br>behav|Insult,<br>threats,<br>inappropriate<br>iour|Any licence holder<del>50 </del>100to 200 fine|Any licence holder 50 to 200 fine|
+|25.<br>25.1|Act of violence<br> <br>Amongriders|||
 
 Page **41** / **50** 
 
-Allée Ferdi Kübler 12 1860 Aigle Switzerland 
-
-T: +41 24 468 58 11 E: admin@uci.ch 
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0042-00.png)
 
-|ONE-DAY RACE||200 fine||100 fine|
-|---|---|---|---|---|
-|STAGE RACE||||100 fine plus 1’penalisation|
-|25.2  Towards anyotherperson|||||
-|ONE-DAY RACE||Rider Disqualification (DSQ) + 200 fine||Rider Disqualification (DSQ) + 100 fine<br>Other licence holder 1000 fine|
-|STAGE RACE||||Rider Disqualification (DSQ) + 100 fine<br>Other licence holder 1000 fine|
-|26.<br>SPECIFIC ON DOWNHILL EVENTS<br>26.1<br>Rider no completing at least 2<br>training  runs<br>26.2<br>Start training run below the start<br>line<br>26.3<br>Rider no wearing protections<br>imposed  by the national federation||Disqualification (DSQ)<br>Disqualification (DSQ)<br>Start refused||Disqualification (DSQ)<br>Disqualification (DSQ)<br>Start refused|
-|27.<br>SPECIFIC ON ENDURO EVENTS<br><del>27.1</del><br><del>Rider without bike mark at the</del><br><del>finish</del><br><del>27.2</del><br><del>Deliberate obstruction of the</del><br><del>fastest rider</del><br>27.3<br>Feeding outside the feed/technical<br>assistance Zone<br>27.4<br>Changing any marked bicycle<br>component<br>during<br>a<br>race<br>without<br>permission from the race control.||<del>Not applicable</del><br>Disqualification (DSQ)<br>With permission from race control: 3 minutes<br>penalty||<del>1</del>’<del>penalization</del><br><del>1</del>’<del>penalisation</del>|
+|ONE-DAY RACE|200 fine|100 fine|
+|---|---|---|
+|STAGE RACE||100 fine plus 1’penalisation|
+|25.2  Towards anyotherperson|||
+|ONE-DAY RACE|Rider Disqualification (DSQ) + 200 fine|Rider Disqualification (DSQ) + 100 fine<br>Other licence holder 1000 fine|
+|STAGE RACE||Rider Disqualification (DSQ) + 100 fine<br>Other licence holder 1000 fine|
+|26.<br>SPECIFIC ON DOWNHILL EVENTS|||
+|26.1<br>Rider no completing at least 2|Disqualification (DSQ)|Disqualification (DSQ)|
+|training  runs|Disqualification (DSQ)|Disqualification (DSQ)|
+|26.2<br>Start training run below the start|||
+|line|Start refused|Start refused|
+|26.3<br>Rider no wearing protections<br>imposed  by the national federation|||
+|27.<br>SPECIFIC ON ENDURO EVENTS|||
+|<del>27.1</del><br><del>Rider without bike mark at the</del>|<del>Not applicable</del>|<del>1</del>’<del>penalization</del>|
+|<del>finish</del>||<del>1</del>’<del>penalisation</del>|
+|<del>27.2</del><br><del>Deliberate obstruction of the</del>|||
+|<del>fastest rider</del>|||
+|27.3<br>Feeding outside the feed/technical<br>assistance Zone|Disqualification (DSQ)||
+|27.4<br>Changing any marked bicycle<br>component<br>during<br>a<br>race<br>without|With permission from race control: 3 minutes<br>penalty||
+|permission from the race control.|||
 
 Page **42** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
+
+E: admin@uci.ch 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0043-00.png)
 
-||27.5<br>Rider leaving the marked race<br>route to access feed and technical<br>assistance zone.<br>27.6<br>Riding on special stages after the<br>official course release and outside of<br>official training<br>27.7<br>Riding or pushing the bike on a<br>special stage against the direction of race<br>travel within the racecourse markings (race<br>or training)<br>27.8<br>Not following the official marked<br>route of a liaison between stages<br>27.9<br>Failure to follow / stay within the<br>marked and/or defined route of a special<br>stage (shortcutting)<br>27.10<br>Damaging or altering the course<br>marking<br>27.11<br>Arriving late for at start or any<br>special stage allocated start time<br>27.12<br>Unauthorised private shuttling of<br>athletes|Without permission from race control:<br>Disqualification (DSQ)<br>With permission from race control: 3 minutes<br>penalty<br>Without permission from race control:<br>Disqualification (DSQ)<br>1stoffence 5 minutes penalty<br>2ndoffence disqualification (DSQ)<br>Disqualification (DSQ)<br>1stoffence 5 minutes penalty<br>2ndoffence 5 minutes penalty<br>Accidental advantage gained 1 to 5 minutes penalty<br>Intentional disqualification (DSQ)<br>Disqualification (DSQ)<br>Up to 5 minutes late 1 minute penalty<br>5-30 minutes late 5 minutes penalty<br>Over 30 minutes late Did Not Finish (DNF)<br>Training<br>Riderdisqualification(DSQ)||
-|---|---|---|---|
+Without permission from race control: 27.5 Rider leaving the marked race Disqualification (DSQ) route to access feed and technical With permission from race control: 3 minutes assistance zone. penalty Without permission from race control: 27.6 Riding on special stages after the Disqualification (DSQ) official course release and outside of 1<sup>st</sup> offence 5 minutes penalty official training 2<sup>nd</sup> offence disqualification (DSQ) 27.7 Riding or pushing the bike on a Disqualification (DSQ) special stage against the direction of race travel within the racecourse markings (race or training) 
+
+27.8 Not following the official marked 1<sup>st</sup> offence 5 minutes penalty route of a liaison between stages 2<sup>nd</sup> offence 5 minutes penalty 27.9 Failure to follow / stay within the Accidental advantage gained 1 to 5 minutes penalty marked and/or defined route of a special Intentional disqualification (DSQ) stage (shortcutting) Disqualification (DSQ) 27.10 Damaging or altering the course marking 27.11 Arriving late for at start or any Up to 5 minutes late 1 minute penalty special stage allocated start time 5-30 minutes late 5 minutes penalty Over 30 minutes late Did Not Finish (DNF) 27.12 Unauthorised private shuttling of Training <u>athletes</u> Rider disqualification (DSQ) 
 
 Page **43** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
+
+E: admin@uci.ch 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0044-00.png)
 
-||Team 250 fine<br>Race<br>5 minutes penalty<br>Team 250 fine||
-|---|---|---|
-|28.<br>Late entries|UCI World Cup cross-country, cross-country short<br>track, cross-country marathon, downhill and<br>enduro: CHF 300|N/A|
-|29.<br>LITTERING<br>29.1<br>Rider or team disposing of waste<br>or other objects outside of feed and<br>technical assistance areas or organised<br>littering zone.<br>29.2<br>Disposing of waste or other<br>objects in a careless or dangerous manner.|<br>1stoffence 250 fine<br>2ndoffence 500 fine and disqualification (DSQ)|1stoffence 100 fine<br>2ndoffence 200 fine and disqualification (DSQ)|
-|_(text modified on 01.01.00; 01.01.02; 01.01.03; 05.05.03; 01.01.04; 01.01.05; 01.01.06; 01.01.07; 01.01.09; 01.07.10; 01.10.10; 01.07.11;_<br>_01.10.11; 01.10.13; 07.03.14; 16.06.14; 01.01.15; 01.07.15; 01.01.16; 01.01.17; 01.07.17; 01.01.19; 01.01.20; 10.06.21; 01.01.23; 01.01.25;_<br>_01.01.26) _|||
+|||Team 250 fine<br>Race<br>5 minutes penalty<br>Team 250 fine||
+|---|---|---|---|
+|28.|Late entries|UCI World Cup cross-country, cross-country short<br>track, cross-country marathon, downhill and<br>enduro: CHF 300|N/A|
+|29.|LITTERING|1<sup>st</sup>offence 250 fine|1<sup>st</sup>offence 100 fine|
+|29.1<br>or<br>tech|<br>Rider or team disposing of waste<br>other objects outside of feed and<br>nical assistance areas or organised|2<sup>nd</sup>offence 500 fine and disqualification (DSQ)|2<sup>nd</sup>offence 200 fine and disqualification (DSQ)|
+|litter|ing zone.|||
+|29.2|<br>Disposing of waste or other|||
+|obje|cts in a careless or dangerous manner.|||
+||_(text modified on 01.01.00; 01._<br>_01.10.11; 01.10.13; 07.03.14; 16_<br>_01.01.26) _|_01.02; 01.01.03; 05.05.03; 01.01.04; 01.01.05; 01.01.06_<br>_.06.14; 01.01.15; 01.07.15; 01.01.16; 01.01.17; 01.07.1_|_; 01.01.07; 01.01.09; 01.07.10; 01.10.10; 01.07.11;_<br>_7; 01.01.19; 01.01.20; 10.06.21; 01.01.23; 01.01.25;_|
 
 Page **44** / **50** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
+
+E: admin@uci.ch 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0045-00.png)
 
-## **ANNEX 2 - UCI MTB XCO points** 
+**ANNEX 2 - UCI MTB XCO points** 
 
-||**JO**<br>_OG_|**JO**<br>_OG_|<br>**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|<br>**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|<br>**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|<br>**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|<br>**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|**COUPE DU**<br>**MONDE**<br>WORLD CUP|**COUPE DU**<br>**MONDE**<br>WORLD CUP|**CHAMP. CONTINENTAUX**<br>CONTINENTAL CHAMP.|**CHAMP. CONTINENTAUX**<br>CONTINENTAL CHAMP.|**CHAMP. CONTINENTAUX**<br>CONTINENTAL CHAMP.|**CHAMP. CONTINENTAUX**<br>CONTINENTAL CHAMP.|
+||**J**<br>_O_|**O**<br>_G_||**CHAM**<br>_WOR_|**PIONNATS**<br>_LD CHAMPI_|**DU MONDE**<br>_ONSHIPS_||**COUP**<br>**MON**<br>WORL|**E DU**<br>**DE**<br>D CUP|**C**<br>|**HAMP. CON**<br>CONTINENT|**TINENTAU**<br>AL CHAMP.|**X**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**_Rang /_**<br>**_Place_**|**Elite H**|**Elite F**|**Elite**|**U23***|**Junior**|**XCE**|**Team**<br>**Relay*****|**Elite**|**U23**|**Elite**|**U23***|**Junior**|**Team**<br>**Relay*****|
-|**_1_**|300|300|300|200|200|110|200|250|125|150|75|60|100|
+|**_1_**<br>|300<br>|300<br>|300<br>|200<br>|200<br>|110<br>|200<br>|250<br>|125<br>|150<br>|75<br>|60<br>|100<br>|
 |**_2_**|250|250|250|150|150|90|150|200|100|120|55|40|75|
 |**_3_**|200|200|200|120|120|80|120|160|80|100|45|30|60|
-|**_4_**|180|180|180|100|100|70|100|150|75|90|40|25|50|
-|**_5_**|160|160|160|95|95|60|90|140|70|80|35|20|40|
-|**_6_**|140|140|140|90|90|50|80|130|65|70|30|18|30|
+|**_4_**<br>|180|180|180|100|100|70<br>|100|150|75|90|40|25|50|
+|**_5_**<br>**_6_**|160<br>140|160<br>140|160<br>140|95<br>90|95<br>90|60<br>50|90<br>80|140<br>130|70<br>65|80<br>70|35<br>30|20<br>18|40<br>30|
 |**_7_**|130|130|130|85|85|40|75|120|60|60|25|16|25|
-|**_8_**|120|120|120|80|80|35|70|110|55|50|20|14|20|
-|**_9_**|110|110|110|75|75|30|65|100|50|40|15|12|10|
+|**_8_**<br>**_9_**|120<br>110|120<br>110|120<br>110|80<br>75|80<br>75|35<br>30|70<br>65|110<br>100|55<br>50|50<br>40|20<br>15|14<br>12|20<br>10|
 |**_10_**|100|100|100|70|70|25|60|95|47|38|10|10|5|
-|**_11_**|95|95|95|65|65|20|55|90|45|36|8|8|x|
-|**_12_**|90|90|90|60|60|15|50|85|42|34|6|6||
-|**_13_**|85|85|85|55|55|10|45|80|40|32|4|4||
-|**_14_**|80|80|80|50|50|5|40|78|39|30|2|2||
-|**_15_**|78|78|78|45|45|3|35|76|38|28|1|1||
+|**_11_**<br>**_12_**|95<br>90|95<br>90|95<br>90|65<br>60|65<br>60|20<br>15|55<br>50|90<br>85|45<br>42|36<br>34|8<br>6|8<br>6|x|
+|**_13_**||||||||||||||
+|**_14_**|85<br>80|85<br>80|85<br>80|55<br>50|55<br>50|10<br>5|45<br>40|80<br>78|40<br>39|32<br>30|4<br>2|4<br>2||
+|**_15_**<br>|78|78|78|45|45|3|35|76|38|28|1|1||
 |**_16_**|76|76|76|40|40|1|30|74|37|26|X|x||
-|**_17_**|74|74|74|38|38|x|25|72|36|24||||
+|**_17_**<br>|74<br>|74<br>|74<br>|38<br>|38<br>|x|25<br>|72<br>|36<br>|24<br>||||
 |**_18_**|72|72|72|36|36||20|70|35|22||||
 |**_19_**|70|70|70|34|34||15|68|34|20||||
 |**_20_**|68|68|68|32|32||10|66|33|18||||
 |**_21_**|66|66|66|30|30||x|64|32|16||||
-|**_22_**|64|64|64|28|28|||62|31|14||||
+|**_22_**<br>|64|64|64|28|28|||62|31|14||||
 |**_23_**|62|62|62|26|26|||60|30|12||||
 |**_24_**|60|60|60|24|24|||58|28|10||||
-|**_25_**|58|58|58|22|22|||56|26|8||||
-|**_26_**|56|56|56|20|20|||54|24|6||||
+|**_25_**<br>**_26_**|58<br>56|58<br>56|58<br>56|22<br>20|22<br>20|||56<br>54|26<br>24|8<br>6||||
 |**_27_**|54|54|54|18|18|||52|22|5||||
 |**_28_**|52|52|52|16|16|||50|20|4||||
 |**_29_**|50|50|50|14|14|||48|18|3||||
-|**_30_**|45|45|48|13|13|||46|16|2||||
-|**_31_**|40|40|46|12|12|||44|14|x||||
+|**_30_**<br>**_31_**|45<br>|45<br>|48<br>|13<br>12|13<br>12|||46<br>|16<br>|2<br>||||
+||40|40|46|||||44|14|x||||
 |**_32_**|35|35|44|11|11|||42|12|||||
 |**_33_**|30|30|42|10|10|||40|10|||||
 |**_34_**|25|25|41|9|9|||38|9|||||
 |**_35_**|20|20|40|8|8|||36|8|||||
 |**_36_**|15|15|39|7|7|||34|7|||||
 |**_37_**|10|10|38|6|6|||32|6|||||
-|**_38_**|5|5|37|5|5|||30|5|||||
-|**_39_**|x|x|36|4|4|||29|4|||||
+|**_38_**||||5|5|||||||||
+|**_39_**|5<br>x|5<br>x|37<br>36|4|4|||30<br>29|5<br>4|||||
 |**_40_**|||35|3|3|||28|3|||||
 |**_41_**|||34|2**|2**|||27|2**|||||
-|**_42_**|||33|||||26||||||
-|**_43_**|||32|||||25||||||
-|**_44_**|||31|||||24||||||
-|**_45_**|||30|||||23||||||
-|**_46_**|||29|||||22||||||
-|**_47_**|||28|||||21||||||
+|**_42_**<br>**_43_**|||33<br>32|||||26<br>25||||||
+|**_44_**<br>**_45_**|||31<br>30|||||24<br>23||||||
+|**_46_**<br>**_47_**|||29<br>28|||||22<br>21||||||
 |**_48_**|||27|||||20||||||
 |**_49_**|||26|||||19||||||
-|**_50_**|||25|||||18||||||
-|**_51_**|||24|||||17||||||
-|**_52_**|||23|||||16||||||
-|**_53_**|||22|||||15||||||
+|**_50_**<br>**_51_**<br>|||25<br>24<br>|||||18<br>17<br>||||||
+|**_52_**<br>**_53_**|||23<br>22|||||16<br>15||||||
 |**_54_**|||21|||||14||||||
 |**_55_**|||20|||||13||||||
-|**_56_**|||19|||||12||||||
+|**_56_**|||19<br>|||||12<br>||||||
 |**_57_**|||18|||||11||||||
 |**_58_**|||17|||||10||||||
 |**_59_**|||16|||||9||||||
 |**_60_**|||15|||||8||||||
 |**_61_**|||5**|||||3**||||||
-||* en cas d'épreuve séparée /_in case of split event_|||||||||||||
-||**nombre de points pour chaque coureur classé /** _amount ofpoints for each ranked rider_|||||||||||||
-||***les points ne sont pas nominatifs aux coureurs mais à la Nation /_thepoints are not n_|||||||||_ominatif to the riders but to the Nation_||||
+||* en cas|d'épreuve|séparée|/_in case_|_of split even_|_t_||||||||
+||**nombr|e de point|s pour ch|aque co|ureur class|é /** _amo_|_unt ofpoints f_|_or each ra_|_nked rider_|||||
+
+*** les points ne sont pas nominatifs aux coureurs mais à la Nation / _the points are not nominatif to the riders but to the Nation_ 
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0046-00.png)
 
-||**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|**CHAMP. NATIONAUX**<br>_NATIONAL CHAMP._|<br>**Hors Classe /**<br>**Continental Series**|<br>**Hors Classe /**<br>**Continental Series**|**Classe 1**|**Classe 1**|**Classe 2 / COUPE du**<br>**MONDE XCE /**<br>XCE WORLD CUP/<br>Jeux régionaux /<br>Regional Games|**Classe 3  /**<br><del>**Jeux**</del><br><del>**réionaux /**</del>|**XCO**<br>**JUNIOR**<br>**SERIE**|**XCO**<br>**Junior  /**<br>**Continent**<br>**al Series**|
+||**CHA**<br>_NA_|**MP. NATION**<br>_IONAL CHA_|**AUX**<br>_MP_|<br>**Hors C**<br>**Continen**|**lasse /**<br>**al Series**|**Clas**|**se 1**|**Classe 2 / COUPE du**<br>**MONDE XCE /**<br>XCE WORLD CUP/|**Classe 3  /**<br>**<del>Jeux</del>**<br>**<del>régionaux /</del>**<br>|<br> <br>**XCO**<br>**JUNIOR**|**XCO**<br>**Junior  /**<br>**Continent**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||<del>**g**</del><br><del>**Regional**</del><br><del>**Games**</del>|||
+||||_._|||||Jeux régionaux /<br>Regional Games|**<del>Regional</del>**<br>**<del>Games</del>**|**SERIE**|**al Series**|
 |**_Rang /_**<br>**_Place_**|**Elite**|**U23***|**Junior**|**Elite**|**U23***|**Elite**|**U23***|**Elite**|**Elite**|**Junior**|**Junior**|
 |**_1_**|100|50|40|100|60|60|15|30|10|90|20|
 |**_2_**|90|35|30|80|40|40|10|20|6|70|18|
-|**_3_**|70|25|20|60|30|30|5|15|4|60|16|
+|**_3_**|70<br>|25<br>|20<br>|60<br>|30|30<br>|5<br>|15<br>|4<br>|60|16<br>|
 |**_4_**|60|15|10|50|25|25|3|12|2|50|14|
 |**_5_**|50|5|5|40|20|20|1|10|1|40|12|
 |**_6_**|40|x|x|35|18|18|x|8|x|35|10|
-|**_7_**|30|||30|16|16||6||30|8|
+|**_7_**<br>|30<br>|||30<br>|16|16<br>||6<br>||30|8<br>|
 |**_8_**|20|||27|14|14||4||27|6|
-|**_9_**|10|||24|12|12||2||24|4|
-|**_10_**|5|||22|10|10||1||22|2|
+|**_9_**<br>**_10_**|10<br>5|||24<br>22|12<br>10|12<br>10||2<br>1||24<br>22|4<br>2|
 |**_11_**|x|||20|8|8||x||20|x|
-|**_12_**||||18|6|6||||18||
-|**_13_**||||16|4|4||||16||
+|**_12_**<br>**_13_**||||18<br>16|6<br>4|6<br>4||||18<br>16||
 |**_14_**||||14|2|2||||14||
-|**_15_**||||12|1|1||||12||
+|**_15_**<br>||||12<br>|1|1<br>||||12||
 |**_16_**||||10|x|x||||10||
 |**_17_**||||9||||||9||
 |**_18_**||||8||||||8||
-|**_19_**||||7||||||7||
-|**_20_**||||6||||||6||
-|**_21_**||||5||||||5||
-|**_22_**||||4||||||4||
-|**_23_**||||3||||||3||
-|**_24_**||||2||||||2||
-|**_25_**||||1||||||1||
+|**_19_**<br>**_20_**||||7<br>6||||||7<br>||
+|**_21_**||||5||||||6<br>5||
+|**_22_**<br>**_23_**||||4<br>3||||||4<br>3||
+|**_24_**||||2||||||||
+|**_25_**||||1||||||2<br>1||
 |**_26_**||||x||||||x||
 |**_27_**||||||||||||
 |**_28_**||||||||||||
 |**_29_**||||||||||||
-|**_30_**||||||||||||
+|**_30_**<br>||||||||||||
 |**_31_**||||||||||||
-|**_32_**||||||||||||
-|**_33_**||||||||||||
-|**_34_**||||||||||||
-|**_35_**||||||||||||
-|**_36_**||||||||||||
+|**_32_**<br>||||||||||||
+|**_33_**<br>**_34_**<br>||||||||||||
+|**_35_**<br>**_36_**||||||||||||
 |**_37_**||||||||||||
 |**_38_**||||||||||||
 |**_39_**||||||||||||
-|**_40_**||||||||||||
+|**_40_**<br>||||||||||||
 |**_41_**||||||||||||
 |**_42_**||||||||||||
 |**_43_**||||||||||||
-|**_44_**||||||||||||
-|**_45_**||||||||||||
-|**_46_**||||||||||||
+|**_44_**<br>||||||||||||
+|**_45_**<br>**_46_**||||||||||||
 |**_47_**||||||||||||
 |**_48_**||||||||||||
 |**_49_**||||||||||||
@@ -1725,9 +1745,12 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**_59_**||||||||||||
 |**_60_**||||||||||||
 |**_61_**||||||||||||
-||* en cas d'épreuve séparée /_in_|||_case of split event_||||||||
-||**nombre de points pour chaque coureur classé /|||||** _amount ofpoints for each ranked rider_||||||
-||***les points ne sont pas nominatifs aux coureurs|||||mais à la Nation /_thepoints are not nominat_|||_if to the riders_|_but to the_|_Nation_|
+
+* en cas d'épreuve séparée / _in case of split event_ 
+
+** nombre de points pour chaque coureur classé / ** _amount of points for each ranked rider_ 
+
+*** les points ne sont pas nominatifs aux coureurs mais à la Nation / _the points are not nominatif to the riders but to the Nation_ 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -1737,7 +1760,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ## **ANNEX 2a - UCI MTB XCC Points** 
 
-||**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|**CHAMP. CONTINENTAUX**<br>CONTINENTAL CHAMP.|**CHAMP. CONTINENTAUX**<br>CONTINENTAL CHAMP.|**CHAMP.**<br>**NATIONAUX**<br>_NATIONAL CHAMP._|<br>**COUPE DU MONDE**<br>WORLD CUP|<br>**COUPE DU MONDE**<br>WORLD CUP|**Classe 3**|
+||**CHAMPIONNAT**<br>_WORLD CHAM_|**S DU MONDE**<br>_PIONSHIPS_|**CHAMP. CON**<br>CONTINENTA|**TINENTAUX**<br>L CHAMP.|**CHAMP.**<br>**NATIONAUX**<br>_NATIONAL CHAMP._|**COUPE D**<br>WORL|**U MONDE**<br>D CUP|**Classe 3**|
 |---|---|---|---|---|---|---|---|---|
 |**_Rang /_**<br>**_Place_**|**Elite**|**U23**|**Elite**|**U23**|**Elite**|**Elite**|**U23**|**Elite**|
 |**_1_**|150|100|70|35|50|30|15|10|
@@ -1788,33 +1811,29 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0048-00.png)
 
-## **ANNEX 3 - UCI MTB DHI points** 
+**ANNEX 3 - UCI MTB DHI points** 
 
-||**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|**COUPE DU MONDE**<br>_WORLD CUP_|**COUPE DU MONDE**<br>_WORLD CUP_|**COUPE DU MONDE**<br>_WORLD CUP_|**COUPE DU MONDE**<br>_WORLD CUP_|**COUPE DU MONDE**<br>_WORLD CUP_|**COUPE DU MONDE**<br>_WORLD CUP_|**COUPE DU MONDE**<br>_WORLD CUP_|**COUPE DU MONDE**<br>_WORLD CUP_|
+||**CHAM**<br>_WOR_|**PIONNATS DU M**<br>_LD CHAMPIONS_|**ONDE**<br>_HIPS_||||**COUPE DU MO**<br>_WORLD CU_|**Final event of the**<br>**NDE**<br>_P_|<br>**Final event of**|||
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|**_Rang /_**<br>**_Place_**|**Elite**|**Junior**|**Snow Bike**|**Manche**<br>**Qualification 1**<br>**Hommes Elite**<br>_Qualifying Round_<br>_Men Elite **_|<br>**Manche**<br>**Qualification 1**<br>**Femmes Elite**<br>_Qualifying Round_<br>_Women Elite**_|**Finale Hommes**<br>**Elite**<br>_Final Men Elite_|**Finale Femmes**<br>**Elite**<br>_Final Women_<br>_Elite_|**Final event of the**<br>**World Cup**<br>**season**<br>**Finale Hommes**<br>**Elite**<br>_Final Men Elite_|**Final event of**<br>**the World Cup**<br>**season**<br>**Finale Femmes**<br>**Elite**<br>_Final Women_<br>_Elite_|**Finale Men**<br>**Juniors**<br>_Final Hommes_<br>_Junior_|**Finale Women**<br>**Juniors**<br>_Final Femmes_<br>_Juniors_|
-|**_1_**|300|80|100|50|50|200|200|250|250|60|60|
+|||||**Manche**|**Manche**|||<br>|<br>**the World Cup**|**Finale Men**||
+|**_Rang /_**<br>**_Place_**|**Elite**|**Junior**|**Snow Bike**|**Qualification 1**<br>**Hommes Elite**<br>_Qualifying Round_|<br>**Qualification 1**<br>**Femmes Elite**<br>_Qualifying Round_|**Finale Hommes**<br>**Elite**<br>_Final Men Elite_|**Finale Femmes**<br>**Elite**<br>_Final Women_<br>_Elite_|**World Cup**<br>**season**<br>**Finale Hommes**<br>**Elite**|**season**<br>**Finale Femmes**<br>**Elite**|**Juniors**<br>_Final Hommes_<br>_Junior_|<br>**Finale Women**<br>**Juniors**<br>_Final Femmes_<br>_Juniors_|
+|||||_Men Elite **_|_Women Elite**_|||<br>_Final Men Elite_|_Final Women_<br>_Elite_|||
+|**_1_**<br>|300<br>|80<br>|100<br>|50<br>|50<br>|200<br>|200<br>|250<br>|250<br>|60<br>|60<br>|
 |**_2_**|250|60|80|40|40|160|160|200|200|50|50|
-|**_3_**|200|40|60|30|30|140|140|170|170|45|45|
-|**_4_**|180|30|50|25|25|125|125|150|150|40|40|
+|**_3_**<br>**_4_**|200<br>180|40<br>30|60<br>50|30<br>25|30<br>25|140<br>125|140<br>125|170<br>150|170<br>150|45<br>40|45<br>40|
 |**_5_**|160|25|40|22|20|110|110|132|130|35|35|
-|**_6_**|140|20|35|20|16|95|95|115|111|30|30|
-|**_7_**|130|18|30|18|14|90|80|108|94|28|25|
+|**_6_**<br>**_7_**|140<br>130|20<br>18|35<br>30|20<br>18|16<br>14|95<br>90|95<br>80|115<br>108|111<br>94|30<br>28|30<br>25|
 |**_8_**|120|16|27|17|12|85|70|102|82|26|15|
 |**_9_**|110|14|24|16|10|80|60|96|70|24|10|
-|**_10_**|100|12|22|15|5|75|55|90|60|22|5|
-|**_11_**|95|10|20|14||70|50|84|50|20||
-|**_12_**|90|9|18|13||65|45|78|45|18||
-|**_13_**|85|8|16|12||60|40|72|40|16||
-|**_14_**|80|7|14|11||55|35|66|35|14||
-|**_15_**|78|6|12|10||50|30|60|30|12||
-|**_16_**|76|5|10|9||45||54||10||
-|**_17_**|74|4|9|8||44||52||9||
+|**_10_**<br>|100<br>|12<br>|22<br>|15<br>|5|75<br>|55<br>|90<br>|60<br>|22<br>|5|
+|**_11_**<br>**_12_**|95<br>90|10<br>9|20<br>18|14<br>13||70<br>65|50<br>45|84<br>78|50<br>45|20<br>18||
+|**_13_**<br>|85<br>|8<br>|16<br>|12<br>||60<br>|40<br>|72<br>|40<br>|16<br>||
+|**_14_**<br>**_15_**|80<br>78|7<br>6|14<br>12|11<br>10||55<br>50|35<br>30|66<br>60|35<br>30|14<br>12||
+|**_16_**<br>**_17_**|76<br>74|5<br>4|10<br>9|9<br>8||45<br>44||54<br>52||10<br>9||
 |**_18_**|72|3|8|7||43||50||8||
 |**_19_**|70|2|7|6||42||48||7||
 |**_20_**|68|1|6|5||41||46||6||
-|**_21_**|66||5|||40||40||||
-|**_22_**|64||4|||39||39||||
+|**_21_**<br>**_22_**<br>|66<br>64<br>||5<br>4<br>|||40<br>39<br>||40<br>39<br>||||
 |**_23_**|62||3|||38||38||||
 |**_24_**|60||2|||37||37||||
 |**_25_**|58||1|||36||36||||
@@ -1823,39 +1842,35 @@ T: +41 24 468 58 11 E: admin@uci.ch
 |**_28_**|52|||||33||33||||
 |**_29_**|50|||||32||32||||
 |**_30_**|48|||||31||31||||
-|**_31_**|46|||||||||||
-|**_32_**|44|||||||||||
-|**_33_**|42|||||||||||
-|**_34_**|41|||||||||||
+|**_31_**<br>|46<br>|||||||||||
+|**_32_**<br>**_33_**|44<br>42|||||||||||
+|**_34_**<br>|41<br>|||||||||||
 |**_35_**|40|||||||||||
 |**_36_**|39|||||||||||
-|**_37_**|38|||||||||||
-|**_38_**|37|||||||||||
-|**_39_**|36|||||||||||
+|**_37_**<br>|38<br>|||||||||||
+|**_38_**<br>**_39_**|37<br>36|||||||||||
 |**_40_**|35|||||||||||
 |**_41_**|34|||||||||||
 |**_42_**|33|||||||||||
 |**_43_**|32|||||||||||
-|**_44_**|31|||||||||||
-|**_45_**|30|||||||||||
+|**_44_**<br>**_45_**|31<br>30|||||||||||
 |**_46_**|29|||||||||||
-|**_47_**|28|||||||||||
+|**_4_**|2|||||||||||
+|**_7_**<br>|8<br>|||||||||||
 |**_48_**|27|||||||||||
 |**_49_**|26|||||||||||
 |**_50_**|25|||||||||||
-|**_51_**|24|||||||||||
-|**_52_**|23|||||||||||
+|**_51_**<br>**_52_**|24<br>23|||||||||||
 |**_53_**|22|||||||||||
 |**_54_**|21|||||||||||
 |**_55_**|20|||||||||||
 |**_56_**|19|||||||||||
 |**_57_**|18|||||||||||
 |**_58_**|17|||||||||||
-|**_59_**|16|||||||||||
-|**_60_**|15|||||||||||
-|**_61_**|5*|||||||||||
-|||||||||||||
-||** For the final round,no world cup points will be awared for thequa|||lifyinground,those world cup points will begiven to the final instead.||||||||
+|**_59_**<br>|16<br>|||||||||||
+|**_60_**<br>**_61_**|15<br>5*|||||||||||
+
+** For the final round, no world cup <u>points will be awared for the qualifying round, those world cup points will be given to the final instead.</u> 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -1863,73 +1878,10 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0049-00.png)
 
-||**CHAMP. CONT.**<br>_CONT. CHAMP._|**CHAMP. CONT.**<br>_CONT. CHAMP._|**CHAMP. NAT.**<br>_NAT. CHAMP._|**CHAMP. NAT.**<br>_NAT. CHAMP._|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|
-|---|---|---|---|---|---|---|---|---|---|
-||||||**Hors Classe /**<br>**Continental Series**<br>||**Classe 1**|**Classe 2 /**<br>**COUPE**<br>**DU**<br>**MONDE**<br>**SNOW**<br>**BIKE UCI**<br>**/**UCI<br>SNOW<br>BIKE<br>WORLD<br>CUP|**Classe 3**<br>|
-|**_Rang /_**<br>**_Place_**|**Elite**|**Juniors**|**Elite**|**Juniors**|**Elite**|**Juniors**|**Elite**|**Elite**|**Elite**|
-|**_1_**|150|50|100|35|90|30|60|30|10|
-|**_2_**|120|40|90|30|70|25|40|20|6|
-|**_3_**|100|35|70|25|60|20|30|15|4|
-|**_4_**|90|30|60|20|50|18|25|12|2|
-|**_5_**|80|25|50|18|40|16|20|10|1|
-|**_6_**|70|20|40|16|35|15|18|8||
-|**_7_**|60|18|30|14|30|14|16|6||
-|**_8_**|50|16|20|12|27|13|14|4||
-|**_9_**|40|14|10|10|24|12|12|2||
-|**_10_**|38|12|5|8|22|11|10|1||
-|**_11_**|36|10|||20|10|8|||
-|**_12_**|34|9|||18|9|6|||
-|**_13_**|32|8|||16|8|4|||
-|**_14_**|30|7|||14|7|2|||
-|**_15_**|28|6|||12|6|1|||
-|**_16_**|26|5|||10|5||||
-|**_17_**|24|4|||9|4||||
-|**_18_**|22|3|||8|3||||
-|**_19_**|20|2|||7|2||||
-|**_20_**|18|1|||6|1||||
-|**_21_**|16||||5|||||
-|**_22_**|14||||4|||||
-|**_23_**|12||||3|||||
-|**_24_**|10||||2|||||
-|**_25_**|8||||1|||||
-|**_26_**|6|||||||||
-|**_27_**|5|||||||||
-|**_28_**|4|||||||||
-|**_29_**|3|||||||||
-|**_30_**|2|||||||||
-|**_31_**||||||||||
-|**_32_**||||||||||
-|**_33_**||||||||||
-|**_34_**||||||||||
-|**_35_**||||||||||
-|**_36_**||||||||||
-|**_37_**||||||||||
-|**_38_**||||||||||
-|**_39_**||||||||||
-|**_40_**||||||||||
-|**_41_**||||||||||
-|**_42_**||||||||||
-|**_43_**||||||||||
-|**_44_**||||||||||
-|**_45_**||||||||||
-|**_46_**||||||||||
-|**_47_**||||||||||
-|**_48_**||||||||||
-|**_49_**||||||||||
-|**_50_**||||||||||
-|**_51_**||||||||||
-|**_52_**||||||||||
-|**_53_**||||||||||
-|**_54_**||||||||||
-|**_55_**||||||||||
-|**_56_**||||||||||
-|**_57_**||||||||||
-|**_58_**||||||||||
-|**_59_**||||||||||
-|**_60_**||||||||||
-|**_61_**||||||||||
-|||||||||||
-||** For the final round,no world cup points will be awared for thequalifyinground,||||those world cup points will begiven to the final instead.|||||
+![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0049-01.png)
+
+<!-- Start of picture text -->
+EPREUVE D'UN JOUR<br>ONE DAY RACE<br>Classe 2 /<br>COUPE<br>DU<br>CHAMP. CONT.               CHAMP. NAT.               MONDE<br>CONT. CHAMP. NAT. CHAMP. Hors Classe /  SNOW<br>Classe 1 BIKE UCI  Classe 3<br>Continental Series<br>/  UCI<br>SNOW<br>BIKE<br>WORLD<br>CUP<br>Rang /  Elite Juniors Elite Juniors Elite Juniors Elite Elite Elite<br>Place<br>1 150 50 100 35 90 30 60 30 10<br>2 120 40 90 30 70 25 40 20 6<br>3 100 35 70 25 60 20 30 15 4<br>4 90 30 60 20 50 18 25 12 2<br>5 80 25 50 18 40 16 20 10 1<br>6 70 20 40 16 35 15 18 8<br>7 60 18 30 14 30 14 16 6<br>8 50 16 20 12 27 13 14 4<br>9 40 14 10 10 24 12 12 2<br>10 38 12 5 8 22 11 10 1<br>11 36 10 20 10 8<br>12 34 9 18 9 6<br>13 32 8 16 8 4<br>14 30 7 14 7 2<br>15 28 6 12 6 1<br>16 26 5 10 5<br>17 24 4 9 4<br>18 22 3 8 3<br>19 20 2 7 2<br>20 18 1 6 1<br>21 16 5<br>22 14 4<br>23 12 3<br>24 10 2<br>25 8 1<br>26 6<br>27 5<br>28 4<br>29 3<br>30 2<br>31<br>32<br>33<br>34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43<br>44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52<br>53<br>54<br>55<br>56<br>57<br>58<br>59<br>60<br>61<br>** For the final round, no world cup points will be awared for the qualifying round, those world cup points will be given to the final instead.<br><!-- End of picture text -->
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
@@ -1937,73 +1889,12 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0050-00.png)
 
-## **ANNEX 3a - UCI MTB EDR points** 
+**ANNEX 3a - UCI MTB EDR points** 
 
-||**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|**CHAMPIONNATS DU MONDE**<br>_WORLD CHAMPIONSHIPS_|<br>**COUPE DU MONDE**<br>_WORLD CUPS_|<br>**COUPE DU MONDE**<br>_WORLD CUPS_|<br>**COUPE DU MONDE**<br>_WORLD CUPS_|<br>**COUPE DU MONDE**<br>_WORLD CUPS_|**CHAMP. CONT.**<br>_CONT._<br>_CHAMP._|<br>**CHAMP. NAT.**<br>_NAT. CHAMP._|**EPREUVE D'UN JOUR**<br>_ONE DAY RACE_|
-|---|---|---|---|---|---|---|---|---|---|
-||||||||||**Classe 3**<br>|
-|**_Rang /_**<br>**_Place_**|**Elite**|**Junior**|**Hommes Elite**<br>_Men Elite_|**Femmes Elite**<br>_Women Elite_|**Men Juniors**<br>_Hommes Junior_|**Women Juniors**<br>_Femmes_<br>_Juniors_|**Elite**|**Elite**|**Elite**|
-|**_1_**|300|80|200|200|60|60|150|100|10|
-|**_2_**|250|60|160|160|50|50|120|90|6|
-|**_3_**|200|40|140|140|45|45|100|70|4|
-|**_4_**|180|30|125|125|40|40|90|60|2|
-|**_5_**|160|25|110|110|35|35|80|50|1|
-|**_6_**|140|20|95|95|30|30|70|40||
-|**_7_**|130|18|90|80|28|25|60|30||
-|**_8_**|120|16|85|70|26|15|50|20||
-|**_9_**|110|14|80|60|24|10|40|10||
-|**_10_**|100|12|75|55|22|5|38|5||
-|**_11_**|95|10|70|50|20||36|||
-|**_12_**|90|9|65|45|18||34|||
-|**_13_**|85|8|60|40|16||32|||
-|**_14_**|80|7|55|35|14||30|||
-|**_15_**|78|6|50|30|12||28|||
-|**_16_**|76|5|45||10||26|||
-|**_17_**|74|4|44||9||24|||
-|**_18_**|72|3|43||8||22|||
-|**_19_**|70|2|42||7||20|||
-|**_20_**|68|1|41||6||18|||
-|**_21_**|66||40||||16|||
-|**_22_**|64||39||||14|||
-|**_23_**|62||38||||12|||
-|**_24_**|60||37||||10|||
-|**_25_**|58||36||||8|||
-|**_26_**|56||35||||6|||
-|**_27_**|54||34||||5|||
-|**_28_**|52||33||||4|||
-|**_29_**|50||32||||3|||
-|**_30_**|48||31||||2|||
-|**_31_**|46|||||||||
-|**_32_**|44|||||||||
-|**_33_**|42|||||||||
-|**_34_**|41|||||||||
-|**_35_**|40|||||||||
-|**_36_**|39|||||||||
-|**_37_**|38|||||||||
-|**_38_**|37|||||||||
-|**_39_**|36|||||||||
-|**_40_**|35|||||||||
-|**_41_**|34|||||||||
-|**_42_**|33|||||||||
-|**_43_**|32|||||||||
-|**_44_**|31|||||||||
-|**_45_**|30|||||||||
-|**_46_**|29|||||||||
-|**_47_**|28|||||||||
-|**_48_**|27|||||||||
-|**_49_**|26|||||||||
-|**_50_**|25|||||||||
-|**_51_**|24|||||||||
-|**_52_**|23|||||||||
-|**_53_**|22|||||||||
-|**_54_**|21|||||||||
-|**_55_**|20|||||||||
-|**_56_**|19|||||||||
-|**_57_**|18|||||||||
-|**_58_**|17|||||||||
-|**_59_**|16|||||||||
-|**_60_**|15|||||||||
-|**_61_**|5*|||||||||
+![](images/UCI_MTB_Rules_-_Part_IV_-_Rule_Changes_on_01.01.2026_-_ENG.pdf-0050-02.png)
+
+<!-- Start of picture text -->
+EPREUVE D'UN JOUR<br>ONE DAY RACE<br>CHAMP. CONT.<br>CHAMPIONNATS DU MONDE       COUPE DU MONDE CHAMP. NAT.<br>CONT.<br>WORLD CHAMPIONSHIPS WORLD CUPS NAT. CHAMP.<br>CHAMP. Classe 3<br>Men Juniors Women Juniors<br>Rang /  Elite Junior Hommes Elite  Femmes Elite  Hommes Junior Femmes  Elite Elite Elite<br>Place Men Elite Women Elite<br>Juniors<br>1 300 80 200 200 60 60 150 100 10<br>2 250 60 160 160 50 50 120 90 6<br>3 200 40 140 140 45 45 100 70 4<br>4 180 30 125 125 40 40 90 60 2<br>5 160 25 110 110 35 35 80 50 1<br>6 140 20 95 95 30 30 70 40<br>7 130 18 90 80 28 25 60 30<br>8 120 16 85 70 26 15 50 20<br>9 110 14 80 60 24 10 40 10<br>10 100 12 75 55 22 5 38 5<br>11 95 10 70 50 20 36<br>12 90 9 65 45 18 34<br>13 85 8 60 40 16 32<br>14 80 7 55 35 14 30<br>15 78 6 50 30 12 28<br>16 76 5 45 10 26<br>17 74 4 44 9 24<br>18 72 3 43 8 22<br>19 70 2 42 7 20<br>20 68 1 41 6 18<br>21 66 40 16<br>22 64 39 14<br>23 62 38 12<br>24 60 37 10<br>25 58 36 8<br>26 56 35 6<br>27 54 34 5<br>28 52 33 4<br>29 50 32 3<br>30 48 31 2<br>31 46<br>32 44<br>33 42<br>34 41<br>35 40<br>36 39<br>37 38<br>38 37<br>39 36<br>40 35<br>41 34<br>42 33<br>43 32<br>44 31<br>45 30<br>46 29<br>47 28<br>48 27<br>49 26<br>50 25<br>51 24<br>52 23<br>53 22<br>54 21<br>55 20<br>56 19<br>57 18<br>58 17<br>59 16<br>60 15<br>61 5*<br><!-- End of picture text -->
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 

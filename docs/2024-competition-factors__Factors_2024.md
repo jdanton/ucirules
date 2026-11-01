@@ -4,13 +4,14 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/27PPvp5fg1HTKTBAnvJg91/d22
 source_sha256: 007aa557f1d611f9a0dd48b11667dd65c1f975e2990ca4e94ec25abc000c37d4
 converter: pymupdf4llm
 ---
+
 ![](images/Factors_2024.pdf-0001-00.png)
 
-## **2024 Competition Factors** 
+# **2024 Competition Factors** 
 
-## **April 2024** 
+# **April 2024** 
 
-## **Track Factors** 
+## **<u>Track Factors</u>** 
 
 |C5 MEN|100.00%||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -23,9 +24,11 @@ converter: pymupdf4llm
 |C3 WOMEN|85.35%|86.51%|89.95%|94.89%|95.18%|96.17%|97.76%|100.00%|||
 |C2 WOMEN|80.66%|81.76%|85.00%|89.67%|89.95%|90.88%|92.38%|94.50%|100.00%||
 |C1 WOMEN|78.54%|79.61%|82.77%|87.32%|87.59%|88.50%|89.96%|92.02%|97.37%|100.00%|
-|B MEN<br>100.00%<br>B WOMEN<br>89.95%<br>100.00%|||||||||||
-|B MEN|100.00%||||||||||
-|B WOMEN|89.95%|100.00%|||||||||
+
+![](images/Factors_2024.pdf-0001-05.png)
+
+<!-- Start of picture text -->
+B MEN  100.00%<br>B WOMEN  89.95%  100.00%<br><!-- End of picture text -->
 
 Page **1** / **3** 
 
@@ -33,7 +36,7 @@ Page **1** / **3**
 
 ![](images/Factors_2024.pdf-0002-00.png)
 
-## **Road Factors** 
+## **<u>Road Factors</u>** 
 
 |C5|Men|100.00%||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -52,9 +55,10 @@ Page **1** / **3**
 |T1|Men|87.44%|100.00%|||
 |T2|Women|86.13%|98.50%|100.00%||
 |T1|Women|75.31%|87.44%|88.77%|100.00%|
-|||||||
-|B|Men|100.00%||||
-|B|Women|86.13%|100.00%|||
+
+|B|Men|100.00%||
+|---|---|---|---|
+|B|Women|86.13%|100.00%|
 
 Page **2** / **3** 
 

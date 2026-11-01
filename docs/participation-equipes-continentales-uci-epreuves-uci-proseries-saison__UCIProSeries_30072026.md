@@ -33,64 +33,64 @@ Page **1** / **3**
 
 ![](images/UCIProSeries_30072026.pdf-0002-00.png)
 
-||||**Authorised to participate to UCI**<br>|
+||||**Authorised to participate to UCI**<br>**ProSeries events from / Autorisée à**|
 |---|---|---|---|
-|**Team name / Nom d'équipe**|**Country / Pays**|**Team Category / Catégorie de l'équipe**|**ProSeries events from / Autorisée à**<br>**participer aux épreuves UCI ProSeries à**<br>**partir de**|
-|7ELEVEN CLIQQROADBIKE PHILIPPINES<br>|Philippines<br>|UCI Continental Team<br>|<br>28.01.2026<br>|
-|AARCO|Belgium|UCI Continental Team|28.01.2026|
+|**Team name / Nom d'équipe**|**Country / Pays**|**Team Category / Catégorie de l'équipe**|<br>**participer aux épreuves UCI ProSeries à**<br>**i d**|
+|7ELEVEN CLIQQROADBIKE PHILIPPINES<br>AARCO|Philippines<br>Bli|UCI Continental Team<br>UCI Ctitl T|**partr e**<br>28.01.2026<br>28012026|
+||egum<br>|onnena eam<br>|..<br>|
 |AIRTOX - CARL RAS|Denmark|UCI Continental Team|28.01.2026|
-|AISAN RACING TEAM|Japan|UCI Continental Team|28.01.2026|
-|<br>ALPECINPREMIER TECH DEVELOPMENT TEAM|Bli|<br>UCI Ctitl T|28012026|
-|-<br>ANICOLOR/CAMPICARN|egum<br>Portugal|onnena eam<br>UCI Continental Team|..<br>28.01.2026|
+|AISAN RACING TEAM<br>ALPECIN-PREMIER TECH DEVELOPMENT TEAM|Japan<br>Belgium|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
+|ANICOLOR/CAMPICARN|Portugal|UCI Continental Team|28.01.2026|
 |APS PRO CYCLING BY TEAM CADENCE CYCLERY|United States|UCI Continental Team|28.01.2026|
-|ASTEMO UTSUNOMIYA BLITZEN<br>|Japan<br>|UCI Continental Team<br>|28.01.2026<br>|
-|ATT INVESTMENTS<br>AVILUDO - LOULETANO - LOULÉ|Czech Republic<br>Portugal|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|AZERION/VILLA VALKENBURG<br>BAHRAIN VICTORIOUS DEVELOPMENT TEAM|Netherlands<br>Bhi|UCI Continental Team<br>UCI Ctitl T|28.01.2026<br>28012026|
-|<br>BALOISE VERZEKERINGEN -HET POETSBUREAU LIONS|aran<br>Belgium|onnena eam<br>UCI Continental Team|..<br>28.01.2026|
-|BEAT CC P/B SAXO<br>BELTRAMI TSA TRE COLLI|Netherlands<br>Italy|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28012026|
-|<br>BENOTTI BERTHOLD|Germany<br>|<br>UCI Continental Team<br>|..<br>28.01.2026|
-|BHS-PL BETON BORNHOLM<br>BIESSE - CARRERA - PREMAC|Denmark<br>Italy|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|BIKE AID<br>|Germany<br>|UCI Continental Team<br>|28.01.2026<br>|
-|BODYWRAP LTWOO CYCLING TEAM|China|UCI Continental Team|28.01.2026|
-|CAMP CYCING TEAM<br>CAMPANA IMBALLAGGI-MORBIATO-TRENTINO<br>|China<br>Italy<br>|UCI Continental Team<br>UCI Continental Team<br>|28.01.2026<br>28.01.2026<br>|
-|CCACHE X BODYWRAP<br>CHINA ANTA - MENTECH CYCLING TEAM|Australia<br>China|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|CIC PRO CYCLING ACADEMY|France|UCI Continental Team|28.01.2026|
-|COLOR CODE-ALU CENTER<br>|Belgium<br>|UCI Continental Team<br>|28.01.2026<br>|
-|COMPETITIVE EDGE RACING<br>CREDIBOM/LA ALUMÍNIOS/MARCOS CAR|United States<br>Portugal|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|DECATHLON CMA CGM DEVELOPMENT TEAM|France|UCI Continental Team|28012026|
-|<br>DEVELOPMENT TEAM PICNIC POSTNL|Netherlands|<br>UCI Continental Team|..<br>28.01.2026|
-|EF EDUCATION - AEVOLO<br>EFAPEL CYCLING|United States<br>Portugal|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|EUROCYCLINGTRIPS - CCN|Gm|UCI Cntinntl Tm|28012026|
-|<br>FACTOR RACING|ua<br>Slovenia|oea ea<br>UCI Continental Team|..<br>28.01.2026|
+|ASTEMO UTSUNOMIYA BLITZEN<br>ATT INVESTMENTS|Japan<br>Czech Republic|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
+|<br>AVILUDO - LOULETANO - LOULÉ|<br>Portugal|<br>UCI Continental Team|28.01.2026|
+|AZERION/VILLA VALKENBURG<br>BAHRAIN VICTORIOUS DEVELOPMENT TEAM|Netherlands<br>Bahrain|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
+|BALOISE VERZEKERINGEN -HET POETSBUREAU LIONS<br>|Belgium<br>|UCI Continental Team<br>|28.01.2026|
+|BEAT CC P/B SAXO<br>BELTRAMI TSA TRE COLLI|Netherlands<br>Italy|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
+|BENOTTI BERTHOLD<br>|Germany<br>|UCI Continental Team<br>|28.01.2026<br>|
+|BHS-PL BETON BORNHOLM|Denmark|UCI Continental Team|28.01.2026|
+|BIESSE - CARRERA - PREMAC|Italy|UCI Continental Team|28.01.2026|
+|BIKE AID|Germany|UCI Continental Team|28012026|
+|<br>BODYWRAP LTWOO CYCLING TEAM|China|<br>UCI Continental Team|..<br>28.01.2026|
+|CAMP CYCING TEAM|China|UCI Continental Team|28.01.2026|
+|CAMPANA IMBALLAGGI-MORBIATO-TRENTINO|Italy|UCI Continental Team|28.01.2026|
+|CCACHE X BODYWRAP<br>|Australia<br>|UCI Continental Team<br>|28.01.2026<br>|
+|CHINA ANTA - MENTECH CYCLING TEAM|China|UCI Continental Team|28.01.2026|
+|CIC PRO CYCLING ACADEMY<br>COLOR CODE-ALU CENTER|France<br>Belgium|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28012026|
+|<br>COMPETITIVE EDGE RACING<br>|United States|<br>UCI Continental Team|..<br>28.01.2026|
+|CREDIBOM/LA ALUMÍNIOS/MARCOS CAR<br>DECATHLON CMA CGM DEVELOPMENT TEAM|Portugal<br>France|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
+|DEVELOPMENT TEAM PICNIC POSTNL|Netherlands<br>|UCI Continental Team<br>|28.01.2026|
+|EF EDUCATION - AEVOLO|United States|UCI Continental Team|28.01.2026|
+|EFAPEL CYCLING|Portugal|UCI Continental Team|28.01.2026|
+|EUROCYCLINGTRIPS - CCN<br>|Guam<br>|UCI Continental Team<br>|28.01.2026<br>|
+|FACTOR RACING<br>|Slovenia|UCI Continental Team|28.01.2026|
 |FEIRA DOS SOFÁS - BOAVISTA<br>FEIRENSE - BEECELER|Portugal<br>Portugal|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28012026|
 |<br>FNIX-SCOM-HENGXIANG CYCLING TEAM|China<br>|<br>UCI Continental Team<br>|..<br>28.01.2026|
 |GENERAL STORE - ESSEGIBI - F.LLI CURIA<br>GI GROUP HOLDING - SIMOLDES - UDO|Italy<br>Portugal|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
 |GIANT CYCLING TEAM<br>|China<br>|UCI Continental Team<br>|28.01.2026<br>|
 |GRAGNANO SPORTING CLUB|Italy|UCI Continental Team|28.01.2026|
 |HAGENS BERMAN JAYCO|Australia|UCI Continental Team|28.01.2026|
-|HUANSHENG-VONOA-TAISHAN SPORT TEAM<br>|China<br>|UCI Continental Team<br>|28.01.2026<br>|
-|INEOS GRENADIERS RACING ACADEMY|Great Britain<br>|UCI Continental Team<br>|28.01.2026|
-|ISTANBUL TEAM|Turkey|UCI Continental Team|28.01.2026|
-|JAKARTA PRO CYCLING TEAM|Indonesia|UCI Continental Team|28.01.2026|
-|KASPER CRYPTO4ME<br>|Czech Republic<br>|UCI Continental Team<br>|28.01.2026<br>|
+|HUANSHENG-VONOA-TAISHAN SPORT TEAM|China|UCI Continental Team|28012026|
+|<br>INEOS GRENADIERS RACING ACADEMY|Great Britain|<br>UCI Continental Team|..<br>28.01.2026|
+|ISTANBUL TEAM<br>JAKARTA PRO CYCLING TEAM|Turkey<br>Indonesia|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
+|<br>KASPER CRYPTO4ME|Czech Republic|<br>UCI Continental Team<br>|28.01.2026|
 |KINAN RACING TEAM|Japan|UCI Continental Team|28.01.2026|
-|KOLESARSKI KLUB NOVO MESTO|Slovenia|UCI Continental Team|28.01.2026|
-|KONYA BÜYÜKŞEHİR BELEDİYE SPOR<br>|Turkey<br>|UCI Continental Team<br>|28.01.2026<br>|
-|KSPO<br>L39ION OF LOS ANGELES|South Korea<br>United States|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|LI NING STAR|China|UCI Continental Team|28.01.2026|
-|LIDL-TREK FUTURE RACING<br>|Germany<br>|UCI Continental Team<br>|28.01.2026<br>|
+|KOLESARSKI KLUB NOVO MESTO<br>KONYA BÜYÜKŞEHİR BELEDİYE SPOR<br>|Slovenia<br>Turkey<br>|UCI Continental Team<br>UCI Continental Team<br>|28.01.2026<br>28.01.2026<br>|
+|KSPO|South Korea|UCI Continental Team|28.01.2026|
+|L39ION OF LOS ANGELES|United States|UCI Continental Team|28.01.2026|
+|LI NING STAR<br>|China<br>|UCI Continental Team<br>|28.01.2026<br>|
+|LIDL-TREK FUTURE RACING|Germany|UCI Continental Team|28.01.2026|
 |LILLEHAMMER CK CONTINENTAL TEAM|Norway|UCI Continental Team|28.01.2026|
-|LOTTO - GROUPE WANTY<br>LUCKY SPORT CYCLING TEAM|Belgium<br>Sweden|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28012026|
-|<br>MADAR PRO CYCLING TEAM<br>|Algeria<br>|<br>UCI Continental Team<br>|..<br>28.01.2026<br>|
-|MALAYSIA PRO CYCLING<br>MBB CONTINENTAL CYCLING TEAM|Malaysia<br>Turkey|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|MERIDIAN RACING P/B DE LA UZ|United States|UCI Continental Team|28012026|
-|<br>METEC - SOLARWATT P/B MANTEL|<br>Netherlands|<br>UCI Continental Team|..<br>28.01.2026|
-|MG.K VIS COSTRUZIONI E AMBIENTE<br>MOVISTAR TEAM ACADEMY|Italy<br>Spain|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
-|<br>NICE METROPOLE COTE D'AZUR<br>|France<br>|<br>UCI Continental Team<br>|28.01.2026<br>|
-|NSN DEVELOPMENT TEAM<br>NUSANTARA CYCLING TEAM<br>OBIDOS CYCLING TEAM|Switzerland<br>Indonesia<br>Portual|UCI Continental Team<br>UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026<br>28012026|
-|<br>PAUWELS SAUZEN - ALTEZ INDUSTRIEBOUW CYCLING TEAM|g<br>Belgium|<br>UCI Cyclo-Cross Pro Team|..<br>28.01.2026|
-|POGI TEAM GUSTO LJUBLJANA|Slovenia|UCI Continental Team|28.01.2026|
-|PROJECT ECHELON RACING<br>|United States<br>|UCI Continental Team<br>|28.01.2026<br>|
+|LOTTO - GROUPE WANTY<br>LUCKY SPORT CYCLING TEAM|Belgium<br>Sd|UCI Continental Team<br>UCI Ctitl T|28.01.2026<br>28012026|
+|<br>MADAR PRO CYCLING TEAM|ween<br>Algeria|onnena eam<br>UCI Continental Team|..<br>28.01.2026|
+|MALAYSIA PRO CYCLING<br>MBB CONTINENTAL CYCLING TEAM|Malaysia<br>Turkey|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28012026|
+|<br>MERIDIAN RACING P/B DE LA UZ<br>METEC - SOLARWATT P/B MANTEL|United States<br>Netherlands|<br>UCI Continental Team<br>UCI Continental Team|..<br>28.01.2026<br>28.01.2026|
+|MG.K VIS COSTRUZIONI E AMBIENTE|Italy|UCI Continental Team|28.01.2026|
+|MOVISTAR TEAM ACADEMY<br>NICE METROPOLE COTE D'AZUR|Spain<br>France|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
+|NSN DEVELOPMENT TEAM<br>NUSANTARA CYCLING TEAM|Switzerland<br>Indonesia|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28012026|
+|<br>OBIDOS CYCLING TEAM|Portugal|<br>UCI Continental Team|..<br>28.01.2026|
+|PAUWELS SAUZEN - ALTEZ INDUSTRIEBOUW CYCLING TEAM<br>POGI TEAM GUSTO LJUBLJANA|Belgium<br>Slovenia|UCI Cyclo-Cross Pro Team<br>UCI Continental Team|28.01.2026<br>28012026|
+|<br>PROJECT ECHELON RACING|United States<br>|<br>UCI Continental Team<br>|..<br>28.01.2026|
 |QINGHAI TIANYOUDE HOTEL CYCLING TEAM<br>QUICK PRO TEAM|China<br>Estonia|UCI Continental Team<br>UCI Continental Team|28.01.2026<br>28.01.2026|
 
 Page **2** / **3** 

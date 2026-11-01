@@ -4,17 +4,18 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/6m07hIW7T5W1AJvFWmKFB6/a9d
 source_sha256: b975b6bc034cdf09311e6b38dcdefae4815bdaee954bcdc8f5059bdee97dc0ee
 converter: pymupdf4llm
 ---
-## **PART 14 ANTI-DOPING RULES (“UCI ADR”)** 
 
-**Version of 20 February 2023** 
+# **PART 14 ANTI-DOPING RULES (“UCI ADR”)** 
 
-## **PART 14 ANTI-DOPING RULES** 
+## **Version of 20 February 2023** 
 
-## **INTRODUCTION** 
+### **PART 14 ANTI-DOPING RULES** 
 
-## **A. Preface** 
+#### **INTRODUCTION** 
 
-These Anti-Doping Rules are adopted and implemented in accordance with the _UCI_ 's responsibilities under the _Code_, and in furtherance of _UCI's_ continuing efforts to eradicate doping in sport. They are intended to implement the 2021 version of the _Code_, with effect on 1[st] January 2021, for the sport of cycling. They form an integral part of the _UCI_ Cycling Regulations (Part 14 Anti-Doping Rules). 
+#### **A. Preface** 
+
+These Anti-Doping Rules are adopted and implemented in accordance with the _UCI_ 's responsibilities under the _Code_, and in furtherance of _UCI's_ continuing efforts to eradicate doping in sport. They are intended to implement the 2021 version of the _Code_, with effect on 1<sup>st</sup> January 2021, for the sport of cycling. They form an integral part of the _UCI_ Cycling Regulations (Part 14 Anti-Doping Rules). 
 
 These Anti-Doping Rules are sport rules governing the conditions under which sport is played. _Riders_, _Rider Support Personnel_ and other _Persons_ accept these rules as a condition of participation or involvement in cycling and shall be bound by them. 
 
@@ -30,7 +31,7 @@ Italicized terms used in these Anti-Doping Rules are defined in Appendix 1.
 
 Unless otherwise specified, references to Articles are references to Articles of these Anti-Doping Rules. 
 
-## **B. Fundamental Rationale for the** _**Code**_ **and these Anti-Doping Rules** 
+#### **B. Fundamental Rationale for the** **_Code_ and these Anti-Doping Rules** 
 
 Anti-doping programs are founded on the intrinsic value of sport. This intrinsic value is often referred to as "the spirit of sport": the ethical pursuit of human excellence through the dedicated perfection of each _Rider’s_ natural talents. 
 
@@ -68,7 +69,7 @@ The spirit of sport is expressed in how we play true.
 
 Doping is fundamentally contrary to the spirit of sport. 
 
-## **C. Scope of these Anti-Doping Rules** 
+#### **C. Scope of these Anti-Doping Rules** 
 
 These Anti-Doping Rules shall apply to: 
 
@@ -94,13 +95,13 @@ these Anti-Doping Rules to hear and determine cases and appeals brought under th
 
 _[Comment: Where these Anti-Doping Rules require a Person other than a Rider or Rider Support Person to be bound by these Rules, such Person would of course not be subject to Sample collection or Testing, and would not be subject to an anti-doping rule violation under these Rules for Use or Possession of a Prohibited Substance or Prohibited Method. Rather, such Person would only be subject to discipline for a violation of Articles 2.5 (Tampering), 2.7 (Trafficking), 2.8 (Administration), 2.9 (Complicity), 2.10 (Prohibited Association) and 2.11 (Retaliation). Furthermore, such Person would be subject to the additional roles and responsibilities according to Article 21.3. Also, the obligation to require an employee to be bound by the Code is subject to applicable law.]_ 
 
-## **D.** _**International Level Rider**_ **s** 
+#### **D.** **_International Level Rider_ s** 
 
 Within the overall pool of _Persons_ set out above who are bound by and required to comply with these Anti-Doping Rules, the _Riders_ included in the _UCI Registered Testing Pool_ or the _UCI Testing Pool_ shall be considered to be _International-Level Riders_ for the purposes of these AntiDoping Rules, and, therefore, the specific provisions in these Anti-Doping Rules applicable to _International-Level Riders_ (e.g., _Testing_, _TUEs_, whereabouts, and _Results Management_ ) shall apply to such _Rider_ s. 
 
 For purposes of Articles 7, 8 & 13, it shall be sufficient for a _Rider_ to be regarded as _InternationalLevel Rider_ that he or she is or was included in the _UCI Registered Testing Pool_ or in the _UCI Testing Pool_ either at the time of the _Sample_ collection, or at the time an investigation or a review under Article 7 is initiated against him or her. 
 
-## **E. Documents Adopted by the** _**UCI**_ **in Connection with these Anti-Doping Rules** 
+#### **E. Documents Adopted by the** **_UCI_ in Connection with these Anti-Doping Rules** 
 
 Under the World Anti-Doping Program, _WADA_ may release various types of documents, including: 
 
@@ -122,11 +123,11 @@ Compliance with an _International Standard_ or with the relevant _UCI_ Regulatio
 
 All documents binding upon _Riders_ and other _Persons_ subject to these Anti-Doping Rules are made available on the _UCI_ Website, in their version effective and as amended from time to time. 
 
-## **DEFINITION OF DOPING** 
+#### **DEFINITION OF DOPING** 
 
 Doping is defined as the occurrence of one or more of the anti-doping rule violations set forth in Article 2.1 through Article 2.11 of these Anti-Doping Rules. 
 
-## **ANTI-DOPING RULE VIOLATIONS** 
+#### **ANTI-DOPING RULE VIOLATIONS** 
 
 The purpose of Article 2 is to specify the circumstances and conduct which constitute anti-doping rule violations. Hearings in doping cases will proceed based on the assertion that one or more of these specific rules have been violated. 
 
@@ -134,21 +135,21 @@ _Riders_ or other _Persons_ shall be responsible for knowing what constitutes an
 
 The following constitute anti-doping rule violations: 
 
-## **Presence of a** _**Prohibited Substance**_ **or its** _**Metabolites**_ **or** _**Markers**_ **in a** _**Rider’s Sample**_ 
+#### **Presence of a** **_Prohibited Substance_ or its** **_Metabolites_ or** **_Markers_ in a** **_Rider’s Sample_** 
 
 - It is the _Riders’_ personal duty to ensure that no _Prohibited Substance_ enters their bodies. _Riders_ are responsible for any _Prohibited Substance_ or its _Metabolites_ or _Markers_ found to be present in their _Samples_. Accordingly, it is not necessary that intent, _Fault_, _Negligence_ or knowing _Use_ on the _Rider’s_ part be demonstrated in order to establish an anti-doping rule violation under Article 2.1. 
 
-_[Comment to Article 2.1.1: An anti-doping rule violation is committed under this Article without regard to a Rider’s Fault. This rule has been referred to in various CAS decisions as “Strict Liability”. A Rider’s Fault is taken into consideration in determining the Consequences of this anti-doping rule violation under Article 10. This principle has consistently been upheld by CAS.]_ 
+- _[Comment to Article 2.1.1: An anti-doping rule violation is committed under this Article without regard to a Rider’s Fault. This rule has been referred to in various CAS decisions as “Strict Liability”. A Rider’s Fault is taken into consideration in determining the Consequences of this anti-doping rule violation under Article 10. This principle has consistently been upheld by CAS.]_ 
 
 - Sufficient proof of an anti-doping rule violation under Article 2.1 is established by any of the following: presence of a _Prohibited Substance_ or its _Metabolites_ or _Markers_ in the _Rider_ ’s A _Sample_ where the _Rider_ waives analysis of the B _Sample_ and the B _Sample_ is not analyzed; or, where the _Rider_ ’s B _Sample_ is analyzed and the analysis of the _Rider_ ’s B _Sample_ confirms the presence of the _Prohibited Substance_ or its _Metabolites_ or _Markers_ found in the _Rider_ ’s A _Sample_; or where the _Rider_ ’s A or B _Sample_ is split into two (2) parts and the analysis of the confirmation part of the split _Sample_ confirms the presence of the _Prohibited Substance_ or its _Metabolites_ or _Markers_ found in the first part of the split _Sample_ or the _Rider_ waives analysis of the confirmation part of the split _Sample_. 
 
-_[Comment to Article 2.1.2: The Anti-Doping Organization with Results Management responsibility may, at its discretion, choose to have the B Sample analyzed even if the Rider does not request the analysis of the B Sample.]_ 
+- _[Comment to Article 2.1.2: The Anti-Doping Organization with Results Management responsibility may, at its discretion, choose to have the B Sample analyzed even if the Rider does not request the analysis of the B Sample.]_ 
 
 - Excepting those substances for which a _Decision Limit_ is specifically identified in the _Prohibited List_ or a _Technical Document_, the presence of any reported quantity of a _Prohibited Substance_ or its _Metabolites_ or _Markers_ in a _Rider_ ’s _Sample_ shall constitute an anti-doping rule violation. 
 
 - As an exception to the general rule of Article 2.1, the _Prohibited List_, _International Standards_ or _Technical Documents_ may establish special criteria for reporting or the evaluation of certain _Prohibited Substances_. 
 
-## _**Use**_ **or** _**Attempted Use**_ **by a** _**Rider**_ **of a** _**Prohibited Substance**_ **or a** _**Prohibited Method**_ 
+- **_Use_ or** **_Attempted Use_ by a** **_Rider_ of a** **_Prohibited Substance_ or a** **_Prohibited Method_** 
 
 - It is the _Rider_ s’ personal duty to ensure that no _Prohibited Substance_ enters their bodies and that no _Prohibited Method_ is _Used_. Accordingly, it is not necessary that intent, _Fault_, _Negligence_ or knowing _Use_ on the _Rider_ ’s part be demonstrated in order to establish an anti-doping rule violation for _Use_ of a _Prohibited Substance_ or a _Prohibited Method_. 
 
@@ -162,19 +163,19 @@ _[Comment to Article 2.2.2: Demonstrating the "Attempted Use" of a Prohibited Su
 
 _A Rider’s Use of a Prohibited Substance constitutes an anti-doping rule violation unless such Substance is not prohibited Out-of-Competition and the Rider’s Use takes place Out-of-Competition. (However, the presence of a Prohibited Substance or its Metabolites or Markers in a Sample collected In-Competition is a violation of Article 2.1 regardless of when that Substance might have been administered.)]_ 
 
-## **Evading, Refusing or Failing to Submit to** _**Sample**_ **Collection by a** _**Rider**_ 
+#### **Evading, Refusing or Failing to Submit to** **_Sample_ Collection by a** **_Rider_** 
 
 Evading _Sample_ collection; or refusing or failing to submit to _Sample_ collection without compelling justification after notification by a duly authorized _Person_. 
 
 _[Comment to Article 2.3: For example, it would be an anti-doping rule violation of “evading Sample collection” if it were established that a Rider was deliberately avoiding a Doping Control official to evade notification or Testing. A violation of “failing to submit to Sample collection” may be based on either intentional or negligent conduct of the Rider, while “evading” or “refusing” Sample collection contemplates intentional conduct by the Rider.]_ 
 
-## **Whereabouts Failures by a** _**Rider**_ 
+#### **Whereabouts Failures by a** **_Rider_** 
 
 Any combination of three (3) missed tests and/or filing failures, as defined in the _UCI Results Management_ Regulations, within a twelve (12) month period by a _Rider_ in a _Registered Testing Pool._ 
 
-## _**Tampering**_ **or** _**Attempted Tampering**_ **with any part of** _**Doping Control**_ **by a** _**Rider**_ **or Other** _**Person**_ 
+- **_Tampering_ or** **_Attempted Tampering_ with any part of** **_Doping Control_ by a** **_Rider_ or Other** **_Person_** 
 
-- _**Possession**_ **of a** _**Prohibited Substance**_ **or a** _**Prohibited Method**_ **by a** _**Rider**_ **or** _**Rider Support Person**_ 
+- **_Possession_ of a** **_Prohibited Substance_ or a** **_Prohibited Method_ by a** **_Rider_ or** **_Rider Support Person_** 
 
 - _Possession_ by a _Rider In-Competition_ of any _Prohibited Substance_ or any _Prohibited Method_, or _Possession_ by a _Rider Out-of-Competition_ of any _Prohibited Substance_ or any _Prohibited Method_ which is prohibited _Out-of-Competition_ unless the _Rider_ establishes that the _Possession_ is consistent with a _Therapeutic Use Exemption_ (“ _TUE_ ”) granted in accordance with Article 4.4 or other acceptable justification. 
 
@@ -182,17 +183,17 @@ Any combination of three (3) missed tests and/or filing failures, as defined in 
 
 _[Comment to Articles 2.6.1 and 2.6.2: Acceptable justification would not include, for example, buying or Possessing a Prohibited Substance for purposes of giving it to a friend or relative, except under justifiable medical circumstances where that Person had a physician’s prescription, e.g., buying Insulin for a diabetic child. Acceptable justification may include, for example, (a) a Rider or a Team doctor carrying Prohibited Substances or Prohibited Methods for dealing with acute and emergency situations (e.g., an epinephrine auto-injector), or (b) a Rider Possessing a Prohibited Substance or Prohibited Method for therapeutic reasons shortly prior to applying for and receiving a determination on a TUE.]_ 
 
-- _**Trafficking**_ **or** _**Attempted Trafficking**_ **in any** _**Prohibited Substance**_ **or** _**Prohibited Method**_ **by a** _**Rider**_ **or Other** _**Person**_ 
+- **_Trafficking_ or** **_Attempted Trafficking_ in any** **_Prohibited Substance_ or** **_Prohibited Method_ by a** **_Rider_ or Other** **_Person_** 
 
-- _**Administration**_ **or** _**Attempted Administration**_ **by a** _**Rider**_ **or Other** _**Person**_ **to any** _**Rider InCompetition**_ **of any** _**Prohibited Substance**_ **or** _**Prohibited Method**_ **, or** _**Administration**_ **or** _**Attempted Administration**_ **to any** _**Rider Out-of-Competition**_ **of any** _**Prohibited Substance**_ **or any** _**Prohibited Method**_ **that is Prohibited** _**Out-of-Competition**_ 
+- **_Administration_ or** **_Attempted Administration_ by a** **_Rider_ or Other** **_Person_ to any** **_Rider InCompetition_ of any** **_Prohibited Substance_ or** **_Prohibited Method_, or** **_Administration_ or** **_Attempted Administration_ to any** **_Rider Out-of-Competition_ of any** **_Prohibited Substance_ or any** **_Prohibited Method_ that is Prohibited** **_Out-of-Competition_** 
 
-## **Complicity or** _**Attempted Complicity**_ **by a** _**Rider**_ **or Other** _**Person**_ 
+#### **Complicity or** **_Attempted Complicity_ by a** **_Rider_ or Other** **_Person_** 
 
 Assisting, encouraging, aiding, abetting, conspiring, covering up or any other type of intentional complicity or _Attempted_ complicity involving an anti-doping rule violation, _Attempted_ anti-doping rule violation or violation of Article 10.14.1 by another _Person_. 
 
 _[Comment to Article 2.9: Complicity or Attempted Complicity may include either physical or psychological assistance.]_ 
 
-## **Prohibited Association by a** _**Rider**_ **or Other** _**Person**_ 
+#### **Prohibited Association by a** **_Rider_ or Other** **_Person_** 
 
 - Association by a _Rider_ or other _Person_ subject to the authority of an _Anti-Doping Organization_ in a professional or sport-related capacity with any _Rider Support Person_ who: 
 
@@ -208,13 +209,13 @@ _[Comment to Article 2.9: Complicity or Attempted Complicity may include either 
 
 - _Anti-Doping Organization_ s that are aware of _Rider Support Personnel_ who meet the criteria described in Articles 2.10.1.1, 2.10.1.2, or 2.10.1.3 shall submit that information to _WADA_. 
 
-> _[Comment to Article 2.10: Riders and other Persons must not work with coaches, trainers, physicians or other Rider Support Personnel who are Ineligible on account of an anti-doping rule violation or who have been criminally convicted or professionally disciplined in relation to doping. This also prohibits association with any other Rider who is acting as a coach or Rider Support Person while serving a period of Ineligibility. Some examples of the types of association which are prohibited include: obtaining training, strategy, technique, nutrition or medical advice; obtaining therapy, treatment or prescriptions; providing any bodily_ 
+   - _[Comment to Article 2.10: Riders and other Persons must not work with coaches, trainers, physicians or other Rider Support Personnel who are Ineligible on account of an anti-doping rule violation or who have been criminally convicted or professionally disciplined in relation to doping. This also prohibits association with any other Rider who is acting as a coach or Rider Support Person while serving a period of Ineligibility. Some examples of the types of association which are prohibited include: obtaining training, strategy, technique, nutrition or medical advice; obtaining therapy, treatment or prescriptions; providing any bodily_ 
 
 _products for analysis; or allowing the Rider Support Person to serve as an agent or representative. Prohibited association need not involve any form of compensation._ 
 
 _While Article 2.10 does not require the Anti-Doping Organization to notify the Rider or other Person about the Rider Support Person’s disqualifying status, such notice, if provided, would be important evidence to establish that the Rider or other Person knew about the disqualifying status of the Rider Support Person.]_ 
 
-- **Acts by a** _**Rider**_ **or Other** _**Person**_ **to Discourage or Retaliate Against Reporting to Authorities** 
+- **Acts by a** **_Rider_ or Other** **_Person_ to Discourage or Retaliate Against Reporting to Authorities** 
 
 Where such conduct does not otherwise constitute a violation of Article 2.5: 
 
@@ -228,15 +229,15 @@ _[Comment to Article 2.11.2: This Article is intended to protect Persons who mak
 
 _Retaliation would include, for example, actions that threaten the physical or mental well-being or economic interests of the reporting Persons, their families or associates. Retaliation would not include an Anti-Doping Organization asserting in good faith an anti-doping rule violation against the reporting Person. For purposes of Article 2.11, a report is not made in good faith where the Person making the report knows the report to be false.]_ 
 
-## **PROOF OF DOPING** 
+#### **PROOF OF DOPING** 
 
-## **Burdens and Standards of Proof** 
+#### **Burdens and Standards of Proof** 
 
 The _UCI_ shall have the burden of establishing that an anti-doping rule violation has occurred. The standard of proof shall be whether the _UCI_ has established an anti-doping rule violation to the comfortable satisfaction of the hearing panel bearing in mind the seriousness of the allegation which is made. This standard of proof in all cases is greater than a mere balance of probability but less than proof beyond a reasonable doubt. Where these Anti-Doping Rules place the burden of proof upon the _Rider_ or other _Person_ alleged to have committed an anti-doping rule violation to rebut a presumption or establish specified facts or circumstances, except as provided in Articles 3.2.2 and 3.2.3, the standard of proof shall be by a balance of probability. 
 
 _[Comment to Article 3.1: This standard of proof required to be met by the UCI is comparable to the standard which is applied in most countries to cases involving professional misconduct.]_ 
 
-## **Methods of Establishing Facts and Presumptions** 
+#### **Methods of Establishing Facts and Presumptions** 
 
 Facts related to anti-doping rule violations may be established by any reliable means, including admissions. 
 
@@ -246,7 +247,7 @@ The following rules of proof shall be applicable in doping cases:
 
 - Analytical methods or _Decision Limits_ approved by _WADA_ after consultation within the relevant scientific community or which have been the subject of peer review are presumed to be scientifically valid. Any _Rider_ or other _Person_ seeking to challenge whether the conditions for such presumption have been met or to rebut this presumption of scientific validity shall, as a condition precedent to any such challenge, first notify _WADA_ of the challenge and the basis of the challenge. The initial hearing body, appellate body or _CAS_, on its own initiative, may also inform _WADA_ of any such challenge. Within ten (10) days of _WADA_ ’s receipt of such notice and the case file related to such challenge, _WADA_ shall also have the right to intervene as a party, appear as amicus curiae or otherwise provide evidence in such proceeding. In cases before _CAS_, at _WADA_ ’s request, the _CAS_ panel shall appoint an appropriate scientific expert to assist the panel in its evaluation of the challenge. 
 
-_[Comment to Article 3.2.1: For certain Prohibited Substances, WADA may instruct WADA-accredited laboratories not to report Samples as an Adverse Analytical Finding if the estimated concentration of the Prohibited Substance or its Metabolites or Markers is below a Minimum Reporting Level. WADA’s decision in determining that Minimum Reporting Level or in determining which Prohibited Substances should be subject to Minimum Reporting Levels shall not be subject to challenge. Further, the laboratory’s estimated concentration of such Prohibited Substance in a Sample may only be an estimate. In no event shall the possibility that the exact concentration of the Prohibited Substance in the Sample may be below the Minimum Reporting Level constitute a defense to an anti-doping rule violation based on the presence of that Prohibited Substance in the Sample.]_ 
+- _[Comment to Article 3.2.1: For certain Prohibited Substances, WADA may instruct WADA-accredited laboratories not to report Samples as an Adverse Analytical Finding if the estimated concentration of the Prohibited Substance or its Metabolites or Markers is below a Minimum Reporting Level. WADA’s decision in determining that Minimum Reporting Level or in determining which Prohibited Substances should be subject to Minimum Reporting Levels shall not be subject to challenge. Further, the laboratory’s estimated concentration of such Prohibited Substance in a Sample may only be an estimate. In no event shall the possibility that the exact concentration of the Prohibited Substance in the Sample may be below the Minimum Reporting Level constitute a defense to an anti-doping rule violation based on the presence of that Prohibited Substance in the Sample.]_ 
 
 - _WADA_ -accredited laboratories, and other laboratories approved by _WADA_, are presumed to have conducted _Sample_ analysis and custodial procedures in accordance with the _International Standard_ for Laboratories. The _Rider_ or other _Person_ may rebut this presumption by establishing that a departure from the _International Standard_ for Laboratories occurred which could reasonably have caused the _Adverse Analytical Finding_. 
 
@@ -274,11 +275,11 @@ _are not relevant on the issue of whether the Rider committed an anti-doping rul
 
 - The hearing panel in a hearing on an anti-doping rule violation may draw an inference adverse to the _Rider_ or other _Person_ who is asserted to have committed an anti-doping rule violation based on the _Rider_ ’s or other _Person_ ’s refusal, after a request made in a reasonable time in advance of the hearing, to appear at the hearing (either in person or telephonically as directed by the hearing panel) and to answer questions from the hearing panel or the _UCI_. 
 
-## _**PROHIBITED LIST**_ **AND** _**THERAPEUTIC USE EXEMPTIONS**_ 
+#### **_PROHIBITED LIST_ AND** **_THERAPEUTIC USE EXEMPTIONS_** 
 
-## **Incorporation of the** _**Prohibited List**_ 
+#### **Incorporation of the** **_Prohibited List_** 
 
-These Anti-Doping Rules incorporate the _Prohibited List_, which is published and revised by _WADA_ as described in Article 4.1 of the _Code_. 
+- These Anti-Doping Rules incorporate the _Prohibited List_, which is published and revised by _WADA_ as described in Article 4.1 of the _Code_. 
 
 Unless provided otherwise in the _Prohibited List_ or a revision, the _Prohibited List_ and revisions shall go into effect under these Anti-Doping Rules three (3) months after publication by _WADA_, without requiring any further action by the _UCI_ or its _National Federations._ All _Riders_ and other _Persons_ shall be bound by the _Prohibited List_, and any revisions thereto, from the date they go into effect, without further formality. It is the responsibility of all _Riders_ and other _Persons_ to familiarize themselves with the most up-to-date version of the _Prohibited List_ and all revisions thereto. 
 
@@ -286,15 +287,15 @@ The _UCI_ shall provide its _National Federations_ with the most recent version 
 
 _[Comment to Article 4.1: The current Prohibited List is available on WADA's website. The Prohibited List will be revised and published on an expedited basis whenever the need arises. However, for the sake of predictability, a new Prohibited List will be published every year whether or not changes have been made.]_ 
 
-## _**Prohibited Substances**_ **and** _**Prohibited Methods**_ **Identified on the** _**Prohibited List**_ 
+#### **_Prohibited Substances_ and** **_Prohibited Methods_ Identified on the** **_Prohibited List_** 
 
-## _Prohibited Substances_ and _Prohibited Methods_ 
+#### _Prohibited Substances_ and _Prohibited Methods_ 
 
 The _Prohibited List_ shall identify those _Prohibited Substances_ and _Prohibited Methods_ which are prohibited as doping at all times (both _In-Competition_ and _Out-of-Competition_ ) because of their potential to enhance performance in future _Competitions_ or their masking potential, and those substances and methods which are prohibited _In-Competition_ only. The _Prohibited List_ may be expanded by _WADA_ for a particular sport. _Prohibited Substance_ s and _Prohibited Methods_ may be included in the _Prohibited List_ by general category (e.g., anabolic agents) or by specific reference to a particular Substance or Method. 
 
 _[Comment to Article 4.2.1: Out-of-Competition Use of a Substance which is only prohibited In-Competition is not an anti-doping rule violation unless an Adverse Analytical Finding for the Substance or its Metabolites or Markers is reported for a Sample collected In-Competition.]_ 
 
-## _Specified Substances_ or _Specified Methods_ 
+#### _Specified Substances_ or _Specified Methods_ 
 
 For purposes of the application of Article 10, all _Prohibited Substances_ shall be _Specified Substances_ except as identified on the _Prohibited List_. No _Prohibited Method_ shall be a 
 
@@ -302,33 +303,33 @@ _Specified Method_ unless it is specifically identified as a _Specified Method_ 
 
 _[Comment to Article 4.2.2: The Specified Substances and Methods identified in Article 4.2.2 should not in any way be considered less important or less dangerous than other doping Substances or Methods. Rather, they are simply Substances and Methods which are more likely to have been consumed or used by a Rider for a purpose other than the enhancement of sport performance.]_ 
 
-## _Substances of Abuse_ 
+#### _Substances of Abuse_ 
 
 For purposes of applying Article 10, _Substances of Abuse_ shall include those _Prohibited Substances_ which are specifically identified as _Substances of Abuse_ on the _Prohibited List_ because they are frequently abused in society outside of the context of sport. 
 
-## _**WADA’s**_ **Determination of the** _**Prohibited List**_ 
+#### **_WADA’s_ Determination of the** **_Prohibited List_** 
 
 _WADA’s_ determination of the _Prohibited Substances_ and _Prohibited Methods_ that will be included on the _Prohibited List_, the classification of substances into categories on the _Prohibited List_, the classification of a substance as prohibited at all times or _In-Competition_ only, the classification of a substance or method as a _Specified Substance_, _Specified Method_ or _Substance of Abuse_ is final and shall not be subject to any challenge by a _Rider_ or other _Person_ including, but not limited to, any challenge based on an argument that the substance or method was not a masking agent or did not have the potential to enhance performance, represent a health risk or violate the spirit of sport. 
 
-## _**Therapeutic Use Exemptions**_ **(“** _**TUEs”)**_ 
+#### **_Therapeutic Use Exemptions_ (“** **_TUEs”)_** 
 
 - The presence of a _Prohibited Substance_ or its _Metabolites_ or _Markers_, and/or the _Use_ or _Attempted Use, Possession_ or _Administration_ or _Attempted Administration_ of a _Prohibited Substance_ or _Prohibited Method_, shall not be considered an anti-doping rule violation if it is consistent with the provisions of a _TUE_ granted in accordance with the _UCI TUE_ Regulations. 
 
-## _TUE_ Application 
+- _TUE_ Application 
 
-## _Riders_ who are not _International-Level Riders_ 
+- _Riders_ who are not _International-Level Riders_ 
 
-- a) _Riders_ who are not _International-Level Riders_ shall apply to their _National Anti-Doping Organization_ for a _TUE,_ unless the need for a _TUE_ arises in connection with the _Rider_ ’s participation in an _International Event_ and during the _Event Period_ in which case the _Rider_ must apply directly to the _UCI_. 
+   - a) _Riders_ who are not _International-Level Riders_ shall apply to their _National Anti-Doping Organization_ for a _TUE,_ unless the need for a _TUE_ arises in connection with the _Rider_ ’s participation in an _International Event_ and during the _Event Period_ in which case the _Rider_ must apply directly to the _UCI_. 
 
 If the _National Anti-Doping Organization_ denies the application, the _Rider_ may appeal exclusively to the appellate body described in Article 13.2.2; if the _UCI_ denies the _Rider’s_ application, the _Rider_ may appeal in accordance with Article 4.4.8. 
 
 - b) _Riders_ who are not _International-Level Riders,_ who wish to participate in an _International Event_ must, prior to such participation, obtain recognition from the _UCI_ of a _TUE_ already granted by their _National Anti-Doping Organization_ in accordance with Article 4.4.4 and the _UCI TUE_ Regulations. 
 
-## _International-Level Riders_ 
+- _International-Level Riders_ 
 
 _Riders_ who are _International-Level Riders_ must apply to the _UCI_ for a _TUE_ as soon as the need arises. 
 
-## _Major Event Organization_ 
+#### _Major Event Organization_ 
 
 A _Major Event Organization_ may require _Riders_ to apply to it for a _TUE_ if they need to _Use_ a _Prohibited Substance_ or a _Prohibited Method_ in connection with the _Event_. _Riders_ shall refer to the applicable rules of 
 
@@ -348,7 +349,7 @@ _[Comments to Article 4.4.3: A Rider should not assume that his/her application 
 
 _If the UCI refuses to recognize a TUE granted by a National Anti-Doping Organization only because medical records or other information are missing that are needed to demonstrate satisfaction with the criteria in the UCI TUE Regulations, the matter should not be referred to WADA for review. Instead, the file should be completed and re-submitted to the UCI.]_ 
 
-## _TUE_ Recognition 
+#### _TUE_ Recognition 
 
 - The _UCI_ may, in accordance with the _UCI TUE_ Regulations, publish notice on its _website_ that it may automatically recognize _TUE_ decisions made pursuant to Article 4.4 (or certain categories of such decisions) rendered by specified _Anti-Doping Organizations_. 
 
@@ -362,21 +363,23 @@ If the matter is referred to _WADA_ for review, the _TUE_ granted by the _Nation
 
 If the matter is not referred to _WADA_ for review within the twenty-one (21) day deadline, the _Rider_ ’s _National Anti-Doping Organization_ must determine whether the original _TUE_ granted by that _National AntiDoping Organization_ should nevertheless remain valid for nationallevel _Competition_ and _Out-of-Competition Testing_ (provided that the _Rider_ ceases to be an _International-Level Rider_ and does not participate in international-level _Competition_ ). Pending the _National Anti-Doping Organization’s_ decision, the _TUE_ remains valid for national-level _Competition_ and _Out-of-Competition Testing_ (but is not valid for international-level _Competition_ ). 
 
-If the _UCI_ chooses to test a _Rider_ who is not an _International-Level Rider_, the _UCI_ must recognize a _TUE_ granted to that _Rider_ by his/her _National Anti-Doping Organization_ unless the _Rider_ is required to apply for recognition of the _TUE_ pursuant to Article 4.4.2.1. 
+   - If the _UCI_ chooses to test a _Rider_ who is not an _International-Level Rider_, the _UCI_ must recognize a _TUE_ granted to that _Rider_ by his/her _National Anti-Doping Organization_ unless the _Rider_ is required to apply for recognition of the _TUE_ pursuant to Article 4.4.2.1. 
 
-## _TUE_ Application Process 
+- _TUE_ Application Process 
 
-- If the _Rider_ does not already have a _TUE_ granted by his or her _National Anti-Doping Organization_ for the substance or method in question, the _Rider_ must apply directly to the _UCI_ for a _TUE_ as soon as the need arises and in accordance with the _UCI TUE_ Regulations. If the _UCI_ denies the _Rider_ ’s application, it must notify the _Rider_ promptly, with reasons. 
+- If the _Rider_ does not already have a _TUE_ granted by his or her _National Anti-Doping Organization_ for the substance or method in question, the _Rider_ must apply directly to the _UCI_ for a _TUE_ as soon as the need arises and in accordance with the _UCI TUE_ Regulations. 
+
+- If the _UCI_ denies the _Rider_ ’s application, it must notify the _Rider_ promptly, with reasons. 
 
 - If the _UCI_ grants the _Rider_ ’s application, it must notify not only the _Rider_ but also his or her _National Anti-Doping Organization_. If the _National Anti-Doping Organization_ considers that the _TUE_ granted by the _UCI_ does not meet the criteria set out in the _UCI TUE_ Regulations, it has twenty-one (21) days from such notification to refer the matter to _WADA_ for review in accordance with Article 4.4.8. 
 
-- If the _National Anti-Doping Organization_ refers the matter to _WADA_ for review, the _TUE_ granted by the _UCI_ remains valid for internationallevel _Competition_ and _Out-of-Competition Testing_ (but is not valid for national-level _Competition_ ) pending _WADA_ ’s decision. If the _National Anti-Doping Organization_ does not refer the matter to _WADA_ for review, the _TUE_ granted by the _UCI_ becomes valid for national-level _Competition_ as well when the twenty-one (21) day review deadline expires. 
+   - If the _National Anti-Doping Organization_ refers the matter to _WADA_ for review, the _TUE_ granted by the _UCI_ remains valid for internationallevel _Competition_ and _Out-of-Competition Testing_ (but is not valid for national-level _Competition_ ) pending _WADA_ ’s decision. If the _National Anti-Doping Organization_ does not refer the matter to _WADA_ for review, the _TUE_ granted by the _UCI_ becomes valid for national-level _Competition_ as well when the twenty-one (21) day review deadline expires. 
 
-Retroactive _TUE_ Applications 
+- Retroactive _TUE_ Applications 
 
 If the _UCI_ chooses to collect a _Sample_ from a _Rider_ who is neither an _International-Level Rider_ nor a _National-Level Rider_, and that _Rider_ is Using a _Prohibited Substance_ or _Prohibited Method_ for therapeutic reasons, the _UCI_ must permit that _Rider_ to apply for a retroactive _TUE_. 
 
-Expiration, Withdrawal or Reversal of a _TUE_ 
+- Expiration, Withdrawal or Reversal of a _TUE_ 
 
 A _TUE_ granted pursuant to these Anti-Doping Rules: 
 
@@ -388,7 +391,7 @@ A _TUE_ granted pursuant to these Anti-Doping Rules:
 
 (d) may be reversed on review by _WADA_ or on appeal. 
 
-## Reviews and Appeals of _TUE_ Decisions 
+- Reviews and Appeals of _TUE_ Decisions 
 
 - _WADA_ must review the _UCI_ ’s decision not to recognize a _TUE_ granted by the _National Anti-Doping Organization_ that is referred to _WADA_ by the _Rider_ or the _Rider_ ’s _National Anti-Doping Organization_. In addition, _WADA_ must review the _UCI_ ’s decision to grant a _TUE_ that is referred to _WADA_ by the _Rider_ ’s _National Anti-Doping Organization_. _WADA_ may review any other _TUE_ decisions at any time, whether upon request by those affected or on its own initiative. If the _TUE_ decision being reviewed meets the criteria set out in the _UCI TUE_ Regulations, _WADA_ will not interfere with it. If the _TUE_ decision does not meet those criteria, _WADA_ will reverse it. 
 
@@ -398,7 +401,7 @@ _[Comment to Article 4.4.8: WADA shall be entitled to charge a fee to cover the 
 
 _[Comment to Article 4.4.8.2: In such cases, the decision being appealed is the UCI’s TUE decision, not WADA’s decision not to review the TUE decision or (having reviewed it) not to reverse the TUE decision. However, the time to appeal the TUE decision does not begin to run until the date that WADA communicates its decision. In any event, whether the decision has been reviewed by WADA or not, WADA shall be given notice of the appeal so that it may participate if it sees fit.]_ 
 
-## **Monitoring Program** 
+#### **Monitoring Program** 
 
 - A decision by _WADA_ to reverse a _TUE_ decision may be appealed by the _Rider_, the _National Anti-Doping Organization_ and/or the _UCI_, exclusively to _CAS_. 
 
@@ -410,9 +413,9 @@ _WADA_ shall publish the substances that will be monitored. Laboratories will re
 
 The reported _Use_ or detected presence of a monitored substance shall not constitute an antidoping rule violation. 
 
-## _**TESTING**_ **AND INVESTIGATIONS** 
+#### **_TESTING_ AND INVESTIGATIONS** 
 
-## **Purpose of** _**Testing**_ **and Investigations** 
+#### **Purpose of** **_Testing_ and Investigations** 
 
 - _Testing_ and investigations may be undertaken for any anti-doping purpose. 
 
@@ -420,7 +423,7 @@ The reported _Use_ or detected presence of a monitored substance shall not const
 
 _[Comment to Article 5.1: Where Testing is conducted for anti-doping purposes, the analytical results and data may be used for other legitimate purposes under the Anti-Doping Organization’s rules. See, e.g., Comment to Article 23.2.2 of the Code.]_ 
 
-## **Authority to Test** 
+#### **Authority to Test** 
 
 Any _Rider_ may be required to provide a _Sample_ at any time and at any place by any _Anti-Doping Organization_ with _Testing_ authority over him or her. 
 
@@ -428,19 +431,19 @@ Any _Rider_ may be required to provide a _Sample_ at any time and at any place b
 
 - The _UCI_ may require any _Rider_ over whom it has _Testing_ authority, who has not retired, including _Riders_ serving a period of _Ineligibility_, to provide a _Sample_ at any time and at any place. 
 
-_[Comment to Article 5.2.2: The UCI may obtain additional authority to conduct Testing by means of bilateral or multilateral agreements with other Signatories. Unless the Rider has identified a sixty (60) minute Testing window between the hours of 11:00 p.m. and 6:00 a.m., or has otherwise consented to Testing during that period, the UCI will not test a Rider during that period unless it has a serious and specific suspicion that the Rider may be engaged in doping. A challenge to whether the UCI had sufficient suspicion for Testing during this time period shall not be a defense to an anti-doping rule violation based on such test or attempted test.]_ 
+- _[Comment to Article 5.2.2: The UCI may obtain additional authority to conduct Testing by means of bilateral or multilateral agreements with other Signatories. Unless the Rider has identified a sixty (60) minute Testing window between the hours of 11:00 p.m. and 6:00 a.m., or has otherwise consented to Testing during that period, the UCI will not test a Rider during that period unless it has a serious and specific suspicion that the Rider may be engaged in doping. A challenge to whether the UCI had sufficient suspicion for Testing during this time period shall not be a defense to an anti-doping rule violation based on such test or attempted test.]_ 
 
 - _WADA_ shall have _In-Competition_ and _Out-of-Competition Testing_ authority as set out in Article 20.7.10 of the _Code_. 
 
 - If the _UCI_ delegates or contracts any part of _Testing_ to a _National Anti-Doping Organization_ directly or through a _National Federation_, that _National Anti-Doping Organization_ may collect additional _Samples_ or direct the laboratory to perform additional types of analysis at the _National Anti-Doping Organization_ ’s expense. If additional _Samples_ are collected or additional types of analysis are performed, the _UCI_ shall be notified. The responsibility for _Results Management_ in either case shall be as set forth in Article 7.1. 
 
-## _**Event Testing**_ 
+#### **_Event Testing_** 
 
 - Except as otherwise provided below, only a single organization shall have authority to conduct _Testing_ at _Event Venues_ during an _Event Period_. 
 
 - At _UCI International Events_, the _UCI_ shall have authority to conduct _Testing_ and the collection of _Samples_ shall be initiated and directed by the _UCI_. 
 
-Any _Testing_ during the _Event Period_ outside the _Event Venues_ shall be coordinated with the _UCI_. 
+- Any _Testing_ during the _Event Period_ outside the _Event Venues_ shall be coordinated with the _UCI_. 
 
 - If an _Anti-Doping Organization_, which would otherwise have _Testing_ authority, desires to conduct _Testing_ of _Rider_ s at the _Event Venues_ during the _Event Period_, the _Anti-Doping Organization_ shall first confer with the _UCI_ to obtain permission to conduct and coordinate such _Testing_. 
 
@@ -450,11 +453,11 @@ _WADA_ shall not grant approval for such _Testing_ before consulting with and in
 
 Unless otherwise provided in the authorization to conduct _Testing_, such tests shall be considered _Out-of-Competition_ tests. _Results Management_ for any such test shall be the responsibility of the _Anti-Doping Organization_ initiating the test unless provided otherwise in the authorization to conduct _Testing_. 
 
-_[Comment to Article 5.3.3: Before giving approval to a National Anti-Doping Organization to initiate and conduct Testing at a UCI International Event, WADA shall consult with the UCI. Before giving approval to the UCI to initiate and conduct Testing at a National Event, WADA shall consult with the National AntiDoping Organization of the country where the Event takes place. The Anti-Doping Organization “initiating and directing Testing” may, if it chooses, enter into agreements with a Delegated Third Party to which it delegates responsibility for Sample collection or other aspects of the Doping Control process.]_ 
+- _[Comment to Article 5.3.3: Before giving approval to a National Anti-Doping Organization to initiate and conduct Testing at a UCI International Event, WADA shall consult with the UCI. Before giving approval to the UCI to initiate and conduct Testing at a National Event, WADA shall consult with the National AntiDoping Organization of the country where the Event takes place. The Anti-Doping Organization “initiating and directing Testing” may, if it chooses, enter into agreements with a Delegated Third Party to which it delegates responsibility for Sample collection or other aspects of the Doping Control process.]_ 
 
 - At _National Events_, the _National Anti-Doping Organization_ of that country shall have authority to conduct _Testing_. Notwithstanding the foregoing, the _UCI_ may elect to conduct _Testing_ during a _National Event_ on _Rider_ s under its _Testing_ authority participating in such _Event_, including at the _Event Venues_, with the authorization of the _Anti-Doping Organization_ having _Testing_ responsibility for the _Event_. 
 
-## _**Testing**_ **Requirements** 
+#### **_Testing_ Requirements** 
 
 - The _UCI_ shall conduct test distribution planning and _Testing_ as required by the _UCI Testing_ & Investigations Regulations. 
 
@@ -464,25 +467,25 @@ _[Comment to Article 5.3.3: Before giving approval to a National Anti-Doping Org
 
 They may be amended by the _UCI_ from time to time (including upon amendment of the corresponding _International Standard_ or _Technical Document_ by _WADA_ ) and are available in their current version on the _UCI Website_. 
 
-## _**Rider**_ **Whereabouts Information** 
+#### **_Rider_ Whereabouts Information** 
 
 The _UCI_ has adopted a ‘pyramid’ or ‘tiered approach’, placing _Riders_ into different whereabouts pools, referred to as the _Registered Testing Pool_, _Testing Poo_ l and other pool(s), depending upon how much whereabouts information it needs to conduct the amount of _Testing_ allocated to those _Riders_. 
 
 In accordance with the foregoing, four different tiers are established: 
 
-Tier 1: _Riders_ included in the _UCI Registered Testing Pool_ (RTP) and therefore required to provide full whereabouts information; 
+- Tier 1: _Riders_ included in the _UCI Registered Testing Pool_ (RTP) and therefore required to provide full whereabouts information; 
 
 Tier 2: _Riders_ included in the _UCI Testing Pool_ (TP) and therefore required to provide limited whereabouts information; 
 
 Tier 3: _Riders_ included in the _UCI General Pool_ (GP) and whose whereabouts information is therefore limited to that collected from their _Team_; 
 
-Tier 4: _Riders_ who are not required to provide whereabouts information. 
+- Tier 4: _Riders_ who are not required to provide whereabouts information. 
 
 Whereabouts information provided by a _Rider_ will be accessible through _ADAMS_ to _WADA_ and to other _Anti-Doping Organizations_ having authority to test that _Rider_ as provided in Article 5.2. 
 
 Whereabouts information shall be maintained in strict confidence at all times; it shall be used exclusively for purposes of planning, coordinating or conducting _Doping Control_, providing information relevant to the _Athlete Biological Passport_ or other analytical results, to support an investigation into a potential anti-doping rule violation, or to support proceedings alleging an antidoping rule violation; and shall be destroyed after it is no longer relevant for these purposes in accordance with the _International Standard_ for the Protection of Privacy and Personal Information. 
 
-## _Registered Testing Pool_ 
+#### _Registered Testing Pool_ 
 
 - The _UCI_ shall establish a _Registered Testing Pool_ of those _Rider_ s who are required to provide whereabouts information in the manner specified in the _UCI Testing &_ Investigations Regulations. 
 
@@ -498,7 +501,7 @@ Whereabouts information shall be maintained in strict confidence at all times; i
 
 _[Comment to Article 5.5.1.6: Retirement is effective once the UCI has received the Rider’s written notice of his/her retirement]._ 
 
-## _Testing Pool_ 
+#### _Testing Pool_ 
 
 The _UCI_ may, in accordance with the _UCI Testing_ & Investigations Regulations, collect whereabouts information from _Rider_ s who are not included within the _UCI Registered Testing Pool_. More specifically, the _UCI_ may establish a _Testing Pool_, which includes _Rider_ s who are subject to less stringent whereabouts requirements than _Rider_ s included in the _UCI Registered Testing Pool_. 
 
@@ -510,7 +513,7 @@ The _UCI_ may, in accordance with the _UCI Testing_ & Investigations Regulations
 
 _[Comment to Article 5.5.2.3: Retirement is effective once the UCI has received the Rider’s written notice of his/her retirement]._ 
 
-## _UCI Team_ Whereabouts 
+#### _UCI Team_ Whereabouts 
 
 - _UCI_ WorldTeams, _UCI_ ProTeams and _UCI_ Women’s WorldTeams must submit their provisional annual training camp and _Competition_ schedule before the beginning of the next year, including a provisional list of _Participants_, to the best of their knowledge. This information shall then be updated on a regular basis and provided upon request. 
 
@@ -528,7 +531,7 @@ In addition, when the delays exceed fifteen (15) days, the _Team_ shall, unless 
 
 - A reminder shall be sent to the _Teams_ before the expiration of the relevant deadlines indicating the applicable consequences for noncompliance. 
 
-## **Retired** _**Riders**_ **Returning to** _**Competition**_ 
+#### **Retired** **_Riders_ Returning to** **_Competition_** 
 
 - If a _Rider_ in the _UCI Registered Testing Pool_ retires in accordance with the _UCI Testing_ & Investigations Regulations and then wishes to return to active participation in sport, the _Rider_ shall not compete in _International Events_ until the _Rider_ has made himself or herself available for _Testing_, by giving six (6) months prior written notice to the _UCI_. 
 
@@ -540,7 +543,7 @@ _[Comment to Article 5.6.1: WADA has developed a protocol and exemption applicat
 
 - If a _Rider_ retires from sport while subject to a period of _Ineligibility_, the _Rider_ must notify the _Anti-Doping Organization_ that imposed the period of _Ineligibility_ in writing of such retirement. If the _Rider_ then wishes to return to active competition in sport, the _Rider_ shall not compete in _International Events_ or _National Events_ until the _Rider_ has made himself or herself available for _Testing_ by giving six (6) months prior written notice (or notice equivalent to the period of _Ineligibility_ remaining as of the date the _Rider_ retired, if that period was longer than six (6) months) to the _UCI._ 
 
-## **Investigation and Intelligence Gathering** 
+#### **Investigation and Intelligence Gathering** 
 
 The _UCI_ shall ensure that it has the capability to conduct investigations and gather intelligence as required by the _UCI Testing_ & Investigations Regulations. 
 
@@ -596,15 +599,15 @@ In such a case:
 
 _(text modified on 20.02.2023)_ 
 
-## **Independent Observer Program** 
+#### **Independent Observer Program** 
 
 The _UCI_ and the organizing committees for the _UCI’s Events_, as well as the _National Federations_ and the organizing committees for _National Events,_ shall authorize and facilitate the _Independent Observer Program_ at such _Events_. 
 
-## **ANALYSIS OF** _**SAMPLES**_ 
+#### **ANALYSIS OF** **_SAMPLES_** 
 
 _Samples_ shall be analyzed in accordance with the following principles: 
 
-## **Use of Accredited, Approved Laboratories and Other Laboratories** 
+#### **Use of Accredited, Approved Laboratories and Other Laboratories** 
 
 - For purposes of directly establishing an _Adverse Analytical Finding_ under Article 2.1, _Samples_ shall be analyzed only in _WADA_ -accredited laboratories or laboratories otherwise approved by _WADA_. The choice of the _WADA_ -accredited or _WADA_ -approved laboratory used for the _Sample_ analysis shall be determined exclusively by the _UCI_. 
 
@@ -612,21 +615,21 @@ _Samples_ shall be analyzed in accordance with the following principles:
 
 _[Comment to Article 6.1: Violations of Article 2.1 may be established only by Sample analysis performed by a WADA-accredited laboratory, or another laboratory approved by WADA. Violations of other Articles may be established using analytical results from other laboratories so long as the results are reliable.]_ 
 
-## **Purpose of Analysis of** _**Samples**_ **and Data** 
+#### **Purpose of Analysis of** **_Samples_ and Data** 
 
 _Samples_ and related analytical data or _Doping Control_ information shall be analyzed to detect _Prohibited Substances_ and _Prohibited Methods_ identified on the _Prohibited List_ and other substances as may be directed by _WADA_ pursuant to the monitoring program described in Article 4.5, or to assist the _UCI_ in profiling relevant parameters in a _Rider’s_ urine, blood or other matrix, including for DNA or genomic profiling, or for any other legitimate anti-doping purpose. 
 
 _Samples_ may be collected and stored for future further analysis and/or reanalysis. 
 
-- _[Comment to Article 6.2: For example, relevant Doping Control-related information could be used to direct Target Testing or to support an anti-doping rule violation proceeding under Article 2.2, or both.]_ 
+_[Comment to Article 6.2: For example, relevant Doping Control-related information could be used to direct Target Testing or to support an anti-doping rule violation proceeding under Article 2.2, or both.]_ 
 
-## **Research on** _**Samples**_ **and Data** 
+#### **Research on** **_Samples_ and Data** 
 
 _Samples_, related analytical data and _Doping Control_ information may be used for anti-doping research purposes, although no _Sample_ may be used for research without the _Rider's_ written consent. _Samples_ and related analytical data or _Doping Control_ information used for research purposes shall first be processed in such a manner as to prevent _Samples_ and related analytical data or _Doping Control_ information being traced back to a particular _Rider_. Any research involving _Samples_ and related analytical data or _Doping Control_ information shall adhere to the principles set out in Article 19 of the _Code_. 
 
-- _[Comment to Article 6.3: As is the case in most medical or scientific contexts, use of Samples and related information for quality assurance, quality improvement, method improvement and development or to establish reference populations is not considered research. Samples and related information used for such permitted non-research purposes must also first be processed in such a manner as to prevent them from being traced back to the particular Rider, having due regard to the principles set out in Article 19 of the Code, as well as the requirements of the International Standard for Laboratories and International Standard for the Protection of Privacy and Personal Information.]_ 
+_[Comment to Article 6.3: As is the case in most medical or scientific contexts, use of Samples and related information for quality assurance, quality improvement, method improvement and development or to establish reference populations is not considered research. Samples and related information used for such permitted non-research purposes must also first be processed in such a manner as to prevent them from being traced back to the particular Rider, having due regard to the principles set out in Article 19 of the Code, as well as the requirements of the International Standard for Laboratories and International Standard for the Protection of Privacy and Personal Information.]_ 
 
-## **Standards for** _**Sample**_ **Analysis and Reporting** 
+#### **Standards for** **_Sample_ Analysis and Reporting** 
 
 _WADA_ accredited Laboratories shall analyze _Samples_ and reports results in conformity with the _International Standard_ for Laboratories. 
 
@@ -634,11 +637,11 @@ Laboratories at their own initiative and expense may analyze _Samples_ for _Proh
 
 _[Comment to Article 6.4: The objective of this Article is to extend the principle of “Intelligent Testing” to the Sample analysis menu so as to most effectively and efficiently detect doping. It is recognized that the resources available to fight doping are limited and that increasing the Sample analysis menu may, in some sports and countries, reduce the number of Samples which can be analyzed.]_ 
 
-## **Further Analysis of a** _**Sample**_ **Prior to or During** _**Results Management**_ **or Hearing Process** 
+#### **Further Analysis of a** **_Sample_ Prior to or During** **_Results Management_ or Hearing Process** 
 
 There shall be no limitation on the authority of a laboratory to conduct repeat or additional analysis on a _Sample_ prior to the time the _UCI_ notifies a _Rider_ that the _Sample_ is the basis for an Article 2.1 anti-doping rule violation charge. If after such notification the _UCI_ wishes to conduct additional analysis on that _Sample_, it may do so with the consent of the _Rider_ or approval from a hearing body. 
 
-## **Further Analysis of a** _**Sample**_ **After it has been Reported as Negative or has Otherwise not Resulted in an Anti-Doping Rule Violation Charge** 
+#### **Further Analysis of a** **_Sample_ After it has been Reported as Negative or has Otherwise not Resulted in an Anti-Doping Rule Violation Charge** 
 
 After a laboratory has reported a _Sample_ as negative, or the _Sample_ has not otherwise resulted in an anti-doping rule violation charge, it may be stored and subjected to further analyses for the purpose of Article 6.2 at any time exclusively at the direction of either the _Anti-Doping Organization_ that initiated and directed _Sample_ collection or _WADA_. 
 
@@ -646,25 +649,25 @@ Any other _Anti-Doping Organization_ with authority to test the _Rider_ that wis
 
 Further analysis of _Samples_ shall conform with the requirements of the _International Standard_ for Laboratories. 
 
-## **Split of A or B** _**Sample**_ 
+#### **Split of A or B** **_Sample_** 
 
 Where _WADA_, an _Anti-Doping Organization_ with _Results Management_ authority, and/or a _WADA_ - accredited laboratory (with approval from _WADA_ or the _Anti-Doping Organization_ with _Results Management_ authority) wishes to split an A or B _Sample_ for the purpose of using the first part of the split _Sample_ for an A _Sample_ analysis and the second part of the split _Sample_ for confirmation, then the procedures set forth in the _International Standard_ for Laboratories shall be followed. 
 
-## **Ownership of** _**Samples**_ 
+#### **Ownership of** **_Samples_** 
 
 _Samples_ collected from a _Rider_ under these Anti-Doping Rules are owned by the _UCI_. 
 
 The _UCI_ may transfer ownership of the _Samples_ to another _Anti-Doping Organization_ or receive ownership of _Samples_ from other _Anti-Doping Organizations_, upon request. 
 
-## _**WADA**_ **’s Right to Take Possession of** _**Samples**_ **and Data** 
+#### **_WADA_ ’s Right to Take Possession of** **_Samples_ and Data** 
 
 _WADA_ may, in its sole discretion at any time, with or without prior notice, take physical possession of any _Sample_ and related analytical data or information in the possession of a laboratory or _AntiDoping Organization_. Upon request by _WADA_, the laboratory or _Anti-Doping Organization_ in possession of the _Sample_ or data shall immediately grant access to and enable _WADA_ to take physical possession of the _Sample_ or data. If _WADA_ has not provided prior notice to the laboratory or _Anti-Doping Organization_ before taking possession of a _Sample_ or data, it shall provide such notice to the laboratory and each _Anti-Doping Organization_ whose _Samples_ or data have been taken by _WADA_ within a reasonable time after taking possession. After analysis and any investigation of a seized _Sample_ or data, _WADA_ may direct another _Anti-Doping Organization_ with authority to test the _Rider_ to assume _Results Management_ responsibility for the _Sample_ or data if a potential anti-doping rule violation is discovered. 
 
-> _[Comment to Article 6.9: Resistance or refusal to WADA taking physical possession of Samples or data could constitute Tampering, Complicity or an act of non-compliance as provided in the International Standard for Code Compliance by Signatories, and could also constitute a violation of the International Standard for Laboratories. Where necessary, the laboratory and/or the Anti-Doping Organization shall assist WADA in ensuring that the seized Sample or data are not delayed in exiting the applicable country._ 
+_[Comment to Article 6.9: Resistance or refusal to WADA taking physical possession of Samples or data could constitute Tampering, Complicity or an act of non-compliance as provided in the International Standard for Code Compliance by Signatories, and could also constitute a violation of the International Standard for Laboratories. Where necessary, the laboratory and/or the Anti-Doping Organization shall assist WADA in ensuring that the seized Sample or data are not delayed in exiting the applicable country._ 
 
 _WADA would not, of course, unilaterally take possession of Samples or analytical data without good cause related to a potential anti-doping rule violation, non-compliance by a Signatory or doping activities by another Person. However, the decision as to whether good cause exists is for WADA to make in its discretion and shall not be subject to challenge. In particular, whether there is good cause or not shall not be a defense against an anti-doping rule violation or its Consequences.]_ 
 
-## **Costs of** _**Testing**_ **and Analysis** 
+#### **Costs of** **_Testing_ and Analysis** 
 
 The costs of _In-Competition Testing_ initiated and directed by the _UCI_ shall be borne by the organizer of the _Event_. 
 
@@ -672,13 +675,13 @@ The costs of _Out-of-Competition Testing_ directed by the _UCI_ shall be borne b
 
 The ultimate allocation of _Testing_ and _Sample_ analysis costs shall be as set forth in Article 10.12. 
 
-## _**RESULTS MANAGEMENT**_ **& INVESTIGATIONS** 
+#### **_RESULTS MANAGEMENT_ & INVESTIGATIONS** 
 
-## **Responsibility for Conducting** _**Results Management**_ 
+#### **Responsibility for Conducting** **_Results Management_** 
 
 Except as otherwise provided in Articles 6.6, 6.9 and Article 7.1, _Results Management_ shall be the responsibility of, and shall be governed by, the procedural rules of the _Anti-Doping Organization_ that initiated and directed _Sample_ collection (or, if no _Sample_ collection is involved, the _Anti-Doping Organization_ which first provides notice to a _Rider_ or other _Person_ of a potential anti-doping rule violation and then diligently pursues that anti-doping rule violation). 
 
-## General Responsibility of the _UCI_ 
+#### General Responsibility of the _UCI_ 
 
 The _UCI_ shall have responsibility for _Results Management_ conducted under these AntiDoping Rules as follows, subject to Articles 7.1.2, 7.1.3 and 7.1.4. below: 
 
@@ -688,11 +691,11 @@ _[Comment: violations arising in connection with Testing shall include, without 
 
 - b) For potential violation of these Anti-Doping Rules where no _Testing_ is involved and where the following apply: 
 
-either: 
+   - either: 
 
-- i) for all violations involving _International-Level Riders, Rider Support Personnel_ or other _Persons_ who have an involvement in any capacity in _International Events_ or with _International-Level Riders;_ or: 
+      - i) for all violations involving _International-Level Riders, Rider Support Personnel_ or other _Persons_ who have an involvement in any capacity in _International Events_ or with _International-Level Riders;_ or: 
 
-- ii) for all violations occurring in connection with - or discovered on the occasion of - an _International Event_; 
+      - ii) for all violations occurring in connection with - or discovered on the occasion of - an _International Event_; 
 
 but only 
 
@@ -706,9 +709,9 @@ where the _UCI_ is the _Anti-Doping Organization_ which first provides notice to
 
 _[Comment to Article 7.1.2.2: The Major Event Organization for that Event shall assume Results Management responsibility to at least the limited extent of conducting a hearing to determine whether an anti-doping rule violation was committed and, if so, the applicable Disqualifications under Articles 9 and 10.1, any forfeiture of any medals, points, or prizes from that Event, and any recovery of costs applicable to the anti-doping rule violation.]_ 
 
-- _WADA_ may direct the _UCI_ to conduct _Results Management_ in particular circumstances. If the _UCI_ refuses to conduct _Results Management_ within a reasonable deadline set by _WADA_, such refusal shall be considered an act of non-compliance, and _WADA_ may direct another _Anti-Doping Organization_ with authority over the _Rider_ or other _Person_, that is willing to do so, to take _Results Management_ responsibility in place of the _UCI_ or, if there is no such _Anti-Doping Organization_, any other _Anti-Doping Organization_ that is willing to do so. In such case, the _UCI_ shall reimburse the costs and attorney fees of conducting _Results Management_ to the other _Anti-Doping Organization_ designated by _WADA_, and a failure to reimburse costs and attorney’s fees shall be considered an act of non-compliance. 
+   - _WADA_ may direct the _UCI_ to conduct _Results Management_ in particular circumstances. If the _UCI_ refuses to conduct _Results Management_ within a reasonable deadline set by _WADA_, such refusal shall be considered an act of non-compliance, and _WADA_ may direct another _Anti-Doping Organization_ with authority over the _Rider_ or other _Person_, that is willing to do so, to take _Results Management_ responsibility in place of the _UCI_ or, if there is no such _Anti-Doping Organization_, any other _Anti-Doping Organization_ that is willing to do so. In such case, the _UCI_ shall reimburse the costs and attorney fees of conducting _Results Management_ to the other _Anti-Doping Organization_ designated by _WADA_, and a failure to reimburse costs and attorney’s fees shall be considered an act of non-compliance. 
 
-## Responsibilities in Specific Circumstances 
+- Responsibilities in Specific Circumstances 
 
 - _Results Management_ in relation to a potential whereabouts failure (a filing failure or a missed test) and, where applicable, to a potential violation under Article 2.4 shall be administered by the _UCI_ if the _Rider_ in question files his or her whereabouts information with the _UCI_, as provided in the _UCI Results Management_ Regulations. The _AntiDoping Organization_ that determines a filing failure or a missed test shall submit that information to _WADA_ through _ADAMS_, where it will be made available to other relevant _Anti-Doping Organizations_. 
 
@@ -716,19 +719,19 @@ _[Comment to Article 7.1.2.2: The Major Event Organization for that Event shall 
 
 - Where a _National Anti-Doping Organization_ elects to collect additional _Samples_ pursuant to Article 5.2.4, then it shall be considered the _AntiDoping Organization_ that initiated and directed _Sample_ collection. However, where the _National Anti-Doping Organization_ only directs the laboratory to perform additional types of analysis at the _National Anti-Doping Organization_ ’s expense, then the _UCI_ shall be considered the _Anti-Doping Organization_ that initiated and directed _Sample_ collection. 
 
-- Resolution of Conflict of Responsibilities 
+Resolution of Conflict of Responsibilities 
 
 If a dispute arises between the _UCI_ and another _Anti-Doping Organization_ over which _Anti-Doping Organization_ has _Results Management_ and/or investigation responsibility, _WADA_ shall decide which organization has such responsibility. _WADA_ ’s decision may be appealed to _CAS_ within seven (7) days of notification of the _WADA_ decision by any of the _Anti-Doping Organizations_ involved in the dispute. The appeal shall be dealt with by _CAS_ in an expedited manner and shall be heard before a single arbitrator. Any _Anti-Doping Organization_ seeking to conduct _Results Management_ outside of the authority provided in this Article 7.1 may seek approval to do so from _WADA_. 
 
-## **Review and Notification Regarding Potential Anti-Doping Rule Violations** 
+#### **Review and Notification Regarding Potential Anti-Doping Rule Violations** 
 
 The _UCI_ shall carry out the review and notification of _Adverse Analytical Findings_, _Atypical Findings_, _Athlete Biological Passport_ Findings, potential failures to comply, potential whereabouts failures and any other potential anti-doping rule violation under its _Results Management_ responsibility in accordance with the _UCI Results Management_ Regulations. 
 
-## _**Provisional Suspensions**_ 
+#### **_Provisional Suspensions_** 
 
 The imposition of a mandatory _Provisional Suspension_, the possibility to voluntarily accept a _Provisional Suspension_ and the related consequences and proceedings are provided in the _UCI Results Management_ Regulations _._ 
 
-## _**Results Management**_ **Decisions** 
+#### **_Results Management_ Decisions** 
 
 _Results Management_ decisions or adjudications by the _UCI_ or other _Anti-Doping Organisations_ must not purport to be limited to a particular geographic area or sport and shall address and determine without limitation the following issues: 
 
@@ -740,27 +743,27 @@ _[Comment to Article 7.4: Results Management decisions include Provisional Suspe
 
 _With the exception of Results Management decisions by Major Event Organizations, each decision by an Anti-Doping Organization should address whether an anti-doping rule violation was committed and all Consequences flowing from the violation, including any Disqualifications other than Disqualification under Article 10.1 (which is left to the ruling body for an Event). Pursuant to Article 15, such decision and its imposition of Consequences shall have automatic effect in every sport in every country. For example, for a determination that a Rider committed an anti-doping rule violation based on an Adverse Analytical Finding for a Sample taken In-Competition, the Rider’s results obtained in the Competition would be Disqualified under Article 9 and all other competitive results obtained by the Rider from the date the Sample was collected through the duration of the period of Ineligibility are also Disqualified under Article 10.10; if the Adverse Analytical Finding resulted from Testing at an Event, it would be the Major Event Organization’s responsibility to decide whether the Rider’s other individual results in the Event prior to Sample collection are also Disqualified under Article 10.1.]_ 
 
-## **Notification of** _**Results Management**_ **Decisions** 
+#### **Notification of** **_Results Management_ Decisions** 
 
 The _UCI_ shall notify _Riders_, other _Persons_, relevant _Signatories_ and _WADA_ of _Results Management_ decisions as provided in Article 14 and in the _UCI Results Management_ Regulations. 
 
 The _UCI_ may also inform the _Rider_ ’s or other _Person_ ’s _National Federation_ and/or _Team_. 
 
-## **Retirement from Sport** 
+#### **Retirement from Sport** 
 
 If a _Rider_ or other _Person_ retires while the _UCI_ ’s _Results Management_ process is underway, the _UCI_ retains authority to complete its _Results Management_ process. If a _Rider_ or other _Person_ retires before any _Results Management_ process has begun, and the _UCI_ would have had _Results Management_ authority over the _Rider_ or other _Person_ at the time the _Rider_ or other _Person_ committed an anti-doping rule violation, the _UCI_ retains authority to conduct _Results Management_. 
 
 _[Comment to Article 7.6: Conduct by a Rider or other Person before the Rider or other Person was subject to the authority of any Anti-Doping Organization would not constitute an anti-doping rule violation but could be a legitimate basis for denying the Rider or other Person membership in a sports organization.]_ 
 
-## _**RESULTS MANAGEMENT**_ **: NOTICE OF CHARGE, AGREEMENT, FAILURE TO CHALLENGE AND HEARING PROCESS** 
+#### **_RESULTS MANAGEMENT_: NOTICE OF CHARGE, AGREEMENT, FAILURE TO CHALLENGE AND HEARING PROCESS** 
 
 When, following the _Results Management_ process described in Article 7, the _UCI_ makes an assertion that an anti-doping rule violation was committed, it shall so notify the _Rider_ or other _Person_ concerned and the case shall be referred to the _UCI Anti-Doping Tribunal_, unless i) the _Rider_ or other _Person_ agrees with the _UCI_ on the _Consequences_ of the anti-doping rule violation or ii) the _Rider_ or other _Person_ fails to challenge the _UCI_ ’s assertion that an anti-doping rule violation has occurred within the specific time period provided in the _UCI Results Management_ Regulations or iii) all parties agree that the matter to be heard in a single hearing directly at _CAS_ in accordance with Article 8.4 _._ 
 
-## **Notice of Charge** 
+#### **Notice of Charge** 
 
 If, after receipt of the _Rider_ or other _Person_ ’s explanation or expiry of the deadline to provide such explanation, the _UCI_ is (still) satisfied that the _Rider_ or other _Person_ has committed (an) antidoping rule violation(s), the _UCI_ shall promptly charge the _Rider_ or other _Person_ with the antidoping rule violation(s) he or she is asserted to have breached in accordance with the _UCI Results Management_ Regulations. 
 
-## **Acceptance of** _**Consequences**_ **and Failure to Challenge the Anti-Doping Rule Violation** 
+#### **Acceptance of** **_Consequences_ and Failure to Challenge the Anti-Doping Rule Violation** 
 
 - In the event that the _Rider_ or other _Person_ either (i) admits the anti-doping rule violation and accepts the proposed _Consequences_ or (ii) is deemed to have admitted the violation and accepted the _Consequences_ in accordance with Article 8, the _UCI_ shall promptly notify the relevant parties with a right of appeal. 
 
@@ -772,9 +775,9 @@ _Public Disclosure_ of the agreement shall be conducted in accordance with Artic
 
 - Subject to Article 8.4, in the event that the _Rider_ or other _Person_ requests a hearing, the matter shall be referred to the _UCI Anti-Doping Tribunal_ and be dealt with pursuant to Article 8.3. 
 
-## **Hearing Process** 
+#### **Hearing Process** 
 
-## _UCI Anti-Doping Tribunal_ 
+- _UCI Anti-Doping Tribunal_ 
 
 The _UCI_ shall establish an _UCI Anti-Doping Tribunal_ to hear anti-doping rule violations asserted under these Anti-Doping Rules. The _UCI Anti-Doping Tribunal_ shall be _Operationally Independent_. 
 
@@ -784,7 +787,7 @@ The _UCI Anti-Doping Tribunal_ is financed by the _UCI_ and the _National Federa
 
 _[Comment to Article 8.3.1: The relevant National Federation is the National Federation of the LicenceHolder at the time of the Anti-Doping Rule Violation.]_ 
 
-## Jurisdiction of the _UCI Anti-Doping Tribunal_ 
+Jurisdiction of the _UCI Anti-Doping Tribunal_ 
 
 The _UCI Anti-Doping Tribunal_ shall have jurisdiction over all matters in which 
 
@@ -794,7 +797,7 @@ The _UCI Anti-Doping Tribunal_ shall have jurisdiction over all matters in which
 
 - The _UCI_ decides to assert an anti-doping rule violation against a _Rider_ or other _Person_ subject to these Anti-Doping Rules, based on a failure by another organization to initiate or diligently pursue a hearing process or where the _UCI_ otherwise finds it appropriate for a fair hearing process to be granted. 
 
-Decision by the UCI Anti-Doping Tribunal 
+- Decision by the UCI Anti-Doping Tribunal 
 
 Upon hearing the matter as provided for in its procedural rules, the _UCI Anti-Doping Tribunal_ shall issue a written, reasoned decision in a timely manner, in accordance with the _UCI Results Management_ Regulations. 
 
@@ -806,33 +809,33 @@ If no appeal is brought against the decision, then
 
 - b) if the decision is that no anti-doping rule violation was committed, then the decision shall only be _Publicly Disclosed_ with the consent of the _Rider_ or other _Person_ who is the subject of the decision. The principles contained at Article 14.4.7 shall be applied in cases involving a _Minor, Protected Person_ or _Recreational Athlete._ 
 
-## **Single Hearing Before** _**CAS**_ 
+#### **Single Hearing Before** **_CAS_** 
 
 Anti-doping rule violations asserted under these Anti-Doping Rules may, with the consent of the _Rider_ or other _Person_, the _UCI_ and _WADA_, be heard in a single hearing directly at _CAS_. 
 
-- _[Comment to Article 8.4: In some cases, the combined cost of holding a hearing in the first instance at the international or national level, then rehearing the case de novo before CAS can be very substantial. Where all of the parties identified in this Article are satisfied that their interests will be adequately protected in a single hearing, there is no need for the Rider or Anti-Doping Organizations to incur the extra expense of two hearings. An Anti-Doping Organization may participate in the CAS hearing as an observer.]_ 
+_[Comment to Article 8.4: In some cases, the combined cost of holding a hearing in the first instance at the international or national level, then rehearing the case de novo before CAS can be very substantial. Where all of the parties identified in this Article are satisfied that their interests will be adequately protected in a single hearing, there is no need for the Rider or Anti-Doping Organizations to incur the extra expense of two hearings. An Anti-Doping Organization may participate in the CAS hearing as an observer.]_ 
 
-## _**Event**_ **Hearings** 
+#### **_Event_ Hearings** 
 
 Hearings held in connection with _Events_ may be conducted by an expedited process as permitted by the procedural rules of the _UCI Anti-Doping Tribunal._ 
 
-## **Waiver of Hearing** 
+#### **Waiver of Hearing** 
 
 The right to a hearing may be waived either expressly or by the _Rider_ ’s or other _Person_ ’s failure to challenge an _Anti-Doping Organization’s_ assertion that an anti-doping rule violation has occurred within the specific time period provided in the _UCI Results Management_ Regulations. 
 
-## **Notice of Decision** 
+#### **Notice of Decision** 
 
 The reasoned hearing decision, or in cases where the hearing has been waived, the Acceptance of Consequences, shall be provided by the _UCI_ to the _Ride_ r and to other _Anti-Doping Organizations_ with a right to appeal under Article 13.2.3 as provided in Article 14 and published in accordance with Article 14.4. 
 
-## **AUTOMATIC** _**DISQUALIFICATION**_ **OF INDIVIDUAL RESULTS** 
+#### **AUTOMATIC** **_DISQUALIFICATION_ OF INDIVIDUAL RESULTS** 
 
 An anti-doping rule violation in _Individual Sports_ in connection with an _In-Competition_ test automatically leads to _Disqualification_ of the result obtained in that _Competition_ with all resulting _Consequences_, including forfeiture of any medals, points and prizes. 
 
 - _[Comment to Article 9: Consequences for Teams are as provided in Article 11]_ 
 
-## **SANCTIONS ON INDIVIDUALS** 
+#### **SANCTIONS ON INDIVIDUALS** 
 
-## _**Disqualification**_ **of Results in the** _**Event**_ **during which an Anti-Doping Rule Violation Occurs** 
+#### **_Disqualification_ of Results in the** **_Event_ during which an Anti-Doping Rule Violation Occurs** 
 
 An anti-doping rule violation occurring during or in connection with an _Event_ may, upon the decision of the ruling body of the _Event_, lead to _Disqualification_ of all of the _Rider's_ individual results obtained in that _Event_ with all _Consequences_, including forfeiture of all medals, points and prizes, except as provided in Article 10.1.1. 
 
@@ -844,13 +847,13 @@ _[Comment to Article 10.1: Whereas Article 9 Disqualifies the result in a single
 
 - Notwithstanding the application of Article 10.1, the _Rider_ shall be removed from the final general ranking of the _Event_ in case of _Disqualification_ under Article 9 of a _Competition_ within that _Event_. 
 
-## _**Ineligibility**_ **for Presence,** _**Use**_ **or** _**Attempted Use,**_ **or** _**Possession**_ **of a** _**Prohibited Substance**_ **or** _**Prohibited Method**_ 
+#### **_Ineligibility_ for Presence,** **_Use_ or** **_Attempted Use,_ or** **_Possession_ of a** **_Prohibited Substance_ or** **_Prohibited Method_** 
 
 The period of _Ineligibility_ for a violation of Article 2.1, 2.2 or 2.6 shall be as follows, subject to potential elimination, reduction or suspension pursuant to Article 10.5, 10.6 or 10.7: 
 
 The period of _Ineligibility_, subject to Article 10.2.4, shall be four (4) years where: 
 
-- The anti-doping rule violation does not involve a _Specified Substance_ or a _Specified Method_, unless the _Rider_ or other _Person_ can establish that the anti-doping rule violation was not intentional. 
+The anti-doping rule violation does not involve a _Specified Substance_ or a _Specified Method_, unless the _Rider_ or other _Person_ can establish that the anti-doping rule violation was not intentional. 
 
 _[Comment to Article 10.2.1.1: While it is theoretically possible for a Rider or other Person to establish that the anti-doping rule violation was not intentional without showing how the Prohibited Substance entered one’s system, it is highly unlikely that in a doping case under Article 2.1 a Rider will be successful in proving that the Rider acted unintentionally without establishing the source of the Prohibited Substance.]_ 
 
@@ -862,7 +865,7 @@ _[Comment to Article 10.2.1.1: While it is theoretically possible for a Rider or
 
    - _[Comment to Article 10.2.3: Article 10.2.3 provides a special definition of “intentional” which is to be applied solely for purposes of Article 10.2.]_ 
 
-Notwithstanding any other provision in Article 10.2, where the anti-doping rule violation involves a _Substance of Abuse_: 
+- Notwithstanding any other provision in Article 10.2, where the anti-doping rule violation involves a _Substance of Abuse_: 
 
 - If the _Rider_ can establish that any ingestion or _Use_ occurred _Out-ofCompetition_ and was unrelated to sport performance, then the period of _Ineligibility_ shall be three (3) months _Ineligibility_. 
 
@@ -872,11 +875,11 @@ _[Comment to Article 10.2.4.1: The determinations as to whether the treatment pr
 
 - If the ingestion, _Use_ or _Possession_ occurred _In-Competition_, and the _Rider_ can establish that the context of the ingestion, _Use_ or _Possession_ was unrelated to sport performance, then the ingestion, _Use_ or _Possession_ shall not be considered intentional for purposes of Article 10.2.1 and shall not provide a basis for a finding of _Aggravating Circumstances_ under Article 10.4. 
 
-## _**Ineligibility**_ **for Other Anti-Doping Rule Violations** 
+#### **_Ineligibility_ for Other Anti-Doping Rule Violations** 
 
 The period of _Ineligibility_ for anti-doping rule violations other than as provided in Article 10.2 shall be as follows, unless Articles 10.6 or 10.7 are applicable: 
 
-For violations of Article 2.3 or 2.5, the period of _Ineligibility_ shall be four (4) years except: 
+- For violations of Article 2.3 or 2.5, the period of _Ineligibility_ shall be four (4) years except: 
 
 - (i) in the case of failing to submit to _Sample_ collection, if the _Rider_ can establish that the commission of the anti-doping rule violation was not intentional, the period of _Ineligibility_ shall be two (2) years; 
 
@@ -900,35 +903,35 @@ _[Comment to Article 10.3.3: Those who are involved in doping Riders or covering
 
 - For violations of Article 2.10, the period of _Ineligibility_ shall be two (2) years, subject to reduction down to a minimum of one (1) year, depending on the _Rider_ or other _Person’s_ degree of _Fault_ and other circumstances of the case. 
 
-_[Comment to Article 10.3.5: Where the “other Person” referenced in Article 2.10 is an entity and not an individual, that entity may be disciplined as provided in Article 12.]_ 
+   - _[Comment to Article 10.3.5: Where the “other Person” referenced in Article 2.10 is an entity and not an individual, that entity may be disciplined as provided in Article 12.]_ 
 
 - For violations of Article 2.11, the period of _Ineligibility_ shall be a minimum of two (2) years, up to lifetime _Ineligibility_, depending on the seriousness of the violation by the _Rider_ or other _Person_. 
 
 _[Comment to Article 10.3.6: Conduct that is found to violate both Article 2.5 (Tampering) and Article 2.11 (Acts by a Rider or Other Person to Discourage or Retaliate Against Reporting to Authorities) shall be sanctioned based on the violation that carries the more severe sanction.]_ 
 
-## _**Aggravating Circumstances**_ **which may Increase the Period of** _**Ineligibility**_ 
+#### **_Aggravating Circumstances_ which may Increase the Period of** **_Ineligibility_** 
 
 If the _UCI_ establishes in an individual case involving an anti-doping rule violation other than violations under Article 2.7 ( _Trafficking_ or _Attempted Trafficking_ ), 2.8 ( _Administration_ or _Attempted Administration_ ), 2.9 (Complicity or _Attempted_ Complicity) or 2.11 (Acts by a _Rider_ or Other _Person_ to Discourage or Retaliate Against Reporting) that _Aggravating Circumstances_ are present which justify the imposition of a period of _Ineligibility_ greater than the standard sanction, then the period of _Ineligibility_ otherwise applicable shall be increased by an additional period of _Ineligibility_ of up to two (2) years depending on the seriousness of the violation and the nature of the _Aggravating Circumstances_, unless the _Rider_ or other _Person_ can establish that he or she did not knowingly commit the anti-doping rule violation. 
 
 _[Comment to Article 10.4: Violations under Articles 2.7 (Trafficking or Attempted Trafficking), 2.8 (Administration or Attempted Administration), 2.9 (Complicity or Attempted Complicity) and 2.11 (Acts by a Rider or Other Person to Discourage or Retaliate Against Reporting to Authorities) are not included in the application of Article 10.4 because the sanctions for these violations already build in sufficient discretion up to a lifetime ban to allow consideration of any Aggravating Circumstance.]_ 
 
-## **Elimination of the Period of** _**Ineligibility**_ **where there is** _**No Fault**_ **or** _**Negligence**_ 
+#### **Elimination of the Period of** **_Ineligibility_ where there is** **_No Fault_ or** **_Negligence_** 
 
 If a _Rider_ or other _Person_ establishes in an individual case that he or she bears _No Fault_ or _Negligence_, then the otherwise applicable period of _Ineligibility_ shall be eliminated. 
 
 _[Comment to Article 10.5: This Article and Article 10.6.2 apply only to the imposition of sanctions; they are not applicable to the determination of whether an anti-doping rule violation has occurred. They will only apply in exceptional circumstances, for example, where a Rider could prove that, despite all due care, he or she was sabotaged by a competitor. Conversely, No Fault or Negligence would not apply in the following circumstances: (a) a positive test resulting from a mislabeled or contaminated vitamin or nutritional supplement (Riders are responsible for what they ingest (Article 2.1) and have been warned against the possibility of supplement contamination); (b) the Administration of a Prohibited Substance by the Rider’s personal physician or trainer without disclosure to the Rider (Riders are responsible for their choice of medical personnel and for advising medical personnel that they cannot be given any Prohibited Substance); and (c) sabotage of the Rider’s food or drink by a spouse, coach or other Person within the Rider’s circle of associates (Riders are responsible for what they ingest and for the conduct of those Persons to whom they entrust access to their food and drink). However, depending on the unique facts of a particular case, any of the referenced illustrations could result in a reduced sanction under Article 10.6 based on No Significant Fault or Negligence.]_ 
 
-## **Reduction of the Period of** _**Ineligibility**_ **based on** _**No Significant Fault**_ **or** _**Negligence**_ 
+#### **Reduction of the Period of** **_Ineligibility_ based on** **_No Significant Fault_ or** **_Negligence_** 
 
-- Reduction of Sanctions in Particular Circumstances for Violations of Article 2.1, 2.2 or 2.6. 
+Reduction of Sanctions in Particular Circumstances for Violations of Article 2.1, 2.2 or 2.6. 
 
 All reductions under Article 10.6.1 are mutually exclusive and not cumulative. 
 
-## _Specified Substances_ or _Specified Methods_ 
+#### _Specified Substances_ or _Specified Methods_ 
 
 Where the anti-doping rule violation involves a _Specified Substance_ (other than a _Substance of Abuse_ ) or _Specified Method_, and the _Rider_ or other _Person_ can establish _No Significant Fault_ or _Negligence_, then the period of _Ineligibility_ shall be, at a minimum, a reprimand and no period of _Ineligibility_, and at a maximum, two (2) years of _Ineligibility_, depending on the _Rider’s_ or other _Person’s_ degree of _Fault_. 
 
-## _Contaminated Products_ 
+#### _Contaminated Products_ 
 
 In cases where the _Rider_ or other _Person_ can establish both _No Significant Fault_ or _Negligence_ and that the detected _Prohibited Substance_ (other than a _Substance of Abuse_ ) came from a _Contaminated Product_, then the period of _Ineligibility_ shall be, at a minimum, a reprimand and no period of _Ineligibility_, and at a maximum, two (2) years _Ineligibility_, depending on the _Rider_ or other _Person’s_ degree of _Fault_. 
 
@@ -936,17 +939,17 @@ _[Comment to Article 10.6.1.2: In order to receive the benefit of this Article, 
 
 _This Article should not be extended beyond products that have gone through some process of manufacturing. Where an Adverse Analytical Finding results from environment contamination of a “nonproduct” such as tap water or lake water in circumstances where no reasonable person would expect any risk of an anti-doping rule violation, typically there would be No Fault or Negligence under Article 10.5.]_ 
 
-## _Protected Person_ or _Recreational Rider_ 
+#### _Protected Person_ or _Recreational Rider_ 
 
 Where the anti-doping rule violation not involving a _Substance of Abuse_ is committed by a _Protected Person_ or _Recreational Rider_, and the _Protected Person_ or _Recreational Rider_ can establish _No Significant Fault_ or _Negligence_, then the period of _Ineligibility_ shall be, at a minimum, a reprimand and no period of _Ineligibility_, and at a maximum, two (2) years _Ineligibility_, depending on the _Protected Person_ or _Recreational Rider_ ’s degree of _Fault_. 
 
-## Application of _No Significant Fault_ or _Negligence_ beyond the Application of Article 10.6.1 
+#### Application of _No Significant Fault_ or _Negligence_ beyond the Application of Article 10.6.1 
 
 If a _Rider_ or other _Person_ establishes in an individual case where Article 10.6.1 is not applicable that he or she bears _No Significant Fault_ or _Negligence_, then, subject to further reduction or elimination as provided in Article 10.7, the otherwise applicable period of _Ineligibility_ may be reduced based on the _Rider_ or other _Person’s_ degree of _Fault_, but the reduced period of _Ineligibility_ may not be less than one-half of the period of _Ineligibility_ otherwise applicable. If the otherwise applicable period of _Ineligibility_ is a lifetime, the reduced period under this Article may be no less than eight (8) years. 
 
 _[Comment to Article 10.6.2: Article 10.6.2 may be applied to any anti-doping rule violation except those Articles where intent is an element of the anti-doping rule violation (e.g., Article 2.5, 2.7, 2.8, 2.9 or 2.11) or an element of a particular sanction (e.g., Article 10.2.1) or a range of Ineligibility is already provided in an Article based on the Rider or other Person’s degree of Fault.]_ 
 
-## **Elimination, Reduction, or Suspension of Period of** _**Ineligibility**_ **or other** _**Consequences**_ **for Reasons other than** _**Fault**_ 
+- **Elimination, Reduction, or Suspension of Period of** **_Ineligibility_ or other** **_Consequences_ for Reasons other than** **_Fault_** 
 
 _Substantial Assistance_ in Discovering or Establishing _Code_ Violations 
 
@@ -968,7 +971,7 @@ If so requested by a _Rider_ or other _Person_ who seeks to provide _Substantial
 
 If the _Rider_ or other _Person_ fails to continue to cooperate and to provide the complete and credible _Substantial Assistance_ upon which a suspension of _Consequences_ was based, the _UCI_ shall reinstate the original _Consequences_. If the _UCI_ decides to reinstate suspended _Consequences_ or decides not to reinstate suspended _Consequences_, that decision may be appealed by any _Person_ entitled to appeal under Article 13. 
 
-To further encourage _Riders_ and other _Persons_ to provide _Substantial Assistance_ to _Anti-Doping Organizations_, at the request of the _UCI_ or at the request of the _Rider_ or other _Person_ who has, or has been asserted to have, committed an anti-doping rule violation, or other violation of these Rules, _WADA_ may agree at any stage of the _Results Management_ process, including after an appellate decision under Article 13, to what it considers to be an appropriate suspension of the otherwise-applicable period of _Ineligibility_ and other _Consequences_. In exceptional circumstances, _WADA_ may agree to suspensions of the period of _Ineligibility_ and other _Consequences_ for _Substantial Assistance_ greater than those otherwise provided in this Article, or even no period of _Ineligibility_, no mandatory _Public Disclosure_ and/or no return of prize money or payment of fines or costs. _WADA’s_ approval shall be subject to reinstatement of _Consequences_, as otherwise provided in this Article. Notwithstanding Article 13, _WADA’s_ decisions in the context of this Article 10.7.1.2 may not be appealed. 
+- To further encourage _Riders_ and other _Persons_ to provide _Substantial Assistance_ to _Anti-Doping Organizations_, at the request of the _UCI_ or at the request of the _Rider_ or other _Person_ who has, or has been asserted to have, committed an anti-doping rule violation, or other violation of these Rules, _WADA_ may agree at any stage of the _Results Management_ process, including after an appellate decision under Article 13, to what it considers to be an appropriate suspension of the otherwise-applicable period of _Ineligibility_ and other _Consequences_. In exceptional circumstances, _WADA_ may agree to suspensions of the period of _Ineligibility_ and other _Consequences_ for _Substantial Assistance_ greater than those otherwise provided in this Article, or even no period of _Ineligibility_, no mandatory _Public Disclosure_ and/or no return of prize money or payment of fines or costs. _WADA’s_ approval shall be subject to reinstatement of _Consequences_, as otherwise provided in this Article. Notwithstanding Article 13, _WADA’s_ decisions in the context of this Article 10.7.1.2 may not be appealed. 
 
 - If the _UCI_ suspends any part of an otherwise applicable sanction because of _Substantial Assistance_, then notice providing justification for the decision shall be provided to the other _Anti-Doping Organizations_ with a right to appeal under Article 13.2.3 as provided in Article 14.2. 
 
@@ -976,17 +979,17 @@ In unique circumstances where _WADA_ determines that it would be in the best int
 
 _[Comment to Article 10.7.1: The cooperation of Riders, Rider Support Personnel and other Persons who acknowledge their mistakes and are willing to bring other anti-doping rule violations to light is important to clean sport.]_ 
 
-## Admission of an Anti-Doping Rule Violation in the Absence of Other Evidence 
+#### Admission of an Anti-Doping Rule Violation in the Absence of Other Evidence 
 
 Where a _Rider_ or other _Person_ voluntarily admits the commission of an anti-doping rule violation before having received notice of a _Sample_ collection which could establish an anti-doping rule violation (or, in the case of an anti-doping rule violation other than Article 2.1, before receiving first notice of the admitted violation pursuant to Article 7) and that admission is the only reliable evidence of the violation at the time of admission, then the period of _Ineligibility_ may be reduced, but not below one-half of the period of _Ineligibility_ otherwise applicable. 
 
 _[Comment to Article 10.7.2: This Article is intended to apply when a Rider or other Person comes forward and admits to an anti-doping rule violation in circumstances where no Anti-Doping Organization is aware that an anti-doping rule violation might have been committed. It is not intended to apply to circumstances where the admission occurs after the Rider or other Person believes he or she is about to be caught. The amount by which Ineligibility is reduced should be based on the likelihood that the Rider or other Person would have been caught had he or she not come forward voluntarily.]_ 
 
-## Application of Multiple Grounds for Reduction of a Sanction 
+Application of Multiple Grounds for Reduction of a Sanction 
 
 Where a _Rider_ or other _Person_ establishes entitlement to reduction in sanction under more than one provision of Article 10.5, 10.6 or 10.7, before applying any reduction or suspension under Article 10.7, the otherwise applicable period of _Ineligibility_ shall be determined in accordance with Articles 10.2, 10.3, 10.5, and 10.6. If the _Rider_ or other _Person_ establishes entitlement to a reduction or suspension of the period of _Ineligibility_ under Article 10.7, then the period of _Ineligibility_ may be reduced or suspended, but not below one-fourth of the otherwise applicable period of _Ineligibility_. 
 
-## _**Results Management**_ **Agreements** 
+#### **_Results Management_ Agreements** 
 
 One (1) Year Reduction for Certain Anti-Doping Rule Violations Based on Early Admission and Acceptance of Sanction 
 
@@ -1008,15 +1011,15 @@ If so requested by a _Rider_ or other _Person_ who seeks to enter into a case re
 
 _[Comment to Article 10.8: Any mitigating or aggravating factors set forth in this Article 10 shall be considered in arriving at the Consequences set forth in the case resolution agreement and shall not be applicable beyond the terms of that agreement.]_ 
 
-## **Multiple Violations** 
+#### **Multiple Violations** 
 
 Second or Third Anti-Doping Rule Violation 
 
-- For a _Rider_ or other _Person’s_ second anti-doping rule violation, the period of _Ineligibility_ shall be the greater of: 
+For a _Rider_ or other _Person’s_ second anti-doping rule violation, the period of _Ineligibility_ shall be the greater of: 
 
-   - (a) A six (6) month period of _Ineligibility_; or 
+- (a) A six (6) month period of _Ineligibility_; or 
 
-   - (b) A period of Ineligibility in the range between: 
+- (b) A period of Ineligibility in the range between: 
 
 - (i) the sum of the period of _Ineligibility_ imposed for the first anti-doping rule violation plus the period of _Ineligibility_ otherwise applicable to the second antidoping rule violation treated as if it were a first violation, and 
 
@@ -1026,9 +1029,9 @@ The period of _Ineligibility_ within this range shall be determined based on the
 
 - A third anti-doping rule violation will always result in a lifetime period of _Ineligibility_, except if the third violation fulfills the condition for elimination or reduction of the period of _Ineligibility_ under Article 10.5 or 10.6 or involves a violation of Article 2.4. In these particular cases, the period of _Ineligibility_ shall be from eight (8) years to lifetime _Ineligibility_. 
 
-- The period of _Ineligibility_ established in Articles 10.9.1.1 and 10.9.1.2 may then be further reduced by the application of Article 10.7. 
+The period of _Ineligibility_ established in Articles 10.9.1.1 and 10.9.1.2 may then be further reduced by the application of Article 10.7. 
 
-- An anti-doping rule violation for which a _Rider_ or other _Person_ has established _No Fault_ or _Negligence_ shall not be considered a violation for purposes of this Article 10.9. In addition, an anti-doping rule violation sanctioned under Article 10.2.4.1 shall not be considered a violation for purposes of Article 10.9. 
+An anti-doping rule violation for which a _Rider_ or other _Person_ has established _No Fault_ or _Negligence_ shall not be considered a violation for purposes of this Article 10.9. In addition, an anti-doping rule violation sanctioned under Article 10.2.4.1 shall not be considered a violation for purposes of Article 10.9. 
 
 Additional Rules for Certain Potential Multiple Violations 
 
@@ -1046,27 +1049,27 @@ Multiple Anti-Doping Rule Violations during Ten (10) Year Period
 
 For purposes of Article 10.9, each anti-doping rule violation must take place within the same ten (10) year period in order to be considered multiple violations. 
 
-## _**Disqualification**_ **of Results in** _**Competitions**_ **Subsequent to** _**Sample**_ **Collection or Commission of an Anti-Doping Rule Violation** 
+#### **_Disqualification_ of Results in** **_Competitions_ Subsequent to** **_Sample_ Collection or Commission of an Anti-Doping Rule Violation** 
 
 In addition to the automatic _Disqualification_ of the results in the _Competition_ which produced the positive _Sample_ under Article 9, all other competitive results of the _Rider_ obtained from the date a positive _Sample_ was collected (whether _In-Competition_ or _Out-of-Competition_ ), or other antidoping rule violation occurred, through the commencement of any _Provisional Suspension_ or _Ineligibility_ period, shall, unless fairness requires otherwise, be _Disqualified_ with all of the resulting _Consequences_ including forfeiture of any medals, points and prizes. 
 
 _[Comment to Article 10.10: Nothing in these Anti-Doping Rules precludes clean Riders or other Persons who have been damaged by the actions of a Person who has committed an anti-doping rule violation from pursuing any right which they would otherwise have to seek damages from such Person.]_ 
 
-## **Forfeited Prize Money** 
+#### **Forfeited Prize Money** 
 
 If the _UCI_ recovers prize money forfeited as a result of an anti-doping rule violation, it shall take reasonable measures to allocate and distribute this prize money to the _Riders_ who would have been entitled to it had the forfeiting _Rider_ not competed. 
 
 _[Comment to Article 10.11: This Article is not intended to impose an affirmative duty on the UCI to take any action to collect forfeited prize money. If the UCI elects not to take any action to collect forfeited prize money, it may assign its right to recover such money to the Rider(s) who should have otherwise received the money. “Reasonable measures to allocate and distribute this prize money” could include using collected forfeited prize money as agreed upon by the UCI and its Riders.]_ 
 
-## _**Financial Consequences**_ 
+#### **_Financial Consequences_** 
 
 In addition to the _Consequences_ provided for in Article 10.1-10.10, violation under these Anti-Doping Rules shall be sanctioned with a fine as follows. 
 
-- A fine shall be imposed in case a _Rider_ or other _Person_ exercising a professional activity in cycling is found to have committed an intentional anti-doping rule violation within the meaning of Article 10.2.3. 
+A fine shall be imposed in case a _Rider_ or other _Person_ exercising a professional activity in cycling is found to have committed an intentional anti-doping rule violation within the meaning of Article 10.2.3. 
 
 _[Comments: 1. A member of a Team registered with the UCI shall be considered as exercising a professional activity in cycling. 2: Suspension of part of a period of Ineligibility has no influence on the application of this Article]._ 
 
-The amount of the fine shall be equal to the net annual income from cycling that the _Rider_ or other _Person_ was entitled to for the whole year in which the anti-doping violation occurred. In the event that the anti-doping violation relates to more than one (1) year, the amount of the fine shall be equal to the average of the net annual income from cycling that the _Rider_ or other _Person_ was entitled to during each year covered by the anti-doping rule violation. 
+- The amount of the fine shall be equal to the net annual income from cycling that the _Rider_ or other _Person_ was entitled to for the whole year in which the anti-doping violation occurred. In the event that the anti-doping violation relates to more than one (1) year, the amount of the fine shall be equal to the average of the net annual income from cycling that the _Rider_ or other _Person_ was entitled to during each year covered by the anti-doping rule violation. 
 
 _[Comment: Income from cycling includes the earnings from all the contracts with the Team and the income from image rights, amongst others.]_ 
 
@@ -1074,9 +1077,7 @@ The net income shall be deemed to be 70 (seventy) % of the corresponding gross i
 
 - Bearing in mind the seriousness of the offence, the quantum of the fine may be reduced where the circumstances so justify, including: 
 
-1. Nature of anti-doping rule violation and circumstances giving rise to 
-
-it; 
+1. Nature of anti-doping rule violation and circumstances giving rise to it; 
 
 2. Timing of the commission of the anti-doping rule violation; 
 
@@ -1090,7 +1091,7 @@ it;
 
 In all cases, no fine may exceed CHF 1,500,000. 
 
-- For the purpose of this article, the _UCI_ shall have the right to receive a copy of the full contracts and other related documents from the _Rider_ or other _Person,_ the auditor or relevant _National Federation_. 
+For the purpose of this article, the _UCI_ shall have the right to receive a copy of the full contracts and other related documents from the _Rider_ or other _Person,_ the auditor or relevant _National Federation_. 
 
 _[Comment: No fine may be considered a basis for reducing the period of Ineligibility or other sanction which would otherwise be applicable under these Anti-Doping Rules]._ 
 
@@ -1114,11 +1115,11 @@ If the _Rider_ or other _Person_ admits the anti-doping rule violation in accord
 
 The _National Federation_ of the _Rider_ or other _Person_ shall be jointly and severally liable for its payment to the _UCI_. 
 
-## **Commencement of** _**Ineligibility**_ **Period** 
+#### **Commencement of** **_Ineligibility_ Period** 
 
 Where a _Rider_ is already serving a period of _Ineligibility_ for an anti-doping rule violation, any new period of _Ineligibility_ shall commence on the first day after the current period of _Ineligibility_ has been served. Otherwise, except as provided below, the period of _Ineligibility_ shall start on the date of the final hearing decision providing for _Ineligibility_ or, if the hearing is waived or there is no hearing, on the date _Ineligibility_ is accepted or otherwise imposed. 
 
-## Delays Not Attributable to the _Rider_ or other _Person_ 
+Delays Not Attributable to the _Rider_ or other _Person_ 
 
 Where there have been substantial delays in the hearing process or other aspects of _Doping Control_, and the _Rider_ or other _Person_ can establish that such delays are not attributable to the _Rider_ or other _Person_, the _UCI_ may start the period of _Ineligibility_ at an earlier date commencing as early as the date of _Sample_ collection or the date on which another anti-doping rule violation last occurred. All competitive results achieved during the period of _Ineligibility_, including retroactive _Ineligibility_, shall be _Disqualified_. 
 
@@ -1134,7 +1135,7 @@ _[Comment to Article 10.13.2.2: A Rider’s voluntary acceptance of a Provisiona
 
 No credit against a period of _Ineligibility_ shall be given for any time period before the effective date of the _Provisional Suspension_ or voluntary _Provisional Suspension_ regardless of whether the _Rider_ elected not to compete or was suspended by a _Team_. 
 
-## **Status During** _**Ineligibility**_ **or** _**Provisional Suspension**_ 
+#### **Status During** **_Ineligibility_ or** **_Provisional Suspension_** 
 
 Prohibition Against Participation During _Ineligibility_ or _Provisional Suspension_ 
 
@@ -1146,47 +1147,45 @@ A _Rider_ or other _Person_ subject to a period of _Ineligibility_ shall remain 
 
 _[Comment to Article 10.14.1: For example, subject to Article 10.14.2 below, Ineligible Riders cannot participate in a training camp, exhibition or practice organized by their National Federation or a club which is a member of that National Federation or which is funded by a governmental agency. Further, an Ineligible Rider may not compete in a non-Signatory professional league (e.g., the National Hockey League, the National Basketball Association, etc.), Events organized by a non-Signatory International Event organization or a non-Signatory national-level Event organization without triggering the Consequences set forth in Article 10.14.3. The term “activity” also includes, for example, administrative activities, such as serving as an official, director, officer, employee, or volunteer of the organization described in this Article. Ineligibility imposed in one sport shall also be recognized by other sports (see Article 15.1, Automatic Binding Effect of Decisions). A Rider or other Person serving a period of Ineligibility is prohibited from coaching or serving as a Rider Support Person in any other capacity at any time during the period of Ineligibility, and doing so could also result in a violation of Article 2.10 by another Rider. Any performance standard accomplished during a period of Ineligibility shall not be recognized by the UCI or its National Federations for any purpose.]_ 
 
-## Return to Training 
+#### Return to Training 
 
 As an exception to Article 10.14.1, a _Rider_ may return to train with a _Team_ or to use the facilities of a club or other member organization of the _UCI_ ’s or other _Signatory’s_ member organization during the shorter of: (1) the last two (2) months of the _Rider’s_ period of _Ineligibility_, or (2) the last one-quarter of the period of _Ineligibility_ imposed. 
 
 _[Comment to Article 10.14.2: In many Team Sports and some individual sports (e.g., ski jumping and gymnastics), Riders cannot effectively train on their own so as to be ready to compete at the end of the Rider’s period of Ineligibility. During the training period described in this Article, an Ineligible Rider may not compete or engage in any activity described in Article 10.14.1 other than training.]_ 
 
-## Violation of the Prohibition of Participation During _Ineligibility_ or _Provisional Suspension_ 
+#### Violation of the Prohibition of Participation During _Ineligibility_ or _Provisional Suspension_ 
 
 Where a _Rider_ or other _Person_ who has been declared _Ineligible_ violates the prohibition against participation during _Ineligibility_ described in Article 10.14.1, the results of such 
 
 participation shall be _Disqualified_ and a new period of _Ineligibility_ equal in length to the original period of _Ineligibility_ shall be added to the end of the original period of _Ineligibility_. The new period of _Ineligibility_, including a reprimand and no period of _Ineligibility_, may be adjusted based on the _Rider_ or other _Person’s_ degree of _Fault_ and other circumstances of the case. The determination of whether a _Rider_ or other _Person_ has violated the prohibition against participation, and whether an adjustment is appropriate, shall be made by the _AntiDoping Organization_ whose _Results Management_ led to the imposition of the initial period of _Ineligibility_. This decision may be appealed under Article 13. 
 
-In the case where the _UCI_ is competent, the _UCI_ shall carry out the proceedings in accordance with the _UCI Results Management_ Regulations. 
-
-A _Rider_ or other _Person_ who violates the prohibition against participation during a _Provisional Suspension_ described in Article 10.14.1 shall receive no credit for any period of _Provisional Suspension_ served and the results of such participation shall be _Disqualified_. 
+In the case where the _UCI_ is competent, the _UCI_ shall carry out the proceedings in accordance with the _UCI Results Management_ Regulations. A _Rider_ or other _Person_ who violates the prohibition against participation during a _Provisional Suspension_ described in Article 10.14.1 shall receive no credit for any period of _Provisional Suspension_ served and the results of such participation shall be _Disqualified_. 
 
 Where a _Rider Support Person_ or other _Person_ assists a _Person_ in violating the prohibition against participation during _Ineligibility_ or a _Provisional Suspension_, the _UCI_ (or the _Anti-Doping Organization_ that has jurisdiction over the _Rider Support Person_ or other _Person_, if the _UCI_ does not have such jurisdiction) shall impose sanctions for a violation of Article 2.9 for such assistance. 
 
-## Withholding of Financial Support during _Ineligibility_ 
+#### Withholding of Financial Support during _Ineligibility_ 
 
 In addition, for any anti-doping rule violation not involving a reduced sanction as described in Article 10.5 or 10.6, some or all sport-related financial support or other sport-related benefits received by such _Person_ will be withheld by the _UCI_ and its _National Federations_. 
 
-## **Automatic Publication of Sanction** 
+#### **Automatic Publication of Sanction** 
 
 A mandatory part of each sanction shall include automatic publication, as provided in Article 14.4. 
 
-## _**CONSEQUENCES**_ **TO** _**TEAMS**_ 
+#### **_CONSEQUENCES_ TO** **_TEAMS_** 
 
-## _**Testing**_ **of** _**Teams**_ 
+#### **_Testing_ of** **_Teams_** 
 
 Where more than one (1) member of a _Team_ in a _Team Competition_ has been notified of an antidoping rule violation under Article 7 in connection with an _Event_, the ruling body for the _Event_ shall conduct appropriate _Target Testing_ of all members of the _Team_ during the _Event Period_. 
 
-## **Disqualification of** _**Team Competition**_ **Results** 
+#### **Disqualification of** **_Team Competition_ Results** 
 
 If a _Rider_ is found to have committed an anti-doping rule violation in connection with a _Team Competition_ in which he participated as a member of a _Team_, the _Team_ shall be _Disqualified_ from that _Competition_. 
 
 If such _Rider_ is _Disqualified_ from other _Competitions_ of the same _Event_ under Article 10.1, any _Team_, whether composed differently or not, of which such _Rider_ was a member, shall be _Disqualified_ from the same _Team Competitions_ as the _Rider_. 
 
-## **Suspension of a** _**Team**_ **Registered with the** _**UCI**_ 
+#### **Suspension of a** **_Team_ Registered with the** **_UCI_** 
 
-- If two _Riders_ and/or other _Persons_ contracted to a _Team_ registered with the _UCI_ receive notice of: 
+If two _Riders_ and/or other _Persons_ contracted to a _Team_ registered with the _UCI_ receive notice of: 
 
 - _a)_ an _Adverse Analytical Finding_ for a _Prohibited Method_ or a _Prohibited Substance_ that is neither a _Specified Substance_ nor a _Substance of Abuse_ and there is no _prima facie_ indication that i) at least one anti-doping rule violation has no reasonable prospect of being upheld or ii) at least one anti-doping rule violation was not intentional in the sense of Article 10.2; and/or 
 
@@ -1220,13 +1219,15 @@ _- the nature of the anti-doping rule violation and the circumstances giving ris
 
 _- the Team’s general approach towards anti-doping: i.e. whether the Team applied due diligence and took measures that could reasonably be expected in order to avoid the commission of anti-doping rule violations;_ 
 
-- _whether there is any prima facie indication that the Team (through its Team members or staff) was involved in one or both of the anti-doping rule violations;_ 
+_- whether there is any prima facie indication that the Team (through its Team members or staff) was involved in one or both of the anti-doping rule violations;_ 
 
-_- whether some other facts or circumstances exist that, in the UCI Disciplinary Commission’s opinion, make it clearly unfair to impose a suspension;_ 
+- _whether some other facts or circumstances exist that, in the UCI Disciplinary Commission’s opinion, make it clearly unfair to impose a suspension;_ 
 
 - _the Team’s race calendar.]_ 
 
-- The start date and period of _suspension_ shall be determined so that the _suspension_ is effective. 
+The start date and period of _suspension_ shall be determined so that the _suspension_ is 
+
+effective. 
 
 _[Comment to Article 11.3.2: The application of the suspension may be suspended at the end of the season and the rest of the suspension time may be served at the beginning of the next season. Subject to the discretion of the UCI Disciplinary Commission, the suspension may take effect during an ongoing Event or on the first day of the next Event on the Team’s race calendar.]_ 
 
@@ -1246,11 +1247,13 @@ and/or
 
 and the commission of these violations occurred within a twelve-month period, the _Team_ shall be suspended from participation in any _International Event_ for a period determined by the _UCI Disciplinary Commission_, taking into account all the circumstances of the case. The suspension shall be subject to the same procedure and requirements as provided for in Article 11.3.1 and Article 11.3.2 except with respect to the length of the ban which shall not be less than fifteen (15) days and not more than twelve (12) months. 
 
-## **Financial** _**Consequences**_ **to** _**Teams**_ 
+#### **Financial** **_Consequences_ to** **_Teams_** 
 
 - In addition to the suspension provided for in Article 11.3, a _UCI_ WorldTeam or _UCI_ ProTeam shall pay a fine to the _UCI_ if two _Riders_ and/or other _Persons_ of the _Team_ are sanctioned for anti-doping rule violations that took place within a twelve-month (12) period. 
 
-The fine is due when the second _Rider_ or other _Person_ ’s sanction becomes final. The amount of the fine shall be 5 (five) % of the annual _Team_ budget based on which the _Team_ licence was granted for the year during which the second sanction becomes final. For the purpose of this article, the _UCI_ shall have the right to obtain the amount of the annual _Team_ budget from the auditor. 
+The fine is due when the second _Rider_ or other _Person_ ’s sanction becomes final. The amount of the fine shall be 5 (five) % of the annual _Team_ budget based on which the _Team_ licence was granted for the year during which the second sanction becomes final. 
+
+For the purpose of this article, the _UCI_ shall have the right to obtain the amount of the annual _Team_ budget from the auditor. 
 
 - In addition to the suspension provided for in Article 11.3, a _UCI_ WorldTeam or _UCI_ ProTeam shall pay a fine to the _UCI_ if more than two _Riders_ and/or other _Persons_ of the _Team_ are sanctioned for anti-doping rule violations that took place within a twelve-month (12) period. The fine is due when the third _Rider_ or other _Person_ ’s sanction becomes final. The amount of the fine shall be 5 (five) % of the annual _Team_ budget based on which the _Team_ licence was granted for the year during which the third or additional sanction becomes final. 
 
@@ -1258,13 +1261,13 @@ _[Comment to Article 11.4: Unlike Article 11.2, the imposition of the fine again
 
 For the purpose of this article, the _UCI_ shall have the right to obtain the amount of the annual _Team_ budget from the auditor. 
 
-## **SANCTIONS BY THE** _**UCI**_ **AGAINST OTHER SPORTING BODIES** 
+#### **SANCTIONS BY THE** **_UCI_ AGAINST OTHER SPORTING BODIES** 
 
 Sanctions against the _UCI_ ’s member organizations or other sporting bodies, where relevant, are provided under the _UCI_ Regulations. 
 
-## _**RESULTS MANAGEMENT**_ **: APPEALS** 
+#### **_RESULTS MANAGEMENT_: APPEALS** 
 
-## **Decisions Subject to Appeal** 
+#### **Decisions Subject to Appeal** 
 
 Decisions made under the _Code_ or these Anti-Doping Rules may be appealed as set forth below in Articles 13.2 through 13.4 or as otherwise provided in these Anti-Doping Rules, the _Code_ or the _International Standards_. Such decisions shall remain in effect while under appeal unless the appellate body orders otherwise. 
 
@@ -1274,19 +1277,19 @@ The scope of review on appeal includes all issues relevant to the matter and is 
 
 _[Comment to Article 13.1.1: The revised language is not intended to make a substantive change to the 2015 UCI Anti-Doping Rules, but rather for clarification. For example, where a Rider was charged in the first instance hearing only with Tampering, but the same conduct could also constitute Complicity, an appealing party could pursue both Tampering and Complicity charges against the Rider in the appeal.]_ 
 
-## _CAS_ Shall Not Defer to the Findings Being Appealed 
+_CAS_ Shall Not Defer to the Findings Being Appealed 
 
 In making its decision, _CAS_ shall not give deference to the discretion exercised by the body whose decision is being appealed. 
 
 _[Comment to Article 13.1.2: CAS proceedings are de novo. Prior proceedings do not limit the evidence or carry weight in the hearing before CAS.]_ 
 
-## _WADA_ Not Required to Exhaust Internal Remedies 
+_WADA_ Not Required to Exhaust Internal Remedies 
 
 Where _WADA_ has a right to appeal under Article 13 and no other party has appealed a final decision within the _Anti-Doping Organization_ ’s process, _WADA_ may appeal such decision directly to _CAS_ without having to exhaust other remedies in the _Anti-Doping Organization_ ’s process. 
 
 _[Comment to Article 13.1.3: Where a decision has been rendered before the final stage of an Anti-Doping Organization’s process (for example, a first hearing) and no party elects to appeal that decision to the next level of the Anti-Doping Organization’s process (e.g., the Managing Board), then WADA may bypass the remaining steps in the Anti-Doping Organization’s internal process and appeal directly to CAS.]_ 
 
-## **Appeals from Decisions Regarding Anti-Doping Rule Violations,** _**Consequences**_ **,** _**Provisional Suspensions,**_ **Implementation of Decisions and Authority** 
+#### **Appeals from Decisions Regarding Anti-Doping Rule Violations,** **_Consequences_,** **_Provisional Suspensions,_ Implementation of Decisions and Authority** 
 
 - A decision that an anti-doping rule violation was committed; 
 
@@ -1330,7 +1333,7 @@ In cases arising from participation in an _International Event_ or in cases invo
 
 _[Comment to Article 13.2.1: CAS decisions are final and binding except for any review required by law applicable to the annulment or enforcement of arbitral awards.]_ 
 
-Appeals Involving Other _Riders_ or Other _Persons_ 
+- Appeals Involving Other _Riders_ or Other _Persons_ 
 
 In cases where Article 13.2.1 is not applicable, a decision made by the _UCI Anti-Doping Tribunal_ under Article 8, or a decision made by the _UCI Disciplinary Commission_ may be appealed exclusively to _CAS_. 
 
@@ -1348,7 +1351,7 @@ The rules for such appeal shall respect the following principles:
 
 If no such body as described above is in place and available at the time of the appeal, the _Rider_ or other _Person_ shall have a right to appeal to _CAS_. 
 
-## _Persons_ Entitled to Appeal 
+#### _Persons_ Entitled to Appeal 
 
 Appeals Involving _International-Level Riders_ or _International Events_ 
 
@@ -1366,7 +1369,7 @@ In cases under Article 13.2.1, the following parties shall have the right to app
 
 - _WADA_. 
 
-## Appeals Involving Other _Riders_ or Other _Persons_ 
+Appeals Involving Other _Riders_ or Other _Persons_ 
 
 In cases under Article 13.2.2, the parties having the right to appeal to the national-level appeal body shall be as provided in the _National Anti-Doping Organization's_ rules but, at a minimum, shall include the following parties: 
 
@@ -1386,13 +1389,11 @@ For cases under Article 13.2.2, _WADA_, the International Olympic Committee, the
 
 Any party filing an appeal shall be entitled to assistance from _CAS_ to obtain all relevant information from the _Anti-Doping Organization_ whose decision is being appealed and the information shall be provided if _CAS_ so directs. 
 
-Duty to Notify 
+#### Duty to Notify 
 
 All parties to any _CAS_ appeal must ensure that _WADA_ and all other parties with a right to appeal have been given timely notice of the appeal. 
 
-- 13.2.3.4  Appeal from Imposition of _Provisional Suspension_ 
-
-   - Notwithstanding any other provision herein, the only _Person_ who may appeal from the imposition of a _Provisional Suspension_ is the _Rider_ or other _Person_ upon whom the _Provisional Suspension_ is imposed. 
+- 13.2.3.4  Appeal from Imposition of _Provisional Suspension_ Notwithstanding any other provision herein, the only _Person_ who may appeal from the imposition of a _Provisional Suspension_ is the _Rider_ or other _Person_ upon whom the _Provisional Suspension_ is imposed. 
 
 Cross Appeals and other Subsequent Appeals Allowed 
 
@@ -1400,7 +1401,7 @@ Cross appeals and other subsequent appeals by any respondent named in cases brou
 
 _[Comment to Article 13.2.4: This provision is necessary because since 2011, CAS rules no longer permit a Rider the right to cross appeal when an Anti-Doping Organization appeals a decision after the Rider’s time for appeal has expired. This provision permits a full hearing for all parties.]_ 
 
-## Time Limits for Appeals 
+#### Time Limits for Appeals 
 
 _[Comment to Article 13.2.5: Whether governed by CAS rules or these Anti-Doping Rules, a party’s deadline to appeal does not begin running until receipt of the decision. For that reason, there can be no expiration of a party's right to appeal if the party has not received the decision.]_ 
 
@@ -1416,31 +1417,31 @@ Notwithstanding the above, the following shall apply in connection with appeals 
 
 - b) If such a request is made within the fifteen (15) day period, then the party making such request shall have thirty (30) days from receipt of the file to file an appeal. 
 
-## Appeal by _WADA_ 
+#### Appeal by _WADA_ 
 
 The filing deadline for an appeal filed by _WADA_ shall be the later of: 
 
 - a) Twenty-one (21) days after the last day on which any other party in the case could have appealed, or 
 
-- b) Twenty-one (21) days after _WADA’s_ receipt of the complete file relating to the decision. 
+b) Twenty-one (21) days after _WADA’s_ receipt of the complete file relating to the decision. 
 
-## **Failure to Render a Timely Decision by an** _**Anti-Doping Organization**_ 
+#### **Failure to Render a Timely Decision by an** **_Anti-Doping Organization_** 
 
 Where, in a particular case, the _UCI_ fails to render a decision with respect to whether an antidoping rule violation was committed within a reasonable deadline set by _WADA_, _WADA_ may elect to appeal directly to _CAS_ as if the _UCI_ had rendered a decision finding no anti-doping rule violation. If the _CAS_ hearing panel determines that an anti-doping rule violation was committed and that _WADA_ acted reasonably in electing to appeal directly to _CAS_, then _WADA’s_ costs and attorney fees in prosecuting the appeal shall be reimbursed to _WADA_ by the _UCI_. 
 
 _[Comment to Article 13.3: Given the different circumstances of each anti-doping rule violation investigation and Results Management process, it is not feasible to establish a fixed time period for an Anti-Doping Organization to render a decision before WADA may intervene by appealing directly to CAS. Before taking such action, however, WADA will consult with the Anti-Doping Organization and give the Anti-Doping Organization an opportunity to explain why it has not yet rendered a decision.]_ 
 
-## **Appeals Relating to** _**TUEs**_ 
+#### **Appeals Relating to** **_TUEs_** 
 
 _TUE_ decisions may be appealed exclusively as provided in Article 4.4 and within the time limits set forth in Article 13.2.5. 
 
-## **Notification of Appeal Decision** 
+#### **Notification of Appeal Decision** 
 
 Any _Anti-Doping Organization_ that is a party to an appeal shall promptly provide the appeal decision to the _Rider_ or other _Person_ and to the other _Anti-Doping Organizations_ that would have been entitled to appeal under Article 13.2.3 as provided under Article 14. 
 
-## **CONFIDENTIALITY AND REPORTING** 
+#### **CONFIDENTIALITY AND REPORTING** 
 
-## **Notice and Time Limits** 
+#### **Notice and Time Limits** 
 
 In General 
 
@@ -1456,7 +1457,7 @@ Notice to a _Rider_ or other _Person_ may be accomplished by delivery of the not
 
 The _National Federation_ or _Team_ shall be responsible for making immediate contact with the _Rider_ or other _Person_. 
 
-## **Information Concerning** _**Adverse Analytical Findings**_ **,** _**Atypical Findings**_ **, and Other Asserted Anti-Doping Rule Violations** 
+#### **Information Concerning** **_Adverse Analytical Findings_,** **_Atypical Findings_, and Other Asserted Anti-Doping Rule Violations** 
 
 Notice of Anti-Doping Rule Violations to _Riders_ and other _Persons_ 
 
@@ -1468,7 +1469,7 @@ Notice of the assertion of an anti-doping rule violation to the _Rider’s_ or o
 
 The _Anti-Doping Organization_ with _Results Management_ or investigation responsibility under Article 7 shall also notify: 
 
-- the _Rider’s or other Person’s National Anti-Doping Organization_ 
+- the _Rider’s or other Person’s National Anti-Doping Organization_, 
 
 - the _UCI_, and 
 
@@ -1478,21 +1479,21 @@ of the assertion of an anti-doping rule violation simultaneously with the notice
 
 The _UCI_ may also inform the _Rider_ ’s or other _Person_ ’s _National Federation_ or _Team_. 
 
-Content of an Anti-Doping Rule Violation Notice 
+- Content of an Anti-Doping Rule Violation Notice 
 
 Notification of an anti-doping rule violation shall include: the _Rider's_ or other _Person’s_ name, country, sport and discipline within the sport, the _Rider’s_ competitive level, whether the test was _In-Competition_ or _Out-of-Competition_, the date of _Sample_ collection, the analytical result reported by the laboratory, and other information as required by the _UCI Results Management_ Regulations if the notice is given by the _UCI_ or the _International Standard_ for _Results Management_ or any other applicable rules if the notice is given by another _Anti-Doping Organization_. Notification of anti-doping rule violations other than under Article 2.1 shall also include the rule violated and the basis of the asserted violation. 
 
-Status Reports 
+- Status Reports 
 
 - If at any point during _Results Management_ up until the anti-doping rule violation charge, the _UCI_ decides not to move forward with a matter, it must give notice (with reasons) to the _Anti-Doping Organizations_ with a right of appeal under Article 13.2.3. 
 
 - Except with respect to investigations which have not resulted in a notice of an anti-doping rule violation pursuant to Article 14.2.1, the _Rider’s_ or other _Person’s National Anti-Doping Organization_ and _WADA_ shall be regularly updated on the status and findings of any review or proceedings conducted pursuant to Article 7, 8 or 13 and shall be provided with a prompt written reasoned explanation or decision explaining the resolution of the matter. 
 
-Confidentiality 
+#### Confidentiality 
 
 The recipient organizations shall not disclose this information beyond those _Persons_ with a need to know (which would include the appropriate personnel at the applicable _National Olympic Committee_, _National Federation_, and _Team_ ) until the _UCI_ has made _Public Disclosure_ as permitted by Article 14.4. 
 
-## **Notice of Anti-Doping Rule Violation or violations of** _**Ineligibility**_ **or** _**Provisional Suspension**_ **Decisions and Request for Files** 
+- **Notice of Anti-Doping Rule Violation or violations of** **_Ineligibility_ or** **_Provisional Suspension_ Decisions and Request for Files** 
 
 - Anti-doping rule violation decisions or decisions related to violations of _Ineligibility_ or _Provisional Suspension_ rendered pursuant to Article 7.5, 8.7, 10.5, 10.6, 10.7, 10.14.3 or 13.5 shall include the full reasons for the decision, including, if applicable, a justification for why the maximum potential sanction was not imposed. 
 
@@ -1500,13 +1501,13 @@ Where the decision is not in English or French, the _UCI_ shall provide an Engli
 
 - An _Anti-Doping Organization_ having a right to appeal a decision received pursuant to Article 14.2.1 may, within fifteen (15) days of receipt, request a copy of the full case file pertaining to the decision. 
 
-## **Public Disclosure** 
+#### **Public Disclosure** 
 
-- After notice has been provided to the _Rider_ or other _Person_ in accordance with the _UCI Results Management_ Regulations, and to the applicable _Anti-Doping Organizations_ in accordance with Article 14.1.2, the identity of any _Rider_ or other _Person_ who is notified of a potential anti-doping rule violation, the _Prohibited Substance_ or _Prohibited Method_ and nature of the violation involved, and whether the _Rider_ or other _Person_ is subject to a _Provisional Suspension_ may be _Publicly Disclosed_ by the _UCI_ _**.**_ 
+- After notice has been provided to the _Rider_ or other _Person_ in accordance with the _UCI Results Management_ Regulations, and to the applicable _Anti-Doping Organizations_ in accordance with Article 14.1.2, the identity of any _Rider_ or other _Person_ who is notified of a potential anti-doping rule violation, the _Prohibited Substance_ or _Prohibited Method_ and nature of the violation involved, and whether the _Rider_ or other _Person_ is subject to a _Provisional Suspension_ may be _Publicly Disclosed_ by the _UCI_ **_._** 
 
 - No later than twenty (20) days after it has been determined in an appellate decision under Article 13.2.1 or 13.2.2, or such appeal has been waived, or a hearing in accordance with Article 8 has been waived, or the assertion of an anti-doping rule violation has not otherwise been timely challenged, or the matter has been resolved under Article 10.8, or a new period of _Ineligibility_, or reprimand, has been imposed under Article 10.14.3, the _UCI_ must _Publicly Disclose_ the disposition of the anti-doping matter, including the sport, the anti-doping rule violated, the name of the _Rider_ or other _Person_ committing the violation, the _Prohibited Substance_ or _Prohibited Method_ involved (if any) and the _Consequences_ imposed. The _UCI_ must also _Publicly Disclose_ within twenty (20) days the results of appellate decisions concerning anti-doping rule violations, including the information described above. 
 
-_[Comment to Article 14.4.2: Where Public Disclosure as required by Article 14.4.2 would result in a breach of other applicable laws, the Anti-Doping Organization’s failure to make the Public Disclosure will not result in a determination of non-compliance with Code as set forth in Article 4.1 of the International Standard for the Protection of Privacy and Personal Information._ 
+   - _[Comment to Article 14.4.2: Where Public Disclosure as required by Article 14.4.2 would result in a breach of other applicable laws, the Anti-Doping Organization’s failure to make the Public Disclosure will not result in a determination of non-compliance with Code as set forth in Article 4.1 of the International Standard for the Protection of Privacy and Personal Information._ 
 
 _For the sake of clarity, nothing in Article 14.4.2 prevents an Anti-Doping Organization with Results Management responsibility to Publicly Disclose the disposition of a first instance decision before being final.]_ 
 
@@ -1520,11 +1521,11 @@ _For the sake of clarity, nothing in Article 14.4.2 prevents an Anti-Doping Orga
 
 - The mandatory _Public Disclosure_ required in Article 14.4.2 shall not be required where the _Rider_ or other _Person_ who has been found to have committed an anti-doping rule violation is a _Minor_, _Protected Person_ or _Recreational Rider_. Any optional _Public Disclosure_ in a case involving a _Minor_, _Protected Person_ or _Recreational Rider_ shall be proportionate to the facts and circumstances of the case. 
 
-## **Statistical Reporting** 
+#### **Statistical Reporting** 
 
 The _UCI_ shall, at least annually, publish publicly a general statistical report of its _Doping Control_ activities, with a copy provided to _WADA_. The _UCI_ may also publish reports showing the name of each _Rider_ tested and the date of each _Testing_. 
 
-## _**Doping Control**_ **Information Database and Monitoring of Compliance** 
+#### **_Doping Control_ Information Database and Monitoring of Compliance** 
 
 To enable _WADA_ to perform its compliance monitoring role and to ensure the effective use of resources and sharing of applicable _Doping Control_ information among _Anti-Doping Organizations_, the _UCI_ shall report to _WADA_ through _ADAMS Doping Control_ -related information, including, in particular: 
 
@@ -1536,7 +1537,7 @@ To enable _WADA_ to perform its compliance monitoring role and to ensure the eff
 
 - (d) _Results Management_ decisions, 
 
-as required under the applicable _International Standard(s)_ 
+as required under the applicable _International Standard(s)_. 
 
 - To facilitate coordinated test distribution planning, avoid unnecessary duplication in _Testing_ by various _Anti-Doping Organizations_, and to ensure that _Athlete Biological Passport_ profiles are updated, the _UCI_ shall report all _In-Competition_ and _Out-ofCompetition_ tests to _WADA_ by entering the _Doping Control_ forms into _ADAMS_ in accordance with the requirements and timelines contained in the _International Standard_ for _Testing_ and Investigations. 
 
@@ -1554,13 +1555,13 @@ as required under the applicable _International Standard(s)_
 
 - The information described in this Article will be made accessible, where appropriate and in accordance with the applicable rules, to the _Rider_, the _Rider_ ’s _National Anti-Doping Organization_, and any other _Anti-Doping Organizations_ with _Testing_ authority over the _Rider_. 
 
-## **Data Privacy** 
+#### **Data Privacy** 
 
 The _UCI_ may collect, store, process or disclose personal information relating to _Riders_ and other _Persons_ where necessary and appropriate to conduct their _Anti-Doping Activities_ under the _Code_, the _International Standards_ (including specifically the _International Standard_ for the Protection of Privacy and Personal Information), these Anti-Doping Rules, and in compliance with applicable law. 
 
-## **IMPLEMENTATION OF DECISIONS** 
+#### **IMPLEMENTATION OF DECISIONS** 
 
-## **Automatic Binding Effect of Decisions by** _**Signatory Anti-Doping Organizations**_ 
+#### **Automatic Binding Effect of Decisions by** **_Signatory Anti-Doping Organizations_** 
 
 - A decision of an anti-doping rule violation made by a _Signatory Anti-Doping Organization_, an appellate body (Article 13.2.2) or _CAS_ shall, after the parties to the proceeding are notified, automatically be binding beyond the parties to the proceeding upon the _UCI_, as well as every _Signatory_ in every sport with the effects described below: 
 
@@ -1578,35 +1579,35 @@ The _UCI_ may collect, store, process or disclose personal information relating 
 
 - Notwithstanding any provision in Article 15.1.1, however, a decision of an anti-doping rule violation by a _Major Event Organization_ made in an expedited process during an _Event_ shall not be binding on the _UCI_ unless the rules of the _Major Event Organization_ provide the _Rider_ or other _Person_ with an opportunity to an appeal under non-expedited procedures. 
 
-   - _[Comment to Article 15.1.4: By way of example, where the rules of the Major Event Organization give the Rider or other Person the option of choosing an expedited CAS appeal or a CAS appeal under normal CAS procedure, the final decision or adjudication by the Major Event Organization is binding on other Signatories regardless of whether the Rider or other Person chooses the expedited appeal option.]_ 
+_[Comment to Article 15.1.4: By way of example, where the rules of the Major Event Organization give the Rider or other Person the option of choosing an expedited CAS appeal or a CAS appeal under normal CAS procedure, the final decision or adjudication by the Major Event Organization is binding on other Signatories regardless of whether the Rider or other Person chooses the expedited appeal option.]_ 
 
-## **Implementation of Other Decisions by** _**Anti-Doping Organizations**_ 
+#### **Implementation of Other Decisions by** **_Anti-Doping Organizations_** 
 
 The _UCI_ may decide to implement other anti-doping decisions rendered by _Anti-Doping Organizations_ not described in Article 15.1.1 above, such as a _Provisional Suspension_ prior to a _Provisional Hearing_ or acceptance by the _Rider_ or other _Person_. 
 
-> _[Comment to Articles 15.1 and 15.2: Anti-Doping Organization decisions under Article 15.1 are implemented automatically by other Signatories without the requirement of any decision or further action on the Signatories’ part. For example, when a National Anti-Doping Organization decides to Provisionally Suspend a Rider, that decision is given automatic effect at the International Federation level. To be clear, the “decision” is the one made by the National Anti-Doping Organization, there is not a separate decision to be made by the International Federation. Thus, any claim by the Rider that the Provisional Suspension_ 
+- _[Comment to Articles 15.1 and 15.2: Anti-Doping Organization decisions under Article 15.1 are implemented automatically by other Signatories without the requirement of any decision or further action on the Signatories’ part. For example, when a National Anti-Doping Organization decides to Provisionally Suspend a Rider, that decision is given automatic effect at the International Federation level. To be clear, the “decision” is the one made by the National Anti-Doping Organization, there is not a separate decision to be made by the International Federation. Thus, any claim by the Rider that the Provisional Suspension_ 
 
 _was improperly imposed can only be asserted against the National Anti-Doping Organization. Implementation of Anti-Doping Organizations’ decisions under Article 15.2 is subject to each Signatory’s discretion. A Signatory’s implementation of a decision under Article 15.1 or Article 15.2 is not appealable separately from any appeal of the underlying decision. The extent of recognition of TUE decisions of other Anti-Doping Organizations shall be determined by Article 4.4 and the UCI TUE Regulations.]_ 
 
-## **Implementation of Decisions by Body that is not a** _**Signatory**_ 
+#### **Implementation of Decisions by Body that is not a** **_Signatory_** 
 
 An anti-doping decision by a body that is not a _Signatory_ to the _Code_ shall be implemented by the _UCI_ if the _UCI_ finds that the decision purports to be within the authority of that body and the anti-doping rules of that body are otherwise consistent with the _Code_. 
 
 _[Comment to Article 15.3: Where the decision of a body that has not accepted the Code is in some respects Code compliant and in other respects not Code compliant, Signatories should attempt to apply the decision in harmony with the principles of the Code. For example, if in a process consistent with the Code a nonSignatory has found a Rider to have committed an anti-doping rule violation on account of the presence of a Prohibited Substance in the Rider’s body but the period of Ineligibility applied is shorter than the period provided for in the Code, then all Signatories should recognize the finding of an anti-doping rule violation and the Rider’s National Anti-Doping Organization should conduct a hearing consistent with Article 8 to determine whether the longer period of Ineligibility provided in the Code should be imposed. A Signatory’s implementation of a decision, or their decision not to implement a decision under Article 15.3, is appealable under Article 13.]_ 
 
-## _**DOPING CONTROL**_ **FOR ANIMALS COMPETING IN SPORT [intentionally omitted]** 
+#### **_DOPING CONTROL_ FOR ANIMALS COMPETING IN SPORT [intentionally omitted]** 
 
-## **STATUTE OF LIMITATIONS** 
+#### **STATUTE OF LIMITATIONS** 
 
 No anti-doping rule violation proceeding may be commenced against a _Rider_ or other _Person_ unless he or she has been notified of the anti-doping rule violation as provided in Article 7, or notification has been reasonably attempted, within ten (10) years from the date the violation is asserted to have occurred. 
 
-## _**EDUCATION**_ 
+#### **_EDUCATION_** 
 
-## **Principles** 
+#### **Principles** 
 
 The _UCI_ and _National Anti-Doping Organizations_ shall, within their scope of responsibility and in cooperation with each other, plan, implement, monitor, evaluate and promote _Education_ programs in line with the requirements set out in the _International Standard_ for _Education_. 
 
-## _**Educational Course**_ 
+#### **_Educational Course_** 
 
 _Rider_ s included in the _UCI Registered Testing Pool_ and the _UCI Testing Pool._ 
 
@@ -1616,11 +1617,11 @@ Each _Rider_ shall be personally responsible for complying with this obligation.
 
 Any _Rider_ who has not met this requirement by the set deadline shall be ineligible to compete in any _International Event_ until successful completion of the course and its registration. 
 
-## Specific _Event_ 
+- Specific _Event_ 
 
 The _UCI_ may decide to request that _Rider_ s and/or _Rider Support Personnel_ complete _Educational_ activities before and/or during their participation in select _Events_ (e.g: Juniors World Championships) as a condition of such participation. 
 
-_National Federation_ 
+#### _National Federation_ 
 
 _National Federation_ s shall use their best endeavours to ensure that _Riders_ who have a licence issued by their Federation, complete an Anti-Doping _Education_ Course within four (4) months of the receipt of their licence from their Federation. 
 
@@ -1630,13 +1631,13 @@ A _Rider_ or other _Person_ sanctioned for an anti-doping rule violation must, b
 
 _(text modified on 01.03.2022)_ 
 
-## **RESEARCH [Intentionally omitted]** 
+#### **RESEARCH [Intentionally omitted]** 
 
-## **ADDITIONAL ROLES AND RESPONSIBILITIES OF** _**SIGNATORIES**_ **AND** _**WADA [Intentionally omitted]**_ 
+**ADDITIONAL ROLES AND RESPONSIBILITIES OF** **_SIGNATORIES_ AND** **_WADA [Intentionally omitted]_** 
 
-## **ADDITIONAL ROLES AND RESPONSIBILITIES OF** _**RIDERS AND OTHER PERSONS**_ 
+- **ADDITIONAL ROLES AND RESPONSIBILITIES OF** **_RIDERS AND OTHER PERSONS_** 
 
-## **Roles and Responsibilities of** _**Riders**_ 
+#### **Roles and Responsibilities of** **_Riders_** 
 
 - To be knowledgeable of and comply with these Anti-Doping Rules and other documents adopted pursuant to these Anti-Doping Rules, as set forth in the Introduction. 
 
@@ -1660,13 +1661,13 @@ _(text modified on 20.02.2023)_
 
 - To disclose the identity of their _Support Personnel_ upon request by any _Anti-Doping Organization_ with authority over the _Rider_. 
 
-## **Roles and Responsibilities of** _**Rider Support Personnel**_ 
+#### **Roles and Responsibilities of** **_Rider Support Personnel_** 
 
 - To be knowledgeable of and comply with Anti-Doping Rules and other documents adopted pursuant to these Anti-Doping Rules, as forth in the Introduction. 
 
-To cooperate with the _Rider Testing_ program. 
+- To cooperate with the _Rider Testing_ program. 
 
-To use his or her influence on _Rider_ values and behavior to foster anti-doping attitudes. 
+- To use his or her influence on _Rider_ values and behavior to foster anti-doping attitudes. 
 
 - To disclose to his or her _National Anti-Doping Organization_ and the _UCI_ any decision by a non- _Signatory_ finding that he or she committed an anti-doping rule violation within the previous ten (10) years. 
 
@@ -1678,11 +1679,11 @@ _(text modified on 20.02.2023)_
 
 - _Rider Support Personnel_ shall not _Use_ or _Possess_ any _Prohibited Substance_ or _Prohibited Method_ without valid justification. 
 
-_[Comment to Article 21.2.6: In those situations where Use or personal Possession of a Prohibited Substance or Prohibited Method by a Rider Support Person without justification is not an anti-doping rule violation under the Code, it should be subject to other sport disciplinary rules. Coaches and other Rider Support Personnel are often role models for Riders. They should not be engaging in personal conduct which conflicts with their responsibility to encourage their Riders not to dope.]_ 
+   - _[Comment to Article 21.2.6: In those situations where Use or personal Possession of a Prohibited Substance or Prohibited Method by a Rider Support Person without justification is not an anti-doping rule violation under the Code, it should be subject to other sport disciplinary rules. Coaches and other Rider Support Personnel are often role models for Riders. They should not be engaging in personal conduct which conflicts with their responsibility to encourage their Riders not to dope.]_ 
 
 - To report to _Anti-Doping Organizations_ any circumstances they become aware of that may constitute an anti-doping rule violation. 
 
-## **Roles and Responsibilities of Other** _**Persons**_ **Subject to these Anti-Doping Rules** 
+- **Roles and Responsibilities of Other** **_Persons_ Subject to these Anti-Doping Rules** 
 
 - To be knowledgeable of and comply with all anti-doping policies and rules adopted pursuant to the _Code_ and which are applicable to them. 
 
@@ -1694,13 +1695,13 @@ Failure by any other _Person_ subject to these Anti-Doping Rules to cooperate fu
 
 _(text modified on 20.02.2023)_ 
 
-## _**Consequences**_ **of Non-Compliance with the Responsibilities of** _**Riders**_ **,** _**Riders Support Personnel or**_ **Other** _**Persons**_ 
+#### **_Consequences_ of Non-Compliance with the Responsibilities of** **_Riders_,** **_Riders Support Personnel or_ Other** **_Persons_** 
 
 - Where it considers so warranted, the _UCI_ may initiate disciplinary proceedings against _Riders_, _Rider Support Personnel_ or other _Persons_ for non-compliance with Articles 21.1, 21.2 or 21.3, as applicable. 
 
 - The disciplinary proceedings will be referred to the _UCI Disciplinary Commission_ in accordance with _UCI Disciplinary Rules_. 
 
-## **Roles and Responsibilities of** _**National Federations**_ 
+#### **Roles and Responsibilities of** **_National Federations_** 
 
 - All _National Federations_ shall include in their regulations the rules necessary to effectively implement these Anti-Doping Rules. 
 
@@ -1720,11 +1721,11 @@ _(text modified on 20.02.2023)_
 
 - The report shall also list for each _Rider_ concerned all decisions taken in anti-doping at the national level indicating the category (elite or other), the anti-doping rule violation charged or committed, the date of _Testing_, whether the _Testing_ was _Out-of-Competition_ or _In-Competition_ and, if _In-Competition_, the name and date of the _Event_, the penalties imposed, the date of the decision and the body which imposed them. 
 
-- The _National Federation_ shall be liable to contribute to the _UCI Anti-Doping Tribunal_ costs in accordance with Article 8.3.1. 
+- The _National Federation_ shall be liable to contribute to the _UCI Anti-Doping Tribunal_ ’s costs in accordance with Article 8.3.1. 
 
 - Each _National Federation_ shall do its best to conduct anti-doping Education in coordination with its _National Anti-Doping Organization_. 
 
-## **Roles and Responsibilities of** _**Teams**_ 
+#### **Roles and Responsibilities of** **_Teams_** 
 
 - The _Team_ is responsible for all costs incurred by the _UCI_ and any _Delegated Third Parties_ in relation to the management of any anti-doping rule violation(s) committed by its _Licence-Holders_. 
 
@@ -1754,15 +1755,15 @@ While the anti-doping rule violation proceedings are ongoing, the _UCI_ may requ
 
 - Each _Team_ shall cooperate with _Anti-Doping Organizations_ investigating anti-doping rule violations. 
 
-## **INVOLVEMENT OF GOVERNMENTS [Intentionally omitted]** 
+#### **INVOLVEMENT OF GOVERNMENTS [Intentionally omitted]** 
 
-## **ACCEPTANCE AND IMPLEMENTATION [Intentionally omitted]** 
+#### **ACCEPTANCE AND IMPLEMENTATION [Intentionally omitted]** 
 
-- **MONITORING AND ENFORCING COMPLIANCE WITH THE** _**CODE**_ **AND** _**UNESCO CONVENTION**_ **[Intentionally omitted]** 
+- **MONITORING AND ENFORCING COMPLIANCE WITH THE** **_CODE_ AND** **_UNESCO CONVENTION_ [Intentionally omitted]** 
 
-## **MODIFICATION AND WITHDRAWAL [Intentionally omitted]** 
+#### **MODIFICATION AND WITHDRAWAL [Intentionally omitted]** 
 
-## **INTERPRETATION OF THESE ANTI-DOPING RULES** 
+#### **INTERPRETATION OF THESE ANTI-DOPING RULES** 
 
 - The official text of these Anti-Doping Rules shall be published in English and French. In the event of any conflict between the English and French versions, the English version shall prevail. 
 
@@ -1778,21 +1779,21 @@ While the anti-doping rule violation proceedings are ongoing, the _UCI_ may requ
 
 - The Introduction to the Anti-Doping Rules and Appendix 1 (Definitions) shall be considered integral parts of these Anti-Doping Rules. 
 
-## **TRANSITIONAL PROVISIONS** 
+#### **TRANSITIONAL PROVISIONS** 
 
-## **General Application of these Anti-Doping Rules** 
+#### **General Application of these Anti-Doping Rules** 
 
 These Anti-Doping Rules shall apply in full as of 1 January 2021 (the “Effective Date”). 
 
-- **Non-Retroactive except for Articles 10.9.4 and 17 or Unless Principle of “Lex Mitior” Applies** 
+#### **Non-Retroactive except for Articles 10.9.4 and 17 or Unless Principle of “Lex Mitior” Applies** 
 
 Any anti-doping rule violation case which is pending as of the Effective Date and any anti-doping rule violation case brought after the Effective Date based on an anti-doping rule violation which occurred prior to the Effective Date shall be governed by the substantive anti-doping rules in effect at the time the alleged anti-doping rule violation occurred, and not by the substantive anti-doping rules set out in these Anti-Doping Rules or the _Code_, unless the panel hearing the case determines the principle of “lex mitior” appropriately applies under the circumstances of the case. For these purposes, the retrospective periods in which prior violations can be considered for purposes of multiple violations under Article 10.9.4 and the statute of limitations set forth in Article 17 are procedural rules, not substantive rules, and should be applied retroactively along with all of the other procedural rules in these Anti-Doping Rules or the _Code_ (provided, however, that Article 17 shall only be applied retroactively if the statute of limitations period has not already expired by the Effective Date). 
 
-## **Application to Decisions Rendered Prior to 1 January 2021** 
+#### **Application to Decisions Rendered Prior to 1 January 2021** 
 
 With respect to cases where a final decision finding an anti-doping rule violation has been rendered prior to the Effective Date, but the _Rider_ or other _Person_ is still serving the period of _Ineligibility_ as of the Effective Date, the _Rider_ or other _Person_ may apply to the _Anti-Doping Organization_ which had _Results Management_ responsibility for the anti-doping rule violation to consider a reduction in the period of _Ineligibility_ in light of the 2021 _Code_. Such application must be made before the period of _Ineligibility_ has expired. The decision rendered by the _Anti-Doping Organization_ may be appealed pursuant to Article 13.2. The 2021 _Code_ shall have no application to any antidoping rule violation case where a final decision finding an anti-doping rule violation has been rendered and the period of _Ineligibility_ has expired. 
 
-## **Multiple Violations Where the First Violation Occurs Prior to 1 January 2021** 
+#### **Multiple Violations Where the First Violation Occurs Prior to 1 January 2021** 
 
 For purposes of assessing the period of _Ineligibility_ for a second violation under Article 10.9.1, where the sanction for the first violation was determined based on pre-2021 _Code_ rules, the period 
 
@@ -1800,15 +1801,15 @@ of _Ineligibility_ which would have been assessed for that first violation had 2
 
 _Comment to Article 27.4: Other than the situation described in Article 27.4, where a final decision finding an anti-doping rule violation has been rendered prior to the existence of the Code or under the Code in force before the 2021 Code and the period of Ineligibility imposed has been completely served, the 2021 Code may not be used to re-characterize the prior violation.]_ 
 
-## **Additional Amendments** 
+#### **Additional Amendments** 
 
 These Anti-Doping Rules may be amended from time to time by the _UCI_, subject to the transitional provisions provided in this Article 27 or any other transitional provisions that the _UCI_ may adopt with the amendment. 
 
-## **Changes to the** _**Prohibited List**_ 
+#### **Changes to the** **_Prohibited List_** 
 
 Changes to the _Prohibited Lis_ t and _Technical Documents_ relating to substances or methods on the _Prohibited List_ shall not, unless they specifically provide otherwise, be applied retroactively. As an exception, however, when a _Prohibited Substance_ or _Prohibited Method_ has been removed from the _Prohibited List_, a _Rider_ or other _Person_ currently serving a period of _Ineligibility_ on account of the formerly _Prohibited Substance_ or _Prohibited Method_ may apply to the _Anti-Doping Organization_ which had _Results Management_ responsibility for the antidoping rule violation to consider a reduction in the period of _Ineligibility_ in light of the removal of the substance or method from the _Prohibited List_. 
 
-## **APPENDIX 1 DEFINITIONS** 
+#### **APPENDIX 1 DEFINITIONS** 
 
 _[Comment to Definitions: Defined terms shall include their plural and possessive forms, as well as those terms used as other parts of speech.]_ 
 
@@ -1840,7 +1841,7 @@ _Code_: The World Anti-Doping _Code_.
 
 _Competition_: A single race organized separately (for example: each of the time trial and road race at the road World Championships; a stage in a stage race; a Cross-country Eliminator heat) or a series of races forming an organizational unit and producing a final winner and/or general classification (for example: a track sprint race tournament, a cyclo-ball tournament). 
 
-_Consequences of Anti-Doping Rule Violations_ (“ _Consequences_ ”): A _Rider's_ or other _Person's_ violation of an anti-doping rule may result in one or more of the following: (a) _Disqualification_ means the _Rider’s_ results in a particular _Competition_ or _Event_ are invalidated, with all resulting _Consequences_ including forfeiture of any medals, points and prizes; (b) _Ineligibility_ means the _Rider_ or other _Person_ is barred on account of an anti-doping rule violation for a specified period of time from participating in any _Competition_ or other activity or funding as provided in Article 10.14; (c) _Provisional Suspension_ means the _Rider_ or other _Person_ is barred temporarily from participating in any _Competition_ or activity prior to the final decision at a hearing conducted under Article 8; (d) _Financial Consequences_ means a financial sanction imposed for an anti-doping rule violation or to recover costs associated with an anti-doping rule violation; and (e) _Public Disclosure_ means the dissemination or distribution of information to the general public or _Persons_ beyond those _Persons_ entitled to earlier notification in accordance with Article 14. _Teams_ may also be subject to _Consequences_ as provided in Article 11. 
+_Consequences of Anti-Doping Rule Violations_ (“ _Consequences_ ”): A _Rider's_ or other _Person's_ violation of an anti-doping rule may result in one or more of the following: (a) _<u>Disqualification</u>_ means the _Rider’s_ results in a particular _Competition_ or _Event_ are invalidated, with all resulting _Consequences_ including forfeiture of any medals, points and prizes; (b) _<u>Ineligibility</u>_ means the _Rider_ or other _Person_ is barred on account of an anti-doping rule violation for a specified period of time from participating in any _Competition_ or other activity or funding as provided in Article 10.14; (c) _<u>Provisional Suspension</u>_ means the _Rider_ or other _Person_ is barred temporarily from participating in any _Competition_ or activity prior to the final decision at a hearing conducted under Article 8; (d) _<u>Financial Consequences</u>_ means a financial sanction imposed for an anti-doping rule violation or to recover costs associated with an anti-doping rule violation; and (e) _<u>Public Disclosure</u>_ means the dissemination or distribution of information to the general public or _Persons_ beyond those _Persons_ entitled to earlier notification in accordance with Article 14. _Teams_ may also be subject to _Consequences_ as provided in Article 11. 
 
 _Contaminated Product_: A product that contains a _Prohibited Substance_ that is not disclosed on the product label or in information available in a reasonable Internet search. 
 
@@ -1870,7 +1871,7 @@ _Fault_: _Fault_ is any breach of duty or any lack of care appropriate to a part
 
 _[Comment to Fault: The criteria for assessing a Rider’s degree of Fault is the same under all Articles where Fault is to be considered. However, under Article 10.6.2, no reduction of sanction is appropriate unless, when the degree of Fault is assessed, the conclusion is that No Significant Fault or Negligence on the part of the Rider or other Person was involved.]_ 
 
-_Financial Consequences_: See _Consequences of Anti-Doping Rule Violations_ above. 
+#### _Financial Consequences_: See _Consequences of Anti-Doping Rule Violations_ above. 
 
 _In-Competition_: _The Event Period_. However, for the purpose of the _Prohibited List, In-Competition_ is the period commencing at 11:59 p.m. on the day before a _Competition_ in which the _Rider_ is scheduled to participate through the end of such _Competition_ and the _Sample_ collection process related to such _Competition_. 
 
@@ -1920,9 +1921,9 @@ _No Significant Fault_ or _Negligence_: The _Rider_ or other _Person's_ establis
 
 _Operational Independence_: This means that (1) board members, staff members, commission members, consultants and officials of the _Anti-Doping Organization_ with responsibility for _Results Management_ or its affiliates (e.g., member federation or confederation), as well as any _Person_ involved in the investigation and pre-adjudication of the matter cannot be appointed as members and/or clerks (to the extent that such clerk is involved in the deliberation process and/or drafting of any decision) of hearing panels of that _Anti-Doping Organization_ with responsibility for _Results Management_ and (2) hearing panels shall be in a position to conduct the hearing and decision-making process without interference from the _Anti-Doping Organization_ or any third party. The objective is to ensure that members of the hearing panel or individuals otherwise involved in the decision of the hearing panel, are not involved in the investigation of, or decisions to proceed with, the case. 
 
-_Out-of-Competition_: Any period which is not _In-Competition_. 
+#### _Out-of-Competition_: Any period which is not _In-Competition_. 
 
-## _Participant_: Any _Rider_ or _Rider Support Person_. 
+_Participant_: Any _Rider_ or _Rider Support Person_. 
 
 _Person_: A natural _Person_ or an organization or other entity. 
 
@@ -1930,7 +1931,7 @@ _Possession_: The actual, physical _Possession_, or the constructive _Possession
 
 _[Comment to Possession: Under this definition, anabolic steroids found in a Rider's car would constitute a violation unless the Rider establishes that someone else used the car; in that event, the Anti-Doping Organization must establish that, even though the Rider did not have exclusive control over the car, the Rider knew about the anabolic steroids and intended to have control over them. Similarly, in the example of anabolic steroids found in a home medicine cabinet under the joint control of a Rider and spouse, the Anti-Doping Organization must establish that the Rider knew the anabolic steroids were in the cabinet and that the Rider intended to exercise control over them. The act of purchasing a Prohibited Substance alone constitutes Possession, even where, for example, the product does not arrive, is received by someone else, or is sent to a third-party address.]_ 
 
-## _Prohibited List_: The list identifying the _Prohibited Substances_ and _Prohibited Methods_. 
+#### _Prohibited List_: The list identifying the _Prohibited Substances_ and _Prohibited Methods_. 
 
 _Prohibited Method_: Any method so described on the _Prohibited List_. 
 
@@ -1946,7 +1947,7 @@ _Provisional Hearing_: For purposes of Article 7.5.3, an expedited abbreviated h
 
 _[Comment to Provisional Hearing: A Provisional Hearing is only a preliminary proceeding which may not involve a full review of the facts of the case. Following a Provisional Hearing, the Rider remains entitled to a subsequent full hearing on the merits of the case. By contrast, an “expedited hearing”, as that term is used in Article 7.5.3, is a full hearing on the merits conducted on an expedited time schedule.]_ 
 
-## _Provisional Suspension_: See _Consequences of Anti-Doping Rule Violations_ above. 
+_Provisional Suspension_: See _Consequences of Anti-Doping Rule Violations_ above. 
 
 _Publicly Disclose_: See _Consequences of Anti-Doping Rule Violations_ above. 
 
@@ -1978,7 +1979,7 @@ _Signatories_: Those entities accepting the _Code_ and agreeing to implement the
 
 _Specified Method:_ See Article 4.2.2. 
 
-## _Specified Substance_: See Article 4.2.2. 
+_Specified Substance_: See Article 4.2.2. 
 
 _Strict Liability_: The rule which provides that under Article 2.1 and Article 2.2, it is not necessary that intent, _Fault_, _Negligence_, or knowing _Use_ on the _Rider’s_ part be demonstrated by the _Anti-Doping Organization_ in order to establish an anti-doping rule violation. 
 
@@ -1988,7 +1989,7 @@ _Substantial Assistance_: For purposes of Article 10.7.1, a _Person_ providing _
 
 _Tampering_: Intentional conduct which subverts the _Doping Control_ process but which would not otherwise be included in the definition of _Prohibited Methods_. _Tampering_ shall include, without limitation, offering or accepting a bribe to perform or fail to perform an act, preventing the collection of a _Sample_, affecting or making impossible the analysis of a _Sample_, falsifying documents submitted to an _AntiDoping Organization_ or _TUE_ committee or hearing panel, procuring false testimony from witnesses, committing any other fraudulent act upon the _Anti-Doping Organization_ or hearing body to affect _Results Management_ or the imposition of _Consequences_, and any other similar intentional interference or _Attempted_ interference with any aspect of _Doping Control_. 
 
-> _[Comment to Tampering: For example, this Article would prohibit altering identification numbers on a Doping Control form during Testing, breaking the B bottle at the time of B Sample analysis, altering a Sample by the addition of a foreign substance, or intimidating or attempting to intimidate a potential witness or a witness who has provided testimony or information in the Doping Control process. Tampering includes misconduct which occurs during the Results Management process. See Article 10.9.3.3. However, actions taken as part of a Person's legitimate defense to an anti-doping rule violation charge shall not be considered Tampering. Offensive conduct towards a Doping Control official or other Person involved in Doping Control which does not otherwise constitute Tampering shall be addressed in the disciplinary rules of sport organizations.]_ 
+_[Comment to Tampering: For example, this Article would prohibit altering identification numbers on a Doping Control form during Testing, breaking the B bottle at the time of B Sample analysis, altering a Sample by the addition of a foreign substance, or intimidating or attempting to intimidate a potential witness or a witness who has provided testimony or information in the Doping Control process. Tampering includes misconduct which occurs during the Results Management process. See Article 10.9.3.3. However, actions taken as part of a Person's legitimate defense to an anti-doping rule violation charge shall not be considered Tampering. Offensive conduct towards a Doping Control official or other Person involved in Doping Control which does not otherwise constitute Tampering shall be addressed in the disciplinary rules of sport organizations.]_ 
 
 _Target Testing_: Selection of specific _Riders_ for _Testing_ based on criteria set forth in the _UCI Testing_ and Investigations Regulations. 
 
@@ -2020,7 +2021,7 @@ _UCI Disciplinary Commission_: the Commission established by the _UCI_ Constitut
 
 _UCI Website:_ a website on which these Anti-Doping Rules and other documents referred to in these Anti-Doping Rules are made available in their current version. 
 
-_UNESCO Convention_: The International Convention against Doping in Sport adopted by the 33[rd] session of the UNESCO General Conference on 19 October 2005 including any and all amendments adopted by the States Parties to the Convention and the Conference of Parties to the International Convention against Doping in Sport. 
+_UNESCO Convention_: The International Convention against Doping in Sport adopted by the 33<sup>rd</sup> session of the UNESCO General Conference on 19 October 2005 including any and all amendments adopted by the States Parties to the Convention and the Conference of Parties to the International Convention against Doping in Sport. 
 
 _Use_: The utilization, application, ingestion, injection or consumption by any means whatsoever of any _Prohibited Substance_ or _Prohibited Method_. 
 

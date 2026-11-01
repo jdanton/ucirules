@@ -231,7 +231,7 @@ The UCI Event Safety Manager shall also verify that:
 
 - All drivers of vehicles and motorcycles in the race convoy respect the relevant provisions of the Highway Code applicable in the country in which the event is being run (Article 2.2.038).All safety personnel operate under valid legal authority and insurance coverage. 
 
-- Emergency access and medical response provisions meet the standards of the relevant health and civil protection authorities. 
+- • Emergency access and medical response provisions meet the standards of the relevant health and civil protection authorities. 
 
 # **4.2 Course Safety** 
 
@@ -488,9 +488,7 @@ In the event of any medical intervention requiring the convoy to slow down or to
 
 - Log the incident in the Incident Register. 
 
-# **6 Responsibilities of the UCI Event Safety Manager after the event** 
-
-# **6.1 Safety Debrief** 
+# **6 Responsibilities of the UCI Event Safety Manager after the event 6.1 Safety Debrief** 
 
 The UCI Event Safety Manager leads a safety debrief following the event. Participants include the Race Director, the Police or Gendarmerie Commander and the Chief Medical Officer. The agenda shall cover the following topics: 
 

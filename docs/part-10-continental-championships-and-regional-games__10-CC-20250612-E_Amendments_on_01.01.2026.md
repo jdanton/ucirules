@@ -4,19 +4,20 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/X3PWUWEmItPDmv4tsBYj4/c231
 source_sha256: a1bf9545d1de38e915288f3955f2c58b3d2d835822c571c675b4f2b70717acd7
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/10-CC-20250612-E_Amendments_on_01.01.2026.pdf-0001-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 ## **PART 10 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES Rules amendments applying on 01.01.2026** 
 
-## **Chapter I** <del>**GENERAL REGULATIONS**</del> **CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS** 
+### **Chapter I** **<del>GENERAL REGULATIONS</del> CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS** 
 
-## <del>**Calendar entry**</del> **Registration on the UCI International Calendar** 
+**<del>Calendar entry</del> Registration on the UCI International Calendar** 
 
-- **10.1.001** The Continental Championships are organised each year under the responsibility of the Continental Confederations, at least for the Olympic disciplines and the elite category and are entered on the <del>Continental</del> UCI International Calendar on a fixed date chosen in agreement with the UCI. The application for registration must reach the UCI before 1st June of the previous year. The calendar application shall be submitted by the host National Federation, acting with the approval of the relevant Continental Confederation, for the discipline in question. 
+**10.1.001** The Continental Championships are organised each year under the responsibility of the Continental Confederations, at least for the Olympic disciplines and the elite category and are entered on the <del>Continental</del> UCI International Calendar on a fixed date chosen in agreement with the UCI. The application for registration must reach the UCI before 1st June of the previous year. The calendar application shall be submitted by the host National Federation, acting with the approval of the relevant Continental Confederation, for the discipline in question. 
 
 The cyclo-cross Continental Championships take place on the first weekend of November. 
 
@@ -24,7 +25,7 @@ The track cycling Continental Championships (men elite and women elite) shall ta
 
 _(text modified on 01.07.09; 09.11.16; 12.06.20; 01.01.26)_ 
 
-## <del>**Race programme**</del> **Technical Documentation and UCI Officials** 
+#### **<del>Race programme</del> Technical Documentation and UCI Officials** 
 
 **10.1.003** The UCI must be informed about the technical guide, the event <del>race</del> programme and the competition schedule <del>at the latest two months before for approval</del> in accordance with the instructions laid down in the registration procedures for UCI International Calendars. For each discipline and specialty in which a Continental Confederation registers a Continental Championships on the UCI International Calendar, the event <del>race p</del> rogramme must at least include the categories of riders which feature in the UCI World Championships for the discipline and specialty in question, as defined in Part IX of the UCI Regulations, “World Championships”. Continental Championships for different specialties of the same discipline (if held) may be held in either the same event or in separate events, though in case of separate events, the financial obligations related to registration on the UCI International Calendar must be paid for each. 
 
@@ -36,11 +37,15 @@ Page **1** / **5**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 E: admin@uci.ch 
+T: +41 24 468 58 11 
 
-## <del>**Technical supervision of races**</del> 
+E: admin@uci.ch 
 
-**10.1.04** To ensure the technical supervision of races, the UCI will directly appoint: 
+#### **<del>Technical supervision of races</del>** 
+
+#### **10.1.04** 
+
+To ensure the technical supervision of races, the UCI will directly appoint: 
 
 - A UCI Technical Delegate <del>, responsible for representing the UCI and for guaranteeing its   interests (from 2001)</del> 
 
@@ -52,7 +57,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 _(text modified on 01.01.26)_ 
 
-## **Participation** 
+#### **Participation** 
 
 **10.1.005** Only National Federations affiliated to their Continental <del>Association</del> Confederation, can take part in the Continental Championships. In case the Continental Confederation does not define a specific qualification system for each category of rider, by default the maximum number of riders taking part in the various <del>races</del> events for each category of rider will be the same for all participating National Federations. 
 
@@ -84,11 +89,11 @@ M = Men, W = Women <del>, R = rider eligible in the Nation Ranking</del>
 
 _(text modified on 05.03.18; 17.10.22; 01.01.25; 01.01.26)_ 
 
-## **Chapter II REGIONAL GAMES – GENERAL REGULATIONS** 
+### **Chapter II REGIONAL GAMES – GENERAL REGULATIONS** 
 
 _(Chapter introduced on 01.01.26)_ 
 
-## **Definition** 
+#### **Definition** 
 
 **10.2.001** As concerns cycling, Regional Games are multi-sport events which: a) include at least one of the Olympic or Paralympic cycling disciplines, b) are open to participation by athletes from at least two nations, and c) are held under the auspices of a responsible authority which is either a body recognised by the UCI (example. g, a Continental Confederation) or by the International Olympic Committee (based on the list published by the IOC). 
 
@@ -114,7 +119,7 @@ Some examples of currently held multi-sport events which may be designated as Re
 
 - Central American and Caribbean Games 
 
-- South American Games 
+- • South American Games 
 
 - Arab Games 
 
@@ -128,7 +133,7 @@ Some examples of currently held multi-sport events which may be designated as Re
 
 - Mediterranean Games 
 
-- Games of the Small States of Europe 
+• Games of the Small States of Europe 
 
 - The Commonwealth Games 
 
@@ -138,7 +143,7 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-## **Registration on the UCI International Calendar** 
+**Registration on the UCI International Calendar** 
 
 **10.2.002** Multi-sport events fulfilling both the above definition and the following conditions may be registered as Regional Games on the UCI International Calendar for each of the Olympic disciplines included in the programme. Registration shall follow the calendar registration procedures for each discipline as published by the UCI each year. 
 
@@ -158,11 +163,9 @@ However, the Commissaires’ Panel remains responsible for verifying rider eligi
 
 - v. Categories, gender parity and awards: All categories of riders must respect the UCI Regulations of each included discipline for both Men and Women. For each category included (e.g. Juniors, U23, Elite), both Men’s and Women’s competitions must be held, and the winners must be equally recognised. 
 
-## **Results and UCI Rankings** 
+#### **Results and UCI Rankings** 
 
-## **10.2.003** 
-
-In case the list of nations eligible to participate in the event in question differs in any way from the list of National Federations affiliated with the UCI (e.g. in the case of the Commonwealth Games), results of the event must be compiled and submitted using National Federations affiliated with the UCI. 
+**10.2.003** In case the list of nations eligible to participate in the event in question differs in any way from the list of National Federations affiliated with the UCI (e.g. in the case of the Commonwealth Games), results of the event must be compiled and submitted using National Federations affiliated with the UCI. 
 
 UCI Ranking points shall be awarded in accordance with the points scale and regulations applicable to the relevant discipline. 
 
@@ -172,13 +175,13 @@ Allée Ferdi Kübler 12 1860 Aigle Switzerland
 
 T: +41 24 468 58 11 E: admin@uci.ch 
 
-## **UCI Officials** 
+#### **UCI Officials** 
 
-- **10.2.004** Appointment of UCI International Commissaires (or Judges for BMX Freestyle): The UCI will appoint the President of the Commissaires’ Panel (or the Head Judge for BMX Freestyle events) for each included discipline of a Regional Games in accordance with the article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. Where possible, the same official may serve across multiple disciplines, in line with Commissaire specialisation. 
+**10.2.004** Appointment of UCI International Commissaires (or Judges for BMX Freestyle): The UCI will appoint the President of the Commissaires’ Panel (or the Head Judge for BMX Freestyle events) for each included discipline of a Regional Games in accordance with the article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. Where possible, the same official may serve across multiple disciplines, in line with Commissaire specialisation. 
 
 The other Commissaires for each included discipline will be appointed by the host National Federation in compliance with article 1.2.116 of the UCI Regulations. 
 
-- **10.2.005** Appointment of the UCI Technical Delegate: Upon written request by the organisers the UCI may appoint one or more UCI Technical Delegates whose number and identity will be decided by the UCI and will depend upon the schedule of the event and availability of sufficient suitably skilled officials. Such appointment shall be done only following written agreement of the organisers to pay the daily allowance and expenses of each such UCI Technical Delegate in accordance with the UCI Financial Obligations, including for any agreed pre-event site visits that may be necessary. 
+**10.2.005** Appointment of the UCI Technical Delegate: Upon written request by the organisers the UCI may appoint one or more UCI Technical Delegates whose number and identity will be decided by the UCI and will depend upon the schedule of the event and availability of sufficient suitably skilled officials. Such appointment shall be done only following written agreement of the organisers to pay the daily allowance and expenses of each such UCI Technical Delegate in accordance with the UCI Financial Obligations, including for any agreed pre-event site visits that may be necessary. 
 
 In case no request to appoint one or more UCI Technical Delegates is received, the UCI must be informed of the identity of the Technical Delegates who will be appointed either by the responsible Continental Confederation or National Federation, whichever the case may be. 
 

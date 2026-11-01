@@ -99,11 +99,11 @@ In no event may the UCI be held responsible for accidents or health problems to 
 
    - Full contact details for the organiser 
 
-   - The special regulations for the event 
+      - The special regulations for the event 
 
-      - The number of times the event has been run previously 
+   - The number of times the event has been run previously 
 
-   - The number of riders the last time the event was run 
+      - The number of riders the last time the event was run 
 
       - The number of riders expected and any applicable limits on field size 
 
@@ -351,7 +351,7 @@ _(text modified on 01.01.16)_
 
 _(text modified on 27.02.15; 01.01.16)_ 
 
-##### **Use of the UCI Gran Fondo World Series logo** 
+   - **Use of the UCI Gran Fondo World Series logo** 
 
 - **15.5.007** The right to use the brand UCI Gran Fondo World Series is granted by the UCI to the organiser, subject to the conditions set out in this section and by the UCI Gran Fondo World Series organiser’s guide in force. 
 
@@ -369,7 +369,7 @@ _(text modified on 01.01.16)_
 
 _(text modified on 01.01.16)_ 
 
-##### **Qualification for the UCI Gran Fondo World Championships** 
+   - **Qualification for the UCI Gran Fondo World Championships** 
 
 - **15.5.010** The UCI Management Committee shall decide the qualification system each year. 
 

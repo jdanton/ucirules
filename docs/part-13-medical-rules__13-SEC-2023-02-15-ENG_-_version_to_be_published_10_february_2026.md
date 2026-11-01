@@ -4,11 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/1E5md2JnFdQViirOf8fsi6/790
 source_sha256: e8a711b7f815adec4ae8ffb0daa5a839539bde0f86a25fecad4ae6b531fde9d3
 converter: pymupdf4llm
 ---
-## **PART 13 MEDICAL RULES** 
 
-## **[Version entering into force on 10 february 2026]** 
+# **PART 13 MEDICAL RULES** 
 
-## **SUMMARY** 
+###### **[Version entering into force on 10 february 2026]** 
+
+###### **SUMMARY** 
 
 E0226 
 
@@ -18,45 +19,41 @@ MEDICAL RULES
 
 ## **PART 13 MEDICAL RULES** 
 
-## **Chapter I OLYMPIC MOVEMENT MEDICAL CODE** 
+#### **Chapter I OLYMPIC MOVEMENT MEDICAL CODE** 
 
 - **13.1.001** In 2009 the International Olympic Committee has adopted the Olympic Movement Medical Code that is reproduced below. 
 
 The Olympic Movement Medical Code is not a formal part of the UCI Cycling Regulations. It is not a set of UCI rules or binding obligations. It is the expression of a series of principles, goals and objectives that should guide all those that are involved in athlete health care and any activity covered by this Code, in particular: riders, their personal and team doctors, national federations, national team doctors, paramedical assistants, team managers, cycling event organizers and any medical staff involved in or present at cycling events. It is to that purpose that the Olympic Movement Medical Code is reproduced below. 
 
-- **13.1.002** All shall be reminded that in the event of a conflict with the Olympic Movement Medical Code, UCI rules, in particular chapters 2 to 4 below, and also any local legislation shall apply. 
+**13.1.002** All shall be reminded that in the event of a conflict with the Olympic Movement Medical Code, UCI rules, in particular chapters 2 to 4 below, and also any local legislation shall apply. 
 
-## **Olympic Movement Medical Code In force as from 1 October 2009** 
+###### **Olympic Movement Medical Code In force as from 1 October 2009** 
 
-## **PREAMBLE** 
+###### **PREAMBLE** 
 
-Chapter I: Relationships between Athletes and Health Care Providers 
+- Chapter I: Relationships between Athletes and Health Care Providers 
 
-1. General Principles 
+   1. General Principles 
 
-2. Information 
+   2. Information 
 
-3. Consent 4. Confidentiality and Privacy 
+   3. Consent 
 
-5. Care and Treatment 6. Health Care Providers 
+   4. Confidentiality and Privacy 
 
-Chapter II: Protection and Promotion of the Athlete’s Health during Training and Competition 
+   5. Care and Treatment 
 
-7. General Principles 8. Fitness to Practise a Sport 
+   6. Health Care Providers 
 
-9. Medical Support 
+- Chapter II: Protection and Promotion of the Athlete’s Health during Training and Competition 
 
-Chapter III: Adoption, Compliance and Monitoring 
+   7. General Principles 8. Fitness to Practise a Sport 9. Medical Support 
 
-10. Adoption 
+- Chapter III: Adoption, Compliance and Monitoring 10. Adoption 11. Compliance 12. Monitoring 
 
-11. Compliance 12. Monitoring 
+- Chapter IV: Scope, Entry into Force and Amendments 
 
-Chapter IV: Scope, Entry into Force and Amendments 
-
-13. Scope 
-
-14. Entry into Force 15. Amendments 
+   13. Scope 14. Entry into Force 15. Amendments 
 
 E0226 
 
@@ -64,15 +61,15 @@ E0226
 
 MEDICAL RULES 
 
-## **PREAMBLE** 
+###### **PREAMBLE** 
 
-## _“Fundamental Principles of Olympism_ 
+###### _“Fundamental Principles of Olympism_ 
 
 - _1 Olympism is a philosophy of life, exalting and combining in a balanced whole the qualities of body, will and mind. Blending sport with culture and education, Olympism seeks to create a way of life based on the joy of effort, the educational value of good example and respect for universal fundamental ethical principles._ 
 
 - _2 The goal of Olympism is to place sport at the service of the harmonious development of man, with a view to promoting a peaceful society concerned with the preservation of human dignity.”_ 
 
-## **Olympic Charter, July 2007** 
+###### **Olympic Charter, July 2007** 
 
 1. The Olympic Movement, in accomplishing its mission, should encourage all stakeholders to take measures to ensure that sport is practised without danger to the health of the athletes and with respect for fair play and sports ethics. To that end, it encourages those measures necessary to protect the health of participants and to minimise the risks of physical injury and psychological harm. It also encourages measures that will protect athletes in their relationships with physicians and other health care providers. 
 
@@ -82,9 +79,9 @@ MEDICAL RULES
 
 4. The Olympic Movement Medical Code is directed toward the Olympic Games, championships of the International Federations and competitions to which the International Olympic Committee (IOC) grants its patronage or support, and to all sport practised within the context of the Olympic Movement, both during training and competition. 
 
-## **Chapter I: Relationships between Athletes and Health Care Providers** 
+###### **Chapter I: Relationships between Athletes and Health Care Providers** 
 
-**1. General Principles** 
+###### **1. General Principles** 
 
 - 1.1. Athletes should enjoy the same fundamental rights as all patients in their relationships with physicians and health care providers, in particular, respect for: 
 
@@ -106,11 +103,11 @@ E0226
 
 MEDICAL RULES 
 
-## **2. Information** 
+###### **2. Information** 
 
 Athletes should be fully informed, in a clear and appropriate way, about their health status and their diagnosis; preventive measures; proposed medical interventions, together with the risks and benefits of each intervention; alternatives to proposed interventions, including the consequences of non-treatment for their health and for their return to sports practice; and the prognosis and progress of treatment and rehabilitation measures. 
 
-## **3. Consent** 
+###### **3. Consent** 
 
 - 3.1. The voluntary and informed consent of the athletes should be required for any medical intervention. 
 
@@ -126,7 +123,7 @@ When the legal representative has to give authorisation, athletes, whether minor
 
 - 3.6. Consent of the athletes is required for the collection, preservation, analysis and use of any biological sample. 
 
-## **4. Confidentiality and Privacy** 
+**4. Confidentiality and Privacy** 
 
 - 4.1. All information about an athlete’s health status, diagnosis, prognosis, treatment, rehabilitation measures and all other personal information should be kept confidential, even after the death of the athlete and all applicable legislation should be respected. 
 
@@ -148,7 +145,7 @@ MEDICAL RULES
 
 - 4.7. Any medical intervention should respect privacy and be carried out in the presence of only those persons necessary for the intervention, unless the athlete expressly consents or requests otherwise. 
 
-## **5. Care and Treatment** 
+**5. Care and Treatment** 
 
 - 5.1. Athletes should receive such health care as is appropriate to their needs, including preventive care, activities aimed at health promotion and rehabilitation measures. Services should be continuously available and accessible to all equitably, without discrimination and according to the financial, human and material resources available for such purpose. 
 
@@ -162,7 +159,7 @@ MEDICAL RULES
 
 - 5.6. Athletes should enjoy relief of their suffering according to the latest recognised medical knowledge. Treatments with an analgesic effect, which allow an athlete to practise a sport with an injury or illness, should be carried out only after careful consideration and consultation with the athlete and other health care providers. If there is a long-term risk to the athlete’s health, such treatment should not be given. Procedures that are solely for the purpose of masking pain or other protective symptoms in order to enable the athlete to practise a sport with an injury or illness should not be administered if, in the absence of such procedures, his or her participation would be medically inadvisable or impossible. 
 
-## **6. Health Care Providers** 
+###### **6. Health Care Providers** 
 
 - 6.1. The same ethical principles that apply to the current practice of medicine should apply equally to sports medicine. The principal duties of physicians and other health care providers include: 
 
@@ -196,9 +193,9 @@ In the case of serious danger to the athlete, or when there is a risk to third p
 
 - 6.9. When necessary, the team or competition physician should ensure that injured athletes have access to specialised care, by organising medical follow-up by recognised specialists. 
 
-## **Chapter II: Protection and Promotion of the Athlete’s Health during Training and Competition** 
+###### **Chapter II: Protection and Promotion of the Athlete’s Health during Training and Competition** 
 
-## **7. General Principles** 
+**7. General Principles** 
 
 - 7.1. No practice constituting any form of physical injury or psychological harm to athletes should be acceptable. Members of the Olympic Movement should ensure that the athletes’ conditions of safety, well-being and medical care are favourable to their physical and mental equilibrium. They should adopt the necessary measures to achieve this end and to minimise the risk of injuries and illness. The participation of sports physicians is desirable in the drafting of such measures. 
 
@@ -218,7 +215,7 @@ MEDICAL RULES
 
 - 7.6. Advances in sports medicine and sports science should not be withheld and should be published and widely disseminated. 
 
-## **8. Fitness to Practise a Sport** 
+**8. Fitness to Practise a Sport** 
 
 - 8.1. Except when there are symptoms or a significant family medical history, the practice of sport for all does not require undergoing a fitness test. The recommendation for an athlete to undergo such a test is the responsibility of the personal physician. 
 
@@ -228,7 +225,7 @@ MEDICAL RULES
 
 - 8.4. Any genetic test that attempts to gauge a particular capacity to practise a sport constitutes a medical evaluation to be performed under the responsibility of a specially trained physician. 
 
-## **9. Medical Support** 
+###### **9. Medical Support** 
 
 - 9.1. In each sports discipline, appropriate guidelines should be established regarding the necessary medical support, depending on the nature of the sports activities and the level of competition. These guidelines should address, but not be limited to, the following points: 
 
@@ -244,9 +241,9 @@ MEDICAL RULES
 
 - 9.3. To reinforce safety in the practice of sports, a mechanism should be established to allow for data collection with regard to injuries sustained during training or competition. When identifiable, such data should be collected with the consent of those concerned and be treated confidentially in accordance with the recognised ethical principles of research. 
 
-## **Chapter III: Adoption, Compliance and Monitoring** 
+###### **Chapter III: Adoption, Compliance and Monitoring** 
 
-## **10. Adoption** 
+###### **10. Adoption** 
 
 E0226 
 
@@ -260,7 +257,7 @@ MEDICAL RULES
 
 - 10.3. A list of all Signatories will be made public by the IOC. 
 
-## **11. Compliance** 
+###### **11. Compliance** 
 
 - 11.1. The Signatories implement the applicable Code provisions through policies, statutes, rules or regulations according to their authority and within their respective spheres of responsibility. They undertake to make the principles and provisions of the Code widely known, by active and appropriate means. For that purpose, they collaborate closely with the relevant physicians’ and health care providers’ associations and the competent authorities. 
 
@@ -268,15 +265,15 @@ MEDICAL RULES
 
 - 11.3. Physicians and other health care providers remain bound to respect their own ethical and professional rules in addition to the applicable Code provisions. In the case of any discrepancy, the most favourable rule that protects the health, the rights and the interests of the athletes should prevail. 
 
-## **12. Monitoring** 
+###### **12. Monitoring** 
 
 - 12.1. The IOC Medical Commission oversees the implementation of the Code and receives feedback relating to it. It is also responsible for monitoring changes in the field of ethics and best medical practice and for proposing adaptations to the Code. 
 
 - 12.2. The IOC Medical Commission may issue recommendations and models of best practice with a view to facilitating the implementation of the Code. 
 
-## **Chapter IV: Scope, Entry into Force and Amendments** 
+###### **Chapter IV: Scope, Entry into Force and Amendments** 
 
-## **13. Scope** 
+###### **13. Scope** 
 
 - 13.1. The Code applies to all participants in the sports activities governed by each Signatory, in competition as well as out of competition. 
 
@@ -284,7 +281,7 @@ MEDICAL RULES
 
 - 13.1. The Code applies without prejudice to the national and international ethical, legal and regulatory requirements that are more favourable to the protection of the health, rights and interests of the athletes. 
 
-## **14. Entry into Force** 
+**14. Entry into Force** 
 
 - 14.1. The Code enters into force for the IOC on 1 October 2009. It applies to all Olympic Games, beginning with the 2010 Vancouver Olympic Winter Games. 
 
@@ -298,7 +295,7 @@ MEDICAL RULES
 
 - 14.3. The Signatories may withdraw acceptance of the Code after providing the IOC with written notice of their intent to withdraw. 
 
-## **15. Amendments** 
+###### **15. Amendments** 
 
 - 15.1. Athletes, Signatories and other members of the Olympic Movement are invited to participate in improving and modifying the Code. They may propose amendments. 
 
@@ -308,7 +305,7 @@ MEDICAL RULES
 
 - 15.4. Each Signatory must adopt the amendments approved by the IOC Executive Board within one year after notification of such amendments. Failing this, a Signatory may no longer claim that it complies with the Olympic Movement Medical Code. 
 
-## **Adopted by the IOC Executive Board in Lausanne on 16 June 2009** 
+###### **Adopted by the IOC Executive Board in Lausanne on 16 June 2009** 
 
 E0226 
 
@@ -316,9 +313,9 @@ E0226
 
 MEDICAL RULES 
 
-## **Chapter II MEDICAL ACTORS IN CYCLING** 
+#### **Chapter II MEDICAL ACTORS IN CYCLING** 
 
-## **§ 1 UCI Medical Commission** 
+##### **§ 1 UCI Medical Commission** 
 
 - **13.2.001** The UCI Medical Commission is established by the Management Committee of the UCI. 
 
@@ -326,15 +323,15 @@ The roles and responsibilities shall be as defined by the Management Committee o
 
 _Comment: the decision of the UCI Management Committee dated 18-19 June 2009 and defining the terms of reference of the UCI Medical Commission is reproduced as annex1 to this part 13.]_ 
 
-## **§ 2 UCI Doctor** 
+##### **§ 2 UCI Doctor** 
 
 - **13.2.002** The UCI Doctor is the medical doctor appointed by the UCI who coordinates the work of the UCI Medical Commission and is the Commission’s contact person with the UCI. 
 
-## **§ 3 UCI Medical Delegate** 
+##### **§ 3 UCI Medical Delegate** 
 
-- **13.2.003** The Medical Commission shall appoint a UCI Medical Delegate for such UCI World Championships as selected by the Commission. The UCI Medical Delegate will sign a declaration of confidentiality form when accepting the designation. 
+**13.2.003** The Medical Commission shall appoint a UCI Medical Delegate for such UCI World Championships as selected by the Commission. The UCI Medical Delegate will sign a declaration of confidentiality form when accepting the designation. 
 
-**13.2.004** The duties of the UCI Medical Delegate shall be: 
+- **13.2.004** The duties of the UCI Medical Delegate shall be: 
 
    1. Where appropriate, to observe and advise on the application of the UCI health rules and the Olympic Movement Medical Code; 
 
@@ -344,15 +341,11 @@ _Comment: the decision of the UCI Management Committee dated 18-19 June 2009 and
 
    4. To obtain from the Chief Medical Officer at the end of each day the ad hoc list form of riders who required medical care and of the riders who were evacuated to a medical care centre; 
 
-   5. To visit riders who have been evacuated to medical care centres; 
-
-   6. To be the contact person for team doctors; 
+   5. To visit riders who have been evacuated to medical care centres; 6. To be the contact person for team doctors; 
 
    7. To receive information on riders listed on the starting list and who don’t wish to compete for medical reasons. 
 
-   8. To coordinate on site research projects initiated by the Medical Commission. 
-
-   9. To make a final report to the Medical Commission on the medical services at the World Championships. 
+   8. To coordinate on site research projects initiated by the Medical Commission. 9. To make a final report to the Medical Commission on the medical services at the World Championships. 
 
 - **13.2.005** Checks carried out by the UCI Official Doctor are limited to checks of compliance with the UCI rules and do not shift responsibility for the medical services from the organizer 
 
@@ -364,7 +357,7 @@ MEDICAL RULES
 
 to the UCI. Findings of non-compliance are notified to the organizer who shall take appropriate measures and remain exclusively responsible for the safety at the world championships under the UCI rules and the terms of the organization agreement. 
 
-## **§ 4 National Medical Doctor** 
+##### **§ 4 National Medical Doctor** 
 
 - **13.2.006** Each National Federation shall appoint a medical doctor as national medical doctor. Whenever possible the National Federation shall appoint a doctor that is familiar with sports medicine. 
 
@@ -374,7 +367,7 @@ to the UCI. Findings of non-compliance are notified to the organizer who shall t
 
 - **13.2.009** The national medical doctor shall establish a relationship and cooperate with the UCI Medical Commission. 
 
-## **§ 5 Team Doctors** 
+##### **§ 5 Team Doctors** 
 
 - **13.2.010** Only doctors who hold a licence as a team doctor issued by their National Federation may be engaged or appointed by National Federations, Teams, sponsors, clubs, cycling associations, or any other cycling body to provide medical care to their respective riders. 
 
@@ -396,57 +389,55 @@ MEDICAL RULES
 
 11 
 
-## **13.2.016** 
+- **13.2.016** Regardless of his contractual obligations to the team the role and responsibilities of a team doctor shall include: 
 
-- Regardless of his contractual obligations to the team the role and responsibilities of a team doctor shall include: 
+   1. Have as primary concern to provide the best medical care for the riders of the team at all levels and under all circumstances and commit the necessary time and effort to that end 
 
-1. Have as primary concern to provide the best medical care for the riders of the team at all levels and under all circumstances and commit the necessary time and effort to that end 
+   2. Continue medical training in sports medicine 
 
-2. Continue medical training in sports medicine 
+   3. Develop and maintain basic knowledge of medicolegal, disability and workers’ compensation issues 
 
-3. Develop and maintain basic knowledge of medicolegal, disability and workers’ compensation issues 
+   4. Develop and maintain a profound knowledge of the athletic specificities of the cycling disciplines of the riders of the team 
 
-4. Develop and maintain a profound knowledge of the athletic specificities of the cycling disciplines of the riders of the team 
+   5. Coordinate pre-participation screening, examination, and evaluation; 
 
-5. Coordinate pre-participation screening, examination, and evaluation; 
+   6. Prevent and manage injuries and illnesses; 
 
-6. Prevent and manage injuries and illnesses; 
+   7. Coordinate rehabilitation and return to participation; 
 
-7. Coordinate rehabilitation and return to participation; 
+   8. Provide for proper preparation for safe return to participation after an illness or injury; 
 
-8. Provide for proper preparation for safe return to participation after an illness or injury; 
+   9. Integrate medical expertise with other health care providers 
 
-9. Integrate medical expertise with other health care providers 
+   10. Provide for appropriate education and counselling to the riders regarding nutrition, strength training and conditioning, ergogenic aids, substance abuse, prohibited substances and methods and other medical problems that could affect the riders; 
 
-10. Provide for appropriate education and counselling to the riders regarding nutrition, strength training and conditioning, ergogenic aids, substance abuse, prohibited substances and methods and other medical problems that could affect the riders; 
+   11. Provide for proper documentation and medical record keeping; 
 
-11. Provide for proper documentation and medical record keeping; 
+   12. Participate in health surveys and other efforts to improve the medical care in cycling; 
 
-12. Participate in health surveys and other efforts to improve the medical care in cycling; 
+   13. Establish and define the roles and relationships of all parties within the team in relation to health issues; 
 
-13. Establish and define the roles and relationships of all parties within the team in relation to health issues; 
+   14. Develop a chain of command within the team in relation to health issues; 
 
-14. Develop a chain of command within the team in relation to health issues; 
+   15. Educate riders, parents (for minors), team managers, coaches, and other involved parties on concerns regarding the riders; 
 
-15. Educate riders, parents (for minors), team managers, coaches, and other involved parties on concerns regarding the riders; 
+   16. Plan and train for emergencies during competition and training; 
 
-16. Plan and train for emergencies during competition and training; 
+   17. Address medical equipment and supply issues; 
 
-17. Address medical equipment and supply issues; 
+   18. Provide for proper event coverage in terms of medical care 
 
-18. Provide for proper event coverage in terms of medical care 
-
-19. Assess environmental concerns and cycling conditions 
+   19. Assess environmental concerns and cycling conditions 
 
 The responsibilities of the team doctor shall not exonerate or affect the responsibilities that other persons have under the UCI regulations. 
 
-- **13.2.017** Any breach by a team doctor of the obligations imposed in this part 13 of the UCI regulations may be sanctioned by the UCI Disciplinary Commission by a suspension of between eight days and one year and/or a fine of between CHF 500.00 and CHF 5,000.00. In the case of a second offence within two years of the first, the team doctor will be suspended for a duration of at least six months or excluded permanently and subjected to a fine of between CHF 1,000.00 and CHF 10,000.00. 
+**13.2.017** Any breach by a team doctor of the obligations imposed in this part 13 of the UCI regulations may be sanctioned by the UCI Disciplinary Commission by a suspension of between eight days and one year and/or a fine of between CHF 500.00 and CHF 5,000.00. In the case of a second offence within two years of the first, the team doctor will be suspended for a duration of at least six months or excluded permanently and subjected to a fine of between CHF 1,000.00 and CHF 10,000.00. 
 
 Where applicable a breach shall be qualified as a serious shortcoming of best medical practices. 
 
 Furthermore, the matter may be passed over to the national medical disciplinary authorities. 
 
-- **13.2.018** Any contravention of article 13.2.010, article 13.2.014 or article 13.2.015 may be sanctioned by the UCI Disciplinary Commission by a suspension of the body in question for between one month and one year and/or a fine of between CHF 1,000.00 and CHF 10,000.00. In the event of a second or subsequent offence within five years 
+**13.2.018** Any contravention of article 13.2.010, article 13.2.014 or article 13.2.015 may be sanctioned by the UCI Disciplinary Commission by a suspension of the body in question for between one month and one year and/or a fine of between CHF 1,000.00 and CHF 10,000.00. In the event of a second or subsequent offence within five years 
 
 E0226 
 
@@ -458,13 +449,13 @@ of the first, the offence shall be penalised by a fine of between CHF 2,000.00 a
 
 - **13.2.019** If the case involves a rider who, during the year of the offence, has taken part in or is taking part in races on the international calendar, the National Federation shall inform the UCI before it starts disciplinary procedures. The UCI may require disciplinary proceedings to be held in accordance with the Anti-Doping regulations. If the UCI does not make use of this right within fifteen days of its being informed of the case by the National Federation, the latter may proceed with disciplinary proceedings in accordance with its own regulations. 
 
-## **§ 6 Paramedical Assistants** 
+##### **§ 6 Paramedical Assistants** 
 
-## **Definition** 
+###### **Definition** 
 
 - **13.2.020** The term Paramedical Assistant shall be taken to mean any person who, regularly, at the request or on the direct or indirect initiative of a National Federation, a Team, a sponsor, a club, a cycling association, or any other cycling entity, administers to a rider any paramedical or physical care in connection with the preparation for or participation in cycling races, such as, for example, the administration - under the supervision of a team doctor - of medicines, treatment in case of injury and massage. 
 
-## **Licence** 
+###### **Licence** 
 
 - **13.2.021** With the exception of doctors holding a UCI licence as a team doctor, no-one may act as Paramedical Assistant without holding a Paramedical Assistant’s licence. 
 
@@ -472,7 +463,7 @@ of the first, the offence shall be penalised by a fine of between CHF 2,000.00 a
 
 - **13.2.023** The conditions for obtaining a licence as a Paramedical Assistant shall be set by National Federations. These conditions must ensure that such licences are issued only to those capable of offering quality assistance which respects the imperatives of health and, where applicable, the laws governing the practice of health professionals. It is desirable that a licence is granted only to persons that hold a diploma and have continued training in the field of the services that they are to extend to the riders, have a working knowledge of medical conditions affecting athletes and possess a basic knowledge of first aid at sporting events. 
 
-## **Rules of conduct** 
+###### **Rules of conduct** 
 
 - **13.2.024** The Paramedical Assistant shall provide the best care for the riders of the team at all levels and under all circumstances and commit the necessary time and effort to that end. 
 
@@ -502,9 +493,7 @@ oppose training sessions or participation in races in cases where the health and
 
 - **13.2.033** The Paramedical Assistant shall be required to follow the instructions of a doctor when treating a sick or injured rider. 
 
-- **13.2.034** In particular, the Paramedical Assistant shall abstain from and oppose any involvement in acts and methods prohibited under the UCI Anti-Doping regulations. 
-
-## **Fundamental rights of the rider** 
+- **13.2.034** In particular, the Paramedical Assistant shall abstain from and oppose any involvement in acts and methods prohibited under the UCI Anti-Doping regulations. **Fundamental rights of the rider** 
 
 - **13.2.035** The Paramedical Assistant may not perform any act on the rider without the consent of the rider himself. 
 
@@ -514,11 +503,11 @@ oppose training sessions or participation in races in cases where the health and
 
 - **13.2.038** The Paramedical Assistant shall respect the privacy of the rider and, in the interest of that privacy, be discreet about the care administered, notwithstanding his obligation to disclose information required by or under the regulations of the UCI and of National Federations or a legal provision. 
 
-## **Penalties** 
+###### **Penalties** 
 
 - **13.2.039** Any breach by a Paramedical Assistant of the obligations deriving from this part 13 of the UCI regulations may be sanctioned by the UCI Disciplinary Commission by a suspension of at least eight days up to a maximum of one year and/or a fine of minimum CHF 500.00 to maximum CHF 5,000.00. In the case of a second breach being committed within two years of a first breach, the Paramedical Assistant shall be suspended for a minimum duration of six months or will be debarred for life and subjected to a fine of minimum CHF 1,000.00 up to maximum CHF 10,000.00. 
 
-Where applicable a breach shall be qualified as a serious shortcoming of best practices of the profession. 
+   - Where applicable a breach shall be qualified as a serious shortcoming of best practices of the profession. 
 
 - **13.2.040** Any person, club, Team, Federation or other organisation calling on the services of a person not holding a Paramedical Assistant’s or doctor’s licence for the purpose of 
 
@@ -540,15 +529,15 @@ MEDICAL RULES
 
 15 
 
-## **Chapter III PROTECTION AND PROMOTION OF THE RIDER’S HEALTH** 
+#### **Chapter III PROTECTION AND PROMOTION OF THE RIDER’S HEALTH** 
 
-## **§ 1 General rules** 
+##### **§ 1 General rules** 
 
 - **13.3.001** Each rider shall take care of his physical condition and be attentive to health and safety risks. 
 
 - **13.3.002** Each Team taking part in cycling events shall constantly and systematically ensure that its members are in proper physical condition to engage in cycling. 
 
-   - It shall also ensure that their members practice the sport under safe conditions. It shall ensure in particular that the rider is in good health when returning to competition after a break. 
+It shall also ensure that their members practice the sport under safe conditions. It shall ensure in particular that the rider is in good health when returning to competition after a break. 
 
 - **13.3.003** At cycling events, it is the responsibility of the team or race doctor, if any, to determine whether an injured rider may continue in or return to the competition. This decision may not be delegated to other professionals or personnel. At all times, the priority must be to safeguard the health and safety of rider. The potential outcome of the competition must never influence such decisions. 
 
@@ -556,15 +545,15 @@ If the team doctor and the race doctor have a different opinion on whether the r
 
 - **13.3.004** National Federations shall have freedom of action as regards health protection and medical monitoring for their license-holders in addition to the medical monitoring provided by these UCI regulations. 
 
-A pre-participation medical test is recommended for high level athletes. It should be performed under the responsibility of a specially trained physician. 
+   - A pre-participation medical test is recommended for high level athletes. It should be performed under the responsibility of a specially trained physician. 
 
 - **13.3.005** During races on the international calendar, no controls other than those imposed under the UCI regulations may be organized or accepted. This shall apply to the incompetition period for each race as defined in UCI’s Anti-Doping Rules. 
 
 - **13.3.006** Each UCI ProTeam and each Professional Continental Team shall appoint a medical doctor, ideally a sports medicine doctor, as its team doctor. Other UCI-registered teams shall endeavour to appoint a medical doctor as their team doctor, ideally a sports medicine doctor. 
 
-## **§ 2 Medical monitoring of UCI WorldTeams and UCI ProTeams** 
+##### **§ 2 Medical monitoring of UCI WorldTeams and UCI ProTeams** 
 
-## **General** 
+**General** 
 
 - **13.3.007** This section shall apply to the UCI WorldTeams and UCI ProTeams. 
 
@@ -588,9 +577,9 @@ MEDICAL RULES
 
 - **13.3.014** The Team doctor shall inform the UCI Medical Commission of the risks observed and of any information or suggestion that may be useful for the cycling community in terms of health, medicine and prevention. 
 
-## **Tests** 
+###### **Tests** 
 
-- **13.3.015** Riders must undergo the medical tests listed in the "Programme of obligatory tests for UCI medical monitoring" drawn up by the Medical Commission. 
+**13.3.015** Riders must undergo the medical tests listed in the "Programme of obligatory tests for UCI medical monitoring" drawn up by the Medical Commission. 
 
 This programme will also set the procedures for the implementation of this section. The programme is obligatory for the parties concerned on the same basis as these regulations and is subject to the sanctions set out in the same. 
 
@@ -604,7 +593,7 @@ The programme and its amendments shall come into force as from the moment that t
 
 - **13.3.019** The obligatory tests shall be carried out at the Teams’ expense. 
 
-## **Medical file** 
+###### **Medical file** 
 
 - **13.3.020** The Team doctor shall keep a medical file for each rider. 
 
@@ -626,15 +615,15 @@ MEDICAL RULES
 
 - **13.3.026** The rider’s career must be concluded with a medical examination to review the medical events that occurred during their active period. Following this examination, the medical file will be permanently returned to the rider. No medical documents will be kept by the team doctor. 
 
-## **Controls** 
+###### **Controls** 
 
-- **13.3.027** After each examinations, the team doctor will submit a report to the UCI Medical Director, using the template provided by the department, detailing the examinations conducted for each rider. The UCI Medical Director must receive this report no later than the 15[th] of the month following the month in which the examinations took place. 
+- **13.3.027** After each examinations, the team doctor will submit a report to the UCI Medical Director, using the template provided by the department, detailing the examinations conducted for each rider. The UCI Medical Director must receive this report no later than the 15<sup>th</sup> of the month following the month in which the examinations took place. 
 
 - **13.3.028** Upon the request of the UCI Medical Director, and within the deadlines and procedures he has established, the team doctor will provide medical information. This information will be treated with the utmost confidentiality. 
 
 - **13.3.029** The UCI Medical Director will ensure that no one other than authorized healthcare professionals within the UCI Medical Department has access to riders’ medical information. 
 
-## **Penalties** 
+###### **Penalties** 
 
 - **13.3.030** The following penalties may be imposed by the UCI Disciplinary Commission in the event of infringements of the regulations set out in the present section: 
 
@@ -652,21 +641,21 @@ E0226
 
 MEDICAL RULES 
 
-## **§ 3 Medical monitoring for women road, mountain bike (cross-country), track and BMX disciplines** 
+##### **§ 3 Medical monitoring for women road, mountain bike (cross-country), track and BMX disciplines** 
 
-- **13.3.031** This section shall apply to the following disciplines: women road, mountain-bike (cross-country), track and BMX. Riders who have to submit to the medical monitoring programme are the following: 
+- **13.3.031** This section shall apply to the following disciplines: women road, mountain-bike (cross-country), track and BMX. 
 
-   1. UCI’s Women’s Teams 
+Riders who have to submit to the medical monitoring programme are the following: 
 
-   2. Mountain-bike (cross-country): the first 100 men and the first 40 women in the UCI individual classifications, Olympic format, of the 31 December of the preceding year; 
+1. UCI’s Women’s Teams 2. Mountain-bike (cross-country): the first 100 men and the first 40 women in the UCI individual classifications, Olympic format, of the 31 December of the preceding year; 
 
-   3. Track: the first 100 men and the first 40 women in the UCI individual classifications of the 31 December of the preceding year; 
+3. Track: the first 100 men and the first 40 women in the UCI individual classifications of the 31 December of the preceding year; 
 
-   4. BMX: the first 50 men and the first 20 women of the UCI individual classifications of the 31 December of the preceding year. 
+4. BMX: the first 50 men and the first 20 women of the UCI individual classifications of the 31 December of the preceding year. 
 
-## **General** 
+###### **General** 
 
-- **13.3.032** The National Federation of the rider shall set in place and implement a prevention and safety programme that includes at least the programme of required tests set out below. 
+**13.3.032** The National Federation of the rider shall set in place and implement a prevention and safety programme that includes at least the programme of required tests set out below. 
 
 - **13.3.033** The National Federation shall be responsible for the organisation and implementation of these programmes. In case the team does not have a team doctor, the national medical doctor or the doctor appointed by the National Federation (responsible doctor) shall be responsible for the medical aspects. Such doctor shall have a license as a team doctor. 
 
@@ -676,7 +665,7 @@ MEDICAL RULES
 
 - **13.3.036** The National Federation and the responsible doctor shall help the rider to seek medical assistance. 
 
-## **Tests** 
+###### **Tests** 
 
 - **13.3.037** Riders referred to by article 13.3.031 must undergo the medical tests listed in the «Programme of obligatory tests for UCI medical monitoring» for women road, mountain biking (cross-country), track and BMX, drawn up by the UCI Medical Commission. 
 
@@ -698,7 +687,7 @@ MEDICAL RULES
 
 - **13.3.041** The obligatory tests shall be carried out at the team’s (for riders of registered teams) or national federation’s expense. 
 
-## **Medical file** 
+###### **Medical file** 
 
 - **13.3.042** The responsible doctor shall keep a medical file for each rider. 
 
@@ -714,7 +703,7 @@ MEDICAL RULES
 
 - **13.3.048** Any document dating back ten years or more shall be withdrawn from the medical file. 
 
-## **Controls** 
+###### **Controls** 
 
 - **13.3.049** On request from the UCI Medical Commission and within the time limit and in accordance with the procedures set by the Commission, the responsible doctor shall provide the Commission with the result of the tests and give the explanations and information required. 
 
@@ -726,7 +715,7 @@ E0226
 
 MEDICAL RULES 
 
-## **Penalties** 
+###### **Penalties** 
 
 **13.3.051** The following penalties may be imposed by the UCI Disciplinary Commission in the event of violation of the regulations set out in the present section: 
 
@@ -738,31 +727,31 @@ MEDICAL RULES
 
 4. to the rider’s team manager, depending on the case: a suspension of between eight days and ten years and/or a fine of between CHF 500 and CHF 10,000. In the event of an infringement committed in the two years following the first infringement, six month suspension minimum or final exclusion and a fine of CHF 1,000 to CHF 10,000. 
 
-## **§ 4 Ban on injections** 
+##### **§ 4 Ban on injections** 
 
-_Comment: the aim of this paragraph is to prohibit the use of injections to administer drugs or substances without a clear and recognized medical indication (i.e vitamins, enzymes, cofactors, sugars, amino-acids, proteins, antioxydants, etc.). In particular, it refers to injections aimed at improving and speeding up recovery or decreasing fatigue_ 
+   - _Comment: the aim of this paragraph is to prohibit the use of injections to administer drugs or substances without a clear and recognized medical indication (i.e vitamins, enzymes, cofactors, sugars, amino-acids, proteins, antioxydants, etc.). In particular, it refers to injections aimed at improving and speeding up recovery or decreasing fatigue_ 
 
-**13.3.052** The injection of any substance to any site of a rider’s body is prohibited unless all of the following conditions are met: 
+- **13.3.052** The injection of any substance to any site of a rider’s body is prohibited unless all of the following conditions are met: 
 
-1. The injection must be medically justified based on best practice. Justification includes physical examination by a certified medical doctor and an appropriately documented diagnosis, medication and route of administration; 
+   1. The injection must be medically justified based on best practice. Justification includes physical examination by a certified medical doctor and an appropriately documented diagnosis, medication and route of administration; 
 
-2. There is no alternative treatment without injection available; 
+   2. There is no alternative treatment without injection available; 
 
-3. The injection must respect the manufacturer-approved indication of the medication; 
+   3. The injection must respect the manufacturer-approved indication of the medication; 
 
-4. The injection must be administered by a certified medical professional except where normal practice is that the patient with a disease requiring injections injects him/herself (for example diabetes); 
+   4. The injection must be administered by a certified medical professional except where normal practice is that the patient with a disease requiring injections injects him/herself (for example diabetes); 
 
-5. The injection must be reported immediately and in writing not later than 24 hours afterwards to the UCI Doctor (via email [medical@uci.ch]), except for riders a. With a valid TUE; 
+   5. The injection must be reported immediately and in writing not later than 24 hours afterwards to the UCI Doctor (via email [medical@uci.ch]), except for riders a. With a valid TUE; 
 
-   - b. Vaccination 
+      - b. Vaccination 
 
-   - c. When the injection is received during hospital treatment or clinical examination; 
+      - c. When the injection is received during hospital treatment or clinical examination; 
 
-   - d. When normal practice is that the patient with a disease requiring injections injects him/herself. 
+      - d. When normal practice is that the patient with a disease requiring injections injects him/herself. 
 
 The report must be made by the medical doctor having examined the rider and must include the confirmation that a physical examination took place, the diagnosis, medication and route of administration. Where applicable it shall also include the prescription referred to in article 13.1.065. 
 
-_Comment to par. 5: the report may be sent by the medical doctor or the rider. The rider is responsible for the report to be sent._ 
+- _Comment to par. 5: the report may be sent by the medical doctor or the rider. The rider is responsible for the report to be sent._ 
 
 E0226 
 
@@ -804,7 +793,7 @@ MEDICAL RULES
 
 - **13.3.060** The disposal of any material used for an injection shall conform to recognised safety standards. 
 
-## **§ 5 Diagnosis and return to competition after concussion** 
+##### **§ 5 Diagnosis and return to competition after concussion** 
 
 - **13.3.061** All doctors and paramedical assistants who are members of a team, or involved in the medical support of a cycling competition must be familiar with and able to implement the "Cycling-specific Sport Related Concussion", as well as the "Concussion Assessment Tool for Sport" (SCAT5), available on the UCI website. 
 
@@ -840,13 +829,13 @@ E0226
 
 MEDICAL RULES 
 
-## **§6  Ban of monoxide carbon inhalations outside medical facilities** 
+##### **§6  Ban of monoxide carbon inhalations outside medical facilities** 
 
-## **13.3.066 Introduction** 
+###### **13.3.066 Introduction** 
 
 The use of systems or equipment allowing the inhalation of carbon monoxide is prohibited both in- and out-of-competition (category M1.4 of the Prohibited Methods List). 
 
-## **13.3.067 Authorised use of CO inhalation** 
+###### **13.3.067 Authorised use of CO inhalation** 
 
 The inhalation of carbon monoxide is not prohibited when it is administered as part of a diagnostic procedure, especially for determining the total haemoglobin mass and blood volume. 
 
@@ -864,9 +853,9 @@ E0226
 
 MEDICAL RULES 
 
-## **Chapter IV MEDICAL SERVICE AT EVENTS** 
+#### **Chapter IV MEDICAL SERVICE AT EVENTS** 
 
-## **§ 1 General rules** 
+##### **§ 1 General rules** 
 
 - **13.4.001** The health and safety of all involved in a cycling event shall be a primary concern of the organiser of the event. 
 
@@ -898,7 +887,7 @@ MEDICAL RULES
 
 - **13.4.011** The organizer shall be responsible for the medical services to the exclusion of the UCI. 
 
-Checks that may be carried out by or on behalf of the UCI are limited to checks of compliance with the UCI rules and do not shift responsibility for the medical services from the organizer to the UCI. The organizer remains exclusively responsible for the safety at his event. 
+   - Checks that may be carried out by or on behalf of the UCI are limited to checks of compliance with the UCI rules and do not shift responsibility for the medical services from the organizer to the UCI. The organizer remains exclusively responsible for the safety at his event. 
 
 E0226 
 
@@ -906,17 +895,17 @@ E0226
 
 MEDICAL RULES 
 
-## **§ 2  UCI World Championships, UCI World Cup events and UCI World Tour events** 
+##### **§ 2  UCI World Championships, UCI World Cup events and UCI World Tour events** 
 
 - **13.4.012** The rules of this §2 apply to UCI World Championships, UCI World Cup events, UCI World Tour, UCI Women‘s WorldTour and UCI ProSeries events. 
 
 - **13.4.013** The Local Organizing Committee (LOC) shall put in place at the minimum the resources specified below. Additional resources may be required by local law and/or by the specific circumstances of the event. 
 
-## **Human resources** 
+###### **Human resources** 
 
 **13.4.014** LOC shall appoint as Chief Medical Officer (CMO) a doctor with knowledge in sports medicine and if possible, with experience in the discipline of the event. The CMO shall be the general coordinator of the medical services at the event. 
 
-## **13.4.15** LOC shall also provide in support of the CMO: 
+- **13.4.15** LOC shall also provide in support of the CMO: 
 
    5. One assistant doctor and for road races two assistant doctors, preferably trained in sports, emergency medicine or traumatology or specialists in anaesthesiology, and holders of an ATLS diploma (Advanced Traumatic Life Support) 
 
@@ -928,27 +917,25 @@ MEDICAL RULES
 
    9. A driver for the doctor’s car at road races who shall be experienced in driving during cycle races. 
 
-- **13.4.016** Medical personnel shall ware recognizable clothing. Doctors shall wear distinctive jackets bearing the word “Doctor”. 
+**13.4.016** Medical personnel shall ware recognizable clothing. Doctors shall wear distinctive jackets bearing the word “Doctor”. 
 
-- **13.4.017** All doctors and to the extent possible all other medical personnel shall be fluent in English or French. 
+**13.4.017** All doctors and to the extent possible all other medical personnel shall be fluent in English or French. 
 
-## **Equipment** 
+###### **Equipment** 
 
-## _A. Vehicles_ 
+###### _A. Vehicles_ 
 
-- **13.4.018** 
+- **13.4.018** The LOC shall provide 
 
-The LOC shall provide 
+   10. On road races, a car, preferably a convertible, for the doctor who shall act as first responder during an accident and provide acute medical care; 
 
-10. On road races, a car, preferably a convertible, for the doctor who shall act as first responder during an accident and provide acute medical care; 
+   11. Three or more ambulances to provide immediate aid to accident victims and equipped to give emergency cardio-pulmonary resuscitation and advanced life support; at least one ambulance must be available at all times when the other ambulance(s) is/are in use. 
 
-11. Three or more ambulances to provide immediate aid to accident victims and equipped to give emergency cardio-pulmonary resuscitation and advanced life support; at least one ambulance must be available at all times when the other ambulance(s) is/are in use. 
+   12. Depending on the nature of the event, the proximity of hospitals and the suitability of evacuation routes, the following vehicles shall be provided in addition: 
 
-12. Depending on the nature of the event, the proximity of hospitals and the suitability of evacuation routes, the following vehicles shall be provided in addition: 
+      - a) Vehicles capable of carrying a stretcher with an injured person in reasonable conditions on difficult routes. 
 
-   - a) Vehicles capable of carrying a stretcher with an injured person in reasonable conditions on difficult routes. 
-
-   - b) A motorcycle, designed to ensure prompt medical assistance when access to the patient by car is problematic (narrow roads, crowds on the road, etc.) 
+      - b) A motorcycle, designed to ensure prompt medical assistance when access to the patient by car is problematic (narrow roads, crowds on the road, etc.) 
 
 E0226 
 
@@ -958,39 +945,39 @@ MEDICAL RULES
 
 - c) Whenever the evacuation with the ambulance shall take more than 30’ (thirty minutes), a medical helicopter shall be available as nearly as possible for transport of patients on stretchers in order to minimise the second intervention time, plus a helicopter landing area close to the venue. 
 
-## _B. Medical equipment_ 
+###### _B. Medical equipment_ 
 
 **13.4.019** The LOC shall provide all medical equipment for the event and put it under the responsibility of the CMO, which shall include at the minimum the equipment described in Annex 2. 
 
-## _C. Communication_ 
+###### _C. Communication_ 
 
-- **13.4.020** All vehicles, posts and units of the medical service must be interconnected by a professional radio system through a special channel that is available to medical services only. The radio system must be set to the channel of the commissaires and of the organizer as well. 
+**13.4.020** All vehicles, posts and units of the medical service must be interconnected by a professional radio system through a special channel that is available to medical services only. The radio system must be set to the channel of the commissaires and of the organizer as well. 
 
-- **13.4.021** All medical staff must be equipped with radio transmitters/receivers as well as with mobile phones to be used in case of technical malfunction of the radio transmitters/receivers 
+**13.4.021** All medical staff must be equipped with radio transmitters/receivers as well as with mobile phones to be used in case of technical malfunction of the radio transmitters/receivers 
 
-- **13.4.022** All medical staff must be in possession of a list of emergency medical centres and hospitals to which victims can be evacuated if necessary as well as the telephone numbers of the relevant emergency services. 
+**13.4.022** All medical staff must be in possession of a list of emergency medical centres and hospitals to which victims can be evacuated if necessary as well as the telephone numbers of the relevant emergency services. 
 
 At least the CMO must be able to directly contact the management of these emergency services. 
 
-## **Disposition on the field** 
+###### **Disposition on the field** 
 
-## _A. Road races_ 
+###### _A. Road races_ 
 
 **13.4.023** In normal conditions, the medical services are distributed in the race convoy as described below: 
 
-   13. The car with the CMO or assistant doctor and a paramedic on board takes up a position behind the president of the commissaires’ panel; 
+13. The car with the CMO or assistant doctor and a paramedic on board takes up a position behind the president of the commissaires’ panel; 
 
-   14. The first ambulance remains behind the team managers’ cars, with the main peloton; the remaining ambulances remain at the back of the race, near the broom wagon; one of the assistant doctors must be located in one of the ambulances. 
+14. The first ambulance remains behind the team managers’ cars, with the main peloton; the remaining ambulances remain at the back of the race, near the broom wagon; one of the assistant doctors must be located in one of the ambulances. 
 
-   15. If a motorbike is available, it shall have the second assistant doctor on board and stay with any breaks during flat stages, but be available anywhere on the course during mountain stages. 
+15. If a motorbike is available, it shall have the second assistant doctor on board and stay with any breaks during flat stages, but be available anywhere on the course during mountain stages. 
 
-- **13.4.024** Where the course of the race has technically difficult sections that are prone to see riders crash the organiser shall provide all medical staff with a course map with detailed identification of such sections and ambulance accesses and evacuation routes. 
+**13.4.024** Where the course of the race has technically difficult sections that are prone to see riders crash the organiser shall provide all medical staff with a course map with detailed identification of such sections and ambulance accesses and evacuation routes. 
 
 A first responder unit shall be deployed in vicinity of each of these sections to provide rapid intervention in case of emergencies. 
 
 **13.4.025** If the course forms a circuit a central medical post shall also be set up at the start/finish line. 
 
-## _B. Other disciplines_ 
+- _B. Other disciplines_ 
 
 E0226 
 
@@ -1000,25 +987,19 @@ MEDICAL RULES
 
 - **13.4.026** The organiser shall provide a central medical post that can be a permanent or temporary structure with adequate space for medical personnel and equipment to treat ill or injured persons for major and minor injuries or medical problems. 
 
-The central medical post shall be located at the start-finish area at mountain bike and cyclo-cross events, adjacent to the venue for BMX, trial and indoor events and in the velodrome at track events. 
+   - The central medical post shall be located at the start-finish area at mountain bike and cyclo-cross events, adjacent to the venue for BMX, trial and indoor events and in the velodrome at track events. 
 
 The location shall be such as to provide good access and evacuation possibilities. 
 
-- **13.4.027** Where the course of a mountain bike or cyclo-cross race has technically difficult sections that are prone to see riders crash the organiser shall provide all medical staff with a course map with detailed identification of such sections and ambulance accesses and evacuation routes. 
-
-A first responder unit shall be deployed in vicinity of each of these sections to provide rapid intervention in case of emergencies. 
-
-   - At least one doctor should also be rapidly available to move among the different sections. 
+- **13.4.027** Where the course of a mountain bike or cyclo-cross race has technically difficult sections that are prone to see riders crash the organiser shall provide all medical staff with a course map with detailed identification of such sections and ambulance accesses and evacuation routes. A first responder unit shall be deployed in vicinity of each of these sections to provide rapid intervention in case of emergencies. At least one doctor should also be rapidly available to move among the different sections. 
 
 - **13.4.028** At track events a first responder unit shall be deployed in the track centre to provide rapid intervention in case of emergencies. 
 
-- **13.4.029** At BMX events medical staff shall be posted next to the course where crashes are most likely to occur. 
-
-## _C. Specific rule for UCI World Championships_ 
+- **13.4.029** At BMX events medical staff shall be posted next to the course where crashes are most likely to occur. _C. Specific rule for UCI World Championships_ 
 
 - **13.4.030** The LOC for the World Championships shall submit the plan of the medical service for prior approval by the UCI Medical Commission through the UCI Medical Report Form. 
 
-The organiser shall send the UCI Medical Report Form to the UCI via email [medical@uci.ch] at least 3 months prior to the beginning of the event. 
+   - The organiser shall send the UCI Medical Report Form to the UCI via email [medical@uci.ch] at least 3 months prior to the beginning of the event. 
 
 - **13.4.031** The UCI Medical Delegate appointed for the World Championships concerned shall inspect the medical facilities with the Chief Medical Officer as laid down in article 13.2.004. 
 
@@ -1028,9 +1009,9 @@ E0226
 
 MEDICAL RULES 
 
-## **Chapter V ELIGIBILITY REGULATIONS FOR TRANSGENDER ATHLETES** 
+#### **Chapter V ELIGIBILITY REGULATIONS FOR TRANSGENDER ATHLETES** 
 
-## **§ 1  Introduction** 
+###### **§ 1  Introduction** 
 
 - **13.5.001** The Union Cycliste Internationale (UCI), as the international federation responsible for the worldwide governance and regulation of Cycling, has adopted these Eligibility Regulations for Transgender Athletes (“ **Transgender Regulations** ”) for the participation of Transgender athletes in the sport of Cycling in the category of competition and classification that is consistent with their gender identity, in accordance with the following imperatives: 
 
@@ -1046,11 +1027,9 @@ MEDICAL RULES
 
 - **13.5.003** These Transgender Regulations come into effect on 17 July 2023, replacing the previous edition of these Transgender Regulations (which came into effect on 1 July 2022), and apply immediately and in full to all cases falling within their scope. They will be subject to periodic review, and may be amended following such review to take account of any new evidence and/or relevant scientific or medical developments. 
 
-- **13.5.004** These Eligibility Regulations for Transgender Athletes are binding on and must be complied with by UCI officials, athletes, National Federations, athlete representatives, member federation officials, and all other applicable persons, such as, but not limited to, 
+- **13.5.004** These Eligibility Regulations for Transgender Athletes are binding on and must be complied with by UCI officials, athletes, National Federations, athlete representatives, <u>member federation officials, and all other applicable persons, such as, but not limited to,</u> 
 
 - E0226 MEDICAL RULES 29 
-
-E0226 
 
 persons and entities hosting an International Event, persons and entities who are participating in International Events, etc. 
 
@@ -1072,7 +1051,7 @@ persons and entities hosting an International Event, persons and entities who ar
 
 **“Transgender Female Eligibility Conditions”** has the meaning given to that term in article 13.5.015 of these Regulations. 
 
-## **§ 2  Application** 
+###### **§ 2  Application** 
 
 - **13.5.008** These Regulations establish the conditions enabling Transgender athletes to compete in International Events, in the competition category that is consistent with their gender identity. 
 
@@ -1120,17 +1099,17 @@ must ensure that any Transgender athlete under its jurisdiction that is entered 
 
 - **13.5.013** A National Federation may adopt its own regulations to determine the eligibility of Transgender athletes to compete in events taking place under its own jurisdiction that are not International Events. For the avoidance of doubt, however: 
 
-   1. Nothing that a National Federation does or does not do at national level will affect the eligibility of Transgender athletes to compete in International Events. That will instead be determined exclusively by reference to these Regulations. 
+      1. Nothing that a National Federation does or does not do at national level will affect the eligibility of Transgender athletes to compete in International Events. That will instead be determined exclusively by reference to these Regulations. 
 
-   2. If a National Federation does not set any regulations for the eligibility of Transgender athletes in competitions under its jurisdiction, the requirements set out in these Regulations shall apply by default, whereas the National Federation shall remain solely responsible for their applications. 
+      2. If a National Federation does not set any regulations for the eligibility of Transgender athletes in competitions under its jurisdiction, the requirements set out in these Regulations shall apply by default, whereas the National Federation shall remain solely responsible for their applications. 
 
-## **§ 3  Eligibility conditions for transgender athletes** 
+   - **§ 3  Eligibility conditions for transgender athletes** 
 
-## **Eligibility conditions for Transgender male (i.e. female-to-male) athletes** 
+###### **Eligibility conditions for Transgender male (i.e. female-to-male) athletes** 
 
 - **13.5.014** To be eligible to compete in the male category of competition at an International Event, a Transgender male athlete must provide a written and signed declaration, in a form satisfactory to the Medical Manager, that their gender identity is male. As soon as reasonably practicable following receipt of such declaration, the Medical Manager will issue a written certification of that athlete's eligibility to compete in the male category of competition in International Event. 
 
-## **Eligibility conditions for Transgender female (i.e. male-to-female) athletes** 
+###### **Eligibility conditions for Transgender female (i.e. male-to-female) athletes** 
 
 - **13.5.015** To be eligible to compete in the female category of competition at an International Event, a Transgender female athlete must meet each of the following conditions (together, the **Transgender Female Eligibility Conditions** ) to the satisfaction of the Expert Panel: 
 
@@ -1144,7 +1123,7 @@ must ensure that any Transgender athlete under its jurisdiction that is entered 
 
    5. for purposes of these Regulations, all measurements of serum testosterone must be conducted by means of liquid chromatography coupled with mass spectrometry, as provided in Appendix. 
 
-## **Provisions applicable to all Transgender athletes** 
+###### **Provisions applicable to all Transgender athletes** 
 
 E0226 
 
@@ -1156,15 +1135,15 @@ MEDICAL RULES
 
 - **13.5.017** For the further avoidance of doubt, there are no other special conditions (i.e., other than the Transgender Female Eligibility Conditions) that a Transgender athlete must satisfy in order to compete at an International Event, in the category of competition that is consistent with their gender identity (because such requirements are not relevant to the imperatives identified above). In particular, the following are not required in order for a Transgender athlete to be eligible to compete at an International Event, in the category of competition that is consistent with their gender identity: 
 
-   1. legal recognition of the athlete's gender identity; or 
+      1. legal recognition of the athlete's gender identity; or 
 
-   2. surgical anatomical changes. 
+      2. surgical anatomical changes. 
 
 - **13.5.018** Once a Transgender athlete has satisfied the relevant eligibility requirements set out above and has started competing in International Event in the category of competition consistent with their gender identity, they may not then participate in the other gender category in International Event, unless and until (a) at least four years have passed since the first International Event in which they participated as a Transgender athlete; and (b) they satisfy all of the conditions for eligibility to compete in the other gender category. 
 
 - **13.5.019** The eligibility conditions for Transgender athletes set out in these Regulations operate without prejudice to the other eligibility requirements that are applicable to all athletes (Transgender or otherwise) under the rules of UCI, which must also be satisfied at all relevant times. In particular, nothing in these Regulations is intended to undermine or affect in any way any of the requirements of the World Anti-Doping Code, of the WADA International Standards (including the International Standard for Therapeutic Use Exemptions), or of the UCI Anti-Doping Rules. Nothing in these Regulations permits, excuses or justifies non-compliance with any of those requirements, including any requirement for an athlete to obtain a Therapeutic Use Exemption for the use of substances on the WADA Prohibited List, such as testosterone, spironolactone, or GnRH agonists. 
 
-## **§ 4  Assessment of Cases** 
+   - **§ 4  Assessment of Cases** 
 
 - **13.5.020** UCI will appoint a pool of independent medical experts from which a suitably qualified panel of experts (the “ **Expert Panel** ”) may be formed to review cases arising under these Regulations. They will also designate one of those experts to act as chair and to select the Expert Panel for each case. 
 
@@ -1210,19 +1189,19 @@ MEDICAL RULES
 
 serum at less than 2.5 nmol/L for a longer period; monitoring; reporting; and further reviews). 
 
-   2. If the Expert Panel decides that the Transgender Female Eligibility Conditions have been met, the Medical Manager will issue a written certification of that athlete's eligibility to compete in the female category of competition in International Events. That eligibility will be conditional in every case on the athlete's continuing to maintain their serum testosterone at a concentration of less than 2.5 nmol/L. 
+      2. If the Expert Panel decides that the Transgender Female Eligibility Conditions have been met, the Medical Manager will issue a written certification of that athlete's eligibility to compete in the female category of competition in International Events. That eligibility will be conditional in every case on the athlete's continuing to maintain their serum testosterone at a concentration of less than 2.5 nmol/L. 
 
 - **13.5.028** The Expert Panel's decision will be final and binding on all parties. It may only be challenged by way of appeal in accordance with § 7 of these Regulations. 
 
-## **§ 5  Investigations and Continuing compliance** 
+   - **§ 5  Investigations and Continuing compliance** 
 
 - **13.5.029** The Medical Manager may monitor an athlete's compliance with the Transgender Female Eligibility Conditions at any time, with or without notice, whether by random or targeted testing of the athlete's serum testosterone levels or by any other appropriate means. 
 
 - **13.5.030** In addition, provided they are acting in good faith and on reasonable grounds based on information derived from reliable sources (for example, the athlete, the team doctor of the National Federation to which the athlete is affiliated, results from a routine preparticipation health examination, and/or information/data (including but not limited to serum testosterone levels) obtained from the collection and analysis of samples from the athlete for anti-doping purposes),  the Medical Manager may investigate whether an athlete who is competing or is or may be entered to compete at an International Event may be a Transgender athlete to whom these Regulations apply. The Medical Manager may also investigate, at any time: 
 
-   1. whether (because of a subsequent change in circumstances, subsequent learning or experience, or otherwise) it is necessary to require a Transgender athlete who has previously been determined to satisfy the Transgender Female Eligibility Conditions to undergo further assessment by the Expert Panel to determine whether they still satisfy those conditions; and/or 
+      1. whether (because of a subsequent change in circumstances, subsequent learning or experience, or otherwise) it is necessary to require a Transgender athlete who has previously been determined to satisfy the Transgender Female Eligibility Conditions to undergo further assessment by the Expert Panel to determine whether they still satisfy those conditions; and/or 
 
-   2. any circumstances that indicate potential non-compliance by a Transgender Athlete with these Regulations; 
+      2. any circumstances that indicate potential non-compliance by a Transgender Athlete with these Regulations; 
 
 and in such cases the athlete in question must cooperate fully and in good faith with the investigation by the Medical Manager and any subsequent assessment by the Expert Panel, including by providing serum and/or urine samples upon request for analysis, and/or submitting to medical examination. 
 
@@ -1304,29 +1283,29 @@ E0226
 
 MEDICAL RULES 
 
-4. a specified period of ineligibility to participate in International Events; 
+      4. a specified period of ineligibility to participate in International Events; 
 
-5. a fine; and/or 
+      5. a fine; and/or 
 
-6. if the breach involves more than two members of a team, or if there are multiple breaches involving such a team, appropriate sanctions on the team (e.g., disqualification of team results; imposition of a period of future ineligibility to participate in International Events; a fine). 
+      6. if the breach involves more than two members of a team, or if there are multiple breaches involving such a team, appropriate sanctions on the team (e.g., disqualification of team results; imposition of a period of future ineligibility to participate in International Events; a fine). 
 
-## **§ 7 Dispute Resolution** 
+   - **§ 7 Dispute Resolution** 
 
 - **13.5.040** Excluding the disciplinary matters referenced in §6 of these Regulations (which will be addressed as set out in that regulation), any dispute arising between UCI and an athlete (and/or their team or National Federation) in connection with these Regulations will be subject to the exclusive jurisdiction of the CAS. In particular, the validity, legality, and/or proper interpretation and application of these Regulations may only be challenged (a) by way of ordinary proceedings filed before the CAS; and/or (b) as part of an appeal to the CAS made pursuant to article 13.5.041 of these Regulations. 
 
 - **13.5.041** The following decisions (and only the following decisions) made under these Regulations may be appealed by the athlete who is subject of the decision to the CAS in accordance with § 7 of these Regulations, by filing a Statement of Appeal with the CAS and with UCI (as the respondent to the appeal) within thirty days of the date of receipt of the written reasons for the decision: 
 
-   1. a decision that the athlete does not comply with the requirements of these Regulations and therefore is not eligible to compete in International Events in the classification that is consistent with their gender identity; 
+      1. a decision that the athlete does not comply with the requirements of these Regulations and therefore is not eligible to compete in International Events in the classification that is consistent with their gender identity; 
 
-   2. a decision pursuant to article 13.5.030 of these Regulations to suspend an athlete provisionally from competition; and 
+      2. a decision pursuant to article 13.5.030 of these Regulations to suspend an athlete provisionally from competition; and 
 
-   3. a decision pursuant to article 13.5.035 of these Regulations to disqualify results and/or to impose a period of ineligibility. 
+      3. a decision pursuant to article 13.5.035 of these Regulations to disqualify results and/or to impose a period of ineligibility. 
 
 - **13.5.042** Any such challenge or appeal will be governed by UCI Constitution, these Regulations on the Eligibility of Transgender Athletes and the other applicable rules and regulations of UCI, with the laws of Switzerland applying subsidiarily. The CAS will hear and determine the challenge or appeal definitively in accordance with the CAS Code of Sports-Related Arbitration provided that (1) in the event of any conflict between the aforementioned governing instruments and laws on the one hand and the CAS Code of Sports-Related Arbitration on the other hand, the governing instruments and laws will take precedence; and (2) in any appeal the athlete will have fifteen days from the filing of the Statement of Appeal to file their Appeal Brief, and UCI will have thirty days from its receipt of the Appeal Brief to file its Answer. Pending determination of the challenge or appeal, these Regulations and the decision under appeal will remain in full force and effect, unless the CAS orders otherwise. 
 
 - **13.5.043** The decision of the CAS on the merits of the challenge or appeal will be final and binding on all parties, and no right of appeal or other challenge will lie from that decision on any ground, except as set out in Chapter 12 of the Swiss Federal Code on Private International Law. 
 
-## **§ 8  Confidentiality** 
+###### **§ 8  Confidentiality** 
 
 E0226 
 
@@ -1340,23 +1319,23 @@ MEDICAL RULES
 
 - **13.5.046** Each member of the Expert Panel must sign an appropriate conflict of interest declaration and confidentiality undertaking in relation to their work as a member of the panel. 
 
-## **§ 9 Costs** 
+   - **§ 9 Costs** 
 
 - **13.5.047** The costs of any medical assessment, examination, treatment, monitoring, reporting, and any other costs involved in complying with these Regulations will be borne by the relevant athlete. The standing costs of the Expert Panel will be borne by UCI. 
 
-## **§ 10  Mutual recognition** 
+###### **§ 10  Mutual recognition** 
 
 - **13.5.048** Where a Transgender athlete from another sport wishes to participate in the sport of cycling, UCI may recognise and give effect to the eligibility decision of the international federation of the other sport in relation to that athlete, provided that the eligibility decision and the regulations of that other sport relating to that eligibility decision are consistent with these Regulations. Any eligibility so afforded shall be subject to ongoing compliance by the athlete with the requirements of these Regulations. 
 
-## **§ 11  Limitation of liability** 
+###### **§ 11  Limitation of liability** 
 
-## **13.5.049** 
+###### **13.5.049** 
 
 1. In no circumstances will UCI, any member of the Expert Panel, or any of UCI's employees, officers, agents, representatives and other persons involved in the application and/or enforcement of these Regulations be liable in any way to any person in relation to acts done or omitted to be done in good faith in connection with these Regulations. 
 
 2. Each case will be addressed as quickly as is reasonably practicable in all of the circumstances. However, in no circumstance will UCI or the Medical Manager or any member of the Expert Panel be liable for any detriment allegedly suffered by the athlete in question or anyone else as a result of the length of time taken to complete the investigations/assessment of their case. 
 
-## **§ 12  Transitional measures** 
+###### **§ 12  Transitional measures** 
 
 E0226 
 
@@ -1372,31 +1351,31 @@ E0226
 
 MEDICAL RULES 
 
-## **APPENDIX: MEDICAL GUIDELINES** 
+###### **APPENDIX: MEDICAL GUIDELINES** 
 
-## Contents 
+###### Contents 
 
 1. General background medical information 
 
 2. Guidance on monitoring serum testosterone levels in transgender female athletes for eligibility purposes 
 
-## 3. Guidance on the method for measuring serum testosterone levels for eligibility purposes 
+3. Guidance on the method for measuring serum testosterone levels for eligibility purposes 
 
 The application of the Transgender Regulations will necessarily be highly individualized and specific to the circumstances of the particular case. These medical guidelines are only intended to provide some general guidance on certain medical aspects of the Transgender Regulations, to assist with their application in practice. All information detailed in this Appendix 1 is based on existing literature applicable to such cases, and neither UCI nor any of its employees, officers, agents, representatives, or other persons involved in the administration of these Transgender Regulations shall be held liable in any way for any results obtained by the procedure adopted. 
 
-## **1. General Background Medical Information** 
+###### **1. General Background Medical Information** 
 
 1.1 Gender identity refers to an individual’s self-perceived gender. This may be different to the individual’s sexual anatomy, chromosomal, gonadal or hormonal sex, gender role or sex recorded at birth. 
 
 1.2 Because some children who present as transgender will not in fact do so as adults, early medical treatment carries significant risk. The issue is problematic because individuals who wish to avail themselves of transgender treatments will find it easier at a younger age, prior to the need to reverse opposite sex characteristics developed in puberty. A paradigm to address the tension is to use GnRH analogs (or progestins) that delay puberty in a reversible fashion until a longer-term plan is in place. GnRH analogs would be started at the first visible signs of puberty or approximately Tanner 2. Note that pre-pubertal children do not require any medical intervention. 
 
-## Diagnosis 
+###### <u>Diagnosis</u> 
 
 1.3 Diagnosis of transgender identity is usually straightforward among adults. Whether or not a given individual with a transgender identity wants to address the incongruence is a very personal decision and may be influenced by a variety of factors. 
 
 1.4 In order to avoid a psychiatric condition confounding the situation to such a degree that gender identity is not clear, a mental health provider is normally included on the medical management team to confirm the absence of such a confounder and to assist with transition-related stress (which can be significant). 
 
-## Medical treatment 
+###### <u>Medical treatment</u> 
 
 1.5 For transgender individuals who seek medical intervention, the most effective treatment strategy is generally to change the individual’s appearance to align with their gender identity. 
 
@@ -1404,7 +1383,7 @@ The application of the Transgender Regulations will necessarily be highly indivi
 
 1.7 Hormone treatment of transgender individuals follows conventional hormone paradigms, with the same concerns and effects as are seen when using the same hormones for other purposes. 
 
-1.8 It is also important for transgender athletes to consider whether any medical treatment sought requires them to obtain a Therapeutic Use Exemption for the use of a substance on the WADA Prohibited List (such as testosterone, spironolactone or GnRH agonists). Further information can be found in the WADA Transgender _**Athletes TUE Physician Guidelines, available at www.wada-ama.org**_ 
+1.8 It is also important for transgender athletes to consider whether any medical treatment sought requires them to obtain a Therapeutic Use Exemption for the use of a substance on the WADA Prohibited List (such as testosterone, spironolactone or GnRH agonists). Further information can be found in the WADA Transgender **_Athletes TUE Physician Guidelines, available at www.wada-ama.org_** 
 
 E0226 
 
@@ -1412,21 +1391,23 @@ MEDICAL RULES
 
 41 
 
-## Transgender male treatment strategy and typical regimens 
+###### <u>Transgender male treatment strategy and typical regimens</u> 
 
 1.9 Typically, hormone treatment for transgender men consists of administration of testosterone to bring the serum testosterone level up from the female range (0.06 to 1.68 nmol/L (95% two-sided confidence limit) to the male range (7.7 to 29.4 nmol/L (95% two-sided confidence limit)). The does required are similar to those used for treatment of hypogonadal males. Testosterone is administered parentally (either intramuscularly or subcutaneously) or transdermally (via gel, solution or patch). 
 
 1.10 A typical testosterone regimen is as follows: 
 
-## Parenteral 
+###### Parenteral 
 
 - Testosterone esters (enanthate, cypionate, mixed): 50-250mg IM or SC every 1-3 weeks 
 
 - Testosterone undecanoate: 750 or 1000 mg every 8-12 or 12-14 weeks 
 
-## Transdermal 
+###### Transdermal 
 
 - Testosterone gel, cream or solution: 50-100mg/day 
+
+- 
 
 - Testosterone transdermal patch: 2.5 – 7.5mg/day 
 
@@ -1434,7 +1415,7 @@ MEDICAL RULES
 
 1.12 Transgender treatment guidelines have expressed concern of possible malignancy risk in female reproductive tissues exposed to androgens for long periods. This is one reason why transgender men have commonly elected to have hysterectomy and oophorectomy early in treatment. However, because there are no data demonstrating the cancer risk, there has been a downward trend in the frequency of such surgeries. 
 
-## Transgender female treatment strategy and typical regimens 
+###### <u>Transgender female treatment strategy and typical regimens</u> 
 
 1.13 For transgender women, the strategy is to decrease serum testosterone levels from the male range to the female range. Although more invasive than medicine alone, the easiest way to achieve the goal is with a gonadremoving surgery (orchidectomy, which may or may not part of a genital reconstruction surgery, i.e vaginoplasty), followed by age-appropriate estrogen replacement therapy to feminize and to protect bone health over time. 
 
@@ -1462,15 +1443,15 @@ typical for precocious puberty. However, GnRH agonist therapy can be very effect
 
 1.21 A typical regimen for transgender women is as follows: 
 
-## Estrogen 
+Estrogen 
 
-## Transdermal 
+Transdermal 
 
 - Estradiol transdermal patch: 0.025 – 0.2mg/day (new patch placed 1-2 times per week) 
 
-- - Estradiol gel: 1-2mg/day 
+- Estradiol gel: 1-2mg/day 
 
-## Parenteral 
+Parenteral 
 
 - Estradiol valerate or cypionate: 2-30 IM every 1-2 weeks 
 
@@ -1494,15 +1475,15 @@ Testosterone lowering or blocking agents
 
 1.22 Many transgender women will supplement medical treatment with gender-affirming surgeries such as (1) facial feminization surgeries (especially sought by transgender women transitioning later in life after having been exposed to male androgen levels for a longer time period); (2) breast augmentation surgery; and (3) genital reconstruction surgery. Although has tended to focus on genital surgery as the defining gender-affirming surgery, transgender individuals demonstrate great heterogeneity in surgical choices. Notably, less surgery may be sought than previously expected, and a higher priority than commonly appreciated may be placed on visible surgeries like facial feminisation procedures and breast augmentation rather than on genital surgeries (Kailas et al, Endocr Pract. 2017; 23) 
 
-## **Monitoring of medical treatment** 
+###### **<u>Monitoring of medical treatment</u>** 
 
-## Transgender male monitoring 
+###### <u>Transgender male monitoring</u> 
 
 1.23 One concern about testosterone therapy is an increase in haematocrit (with a possible increased thrombosis risk). This risk is greatest with excessive testosterone dosage. Patients may also be advised to be aware of mood changes. 
 
-1.24 The typical monitoring regime includes indicated clinical examination, including blood pressure and laboratory testing, every 3 months when making changes to the regimen and then every 6-12 months thereafter. Usual monitoring includes measurement of serum testosterone (to determine success of therapy), haematocrit, and lipid profile. 
+- 1.24 The typical monitoring regime includes indicated clinical examination, including blood pressure and laboratory testing, every 3 months when making changes to the regimen and then every 6-12 months thereafter. Usual monitoring includes measurement of serum testosterone (to determine success of therapy), haematocrit, and lipid profile. 
 
-1.25 Malignancy screening must include all body parts present regardless of whether or not the are associated with one sex or another (for example, Pap smears and mammograms for transgender men who still have cervix and 
+- 1.25 Malignancy screening must include all body parts present regardless of whether or not the are associated with one sex or another (for example, Pap smears and mammograms for transgender men who still have cervix and 
 
 E0226 
 
@@ -1510,9 +1491,9 @@ E0226
 
 MEDICAL RULES 
 
-## breasts, respectively). 
+###### breasts, respectively). 
 
-## Transgender female monitoring 
+###### <u>Transgender female monitoring</u> 
 
 1.26 The biggest concern for estrogen therapy is an increased thrombosis risk, which can lead to deep venous thrombose, pulmonary embolism, or stroke. There are no data for other estrogen-dependent health concerns, although many practitioners monitor classic estrogen-sensitive laboratory values including prolactin. 
 
@@ -1522,7 +1503,7 @@ MEDICAL RULES
 
 1.29 Malignancy screening must include all body parts present regardless of whether or not they are associated with one sex or another (including prostate cancer surveillance even for transgender women who have had genital reconstruction surgery). 
 
-## References 
+###### <u>References</u> 
 
 1.30 The following (non-exhaustive) references may be of interest: 
 
@@ -1538,15 +1519,15 @@ MEDICAL RULES
 
 - Saraswat et al, Evidence Supporting the Biologic Nature of Gender Identity, Endocr Pract. 2015; 21: 199-204 
 
-- World Professional Association for Transgender Health, Standards of Care, available at www.wpath.org 
+- World Professional Association for Transgender Health, Standards of Care, available at <u>www.wpath.org</u> 
 
-- www.uptodate.com/contents/transgender-men-evaluation-and-management 
+- <u>www.uptodate.com/contents/transgender-men-evaluation-and-management</u> 
 
-- www.uptodate.com/contents/transgender-women-evaluation-and-management 
+- <u>www.uptodate.com/contents/transgender-women-evaluation-and-management</u> 
 
-## **2.  Guidance on monitoring serum testosterone levels in transgender female athletes for eligibility purposes** 
+###### **2.  Guidance on monitoring serum testosterone levels in transgender female athletes for eligibility purposes** 
 
-> 2.1 As discussed above, for transgender women there are several different treatment strategies to decrease serum testosterone from the male range to the female range (the most definitive being gonad-removing surgery). The 
+2.1 As discussed above, for transgender women there are several different treatment strategies to decrease serum testosterone from the male range to the female range (the most definitive being gonad-removing surgery). The 
 
 E0226 
 
@@ -1572,21 +1553,21 @@ typical clinical monitoring regime is detailed above.
 
 2.4 In some cases, the laboratory data obtained from an athlete’s routine clinical follow-up might provide an acceptable or sufficient level of monitoring. In other cases, additional monitoring may be required. 
 
-## **3. Guidance on the method for measuring serum testosterone levels for eligibility purposes.** 
+###### **3. Guidance on the method for measuring serum testosterone levels for eligibility purposes.** 
 
-3.1 For purposes of the Transgender Regulations, all measurements of serum testosterone levels must be conducted by means of liquid chromatography coupled with mass spectrometry (e.g. LC-MS/MS or LC-HRMS), which provides much better specificity than traditional immunoassay methods. 
+- 3.1 For purposes of the Transgender Regulations, all measurements of serum testosterone levels must be conducted by means of liquid chromatography coupled with mass spectrometry (e.g. LC-MS/MS or LC-HRMS), which provides much better specificity than traditional immunoassay methods. 
 
-3.2 The method used must be validated by the laboratory carrying out the test and must also be accredited to the ISO/IEC-17025 or 15189 international standards by a recognised accreditation body that is a full member of the International Laboratory Accreditation Cooperation (ILAC). These requirements may be met by clinical laboratories as well as by WADA-accredited laboratories. 
+- 3.2 The method used must be validated by the laboratory carrying out the test and must also be accredited to the ISO/IEC-17025 or 15189 international standards by a recognised accreditation body that is a full member of the International Laboratory Accreditation Cooperation (ILAC). These requirements may be met by clinical laboratories as well as by WADA-accredited laboratories. 
 
-3.3 The method used must comply with assay performance criteria, including a measurement uncertainty (estimated during method validation at testosterone concentration levels close to the threshold of 2.5 nmol/L) of not more than 20%. 
+- 3.3 The method used must comply with assay performance criteria, including a measurement uncertainty (estimated during method validation at testosterone concentration levels close to the threshold of 2.5 nmol/L) of not more than 20%. 
 
 3.4 The performance of the method must be monitored through participation of the performing laboratory in appropriate proficiency testing (PT) and/or external quality assessment scheme (EQAS) round(s). 
 
-3.5 Serum samples should be collected using standardised sample collection procedures (for example, those used for anti-doping purposes). Such procedures might include the following: 
+- 3.5 Serum samples should be collected using standardised sample collection procedures (for example, those used for anti-doping purposes). Such procedures might include the following: 
 
-- It is recommended that samples are collected in the morning (as testosterone concentration in serum decrease during the day). 
+   - It is recommended that samples are collected in the morning (as testosterone concentration in serum decrease during the day). 
 
-- Venous blood should be collected, with the athlete remaining in a normal seated position with 
+   - Venous blood should be collected, with the athlete remaining in a normal seated position with 
 
 E0226 
 
@@ -1608,11 +1589,11 @@ E0226
 
 MEDICAL RULES 
 
-## Appendix 1 
+### Appendix 1 
 
-## **Decision by the UCI Management Committee at its Lausanne meeting on 18-19 June 2009 defining the terms of reference of the UCI Medical Commission** 
+###### **Decision by the UCI Management Committee at its Lausanne meeting on 18-19 June 2009 defining the terms of reference of the UCI Medical Commission** 
 
-## **1. Mandate** 
+###### **1. Mandate** 
 
 - Act as an advisor to the UCI Management Committee on all medical aspects related to cycling and provide recommendations 
 
@@ -1644,7 +1625,7 @@ Within the framework of its mandate and its budget, the Commission can:
 
 - Document literature related to exercise physiology, sports medicine and biomechanics 
 
-## **2. Supporting regulation** 
+###### **2. Supporting regulation** 
 
 - Art. 69 of the UCI Constitution 
 
@@ -1656,13 +1637,13 @@ MEDICAL RULES
 
 47 
 
-## Appendix 2 
+### Appendix 2 
 
-## **Minimum required medical equipment (cf. art. 13.4.019)** 
+###### **Minimum required medical equipment (cf. art. 13.4.019)** 
 
 The equipment shall include at the minimum the following: 
 
-## **1. Central medical post** 
+###### **1. Central medical post** 
 
 - Stretchers for transport with spinal stabilisator option, (scoop stretcher, vacuum mattress), 
 
@@ -1686,11 +1667,9 @@ The equipment shall include at the minimum the following:
 
 - First aid equipment and medicines. 
 
-## **2. First responder units (including motor cycle where appropriate):** 
+###### **2. First responder units (including motor cycle where appropriate):** 
 
-- ALS case containing intubation equipment, infusion solutions, administration materials, 
-
-- Oxygen mechanical ventilators and pulse oximetry, 
+- ALS case containing intubation equipment, infusion solutions, administration materials, • Oxygen mechanical ventilators and pulse oximetry, 
 
 - Blood Pressure equipment, 
 
@@ -1702,33 +1681,33 @@ The equipment shall include at the minimum the following:
 
 - ATLS suitcase containing sutures, bandages. 
 
-## **3. Ambulances** 
+###### **3. Ambulances** 
 
-- Stretchers for transport with spinal stabilisator option (scoop stretcher, vacuum mattress), 
+   - Stretchers for transport with spinal stabilisator option (scoop stretcher, vacuum mattress), 
 
-- Portable oxygenators, 
+   - Portable oxygenators, 
 
-- Ventilation equipment, 
+   - Ventilation equipment, 
 
-- Intubation equipment, 
+   - Intubation equipment, 
 
-- Aspiration equipment, 
+   - Aspiration equipment, 
 
-- ECG monitor and defibrillator, 
+   - ECG monitor and defibrillator, 
 
-- Pulse oxymeter, 
+   - Pulse oxymeter, 
 
-- Intravenous drip apparatus, 
+   - Intravenous drip apparatus, 
 
-- Blood pressure apparatus and stethoscope, 
+   - Blood pressure apparatus and stethoscope, 
 
-- Splints and immobilisation equipment for limbs and spine (including neck collars and braces), 
+   - Splints and immobilisation equipment for limbs and spine (including neck collars and braces), 
 
-- Tracheotomy equipment, 
+   - Tracheotomy equipment, 
 
-- First aid equipment and medicines. 
+   - First aid equipment and medicines. 
 
-## **4. Medical helicopter: Equipped according to the local national standards.** 
+**4. Medical helicopter: Equipped according to the local national standards.** 
 
 E0226 
 

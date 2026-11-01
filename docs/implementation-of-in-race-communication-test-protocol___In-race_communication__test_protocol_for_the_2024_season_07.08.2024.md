@@ -4,15 +4,16 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/50QlrMa7ZcAumOJJDB1wdu/1c3
 source_sha256: d8fd6dd38d8ee1bbdb84a0f484ed86fe12f58bda8b43a5a981de94c9a98873c8
 converter: pymupdf4llm
 ---
+
 ![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0001-00.png)
 
 “In-race communication” test protocol for the 2024 season Decision of the UCI Management Committee – 12 June 2024 
 
-## **Implementation of “In-race communication” Test Protocol** 
+# **Implementation of “In-race communication” Test Protocol** 
 
-## **Introduction and description of the context for introducing this Test Protocol** 
+### **<u>Introduction and description of the context for introducing this Test Protocol</u>** 
 
-The SafeR Commission seeks to test various safety related initiatives in 2024: The UCI introduces new measures to promote safety at road races | UCI. 
+The SafeR Commission seeks to test various safety related initiatives in 2024: <u>The UCI introduces new measures to promote safety at road races | UCI.</u> 
 
 The measure of restricting the use of earpieces will be carried out through tests in selected professional oneday races and stage races. 
 
@@ -24,7 +25,7 @@ An overall evaluation will be carried out within SafeR at the end of the season,
 
 In line with the above, the UCI Management Committee approved the implementation of the measures provided for in this Test Protocol according to the terms below. 
 
-## **Explanation of changes to the regulations** 
+### **<u>Explanation of changes to the regulations</u>** 
 
 This Test Protocol shall apply as a **modification, on a trial basis in specific races, to the in-race communication rule** (article 2.2.024 of the UCI Regulations), by removing the exception that allows the use of earpieces in events of the following classes: UCI WorldTour, UCI Women’s WorldTour, UCI ProSeries and Class 1 events. 
 
@@ -42,9 +43,9 @@ Page 1 / 4
 
 For stage races, it shall be determined for each stage individually if one of the two options apply or not. Therefore, different stages within a stage race can see either no restrictions on the use of earpieces being applied or one of the two options above. 
 
-## **Implementation Protocol** 
+### **<u>Implementation Protocol</u>** 
 
-Provision 1 – Scope of application 
+### <u>Provision 1 – Scope of application</u> 
 
 This Test Protocol is implemented by the UCI as from 1 July 2024. The Test Protocol will be applied to selected races of the International Calendar during the 2024 season. 
 
@@ -52,31 +53,27 @@ Without the application of this Test Protocol, the existing regulations apply.
 
 The SafeR Commission will recommend the application of the Test Protocol on selected events. The UCI will then confirm the application of the Test Protocol on events or stages after consultation with the race organiser, considering: 
 
-   - The profile of the stages and the format of the event; 
+- The profile of the stages and the format of the event; 
 
-   - The level of the teams; 
+- The level of the teams; 
 
-   - The number of riders in the race and the number of riders per team; 
+- The number of riders in the race and the number of riders per team; 
 
-- The Commissaires’ Panel shall then be responsible for supervision at each selected event. 
+The Commissaires’ Panel shall then be responsible for supervision at each selected event. 
 
-Provision 2 – Articles amended through the Test Protocol (article updated on 7 August 2024) 
+### <u>Provision 2 – Articles amended through the Test Protocol (article updated on 7 August 2024)</u> 
 
 Article 2.2.024 is amended to enable the implementation of one of the following two measures: 
 
-1. Removal of earpieces for all riders; 
+1. Removal of earpieces for all riders; or 
 
-   - or 
+2. A partial removal of earpieces allowing two “team captains” to be allowed to wear earpieces `o` The two “team captains” who are selected by their teams to wear radios must be communicated to the Commissaires Panel 
 
-2. A partial removal of earpieces allowing two “team captains” to be allowed to wear earpieces 
+   - The riders will be identified in the start list for the race/stage and the organiser may provide additional physical identification through a bracelet or special coloured bib number in consultation with the UCI and the Commissaires’ Panel. 
 
-      - The two “team captains” who are selected by their teams to wear radios must be communicated to the Commissaires Panel 
+   - The names of the two riders will initially be collected during rider confirmation. Changes are authorised up until one hour before the start of the race/stage and Sport Directors must present themselves to the Commissaires at the rider sign on area and inform them of any changes to their “team captains”. 
 
-         - The riders will be identified in the start list for the race/stage and the organiser may provide additional physical identification through a bracelet or special coloured bib number in consultation with the UCI and the Commissaires’ Panel. 
-
-         - The names of the two riders will initially be collected during rider confirmation. Changes are authorised up until one hour before the start of the race/stage and Sport Directors must present themselves to the Commissaires at the rider sign on area and inform them of any changes to their “team captains”. 
-
-Provision 3 – Arbitration 
+### <u>Provision 3 – Arbitration</u> 
 
 The supervision and implementation of this Test Protocol will be conducted by the by the Commissaires’ Panel. 
 
@@ -86,7 +83,7 @@ Page 2 / 4
 
 ![](images/_In-race_communication__test_protocol_for_the_2024_season_07.08.2024.pdf-0003-00.png)
 
-## Provision 4 – The responsibilities of the organiser 
+### <u>Provision 4 – The responsibilities of the organiser</u> 
 
 - The event organisers that are selected to apply the Test Protocol shall act as follows: 
 
@@ -96,7 +93,7 @@ Page 2 / 4
 
    - The organiser adds the following provision in the special regulations of its event: 
 
-## **Article XX – Stages selected for “in-race communication” restrictions** 
+### **Article XX – Stages selected for “in-race communication” restrictions** 
 
 The following stages have been selected to test “in-race communication” restrictions: 
 
@@ -104,7 +101,7 @@ The following stages have been selected to test “in-race communication” rest
 
 - Stage XX / (two riders per team are authorised to use earpieces) 
 
-Provision 5 – Partial removal procedure to declare two “team captains” 
+<u>Provision 5 – Partial removal procedure to declare two “team captains”</u> 
 
 The Commissaires’ Panel will collect the names of the riders who the team has selected to 
 
@@ -116,17 +113,19 @@ Page 3 / 4
 
 ## **Appendix 1** 
 
-## **In-race communications** 
+### **In-race communications** 
 
-## **2.2.024** 
+- **2.2.024** 
 
-1. The use of radio links or other remote means of communication by or with the riders, as well as the possession of any equipment that can be used in this manner, during an event is prohibited except in the following cases: 
+1. The use of radio links or other remote means of communication by or with the riders, as well as the possession of any equipment that can be used in this 
 
-   - A. Men Elite: UCI WorldTour, UCI ProSeries and class 1 events; 
+manner, during an event is prohibited except in the following cases: 
 
-   - B. Women Elite: UCI Women’s WorldTour, UCI ProSeries and class 1 events; 
+- A. Men Elite: UCI WorldTour, UCI ProSeries and class 1 events; 
 
-   - C. time trial events. 
+- B. Women Elite: UCI Women’s WorldTour, UCI ProSeries and class 1 events; 
+
+- C. time trial events. 
 
 In the cases above, a secure communications and information system (the «earpiece») is authorised and may be used for safety reasons and to assist riders under the following conditions: 
 

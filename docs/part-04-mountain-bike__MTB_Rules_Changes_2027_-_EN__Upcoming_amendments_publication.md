@@ -17,7 +17,7 @@ MEMORANDUM 29.09.2026
 
 ### **Enduro - EDR** 
 
-**4.1.007bis** Except for the UCI World Championships and UCI World Cup, enduro competitions are open to all riders aged 17 or over. 
+- **4.1.007bis** Except for the UCI World Championships and UCI World Cup, enduro competitions are open to all riders aged 17 or over. 
 
 At the UCI World Championships and at the UCI World Cup, separate enduro junior competitions must be organized for men and women (aged 17 and 18). 
 
@@ -27,25 +27,25 @@ For all other enduro competitions on the international calendar, the UCI points 
 
 _(article introduced on 01.01.13; text modified on 01.01.23; 01.01.25, 01.01.27)._ 
 
-#### **§ 3 Calendar** 
+   - **§ 3 Calendar** 
 
 - **4.1.011** International mountain bike races are registered on the UCI international calendar in accordance with the following classification: 
 
-   - Olympic Games <del>(OG)</del> 
+      - Olympic Games <del>(OG)</del> 
 
-      - No other international mountain bike competition of cross-country (XC) may be organised during the mountain bike competition of the Olympic Games. 
+         - No other international mountain bike competition of cross-country (XC) may be organised during the mountain bike competition of the Olympic Games. 
 
-   - UCI World Championships <del>(CM)</del> 
+      - UCI World Championships <del>(CM)</del> 
 
-      - No other international mountain bike competition of the same format may be organised during the UCI World Championships. 
+         - No other international mountain bike competition of the same format may be organised during the UCI World Championships. 
 
-   - UCI World Cup <del>(CDM)</del> 
+      - UCI World Cup <del>(CDM)</del> 
 
-      - No hors class or UCI Mountain Bike Continental Series <del>or class 1</del> competition of the same format may be organised on the same continent on the same day as a UCI World Cup competition. 
+         - No hors class or UCI Mountain Bike Continental Series <del>or class 1</del> competition of the same format may be organised on the same continent on the same day as a UCI World Cup competition. 
 
-      - No Class 1 competition of the same format may be organised in the same country on the same day as a UCI World Cup competition. 
+         - No Class 1 competition of the same format may be organised in the same country on the same day as a UCI World Cup competition. 
 
-      - The continental championships <del>(CC)</del> and national championships <del>(CN)</del> in a format may not be organised during a UCI World Cup competition in the same format. 
+         - The continental championships <del>(CC)</del> and national championships <del>(CN)</del> in a format may not be organised during a UCI World Cup competition in the same format. 
 
 Page **1** / **31** 
 
@@ -75,7 +75,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - No stage race Hors Class may be organised during the mountain bike competition of the Olympic Games, or the UCI World Championships cross-country (XC) or marathon, in the concerned continent. 
 
-- ▪  No stage race, in HC or C1, may be organised during the Continental Championships of the same format on the concerned continent. 
+- No stage race, in HC or C1, may be organised during the Continental Championships of the same format on the concerned continent. 
 
 - One-day races 
 
@@ -155,7 +155,9 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 - **4.1.049** Riders who have won an Elite UCI World Cup race (XCO, DHI, EDR) will be asked to select a career number (2-999) for the UCI Mountain Bike World Cup (XCO, DHI, EDR). 
 
-<del>Upon retirement being confirmed to the UCI or communicated publicly, a rider</del> ’ <del>s unique career number will be made available for allocation to other riders.</del> A rider’s unique career number will be made available for allocation to other riders one season after publicly announcing or communicating their retirement to the UCI, provided they have not participated in a UCI World Cup competition in the format corresponding to their number, or two seasons after not having participated to a UCI World Cup competition in the discipline corresponding to their number. 
+<del>Upon retirement being confirmed to the UCI or communicated publicly, a rider</del> ’ <del>s unique career number will be made available for allocation to other riders.</del> A rider’s unique career 
+
+number will be made available for allocation to other riders one season after publicly announcing or communicating their retirement to the UCI, provided they have not participated in a UCI World Cup competition in the format corresponding to their number, or two seasons after not having participated to a UCI World Cup competition in the discipline corresponding to their number. 
 
 - <del>Elite riders will be asked to select their number in descending order starting with the rider who currently has the highest number of UCI World Cup wins.</del> 
 
@@ -306,9 +308,9 @@ _(text modified on 1.02.12; 1.01.19; 1.01.22; 01.01.27)._
 
 ## **Chapter III DOWNHILL COMPETITIONS** 
 
-#### **§ 2 Course** 
+   - **§ 2 Course** 
 
-**4.3.006** The length of the course and the duration of the competition are determined as follows: 
+- **4.3.006** The length of the course and the duration of the competition are determined as follows: 
 
 <del>Minimum Maximum</del> 
 
@@ -463,7 +465,7 @@ During the race, no private/team transport can be used at any time.
 
 ## **Chapter IX - UCI MOUNTAIN BIKE WORLD SERIES** 
 
-### **§ 1 General** 
+- **§ 1 General** 
 
 ### **Registration** 
 
@@ -973,7 +975,7 @@ The UCI shall determine the ponderation for each of these criteria. It may also 
 
 Prior to issuing a decision, the UCI can request the production of information or documents to assess the applicable criteria <del>above.</del> The UCI may also take established facts into account at its own initiative. 
 
-**Duration and renewal of** <del>Multi-year</del> **UCI MTB WORLD SERIES TEAM status** 
+#### **Duration and renewal of** <del>Multi-year</del> **UCI MTB WORLD SERIES TEAM status** 
 
 UCI MTB WORLD SERIES TEAM status is awarded for a multi-year period or for one (1) year, in such a way that fifteen (15) statuses are allocated for each season and for each format (endurance, gravity), in accordance with the following provisions: 
 

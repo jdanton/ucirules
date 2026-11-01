@@ -295,7 +295,7 @@ The rider’s code is read as follows:
 
 - 1<sup>st</sup> letter: gender 
 
-- 2<sup>nd</sup> – 3<sup>rd</sup> letter and number: sport class 
+   - 2<sup>nd</sup> – 3<sup>rd</sup> letter and number: sport class 
 
 _(text modified on 01.02.14; 01.02.18)_ 
 
@@ -307,9 +307,7 @@ PARA CYCLING
 
 ##### **<u>Part Two: Classification Personnel</u>** 
 
-- **16.4.004 Classification Personnel** 
-
-   - Classification Personnel are fundamental to the effective implementation of these Classification Rules. The UCI will appoint a number of Classification Personnel, each of whom will have a key role in the organisation, implementation and administration of Classification for the UCI. 
+- **16.4.004 Classification Personnel** Classification Personnel are fundamental to the effective implementation of these Classification Rules. The UCI will appoint a number of Classification Personnel, each of whom will have a key role in the organisation, implementation and administration of Classification for the UCI. 
 
 ##### **Head of Classification** 
 
@@ -335,7 +333,7 @@ A Chief Classifier is a Classifier appointed by the UCI to direct, administer, c
 
 - supervise Classifiers to ensure that these Classification Rules are properly applied during Classification; 
 
-- manage Protests in consultation with the UCI; 
+   - manage Protests in consultation with the UCI; 
 
 - liaise with the relevant Competition organisers to ensure that all logistics are arranged in order that Classifiers may carry out their duties at the Competition. 
 
@@ -397,9 +395,7 @@ PARA CYCLING
 
 - c) Perform duties without yielding to any economic, political, sporting or human pressure; 
 
-- d) Maintain confidentiality of any Classification information; 
-
-- e) Declare any actual, perceived or potential conflicts of interest; 
+- d) Maintain confidentiality of any Classification information; e) Declare any actual, perceived or potential conflicts of interest; 
 
 - f) Refrain from assuming any other role and responsibility that conflicts with their duties as Classification Personnel at a Competition 
 
@@ -557,7 +553,7 @@ _(text modified on 01.02.18; 01.01.25; 01.01.26)_
 
 ##### **16.4.012 Classification Not Completed** 
 
-If at any stage of Athlete Evaluation, the UCI or a Classification Panel is unable to allocate a Sport Class to an Athlete, the Head of Classification or the relevant Chief Classifier may designate that Athlete as Classification Not Completed (CNC). 
+- If at any stage of Athlete Evaluation, the UCI or a Classification Panel is unable to allocate a Sport Class to an Athlete, the Head of Classification or the relevant Chief Classifier may designate that Athlete as Classification Not Completed (CNC). 
 
 The designation Classification Not Completed (CNC) is not a Sport Class and is not subject to the provisions in these Classification Rules concerning Protests. The designation Classification Not Completed (CNC) will however be recorded for the purpose of the UCI Classification Master List. 
 
@@ -641,15 +637,15 @@ In respect of Athletes:
 
 - The person chosen by the Athlete to accompany him/her at an Evaluation Session should be familiar with the Athlete’s Impairment and sport history. 
 
-- The Athlete and accompanying person must acknowledge the terms of the Athlete Evaluation Consent Form as specified by the UCI. 
+   - The Athlete and accompanying person must acknowledge the terms of the Athlete Evaluation Consent Form as specified by the UCI. 
 
 - The Athlete must prove his/her identity to the satisfaction of the Classification Panel, by providing his/her UCI Licence. 
 
 - The Athlete must attend the Evaluation Session in sports attire and must bring all equipment used in competition, including the bicycle, tricycle or handcycle, helmet, orthopaedic brace(s), prosthesis(es), and any other equipment. 
 
-   - Any modification of the bicycle, tricycle or handcycle (e.g. support) must be submitted to the UCI for approval in accordance with the established procedure and article 16.14.002; 
+      - Any modification of the bicycle, tricycle or handcycle (e.g. support) must be submitted to the UCI for approval in accordance with the established procedure and article 16.14.002; 
 
-   - The Athlete is evaluated together with his/her orthopaedic brace/prosthesis and may entail a change of Sport Class or even division. All orthopaedic braces/prostheses must be submitted to the UCI for its approval in accordance with the established procedure; 
+      - The Athlete is evaluated together with his/her orthopaedic brace/prosthesis and may entail a change of Sport Class or even division. All orthopaedic braces/prostheses must be submitted to the UCI for its approval in accordance with the established procedure; 
 
 E0126 
 
@@ -959,7 +955,7 @@ _(text modified on 01.02.18; 01.01.21; 01.01.25; 01.01.26)_
 
 To submit a National Protest, a National Federation or a National Paralympic Committee must demonstrate that the Protest is bona fide with supporting evidence, complete the UCI Classification Protest Form, and must include the following: 
 
-   - Details of the protested Athlete; 
+- Details of the protested Athlete; 
 
 - Details of the protested decision and/or a copy of the protested decision; 
 
@@ -1466,7 +1462,7 @@ Eligible impairment(s) which prevent an Athlete from using a kneeling/sitting po
 
    - No lower limb function/impaired lower limb function; 
 
-   - Normal or almost normal trunk stability (normal abdominal strength, muscle grade 4-5); 
+- Normal or almost normal trunk stability (normal abdominal strength, muscle grade 4-5); 
 
 - Non-spinal cord injury/incomplete spinal cord injury with a sport specific activity limitation, equivalent to sport class H4; 
 
@@ -1486,15 +1482,15 @@ Eligible impairment(s) which prevent an Athlete from using a kneeling/sitting po
 
 ##### **Ataxia/Athetosis/Dystonia** 
 
-   - Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs; 
+- Severe athetosis/dystonia (E.g. large amplitude of excessive motion and long durations of excessive motions) in the lower limbs; 
 
-   - A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H4. 
+- A comparable mixture of ataxia/athetosis/dystonia and hypertonia/spasticity with a sport specific activity limitation equivalent to sport class H4. 
 
-- _(text modified on 01.02.10; 01.02.11; 01.02.14; 01.02.18; 01.01.21; 01.01.26)_ 
+_(text modified on 01.02.10; 01.02.11; 01.02.14; 01.02.18; 01.01.21; 01.01.26)_ 
 
 ##### **16.5.005.5 Sport Class: H5** 
 
-Athletes who can use the kneeling/sitting position must use this position. 
+- Athletes who can use the kneeling/sitting position must use this position. 
 
 ##### **Impaired Muscle Power** 
 
@@ -1526,7 +1522,7 @@ PARA CYCLING
 
 - Asymmetric or symmetrical bilateral involvement, mild – moderate; 
 
-- Unilateral Involvement, mild – moderate; 
+   - Unilateral Involvement, mild – moderate; 
 
    - Mild/normal trunk involvement; 
 
@@ -1546,7 +1542,7 @@ Severe locomotor dysfunction, can be mixed pattern (athetosis/dystonia/spasticit
 
    - 2, 3 or 4 limbs strongly affected; 
 
-   - Poor functional trunk use. 
+- Poor functional trunk use. 
 
 - Hypertonia on activity in the lower and upper limbs as well as trunk affects posture and balance on tricycle. 
 
@@ -1566,9 +1562,9 @@ More fluent movement pattern and better control of tricycle.
 
 ##### **Hypertonia** 
 
-   - Spasticity grade 2 in affected lower and upper limbs limb(s). 
+- Spasticity grade 2 in affected lower and upper limbs limb(s). 
 
-- 2, 3 or 4 limbs strongly affected; 
+   - 2, 3 or 4 limbs strongly affected; 
 
 - Hypertonia on activity can be seen. 
 
@@ -1592,15 +1588,15 @@ _(text modified on 01.02.10; 01.02.11; 01.02.18; 01.01.21)_
 
 ##### **16.5.007.1 Sport Class: C1** 
 
-##### **Limb Deficiency** 
+- **Limb Deficiency** 
 
-- Single above knee amputation and above elbow or below elbow amputation; or 
+   - Single above knee amputation and above elbow or below elbow amputation; or 
 
-- − Double through knee amputation; or 
+   - Double through knee amputation; or 
 
-- Double amputation below elbow + Single amputation above knee, no prosthesis; or 
+      - Double amputation below elbow + Single amputation above knee, no prosthesis; or 
 
-Double amputation below knee + Double amputation below elbow. 
+   - Double amputation below knee + Double amputation below elbow. 
 
 ##### **Muscle Power/Passive Range of Movement** 
 
@@ -1624,7 +1620,7 @@ Locomotor dysfunction, can be mixed pattern
 
 ##### **Athetosis/Dystonia** 
 
-− Severe: Constant signs of Dystonia/Athetosis with large amplitude of movement or extreme intensity of posturing; 
+- Severe: Constant signs of Dystonia/Athetosis with large amplitude of movement or extreme intensity of posturing; 
 
 _(text modified on 01.02.10; 01.02.11; 01.02.17; 01.02.18; 01.01.21)_ 
 
@@ -1648,7 +1644,7 @@ PARA CYCLING
 
 ##### **Muscle Power/ Passive Range of Movement** 
 
-   - Loss of function comparable to limb deficiency profiles above; 
+- Loss of function comparable to limb deficiency profiles above; 
 
 - Limited ROM of the hip or knee or muscle weakness such that a functional full revolution of the crank is not possible. The radius of crank must be limited to 0 cm (crank is fixed). 
 
@@ -1676,7 +1672,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.18; 01.01.21)_
 
 ##### **Limb Deficiency** 
 
-- Single below knee amputation with the use of a prosthesis + Single above elbow amputation, no prosthesis; or 
+   - Single below knee amputation with the use of a prosthesis + Single above elbow amputation, no prosthesis; or 
 
 - Single through knee or above knee amputation with the use of a prosthesis + Single below elbow amputation; or 
 
@@ -1690,7 +1686,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.18; 01.01.21)_
 
 ##### **Hypertonia** 
 
-- Spasticity grade 2 in impaired lower limb(s), lower limbs more involved; 
+   - Spasticity grade 2 in impaired lower limb(s), lower limbs more involved; 
 
    - Spasticity grade 1 in impaired upper limb. 
 
@@ -1710,7 +1706,7 @@ _(text modified on 01.02.10; 01.02.11; 01.02.18; 01.01.21; 01.01.26)_
 
 ##### **Limb Deficiency** 
 
-- Single below knee amputation, with the use of prosthesis; or 
+Single below knee amputation, with the use of prosthesis; or 
 
 E0126 
 
@@ -1738,7 +1734,7 @@ PARA CYCLING
 
 ##### **Ataxia** 
 
-Shows intermittent and mild or subtle signs of Ataxia. 
+- Shows intermittent and mild or subtle signs of Ataxia. 
 
 ##### **Athetosis/Dystonia** 
 
@@ -1804,7 +1800,7 @@ Minimum Impairment Criteria for Athletes with a Vision Impairment have been set 
 
 To be eligible to compete in Para Cycling, the Athlete must meet both criteria below: 
 
-   - The Athlete must have at least one of the following Impairments: 
+- The Athlete must have at least one of the following Impairments: 
 
    - impairment of the eye structure; 
 
@@ -1920,7 +1916,7 @@ PARA CYCLING
 
 #### **§ 1 Road Races** 
 
-- **16.7.001** All road race courses must be completely closed to other traffic. 
+**16.7.001** All road race courses must be completely closed to other traffic. 
 
 _(text modified on 26.06.07; 01.01.10; 01.01.16)_ 
 
@@ -2100,9 +2096,7 @@ The starting order of sport classes in time trials shall be established in such 
 
 For events that are solely time trials: 
 
-1. The reverse order of the most recently published general UCI Ranking; 
-
-2. The reigning Time Trial World Champion or outgoing Time Trial World Champion. 
+1. The reverse order of the most recently published general UCI Ranking; 2. The reigning Time Trial World Champion or outgoing Time Trial World Champion. 
 
 For stage races: 
 
@@ -2122,9 +2116,9 @@ _(text modified on 01.01.10; 01.02.11; 01.10.11)_
 
 - 1 following car for a nation (i.e.: including national team, individuals and any other team recommended by the National Federation) with up to six riders involved in the individual time trial, all sport classes combined; 
 
-- 2 following cars for a nation with 7-12 riders involved in the individual time trial, all sport classes combined; 
+   - 2 following cars for a nation with 7-12 riders involved in the individual time trial, all sport classes combined; 
 
-- 3 following cars for a nation with 13-19 riders involved in the individual time trial, all sport classes combined; 
+   - 3 following cars for a nation with 13-19 riders involved in the individual time trial, all sport classes combined; 
 
 - 4 following cars for a nation with over 20 riders involved in the individual time trial, all sport classes combined. 
 
@@ -2140,11 +2134,11 @@ PARA CYCLING
 
 #### **§ 3 Team Relay (TR)** 
 
-- **16.7.012** Races shall be for athletes of the following sport classes: 
+**16.7.012** Races shall be for athletes of the following sport classes: 
 
    - Men: H5; H4; H3; H2; H1 
 
-   - Women: H5; H4; H3; H2; H1 
+- Women: H5; H4; H3; H2; H1 
 
 A team shall be composed of three athletes plus substitutes. The team must be mixed, therefore composed with athletes coming from the sport class listed above and shall include a minimum of 1 woman rider per team. 
 
@@ -2306,7 +2300,7 @@ _(article introduced on 01.01.25)_
 
 ##### **Sprint Race** 
 
-**16.8.011** On tracks of less than 333.33 metres, races shall be ridden over 3 laps. On tracks of 333.33 metres or more, races shall be ridden over 2 laps. 
+- **16.8.011** On tracks of less than 333.33 metres, races shall be ridden over 3 laps. On tracks of 333.33 metres or more, races shall be ridden over 2 laps. 
 
 _(article introduced on 01.01.25)_ 
 
@@ -2416,15 +2410,15 @@ _(text modified on 01.02.08)_
 
 - **bis** _(text introduced on 01.01.20)_ 
 
-   - **16.8.025** The distance to accomplish including the momentum and the 200 metres is fixed as **ter** follows, depending on the length of the track: 
+- **16.8.025** The distance to accomplish including the momentum and the 200 metres is fixed as **ter** follows, depending on the length of the track: 
 
-      - 250 metres track or smaller: 4.5 laps 
+   - 250 metres track or smaller: 4.5 laps 
 
-      - 285,714 metres track: 4.0 laps 
+   - 285,714 metres track: 4.0 laps 
 
-      - 333,33 metres track: 3.5 laps 
+   - 333,33 metres track: 3.5 laps 
 
-      - 400 metres track and longer: 3.0 laps. 
+   - 400 metres track and longer: 3.0 laps. 
 
 E0126 
 
@@ -2701,7 +2695,7 @@ _(article introduced on 01.07.12)_
 
 - **16.9.007** No record shall be ratified if it does not comply with all applicable provisions. 
 
-_(article introduced on 01.07.12)_ 
+   - _(article introduced on 01.07.12)_ 
 
 - **16.9.008** A record broken the same day shall not be ratified. 
 
@@ -2747,7 +2741,7 @@ PARA CYCLING
 
 _(article introduced on 01.10.13)_ 
 
-**16.10.002** For all sport classes in road events, athletes are required to wear a helmet in the correct sport class colour, or use an appropriately coloured helmet cover, as follows: 
+- **16.10.002** For all sport classes in road events, athletes are required to wear a helmet in the correct sport class colour, or use an appropriately coloured helmet cover, as follows: 
 
 ||C5|men / women|
 |---|---|---|
@@ -3156,7 +3150,9 @@ E0126
 
 PARA CYCLING 
 
-- **16.18.005** [article abrogated on 01.01.26] 
+- **16.18.005** 
+
+   - [article abrogated on 01.01.26] 
 
 - **16.18.006** Ties on points between riders shall be resolved by counting up the greatest number of 1<sup>st</sup> places, 2<sup>nd</sup> places, etc. on the ranking of the races of the current year, taking into account the competition giving the most points, up through the C2 races. 
 
@@ -3176,7 +3172,9 @@ _(text modified on 26.06.07; 01.02.09; 01.01.25)_
 
 - **16.18.009** [article abrogated on 01.01.21] 
 
-- **16.18.010** [article abrogated on 01.01.21] 
+- **16.18.010** 
+
+   - [article abrogated on 01.01.21] 
 
 - **16.18.011** In case sport classes are merged, results will be presented as a group (sport classes merged) to reflect the way the race was held. However, points will be distributed by sport class, and each athlete’s sport class must appear in the results. 
 
@@ -3420,7 +3418,9 @@ _(article introduced on 01.10.11; text modified on 01.10.12)_
 
 - **16.20.015** [article abrogated on 01.01.10] 
 
-- **16.20.016** [article abrogated on 01.01.10] 
+- **16.20.016** 
+
+[article abrogated on 01.01.10] 
 
 - **16.20.017** The first three riders in each race shall receive from the organizer, respectively, a gold medal (1<sup>st</sup> place), a silver medal (2<sup>nd</sup> place) and a bronze medal (3<sup>rd</sup> place). 
 
@@ -3428,7 +3428,7 @@ _(text modified on 01.07.11; 01.10.12, 01.01.2025)_
 
 ##### **Individual Ranking** 
 
-**16.20.018** At the conclusion of each individual race of each event, points are awarded to the first ten riders according to article 16.18.004 for the individual road or track para cycling world cup ranking. 
+- **16.20.018** At the conclusion of each individual race of each event, points are awarded to the first ten riders according to article 16.18.004 for the individual road or track para cycling world cup ranking. 
 
 _(text modified on 01.10.13)_ 
 
@@ -3524,7 +3524,7 @@ PARA CYCLING
 
 - **16.22.001** Participation in cycling competitions at the Paralympic Games shall be governed by the rules of the International Paralympic Committee (IPC) and of the UCI. 
 
-Participation in the Paralympics shall imply acceptance and respect of the IPC rules and UCI regulations rules by the rider and any other license holder. 
+   - Participation in the Paralympics shall imply acceptance and respect of the IPC rules and UCI regulations rules by the rider and any other license holder. 
 
 _(text modified on 26.06.07)_ 
 
@@ -3546,7 +3546,7 @@ According to IPC rules, each NPC shall inform the organizing committee of the na
 
    - have participated in at least one international UCI Para Cycling during a period that spans two years before the Paralympics Game to July 15<sup>th</sup> the year of the Paralympics Games; 
 
-      - enter a minimum of two events (individual or team) in the Games Program. 
+   - enter a minimum of two events (individual or team) in the Games Program. 
 
 _(text modified on 26.06.07; 01.02.10; 01.10.12; 01.01.16; 01.01.21, 01.01.2022)_ 
 
@@ -3641,7 +3641,7 @@ PARA CYCLING
 
 _(article introduced on 01.01.26)_ 
 
-**16.24.004** The Continental Championships must be registered by the Continental Federation and the host country. 
+- **16.24.004** The Continental Championships must be registered by the Continental Federation and the host country. 
 
 Regional Games are Games held on single continents and appointed by the specific Regional Paralympic Committee (i.e. Asian Paralympic Committee etc…). 
 
@@ -3659,9 +3659,7 @@ PARA CYCLING
 
 ##### **UCI REQUEST FOR WORLD RECORD HOMOLOGATION** 
 
-###### **Attestation of the result by Officials** 
-
-We, the undersigned officials confirm that the record information as set out within this document was achieved according to the UCI Regulation. 
+**Attestation of the result by Officials** We, the undersigned officials confirm that the record information as set out within this document was achieved according to the UCI Regulation. 
 
 |**Position**|**Name(family)**|**Given Name**|**Signature**|
 |---|---|---|---|

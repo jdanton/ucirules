@@ -21,13 +21,13 @@ E0726
 
 ### **Chapter I GRAVEL COMPETITIONS** 
 
-#### **§ 1  General provision** 
+   - **§ 1  General provision** 
 
 - **18.1.001** Gravel discipline is a form of cycling that combines elements of both road and off-road disciplines and consisting mostly of distance riding over unpaved roads. 
 
    - **§ 2 Competitions** 
 
-##### **Format and course** 
+**Format and course** 
 
 - **18.1.002** Gravel competitions are competitive mass-participation competitions with a mass-start (or in waves with intervals between the start groups) fully timed for all participants and split results per category and gender. 
 
@@ -95,7 +95,9 @@ Men and women must have a separate start and be considered as separate races.
 
 - schedule and times of races 
 
-- the location and times for distribution of riders’ identification numbers and/or riders’ pack 
+- the location and times for distribution of riders’ identification numbers and/or riders’ 
+
+   - pack 
 
 - the competition’s specific regulations including the time limits 
 
@@ -137,7 +139,7 @@ Moreover, at the distribution of riders’ pack or identification numbers, the o
 
 ##### **Environment** 
 
-- **18.1.005** The organiser must take all appropriate measures for the protection of the environment. 
+**18.1.005** The organiser must take all appropriate measures for the protection of the environment. 
 
 The organiser must restore the course and its surroundings to its original condition in a reasonable deadline after the competition has finished. 
 
@@ -147,17 +149,17 @@ The organiser shall set up littering zones and be responsible for ensuring their
 
 - **18.1.006** The UCI gravel calendar groups the gravel competitions registered as per articles 1.2.001 to 1.2.018. 
 
-**18.1.007** The competitions of the UCI gravel calendar are registered in one of the following classes: 
+- **18.1.007** The competitions of the UCI gravel calendar are registered in one of the following classes: 
 
-- UCI gravel world championships (CM); 
+   - UCI gravel world championships (CM); 
 
-- UCI gravel world series (UGS); 
+   - UCI gravel world series (UGS); 
 
-- class 1 competition (1); 
+   - class 1 competition (1); 
 
-- continental championships (CC); 
+   - continental championships (CC); 
 
-- national championships (CN). 
+   - national championships (CN). 
 
 Continental championships or national championships can be organised as a standalone event or can be combined with a class 1 or a UCI gravel world series event. The following rules apply in case of combination with a class 1 of UCI gravel world series events: 
 
@@ -185,7 +187,7 @@ A season starts with the first round of the UCI gravel world series qualifying f
 
 ##### **Age** 
 
-- **18.1.009** A rider’s age shall be determined by the difference between the year of the season as defined in article 18.1.008 and the year of his birth. 
+**18.1.009** A rider’s age shall be determined by the difference between the year of the season as defined in article 18.1.008 and the year of his birth. 
 
 Gravel events are open to riders of the age of 19 years and above. 
 
@@ -219,9 +221,9 @@ E1026
 
 - _The following specific rules apply for the UCI Gravel World Championships, in all categories:_ 
 
-      - _mountain bike frames are not allowed;_ 
+   - _mountain bike frames are not allowed;_ 
 
-   - _the handlebar must be a drop handlebar, of the same general shape as the traditional handlebar defined in Part I, Chapter III, but without being subject to the dimensional standards set out in article 1.3.022 (cf. also article 1.3.011);_ 
+   - − _the handlebar must be a drop handlebar, of the same general shape as the traditional handlebar defined in Part I, Chapter III, but without being subject to the dimensional standards set out in article 1.3.022 (cf. also article 1.3.011);_ 
 
       - _time trial extension handlebars are not allowed._ 
 
@@ -303,9 +305,7 @@ In no event may the UCI be held responsible for accidents or health problems suf
 
 - **18.1.017** Participants must at all times respect the relevant road traffic regulations, unless explicitly authorised or instructed. The organiser shall be responsible for identifying in the specific rules for the competition any area or section where riders are authorised or required not to ride in accordance with the road traffic regulations. The organiser shall also ensure proper signposting of any such section. 
 
-- **18.1.018** Participants shall demonstrate a proper sporting spirit. 
-
-   - Collusion between riders from separate starts i.e. separate categories is forbidden. 
+- **18.1.018** Participants shall demonstrate a proper sporting spirit. Collusion between riders from separate starts i.e. separate categories is forbidden. 
 
 - **18.1.019** Participants shall behave in a manner which respects the environment. 
 
@@ -341,9 +341,7 @@ Any participation in an event contrary to eligibility rules or with unauthorised
 
 The start time is synchronized with the gun shot and not when each individual rider crosses the start line. 
 
-Riders starting in the wrong start wave will be ranked as follows, whether they are 
-
-responsible for the incorrect placement or not: 
+Riders starting in the wrong start wave will be ranked as follows, whether they are responsible for the incorrect placement or not: 
 
 - rider starting earlier than the due time or due wave: disqualification, 
 

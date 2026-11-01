@@ -4,13 +4,10 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3X0PPNdbWNAhMGaZzKly8J/c1f
 source_sha256: 441477261dbcacbc2916b002869f8163a1fca09db73c201ba1c208891944c6f1
 converter: pymupdf4llm
 ---
-**PART 5 CYCLO-CROSS Version on 01.07.2026** 
 
-![](images/5-CRO-20260701-E.pdf-0001-03.png)
+# **PART 5 CYCLO-CROSS** 
 
-**----- Start of picture text -----**<br>
-
-**----- End of picture text -----**<br>
+**Version on 01.07.2026** 
 
 CYCLO-CROSS 
 
@@ -18,29 +15,29 @@ E0726
 
 1 
 
-## **PART 5 CYCLO-CROSS** 
+# **PART 5 CYCLO-CROSS** 
 
-## **Chapter I CYCLO-CROSS COMPETITIONS** 
+### **Chapter I CYCLO-CROSS COMPETITIONS** 
 
-## **§ 1 Licences** 
+#### **§ 1 Licences** 
 
-## **Participation** 
+##### **Participation** 
 
-- **5.1.001** The category which will be applied for entries to races for the entire season is the category to which the rider will belong on 1 January of the following calendar year. 
+**5.1.001** The category which will be applied for entries to races for the entire season is the category to which the rider will belong on 1 January of the following calendar year. 
 
-## Men 
+##### <u>Men</u> 
 
 The category men junior shall comprise riders aged 17 to 18. The category men under 23 shall comprise riders aged 19 to 22. The category men elite shall comprise riders of 23 and above. 
 
 Except when separate category races are organised, men under 23 and men elite shall race together. 
 
-- Men under 23 riders cannot race with men elite during the following competitions: 
+Men under 23 riders cannot race with men elite during the following competitions: 
 
-   - UCI cyclo-cross world championships; 
+- UCI cyclo-cross world championships; 
 
-   - UCI cyclo-cross world cup rounds, when those include a separate men under 23 race; 
+- UCI cyclo-cross world cup rounds, when those include a separate men under 23 race; 
 
-   - continental and national championships, at the discretion of continental confederations or respectively national federations. 
+- continental and national championships, at the discretion of continental confederations or respectively national federations. 
 
 In all other competitions, men under 23 can ride in the race for men elite, even if a separate race is being run for men under 23 riders. 
 
@@ -52,7 +49,7 @@ If men under 23 and men elite compete in the same race, meaning same start time 
 
 - in case of championships, only one title is awarded (for example, should an under 23 rider win the race, he shall be awarded the elite title). 
 
-## Women 
+##### <u>Women</u> 
 
 The category women junior shall comprise riders aged 17 to 18. The category women under 23 shall comprise riders aged 19 to 22. The category women elite shall comprise riders of 23 and above. 
 
@@ -74,9 +71,11 @@ E0726
 
 In all other competitions, women junior can ride in the race for women elite, even if a separate race is being run for women junior. 
 
-- Women under 23 riders cannot race with women elite during the following competitions: - UCI cyclo-cross world championships; 
+Women under 23 riders cannot race with women elite during the following competitions: 
 
-   - continental and national championships, at the discretion of continental confederations or respectively national federations. 
+- UCI cyclo-cross world championships; 
+
+- continental and national championships, at the discretion of continental confederations or respectively national federations. 
 
 In all other competitions, women under 23 can ride in the race for women elite. 
 
@@ -88,15 +87,15 @@ If two or three of the categories women junior, women under 23 and women elite c
 
 - in case of championships, only one title is awarded (for example, should an under 23 rider win the race, she shall be awarded the elite title). 
 
-## Masters 
+##### <u>Masters</u> 
 
-All riders aged 35 and over may ride in the UCI masters cyclo-cross world championships. However the following riders are not eligible: 
+All riders aged 35 and over may ride in the UCI masters cyclo-cross world 
+
+championships. However the following riders are not eligible: 
 
 1. any rider who has ridden in the UCI cyclo-cross world championships, continental championships or UCI cyclo-cross world cup during the current year; 
 
-2. any rider, who has been a member, during the current cyclo-cross season, of a 
-
-   - team registered with the UCI; 
+2. any rider, who has been a member, during the current cyclo-cross season, of a team registered with the UCI; 
 
 3. any rider classified with at least 100 points in the UCI individual cyclo-cross ranking published after the first UCI cyclo-cross world cup round of the current cyclo-cross season. 
 
@@ -104,13 +103,11 @@ In races other than the UCI masters cyclo-cross world championships, riders may 
 
 The licence must clearly state the starting and finishing dates of its period of validity. The national federation shall make sure that the holder of a temporary licence will, for the duration of his licence, benefit from the same insurance cover and other benefits as those attached to an annual licence. 
 
-## UCI recognised teams 
+##### <u>UCI recognised teams</u> 
 
 Riders, men and women, belonging to the following teams are allowed to race cyclocross competitions under the name and the clothing of their respective team, at the exception of races where the national outfit is mandatory as per the article 1.3.059: 
 
-- UCI cyclo-cross teams and UCI cyclo-cross professional teams, as per chapter V, 
-
-   - Part V Cyclo-cross of the UCI regulations; 
+- UCI cyclo-cross teams and UCI cyclo-cross professional teams, as per chapter V, Part V Cyclo-cross of the UCI regulations; 
 
 - UCI road teams, as per Chapters XV, XVI and XVII, Part II Road races of the UCI regulations; 
 
@@ -118,7 +115,7 @@ Riders, men and women, belonging to the following teams are allowed to race cycl
 
 _(text modified on 01.09.99; 01.09.04; 01.09.06; 01.09.08; 16.06.14; 01.07.15; 07.06.16; 28.01.17; 26.06.18; 21.06.19; 12.06.20; 10.06.21; 01.07.22)_ 
 
-- **5.1.002** A rider ranked 21[st] to 50[th] of the most recently published elite UCI cyclo-cross ranking may not take part in national competitions in a country other than the federation of his sporting nationality according to the UCI regulations. 
+- **5.1.002** A rider ranked 21<sup>st</sup> to 50<sup>th</sup> of the most recently published elite UCI cyclo-cross ranking may not take part in national competitions in a country other than the federation of his sporting nationality according to the UCI regulations. 
 
 CYCLO-CROSS 
 
@@ -132,27 +129,31 @@ Infringements to the provisions above shall be sanctioned by a suspension pronou
 
 _(article introduced on 01.09.04; text modified on 16.06.14; 01.03.24)_ 
 
-## **Competition programme – technical guide** 
+##### **Competition programme – technical guide** 
 
-**5.1.003** The programme - technical guide must be written in French or English and in the official local language(s) and include at least the following information: 
+- **5.1.003** The programme - technical guide must be written in French or English and in the official local language(s) and include at least the following information: 
 
-- schedule and times of races and official training; 
+   - schedule and times of races and official training; 
 
-- name and contact of the competition’s stakeholders: competition’s director, course manager, race doctor, commissaires’ panel; 
+   - name and contact of the competition’s stakeholders: competition’s director, course 
 
-- the prize list and the prize money payment’s process; 
+      - manager, race doctor, commissaires’ panel; 
 
-- description and detailed map of the circuit, showing the circuit length, the start and finish, the pit area and the obstacles; 
+   - the prize list and the prize money payment’s process; 
 
-- the location of the secretariat, accreditation issue point, the press room, and antidoping control location; 
+   - description and detailed map of the circuit, showing the circuit length, the start and 
 
-- timing and where applicable photo-finish installations; 
+      - finish, the pit area and the obstacles; 
 
-- policing, security and emergency medical arrangements. 
+   - the location of the secretariat, accreditation issue point, the press room, and antidoping control location; 
+
+   - timing and where applicable photo-finish installations; 
+
+   - policing, security and emergency medical arrangements. 
 
 _(text modified on 01.09.04; 01.09.08; 28.06.17)_ 
 
-## **Calendar** 
+##### **Calendar** 
 
 **5.1.004** International cyclo-cross races are registered on the international calendar in accordance with the following classification: 
 
@@ -196,7 +197,7 @@ A new competition may only be added to the international calendar in class 2.
 
 _(article introduced on 01.09.06; text modified on 01.09.08; 01.07.11; 07.06.16, 21.06.19; 12.06.20; 01.07.22; 01.03.24)_ 
 
-## **Cyclo-cross team relay** 
+##### **Cyclo-cross team relay** 
 
 - **5.1.004** One cyclo-cross team relay race must be organized at the UCI cyclo-cross world **bis** championships and may be organised at the continental cyclo-cross championships in accordance with the provisions of article 9.2.045 bis. UCI points are allocated to the nation only and not to the riders individually. A minimum of 5 nations must compete in the cyclo-cross team relay for UCI points to be awarded. 
 
@@ -210,7 +211,7 @@ Failure to comply with these provisions concerning the relay between teammates s
 
 _(article introduced on 01.07.22_ ) 
 
-## **Protection of the dates** 
+##### **Protection of the dates** 
 
 - **5.1.005** 1.  UCI cyclo-cross world championships 
 
@@ -222,7 +223,7 @@ E0726
 
 5 
 
-## 2. UCI cyclo-cross world cup 
+##### 2. <u>UCI cyclo-cross world cup</u> 
 
 No class 1 competition may be held on the same day as a UCI cyclo-cross world cup round. 
 
@@ -230,13 +231,13 @@ A class 1 competition may be held on the day before or the day after a UCI cyclo
 
 No class 2 competition may be held on the same day as a UCI cyclo-cross world cup round in the same country. 
 
-## 3. Class 1 
+##### 3. <u>Class 1</u> 
 
 No class 2 competition may be held on the same day as a class 1 competition in the same country (for Europe) or in the same cycling-defined region (for USA). 
 
 _(article introduced on 01.09.06; text modified on 01.09.08; 01.07.11; 12.06.20)_ 
 
-## **UCI Technical delegate** 
+##### **UCI Technical delegate** 
 
 - **5.1.006** At the UCI cyclo-cross world championships and UCI cyclo-cross world cup rounds a UCI technical delegate is appointed by the UCI. 
 
@@ -252,7 +253,7 @@ The UCI technical delegate shall attend the team managers' meetings during the U
 
 _(article introduced on 01.09.06; text modified on 01.09.08; 01.07.22)_ 
 
-## **Security** 
+##### **Security** 
 
 - **5.1.008** A zone of at least 100 metres before and 50 metres after the finish line will be protected with barriers. It will be accessible only to organisational staff, the riders, paramedics, team managers and accredited press. The organiser must strictly control access to this zone. 
 
@@ -280,7 +281,7 @@ The race organiser must provide enough marshals to ensure the safety of the ride
 
 _(text modified on 01.09.04; 01.09.08; 01.07.11; 01.07.22)_ 
 
-## **First aid** 
+##### **First aid** 
 
 - **5.1.008** The provisions of articles 13.4.001 to 13.4.011 concerning medical services shall apply **bis** to all cyclo-cross competitions. 
 
@@ -306,13 +307,13 @@ E0726
 
 7 
 
-## **Inflatable arches** 
+##### **Inflatable arches** 
 
 - **5.1.009** The use of inflatable arches which cross the course is forbidden. 
 
 _(article introduced on 01.02.07; text modified on 01.09.08)_ 
 
-## **Installations** 
+##### **Installations** 
 
 - **5.1.010** The judge's stand at the finish must be covered and mandatory placed right across the finish line. It shall be preferably located on the left of the finish line. 
 
@@ -322,7 +323,7 @@ _(text modified on 01.09.99; 01.09.04; 01.07.22)_
 
 - **5.1.011** The organiser must provide riders with a heated room, showers with hot and cold water and a water supply for cleaning of equipment. These installations must be no more than 2 km from the finish line. 
 
-## **Course** 
+##### **Course** 
 
 - **5.1.012** A cyclo-cross course shall include road, country and forest paths and meadowland alternating in such a way as to ensure changes in the pace of the race and allowing riders to recuperate after difficult sections. 
 
@@ -358,21 +359,21 @@ _(text modified on 01.09.99; 01.09.04)_
 
 _(text modified on 01.09.99; 01.09.04; 01.09.08)_ 
 
-## **U-turns** 
+##### **U-turns** 
 
 - **5.1.018** U-turns on the course shall be installed and protected such as riders may not hold on **bis** the pole or on the barrier in the centre of the U-turns. 
 
 _(article introduced on 07.06.16)_ 
 
-## **Call-up zone** 
+##### **Call-up zone** 
 
-- **5.1.019** An assembly area for starters (call-up zone) shall be provided and marked off with barriers behind the start line (see annex 1). 
+**5.1.019** An assembly area for starters (call-up zone) shall be provided and marked off with barriers behind the start line (see annex 1). 
 
 Eight lanes with a width of 75 cm and a length of 10 m shall be marked out on the ground at right angles to the start line in order to facilitate organising the riders into starting order (see annex 1). 
 
 _(text modified on 01.09.99; 01.09.04; 01.09.06; 01.07.10)_ 
 
-## **Start section** 
+##### **Start section** 
 
 - **5.1.020** The start section must be on firm ground, and preferably on surfaced road. It must have a length of at least 150 metres and a width of at least 6 metres. It must be as straight as possible and not include any descent. The first narrowing or obstacle after the start section may not be abrupt, it must be such as to allow all the riders to pass easily. The angle of the first corner must be greater than 90 degrees. U-turns are not allowed. 
 
@@ -382,7 +383,7 @@ A gate system for spectators’ and officials crossing can be installed but only
 
 _(text modified on 01.09.03; 01.09.04; 01.09.06; 01.09.08; 16.06.14; 07.06.16; 10.06.21)_ 
 
-## **Finish section** 
+##### **Finish section** 
 
 - **5.1.021** The finish section must run straight for at least 100 metres. The width must be at least 6 metres for UCI cyclo-cross world championships, UCI cyclo-cross world cup rounds, continental championships and competitions in class 1, and at least 4 metres for other competitions. The section must be flat or uphill. 
 
@@ -396,7 +397,7 @@ E0726
 
 9 
 
-## **Obstacles** 
+##### **Obstacles** 
 
 - **5.1.022** The start and finish sections must be free of obstacles. 
 
@@ -404,13 +405,13 @@ _(text modified on 01.09.04)_
 
 - **5.1.023** The course may include no more than six artificial obstacles. Obstacle shall mean any part of the course where riders are likely (but not required) to dismount. 
 
-The artificial obstacles allowed on a cyclo-cross course are restricted to: 
+   - The artificial obstacles allowed on a cyclo-cross course are restricted to: 
 
-- planks, as described in article 5.1.024; 
+      - planks, as described in article 5.1.024; 
 
-- steps; 
+      - steps; 
 
-- non natural sand pits. 
+      - non natural sand pits. 
 
 All other artificial obstacles are not allowed. 
 
@@ -452,19 +453,19 @@ E0726
 
 - **5.1.025** The course may pass over bridges or footbridges as long as they are at least 3 metres wide and have protective barriers on both sides. Bridges or footbridges shall be covered with an anti-slip surface (matting, mesh or anti-slip paint). 
 
-In addition a separate footbridge for spectators must be provided. 
+   - In addition a separate footbridge for spectators must be provided. 
 
-_(text modified on 01.09.99; 01.09.04)_ 
+   - _(text modified on 01.09.99; 01.09.04)_ 
 
 - **5.1.025** Obstacles of cyclo-cross course must be the same for men and women elite race. **bis** 
 
-_(article introduced on 26.06.18)_ 
+   - _(article introduced on 26.06.18)_ 
 
-## **Pit areas** 
+##### **Pit areas** 
 
 - **5.1.026** The pit area is the part of the course where riders can change wheels or bicycles. 
 
-_(text modified on 01.09.04)_ 
+   - _(text modified on 01.09.04)_ 
 
 - **5.1.027** The pit areas must be straight and may not include an obstacle. They must be located on a part of the course where the speed is not high, excluding gravelled sections and descents. 
 
@@ -472,17 +473,17 @@ _(text modified on 01.09.04)_
 
 - **5.1.028** The double pit area (see annex 2) is compulsory for UCI cyclo-cross world championships, UCI cyclo-cross world cup rounds, continental championships, national championships and competitions in class 1. 
 
-If it is not possible to design a course such that a double pit area as per article 5.1.029 can be set up, the competition may only be organised with the prior consent of the UCI to set up two single pits (see annex 3). 
+   - If it is not possible to design a course such that a double pit area as per article 5.1.029 can be set up, the competition may only be organised with the prior consent of the UCI to set up two single pits (see annex 3). 
 
-_(text modified on 01.09.04; 01.07.10; 01.07.22)_ 
+   - _(text modified on 01.09.04; 01.07.10; 01.07.22)_ 
 
 - **5.1.029** The double pit area must be set up in an area where two sections of the course are close enough together and the distance along the course between the successive pits is more or less equal each way. 
 
-_(text modified on 01.09.04)_ 
+   - _(text modified on 01.09.04)_ 
 
 - **5.1.030** For UCI cyclo-cross world championships, the location for the double pit area shall be set by the UCI technical delegate. 
 
-_(article introduced on 01.09.04)_ 
+   - _(article introduced on 01.09.04)_ 
 
 - **5.1.031** In competitions other than those covered by article 5.1.028, the organiser must make provision for a double pit area or two single pit areas located at suitable distances around the course. 
 
@@ -514,7 +515,7 @@ Personal high pressure cleaners are forbidden in the pit area during the UCI cyc
 
 _(text modified on 01.09.98; 01.09.04; 28.06.17; 10.06.21)_ 
 
-## **Boxes** 
+##### **Boxes** 
 
 - **5.1.035** At UCI cyclo-cross world championships _,_ UCI cyclo-cross world cup rounds and continental championships the pit areas must be at least 70 metres long. 
 
@@ -526,7 +527,7 @@ Only two accredited assistants per rider shall be allowed in the box of this rid
 
 _(text modified on 01.08.00; 01.09.03; 01.09.04; 01.02.07; 01.07.10)_ 
 
-## **Allocation of boxes** 
+##### **Allocation of boxes** 
 
 - **5.1.036** The pit boxes are allocated the day prior to the competition for the UCI cyclo-cross world cup rounds and continental championships, they are allocated during the team managers meeting for the UCI cyclo-cross world championships. For those 3 competitions, pit boxes are allocated as follows: 
 
@@ -564,9 +565,9 @@ _(article introduced on 01.07.22)_
 
 - **5.1.037** [article abrogated on 01.09.08] 
 
-## **Equipment changes** 
+##### **Equipment changes** 
 
-- **5.1.038** A rider may only take the pit lane to change his bicycle, wheel(s) or for other mechanical assistance. 
+**5.1.038** A rider may only take the pit lane to change his bicycle, wheel(s) or for other mechanical assistance. 
 
 Should a rider take the pit lane for any other reason, the commissaires shall decide and the decision shall be final. 
 
@@ -586,7 +587,7 @@ E0726
 
 13 
 
-## **Attendants** 
+##### **Attendants** 
 
 - **5.1.041** Each rider may be accompanied by a paramedical assistant and two mechanics. 
 
@@ -598,9 +599,9 @@ For the UCI cyclo-cross world cup and UCI cyclo-cross world championships, accre
 
 _(article introduced on 26.06.07; text modified on 07.06.16)_ 
 
-## **§ 2 Race procedure** 
+#### **§ 2 Race procedure** 
 
-## **Starting procedure** 
+##### **Starting procedure** 
 
 - **5.1.042** The riders shall assemble in the call-up zone defined in article 5.1.019 at least 10 minutes before the start. 
 
@@ -620,13 +621,13 @@ The last seconds before the start are not accompanied with any progressive sound
 
 _(text modified on 01.10.02; 01.09.08; 10.06.21; 01.07.26)_ 
 
-## **Start order** 
+##### **Start order** 
 
-**5.1.043** The start order of races is determined as follows: 
+- **5.1.043** The start order of races is determined as follows: 
 
-A. UCI cyclo-cross world championships and UCI cyclo-cross world cup 
+   - A. UCI cyclo-cross world championships and UCI cyclo-cross world cup 
 
-1. the first 16 riders of the most recently published UCI cyclo-cross world cup standings of the current season. For the women under 23 race of the UCI world championships, the first 16 riders aged 19-22 years from the women elite UCI cyclo-cross world cup standings. This point 1 is not applicable for the first UCI cyclo-cross world cup round of the season; 
+      1. the first 16 riders of the most recently published UCI cyclo-cross world cup standings of the current season. For the women under 23 race of the UCI world championships, the first 16 riders aged 19-22 years from the women elite UCI cyclo-cross world cup standings. This point 1 is not applicable for the first UCI cyclo-cross world cup round of the season; 
 
 CYCLO-CROSS 
 
@@ -636,21 +637,21 @@ E0726
 
 2. as per the most recently published UCI cyclo-cross individual rankings of the current season (or the final classification of the previous season if no rankings has yet been published for the current season; 
 
-3. for men elite and women elite races, the place 33[rd] to 40[th] of the start order will be allocated to riders ranked as per the following rankings, unless they are listed on the start order between the place 1[st] to 32[nd] according to point 1 and 2 above: 
+3. for men elite and women elite races, the place 33<sup>rd</sup> to 40<sup>th</sup> of the start order will be allocated to riders ranked as per the following rankings, unless they are listed on the start order between the place 1<sup>st</sup> to 32<sup>nd</sup> according to point 1 and 2 above: 
 
    - top 10 of the UCI mountain bike cross-country ranking; 
 
    - top 20 of the UCI road world ranking; 
 
-the place 33[rd] to 40[th] will be allocated following the riders’ ranking in any discipline: UCI mountain bike cross country or UCI road world ranking. If two riders have the same ranking, they will be placed by drawing lot. 
+the place 33<sup>rd</sup> to 40<sup>th</sup> will be allocated following the riders’ ranking in any discipline: UCI mountain bike cross country or UCI road world ranking. If two riders have the same ranking, they will be placed by drawing lot. 
 
-4. unclassified riders: by nations in rotation (*). 
+   4. unclassified riders: by nations in rotation (*). 
 
-## B. Continental championships and other races 
+- B. Continental championships and other races 
 
-1. as per the most recently published UCI cyclo-cross individual ranking of the current season (or the final ranking of the previous season if no ranking has yet been published for the current season); 
+   1. as per the most recently published UCI cyclo-cross individual ranking of the current season (or the final ranking of the previous season if no ranking has yet been published for the current season); 
 
-2. unclassified riders by drawing lots. 
+   2. unclassified riders by drawing lots. 
 
 C.  Women junior, women under 23 and men under 23 races 
 
@@ -676,13 +677,15 @@ _(text modified on 01.09.99; 01.10.02; 01.09.03; 01.09.04; 01.02.07; 26.06.07; 0
 
 - **5.1.045** [article abrogated on 01.09.08] 
 
-## **Allocation of race numbers** 
+##### **Allocation of race numbers** 
 
-- **5.1.046** The allocation of race numbers at UCI cyclo-cross world championships and UCI cyclocross world cup rounds shall be as follows: 
+**5.1.046** The allocation of race numbers at UCI cyclo-cross world championships and UCI cyclocross world cup rounds shall be as follows: 
 
-   - race numbers in sequence from 1 upwards to the country of the world champion of the preceding season; 
+- race numbers in sequence from 1 upwards to the country of the world champion 
 
-   - race number 1 shall only be allocated to the reigning UCI world champion of the category concerned; 
+   - of the preceding season; 
+
+- race number 1 shall only be allocated to the reigning UCI world champion of the category concerned; 
 
 CYCLO-CROSS 
 
@@ -696,63 +699,61 @@ E0726
 
 _(text modified on 01.09.99; 01.09.03; 01.09.04; 01.09.06; 01.09.08)_ 
 
-## **False start** 
+##### **False start** 
 
-- **5.1.047** In case of a false start, a new call up procedure and gridding will be done. Riders who cause a false start shall be sent back to the last place in the start order of the new call-up. 
+**5.1.047** In case of a false start, a new call up procedure and gridding will be done. Riders who cause a false start shall be sent back to the last place in the start order of the new call-up. 
 
 _(text modified on 01.09.06; 10.06.21)_ 
 
-## **Duration of races** 
+##### **Duration of races** 
 
-- **5.1.048** The duration of competitions must be as close as possible to: 
+**5.1.048** The duration of competitions must be as close as possible to: 
 
-   - 40 minutes for men junior races; 
+- 40 minutes for men junior races; 
 
-   - 40 minutes for women junior races; 
+- 40 minutes for women junior races; 
 
-   - 45 minutes for the races where women elite and women junior race together; 
+- 45 minutes for the races where women elite and women junior race together; 
 
-   - 45 minutes for the women under 23 races; 
+- 45 minutes for the women under 23 races; 
 
-   - 50 minutes for men under 23 races; 
+- 50 minutes for men under 23 races; 
 
-   - 50 minutes for women elite races without women junior; 
+- 50 minutes for women elite races without women junior; 
 
-   - 60 minutes for the men elite races. 
+- 60 minutes for the men elite races. 
 
 The number of laps will be calculated and announced at the end of the second lap. 
 
 _(text modified on 01.09.01; 01.09.06; 16.06.14; 01.07.15; 07.06.16; 28.06.17; 21.06.19; 12.06.20; 10.06.21)_ 
 
-## **Order of races** 
+##### **Order of races** 
 
-- **5.1.048** For all competitions scheduled on one day, the order of races must be as follows: 
+- **5.1.048** For all competitions scheduled on one day, the order of races must be as follows: **bis** 
 
-## **bis** 
+   1. men junior; 
 
-1. men junior; 
+   2. women junior when appropriate; 
 
-2. women junior when appropriate; 
+   3. men under 23 when appropriate; 
 
-3. men under 23 when appropriate; 
+   4. women; 
 
-4. women; 
-
-5. men elite. 
+   5. men elite. 
 
 The women and men elite races must be organised as stand-alone races. Meaning that no other categories should be added nor any kind of delayed start for another race or category shall be allowed for women and men elite races. 
 
 _(article introduced on 16.06.14; text modified on 28.06.17; 21.06.19)_ 
 
-## **Last lap** 
+##### **Last lap** 
 
 - **5.1.049** The last lap of the race shall be announced by the bell. 
 
 _(text modified on 01.09.06)_ 
 
-## **Classification** 
+##### **Classification** 
 
-- **5.1.050** All riders who cross the finish line after the winner shall have finished the race and will be given a placing on the basis of their position. 
+**5.1.050** All riders who cross the finish line after the winner shall have finished the race and will be given a placing on the basis of their position. 
 
 CYCLO-CROSS 
 
@@ -764,7 +765,7 @@ A rider who retires must leave the course immediately and does not have the righ
 
 _(text modified on 01.09.04; 01.09.08; 01.07.10)_ 
 
-## **80% rule** 
+##### **80% rule** 
 
 - **5.1.051** Lapped riders must complete the lap during which they were lapped and leave the race via an exit located before the finishing straight or in the “80%” zone as described in article 5.1.052, if that rule applies. They will be listed in the results in the order in which they are pulled out of the race plus number of laps which have not been completed. 
 
@@ -776,7 +777,7 @@ _(text modified on 01.07.10; 01.07.11; 01.03.24)_
 
 - **5.1.053** [article transferred to 9.2.045 ter on 01.07.22] 
 
-## **Official ceremony** 
+##### **Official ceremony** 
 
 - **5.1.054** The official ceremony shall take place as soon as possible and no later than 15 minutes after the finish of the first rider. 
 
@@ -792,13 +793,13 @@ _(text modified on 26.06.18)_
 
 - **5.1.057** [article transferred to art. 1.2.124] 
 
-## **Cancellation** 
+##### **Cancellation** 
 
 - **5.1.057** In the event of difficult weather conditions (e.g. strong winds, heavy snowfall, temperatures below -15°Celsius) the president of the commissaires' panel may decide to cancel the competition, after consulting the UCI technical delegate in case of need and the organiser. 
 
 _(text modified on 01.09.99; 01.09.04)_ 
 
-## **In-race communications** 
+##### **In-race communications** 
 
 - **5.1.059** The use of radio links or other remote means of communication with riders is forbidden. 
 
@@ -814,7 +815,7 @@ _(article introduced on 01.09.04; text modified on 07.06.16)_
 
 - **5.1.060** [article transferred to art. 1.3.071] 
 
-## **Electronic identification** 
+##### **Electronic identification** 
 
 - **5.1.061** When an electronic device is provided to riders for their identification or their geolocation by the timing service provider, the riders shall be under the obligation to wear it in addition to the identification numbers listed at article 1.3.073. 
 
@@ -824,7 +825,7 @@ Articles 1.3.076, 1.3.077, 1.3.080 and points 3 and 4 of the table of race incid
 
 _(article introduced on 28.06.17; text modified on 21.06.19)_ 
 
-## **Feeding** 
+##### **Feeding** 
 
 - **5.1.062** The act of handing out food or drinks is not allowed during cyclo-cross races. Nevertheless, a rider may keep and use food or drinks which they carry on their bikes or in their outfits. 
 
@@ -840,7 +841,7 @@ E0726
 
 18 
 
-## **Chapter II UCI CYCLO-CROSS RANKING** 
+### **Chapter II UCI CYCLO-CROSS RANKING** 
 
 - **5.2.001** The UCI shall draw up an annual individual ranking of riders who take part in international cyclo-cross competitions: 
 
@@ -862,21 +863,23 @@ _(text modified on 01.09.04)_
 
 In case of riders having an equal number of points in the ranking, riders are ranked based on their best result with UCI points in each of the race groups listed below; if the tie cannot be broken by the results of the group 1. races, the results of the group 2. races are used; then the results of the group 3 races, and so on 
 
-   1. UCI cyclo-cross world championships; 
+1. UCI cyclo-cross world championships; 
 
-   2. UCI cyclo-cross world cup rounds; 
+2. UCI cyclo-cross world cup rounds; 
 
-   3. continental championships; 
+3. continental championships; 
 
-   4. national championships; 
+4. national championships; 
 
-   5. class 1 competitions; 
+5. class 1 competitions; 
 
-   6. class 2 competitions; 
+6. class 2 competitions; 
 
-   7. races in the men under 23 and men junior race of the class 1 or class 2 competitions. 
+7. races in the men under 23 and men junior race of the class 1 or class 2 competitions. 
 
-- If the tie still persists, the most recent result will be considered in group 2., then in group 3., and so on. 
+If the tie still persists, the most recent result will be considered in group 2., then in group 
+
+- 3., and so on. 
 
 As from the first calculated ranking of the season, the men junior riders who change category to under 23 category will keep only the UCI points won during the men junior UCI Cyclo-cross world championships. 
 
@@ -908,15 +911,7 @@ E0726
 
 9. continental championships men junior and women junior; 
 
-10. national championships men elite and women elite; 
-
-11. national championships men under 23 and women under 23; 
-
-12. national championships men junior and women junior; 
-
-13. competitions in class 1 men elite and women; 
-
-14. competitions in class 2 men elite and women; 
+10. national championships men elite and women elite; 11. national championships men under 23 and women under 23; 12. national championships men junior and women junior; 13. competitions in class 1 men elite and women; 14. competitions in class 2 men elite and women; 
 
 15. race for men under 23 of the class 1 or class 2 competitions (where there is a separate race for men elite); 
 
@@ -924,7 +919,9 @@ E0726
 
 17. race for women junior of the class 1 or class 2 competitions (where there is a separate race for women under 23 and women elite). 
 
-_(text modified on 01.09.99; 01.09.03; 01.09.04; 01.09.06; 01.09.08; 01.07.11; 01.07.15; 21.06.19; 12.06.20)_ 
+_(text modified on 01.09.99; 01.09.03; 01.09.04; 01.09.06; 01.09.08; 01.07.11; 01.07.15;_ 
+
+_21.06.19; 12.06.20)_ 
 
 - **5.2.005** The classification of competitions in the categories specified in points 4 to 9 and from 13 to 17 of article 5.2.004 is carried out annually by the UCI management committee. 
 
@@ -932,9 +929,11 @@ _(text modified on 01.09.03; 01.09.04; 01.09.06; 01.09.08; 01.07.11)_
 
 - **5.2.006** The number of points to be awarded in each race is mentioned in the attachment at this chapter. 
 
-   - For all categories except men junior, all results are taken into account. 
+For all categories except men junior, all results are taken into account. 
 
-   - For men junior riders, only the best results of each rider shall be taken into account: - men junior race of a class 1 or class 2 competition: the best 6 results of each rider; - men junior UCI cyclo-cross world cup competition: the best 5 results of each rider. 
+- For men junior riders, only the best results of each rider shall be taken into account: - men junior race of a class 1 or class 2 competition: the best 6 results of each rider; 
+
+   - men junior UCI cyclo-cross world cup competition: the best 5 results of each rider. 
 
 _(text modified on 01.08.00; 01.09.03; 01.09.04; 01.09.05; 01.09.06; 01.09.08; 01.07.09; 01.07.11; 01.07.15; 21.06.19; 12.06.20)_ 
 
@@ -1000,7 +999,7 @@ E0726
 
 21 
 
-## **Chapter III UCI CYCLO-CROSS WORLD CUP** 
+### **Chapter III UCI CYCLO-CROSS WORLD CUP** 
 
 - **5.3.001** The UCI cyclo-cross world cup is the exclusive property of the UCI. 
 
@@ -1022,7 +1021,7 @@ _(text modified on 01.09.99; 01.09.04; 12.06.20)_
 
 - **5.3.004** [article transferred to art. 5.1.005]; _(text modified on 01.09.06)_ 
 
-## **Participation** 
+##### **Participation** 
 
 - **5.3.005** UCI cyclo-cross world cup rounds shall be organised for men elite and women elite. 
 
@@ -1058,11 +1057,9 @@ Pre-qualified riders are eligible for selection at the discretion of the federat
 
 - a federation having 7 prequalified riders will select its 7 best ranked riders and 1 rider of its choice; 
 
-- a federation having 8 prequalified riders will selects its 8 best ranked riders and 1 rider of its choice; 
+- - a federation having 8 prequalified riders will selects its 8 best ranked riders and 1 rider of its choice; 
 
-- a federation having 9 prequalified riders will select its 8 best ranked riders and 2 
-
-   - riders of its choice; 
+- a federation having 9 prequalified riders will select its 8 best ranked riders and 2 riders of its choice; 
 
 - a federation having 10 prequalified riders will select its 8 best ranked riders and 3 riders of its choice; 
 
@@ -1102,7 +1099,7 @@ E0726
 
 _(text modified on 01.09.99; 01.10.02; 01.09.04; 01.09.08)_ 
 
-## **Clothing** 
+##### **Clothing** 
 
 - **5.3.010** The national team outfit is mandatory during the men junior, women junior and men under 23 UCI cyclo-cross world cup races, with the exception of national, continental and world champions who must wear their champion jersey, in accordance with the priorities listed in article 1.3.071. 
 
@@ -1110,19 +1107,19 @@ For men elite and women elite UCI cyclo-cross world cup races, the national fede
 
 The national team outfit used during the UCI cyclo-cross world cup races will respect the provisions of article 1.3.056 and 1.3.057. 
 
-_(article introduced on 26.06.18; text modified on 12.06.20)_ 
+_<mark>(article introduced on 26.06.18; text modified on 12.06.20)</mark>_ 
 
-## **Official ceremony** 
+##### **Official ceremony** 
 
-- **5.3.011** The first 3 riders in the race and the leader of the general classification of the UCI cyclocross world cup must attend the podium. 
+**5.3.011** The first 3 riders in the race and the leader of the general classification of the UCI cyclocross world cup must attend the podium. 
 
 For UCI cyclo-cross world cup rounds where youth categories races are organised (men junior, women junior and men under 23), the official ceremonies of those categories will be grouped and organised after the men under 23 race. 
 
 _(text modified on 01.09.98; 01.09.08; 21.06.19; 12.06.20)_ 
 
-**5.3.012** [article abrogated on 12.06.20] 
+- **5.3.012** [article abrogated on 12.06.20] 
 
-## **Classifications** 
+##### **Classifications** 
 
 - **5.3.013** A UCI individual UCI cyclo-cross world cup classification will be drawn up for all categories for which points will be awarded to the first 25 riders in each race in accordance with the following scale: 
 
@@ -1155,7 +1152,7 @@ Riders tying on points will be ranked by the greatest number of 1st places, 2nd 
 
 _(text modified on 01.09.99; 01.09.02; 01.09.04; 01.09.05; 01.09.08; 01.07.15; 07.06.16; 12.06.20)_ 
 
-## **Ranking by nation** 
+##### **Ranking by nation** 
 
 - **5.3.013** A UCI cyclo-cross world cup ranking by nation is drawn up by totalling the points of the **bis** three first ranked riders of each nation for the following categories: women junior, men junior, women under 23, men under 23, women elite and men elite. In case of nations placed equal in the ranking, the place of its best rider in the individual ranking will break the tie. 
 
@@ -1167,7 +1164,7 @@ _(article introduced on 12.06.20)_
 
 - **5.3.017** [article abrogated on 01.09.04] 
 
-## **Prizes** 
+##### **Prizes** 
 
 - **5.3.018** The scale of prizes for the individual classification for each round will be determined by the UCI management committee. 
 
@@ -1185,7 +1182,7 @@ _(article introduced on 01.09.08; text modified on 07.06.16; 28.06.17; 21.06.19;
 
 - **5.3.021** [article abrogated on 01.09.04] 
 
-## **Trophies** 
+##### **Trophies** 
 
 - **5.3.022** The UCI cyclo-cross world cup licensee shall award a trophy to the first three of the final classification of the UCI cyclo-cross world cup in each category. 
 
@@ -1197,7 +1194,7 @@ E0726
 
 25 
 
-## **Leader's outfit** 
+**Leader's outfit** 
 
 - **5.3.023** A leader’s ceremony jersey will be awarded by the world cup licensee during the ceremony for each category. 
 
@@ -1213,9 +1210,7 @@ For all categories (except the men junior and women junior categories) participa
 
 - if they are members of a UCI recognized team as defined in article 5.1.001; 
 
-- for the men elite, women elite, women under 23 categories, excluding the men and 
-
-   - women junior category; 
+- for the men elite, women elite, women under 23 categories, excluding the men and women junior category; 
 
 - for the men under 23 category, upon the authorization of the rider’s national federation. 
 
@@ -1229,7 +1224,7 @@ E0726
 
 26 
 
-## **Chapter IV UCI MASTERS CYCLO-CROSS WORLD CHAMPIONSHIPS** 
+### **Chapter IV UCI MASTERS CYCLO-CROSS WORLD CHAMPIONSHIPS** 
 
 (chapter introduced on 16.06.14) 
 
@@ -1249,11 +1244,11 @@ E0726
 
 27 
 
-## **Chapter V UCI CYCLO-CROSS TEAMS** 
+### **Chapter V UCI CYCLO-CROSS TEAMS** 
 
 (chapter introduced on 28.01.17) 
 
-## **§ 1 Identity** 
+#### **§ 1 Identity** 
 
 - **5.5.001** Two levels of teams are registered by the UCI as cyclo-cross team: 
 
@@ -1263,7 +1258,7 @@ E0726
 
 The members of a UCI cyclo-cross team or a UCI cyclo-cross professional team are employed and/or sponsored by the same entity, for the purpose of taking part in cyclocross competitions on the UCI international cyclo-cross calendar. 
 
-## 1. UCI cyclo-cross team 
+##### 1. <u>UCI cyclo-cross team</u> 
 
 A UCI cyclo-cross team is an entity consisting of a minimum of 3 riders, each of whom must be of the age of 19 years and older as defined in article 5.1.001. A UCI cyclo-cross team must include at least one woman rider. 
 
@@ -1273,7 +1268,7 @@ The nationality of the UCI cyclo-cross team must be that of the country where th
 
 UCI cyclo-cross teams have the obligation to participate with at least 1 rider in the women elite or men elite category at a minimum of 5 rounds of the UCI world cup rounds. If the team fails to meet this requirement, it shall not be entitled to the status of UCI cyclo-cross team or UCI cyclo-cross professional team for the following cyclo-cross season. 
 
-## 2. UCI cyclo-cross professional team 
+##### 2. <u>UCI cyclo-cross professional team</u> 
 
 A UCI cyclo-cross professional team is an entity consisting of a minimum of 10 riders, each of whom must be of the age of 19 years and older as defined in article 5.1.001 and a maximum of 16 riders. The team must respect one of the two obligations below: 
 
@@ -1341,7 +1336,7 @@ _(text modified on 12.06.20)_
 
 _(text modified on 12.06.20)_ 
 
-## **§ 2 Legal and financial status** 
+#### **§ 2 Legal and financial status** 
 
 - **5.5.008** The paying agent of the riders in a UCI cyclo-cross team or a UCI cyclo-cross professional team must be a physical person or incorporated body legally entitled to employ personnel. 
 
@@ -1349,13 +1344,13 @@ The national federation can choose whether the UCI cyclo-cross professional team
 
 _(text modified on 12.06.20)_ 
 
-## **§ 3 Registration** 
+#### **§ 3 Registration** 
 
 - **5.5.009** Each year teams must register with the Union Cycliste Internationale for the subsequent cyclo-cross season. 
 
-The registration of UCI cyclo-cross teams is valid for the period between the 15[th] August and the 1[st] March of the next year. 
+The registration of UCI cyclo-cross teams is valid for the period between the 15<sup>th</sup> August and the 1<sup>st</sup> March of the next year. 
 
-The registration of UCI cyclo-cross professional teams is valid for the period between the 15[th] August and the 14[th] August of the next year. 
+The registration of UCI cyclo-cross professional teams is valid for the period between the 15<sup>th</sup> August and the 14<sup>th</sup> August of the next year. 
 
 _(text modified on 12.06.20)_ 
 
@@ -1363,11 +1358,11 @@ _(text modified on 12.06.20)_
 
 _(text modified on 12.06.20)_ 
 
-- **5.5.011** UCI cyclo-cross teams and UCI cyclo-cross professional teams must submit their application for registration no later than 31[st] July of the year in question. No application first received by the UCI after 31[st] July is considered. 
+- **5.5.011** UCI cyclo-cross teams and UCI cyclo-cross professional teams must submit their application for registration no later than 31<sup>st</sup> July of the year in question. No application first received by the UCI after 31<sup>st</sup> July is considered. 
 
 When applying for registration, UCI cyclo-cross teams and UCI cyclo-cross professional teams must indicate: 
 
-- A. the exact name of the team; 
+A. the exact name of the team; 
 
 CYCLO-CROSS 
 
@@ -1391,7 +1386,7 @@ E0726
 
 _(text modified on 12.06.20)_ 
 
-## **Rider’s addition or transfer** 
+##### **Rider’s addition or transfer** 
 
 - **5.5.012** Article 5.5.011 also applies to any changes to the riders and other staff for UCI cyclocross teams and UCI cyclo-cross professional teams. Such changes must be immediately submitted by the teams to the UCI. 
 
@@ -1421,13 +1416,13 @@ principal partners are held jointly and severally liable for all the financial c
 
 _(text modified on 12.06.20)_ 
 
-- **5.5.015** The registration of the UCI cyclo-cross team or a UCI cyclo-cross professional team with the UCI involves a registration fee that the team must pay by 31[st] July before the coming season. The amount is set annually by the UCI management committee. 
+- **5.5.015** The registration of the UCI cyclo-cross team or a UCI cyclo-cross professional team with the UCI involves a registration fee that the team must pay by 31<sup>st</sup> July before the coming season. The amount is set annually by the UCI management committee. 
 
 _(text modified on 12.06.20)_ 
 
 - **5.5.016** When submitting its registration, each team must submit a colour graphic design of its team jersey, complete with sponsor logos. 
 
-This design can be changed once per season, after the authorization of UCI and only between the 1[st] and the 10[th] January. The UCI shall be informed before the 15[th] December. 
+This design can be changed once per season, after the authorization of UCI and only between the 1<sup>st</sup> and the 10<sup>th</sup> January. The UCI shall be informed before the 15<sup>th</sup> December. 
 
 All riders within one UCI cyclo-cross team or a UCI cyclo-cross professional team are obliged to wear clothing that has identical major sponsor placement, identical color scheme, layout and identical overall look, although the minor sponsors of men and women’s outfit can be different. In this case two designs must be submitted, one for men, one for women. 
 
@@ -1471,11 +1466,11 @@ E0726
 
 32 
 
-## **§ 4 Contract of employment** 
+#### **§ 4 Contract of employment** 
 
 - **5.5.018** A rider's membership of a UCI cyclo-cross team or a UCI cyclo-cross professional team requires a written contract of employment to be concluded which must contain as a minimum the provisions of the standard contract in article 5.5.024. 
 
-The contract must also make provision for the payment of indemnities to the rider in the event of sickness and/or accident. 
+   - The contract must also make provision for the payment of indemnities to the rider in the event of sickness and/or accident. 
 
 - **5.5.019** Any clause agreed between the rider and the paying agent that impinges on the rights of riders as provided for in the standard contract or the joint agreements is null and void. 
 
@@ -1483,19 +1478,19 @@ The contract must also make provision for the payment of indemnities to the ride
 
 - **5.5.021** [article transferred to art. 5.5.012 on 01.07.22] 
 
-## **§ 5 Dissolution of a team** 
+#### **§ 5 Dissolution of a team** 
 
 - **5.5.022** A team must announce its dissolution or the cessation of its activity or its inability to respect its obligations, at the earliest opportunity. Once this announcement has been made, riders are fully entitled to contract with another team for the following season or for the period starting at the moment announced for the dissolution, the end of activities or the inability to perform. 
 
-## **§ 6 Penalties** 
+#### **§ 6 Penalties** 
 
 - **5.5.023** Should a team, as a whole, fail or cease to meet all the conditions of the relevant UCI regulations, it may no longer participate in cycling competitions. 
 
-## **§ 7 Model contract between a rider and a UCI cyclo-cross team or UCI cyclocross professional team** 
+#### **§ 7 Model contract between a rider and a UCI cyclo-cross team or UCI cyclocross professional team** 
 
 - **5.5.024** The UCI model contract between a rider and a UCI cyclo-cross team or a UCI cyclocross professional team can be found in annex 5 to these regulations. 
 
-## **§ 8 Bank guarantee of UCI cyclo-cross professional team** 
+#### **§ 8 Bank guarantee of UCI cyclo-cross professional team** 
 
 - **5.5.025** For each registration year, a UCI cyclo-cross professional team must set up an unconditional bank guarantee (comprehensive guarantee) in favour of its National Federation, using the model set out in article 5.5.030. 
 
@@ -1511,7 +1506,7 @@ E0726
 
 33 
 
-   - UCI cyclo-cross professional team and to cover the payment of any fines imposed as a result of the application of the UCI regulations; 
+UCI cyclo-cross professional team and to cover the payment of any fines imposed as a result of the application of the UCI regulations; 
 
 2. to defray the payment of expenses, indemnities, fines and sanctions or sentences imposed under or as a result of the application of the regulations of the UCI or the responsible National Federation or associated with their application. For the application of provisions regarding the bank guarantee companies through whom the licence-holders concerned carry out their activity for the operation of the UCI cyclo-cross professional team shall be considered as members of that UCI cyclocross professional team. 
 
@@ -1529,13 +1524,13 @@ _(article introduced on 12.06.20)_
 
 _(article introduced on 12.06.20)_ 
 
-## **Calling up the bank guarantee** 
+- **Calling up the bank guarantee** 
 
 - **5.5.029** The call up of the bank guarantee is handled by the national federation following the articles 2.17.023 to 2.17.028 of the UCI Road regulation, with appropriate adjustments. 
 
 _(article introduced on 12.06.20)_ 
 
-## **Model bank guarantee** 
+##### **Model bank guarantee** 
 
 - **5.5.030** The bank guarantee shall be edited as described in the article 2.17.029 of the Road regulation, with appropriate adjustments. 
 
@@ -1547,7 +1542,7 @@ E0726
 
 34 
 
-## **Chapter VI RACE INCIDENTS** 
+### **Chapter VI RACE INCIDENTS** 
 
 (chapter introduced on 10.06.21) 
 
@@ -1563,7 +1558,7 @@ E0726
 
 35 
 
-## **5.6.004 Table of race incidents in accordance with article 12.4.001** 
+##### **5.6.004 Table of race incidents in accordance with article 12.4.001** 
 
 |**Cyclo-cross**|**UCI World Championships,**<br>**UCI World Cup, class 1, class 2, continental**<br>**championships**|**Other competitions**|
 |---|---|---|
@@ -1578,7 +1573,7 @@ E0726
 |2.4 Rider taking off mandatory helmet during the<br>race|Disqualification (DSQ)|Disqualification (DSQ)|
 |2.5 Use of forbidden onboard technology device|Rider: disqualification (DSQ)<br>Other team member: exclusion|Rider: disqualification (DSQ)<br>Other team member: exclusion|
 |3. Body number, shoulder number, bicycle number<br>or frame number modified or not positioned in<br>accordance with the regulations|CHF 50 fine|CHF 30 fine|
-|4. Rider failing to respect the starting order<br>established in article 5.1.043|CHF 100|CHF 100|
+|<br>4. Rider failing to respect the starting order<br>established in article 5.1.043|CHF 100|CHF 100|
 |5. Irregular change of equipment|Disqualification (DSQ)|Disqualification (DSQ)|
 
 CYCLO-CROSS 
@@ -1622,12 +1617,14 @@ E0726
 
 38 
 
-## **ANNEX 1 Call-up zone** 
+### **ANNEX 1 Call-up zone** 
 
-![](images/5-CRO-20260701-E.pdf-0039-02.png)
+##### **<u>STANDARD CONFIGURATION OF A START ZONE</u>** 
 
-**----- Start of picture text -----**<br>
-STANDARD CONFIGURATION OF A START ZONE<br>* Responsible to avoid public entrance into the start zone<br>Barriers Restricted zone for soigneurs, TV and accredited photographers<br>soigneurs<br>TV, photo<br>zone<br>just before<br>the start<br>Barriers Width 6m<br>width 75 cm<br>(1) (2) (3) (4) (5) (6) (7) (8)<br>    Barriers Barriers<br>CALL-UP ZONE<br>Barriers<br>Athletes<br>entrance<br>*Responsible to avoid public entrance into the call-up zone<br>     Barriers<br>width 15m<br>Barriers<br>Barriers<br>Lanes width 10 m<br>BARRIERES<br>Barriers<br>                 Barriers<br>**----- End of picture text -----**<br>
+![](images/5-CRO-20260701-E.pdf-0039-03.png)
+
+<!-- Start of picture text -->
+* Responsible to avoid public entrance into the start zone<br>Barriers Restricted zone for soigneurs, TV and accredited photographers<br>soigneurs<br>TV, photo<br>zone<br>just before<br>the start<br>Barriers Width 6m<br>width 75 cm<br>(1) (2) (3) (4) (5) (6) (7) (8)<br>    Barriers Barriers<br>CALL-UP ZONE<br>Barriers<br>Athletes<br>entrance<br>*Responsible to avoid public entrance into the call-up zone<br>     Barriers<br>width 15m<br>Barriers<br>Barriers<br>Lanes width 10 m<br>BARRIERES<br>Barriers<br>                 Barriers<br><!-- End of picture text -->
 
 CYCLO-CROSS 
 
@@ -1635,16 +1632,14 @@ E0726
 
 39 
 
-## **ANNEX 2 Double pit area** 
+### **ANNEX 2 Double pit area** 
 
 ## **STANDARD CONFIGURATION OF A DOUBLE PIT AREA** 
 
-Total length of the pit area 70 m 
+![](images/5-CRO-20260701-E.pdf-0040-03.png)
 
-![](images/5-CRO-20260701-E.pdf-0040-04.png)
-
-**----- Start of picture text -----**<br>
-LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>P<br>C A<br>O race direction R<br>U C<br>R P P O<br>S<br>U<br>E<br>R<br>breakdown assistance line<br>S<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit area HIGH PRESSURE CLEANING<br>Width: 4 m<br>Depth: 2,5 m 8 compulsory high pressure cleaners<br>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15<br>length 5m length 5m<br>C breakdown assistance line P<br>O A<br>U R<br>R P P C<br>S O<br>E U<br>race direction R<br>S<br>LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br>min. width 4m<br>Total min width 21 m<br>min. width 3m<br>min. width<br>min. width  6m<br>min. width 6m<br>min. width 3m min. width  3m<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+Total length of the pit area 70 m<br>LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>P<br>C A<br>O race direction R<br>U C<br>R P P O<br>S<br>U<br>E<br>R<br>breakdown assistance line<br>S<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit area HIGH PRESSURE CLEANING<br>Width: 4 m<br>Depth: 2,5 m 8 compulsory high pressure cleaners<br>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15<br>length 5m length 5m<br>C breakdown assistance line P<br>O A<br>U R<br>R P P C<br>S O<br>E U<br>race direction R<br>S<br>LENGTH OF THE PIT 60 M<br>length 5m length 5m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br>min. width 4m<br>Total min width 21 m<br>min. width 3m<br>min. width<br>min. width  6m<br>min. width 6m<br>min. width 3m min. width  3m<br><!-- End of picture text -->
 
 CYCLO-CROSS 
 
@@ -1652,16 +1647,16 @@ E0726
 
 40 
 
-## **ANNEX 3 Single pit area** 
+### **ANNEX 3 Single pit area** 
 
 ## **STANDARD CONFIGURATION OF A PIT ZONE** 
 
-Total length of the pit zone 70 m 
+###### Total length of the pit zone 70 m 
 
 ![](images/5-CRO-20260701-E.pdf-0041-04.png)
 
-**----- Start of picture text -----**<br>
-LENGTH OF THE PIT ZONE 60 M<br>length 5m length 5m<br>C<br>C O<br>O race direction U<br>U R<br>R P P S<br>S E<br>E<br>breadkdown assistance line<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit zone CLEANING<br>Width: 4 m<br>Depth: 2,5 m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+LENGTH OF THE PIT ZONE 60 M<br>length 5m length 5m<br>C<br>C O<br>O race direction U<br>U R<br>R P P S<br>S E<br>E<br>breadkdown assistance line<br>length 5m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 length 5m<br>Dimension of a box<br>at the pit zone CLEANING<br>Width: 4 m<br>Depth: 2,5 m<br>min. width 3m<br>min. width 3m<br>min. width 6m min. width  6m<br>min. width 3 m min. width 3m<br><!-- End of picture text -->
 
 CYCLO-CROSS 
 
@@ -1669,14 +1664,12 @@ E0726
 
 41 
 
-## **ANNEX 4 UCI points table** 
+### **ANNEX 4 UCI points table** 
 
-||**_UCI_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**Class 1**|**Class 2**|**Class 1 or 2**|**Class 1 or 2**|
+||**_UCI_**|**_CYCLO-_**<br>**_CHAMP_**|**_CROSS WO_**<br>**_IONSHIPS_**|**_RLD_**<br>|**UCI CYC**|**LO-CROS**<br>**CUP**|**S WORLD**|**CONTI**|**NENTAL**|**CHAMPION**|**SHIPS**|**CH**|**NATIONA**<br>**AMPIONS**|**L**<br>**HIPS**|**Class 1**|**Class 2**|**Clas**|**s 1 or 2**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**_CHAMPIONSHIPS_**||||**CUP**|||||||||||||
-||||||||||||||||||||
-||||||||||||||||||||
-|**Rank**|**_Elite_**|**_U23_**|**_Junior_**|**_Team_**<br>**_Relay_**<br>**_***_**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Junior**|**Team**<br>**Relay**<br>*******|**Elite**|**U23***|**Junior***|**Elite**|**Elite**|**U23***|**Junior***|
+|||||**_Team_**|||||||**Team**||||||||
+|**Rank**|**_Elite_**|**_U23_**|**_Junior_**|**_Relay_**<br>**_***_**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Junior**|**Relay**<br>*******|**Elite**|**U23***|**Junior***|**Elite**|**Elite**|**U23***|**Junior***|
 |**1**|_400_|_200_|_200_|_200_|200|100|100|100|60|60|100|100|60|60|80|40|30|30|
 |**2**|_360_|_150_|_150_|_150_|160|60|60|60|40|40|75|60|40|40|60|30|20|20|
 |**3**|_320_|_120_|_120_|_120_|140|40|40|40|30|30|60|40|30|30|40|20|15|15|
@@ -1711,38 +1704,36 @@ E0726
 
 42 
 
-||**_UCI_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**_CYCLO-CROSS WORLD_**<br>**_CHAMPIONSHIPS_**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**UCI CYCLO-CROSS WORLD**<br>**CUP**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**CONTINENTAL CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**NATIONAL**<br>**CHAMPIONSHIPS**|**Class 1**|**Class 2**|**Class 1 or 2**|**Class 1 or 2**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**_CHAMPIONSHIPS_**||||**CUP**|||||||||||||
-||||||||||||||||||||
-||||||||||||||||||||
-|**Rank**|**_Elite_**|**_U23_**|**_Junior_**|**_Team_**<br>**_Relay_**<br>**_***_**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Junior**|**Team**<br>**Relay**<br>*******|**Elite**|**U23***|**Junior***|**Elite**|**Elite**|**U23***|**Junior***|
-|**28**|_36_|_3_|_3_||32||||||||||||||
-|**29**|_33_|_2_|_2_||31||||||||||||||
-|**30**|_30_|_1_|_1_||30||||||||||||||
-|**31**|29|_x_|_x_||29||||||||||||||
-|**32**|28||||28||||||||||||||
-|**33**|27||||27||||||||||||||
-|**34**|26||||26||||||||||||||
-|**35**|25||||25||||||||||||||
-|**36**|24||||24||||||||||||||
-|**37**|23||||23||||||||||||||
-|**38**|22||||22||||||||||||||
-|**39**|21||||21||||||||||||||
-|**40**|20||||20||||||||||||||
-|**41**|19||||19||||||||||||||
-|**42**|18||||18||||||||||||||
-|**43**|17||||17||||||||||||||
-|**44**|16||||16||||||||||||||
-|**45**|15||||15||||||||||||||
-|**46**|14||||14||||||||||||||
-|**47**|13||||13||||||||||||||
-|**48**|12||||12||||||||||||||
-|**49**|11||||11||||||||||||||
-|**50**|10||||10||||||||||||||
-|**51**|5**||||5**||||||||||||||
+||**_UC_**|**_I CYCLO-C_**<br>**_CHAMP_**|**_ROSS WO_**<br>**_IONSHIPS_**|**_RLD_**|**UCI CYC**|**LO-CROS**<br>**CUP**|**S WORLD**|**CONTINENTAL CHAMPION**|**SHIPS**|**CH**|**NATIONAL**<br>**AMPIONSH**|<br>**IPS**|**Class 1**|**Class 2**|**Clas**|**s 1 or 2**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||**_Team_**|||||**Team**||||||||
+|**Rank**|**_Elite_**|**_U23_**|**_Junior_**|**_Relay_**<br>**_***_**|**Elite**|**U23**|**Junior**|**Elite**<br>**U23**<br>**Junior**|**Relay**<br>*******|**Elite**|**U23***|**Junior***|**Elite**|**Elite**|**U23***|**Junior***|
+|**28**|_36_|_3_|_3_||32||||||||||||
+|**29**|_33_|_2_|_2_||31||||||||||||
+|**30**|_30_|_1_|_1_||30||||||||||||
+|**31**|29|_x_|_x_||29||||||||||||
+|**32**|28||||28||||||||||||
+|**33**|27||||27||||||||||||
+|**34**|26||||26||||||||||||
+|**35**|25||||25||||||||||||
+|**36**|24||||24||||||||||||
+|**37**|23||||23||||||||||||
+|**38**|22||||22||||||||||||
+|**39**|21||||21||||||||||||
+|**40**|20||||20||||||||||||
+|**41**|19||||19||||||||||||
+|**42**|18||||18||||||||||||
+|**43**|17||||17||||||||||||
+|**44**|16||||16||||||||||||
+|**45**|15||||15||||||||||||
+|**46**|14||||14||||||||||||
+|**47**|13||||13||||||||||||
+|**48**|12||||12||||||||||||
+|**49**|11||||11||||||||||||
+|**50**|10||||10||||||||||||
+|**51**|5**||||5**||||||||||||
 
-_* in case of split race_ 
+- _in case of split race_ 
 
 - _** amount of points for each ranked rider / nation_ 
 
@@ -1756,7 +1747,7 @@ E0726
 
 43 
 
-## **ANNEX 5 Model Contract between a rider and a UCI cyclo-cross team or a UCI cyclo-cross professional team** 
+### **ANNEX 5 Model Contract between a rider and a UCI cyclo-cross team or a UCI cyclo-cross professional team** 
 
 (annex introduced on 28.01.17) 
 
@@ -1786,17 +1777,17 @@ Whereas:
 
 It is agreed as follows: 
 
-## **ARTICLE 1  Engagement** 
+##### **ARTICLE 1  Engagement** 
 
 The paying agent hereby engages the rider, and the rider agrees to be engaged as a cyclo-cross rider. Participation by the rider in competitions in other disciplines is decided by the parties case by case. 
 
-## **ARTICLE 2 Duration** 
+##### **ARTICLE 2 Duration** 
 
 The present contract is concluded for a fixed period commencing on (date) and expiring on (date). 
 
-## **ARTICLE 3 Remuneration / reimbursement of expenses** 
+##### **ARTICLE 3 Remuneration / reimbursement of expenses** 
 
-## A. Paid rider 
+##### A. Paid rider 
 
 The rider is entitled to an annual gross salary of (amount). This remuneration may not be lower than the legal minimum wage or, where there is no legal minimum, than the usual salary that is paid or has to be paid to full-time workers employed in the country whose national federation issued the rider’s licence or in the country where the team has its head office, whichever is the higher. 
 
@@ -1806,11 +1797,11 @@ E0726
 
 44 
 
-## B. Unpaid rider 
+##### B. Unpaid rider 
 
 The rider receives no wages or remuneration but receives expenses as per the scale below for the activities carried out for the team and/or at its request; 
 
-## (Suggestions, examples →) 
+##### (Suggestions, examples →) 
 
 - (currency and amount) per kilometre travelled; 
 
@@ -1822,9 +1813,9 @@ The rider receives no wages or remuneration but receives expenses as per the sca
 
 - on presentation of invoices, reimbursement for minor mechanical expenses (tyres, brakes, cables, lubrication, adjustments, etc.) to a maximum total amount of (currency and total amount) per year. 
 
-## **ARTICLE 4  Payment of salary / reimbursement of expenses** 
+##### **ARTICLE 4  Payment of salary / reimbursement of expenses** 
 
-## A. Paid rider 
+##### A. Paid rider 
 
 1. the paying agent must monthly pay the salary referred to in article 3 above, no later than the 5th working day of the next month; 
 
@@ -1832,7 +1823,7 @@ The rider receives no wages or remuneration but receives expenses as per the sca
 
 3. in the event of failure to make payment of the remuneration referred to in article 3, the rider is, without summoning the employer to make payment, fully entitled to an extra benefit of 5% interest per year. 
 
-## B. Unpaid rider 
+##### B. Unpaid rider 
 
 1. the team must pay the sums specified in article 3 no later than the last working day of each month as long as it has received the expenses claim from the rider before the 20th of that month; 
 
@@ -1840,11 +1831,11 @@ The rider receives no wages or remuneration but receives expenses as per the sca
 
 3. any sum due to the rider from the team must be paid by transfer to the rider's bank account no (number) at the (name of the bank) at (branch where the account is held). Only the proof of the execution of the bank transfer is accepted as proof of payment. 
 
-## **ARTICLE 5  Insurance** 
+##### **ARTICLE 5  Insurance** 
 
 In the event of illness or accident affecting the rider's ability to meet his contractual obligations, the rider benefits from the insurance cover specified in the annexes to this contract. 
 
-## **ARTICLE 6  Primes and prizes** 
+##### **ARTICLE 6  Primes and prizes** 
 
 The rider is entitled to primes and prizes won during cycling competitions in which he/she rode for the team, in accordance with the regulations of the UCI and its affiliated federations. 
 
@@ -1856,7 +1847,7 @@ E0726
 
 45 
 
-## **ARTICLE 7  Miscellaneous obligations** 
+##### **ARTICLE 7  Miscellaneous obligations** 
 
 1. during cyclo-cross competitions, the rider may not, for the duration of the present contract, work for any other team or advertise for any other sponsors than those belonging to the (name of team), except in such cases as are provided for in the Regulations of the UCI and of its affiliated federation; 
 
@@ -1868,11 +1859,11 @@ E0726
 
 In none of the aforementioned cases, the present contract is suspended. 
 
-## **ARTICLE 8  Transfers** 
+##### **ARTICLE 8  Transfers** 
 
-- On the expiry of the present contract, the rider is entirely free to sign a new contract with some other employer, subject to the provisions of the UCI Regulations. 
+On the expiry of the present contract, the rider is entirely free to sign a new contract with some other employer, subject to the provisions of the UCI Regulations. 
 
-## **ARTICLE 9  End of contract** 
+##### **ARTICLE 9  End of contract** 
 
 Without prejudice to the legislation governing the present contract, it may be terminated before expiry, in the following cases and on the following conditions: 
 
@@ -1884,11 +1875,11 @@ Without prejudice to the legislation governing the present contract, it may be t
 
 3. either party is entitled to terminate the present contract, without notice or liability, notably in case the rider is rendered permanently unable to exercise the occupation of professional cyclist. 
 
-## **ARTICLE 10  Defeasance** 
+##### **ARTICLE 10  Defeasance** 
 
-- Any clause agreed upon between the parties that runs counter to the terms of the model contract between a rider and a team and/or to the provisions of the UCI Constitution or Regulations and which would in any way restrict the rights of the Rider is null and void. 
+Any clause agreed upon between the parties that runs counter to the terms of the model contract between a rider and a team and/or to the provisions of the UCI Constitution or Regulations and which would in any way restrict the rights of the Rider is null and void. 
 
-## **ARTICLE 11  Arbitration** 
+##### **ARTICLE 11  Arbitration** 
 
 Any dispute between the parties arising from the present Contract must be submitted to arbitration and must not be brought before any court. It must be settled in accordance with the Regulations of the UCI through the UCI arbitral board or, failing this, according 
 

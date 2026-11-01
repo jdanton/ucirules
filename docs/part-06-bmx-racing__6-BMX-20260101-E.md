@@ -4,11 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/122Ylx2XJjbqzh6xPCu7sK/fe7
 source_sha256: f483e83f6d3b398ecb8f1ec363e1994639cdfe444ba35dd933c798a4b7b5525a
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-## **PART 6 BMX RACING** 
+# **PART 6 BMX RACING** 
 
-**Version on 01.01.2026** 
+##### **Version on 01.01.2026** 
 
 E0126 
 
@@ -18,9 +19,9 @@ BMX RACING
 
 ## **PART 6 BMX RACING** 
 
-## **Chapter I GENERAL RULES** 
+### **Chapter I GENERAL RULES** 
 
-## **Introduction** 
+#### **Introduction** 
 
 BMX Racing is both a high performance and amateur sport- High performance riders compete at the “Championship” category level. Amateur riders compete in the Challenge and Masters category levels. 
 
@@ -30,19 +31,19 @@ Events for the Challenge and Masters category levels are controlled by the natio
 
 As required by the UCI Constitution, the national federation regulations must incorporate the UCI Regulations. Only those articles of the UCI Regulations marked with an (N) may be modified by the national federations. 
 
-- Exceptions concerning the Challenge and Masters category levels: 
+Exceptions concerning the Challenge and Masters category levels: 
 
-   1. the annual UCI BMX Racing World Challenge for the Challenge and Masters categories levels that is held during the annual UCI BMX Racing World Championships is controlled by the UCI and run only under the UCI Regulations; 
+1. the annual UCI BMX Racing World Challenge for the Challenge and Masters categories levels that is held during the annual UCI BMX Racing World Championships is controlled by the UCI and run only under the UCI Regulations; 
 
-   2. events for the Challenge and Masters categories held during Continental Championships or events that are part of a series organised by a continental confederation are conducted under the responsibility of the concerned continental confederation. During such events, the continental confederation regulations shall apply, so long as they are not in conflict with the UCI Regulations. Otherwise, by default, the UCI Regulations shall apply. 
+2. events for the Challenge and Masters categories held during Continental Championships or events that are part of a series organised by a continental confederation are conducted under the responsibility of the concerned continental confederation. During such events, the continental confederation regulations shall apply, so long as they are not in conflict with the UCI Regulations. Otherwise, by default, the UCI Regulations shall apply. 
 
-## **§ 1 Categories and Participation** 
+#### **§ 1 Categories and Participation** 
 
-## **Classification of Riders** 
+   - **Classification of Riders** 
 
 - **6.1.001** Riders registered to compete in a BMX Racing event will be classified according to their age, gender, bicycle type and competition level. For certain categories, different competition specialties may also be defined as specified within these regulations. 
 
-## **Age of Riders** 
+##### **Age of Riders** 
 
 - **6.1.002** For participation in BMX Racing events registered on the UCI International BMX Racing Calendar, Riders’ categories are determined by the age of those competing as defined by the difference between the year of the event and the year of birth of the rider. Riders’ categories vary depending on the bicycle types defined in article 6.1.003, levels of categories as defined in article 6.1.004 as well as competition specialities as defined in article 6.1.007. 
 
@@ -58,7 +59,7 @@ As concerns the minimum age described above, the categories held during the UCI 
 
 _(text modified on 01.01.19)_ 
 
-## **Bicycle Types** 
+##### **Bicycle Types** 
 
 - **6.1.003** Two types of bicycles can be used during BMX Racing events, which are differentiated by the size of their wheels, as described in article 6.1.074. 
 
@@ -66,7 +67,7 @@ _(text modified on 01.01.19)_
 
    - B. Cruiser 24 inch. 
 
-## **Levels of Categories** 
+##### **Levels of Categories** 
 
 - **6.1.004** For the Standard 20 inch type of bicycle, categories at three different levels may be held during BMX Racing events: 
 
@@ -84,7 +85,7 @@ A rider cannot participate in more than one of the Championship, Challenge, or M
 
 - **6.1.006** For the Cruiser 24 inch type of bicycle, only Challenge level categories are held during BMX Racing events. 
 
-## **Competition Specialities** 
+##### **Competition Specialities** 
 
 - **6.1.007** (N) Within the Championship category level for Standard 20 inch bicycles, two competition-specialties are defined as follows: 
 
@@ -94,9 +95,9 @@ A rider cannot participate in more than one of the Championship, Challenge, or M
 
 For the Cruiser 24 inch type of bicycle, only Challenge level categories are held during BMX Racing events. 
 
-## **Categories for Standard 20 Inch bicycles** 
+#### **Categories for Standard 20 Inch bicycles** 
 
-## **Categories for Standard 20 Inch bicycles at the Championship level** 
+##### **Categories for Standard 20 Inch bicycles at the Championship level** 
 
 - **6.1.008** Within each competition specialty defined in article 6.1.007 for the Championship level, the categories are as follows: 
 
@@ -122,23 +123,23 @@ Total: 12 categories (6 for BMX Racing and 6 for BMX Racing Time Trial, if held)
 
 _(text modified on 01.01.22)_ 
 
-## **Categories for Standard 20 Inch bicycles at the Challenge level** 
+##### **Categories for Standard 20 Inch bicycles at the Challenge level** 
 
 - **6.1.009** (N) Within the competition speciality of BMX Racing defined in article 6.1.007 for the Challenge level, the categories are as follows: 
 
-   - A. Girls – ages: 5 and 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; (11 categories); 
+      - A. Girls – ages: 5 and 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; (11 categories); 
 
-   - B. Boys – ages: 5 and 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; (11 categories); 
+      - B. Boys – ages: 5 and 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; (11 categories); 
 
-   - C. Women – ages: 17-24,25-29, 30-34, 35 and Over. (4 categories); 
+      - C. Women – ages: 17-24,25-29, 30-34, 35 and Over. (4 categories); 
 
-   - D. Men – ages: 17-24, 25-29, 30-34, 35 and over; (4 categories). 
+      - D. Men – ages: 17-24, 25-29, 30-34, 35 and over; (4 categories). 
 
-Total: 30 categories 
+   - Total: 30 categories 
 
 _(text modified on 01.01.26)_ 
 
-## **Categories for Standard 20 Inch bicycles at the Masters level** 
+##### **Categories for Standard 20 Inch bicycles at the Masters level** 
 
 - **6.1.010** Within the competition speciality of BMX Racing defined in article 6.1.007 for the Masters level, the categories are as follows: 
 
@@ -150,19 +151,19 @@ Total: 2 categories
 
 _(text modified on 01.01.23)_ 
 
-## **Categories for Cruiser 24 Inch bicycles** 
+#### **Categories for Cruiser 24 Inch bicycles** 
 
-## **Categories for Cruiser 24 Inch bicycles at the Challenge level** 
+   - **Categories for Cruiser 24 Inch bicycles at the Challenge level** 
 
 - **6.1.011** (N) Within the competition speciality of BMX Racing defined in article 6.1.007 for the Challenge level, the categories are as follows: 
 
-   - A. Girls – ages: 12 and under, 13 and 14, 15 and 16; (3 categories); 
+      - A. Girls – ages: 12 and under, 13 and 14, 15 and 16; (3 categories); 
 
-   - B. Boys – ages: 12 and under, 13 and 14, 15 and 16; (3 categories); 
+      - B. Boys – ages: 12 and under, 13 and 14, 15 and 16; (3 categories); 
 
-   - C. Women – ages: 17-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50 and over. (7 categories); 
+      - C. Women – ages: 17-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50 and over. (7 categories); 
 
-   - D. Men – ages: 17-24, 25-29, 30 - 34, 35 - 39, 40 - 44, 45-49, 50 and over; (7 categories). 
+      - D. Men – ages: 17-24, 25-29, 30 - 34, 35 - 39, 40 - 44, 45-49, 50 and over; (7 categories). 
 
 Total: 20 categories 
 
@@ -176,7 +177,7 @@ E0126
 
 BMX RACING 
 
-## **Category Combination Rules** 
+##### **Category Combination Rules** 
 
 - **6.1.012** In order for a category to be held, at least five riders must be registered and confirmed in that category following riders confirmation. 
 
@@ -190,27 +191,24 @@ If the adequate numbers of five riders are registered and confirmed during the r
 
 _(text modified on 01.01.18; 01.01.25)_ 
 
-## **Combination of Categories Prior to the Start of the Event** 
+##### **Combination of Categories Prior to the Start of the Event** 
 
 - **6.1.013** The organiser of an event registered on the UCI International BMX Racing Calendar can decide in advance to combine one or more categories subject to the limitations defined in article 6.1.012. However, the organiser must announce the combination of such categories in the technical guide and in their communication towards national federations and riders. 
 
-## **Combination of Categories and Results** 
+##### **Combination of Categories and Results** 
 
 - **6.1.014** (N) In any case where two or more categories are combined, the results of the combined categories must be split back into the original, separate categories based on the results summary for the combined categories. 
 
-The UCI will only award points in the UCI BMX Racing ranking based upon the separated results. 
-
-Also, the riders are awarded the prize money that corresponds with their place in the separated results. 
+The UCI will only award points in the UCI BMX Racing ranking based upon the separated results. Also, the riders are awarded the prize money that corresponds with their place in the separated results. 
 
 Example: Class 1 event combination Women Elite and Women Juniors 
 
-|Result of the Event|Category of rider|UCI BMX Racing<br>Ranking<br>Points<br>Women Juniors|UCI<br>BMX<br>Racing<br>Ranking<br>Points<br>Women Elite|
-|---|---|---|---|
-|1|Women Juniors|25 (1stplace WJ)||
-|2|Women Elite||100 (1stplace WE)|
-|3|Women Juniors|22 (2ndplace WJ)||
-|4|Women Elite||86 (2ndplace WE)|
-|...||||
+|Result of the Event|Category of rider|UCI BMX Racing<br>Ranking<br>Points<br>Women Juniors|UCI<br>BMX<br>Ranking<br>Women Elite|Racing<br>Points<br>|
+|---|---|---|---|---|
+|1|Women Juniors|25 (1<sup>st</sup>place WJ)|||
+|2|Women Elite||100 (1<sup>st</sup>place|WE)|
+|3|Women Juniors|22 (2<sup>nd</sup>place WJ)|||
+|4<br>...|Women Elite||86 (2<sup>nd</sup>place|WE)|
 
 E0126 
 
@@ -220,9 +218,9 @@ BMX RACING
 
 - **6.1.015** Except as provided by the combination rules in articles 6.1.012 and 6.1.013, no rider is permitted to compete outside of his age or gender group during UCI registered events. 
 
-## **§ 2 Competition Specialties** 
+#### **§ 2 Competition Specialties** 
 
-## **BMX Racing Time Trial Competition Format** 
+##### **BMX Racing Time Trial Competition Format** 
 
 - **6.1.016** A BMX Racing Time Trial is composed of two Phases: 
 
@@ -232,11 +230,11 @@ BMX RACING
 
 Any rider who fails to start in either Phase of a BMX Racing Time Trial shall be disqualified (DSQ) and is not eligible to transfer to the BMX Racing event. In case of such a disqualification during the Time Trial Superfinal, the place of the disqualified rider will be taken by the next rider in the final classification of the BMX Racing Time Trial so that all places in that classification are occupied. 
 
-## **Time Trial Qualification** 
+##### **Time Trial Qualification** 
 
 - **6.1.017** A The Time Trial Qualification is composed of one run for each entered rider. 
 
-## **Time Trial Superfinal** 
+##### **Time Trial Superfinal** 
 
 - **6.1.018** The Time Trial Superfinal shall be held for all categories with twelve or more registered and confirmed riders entered following riders confirmation; it will not be held in any category with less than twelve riders. If held, the Time Trial Superfinal is the final Phase of the BMX Racing Time Trial. 
 
@@ -250,9 +248,9 @@ The number of registered and confirmed riders entered following riders confirmat
 
 - 12-15 confirmed riders entered: the top 6 riders in the Time Trial Qualification results transfer to the Time Trial Superfinal. 
 
-## **Final Classification** 
+##### **Final Classification** 
 
-- **6.1.019** At the end of a BMX Racing Time Trial, a final classification is made that defines the final results for each participating category, and that is used to attribute UCI BMX Racing Ranking points (if any) and prize money (if any). 
+**6.1.019** At the end of a BMX Racing Time Trial, a final classification is made that defines the final results for each participating category, and that is used to attribute UCI BMX Racing Ranking points (if any) and prize money (if any). 
 
 If no Time Trial Superfinal for any such category is held, then the results of the Time Trial Qualification shall define the Final Classification. 
 
@@ -266,7 +264,7 @@ E0126
 
 BMX RACING 
 
-## **BMX Racing Competition Format** 
+##### **BMX Racing Competition Format** 
 
 - **6.1.021** During all Phases of a BMX Racing event, heats consisting of eight or less riders form the basic unit of competition. 
 
@@ -274,15 +272,13 @@ Following riders confirmation, the riders confirmed in each category shall be se
 
 - **6.1.022** A BMX Racing event is composed of three Phases: 
 
-   - A. the Motos; 
-
-   - B. the Qualifiers; 
+   - A. the Motos; B. the Qualifiers; 
 
    - C. the Final. 
 
-## **The Motos** 
+##### **The Motos** 
 
-- **6.1.023** For all categories, the Motos are subdivided into three Rounds. Within each Round, the riders in the heats that have been defined for each category shall race once. 
+**6.1.023** For all categories, the Motos are subdivided into three Rounds. Within each Round, the riders in the heats that have been defined for each category shall race once. 
 
 At the end of these three Rounds, the riders for each category with the best overall result shall transfer to the Qualifiers or to the Final, whichever the case may be, depending upon the number of confirmed riders entered in that category following riders confirmation. 
 
@@ -290,7 +286,7 @@ At the end of these three Rounds, the riders for each category with the best ove
 
 _(text modified on 01.01.18)_ 
 
-## **The Qualifiers** 
+##### **The Qualifiers** 
 
 - **6.1.024** The Qualifiers are the elimination Phase of a BMX Racing event. They are held for categories with seventeen or more confirmed riders following riders confirmation. They are subdivided into several Rounds, which are distinguished from each other by their degree of removal from the Final, including 1/32, 1/16, 1/8, 1/4 and 1/2 Finals, depending on the number of participants. Within each such Round, riders in the heats that comprise each category shall race only once. 
 
@@ -298,7 +294,7 @@ Following each Round of the Qualifiers, the top four riders from each heat shall
 
 The top four riders from each 1/2 Final heat shall transfer to the Final, as described in Annex 1. 
 
-## **The Final** 
+##### **The Final** 
 
 - **6.1.025** The Final is the last Phase of a BMX Racing event. A Final, consisting of a single heat, is held for all categories with nine or more registered and confirmed riders entered following riders confirmation, in accordance with Annex 1. 
 
@@ -308,25 +304,25 @@ E0126
 
 BMX RACING 
 
-## **Final Classification** 
+##### **Final Classification** 
 
 - **6.1.026** At the end of the BMX Racing competition, a Final Classification is made that defines the final results. For the Championship categories, it is this Final Classification that is used to attribute UCI BMX Racing Ranking points and prize money. The method used to compile this Final Classification is defined in article 6.1.041. 
 
 _(text modified on 01.01.25)_ 
 
-## **Seeding the Motos – Championship Categories** 
+   - **Seeding the Motos – Championship Categories** 
 
 - **6.1.027** (N) For events on the UCI international BMX Racing Calendar, participants in the Championship categories may be seeded into the Motos using one of the following methods: 
 
-   - A. the participants’ places in the latest UCI BMX Racing rankings as determined in article 6.6.001 to 6.6.009; 
+      - A. the participants’ places in the latest UCI BMX Racing rankings as determined in article 6.6.001 to 6.6.009; 
 
-   - B. the results of a separate BMX Racing Time Trial held before the BMX Racing as determined in articles 6.1.019; 
+      - B. the results of a separate BMX Racing Time Trial held before the BMX Racing as determined in articles 6.1.019; 
 
-   - C. random seeding; 
+      - C. random seeding; 
 
-   - D. scrambled seeding; 
+      - D. scrambled seeding; 
 
-   - E. in case of a weekend with two events registered on the UCI International BMX Racing Calendar at the same venue (one on each day), the event on the second day may be seeded using the Final Classification of the event on the first day. 
+      - E. in case of a weekend with two events registered on the UCI International BMX Racing Calendar at the same venue (one on each day), the event on the second day may be seeded using the Final Classification of the event on the first day. 
 
 The seeding method to be used must be described in the Technical Guide for the event. 
 
@@ -357,23 +353,25 @@ BMX RACING
 
 - **6.1.027** Scrambled seeding: Scrambled seeding is a method of randomly determining the **quater** composition of the heats for each category during the Motos, based upon the number of riders registered and confirmed following riders’ confirmation; The scrambled seeding method used must also describe the method used to determine the gate start positions during all Phases of the competition, the transfer method from the Motos to the Qualifiers, the composition of the heats which form all rounds of the Qualifiers and tie-breakers for all of the above. As such, articles 6.1.029 and 6.1.029bis do not apply to scrambled seeding. 
 
-The sole requirements are: 
+   - The sole requirements are: 
 
-- that all categories with 10 or more riders must culminate in a single Final of 8 riders; 
+      - that all categories with 10 or more riders must culminate in a single Final of 8 riders; 
 
-- that categories with 9 riders must culminate in a single Final of 7 riders; 
+      - that categories with 9 riders must culminate in a single Final of 7 riders; 
 
-- that categories with 5 to 8 riders shall not have a Final and shall race only 3 rounds of Motos; 
+      - that categories with 5 to 8 riders shall not have a Final and shall race only 3 rounds of Motos; 
 
-- that the top 4 riders from each heat of the Qualifers shall transfer to the next round of the Qualifiers or the Final, whichever the case may be; 
+      - that the top 4 riders from each heat of the Qualifers shall transfer to the next round of the Qualifiers or the Final, whichever the case may be; 
 
-- that the Final Results Summary must be composed in accordance with article 6.1.041; 
+      - that the Final Results Summary must be composed in accordance with article 6.1.041; 
 
-- that all other parts of the UCI BMX Racing Regulations including, but not limited to Category Combinations, Invalid Results Marks and Scoring Systems are respected. 
+      - that all other parts of the UCI BMX Racing Regulations including, but not limited to Category Combinations, Invalid Results Marks and Scoring Systems are respected. 
 
 All aspects of the scrambled seeding method used must be explained in the technical guide for the event. 
 
-_Comment: In principle, all possible ways of forming the Motos or gate start positions at random are equally likely, though not all possible ways of doing so may be desirable. The scrambled seeding method may do this in any way, including totally at random, partial seeding of the heats by some ranking or nationality of the riders. Also, rejecting undesirable (unfair) heat or gate start combinations in the Motos may be done._ 
+_Comment: In principle, all possible ways of forming the Motos or gate start positions at_ 
+
+- _random are equally likely, though not all possible ways of doing so may be desirable. The scrambled seeding method may do this in any way, including totally at random, partial seeding of the heats by some ranking or nationality of the riders. Also, rejecting undesirable (unfair) heat or gate start combinations in the Motos may be done._ 
 
 _(text modified on 01.01.19)_ 
 
@@ -395,21 +393,19 @@ E0126
 
 BMX RACING 
 
-## **Staging and Gate Positions** 
+##### **Staging and Gate Positions** 
 
 - **6.1.029** (N) The gate starting positions for the Motos shall be determined according to Annex 2 and shall be indicated on the start lists. 
 
 _(text modified on 01.01.19)_ 
 
-- **6.1.029** The gate starting positions during the Qualifiers (1/32, 1/16, 1/8,1/4 and 1/2 Finals **bis** depending on the number of participants) and the Final shall be determined as follows: 
-
-   - A. in order of lap time from the previous Stage or Round – the fastest rider has the first choice on the gate; 
+- **6.1.029** The gate starting positions during the Qualifiers (1/32, 1/16, 1/8,1/4 and 1/2 Finals **bis** depending on the number of participants) and the Final shall be determined as follows: A. in order of lap time from the previous Stage or Round – the fastest rider has the first choice on the gate; 
 
    - B. in order of finish placing from the previous Stage or Round - first placed rider has first choice on gate. 
 
-## **Event Schedule** 
+##### **Event Schedule** 
 
-- **6.1.030** (N) The schedule of heats within a BMX Racing event shall be established according to the procedures set forth in Annex 1. 
+**6.1.030** (N) The schedule of heats within a BMX Racing event shall be established according to the procedures set forth in Annex 1. 
 
 The event schedule and order shall be published along with the start lists. Start lists must indicate: 
 
@@ -417,27 +413,25 @@ The event schedule and order shall be published along with the start lists. Star
 
 - B. the heat number; 
 
-- C. the Qualifying Round to which riders will transfer; 
-
-- D. the gate starting positions for each heat, or the rule by which gate starting position is determined, depending upon the Phase of the event. 
+- C. the Qualifying Round to which riders will transfer; D. the gate starting positions for each heat, or the rule by which gate starting position is determined, depending upon the Phase of the event. 
 
 _(text modified on 01.01.21)_ 
 
-## **Team Managers Meeting** 
+##### **Team Managers Meeting** 
 
 - **6.1.031** The president of the commissaires’ panel may call a team managers' meeting when necessary. The purpose of this meeting shall be to inform team managers and riders of any supplemental regulations that may be in force during the event and to give further instructions regarding the general conduct of the event. 
 
-## **Practice** 
+##### **Practice** 
 
 - **6.1.032** No rider will be permitted on the track until he has been officially confirmed for the event as a licensed rider during riders confirmation. At least one official practice session must precede the Racing at any BMX Racing event. Separate practice times shall be allocated to each category or other designated group. Each group shall have a minimum time allowance which is estimated to allow all riders to complete at least four laps including practice gate starts. Notwithstanding the above, each rider is responsible to make the best use of the time available for practice. 
 
 _(text modified on 01.01.25)_ 
 
-## **Transfers and Scoring** 
+##### **Transfers and Scoring** 
 
 - **6.1.033** In the Motos, for each heat in which he competes, a rider shall receive a point score equal to his finish position in the heat, with the rider in first place earning one point and so on down to the eighth-place rider, who will receive eight points. During the motos, riders scored with an IRM will receive a score for that heat in accordance with article 6.1.034. The riders with the lowest total points earned in the Motos transfer to the next Phase of the BMX Racing competition in accordance with the rules set forth in Annex 1. 
 
-In the Qualifiers, the top four riders will transfer to the next Stage of the Qualifiers. In the 1/2 Finals, the top four riders will transfer to the Final. 
+   - In the Qualifiers, the top four riders will transfer to the next Stage of the Qualifiers. In the 1/2 Finals, the top four riders will transfer to the Final. 
 
 E0126 
 
@@ -449,7 +443,7 @@ For avoidance of doubt, ties in transferring positions from the Motos to the Qua
 
 _(text modified on 01.01.19; 01.01.25)_ 
 
-## **Invalid Results Marks (IRMs)** 
+##### **Invalid Results Marks (IRMs)** 
 
 - **6.1.034** Several different types of Invalid Results Marks (IRMs) are defined as follows: 
 
@@ -467,15 +461,13 @@ _(text modified on 01.01.25)_
 
 - **6.1.035** Within the results for each heat, riders scored with IRMs are classified after all riders who finished the heat who were not scored with an IRM. Taking this into account, riders scored with IRMs are classified in the following order: 
 
-   - A. DNF; 
-
-   - B. REL; 
+   - A. DNF; B. REL; 
 
    - C. DNS. 
 
 For avoidance of doubt, this means that the results of a heat may be different than the order in which the riders in that heat crossed the finish line. 
 
-- _Comment: For example, in a heat with 8 riders, if the 3[rd] rider to cross the finish line is declared as REL and the 7[th] rider to cross the finish line is declared as DNF with all other riders finishing, then in the results for the heat, the 4[th] rider to cross the finish line will be ranked 3[rd], the 5[th] rider to cross the finish line will be ranked 4[th], the 6[th] rider to cross the finish line will be ranked 5[th] and the 8[th] rider to cross the finish line will be ranked 6[th]. Following this, the rider scored as DNF will be ranked 7[th], and the rider scored as REL will be ranked 8[th]. In the Motos, the point scores for each heat will only be awarded after the results for the heat have been adjusted as described above._ 
+- _Comment: For example, in a heat with 8 riders, if the 3_<sup>_rd_</sup> _rider to cross the finish line is declared as REL and the 7_<sup>_th_</sup> _rider to cross the finish line is declared as DNF with all other riders finishing, then in the results for the heat, the 4_<sup>_th_</sup> _rider to cross the finish line will be ranked 3_<sup>_rd_</sup> _, the 5_<sup>_th_</sup> _rider to cross the finish line will be ranked 4_<sup>_th_</sup> _, the 6_<sup>_th_</sup> _rider to cross the finish line will be ranked 5_<sup>_th_</sup> _and the 8_<sup>_th_</sup> _rider to cross the finish line will be ranked 6_<sup>_th_</sup> _. Following this, the rider scored as DNF will be ranked 7_<sup>_th_</sup> _, and the rider scored as REL will be ranked 8_<sup>_th_</sup> _. In the Motos, the point scores for each heat will only be awarded after the results for the heat have been adjusted as described above._ 
 
 E0126 
 
@@ -491,35 +483,31 @@ _(text modified on 01.01.19)_
 
 - **6.1.036** [article transferred to art. 6.1.041quater on 01.01.18] **bis** 
 
-## **The Finish** 
+##### **The Finish** 
 
 - **6.1.037** A rider shall have finished at the moment when the tire of the leading wheel touches the vertical plane rising from the starting edge of the finish line. According to article 1.2.109 the bike and the rider have to cross the finish line together. 
 
 _(text modified on 01.01.18)_ 
 
-## **The Final** 
+##### **The Final** 
 
-- **6.1.038** In a Final, at least two riders (who hsave not been scored with an IRM during the final) need to cross the finish line; otherwise the result of the Final is not valid. 
+**6.1.038** In a Final, at least two riders (who hsave not been scored with an IRM during the final) need to cross the finish line; otherwise the result of the Final is not valid. 
 
 In case a Final is declared not valid, a restart of at minimum three riders shall be done within 15 minutes of the point in time when the president of the commissaires’ panel declared the result of the Final as not valid. In the case no restart is done, the times or results for the preceding Phase (and within that Phase, the preceding Round) will be declared the final result, with the Final Classification of the vent determined as specified in article 6.1.041. 
 
 _(text modified on 01.01.18)_ 
 
-## **Cancellation Prior to the Final** 
+   - **Cancellation Prior to the Final** 
 
 - **6.1.038** In case a BMX Racing competition is cancelled prior to the Final, for each concerned. **bis** category, the results of the Phase reached, and within that Phase, the last completed Round will be declared the final results. The Final Classification will then be produced according to article 6.1.041. 
 
 _(text modified on 01.01.25)_ 
 
-## **Scoring Systems** 
+##### **Scoring Systems** 
 
-- **6.1.039** One or more of the following scoring systems may be used for BMX Racing competitions: 
+- **6.1.039** One or more of the following scoring systems may be used for BMX Racing competitions: A. Photo finish: photo finish is defined as equipment able to take photographs at a minimum rate of 1000 frames per second. 
 
-   - A. Photo finish: photo finish is defined as equipment able to take photographs at a minimum rate of 1000 frames per second. 
-
-   - B. Timing transponders: when used, the rider is solely responsible for the correct attachment of the transponder during the event. There shall be a timing operator who is responsible for recording the finish line position of every rider as he crosses the finish line in every heat or run. 
-
-      - Timing transponders may only be used together with Photo finish. In case a rider’s transponder falls off or malfunctions during a heat, the Photo finish record shall be used to confirm the result (in the order of priority defined in article 6.1.039bis). 
+   - B. Timing transponders: when used, the rider is solely responsible for the correct attachment of the transponder during the event. There shall be a timing operator who is responsible for recording the finish line position of every rider as he crosses the finish line in every heat or run. Timing transponders may only be used together with Photo finish. In case a rider’s transponder falls off or malfunctions during a heat, the Photo finish record shall be used to confirm the result (in the order of priority defined in article 6.1.039bis). 
 
 If transponders are used, any rider who starts in a heat without a transponder shall be scored as “Did Not Finish” (DNF). 
 
@@ -537,7 +525,7 @@ Transponder systems are often used to automate scorekeeping during Racing, parti
 
 - E. Finish line commissaires. There shall be a minimum of 5 qualified finish line commissaires, who shall be responsible for recording the finish positions of every rider as he crosses the finish line in each heat. The official finish positions of each heat shall be determined by a simple majority of the finish line commissaires. The official finish results shall be transmitted to the secretary of the commissaires panel for notation on the moto sheets. 
 
-## _(text modified on 01.01.19)_ 
+_(text modified on 01.01.19)_ 
 
 - **6.1.039** In the event that several scoring systems as described above are utilised during the **bis** event, they must apply according to the following order of priority: 
 
@@ -575,7 +563,7 @@ In the event that a specific scoring system is required by the UCI regulations, 
 
 _(text modified on 01.01.19; 01.01.21)_ 
 
-## **Publication of Heat Results** 
+##### **Publication of Heat Results** 
 
 - **6.1.040** Within each Round of competition, the results of the heats for each category shall be posted within ten minutes of the conclusion of all heats for that category within the Round in question. By default, printed results will be provided, and will be posted in at least one location, unless otherwise outlined in the technical guide or announced during the team managers meeting. When start lists and results are provided by electronic means these are considered as provisional until confirmed by the president of the commissaires’ panel or by the person designated by the president of the commissaires panel. 
 
@@ -583,23 +571,23 @@ Results, regardless of the publication method, must in some way include a timest
 
 _(text modified on 01.01.18; 01.01.25)_ 
 
-## **Final Classification** 
+##### **Final Classification** 
 
-- **6.1.041** The Final Classification of the BMX Racing competition for each category (or combined category) is determined by: 
+**6.1.041** The Final Classification of the BMX Racing competition for each category (or combined category) is determined by: 
 
-   - A. The Phase reached (Final, Qualifiers, or Motos or, in the specific case of a UCI BMX Racing World Cup with 17 or more entries in the category in question, Round 1 or Last Chance, whichever the case may be); 
+- A. The Phase reached (Final, Qualifiers, or Motos or, in the specific case of a UCI BMX Racing World Cup with 17 or more entries in the category in question, Round 1 or Last Chance, whichever the case may be); 
 
-   - B. If the Phase reached is the Final or the Qualifiers, the rank from the last completed Round within that Phase; 
+- B. If the Phase reached is the Final or the Qualifiers, the rank from the last completed Round within that Phase; 
 
-   - C. If the Phase reached is the Motos, the total points from this Phase. In case the Motos are not completed, then the total points from all Rounds of the Motos that were completed. In the case of a UCI BMX Racing World Cup event, in case the Last Chance phase is not completed, then those in the Last Chance Phase must be ranked below those who advanced directly to the First Round of the Qualifiers; 
+- C. If the Phase reached is the Motos, the total points from this Phase. In case the Motos are not completed, then the total points from all Rounds of the Motos that were completed. In the case of a UCI BMX Racing World Cup event, in case the Last Chance phase is not completed, then those in the Last Chance Phase must be ranked below those who advanced directly to the First Round of the Qualifiers; 
 
-   - D. In the case of a UCI BMX Racing World Cup: 
+- D. In the case of a UCI BMX Racing World Cup: 
 
-      - if the Phase reached is Round 1, then the finish position from Round 1; 
+   - if the Phase reached is Round 1, then the finish position from Round 1; 
 
-      - - if the Phase reached is Last Chance, then the riders advancing directly to the Qualifiers from Round 1 will be ranked above the riders participating in Last Chance, with the Last Chance riders ranked according to finish position in Last Chance; 
+   - - if the Phase reached is Last Chance, then the riders advancing directly to the Qualifiers from Round 1 will be ranked above the riders participating in Last Chance, with the Last Chance riders ranked according to finish position in Last Chance; 
 
-   - E. The time in the last heat completed, in case of ties the time from the previous heat is considered. When the tie cannot be broken by, then the tie-breaker in article 6.1.041ter shall apply. 
+- E. The time in the last heat completed, in case of ties the time from the previous heat is considered. When the tie cannot be broken by, then the tie-breaker in article 6.1.041ter shall apply. 
 
 _(text modified on 01.01.18; 01.01.21; 01.01.22; 01.01.25)_ 
 
@@ -611,7 +599,7 @@ E0126
 
 BMX RACING 
 
-## **Ties** 
+##### **Ties** 
 
 - **6.1.041** This tie breaking method is used in the following cases: **ter** 
 
@@ -637,19 +625,19 @@ In all of the above cases, the tie will be broken by applying the following meth
 
 - G. in the case of breaking ties between riders scored with the same IRM, at random. 
 
-Otherwise, if the tie can’t be broken according to the above method, then the riders concerned shall share the place in question, and the place(s) below would not be allocated. For example: 2 riders tied for 5[th] place in the semi-finals would both receive 9[th] place in the Final Classification; the next place awarded would be 11[th] place. 
+Otherwise, if the tie can’t be broken according to the above method, then the riders concerned shall share the place in question, and the place(s) below would not be allocated. For example: 2 riders tied for 5<sup>th</sup> place in the semi-finals would both receive 9<sup>th</sup> place in the Final Classification; the next place awarded would be 11<sup>th</sup> place. 
 
 _(text modified on 01.01.19; 01.01.21; 01.01.22)_ 
 
-- **6.1.041** Should a situation arise in a heat in one of the three Rounds of Motos or non-transferring **quater** positions of a heat in the Qualifiers or in the award positions in the Final where a clear decision cannot be determined from the applicable scoring system, both riders will be scored with the better ranked finishing position. For example: a protest between 5[th] place and 6[th] place finishing position would in the case of a tied decision ultimately give both riders 5[th] place finish in that particular heat; 6[th] place would not be allocated. 
+- **6.1.041** Should a situation arise in a heat in one of the three Rounds of Motos or non-transferring **quater** positions of a heat in the Qualifiers or in the award positions in the Final where a clear decision cannot be determined from the applicable scoring system, both riders will be scored with the better ranked finishing position. For example: a protest between 5<sup>th</sup> place and 6<sup>th</sup> place finishing position would in the case of a tied decision ultimately give both riders 5<sup>th</sup> place finish in that particular heat; 6<sup>th</sup> place would not be allocated. 
 
-Award positions in the Final shall refer to the riders ranked 1[st] to 3[rd] for the Championships and Masters categories and 1[st] to 8[th] for the Challenge categories. 
+Award positions in the Final shall refer to the riders ranked 1<sup>st</sup> to 3<sup>rd</sup> for the Championships and Masters categories and 1<sup>st</sup> to 8<sup>th</sup> for the Challenge categories. 
 
 _(text modified on 01.01.19; 01.01.21)_ 
 
-## **Rules of Conduct** 
+#### **Rules of Conduct** 
 
-## **The Start** 
+##### **The Start** 
 
 - **6.1.042** All riders must start in their designated gate positions. The penalty for refusing to move to the correct gate position when directed to do so by the Commissaire responsible for the start hill, or for starting from any other gate position if the situation is not noticed prior to the start is disqualification (DSQ). 
 
@@ -675,17 +663,17 @@ Where an electronically controlled starting gate in combination with a voice box
 
 - B. Stage 2: «Riders ready» 
 
-   - «Watch the gate» 
+«Watch the gate» 
 
 For safety reasons, the stop button can be pressed at any time, up to the end of Stage 2. 
 
 The requirements for a voice box and an electronic starting system shall be as described in Annex 3. 
 
-## **Bike Position on the Start Gate** 
+##### **Bike Position on the Start Gate** 
 
 - **6.1.044** The front wheel must be placed against the gate, be grounded and remain stationary during the starter’s call as defined in article 6.1.043. 
 
-## **General Conduct** 
+##### **General Conduct** 
 
 - **6.1.045** All riders must observe the UCI Regulations and follow all instructions given to them by any commissaire or official at any time during the course of the event. 
 
@@ -705,13 +693,13 @@ BMX RACING
 
 - **6.1.048** If a heat stopped by commissaires before its conclusion, the riders in the heat must await instructions at the exit from the finish area. 
 
-A restart will be signalled by the president of the commissaries’ panel or the commissaire designated by him. A re-run of any heat will take place only if, in the opinion of the president of the commissaires’ panel, the running of the heat has been adversely affected by interference in the start procedure, interference on the part of a spectator, animal or other outside agency. 
+   - A restart will be signalled by the president of the commissaries’ panel or the commissaire designated by him. A re-run of any heat will take place only if, in the opinion of the president of the commissaires’ panel, the running of the heat has been adversely affected by interference in the start procedure, interference on the part of a spectator, animal or other outside agency. 
 
 - **6.1.049** If a rider falls or is forced to stop due to a bicycle malfunction during a heat or run, his first responsibility shall be to remove himself and his bicycle from the track in order to give the least obstruction to other riders and to prevent unnecessary delays. If a rider cannot or does not get up after a fall, he may be moved only by first aid attendants or with the permission of a licensed physician. 
 
 After a fall or bicycle malfunction, in order to be scored, the riders concerned must complete the full distance of the track as defined for their category without assistance, and in accordance with article 6.1.055 “Track Re-entrance”, if applicable to the situation. In doing so, they must not unnecessarily delay the continuation of the event if they are capable of continuing. Otherwise, they may be scored as Did Not Finish (DNF). 
 
-## **Track Flags** 
+##### **Track Flags** 
 
 - **6.1.050** Flags of the colours listed below may be used by track officials as a means of communicating with each other and to riders on the track. These flags have the following meanings: 
 
@@ -721,19 +709,19 @@ After a fall or bicycle malfunction, in order to be scored, the riders concerned
 
    - C. Red flag: riders on the track should stop immediately and await further instructions at the exit from the finish area. Only the president of the commissaires panel or the commissaire designated by him shall use the red flag. 
 
-## **§ 3 Infringements, Protests and Penalties** 
+#### **§ 3 Infringements, Protests and Penalties** 
 
-## **Infringements** 
+##### **Infringements** 
 
 - **6.1.051** The infringements described in this chapter will be penalized by the commissaires’ panel, according to article 6.1.063 and the articles following it. 
 
 - **6.1.052** If necessary, the commissaires will determine whether an infringement was caused deliberately or not. An infringement is considered to be caused deliberately, in the event that it could have been avoided. 
 
-## **Deliberate Interference** 
+##### **Deliberate Interference** 
 
 - **6.1.053** Interference is often a complex offence, given that BMX Racing is a contact sport. The commissaires will determine whether it was deliberate or not. If an infraction or interference can be avoided, and is caused, the commissaires may determine it as being deliberate. 
 
-## **Deliberate Force off the track** 
+##### **Deliberate Force off the track** 
 
 - **6.1.054** Any rider must not force another rider off the track deliberately. 
 
@@ -743,31 +731,31 @@ E0126
 
 BMX RACING 
 
-## **Track Re-entrance** 
+##### **Track Re-entrance** 
 
 - **6.1.055** Any rider who leaves the track during a heat or run must, regardless of the circumstances, re-enter the track at the nearest safe point without improving his/her position. The rider shall not interfere with the progress of any other rider or cut the track in order to gain an advantage and/or miss any obstacles. In case a rider fails to act as provided for in this article, the commissaires’ panel may relegate the rider. 
 
 _(text modified on 01.01.25)_ 
 
-## **Contact** 
+##### **Contact** 
 
 - **6.1.056** A rider shall not cause any part of his person or bicycle to come into contact with another rider's person or bicycle during a heat with the intention of impeding that rider's progress so as to overtake him or cause him to be overtaken by another rider. 
 
-## **Obstruction on the final straight** 
+##### **Obstruction on the final straight** 
 
 - **6.1.057** The lead rider shall have the right to choose his line on the track and through the corners. When on the final straight, however, the lead rider shall not deliberately obstruct another rider from passing. 
 
-## **Team Riding** 
+##### **Team Riding** 
 
 - **6.1.058** Team riding or helping other competitors to gain a higher finishing position prohibited. 
 
-## **Third Persons Interference** 
+##### **Third Persons Interference** 
 
-- **6.1.059** No person shall interfere with a heat or run, whether on behalf of a team or a rider, nor for any other reason. 
+**6.1.059** No person shall interfere with a heat or run, whether on behalf of a team or a rider, nor for any other reason. 
 
-## **Protests** 
+##### **Protests** 
 
-- **6.1.060** General Rules 
+- **6.1.060** <u>General Rules</u> 
 
 In any BMX Racing competition, a protest concerning the scoring of a rider may be filed with the president of the commissaires’ panel through that rider's team manager. In this context, the scoring of a rider shall mean only the record produced by the applicable scoring medium of the order in which the riders in the heat concerned crossed the finish line, and not decisions of the commissaires’ panel that are noted in the results such as IRMs. 
 
@@ -781,7 +769,7 @@ E0126
 
 BMX RACING 
 
-## **How to Protest** 
+##### **How to Protest** 
 
 - **6.1.061** A rider wishing to make a protest arising under article 6.1.060, may do so only in writing. The protest must be submitted by the rider's team manager to the president of the commissaires’ panel or the commissaire designated by him within 15 minutes of the posting of the results that has given rise to the protest. The president of the commissaires’ panel or the commissaire designated by him will conduct an investigation and render a decision on the protest prior to the commencement of the next Round or Phase of competition for the category in which the rider is entered, whichever the case may be. The decision of the responsible commissaire concerning all protests is final and is not open to appeal. 
 
@@ -793,29 +781,27 @@ If a protested heat is not available for viewing on the utilised scoring medium 
 
 The team manager(s) or the rider(s) involved in the protest may be called upon as required by the president of the commissaires’ panel. 
 
-## **Penalties** 
+##### **Penalties** 
 
 - **6.1.063** The commissaires’ panel may, without prejudice to its possibilities provided in Parts 1 and 12 of the UCI Regulations, invoke any of the censures provided in this chapter against a rider who commits an infringement of the UCI Regulations. 
 
-## **Official Warning** 
+##### **Official Warning** 
 
 - **6.1.064** A rider may receive an official, verbal warning for certain misconduct. The first warning issued to a rider at a competition carries no specific penalty other than the advice of the warning, however the issuance of a subsequent warning for the same, or any other offence within the same competition, will result in the rider's disqualification (DSQ) from the competition. A warning shall be displayed on the printed output of the results and on the monitors or posted on the moto boards by the secretary. 
 
 _(text modified on 01.01.25)_ 
 
-## **Relegation** 
+##### **Relegation** 
 
-- **6.1.065** 
+- **6.1.065** A rider may be “Relegated” (REL) and will receive a score as described in article 6.1.034. 
 
-- A rider may be “Relegated” (REL) and will receive a score as described in article 6.1.034. 
-
-## **Disqualification of a Rider** 
+##### **Disqualification of a Rider** 
 
 - **6.1.066** A rider may be Disqualified (DSQ) and thereby barred from further participation in either the competition category in which the infringement occurred or the entire competition. The rider will not be ranked in the results summary and will not receive UCI points for the competition. 
 
 _(text modified on 01.01.25)_ 
 
-## **Removal of an Offender from the Competition Venue** 
+##### **Removal of an Offender from the Competition Venue** 
 
 - **6.1.067** The commissaires’ panel shall have the power to remove, at its sole discretion, an offender from the competition venue for an offence against any of the provisions set down in this rule book. 
 
@@ -829,7 +815,7 @@ In such a situation, it’s the sole responsibility of the Organiser to take act
 
 _(text modified on 01.01.25)_ 
 
-## **Suspension** 
+##### **Suspension** 
 
 - **6.1.068** The UCI may be its sole discretion and for cause suspend for any period of time, or permanently revoke, the license entitling a rider to compete in a BMX Racing competition. The following offences will result in suspension: 
 
@@ -851,7 +837,7 @@ _(text modified on 01.01.25)_
 
 - **6.1.070** For avoidance of doubt, the commissaires’ panel does not have the authority to suspend a license holder. A suspension may only be pronounced by the UCI, or the competent national federation for events registered on a national calendar. 
 
-## **§ 4 The Bicycle, Clothing and Equipment** 
+#### **§ 4 The Bicycle, Clothing and Equipment** 
 
 - **6.1.071** All bicycles, clothing and equipment must meet the general specifications provided in this chapter and must also comply with the regulations detailed in Part I, Chapter III of the UCI Regulations. 
 
@@ -873,7 +859,7 @@ Regardless of whether or not a rider’s bicycle, clothing or equipment is check
 
 _(text modified on 01.01.18)_ 
 
-## **Frame** 
+##### **Frame** 
 
 - **6.1.073** The bicycle’s frame must be of sufficient strength to withstand the rigors of BMX Racing and be devoid of any cracked or bent frame members or welds which are cracked or otherwise deficient. 
 
@@ -883,7 +869,7 @@ Examples of such superfluous accessories including: aerodynamic accessories, cha
 
 _(text modified on 01.01.18; 01.01.25)_ 
 
-## **Wheels** 
+##### **Wheels** 
 
 - **6.1.074** Wheel axles may not protrude more than 5 mm beyond the hub nuts. 
 
@@ -895,7 +881,7 @@ Quick release axles are not recommended but may be used if the release levers ar
 
 _(text modified on 01.01.18)_ 
 
-## **Handlebars** 
+##### **Handlebars** 
 
 - **6.1.075** Maximum width of handlebars shall be 73.7 cm (29 inches). 
 
@@ -911,15 +897,15 @@ E0126
 
 BMX RACING 
 
-## **Steering Head** 
+##### **Steering Head** 
 
 - **6.1.076** The forks must run smoothly in the headset bearing without binding or excessive play. 
 
 The stem may not protrude above the headset lock-nut by an amount that exceeds the manufacturer's recommendation or by more than 5 cm if no maximum height mark is inscribed on the stem. 
 
-## **Brakes** 
+##### **Brakes** 
 
-- **6.1.077** All bicycles entered in competition must be equipped with an effective rear brake, which must be operated by hand. 
+**6.1.077** All bicycles entered in competition must be equipped with an effective rear brake, which must be operated by hand. 
 
 The rear brake cable/hose must be secured to the frame. 
 
@@ -931,13 +917,13 @@ All exposed cable ends must be capped, soldered or covered to prevent fraying.
 
 _(text modified on 01.01.18)_ 
 
-## **Seat** 
+##### **Seat** 
 
-- **6.1.078** The seat base must be constructed of material that is sufficiently strong to resist penetration by the seat post. 
+**6.1.078** The seat base must be constructed of material that is sufficiently strong to resist penetration by the seat post. 
 
 The seat post must be secured to the seat tube by means of a seat post clamp. This clamp's fixing bolt may not protrude from the body of the clamp by more than 5 mm. 
 
-## **Cranks, Pedals and Gears** 
+##### **Cranks, Pedals and Gears** 
 
 - **6.1.079** Crank arms may be of any length so long as they do not compromise the bicycle's ground clearance. 
 
@@ -951,7 +937,7 @@ Multiple speed gear systems are not permitted.
 
 _(text modified on 01.01.19; 01.01.23; 01.01.25)_ 
 
-## **Drive Method** 
+##### **Drive Method** 
 
 - **6.1.080** For BMX Racing, the bicycle may be driven either by a chain or a belt of one-piece construction. 
 
@@ -963,9 +949,9 @@ E0126
 
 BMX RACING 
 
-## **§ 5 Clothing and safety equipment** 
+#### **§ 5 Clothing and safety equipment** 
 
-## **Helmet and Protections** 
+##### **Helmet and Protections** 
 
 - **6.1.081** Helmets must be of full face construction and must be equipped with a visor that has a minimum length of 10 cm. Open face helmets are not allowed. In accordance with article 1.3.002, neither the helmet nor its visor may be modified. 
 
@@ -973,11 +959,11 @@ Helmets must be worn with the straps securely fastened whenever a rider is pract
 
 When Racing, from the start of a heat or run until the point in time when a rider completes the heat or run by crossing the finish line, if a rider’s helmet is removed for any reason, that rider shall be considered as having abandoned the heat or run in question and will be scored as Did Not Finish (DNF). 
 
-- The UCI strongly recommends that riders wear the following protection: 
+- The UCI strongly recommends that riders wear the following protection: A. back, elbow, knee and shoulder protectors made of rigid materials; 
 
-   - A. back, elbow, knee and shoulder protectors made of rigid materials; B. protection of the cervical vertebrae. 
+   - B. protection of the cervical vertebrae. 
 
-## **Jersey** 
+##### **Jersey** 
 
 - **6.1.082** The jersey shall be a long-sleeved shirt whose sleeves extend down to the rider's wrists. Jerseys used in BMX Racing events should be of a type specifically sold for use in BMX Racing, Moto-cross or Mountain Bike downhill events. Custom produced jerseys of this type and matching the requirements of this article are permitted. 
 
@@ -999,7 +985,7 @@ E0126
 
 BMX RACING 
 
-## **Pants** 
+##### **Pants** 
 
 - **6.1.085** The aim of BMX Racing leg wear is to provide protection and reduce the risk of injury. This can be achieved either with long pants, or with short pants combined with suitable knee and shin protection. Such long or short pants must be of a type that is specifically designed, and sold to provide protection in BMX Racing, Motocross or Downhill Mountain Bike events. Custom produced pants or shorts of this type and matching the requirements outlined in this article are permitted. 
 
@@ -1011,11 +997,11 @@ Pants or shorts composed of tight fitting stretch material are not permitted, as
 
 _(text modified on 01.01.23)_ 
 
-## **Gloves** 
+##### **Gloves** 
 
-- **6.1.086** Whenever riding or Racing on the track, all riders must wear gloves whose fingers completely cover the rider’s finger tips. 
+**6.1.086** Whenever riding or Racing on the track, all riders must wear gloves whose fingers completely cover the rider’s finger tips. 
 
-## **Accessories** 
+##### **Accessories** 
 
 - **6.1.087** Any added aerodynamic accessories on personal equipment are not permitted. 
 
@@ -1035,9 +1021,9 @@ E0126
 
 BMX RACING 
 
-## **§ 6 Identification of Riders** 
+#### **§ 6 Identification of Riders** 
 
-## **Number Plates** 
+##### **Number Plates** 
 
 - **6.1.090** During competition, riders shall be identified by an identification number as provided in articles 1.3.073 and 1.3.074. 
 
@@ -1077,7 +1063,7 @@ The area of the plate that provides a background for the number must, during the
 
 _(text modified on 01.01.25)_ 
 
-## **§ 7 UCI International Elite Number System** 
+   - **§ 7 UCI International Elite Number System** 
 
 - **6.1.094** The UCI International Elite Number System (formerly known as the Permanent Career Number system) is for Men Elite & Women Elite category only. This system allows the top riders determined as defined below in article 6.1.095 to choose a specific number for themselves which they have the exclusive right to use for the entire Olympic Quadrennial 
 
@@ -1091,21 +1077,19 @@ for which it was awarded. Elite World Champions and Olympic Champions shall have
 
 _(text modified on 01.01.19; 01.01.22)_ 
 
-## **Number Criteria** 
+##### **Number Criteria** 
 
-- **6.1.095** The UCI International Elite Number list will be published by 31 January following each Olympic Games. 
+**6.1.095** The UCI International Elite Number list will be published by 31 January following each Olympic Games. 
 
 Following the publication of the UCI Individual BMX Racing rankings for Men Elite and Women Elite on 31 December of the Olympic Games year, all UCI International Elite Numbers formerly awarded shall be removed and become available. 
 
 Riders in the top 40 ranked Men Elite and top 40 ranked Women Elite in the UCI Individual BMX Racing ranking of 31 December of the Olympic Games year are invited to select a UCI International Elite Number. Riders already in possession of a UCI International Elite Number may choose to retain that number; otherwise, all such numbers shall be in the range of 10 to 199. 
 
-In case any of the riders selected by their national federation to participate in the most recent Olympic Games, or former Elite UCI World Champions, or former Olympic Champions are not in the top 40 respectively, they may also request a UCI International Elite Number in accordance with the method specified above, as long as they are still in possession of an Elite license and have figured in the UCI individual ranking of 31[st] December in at least 1 year within the last Olympic Quadrennial. In case of multiple requests for the same number, requests from reigning Olympic Champions, reigning World Champions shall take priority in that order; following this, the request of the rider with the higher ranking on 31[st] December shall take priority. 
+In case any of the riders selected by their national federation to participate in the most recent Olympic Games, or former Elite UCI World Champions, or former Olympic Champions are not in the top 40 respectively, they may also request a UCI International Elite Number in accordance with the method specified above, as long as they are still in possession of an Elite license and have figured in the UCI individual ranking of 31<sup>st</sup> December in at least 1 year within the last Olympic Quadrennial. In case of multiple requests for the same number, requests from reigning Olympic Champions, reigning World Champions shall take priority in that order; following this, the request of the rider with the higher ranking on 31<sup>st</sup> December shall take priority. 
 
-Such requests shall be received up to and including 21 January of the year following the Olympic Games, after which no further requests shall be considered. 
+Such requests shall be received up to and including 21 January of the year following the Olympic Games, after which no further requests shall be considered. This procedure shall be repeated as described above for each Olympic Quadrennial. For the purpose of awarding UCI International Elite Numbers, each Olympic Quadrennial begins on 1<sup>st</sup> January in the year following the Olympic Games and ends on 31<sup>st</sup> December in the year of the Olympic Games. 
 
-This procedure shall be repeated as described above for each Olympic Quadrennial. For the purpose of awarding UCI International Elite Numbers, each Olympic Quadrennial begins on 1[st] January in the year following the Olympic Games and ends on 31[st] December in the year of the Olympic Games. 
-
-Once a rider retires from his Elite BMX Racing career, his UCI International Elite Number shall again become available at the end of the Olympic Quadrennial in which he retired. A rider shall be considered to have retired when he has not figured in the UCI Individual Ranking of 31[st] December in 2 consecutive years, or upon notification of retirement sent to the UCI by the rider in question. Such riders lose the right to use their UCI International Elite Number at the beginning of the season in which they no longer hold a license in the Elite category. 
+Once a rider retires from his Elite BMX Racing career, his UCI International Elite Number shall again become available at the end of the Olympic Quadrennial in which he retired. A rider shall be considered to have retired when he has not figured in the UCI Individual Ranking of 31<sup>st</sup> December in 2 consecutive years, or upon notification of retirement sent to the UCI by the rider in question. Such riders lose the right to use their UCI International Elite Number at the beginning of the season in which they no longer hold a license in the Elite category. 
 
 Under circumstances that it may determine, the UCI may occasionally decide to retire the UCI International Elite Number of a rider so that it is no longer available to be selected by someone else once that rider’s Elite career is over. 
 
@@ -1173,7 +1157,7 @@ BMX RACING
 
 _(text modified on 01.01.18; 01.01.22; 01.01.25)_ 
 
-## **Procedure** 
+##### **Procedure** 
 
 - **6.1.098** The national federation shall submit a single list of all their riders, wishing and eligible to receive a UCI International Elite Number within the time period specified in article 6.1.095 with the number they would like to obtain. The following information should be included in the document: 
 
@@ -1181,9 +1165,9 @@ _(text modified on 01.01.18; 01.01.22; 01.01.25)_
 
    - UCI ID; 
 
-   - UCI BMX Racing ranking as at 31[st] December in the year of the Olympic Games; 
+   - UCI BMX Racing ranking as at 31<sup>st</sup> December in the year of the Olympic Games; 
 
-   - 1[st], 2[nd], 3[rd] choice of number. 
+   - 1<sup>st</sup>, 2<sup>nd</sup>, 3<sup>rd</sup> choice of number. 
 
 In case of conflicting wishes, the following rules will be adopted in order of the priority outlined in article 6.1.095. 
 
@@ -1191,21 +1175,21 @@ The UCI has the final authority to assign numbers based on the above criteria.
 
 _(text modified on 01.01.18; 01.01.21; 01.01.22)_ 
 
-## **§ 8 Competition Facilities** 
+#### **§ 8 Competition Facilities** 
 
 See Annex 5. 
 
-## **§ 9 Competition Officials** 
+#### **§ 9 Competition Officials** 
 
 See Annex 6. 
 
-## **§ 10 UCI BMX Racing International Calendar** 
+#### **§ 10 UCI BMX Racing International Calendar** 
 
-## **Season** 
+##### **Season** 
 
 - **6.1.099** The calendar season starts on January 1 and ends on December 31. 
 
-## **Event Classes and Date Protection** 
+##### **Event Classes and Date Protection** 
 
 - **6.1.100** International BMX Racing events are registered on the UCI International BMX Racing Calendar in accordance with the following classification: 
 
@@ -1279,9 +1263,9 @@ E0126
 
 BMX RACING 
 
-## **Chapter II SPECIFIC RULES FOR INTERNATIONAL EVENTS** 
+### **Chapter II SPECIFIC RULES FOR INTERNATIONAL EVENTS** 
 
-## **Registration of Riders** 
+##### **Registration of Riders** 
 
 - **6.2.001** Without prejudice to the responsibilities outlined in the introduction of Part VI “BMX Racing”, all competitions open to international riders should be considered an international event and must be registered on the UCI calendar. 
 
@@ -1315,11 +1299,11 @@ _(text modified on 01.01.21; 01.01.25)_
 
 - **6.2.004** The entry fees, which must be paid to the organiser of an international BMX Racing event, may be set by the national federation of the country concerned if they are not defined within the UCI Financial Obligations, or in the same case, by the continental confederation for a continental championships or events in a series managed by that continental confederation. If there are no such regulations, the fees may be decided by the event organiser. 
 
-## **Event Format** 
+##### **Event Format** 
 
 - **6.2.005** The schedule of heats shall be established according to the procedures set forth in annex 1. 
 
-## **Team Staff** 
+##### **Team Staff** 
 
 - **6.2.006** (N) Each national federation which registers riders must appoint a single team manager to represent the interests of all of its riders at the international BMX Racing event. In addition to this team manager, a number of team assistants shall be allowed. This 
 
@@ -1343,11 +1327,11 @@ A team manager or a nominated assistant is accredited with the right to enter a 
 
 _(text modified on 01.01.18; 01.01.25)_ 
 
-## **Competition Categories** 
+##### **Competition Categories** 
 
 - **6.2.007** Competition categories at an international BMX Racing event shall be based on the description in 6.1.008 to 6.1.011. Categories for the Challenge level shall be as per the national regulations of the country where the event is held, or in accordance with the regulations of the continental confederation for Continental Championships or events which are part of a series established by a continental confederation. 
 
-## **Prize Money and Trophies** 
+##### **Prize Money and Trophies** 
 
 - **6.2.008** The total amount of the prize money must respect the minimum laid down in the UCI financial obligations. Any increase in the amount of prize money given over the minimum amount shall apply equally to both male and female categories at the same level. Trophies for Championship level categories are a choice of the organiser and are not mandatory. 
 
@@ -1359,9 +1343,9 @@ E0126
 
 BMX RACING 
 
-## **Chapter III SPECIFIC RULES FOR UCI BMX RACING WORLD CUP EVENTS** 
+### **Chapter III SPECIFIC RULES FOR UCI BMX RACING WORLD CUP EVENTS** 
 
-## **Allocation of UCI BMX Racing World Cup** 
+- **Allocation of UCI BMX Racing World Cup** 
 
 - **6.3.001** The date and venue of each UCI BMX Racing World Cup competition shall be determined by the UCI management committee. 
 
@@ -1371,7 +1355,7 @@ _(text modified on 01.01.18; 01.01.25)_
 
 - **6.3.002** The UCI BMX Racing World Cup shall be the exclusive property of the UCI. 
 
-## **General Event Parameters** 
+##### **General Event Parameters** 
 
 - **6.3.003** UCI BMX Racing World Cup events are open to all eligible riders in possession of a UCI license as per article 6.3.006. 
 
@@ -1379,9 +1363,9 @@ _(text modified on 01.01.18; 01.01.25)_
 
 _(text modified on 01.01.22)_ 
 
-## **Registration of Participants** 
+##### **Registration of Participants** 
 
-- **6.3.005** All riders must be registered using the UCI online registration system (www.uci.org) through their national federation. The opening/closing dates of the online registration system are published on the UCI website. All team managers must attend the riders’ confirmation presenting licences for each rider and confirming the details indicated in article 6.2.002. Once completed, team managers can pick up the accreditation, number plate, side plate and other items for the riders who were entered by their national federation from the secretary. The riders confirmation deadlines are indicated on the official programme published on the UCI website. Riders not being confirmed before the indicated deadline, did not complete the registration procedure and will not be able to compete at the event. 
+**6.3.005** All riders must be registered using the UCI online registration system (www.uci.org) through their national federation. The opening/closing dates of the online registration system are published on the UCI website. All team managers must attend the riders’ confirmation presenting licences for each rider and confirming the details indicated in article 6.2.002. Once completed, team managers can pick up the accreditation, number plate, side plate and other items for the riders who were entered by their national federation from the secretary. The riders confirmation deadlines are indicated on the official programme published on the UCI website. Riders not being confirmed before the indicated deadline, did not complete the registration procedure and will not be able to compete at the event. 
 
 Entry fees are due for each entered rider per category as defined in the UCI Financial Obligations. 
 
@@ -1399,7 +1383,7 @@ E0126
 
 BMX RACING 
 
-## **Category Combination Rules** 
+##### **Category Combination Rules** 
 
 - **6.3.005** In order for a category to be held, at least 13 riders must be registered and confirmed in **bis** that category following riders confirmation. 
 
@@ -1417,17 +1401,17 @@ _(article introduced on 01.01.22)_
 
 Example: Combination Men Elite and Men Under 23/Juniors 
 
-|Result<br>of<br>the Event|Category of rider|UCI<br>BMX<br>Racing<br>World Cup Ranking –<br>U23|UCI<br>BMX<br>Racing<br>World Cup Ranking<br>Elite|
-|---|---|---|---|
-|1|Men U23|1st place||
-|2|Men Elite||1st place|
-|3|Men Junior|2nd place||
-|4|Men Elite||2nd place|
-|5|Men Elite||3rd place|
+|Result<br>of<br>the Event|Category of rider|UCI<br>BMX<br>Racing<br>World Cup Ranking –<br>U23|UCI<br>BMX<br>World Cup<br>Elite|<br>Racing<br>Ranking|
+|---|---|---|---|---|
+|1|Men U23|1<sup>st</sup> place|||
+|2|Men Elite||1<sup>st</sup> place||
+|3|Men Junior|2<sup>nd</sup> place|||
+|4|Men Elite||2<sup>nd</sup> place||
+|5|Men Elite||3<sup>rd</sup> place||
 
 _(article introduced on 01.01.22)_ 
 
-## **Event Format** 
+##### **Event Format** 
 
 - **6.3.006** Competition categories at a UCI BMX Racing World Cup event shall be: 
 
@@ -1497,9 +1481,9 @@ In case multiple riders do not start in a heat such that 4 or less riders are pr
 
 _(text modified on 01.01.18)_ 
 
-## **Round 1** 
+##### **Round 1** 
 
-- **6.3.011** For both Stages of the UCI World Cup, all registered riders must start in the Round 1. 
+**6.3.011** For both Stages of the UCI World Cup, all registered riders must start in the Round 1. 
 
 For both categories, Round 1 is divided into a number of heats, as described in Annex 1 bis. Within Round 1, the riders in each heat shall race once. 
 
@@ -1535,7 +1519,7 @@ Stage 2 of the UCI World Cup is seeded in order of the final classification of S
 
 _(text modified on 01.01.22; 01.01.25)_ 
 
-## **Last Chance** 
+##### **Last Chance** 
 
 E0126 
 
@@ -1553,7 +1537,7 @@ Within the Last Chance phase, the riders in each heat shall race only once. The 
 
 _(text modified on 01.01.18; 01.01.22; 01.01.25)_ 
 
-## **The Qualifiers** 
+##### **The Qualifiers** 
 
 - **6.3.013** The Qualifiers are held over a number of rounds, each distinguished by their degree of removal from the Final (1/32 final, 1/16 final, 1/8 final, 1/4 final, 1/2 final). 
 
@@ -1569,19 +1553,19 @@ The heats in each round of the Qualifiers are seeded according to the method fou
 
 _(text modified on 01.01.18; 01.01.25)_ 
 
-## **The Final** 
+##### **The Final** 
 
-- **6.3.014** For all categories, the Final is held over a single round. Each final is composed of a single heat of maximum eight (8) riders. The riders in each Final shall race once. 
+**6.3.014** For all categories, the Final is held over a single round. Each final is composed of a single heat of maximum eight (8) riders. The riders in each Final shall race once. 
 
 _(text modified on 01.01.22)_ 
 
-## **Gate Starting Positions** 
+##### **Gate Starting Positions** 
 
-- **6.3.015** Gate starting positions within each UCI BMX Racing World Cup stage are decided as follows: 
+**6.3.015** Gate starting positions within each UCI BMX Racing World Cup stage are decided as follows: 
 
-   - A. Round 1: within each heat, gate positions are chosen in the order in which the riders are seeded; 
+- A. Round 1: within each heat, gate positions are chosen in the order in which the riders are seeded; 
 
-   - B. Last Chance: within each heat, gate positions are chosen in order of the riders’ lap time from Round 1 (fastest to slowest); 
+- B. Last Chance: within each heat, gate positions are chosen in order of the riders’ lap time from Round 1 (fastest to slowest); 
 
 E0126 
 
@@ -1597,13 +1581,13 @@ BMX RACING
 
 _(text modified on 01.01.18; 01.01.25)_ 
 
-## **Final Classification** 
+##### **Final Classification** 
 
 - **6.3.016** For all categories in each stage of a UCI BMX Racing World Cup, a Final Classification shall be drawn up in accordance with article 6.1.041. When preparing the Final Classification, those riders who participated in the Last Chance phase, but who did not advance to the Qualifiers shall have their position in the Final Classification determined using their results from the Last Chance phase, and not their Results from Round 1 (in other words, the Round 1 results for all such riders shall be ignored). However, such riders shall be ranked below those who transferred directly to the Qualifiers from Round 1. It is the Final Classification which shall be used to award the prizes and points in the UCI BMX Racing Individual ranking and UCI BMX Racing World Cup ranking. 
 
 _(text modified on 01.01.18; 01.01.22; 01.01.25)_ 
 
-## **Recognition and Awards** 
+##### **Recognition and Awards** 
 
 - **6.3.017** Riders will receive, at minimum, prize money for each stage of the UCI BMX Racing World Cup according to the UCI financial obligations. This prize money shall be paid by the organiser of each such stage. 
 
@@ -1641,9 +1625,9 @@ E0126
 
 BMX RACING 
 
-## **Chapter IV SPECIFIC RULES FOR UCI BMX RACING WORLD CHALLENGE & MASTERS EVENTS** 
+### **Chapter IV SPECIFIC RULES FOR UCI BMX RACING WORLD CHALLENGE & MASTERS EVENTS** 
 
-## **Allocation of Challenge Events** 
+##### **Allocation of Challenge Events** 
 
 - **6.4.001** Application to the UCI for the sanctioning of a Challenge event is open to any national federation. The venue of each year's Challenge event shall be allocated at least three years in advance of its scheduled date by the UCI. 
 
@@ -1651,11 +1635,11 @@ BMX RACING
 
 - **6.4.003** The site of a Challenge venue shall normally be within the national or territorial boundaries of the national federation which shall serve as the host organization for the event. 
 
-## **General Event Parameters** 
+##### **General Event Parameters** 
 
 - **6.4.004** A single Challenge event, open to all eligible riders who are members of national federations, shall be scheduled in each calendar year to establish an overall ranking of the riders in each of the various categories recognized by the UCI. 
 
-## **Registration of Participants** 
+##### **Registration of Participants** 
 
 - **6.4.005** All riders must be registered using the UCI online registration system through their national federation of sporting nationality (article 1.1.033). The opening/closing dates of the online registration system are published on the UCI website. All team managers must attend the riders’ confirmation presenting their license <del>s</del> and picking up accreditation, number plate, side plate and other competition items for the riders who were entered by their national federation. The riders confirmation deadlines are indicated on the official schedule published on the UCI website. Riders not being confirmed before the indicated deadline, did not complete the registration procedure and may not be able to compete at the event. 
 
@@ -1679,13 +1663,13 @@ BMX RACING
 
 The minimum eligible to enter the event shall be age 8, as of 31st December of the year in question. For avoidance of doubt, the youngest challenge categories offered during the UCI BMX Racing World Challenge shall be as follows: 
 
-## 20-Inch Bicycles 
+- <u>20-Inch Bicycles</u> 
 
-- Boys, age 8; 
+   - Boys, age 8; 
 
-- Girls, age 8. 
+   - Girls, age 8. 
 
-## Cruisers 
+##### <u>Cruisers</u> 
 
 - Boys, ages 12 and under; 
 
@@ -1693,7 +1677,7 @@ The minimum eligible to enter the event shall be age 8, as of 31st December of t
 
 _(text modified on 01.01.22; 01.01.25)_ 
 
-## **Category Combination of World Challenge** 
+##### **Category Combination of World Challenge** 
 
 - **6.4.005** In order for a category to be held, at least 20 riders must be registered for the Challenge **ter** category as defined in articles 6.1.009 and 6.1.011. 
 
@@ -1707,19 +1691,19 @@ If the minimum number of 20 riders are registered during the rider registration 
 
 _(article introduced on 01.01.26)_ 
 
-## **Category Combination and results for World Challenge** 
+- **Category Combination and results for World Challenge** 
 
 - **6.4.005** In the case that Challenge categories are combined, the results will be recorded based **quater** on the combined category and will not be split into the category of entry for each rider. 
 
-_Comment: For the avoidance of doubt, articles 6.4.005 ter and 6.4.005 quater do not apply to the Championships and Masters Categories._ 
+   - _Comment: For the avoidance of doubt, articles 6.4.005 ter and 6.4.005 quater do not apply to the Championships and Masters Categories._ 
 
 _(article introduced on 01.01.26)_ 
 
-- **6.4.006** Pre-registration for the UCI BMX Racing World Challenge event is subject to the following restrictions: 
+**6.4.006** Pre-registration for the UCI BMX Racing World Challenge event is subject to the following restrictions: 
 
-   - A. each national federation shall be permitted to register up to 16 riders in each Challenge level category which is scheduled for competition. The host organisation may register a greater number of riders in each limited category, with a maximum of 32 riders; 
+- A. each national federation shall be permitted to register up to 16 riders in each Challenge level category which is scheduled for competition. The host organisation may register a greater number of riders in each limited category, with a maximum of 32 riders; 
 
-   - B. each national federation shall be permitted to register up to 16 riders in each Masters category; 
+- B. each national federation shall be permitted to register up to 16 riders in each Masters category; 
 
 E0126 
 
@@ -1739,7 +1723,7 @@ _(text modified on 01.01.21; 01.01.25)_
 
 Contravention of this regulation may render any national federation concerned liable to a fine of up to CHF 5’000, in addition to the disqualification of the riders concerned. 
 
-## **Team Staff** 
+##### **Team Staff** 
 
 - **6.4.009** Each national federation which registers riders must appoint a national team manager to represent the interests of all of its riders at the UCI BMX Racing World Challenge In addition to this national team manager, between 2 and 20 Challenge team assistants for each team are allowed; the number of Challenge team assistants allowed shall be determined based upon the number of challenge entries registered for each national federation, as described in the Technical Guide for the event. All team staff must be accredited in accordance with the technical guide. Such accreditation may be revoked for any breach of the UCI regulations or non-compliance with the instructions of the organisation or commissaires’ panel. 
 
@@ -1747,7 +1731,7 @@ Only people who are legally considered to be adults in the country in which the 
 
 _(text modified on 01.01.18; 01.01.25)_ 
 
-## **Event Format** 
+##### **Event Format** 
 
 - **6.4.010** Competition categories shall be as described in articles 6.1.009 to 6.1.011. 
 
@@ -1763,15 +1747,15 @@ The UCI BMX Racing World Challenge for each Challenge or Masters level category 
 
 _(text modified on 01.01.18)_ 
 
-## **Seeding the Motos** 
+##### **Seeding the Motos** 
 
 - **6.4.010** Challenge and Masters riders will be seeded into the motos during the UCI BMX Racing **bis** World Challenge using a scrambled system as described in 6.1.027 quater. 
 
 _(text introduced on 01.01.22)_ 
 
-## **Recognition and Awards** 
+##### **Recognition and Awards** 
 
-- **6.4.011** The UCI shall bestow upon the first-place finisher in each competing category raced at the UCI World BMX Racing Challenge level the title of “UCI BMX Racing World Challenge Winner”. This title shall remain the property of the UCI and may not be used in conjunction with any product endorsement or for any other commercial purpose without prior express consent of the UCI. The top 8 finishers will receive a trophy. In case of a combined category, the trophies of the highest category will be presented. 
+**6.4.011** The UCI shall bestow upon the first-place finisher in each competing category raced at the UCI World BMX Racing Challenge level the title of “UCI BMX Racing World Challenge Winner”. This title shall remain the property of the UCI and may not be used in conjunction with any product endorsement or for any other commercial purpose without prior express consent of the UCI. The top 8 finishers will receive a trophy. In case of a combined category, the trophies of the highest category will be presented. 
 
 The title of “UCI BMX Racing World Challenge Winner” does not entitle the holder to in any way represent themselves as a “BMX Racing World Champion”, nor to use a replica of the World Champion’s jersey, nor to in any way incorporate the rainbow colours into his clothing or equipment. The title of “BMX Racing World Champion” is reserved for the winners of the UCI BMX Racing World Championship, which is open only to riders in the championship categories. 
 
@@ -1787,7 +1771,7 @@ E0126
 
 BMX RACING 
 
-## **Chapter V OLYMPIC GAMES** 
+### **Chapter V OLYMPIC GAMES** 
 
 (chapter abrogated on 01.01.2019 and moved to Part XI: Olympic Games.) 
 
@@ -1797,23 +1781,23 @@ E0126
 
 BMX RACING 
 
-## **Chapter VI UCI BMX RACING RANKING** 
+### **Chapter VI UCI BMX RACING RANKING** 
 
-## **Categories** 
+##### **Categories** 
 
-**6.6.001** The UCI is the exclusive owner of the UCI BMX Racing Ranking. The UCI BMX Racing Ranking consists of a UCI Individual BMX Racing Ranking for the following categories, as well as a ranking by nation: 
+- **6.6.001** The UCI is the exclusive owner of the UCI BMX Racing Ranking. The UCI BMX Racing Ranking consists of a UCI Individual BMX Racing Ranking for the following categories, as well as a ranking by nation: 
 
-- A. Men Elite: aged 19 and over; 
+   - A. Men Elite: aged 19 and over; 
 
-- B. Women Elite: aged 19 and over; 
+   - B. Women Elite: aged 19 and over; 
 
-- C. Men Under 23: aged 19 to 22; 
+   - C. Men Under 23: aged 19 to 22; 
 
-- D. Women Under 23: aged 19 to 22; 
+   - D. Women Under 23: aged 19 to 22; 
 
-- E. Men Juniors: aged 17 and 18; 
+   - E. Men Juniors: aged 17 and 18; 
 
-- F. Women Juniors: aged 17 and 18. 
+   - F. Women Juniors: aged 17 and 18. 
 
 The UCI BMX Racing rankings are drawn up over a period of one year, in accordance with the conditions set out below, by adding the points won since the preceding ranking was drawn up and respecting the provisions of article 6.6.002. At the same time the remaining points obtained up to the same day of the previous year by each rider in international BMX Racing events are deducted. 
 
@@ -1821,7 +1805,7 @@ The new rankings come into force on the day of publication and stand until the p
 
 _(text modified on 01.01.22)_ 
 
-## **Event Classes** 
+##### **Event Classes** 
 
 - **6.6.002** A rider can gain points in the UCI Individual BMX Racing Ranking for their category in different classes of BMX Racing competitions. The rider's points total is subject to the following rules: 
 
@@ -1863,13 +1847,13 @@ BMX RACING
 
 _(text modified on 02.02.18; 01.01.26)_ 
 
-## **Points Table** 
+##### **Points Table** 
 
 - **6.6.003** Points in the UCI Individual BMX Racing Ranking are awarded in accordance with the table found in Annex 4. 
 
-## **UCI Individual BMX Racing Ranking** 
+##### **UCI Individual BMX Racing Ranking** 
 
-- **6.6.004** A UCI individual BMX Racing ranking will be established for all categories mentioned in 6.1.008. The UCI individual BMX Racing ranking will be calculated on the total points of all events held in each such category, as described in article 6.1.001 with a limitation of events to be calculated in the UCI individual BMX Racing ranking as in article 6.6.002. 
+**6.6.004** A UCI individual BMX Racing ranking will be established for all categories mentioned in 6.1.008. The UCI individual BMX Racing ranking will be calculated on the total points of all events held in each such category, as described in article 6.1.001 with a limitation of events to be calculated in the UCI individual BMX Racing ranking as in article 6.6.002. 
 
 In the first year that a former Junior rider becomes Under 23, all points of the rider will be removed from the Junior ranking; such points will not be transferred to the Under 23 ranking, except for those which were earned during UCI BMX Racing World Cup events; such points earned during UCI BMX Racing World Cup events will be added to the Under 23 ranking. 
 
@@ -1887,23 +1871,23 @@ E0126
 
 BMX RACING 
 
-## **Tie Breaker** 
+##### **Tie Breaker** 
 
-- **6.6.005** In case of a tie in the UCI Individual BMX Racing Ranking, the tie will be resolved as follows: 
+**6.6.005** In case of a tie in the UCI Individual BMX Racing Ranking, the tie will be resolved as follows: 
 
-   - A. UCI BMX Racing World Championships points; 
+- A. UCI BMX Racing World Championships points; 
 
-   - B. UCI BMX Racing World Cup points; 
+- B. UCI BMX Racing World Cup points; 
 
-   - C. Continental Championships points; 
+- C. Continental Championships points; 
 
-   - D. Class HC international competitions (3 best results); 
+- D. Class HC international competitions (3 best results); 
 
-   - E. Class 1 international competitions (5 best results); 
+- E. Class 1 international competitions (5 best results); 
 
-   - F. National Championships. 
+- F. National Championships. 
 
-## **Ranking by Nation** 
+##### **Ranking by Nation** 
 
 **6.6.006** A ranking by nation will be completed for each category in article 6.6.001. 
 
@@ -1917,23 +1901,23 @@ Tied nations have their relative positions determined by the place of their best
 
 _(text modified on 01.01.18; 01.01.22)_ 
 
-## **Olympic Qualification Ranking** 
+##### **Olympic Qualification Ranking** 
 
-- **6.6.007** To determine the qualification quota for the Olympic games, an Olympic Qualification ranking is calculated for both men and women (3 best ranked Elite/ Under 23 per nation). A rider’s points are awarded to the nation of his nationality, even if he is a license holder of the federation of another country. 
+**6.6.007** To determine the qualification quota for the Olympic games, an Olympic Qualification ranking is calculated for both men and women (3 best ranked Elite/ Under 23 per nation). A rider’s points are awarded to the nation of his nationality, even if he is a license holder of the federation of another country. 
 
 Tied nations have their relative positions determined by the place of their best rider on the UCI Individual BMX Racing ranking. 
 
 _(text modified on 01.01.19; 01.01.22)_ 
 
-## **Ranking Updates** 
+##### **Ranking Updates** 
 
-- **6.6.008** Unless otherwise announced by the UCI, the UCI BMX Racing Rankings are updated weekly on Tuesday, and also on 31[st] December. 
+**6.6.008** Unless otherwise announced by the UCI, the UCI BMX Racing Rankings are updated weekly on Tuesday, and also on 31<sup>st</sup> December. 
 
 _(text modified on 01.01.21)_ 
 
-## **National Championships** 
+##### **National Championships** 
 
-- **6.6.009** Every nation will have a possibility to host a national championship, counting for the UCI BMX Racing ranking. A national championship can only be open for a rider who holds a passport in the respective country (home country) as indicated in 1.2.028. If a nation still decides to allow riders from a different nationality during the national championships, the foreign rider won’t receive UCI points and the finishing place of the riders of the designated nation stays unchanged. 
+**6.6.009** Every nation will have a possibility to host a national championship, counting for the UCI BMX Racing ranking. A national championship can only be open for a rider who holds a passport in the respective country (home country) as indicated in 1.2.028. If a nation still decides to allow riders from a different nationality during the national championships, the foreign rider won’t receive UCI points and the finishing place of the riders of the designated nation stays unchanged. 
 
 E0126 
 
@@ -1941,7 +1925,7 @@ E0126
 
 BMX RACING 
 
-## **Chapter VII UCI BMX RACING TEAMS** 
+### **Chapter VII UCI BMX RACING TEAMS** 
 
 (chapter abrogated on 01.01.2025) 
 
@@ -1951,7 +1935,9 @@ E0126
 
 BMX RACING 
 
-## **ANNEX 1 Schedule of Heats – Seeding and Transfer System** 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+### **ANNEX 1 Schedule of Heats – Seeding and Transfer System** 
 
 |**# Riders**|**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|---|
@@ -1987,13 +1973,15 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 For events in which random seeding is used for the Motos, in effect, a random ‘seeding order’ is created, and the heats are filled in the same way as described in article 6.1.027bis. 
 
 In case a scrambled seeding system which follows Annex 1 is used for the Motos, the general principle used is that the riders in each category will be spread as evenly as possible among the number of heats specified in the table above considering the number of entries - that is, the same number of riders will be in each heat. In case a category has a number of entries in which this is not possible, then the heats with less riders are determined at random. _(text modified on 01.01.19)._ 
 
 Composition of the Qualifiers and Finals 
 
-9 - 16 RIDERS 
+###### 9 - 16 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2003,7 +1991,7 @@ During the motos Phase, the riders are seeded into 2 heats of 4-8 riders. The nu
 
 The top four riders in each heat shall transfer to the Final. Exception: in case of a number of 9 riders, the top three riders of the 4 rider heat and the top four riders of the 5 rider heat shall transfer to the 7 rider Final. 
 
-17 - 19 RIDERS 
+###### 17 - 19 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2015,7 +2003,7 @@ Riders are transferred according to the overall position gained in the motos.
 
 The top four riders in each heat shall transfer to two 6 rider 1/2 Finals as per the following: 
 
-||**1/2 FINALS**|**1/2 FINALS**|
+||**1/2 FINAL**|**S**|
 |---|---|---|
 |**Heats**|**1**|**2**|
 |**1**|1st-3rd|2nd-4th|
@@ -2030,7 +2018,9 @@ E0126
 
 BMX RACING 
 
-## 20 - 32 RIDERS 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+###### 20 - 32 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2042,7 +2032,7 @@ Riders are transferred according to the overall position gained in the motos.
 
 The top four riders in each heat shall transfer to two 8 rider 1/2 Finals as per the following: 
 
-||**1/2 FINALS**|**1/2 FINALS**|
+||**1/2 FINAL**|**S**|
 |---|---|---|
 |**Heats**|**1**|**2**|
 |**1**|1st-3rd|2nd-4th|
@@ -2052,7 +2042,7 @@ The top four riders in each heat shall transfer to two 8 rider 1/2 Finals as per
 
 The top four riders in each 1/2 Final shall transfer to the Final. 
 
-## 33 - 40 RIDERS 
+###### 33 - 40 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2060,9 +2050,11 @@ The top four riders in each 1/2 Final shall transfer to the Final.
 
 During the motos Phase, the riders are seeded into 5 heats of 6-8 riders. The number of riders for each heat is determined by application of the zigzag system (see example). 
 
-Riders are transferred according to the overall position gained in the motos. The top four riders in each heat shall transfer to four 5 rider 1/4 Finals as per the following: 
+Riders are transferred according to the overall position gained in the motos. 
 
-||**1/4 FINALS**|**1/4 FINALS**|**1/4 FINALS**||
+The top four riders in each heat shall transfer to four 5 rider 1/4 Finals as per the following: 
+
+||**1/4 F**|**INALS**|||
 |---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|
 |**1**|1st|4th|3rd|2nd|
@@ -2073,6 +2065,8 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 |**2**|2nd|1st|4th|3rd|
 |---|---|---|---|---|
 |**3**|3rd|2nd|1st|4th|
@@ -2081,7 +2075,7 @@ BMX RACING
 
 The top four riders in each 1/4 Final shall transfer to two 8 rider 1/2 Finals as per the following: 
 
-||**1/2 FINALS**|**1/2 FINALS**|
+||**1/2 FINAL**|**S**|
 |---|---|---|
 |**Heats**|**1**|**2**|
 |**1**|1st-3rd|2nd-4th|
@@ -2091,7 +2085,7 @@ The top four riders in each 1/4 Final shall transfer to two 8 rider 1/2 Finals a
 
 The top four riders in each 1/2 Final shall transfer to the Final. 
 
-## 41 - 64 RIDERS 
+41 - 64 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2103,7 +2097,7 @@ Riders are transferred according to the overall position gained in the motos.
 
 The top four riders in each heat shall transfer to four 8 rider 1/4 Finals as per the following: 
 
-||**1/4 FINALS**|**1/4 FINALS**|**1/4 FINALS**||
+||**1/4 F**|**INALS**|||
 |---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|
 |**1**|1st|4th|3rd|2nd|
@@ -2119,9 +2113,9 @@ E0126
 
 BMX RACING 
 
-|**7**|3rd|2nd|1st|4th|
-|---|---|---|---|---|
-|**8**|4th|3rd|2nd|1st|
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+**<u>7</u>** <u>3rd 2nd 1st 4th</u> **<u>8</u>** <u>4th 3rd 2nd 1st</u> 
 
 The top four riders in each 1/4 Final shall transfer to two 8 rider 1/2 Finals as per the following: 
 
@@ -2135,7 +2129,7 @@ The top four riders in each 1/4 Final shall transfer to two 8 rider 1/2 Finals a
 
 The top four riders in each 1/2 Final shall transfer to the Final. 
 
-## 65 - 80 RIDERS 
+65 - 80 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2153,7 +2147,9 @@ E0126
 
 BMX RACING 
 
-||**1/8 FINALS**|**1/8 FINALS**||||
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+||**1/8 F**|**INALS**||||
 |---|---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|**5**|
 |**1**|1st|2nd|3rd|4th||
@@ -2169,7 +2165,7 @@ BMX RACING
 
 The top four riders in each 1/8 Final shall transfer to four 5 rider 1/4 Finals as per the following: 
 
-||**1/4 FINALS**|**1/4 FINALS**|**1/4 FINALS**||
+||**1/4 F**|**INALS**|||
 |---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|
 |**1**|1st|4th|3rd|2nd|
@@ -2180,7 +2176,7 @@ The top four riders in each 1/8 Final shall transfer to four 5 rider 1/4 Finals 
 
 The top four riders in each 1/4 Final shall transfer to two 8 rider 1/2 Finals as per the following: 
 
-||**1/2 FINALS**|**1/2 FINALS**|
+||**1/2 FINAL**|**S**|
 |---|---|---|
 |**Heats**|**1**|**2**|
 |**1**|1st-3rd|2nd-4th|
@@ -2194,9 +2190,11 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 The top four riders in each 1/2 Final shall transfer to the Final. 
 
-## 81 - 128 RIDERS 
+81 - 128 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2208,7 +2206,7 @@ Riders are transferred according to the overall position gained in the motos.
 
 The top four riders in each heat shall transfer to eight 8 rider 1/8 Finals as per the following: 
 
-||**1/8 FINALS**|**1/8 FINALS**|**1/8 FINALS**||||||
+||**1/8 F**<br>|**INALS**<br>|<br>||||||
 |---|---|---|---|---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|
 |**1**|1st|2nd|3rd|4th|||||
@@ -2236,7 +2234,9 @@ E0126
 
 BMX RACING 
 
-||**1/4 FINALS**|**1/4 FINALS**|**1/4 FINALS**||
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+||**1/4 F**|**INALS**|||
 |---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|
 |**1**|1st|4th|3rd|2nd|
@@ -2251,7 +2251,7 @@ BMX RACING
 
 The top four riders in each 1/4 Final shall transfer to two 8 rider 1/2 Finals as per the following: 
 
-||**1/2 FINALS**|**1/2 FINALS**|
+||**1/2 FINAL**|**S**|
 |---|---|---|
 |**Heats**|**1**|**2**|
 |**1**|1st-3rd|2nd-4th|
@@ -2261,7 +2261,7 @@ The top four riders in each 1/4 Final shall transfer to two 8 rider 1/2 Finals a
 
 The top four riders in each 1/2 Final shall transfer to the Final. 
 
-## 129 - 160 RIDERS 
+129 - 160 RIDERS 
 
 |**Motos**|**1/16 Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2279,7 +2279,9 @@ E0126
 
 BMX RACING 
 
-||**1/16 FINALS**|**1/16 FINALS**|||||||||
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+||**1/16**|**FINALS**|||||||||
 |---|---|---|---|---|---|---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|
 |**1**|1st|2nd|3rd|4th|||||||
@@ -2311,7 +2313,9 @@ E0126
 
 BMX RACING 
 
-||**1/8 FINALS**|**1/8 FINALS**||||
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+||**1/8 F**|**INALS**||||
 |---|---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|**5**|
 |**1**|1st|2nd|3rd|4th||
@@ -2327,7 +2331,7 @@ BMX RACING
 
 The top four riders in each 1/8 Final shall transfer to four 5 rider 1/4 Finals as per the following: 
 
-||**1/4 FINALS**|**1/4 FINALS**|**1/4 FINALS**||
+||**1/4 F**|**INALS**|||
 |---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|
 |**1**|1st|4th|3rd|2nd|
@@ -2354,7 +2358,9 @@ E0126
 
 BMX RACING 
 
-## 161 - 256 RIDERS 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+###### 161 - 256 RIDERS 
 
 |**Motos**|**1/16**<br>**Finals**|**1/8 Finals**|**1/4 Finals**|**1/2 Finals**|**Final**|
 |---|---|---|---|---|---|
@@ -2362,9 +2368,17 @@ BMX RACING
 
 During the motos Phase, the riders are seeded into 32 heats of 5-8 riders. The number of riders for each heat is determined by application of the zigzag system (see example). 
 
-Riders are transferred according to the overall position gained in the motos. The top four riders in each heat shall transfer to sixteen 8 rider 1/16 Finals as per the following: 
+Riders are 
 
-||**1/16 FINALS**|**1/16 FINALS**|||||||||||||||
+transferred according 
+
+to the overall position gained 
+
+in the motos. 
+
+The top four riders in each heat shall transfer to sixteen 8 rider 1/16 Finals as per the following: 
+
+||**1/16 F**|**INALS**|||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**|**12**|**13**|**14**|**15**|**16**|
 |**1**|1st|2nd|3rd|4th|||||||||||||
@@ -2395,22 +2409,24 @@ E0126
 
 BMX RACING 
 
-|**22**||||||1st|2nd|3rd|4th||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**23**|||||||1st|2nd|3rd|4th|||||||
-|**24**||||||||1st|2nd|3rd|4th||||||
-|**25**|||||||||1st|2nd|3rd|4th|||||
-|**26**||||||||||1st|2nd|3rd|4th||||
-|**27**|||||||||||1st|2nd|3rd|4th|||
-|**28**||||||||||||1st|2nd|3rd|4th||
-|**29**|||||||||||||1st|2nd|3rd|4th|
-|**30**|4th|||||||||||||1st|2nd|3rd|
-|**31**|3rd|4th|||||||||||||1st|2nd|
-|**32**|2nd|3rd|4th|||||||||||||1st|
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+|**22**|||1st<br>2nd|3rd|4th||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**23**|||1st|2nd|3rd|4th|||||||
+|**24**||||1st|2nd|3rd|4th||||||
+|**25**|||||1st|2nd|3rd|4th|||||
+|**26**||||||1st|2nd|3rd|4th||||
+|**27**|||||||1st|2nd|3rd|4th|||
+|**28**||||||||1st|2nd|3rd|4th||
+|**29**|||||||||1st|2nd|3rd|4th|
+|**30**|4th|||||||||1st|2nd|3rd|
+|**31**|3rd|4th|||||||||1st|2nd|
+|**32**|2nd|3rd<br>4th||||||||||1st|
 
 The top four riders in each 1/16 Final shall transfer to eight 8 rider 1/8 Finals as per the following: 
 
-||**1/8 FINALS**|**1/8 FINALS**|**1/8 FINALS**||||||
+||**1/8 F**<br>|**INALS**<br>|<br>||||||
 |---|---|---|---|---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|
 |**1**|1st|2nd|3rd|4th|||||
@@ -2437,9 +2453,11 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 The top four riders in each 1/8 Final shall transfer to four 8 rider 1/4 Finals as per the following: 
 
-||**1/4 FINALS**|**1/4 FINALS**|**1/4 FINALS**||
+||**1/4 FI**|**NALS**|||
 |---|---|---|---|---|
 |**Heats**|**1**|**2**|**3**|**4**|
 |**1**|1st|4th|3rd|2nd|
@@ -2469,7 +2487,9 @@ E0126
 
 BMX RACING 
 
-## **ANNEX 1 BIS UCI BMX Racing World Cup - Schedule of Heats, Seeding and Transfer System** 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+### **ANNEX 1 BIS UCI BMX Racing World Cup - Schedule of Heats, Seeding and Transfer System** 
 
 The following table describes the number of heats, and number of riders in each heat during all Phases of the competition, which depends upon the number of riders entered following riders confirmation, but following the removal of any riders withdrawing for medical reasons before the point in time that the start lists are created. The number of riders who transfer from each Phase or round is also described. 
 
@@ -2479,23 +2499,24 @@ E0126
 
 BMX RACING 
 
-||Round 1|||Last Chance Qualifier (LCQ)|Last Chance Qualifier (LCQ)|Last Chance Qualifier (LCQ)|Total<br>Advancing<br>to<br>Qualifiers<br>(Round 1<br>+ LCQ)|1/32 Finals|1/32 Finals|1/16 Finals|1/16 Finals|1/8 Finals|1/8 Finals|1/4 Finals|1/4 Finals|1/2 Finals|1/2 Finals|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||||||
-|Number<br>of<br>Entries|Number<br>of<br>Heats|Riders<br>/ Heat|Total<br>Advancing|Number<br>of<br>Heats|Riders<br>/ Heat|Total<br>Advancing||Number<br>of<br>Heats|Riders<br>/ Heat|Number<br>of<br>Heats|Riders<br>/ Heat|Number<br>of<br>Heats|Riders<br>/ Heat|Number<br>of<br>Heats|Riders /<br>Heat|Number<br>of<br>Heats|Riders<br>/ Heat|
-|13 to<br>16|2|6 to 8|4|2|4 to 6|4|8|||||||||||
-|17 to<br>20|3|5 to 7|12|1|5 to 8|2|14|||||||||2|7|
-|21 to<br>24|3|7 to 8|12|2|4 to 6|4|16|||||||||2|8|
-|25 to<br>32|4|6 to 8|16|2|4 to 8|4|20|||||||4|5|2|8|
-|33 to<br>40|5|6 to 8|20|3|4 to 7|6|26|||||||4|6 or 7|2|8|
-|41 to<br>48|6|6 to 8|24|4|4 to 6|8|32|||||||4|8|2|8|
-|49 to<br>56|7|7 to 8|28|5|4 to 6|10|38|||||6|6 or 7|4|6|2|8|
-|57 to<br>64|8|7 to 8|32|5|5 to 7|10|42|||||8|5 or 6|4|8|2|8|
-|65 to<br>72|9|7 to 8|36|6|4 to 6|12|48|||||8|6|4|8|2|8|
-|73 to<br>80|10|7 to 8|40|6|5 to 7|12|52|||||8|6 or 7|4|8|2|8|
-|81 to<br>88|11|7 to 8|44|7|5 to 7|14|58|||||8|7 or 8|4|8|2|8|
-|89 to<br>96|12|7 to 8|48|7|5 to 7|14|62|||||8|7 or 8|4|8|2|8|
-|97 to<br>104|13|7 to 8|52|8|5 to 7|16|68|||12|5 or 6|8|6|4|8|2|8|
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+||Round 1|||Last Cha|nce Qual|ifier (LCQ)|Total|1/32 Fina|ls|1/16 Fina|ls|1/8 Final|s|1/4 Finals|1/2 Finals||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Number<br>of<br>Entries|<br>Number<br>of<br>Heats|Riders<br>/ Heat|<br>Total<br>Advancing|Number<br>of<br>Heats|Riders<br>/ Heat|Total<br>Advancing|<br>Advancing<br>to<br>Qualifiers<br>(Round 1<br>+ LCQ)|Number<br>of<br>Heats|Riders<br>/ Heat|Number<br>of<br>Heats|Riders<br>/ Heat|Number<br>of<br>Heats|Riders<br>/ Heat|Number<br>of<br>Heats<br>Riders /<br>Heat|Number<br>of<br>Heats|Riders<br>/ Heat|
+|13 to<br>16|2|6 to 8|4|2|4 to 6|4|8||||||||||
+|17 to<br>20|3|5 to 7|12|1|5 to 8|2|14||||||||2|7|
+|21 to<br>24|3|7 to 8|12|2|4 to 6|4|16||||||||2|8|
+|25 to<br>32|4|6 to 8|16|2|4 to 8|4|20|||||||4<br>5|2|8|
+|33 to<br>40|5|6 to 8|20|3|4 to 7|6|26|||||||4<br>6 or 7|2|8|
+|41 to<br>48|6|6 to 8|24|4|4 to 6|8|32|||||||4<br>8|2|8|
+|49 to<br>56|7|7 to 8|28|5|4 to 6|10|38|||||6|6 or 7|4<br>6|2|8|
+|57 to<br>64|8|7 to 8|32|5|5 to 7|10|42|||||8|5 or 6|4<br>8|2|8|
+|65 to<br>72|9|7 to 8|36|6|4 to 6|12|48|||||8|6|4<br>8|2|8|
+|73 to<br>80|10|7 to 8|40|6|5 to 7|12|52|||||8|6 or 7|4<br>8|2|8|
+|81 to<br>88|11|7 to 8|44|7|5 to 7|14|58|||||8|7 or 8|4<br>8|2|8|
+|89 to<br>96|12|7 to 8|48|7|5 to 7|14|62|||||8|7 or 8|4<br>8|2|8|
+|97 to<br>104|13|7 to 8|52|8|5 to 7|16|68|||12|5 or 6|8|6|4<br>8|2|8|
 
 E0126 
 
@@ -2503,16 +2524,18 @@ E0126
 
 BMX RACING 
 
-|105 to<br>112|14|7 to 8|56|8|6 to 7|16|72|||12|6|8|6|4|8|2|8|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|113 to<br>120|15|7 to 8|60|9|5 to 7|18|78|||12|6 or 7|8|6|4|8|2|8|
-|121 to<br>128|16|7 to 8|64|9|6 to 8|18|82|||12|6 or 7|8|6|4|8|2|8|
-|129 to<br>136|17|7 to 8|68|10|6 to 7|20|88|||14|6 or 7|8|7|4|8|2|8|
-|137 to<br>144|18|7 to 8|72|10|6 to 8|20|92|||14|6 or 7|8|7|4|8|2|8|
-|145 to<br>152|19|7 to 8|76|11|6 to 7|22|98|||14|7|8|7|4|8|2|8|
-|153 to<br>160|20|7 to 8|80|11|6 to 8|22|102|||16|6 or 7|8|8|4|8|2|8|
-|161 to<br>168|21|7 to 8|84|12|6 to 7|24|108|||16|6 or 7|8|8|4|8|2|8|
-|169 to<br>176|22|7 to 8|88|12|6 to 8|24|112|||16|7|8|8|4|8|2|8|
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+|105 to<br>112|14|7 to 8|56<br>8|6 to 7|16|72|12|6|8<br>6|4<br>8|2|8|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|113 to<br>120|15|7 to 8|60<br>9|5 to 7|18|78|12|6 or 7|8<br>6|4<br>8|2|8|
+|121 to<br>128|16|7 to 8|64<br>9|6 to 8|18|82|12|6 or 7|8<br>6|4<br>8|2|8|
+|129 to<br>136|17|7 to 8|68<br>10|6 to 7|20|88|14|6 or 7|8<br>7|4<br>8|2|8|
+|137 to<br>144|18|7 to 8|72<br>10|6 to 8|20|92|14|6 or 7|8<br>7|4<br>8|2|8|
+|145 to<br>152|19|7 to 8|76<br>11|6 to 7|22|98|14|7|8<br>7|4<br>8|2|8|
+|153 to<br>160|20|7 to 8|80<br>11|6 to 8|22|102|16|6 or 7|8<br>8|4<br>8|2|8|
+|161 to<br>168|21|7 to 8|84<br>12|6 to 7|24|108|16|6 or 7|8<br>8|4<br>8|2|8|
+|169 to<br>176|22|7 to 8|88<br>12|6 to 8|24|112|16|7|8<br>8|4<br>8|2|8|
 
 E0126 
 
@@ -2520,20 +2543,21 @@ E0126
 
 BMX RACING 
 
-||Round|||Last Chance<br>(LCQ)|Last Chance<br>(LCQ)|Qualifier|Total<br>Advancin<br>g to<br>Qualifier<br>s (Round<br>1 + LCQ)|1/32 Finals|1/32 Finals|1/16 Finals|1/16 Finals|1/8 Finals|1/8 Finals|1/4 Finals|1/4 Finals|1/2 Finals|1/2 Finals|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||1||||||||||||||||
-|Numb<br>er<br>of<br>Entries|Numb<br>er<br>of<br>Heats|Rider|Total|Numb|Rider|Total||Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|
-|||s<br>/|Advancin|er<br>of|s<br>/|Advancin||||||||||||
-|||Heat|g|Heats|Heat|g||||||||||||
-|177 to<br>184|23|7 to 8|92|13|6 to 8|26|118|||16|7 or 8|8|8|4|8|2|8|
-|185 to<br>192|24|7 to 8|96|13|6 to 8|26|122|||16|7 or 8|8|8|4|8|2|8|
-|193 to<br>200|25|7 to 8|100|14|6 to 8|28|128|||16|8|8|8|4|8|2|8|
-|201 to<br>208|26|7 to 8|104|14|6 to 8|28|132|24|5 or 6|16|6|8|8|4|8|2|8|
-|209 to<br>216|27|7 to 8|108|15|6 to 8|30|138|24|5 or 6|16|6|8|8|4|8|2|8|
-|217 to<br>224|28|7 to 8|112|15|7 to 8|30|142|24|5 or 6|16|6|8|8|4|8|2|8|
-|225 to<br>232|29|7 to 8|116|16|6 to 8|32|148|24|6 or 7|16|6|8|8|4|8|2|8|
-|233 to<br>240|30|7 to 8|120|16|7 to 8|32|152|28|5 or 6|16|7|8|8|4|8|2|8|
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+||Round 1|||Last C<br>(LCQ)|hance|Qualifier|Total<br>Advancin<br>g to|1/32 Fin|als|1/16 Fi|nals|1/8 Fin|als|1/4 Finals|1/2 Fina|ls|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Numb<br>er<br>of<br>Entries|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Total<br>Advancin<br>g|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Total<br>Advancin<br>g|Qualifier<br>s (Round<br>1 + LCQ)|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats<br>Rider<br>s<br>/<br>Heat|Numb<br>er<br>of<br>Heats|Rider<br>s<br>/<br>Heat|
+|177 to<br>184|23|7 to 8|92|13|6 to 8|26|118|||16|7 or 8|8|8|4<br>8|2|8|
+|185 to<br>192|24|7 to 8|96|13|6 to 8|26|122|||16|7 or 8|8|8|4<br>8|2|8|
+|193 to<br>200|25|7 to 8|100|14|6 to 8|28|128|||16|8|8|8|4<br>8|2|8|
+|201 to<br>208|26|7 to 8|104|14|6 to 8|28|132|24|5 or 6|16|6|8|8|4<br>8|2|8|
+|209 to<br>216|27|7 to 8|108|15|6 to 8|30|138|24|5 or 6|16|6|8|8|4<br>8|2|8|
+|||||||||||16|||||||
+|217 to<br>224|28|7 to 8|112|15|7 to 8|30|142|24|5 or 6||6|8|8|4<br>8|2|8|
+|225 to<br>232|29|7 to 8|116|16|6 to 8|32|148|24|6 or 7|16|6|8|8|4<br>8|2|8|
+|||||||||||16|||||||
+|233 to<br>240|30|7 to 8|120|16|7 to 8|32|152|28|5 or 6||7|8|8|4<br>8|2|8|
 
 E0126 
 
@@ -2541,11 +2565,14 @@ E0126
 
 BMX RACING 
 
-|241 to<br>248|31|7 to 8|124|17|6 to 8|34|158|28|5 or 6|16|7|8|8|4|8|2|8|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|249 to<br>256|32|7 to 8|128|17|7 to 8|34|162|28|5 or 6|16|7|8|8|4|8|2|8|
+##### **<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
 
-## Transfer Rules 
+![](images/6-BMX-20260101-E.pdf-0065-01.png)
+
+<!-- Start of picture text -->
+16<br>241 to<br>248  31  7 to 8  124  17  6 to 8  34  158  28  5 or 6  7  8  8  4  8  2  8<br>16<br>249 to<br>256  32  7 to 8  128  17  7 to 8  34  162  28  5 or 6  7  8  8  4  8  2  8<br><!-- End of picture text -->
+
+###### Transfer Rules 
 
 Categories with 13 to16 riders 
 
@@ -2571,7 +2598,9 @@ E0126
 
 BMX RACING 
 
-## Seeding 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+###### Seeding 
 
 Seeding of all Phases and Rounds within Phases is done in accordance with the method described in article 6.1.027bis. 
 
@@ -2594,7 +2623,9 @@ E0126
 
 BMX RACING 
 
-## **ANNEX 2 Starting Positions** 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+### **ANNEX 2 Starting Positions** 
 
 Starting positions applicable to all BMX Racing events (including UCI BMX Racing continental Championship/Challenge events): 
 
@@ -2623,7 +2654,9 @@ E0126
 
 BMX RACING 
 
-## **ANNEX 3 UCI Random Start Gate Timing Cadence** 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+### **ANNEX 3 UCI Random Start Gate Timing Cadence** 
 
 Starting cadence The UCI starting cadence can be used either automatically with built-in delays, or manually, requiring the operator to press the start button for the second half of the cadence. 
 
@@ -2667,9 +2700,11 @@ E0126
 
 BMX RACING 
 
-Beginning on 1[st] January 2020, the only possibility accepted is that no tone is played when the stop button is pressed. 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
 
-## Starting Sequence 
+Beginning on 1<sup>st</sup> January 2020, the only possibility accepted is that no tone is played when the stop button is pressed. 
+
+Starting Sequence 
 
 |Sequence|Action|Timing|
 |---|---|---|
@@ -2685,7 +2720,7 @@ Beginning on 1[st] January 2020, the only possibility accepted is that no tone i
 |10|Pause|0.060 sec|
 |11|1 tone (632 Hertz) – Green light<br>illuminates|2.25 sec|
 
-## Gate Rise Warning 
+Gate Rise Warning 
 
 |Sequence|Action|Timing|
 |---|---|---|
@@ -2703,7 +2738,7 @@ For large events with many entries, the Gate Rise Warning may be disabled in ord
 
 _(text modified on 01.01.18)._ 
 
-## Abort Stand Down 
+Abort Stand Down 
 
 As described in the text above under point i. 
 
@@ -2712,6 +2747,8 @@ E0126
 69 
 
 BMX RACING 
+
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
 
 Drop speed of the gate 
 
@@ -2725,13 +2762,15 @@ E0126
 
 BMX RACING 
 
-## **ANNEX 4 UCI BMX Racing Ranking Points** 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+### **ANNEX 4 UCI BMX Racing Ranking Points** 
 
 In the tables below points are awarded according to the Final Classification, as established in accordance with article 6.1.041. In case two or more riders share the same rank, all riders concerned shall be awarded with the points corresponding to the rank for which the tie can’t be broken. The ranks and points that would have been awarded had no tie occurred are then skipped, until the first rank that was not involved in the tie. 
 
-For example, if there is a tie for 9[th] place, both riders are awarded points for 9[th] place. Points for 10[th] place are not awarded. The rider following would then hold and receive points for 11[th] place. 
+For example, if there is a tie for 9<sup>th</sup> place, both riders are awarded points for 9<sup>th</sup> place. Points for 10<sup>th</sup> place are not awarded. The rider following would then hold and receive points for 11<sup>th</sup> place. 
 
-|**RANK**|**OG**||**CM**||**CDM**|**CDM**|**CC**|**CC**|**CC**|**HC**|**HC**|**HC**|**C1**|**C1**|**C1**|**CN**|**CN**|**CN**|**C2 and JR**|**C2 and JR**|**C2 and JR**|
+|**RANK**|**OG**||**CM**||**CD**|**M**||**CC**|||**HC**|||**C1**|||**CN**|||**C2 and**|**JR**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||**Elite**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Junior**|**Elite**|**U23**|**Junior**|
 |1st|1000|750|248|188|500|165|300|100|75|200|67|50|100|33|25|60|20|15|30|10|8|
@@ -2764,6 +2803,8 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 |24th|31|115|38|29|78|23|
 |---|---|---|---|---|---|---|
 |25th||109|36|28|74|21|
@@ -2781,41 +2822,43 @@ E0126
 
 BMX RACING 
 
-|**RANK**||**CM**|**CM**|**CM**|**CDM**|
-|---|---|---|---|---|---|
-|||**Elite**|**U23**|**Junior**|**Elite**|
-|33rd||73|21|20|49|
-|34th||69|20|19|47|
-|35th||66|19|18|45|
-|36th||63|18|17|43|
-|37th||60|17|16|41|
-|38th||57|16|15|39|
-|39th||54|15|14|37|
-|40th||51|14|13|35|
-|41st||48|13|12|33|
-|42nd||46|12|11|31|
-|43rd||44|11|10|29|
-|44th||42|10|9|28|
-|45th||40|9|8|27|
-|46th||38|8|7|26|
-|47th||36|7|6|25|
-|48th||34|6|5|24|
-|49th||32|5|4|23|
-|50th||30|4|3|22|
-|51st||29|3|2|21|
-|52nd||28|2|1|20|
-|53rd||27|||19|
-|54th||26|||18|
-|55th||25|||17|
-|56th||24|||16|
-|57th||23|||15|
-|58th||22|||14|
-|59th||21|||13|
-|60th||20|||12|
-|61st||19|||11|
-|62nd||18|||10|
-|63rd||17|||9|
-|64th||16|||8|
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+|**RANK**|**CM**|**CM**|**CM**|**CDM**|
+|---|---|---|---|---|
+||**Elite**|**U23**|**Junior**|**Elite**|
+|33rd|73|21|20|49|
+|34th|69|20|19|47|
+|35th|66|19|18|45|
+|36th|63|18|17|43|
+|37th|60|17|16|41|
+|38th|57|16|15|39|
+|39th|54|15|14|37|
+|40th|51|14|13|35|
+|41st|48|13|12|33|
+|42nd|46|12|11|31|
+|43rd|44|11|10|29|
+|44th|42|10|9|28|
+|45th|40|9|8|27|
+|46th|38|8|7|26|
+|47th|36|7|6|25|
+|48th|34|6|5|24|
+|49th|32|5|4|23|
+|50th|30|4|3|22|
+|51st|29|3|2|21|
+|52nd|28|2|1|20|
+|53rd|27|||19|
+|54th|26|||18|
+|55th|25|||17|
+|56th|24|||16|
+|57th|23|||15|
+|58th|22|||14|
+|59th|21|||13|
+|60th|20|||12|
+|61st|19|||11|
+|62nd|18|||10|
+|63rd|17|||9|
+|64th|16|||8|
 
 Points are only awarded to the maximum phase of 1/8 final, when held. 
 
@@ -2831,9 +2874,11 @@ E0126
 
 BMX RACING 
 
-## **ANNEX 5 Competition Field** 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
 
-## Introduction 
+### **ANNEX 5 Competition Field** 
+
+##### Introduction 
 
 The purpose of this section of the UCI BMX Racing Regulations is to set a minimum standard for the field of play within the sport of BMX Racing, as well as the basic facilities needed for a BMX Racing venue. Certain major BMX Racing events registered on the UCI International BMX Racing Calendar may have different standards than the minimums listed below. A table of these standards is found below. 
 
@@ -2845,7 +2890,7 @@ In general, the form of a BMX Racing track must be appropriate for the intended 
 
 Whenever a track is built or re-built, the UCI BMX Racing Track Guide should be consulted. The version of the UCI BMX Racing Track presently in force is found on the UCI web site (www.uci.org). 
 
-## 1. BMX Racing track 
+##### 1. BMX Racing track 
 
 The track must be of a compact, closed looped design, forming a circuit where length measured along its centre line is not less than 300 metres nor greater than 450 metres. 
 
@@ -2859,15 +2904,17 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 ||**UCI BMX Racing World**<br>**Championships**|**UCI**<br>**BMX**<br>**Racing**<br>**World Cup**|**Continental**<br>**Championships**<br>**and**<br>**Hors Class events**|**International**<br>**Competition**<br>**and**<br>**Regional Games**|**National**<br>**Championships**|
 |---|---|---|---|---|---|
 |CLASS race|**CM**|**CDM**|**CC, HC**|**C1, C2 and JR**|**CN**|
 |Starting hill|Height:<br>Championships:8m<br>Challenge:5m<br>Minimum Width: 9m<br>Accordingto UCI designs*|Height: 5m to 8m<br>Minimum Width: 9m<br>According<br>to<br>UCI<br>designs*|Height: 5m to 8m<br>Width: 8m|Height:2.5m<br>Width: 8m|Height:2.5m<br>Width: 8m|
-|Minimum width of<br>the track|1ststraight:8m<br>All other straights: 6m<br>1stturn: 8m<br>Turns: 6m|1ststraight:8m<br>All other straights: 6m<br>1stturn: 8m<br>Turns: 6m|1ststraight:8m<br>All other straights: 6m<br>1stturn: 8m<br>Turns: 6m|1ststraight:8m<br>All other straights: 6m<br>1stturn: 6m<br>Turns: 6m|1ststraight:8m<br>All other straights: 6m*<br>1stturn: 6m<br>Turns: 6m*|
+|Minimum width of<br>the track|1<sup>st</sup>straight:8m<br>All other straights: 6m<br>1<sup>st</sup>turn: 8m<br>Turns: 6m|1<sup>st</sup>straight:8m<br>All other straights: 6m<br>1<sup>st</sup>turn: 8m<br>Turns: 6m|1<sup>st</sup>straight:8m<br>All other straights: 6m<br>1<sup>st</sup>turn: 8m<br>Turns: 6m|1<sup>st</sup>straight:8m<br>All other straights: 6m<br>1<sup>st</sup>turn: 6m<br>Turns: 6m|1<sup>st</sup>straight:8m<br>All other straights: 6m*<br>1<sup>st</sup>turn: 6m<br>Turns: 6m*|
 |Surface material of<br>the turns and finish<br>area|Asphalt, concrete, or bricks.|||||
-|Starting<br>hill<br>and<br>gate|Gate surface and entire start hill surface should<br>provide good traction even in light to moderate rain.<br>Apro-gate shall be used.||Gate surface and starting hill surface should provide good traction.|||
-|Length First straight<br>(minimum)|See UCI BMX Racing Track Guide.|||||
-|Distance<br>between<br>obstacles|See UCI BMX Racing Track Guide.|||||
+|Starting<br>hill<br>and<br>gate|Gate surface and entire st<br>provide good traction even in<br>Apro-gate shall be used.|art hill surface should<br>light to moderate rain.|Gate surface and starting|hill surface should provide|good traction.|
+|Length First straight<br>(minimum)|See UCI BMX Racing Track|Guide.||||
+|Distance<br>between<br>obstacles|See UCI BMX Racing Track|Guide.||||
 
 *Strongly recommended: The table above provides minimum parameters for BMX Racing tracks used for the levels of International BMX Racing events described within it. For these events, in case of a conflict between the table and the regulations found in the remainder of this annex, the table above shall prevail. 
 
@@ -2879,13 +2926,15 @@ E0126
 
 BMX RACING 
 
-## 1. BMX Racing track 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+##### 1. BMX Racing track 
 
 The track must be of a compact, closed looped design, forming a circuit where length measured along its centre line is not less than 300 metres nor greater than 450 metres. 
 
 The track must be a minimum of 10 metres wide at its start and may not taper to a width of less than 5 metres at any point along its length. 
 
-## 2. Starting hill 
+##### 2. Starting hill 
 
 The starting hill must accommodate a track width of at least 10 metres and be at an elevation at least 1.5 metres, preferably 2.5 metres above the grade of the first straight. The initial incline extending from the starting gate to level grade must be at least 12 metres in length. 
 
@@ -2895,7 +2944,7 @@ Comment: It is strongly recommended that tracks intended for beginner and interm
 
 _(text modified on 01.01.19)._ 
 
-## 3. Starting gate 
+##### 3. Starting gate 
 
 The starting gate shall be a minimum of 7,3 metres in width for BMX Racing events on the UCI BMX Racing calendar. 
 
@@ -2907,7 +2956,7 @@ A “voice box” system is mandatory at all UCI sanctioned events described in 
 
 Whenever a timing scoring system is utilised, the timing system must be activated, whereupon the time starts running, at the moment the gate-start mechanism is activated causing the gate to drop. 
 
-## 4. Initial straight 
+##### 4. Initial straight 
 
 The initial straight shall be a minimum of 40 metres in length. 
 
@@ -2919,15 +2968,17 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 the point of curvature of the first turn. However, on tracks especially designed for highly skilled riders, the distance between the starting gate and the front side of the first obstacle may be shorter. 
 
-## 5. First turn 
+##### 5. First turn 
 
 The first turn may go in either direction and shall be banked to a degree which allows safe entry and exit for riders of all ages at race speeds. 
 
 At the first turn, the track shall be a minimum of 6 metres wide measured along a straight line extending from its surface at the inner radius to the top of the berm at its outer radius 
 
-## 6. Turns and obstacles 
+##### 6. Turns and obstacles 
 
 The track shall have a minimum of 3 turns. 
 
@@ -2937,21 +2988,21 @@ All obstacles on the track must be constructed with the safety of all riders, re
 
 Tracks may be designed to include alternate sections to be traversed only by Championship categories. These sections may offer obstacles which are inherently more challenging than those found on the track's main circuit. 
 
-## 7. Race track markings 
+##### 7. Race track markings 
 
 The boundaries of the race track including the alternate sections shall be clearly marked with white lines, or lines in a colour which provides a high level of contrast with the colour of the track surface. 
 
-## 8. Fencing 
+##### 8. Fencing 
 
 In order to provide a barrier between the event’s participants and it spectators, the track must be enclosed by a perimeter fence which shall not be located at any point closer than 2 metres from the competition track. 
 
 The fence must be constructed of a substantial material such as plastic webbing which is capable of absorbing the full impact of a rider of any size striking it at race speed. 
 
-## 9. Finish line 
+##### 9. Finish line 
 
 The track must have a clearly marked finish line to indicate the point at which competitors will be scored as per article 1.2.099. Any banners extending across the track above the finish line or elsewhere along the track must be at an elevation sufficiently above the track level to avoid interference with the riders crossing beneath them. 
 
-10. Competition facilities 
+##### 10. Competition facilities 
 
 E0126 
 
@@ -2959,9 +3010,11 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 National federations and organisers seeking the UCI sanction for a competition event must be able to demonstrate to the UCI that the facilities proposed for the event meet the specifications set forth in this section. 
 
-## 11. (N) Staging area 
+11. (N) Staging area 
 
 Close to the starting hill a staging area consisting of ten staging lanes numbered 1 to 10 shall be established, where riders shall assemble in accordance with the instructions given by the staging officials. 
 
@@ -2969,25 +3022,25 @@ Close to the starting hill a staging area consisting of ten staging lanes number
 
 An area where the riders may congregate between races shall be established and clearly marked close to the track's staging area. 
 
-## 13. Team Managers Area 
+##### 13. Team Managers Area 
 
 For events on the UCI International BMX Racing calendar, the organiser must provide a clearly indicated area, only accessible for team managers. This area should permit the team managers a clear and unobstructed view of the track, and should allow access to the riders areas and secretary commissaire. 
 
-## 14. Announcing Area 
+##### 14. Announcing Area 
 
 There shall be reserved for the announcer preferably at an elevation above that of the track, an area which permits the announcer to have a clear and unobstructed view of the track. 
 
-## 15. Bulletin boards 
+##### 15. Bulletin boards 
 
 Well-constructed and weather-resistant bulletin boards and/or scrolling monitors for posting the moto draws/ race results shall be erected in a sufficient number of locations, given the number of entries in the event. Suitable locations include the riders area, team manager area and staging area. Clear plastic sheeting must be available to cover moto boards and/or scrolling monitors in case of wet weather conditions. If announced in the technical guide for the event, posting of race information including start lists and results may also be done electronically. 
 
-## 16. Administration and race offices 
+##### 16. Administration and race offices 
 
 Registration and race control must be based in an office which is situated within the bounds of the perimeter fence and of sufficient size to process the number of riders in an orderly manner. Any posted instructions in this office must be written in both English and the language of the host country. 
 
 The public address system must be capable of projecting the announcer's voice to all parts of the track, the riders' area and the staging area. Announcements are to be made in both English and the language of the host country. 
 
-17. Parking and spectator facilities 
+##### 17. Parking and spectator facilities 
 
 E0126 
 
@@ -2995,15 +3048,15 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 Parking for a number of cars commensurate with the anticipated size of each race must be available in the vicinity of the track. On race days parking areas shall be adequately staffed to assure the orderly flow of traffic and the systematic parking of automobiles. 
 
 Spectator facilities including, without limitation, seating, washrooms and food service, with capacities appropriate to the numbers listed below, are recommended to be provided for the following events. 
 
-   - a. International BMX Racing Events / Regional Games: 
+- a. International BMX Racing Events / Regional Games: 3000 spectators; b. BMX Racing continental championship events: 5000 spectators; c. UCI BMX Racing world cup events: 2000 spectators; d. UCI BMX Racing World Championships: 7000 spectators; e. Olympic Games 7500 spectators. 
 
-   - a. International BMX Racing Events / Regional Games: 3000 spectators; b. BMX Racing continental championship events: 5000 spectators; c. UCI BMX Racing world cup events: 2000 spectators; d. UCI BMX Racing World Championships: 7000 spectators; e. Olympic Games 7500 spectators. 
-
-18. Indoor events 
+##### 18. Indoor events 
 
 Indoor BMX Racing events may be held on tracks with earthen, wooden or concrete surfaces, having obstacles constructed of similar materials. The rules set forth in this section shall apply equally to indoor events. 
 
@@ -3013,15 +3066,17 @@ E0126
 
 BMX RACING 
 
-## **ANNEX 6 Competition Officials** 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+### **ANNEX 6 Competition Officials** 
 
 1. The UCI Regulations set forth the manner in which a BMX Racing event shall be conducted. All officials participating in an event are required to be fully conversant with  the UCI Regulations and any supplement thereof, which governs any event. By accepting the position, all competition officials are definitely bound by such Regulations. 
 
-## General 
+General 
 
 2. Every BMX Racing competition must be staffed with an adequate number of qualified commissaires and officials to assume all the responsibilities and perform all the duties  of the various positions set forth in this section. For an event registered on the UCI International BMX Racing Calendar, a minimum of 1 UCI International commissaire must be appointed. Food shall be provided for the commissaires. 
 
-## Commissaires Panel 
+##### Commissaires Panel 
 
 3. The commissaires’ panel shall be designated according to article 1.2.116. The  commissaires’ panel is the final authority at any competition and has the right to impose a penalty on any competitor, or team manager in the interests of safety or for violation of these rules, following the guidelines as described in Annex 6 and the following and part 1 of UCI regulations. 
 
@@ -3041,7 +3096,9 @@ E0126
 
 BMX RACING 
 
-## Race Commissaires 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+Race Commissaires 
 
 5. The race commissaires shall be responsible for assuring the observance of all rules governing any event. 
 
@@ -3055,19 +3112,19 @@ Race commissaires must have the following qualifications:
 
 - D. Each race commissaire shall operate from a clearly defined position. 
 
-## Finish Line Commissaires 
+##### Finish Line Commissaires 
 
 6. In the event that the finishing order is determined by means of finish line commissaires, they shall act as described in article 6.1.038. 
 
-   - In case another scoring system is utilised, the obligations and designation conditions are determined by article 1.2.119 to 1.2.121. 
+In case another scoring system is utilised, the obligations and designation conditions are determined by article 1.2.119 to 1.2.121. 
 
 All finish line commissaires shall operate from an area immediately adjacent to the finish line, which permits them a clear and unobstructed view of the riders as they cross the line. 
 
-## Start commissaire 
+##### Start commissaire 
 
 7. The start commissaire shall be responsible for conducting the start of each race. The  starter shall operate the starting gate, and perform such other actions as are necessary and appropriate to assure that each race has a safe and fair start. The starter may recommend to the president of the commissaires’ panel that a rider obstructing the starter from carrying out the duties be penalized. When a timing system is utilised, the starter must first confirm with the staging official any rider who fails to present himself at the start gate and then ensure that the operator of the timing system and his equipment is ready before he begins the starting procedure of a race. 
 
-## Personnel 
+##### Personnel 
 
 8. The following officials and personnel are designated by the organiser or national federation: 
 
@@ -3081,6 +3138,8 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 shall be made available to the senior staging official. Nevertheless, the work of the staging officials amounts to a best effort; riders are individually responsible for following the progress of the race and for arriving on time at the staging lanes with the correct clothing and equipment according to the UCI Regulations. 
 
 - 3 RACE OFFICIALS - Race officials shall be responsible for monitoring the conduct of the riders on the track and for notifying other officials of conditions on the track which may warrant their attention. The president of the commissaires’ panel shall determine the number of race officials necessary for an event. Race officials shall be stationed along the track. Race officials shall make notes of any rule infringements or incidents that they witness. These notes shall be made available upon request by the president of the commissaires’ panel. 
@@ -3091,29 +3150,29 @@ shall be made available to the senior staging official. Nevertheless, the work o
 
 All administrators shall work under the responsibility and direction of the secretary of the commissaires’ panel. 
 
-- A. 
-
-      - Entry administrators shall be responsible for the following: 
+- A. Entry administrators shall be responsible for the following: 
 
    - i. receiving and checking for conformance with entry regulations all riders' entry forms and/or permit applications; 
 
-- ii. establishing a list of entrants in each category of Racing and sequentially ordering the categories. 
+   - ii. establishing a list of entrants in each category of Racing and sequentially ordering the categories. 
 
 - B. Start list administrators shall be responsible for dividing the total number of entrants in  each category into motos of not more than eight riders and for recording their names  on the appropriate moto sheets. 
 
 - C. Start list officials shall be responsible for posting the start lists on the posting boards.  These lists shall be posted in order by age group with each race number clearly visible 
 
-         - 6 TIMING OPERATOR - The timing operator shall be responsible for the setting up and operation of the timing system and for passing rider finish line position results to the administrators for posting on the moto boards. The timing operator shall work under the responsibility and direction of the secretary of the commissaires’ panel, and shall refer all requests for information or protests to that official or the administrator designated by him. 
+      - 6 TIMING OPERATOR - The timing operator shall be responsible for the setting up and operation of the timing system and for passing rider finish line position results to the administrators for posting on the moto boards. The timing operator shall work under the responsibility and direction of the secretary of the commissaires’ panel, and shall refer all requests for information or protests to that official or the administrator designated by him. 
 
-         - 7 TRACK ANNOUNCER - The track announcer shall be responsible for making formal announcements concerning the competition and for informing riders, spectators, commissaires and officials of any changes to the race schedule. 
+      - 7 TRACK ANNOUNCER - The track announcer shall be responsible for making formal announcements concerning the competition and for informing riders, spectators, commissaires and officials of any changes to the race schedule. 
 
-         - 8 SECURITY PERSONNEL - The host organization shall provide a sufficient number of security personnel to ensure the safety of the riders and spectators. Marshals must 
+      - 8 SECURITY PERSONNEL - The host organization shall provide a sufficient number of security personnel to ensure the safety of the riders and spectators. Marshals must 
 
 E0126 
 
 82 
 
 BMX RACING 
+
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
 
 wear some form of distinctive clothing or other object so that they may be readily identified. 
 
@@ -3135,7 +3194,7 @@ The race director, who is designated by the organiser with the assistance of the
 
 - D. Arranging the trophies and other awards are present and checking the organisation of the awards ceremonies. 
 
-## Technical Delegate 
+Technical Delegate 
 
 9. The Technical Delegate shall: 
 
@@ -3159,6 +3218,8 @@ E0126
 
 BMX RACING 
 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
 - 8 Coordinate the team/rider meetings. 
 
 - 9 The Technical Delegate shall be designated by UCI. 
@@ -3171,7 +3232,11 @@ E0126
 
 BMX RACING 
 
-**ANNEX 7 Model Contract between a Rider and a UCI BMX Racing Team** [annex 7 abrogated on 01.01.2025)] 
+**<u><mark>UCI</mark></u> CYCLING REGULATIONS** 
+
+### **ANNEX 7 Model Contract between a Rider and a UCI BMX Racing Team** 
+
+[annex 7 abrogated on 01.01.2025)] 
 
 E0126 
 

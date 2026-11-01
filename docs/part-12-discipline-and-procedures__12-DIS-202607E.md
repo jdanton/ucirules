@@ -65,7 +65,7 @@ DISCIPLINE AND PROCEDURES
 
 ## **Chapter I  PRELIMINARY PROVISIONS** 
 
-#### **Purpose** 
+   - **Purpose** 
 
 - **12.1.001** Chapters I to VI of this Part 12 describe infringements of the rules of the UCI Regulations. These Chapters also determine the associated sanctions for such infringements, govern the organisation of the authorities responsible for issuing judgments and set out the applicable procedural rules to be followed before these authorities. 
 
@@ -99,7 +99,7 @@ This Part must be incorporated in the corresponding regulations of the National 
 
 #### **Temporal scope of application** 
 
-- **12.1.004** This Part 12 shall apply, without restriction, to all events occurring after its entry into effect. 
+**12.1.004** This Part 12 shall apply, without restriction, to all events occurring after its entry into effect. 
 
 The material provisions of this Part 12 shall also apply to prior events if these material provisions are more favourable to the individual(s) concerned and if the UCI's judicial 
 
@@ -113,7 +113,7 @@ bodies (including the appeals body if necessary) rule on these events after the 
 
 The procedural rules of this Part 12 shall apply from the entry into effect of this Part 12. 
 
-#### **Geographical scope of application** 
+   - **Geographical scope of application** 
 
 - **12.1.005** This Part 12 applies to the territories of all National Federations affiliated to the UCI. 
 
@@ -127,13 +127,13 @@ The UCI may extend the effects of a National Federation’s decision to global a
 
 National Federations shall inform the UCI, without delay, of any suspension or prohibition of operation pronounced by their judicial bodies. 
 
-#### **Applicable rules of law** 
+   - **Applicable rules of law** 
 
 - **12.1.007** In the event of an omission in this Part 12, the competent body shall issue a ruling in accordance with the general principles of law. 
 
 It shall be guided by the customary rules of the UCI or, failing that, by the rules it would establish if it had to act as a legislator. 
 
-#### **Gender and number** 
+   - **Gender and number** 
 
 - **12.1.008** The male gender may be used generically in this Part for the sake of brevity. In this case, it shall also apply to the female gender. Furthermore, the singular may refer to the plural and vice versa unless a specific mention of the gender or number arises from the subject or objective of the regulation. 
 
@@ -155,25 +155,25 @@ The jurisdiction of the UCI Ethics Commission and criminal prosecution authoriti
 
 #### **General measures** 
 
-- **12.2.002** If a person or entity to whom this Part applies infringes the provisions of this Part, the UCI Regulations or any other rule established by the UCI, then one or more of the following disciplinary measures shall be imposed: 
+**12.2.002** If a person or entity to whom this Part applies infringes the provisions of this Part, the UCI Regulations or any other rule established by the UCI, then one or more of the following disciplinary measures shall be imposed: 
 
-   - a) warning; 
+- a) warning; 
 
-   - b) reprimand; 
+- b) reprimand; 
 
-   - c) disqualification; 
+- c) disqualification; 
 
-   - d) fine; 
+- d) fine; 
 
-   - e) return of prizes, medals, etc.; 
+- e) return of prizes, medals, etc.; 
 
-   - f) suspension of activities relating to cycling; 
+- f) suspension of activities relating to cycling; 
 
-   - g) permanent ban of activities relating to cycling; 
+- g) permanent ban of activities relating to cycling; 
 
-   - h) educational measures; 
+- h) educational measures; 
 
-   - i) other disciplinary measures. 
+- i) other disciplinary measures. 
 
 #### **Determination of disciplinary measures** 
 
@@ -215,15 +215,15 @@ If an infringement has been concealed by its author in contravention of the prin
 
 #### **Attempted commission** 
 
-- **12.2.010** An attempt to commit a disciplinary infringement shall also be sanctioned by disciplinary means, but may be subject to reduced disciplinary measures. 
+**12.2.010** An attempt to commit a disciplinary infringement shall also be sanctioned by disciplinary means, but may be subject to reduced disciplinary measures. 
 
 #### **Participation** 
 
-- **12.2.011** Any person participating in a disciplinary infringement as an instigator or accomplice may also be subject to disciplinary measures. 
+**12.2.011** Any person participating in a disciplinary infringement as an instigator or accomplice may also be subject to disciplinary measures. 
 
 #### **Obligation to report** 
 
-- **12.2.012** All individuals who are subject to these regulations have the obligation to report any infringement of the regulations that has been noted to the UCI. 
+**12.2.012** All individuals who are subject to these regulations have the obligation to report any infringement of the regulations that has been noted to the UCI. 
 
 A failure of this obligation to report shall constitute an infringement. 
 
@@ -299,7 +299,7 @@ DISCIPLINE AND PROCEDURES
 
 It may be delivered by a commissaire or by the Disciplinary Commission. 
 
-### **§ 2 Reprimand** 
+- **§ 2 Reprimand** 
 
 #### **Definition** 
 
@@ -405,7 +405,7 @@ _(text modified on 4.02.21)_
 
 - **12.3.015** The suspended person or entity may not receive any financial assistance or other benefit in relation to their sporting activities for the period of suspension. 
 
-#### **Suspension and other measures in application of the Anti-Doping rules** 
+   - **Suspension and other measures in application of the Anti-Doping rules** 
 
 - **12.3.016** The periods of ineligibility and other consequences established as a result of the UCI Anti-Doping Rules are reserved. Where appropriate, a suspension imposed in application of this Part 12 shall apply outside a period of ineligibility applicable as a result of the Anti-Doping rules. 
 
@@ -443,7 +443,7 @@ _(text modified on 5.05.23)._
 
 - **12.3.021** A person may be prohibited from participating in activities that come under the jurisdiction of the UCI and/or National Federations. 
 
-### **§ 8 Educational measures** 
+   - **§ 8 Educational measures** 
 
 #### **Definition** 
 
@@ -481,7 +481,7 @@ In urgent cases or when circumstances so require, the Commission does not need t
 
 #### **Deduction of the duration of the provisional suspension** 
 
-- **12.3.027** If a suspension has been provisionally imposed, the duration of its actual application shall be deducted from any definitive suspension. 
+**12.3.027** If a suspension has been provisionally imposed, the duration of its actual application shall be deducted from any definitive suspension. 
 
 E0726 
 
@@ -507,13 +507,20 @@ DISCIPLINE AND PROCEDURES
 
 These infringements are exclusively pronounced by Commissaires. They are not subject to appeal, except fines exceeding the following amounts: 
 
-- a) Road: Column 1: fine over CHF 1,000. Column 2: fine over CHF 500. Column 3: fine over CHF 200. 
+|a) Road:|Column 1: fine over CHF 1,000.|
+|---|---|
+||Column 2: fine over CHF 500.|
+||Column 3: fine over CHF 200.|
 
 - b) Track: Column 1: fine over CHF 500. Column 2: fine over CHF 300. Column 3: fine over CHF 200. 
 
-- c) Cyclo-cross: Column 1: fine over CHF 200. Column 2: fine over CHF 100. 
+|c)<br>Cyclo-cross:|Column 1: fine over CHF 200.|
+|---|---|
+||Column 2: fine over CHF 100.|
 
-- d) Mountain Bike: Column 1: fine over CHF 200. Column 2: fine over CHF 100. 
+|d) Mountain Bike:|Column 1: fine over CHF 200.|
+|---|---|
+||Column 2: fine over CHF 100.|
 
 An appeal may be made within 10 days of notification of the decision. 
 
@@ -601,17 +608,17 @@ Any use of threatening, abusive or insulting words or behaviour, or display or p
 
 _(text modified on 5.05.23)._ 
 
-#### **Suspension of a team registered with the UCI as a result of the Anti-Doping rules** 
+- **Suspension of a team registered with the UCI as a result of the Anti-Doping rules** 
 
 - **12.4.011** The Disciplinary Commission may suspend a team in accordance with article 11.3 of the UCI Anti-Doping Rules 
 
-### **§ 3 Infringements specific to each discipline** 
+   - **§ 3 Infringements specific to each discipline** 
 
 #### **Definition** 
 
 - **12.4.012** Infringements specific to each discipline may be provided for in the other Parts of the UCI Regulations. 
 
-### **§ 4 Infringements specific to organisers** 
+   - **§ 4 Infringements specific to organisers** 
 
 #### **Principle** 
 
@@ -659,7 +666,7 @@ These rules are breached by anyone who, in particular:
 
 - f) behaves in another way that is unsporting. 
 
-#### _(text modified on 5.05.23)._ 
+_(text modified on 5.05.23)._ 
 
 E0726 
 
@@ -737,7 +744,9 @@ _(text modified on 3.06.21; 5.05.23; 2.02.24; 1.10.25; 1.07.26)._
 
 All correspondence to the Disciplinary Commission shall be sent to the Secretariat at the following address: 
 
-UCI Disciplinary Commission c/o Union Cycliste Internationale 
+UCI Disciplinary Commission 
+
+c/o Union Cycliste Internationale 
 
 E0726 
 
@@ -745,13 +754,15 @@ E0726
 
 DISCIPLINE AND PROCEDURES 
 
-#### CH-1860 Aigle <u>Disciplinary.Commission@uci.ch</u> 
+#### CH-1860 Aigle 
+
+#### <u>Disciplinary.Commission@uci.ch</u> 
 
 The Secretariat shall be responsible for sending any notifications and communications to parties on behalf of the Disciplinary Commission. Notifications and communications shall be sent to the email addresses provided by the parties. 
 
 #### **Confidentiality** 
 
-- **12.5.006** The Disciplinary Commission shall ensure that any information disclosed in respect of the procedure which is not in the public domain shall remain confidential. 
+**12.5.006** The Disciplinary Commission shall ensure that any information disclosed in respect of the procedure which is not in the public domain shall remain confidential. 
 
 All parties, as well as the Secretariat, witnesses, experts, interpreters or any other person involved in the procedure are required to respect the confidential nature of any information of which they become aware during the procedure. 
 
@@ -795,7 +806,7 @@ DISCIPLINE AND PROCEDURES
 
 - **12.5.012** If, according to a National Federation’s regulations, a licence holder does not have the option to bring an appeal regarding a decision against him, he may lodge an appeal with the UCI Disciplinary Commission if a suspension of one month or more has been imposed. This appeal must be lodged within 30 days of the communication or, failing that, of the publication of the decision taken. The Disciplinary Commission decides in the final instance. 
 
-### **§ 4 Court of Arbitration for Sport (CAS)** 
+   - **§ 4 Court of Arbitration for Sport (CAS)** 
 
 #### **Appeals** 
 
@@ -805,7 +816,7 @@ Only the UCI and the parties to the procedure may appeal the decision of the Dis
 
 #### **Time limits for appeal** 
 
-- **12.5.014** Appeals must be filed with the Court of Arbitration for Sport within 21 days of the date the appellant was notified of the appealable decision. 
+**12.5.014** Appeals must be filed with the Court of Arbitration for Sport within 21 days of the date the appellant was notified of the appealable decision. 
 
 E0726 
 
@@ -873,7 +884,7 @@ The Disciplinary Commission is free to accept or disregard a document submitted 
 
 #### **Written procedure - Hearing** 
 
-- **12.6.006** The procedure may be conducted in writing. The parties present written observations and evidence. 
+**12.6.006** The procedure may be conducted in writing. The parties present written observations and evidence. 
 
 The Disciplinary Commission may, on its own initiative or at the request of one of the parties, summon the parties to a hearing. 
 
@@ -905,7 +916,7 @@ DISCIPLINE AND PROCEDURES
 
 #### **Miscellaneous means of evidence** 
 
-**12.6.008** Infringements may be established by any reliable means of evidence. 
+- **12.6.008** Infringements may be established by any reliable means of evidence. 
 
 The means of evidence are, in particular: 
 
@@ -969,7 +980,7 @@ The Disciplinary Commission may decide to communicate the operative part of the 
 
 ### **§ 7 Procedural costs** 
 
-#### **Procedural costs in the event of the termination of the procedure without imposition of a sanction** 
+   - **Procedural costs in the event of the termination of the procedure without imposition of a sanction** 
 
 - **12.6.016** Unless otherwise decided, the UCI shall bear the costs of a procedure in the event of the termination of the procedure without the imposition of a sanction. 
 
@@ -1095,7 +1106,9 @@ An agreement by the parties may be the subject of a decision by the Arbitral Boa
 
 _(text modified on 6.04.05; 1.01.10; 1.01.16)._ 
 
-#### **Procedures Rules of Procedure of the Arbitral Board** 
+#### **Procedures** 
+
+#### **Rules of Procedure of the Arbitral Board** 
 
 #### **Composition of the panel** 
 
@@ -1163,9 +1176,7 @@ _(text modified on 1.01.10)._
 
    - vii. the plaintiff’s signature, 
 
-   - viii. a list of enclosures accompanying the petition. 
-
-      - Items i, ii, iv, v, vi and vii shall be mandatory, failing which the petition shall be invalid. 
+viii. a list of enclosures accompanying the petition. Items i, ii, iv, v, vi and vii shall be mandatory, failing which the petition shall be invalid. 
 
 _(text modified on 1.01.10)._ 
 
@@ -1225,7 +1236,7 @@ DISCIPLINE AND PROCEDURES
 
 - **12.7.026** Each party shall be entitled to be represented by a lawyer or another person of its choice. The representative shall give proof of his authorisation in writing upon request. 
 
-Each party shall be heard as well as any witnesses and experts summoned. 
+   - Each party shall be heard as well as any witnesses and experts summoned. 
 
 _(text modified on 1.01.10)._ 
 
@@ -1239,7 +1250,7 @@ _(text modified on 1.01.10)._
 
 - **12.7.028** The decision shall be rendered as soon as possible after the conclusion of discussions and shall be adopted by a majority vote. 
 
-   - The decision shall mention the identity of the members who took part in the deliberations. 
+The decision shall mention the identity of the members who took part in the deliberations. 
 
 The original of the decision shall be signed by the President of the panel. 
 
@@ -1261,7 +1272,7 @@ _(text modified on 1.01.10)._
 
 #### **Procedural language** 
 
-- **12.7.033** The petition shall be drafted in French or English. The language of the petition shall be the language of the procedure, unless otherwise agreed by the parties or by a decision 
+**12.7.033** The petition shall be drafted in French or English. The language of the petition shall be the language of the procedure, unless otherwise agreed by the parties or by a decision 
 
 E0726 
 

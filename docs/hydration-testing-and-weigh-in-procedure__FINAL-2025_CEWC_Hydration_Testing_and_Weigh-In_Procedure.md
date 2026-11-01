@@ -4,11 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2J7pd7f9f5jkhVNP7hyTfH/783
 source_sha256: a7e1bc7f14738413d8712063c6d473e88292b1f1ca1f787e773e4cc244627641
 converter: pymupdf4llm
 ---
+
 ![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0001-00.png)
 
-## **Hydration Testing and Weigh-In Procedure** 
+# **Hydration Testing and Weigh-In Procedure** 
 
-## **2025 UCI Cycling Esports World Championships** 
+### **2025 UCI Cycling Esports World Championships** 
 
 ## **Introduction** 
 
@@ -34,9 +35,7 @@ The procedure sets out the requirements for participation in the 2025 UCI Cyclin
 
 Page **1** / **3** 
 
-Allée Ferdi Kübler 12 1860 Aigle Switzerland 
-
-T: +41 24 468 58 11 E: admin@uci.ch 
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 ![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0002-00.png)
 
@@ -44,11 +43,11 @@ A weigh-in cannot be completed and is not valid until the athlete passes the hyd
 
 Weigh-ins will be conducted using a calibrated digital scale on a hard, flat surface. Riders will weigh in privately, with appropriate clothing to ensure accuracy (cycling shorts, jersey, and socks, no shoes). A set of identical model scales will be used for all weigh-ins to maintain consistency and checked for consistency. 
 
-## **Below is the tentative schedule and procedure for weigh-ins:** 
+**Below is the tentative schedule and procedure for weigh-ins:** 
 
-## **Thursday 13 November** 
+#### **Thursday 13 November** 
 
-## **Rider Information Seminar** 
+#### **Rider Information Seminar** 
 
 **Details:** All riders will be required to attend a mandatory rider information seminar, which will take place on Thursday, November 13, 2025, at a time to be confirmed by the UCI. The session is designed to ensure that every athlete understands the health and safety principles underlying the weigh-in and hydration procedure. 
 
@@ -68,11 +67,13 @@ Riders will be given access to voluntary hydration testing ahead of the race day
 
 Page **2** / **3** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
+Allée Ferdi Kübler 12 1860 Aigle Switzerland 
+
+T: +41 24 468 58 11 E: admin@uci.ch 
 
 ![](images/FINAL-2025_CEWC_Hydration_Testing_and_Weigh-In_Procedure.pdf-0003-00.png)
 
-## **Saturday 15 November Hydration Test & Race Weigh-In** 
+#### **Saturday 15 November Hydration Test & Race Weigh-In** 
 
 **Details:** All athletes must check in ~4 hours prior to race start for weigh-in at the time and place indicated in the technical guide for the Championships. Each athlete completes the hydration test. If urine specific gravity < 1.020 (pass), the athlete proceeds immediately to an official pre-race weigh-in. The rider’s weight is measured and entered into the in-game athlete profile. 
 
@@ -96,4 +97,8 @@ In case of any disputes, the Commissaire will review the request, and may allow 
 
 Page **3** / **3** 
 
-Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland
+Allée Ferdi Kübler 12 1860 Aigle Switzerland 
+
+T: +41 24 468 58 11 
+
+E: admin@uci.ch

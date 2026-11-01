@@ -123,37 +123,37 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
    - A. Olympic Games <del>(OG);</del> 
 
-   - B. UCI BMX Racing World Championships <del>(CM)</del>: 
+B. UCI BMX Racing World Championships <del>(CM)</del>: 
 
-      - No other international BMX Racing competition may be organised on the same dates or on the weekend prior to the starting date of <del>as</del> the UCI BMX Racing World Championships, Challenge and Masters. <del>No international BMX Racing Hors Class, Class 1, Class 2 competition or Continental Championships may be organised on the weekend prior to the starting date of the UCI BMX Racing World Championships</del>, <del>Challenge and Masters.</del> 
+   - No other international BMX Racing competition may be organised on the same dates or on the weekend prior to the starting date of <del>as</del> the UCI BMX Racing World Championships, Challenge and Masters. <del>No international BMX Racing Hors Class, Class 1, Class 2 competition or Continental Championships may be organised on the weekend prior to the starting date of the UCI BMX Racing World Championships</del>, <del>Challenge and Masters.</del> 
 
-   - C. UCI BMX Racing World Cup <del>(CDM):</del> 
+- C. UCI BMX Racing World Cup <del>(CDM):</del> 
 
-      - No other international BMX Racing competition may be organised on the same dates as a UCI BMX Racing World Cup round. 
+   - No other international BMX Racing competition may be organised on the same dates as a UCI BMX Racing World Cup round. 
 
-   - D. Continental Championships <del>(CC):</del> 
+- D. Continental Championships <del>(CC):</del> 
 
-      - No other BMX Racing Hors Class, Class 1, Class 2, Regional Games competition or National Championships on the same continent during the Continental Championships date may be organised. 
+   - No other BMX Racing Hors Class, Class 1, Class 2, Regional Games competition or National Championships on the same continent during the Continental Championships date may be organised. 
 
-      - Continental Championships are regulated in accordance with Part X of the UCI Regulations, “Continental Championships and Regional Games”. Additionally, the Continental Confederation shall provide the bid procedure to each country in enough time for the countries to submit bids to host the Continental Championships. The bid procedure shall be available, at least, in either English or French. 
+   - Continental Championships are regulated in accordance with Part X of the UCI Regulations, “Continental Championships and Regional Games”. Additionally, the Continental Confederation shall provide the bid procedure to each country in enough time for the countries to submit bids to host the Continental Championships. The bid procedure shall be available, at least, in either English or French. 
 
-   - E. <del>International Competition</del> Hors Class international competition <del>(HC):</del> 
+- E. <del>International Competition</del> Hors Class international competition <del>(HC):</del> 
 
-      - No other BMX Racing Class 1, Class 2 competition or National Championships may be organised on the same date as a BMX Racing Hors Class competition on the same continent. 
+   - No other BMX Racing Class 1, Class 2 competition or National Championships may be organised on the same date as a BMX Racing Hors Class competition on the same continent. 
 
-      - Competitions registered on the UCI <del>International</del> BMX Racing International Calendar for the first time (new organiser, new venue, or both) are not eligible for Hors Class status. 
+   - Competitions registered on the UCI <del>International</del> BMX Racing International Calendar for the first time (new organiser, new venue, or both) are not eligible for Hors Class status. 
 
-      - The Continental Confederation must propose or otherwise approve all Hors Class competitions to be held within the continent concerned. 
+   - The Continental Confederation must propose or otherwise approve all Hors Class competitions to be held within the continent concerned. 
 
-      - A maximum of six Hors Class competitions may be registered in any continent in each season. 
+   - A maximum of six Hors Class competitions may be registered in any continent in each season. 
 
-      - In order to be awarded Hors Class status, the competition must have had sufficient numbers of riders entered in the Men Elite category in the season before the application for Hors Class status such that at least semi-finals were held. 
+   - In order to be awarded Hors Class status, the competition must have had sufficient numbers of riders entered in the Men Elite category in the season before the application for Hors Class status such that at least semi-finals were held. 
 
-      - For avoidance of doubt, Hors Class competitions are open to license holders of all nationalities. 
+   - For avoidance of doubt, Hors Class competitions are open to license holders of all nationalities. 
 
-   - F. <del>International Competition</del> Class 1 international competitio <del>n (C1)</del>: 
+- F. <del>International Competition</del> Class 1 international competitio <del>n (C1)</del>: 
 
-      - No BMX Racing National Championships may be organised on the same date as a BMX Racing Class 1 competition on the same continent. 
+   - No BMX Racing National Championships may be organised on the same date as a BMX Racing Class 1 competition on the same continent. 
 
 Page **5** / **7** 
 
@@ -191,9 +191,11 @@ _(text modified on 01.01.19; 01.01.26; 01.01.27)_
 
 The title of “UCI BMX Racing World Challenge Winner” does not entitle the holder to in any way represent themselves as a “BMX Racing World Champion”, nor to use a replica of the World Champion’s jersey, nor to in any way incorporate the rainbow colours into his clothing or equipment. The title of “BMX Racing World Champion” is reserved for the winners of the UCI BMX Racing World Championships, which is open only to riders in the championship categories. 
 
-T: +41 24 468 58 11 Page **6** / **7** E: admin@uci.ch 
+Page **6** / **7** 
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
+
+T: +41 24 468 58 11 E: admin@uci.ch 
 
 ![](images/BMX_Racing_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0007-00.png)
 

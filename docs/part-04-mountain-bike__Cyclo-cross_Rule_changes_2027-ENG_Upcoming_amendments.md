@@ -4,23 +4,26 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4j05LGT7utAvK9EjXMPogW/18d
 source_sha256: c52549fa0338f24f5a1fc57fd15d865c9d3e1ce156efecd917638f511ff1e719
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0001-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 01.07.2026 
 
-## **PART IV CYCLO-CROSS Rules amendments applying on 01.07.2027** 
+## **PART IV CYCLO-CROSS** 
 
-## **Chapter I CYCLO-CROSS COMPETITIONS** 
+**Rules amendments applying on 01.07.2027** 
 
-## **Participation** 
+### **Chapter I CYCLO-CROSS COMPETITIONS** 
 
-## **5.1.001** […] 
+#### **Participation** 
 
-## Women 
+**5.1.001** […] 
+
+#### <u>Women</u> 
 
 The category women junior shall comprise riders aged 17 to 18. The category women under 23 shall comprise riders aged 19 to 22. The category women elite shall comprise riders of 23 and above. 
 
@@ -28,15 +31,17 @@ Except when separate category races are organised, <del>women junior,</del> wome
 
 <del>Women junior riders cannot race with women elite during the following events:</del> 
 
-<del>- UCI cyclo-cross world championships;</del> 
+- <del>UCI cyclo-cross world championships;</del> 
 
-<del>- UCI cyclo-cross world cup events, when those include a separate women junior race;</del> 
+- <del>UCI cyclo-cross world cup events, when those include a separate women junior race;</del> 
 
-<del>- continental and national championships, at the discretion of continental confederations or respectively national federations.</del> 
+- <del>continental and national championships, at the discretion of continental confederations or respectively national federations.</del> 
 
 <del>In all other events, women junior can ride in the race for women elite, even if a separate race is being run for women junior</del>. 
 
-Women under 23 riders cannot compete with women elite during the following competitions: - UCI cyclo-cross world championships; 
+Women under 23 riders cannot compete with women elite during the following competitions: 
+
+- UCI cyclo-cross world championships; 
 
 - continental and national championships, at the discretion of continental confederations or respectively national federations. 
 
@@ -60,13 +65,13 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0002-00.png)
 
-## […]. 
+[…]. 
 
 _(text modified on 01.09.99; 01.09.04; 01.09.06; 01.09.08; 16.06.14; 01.07.15; 07.06.16; 28.01.17; 26.06.18; 21.06.19; 12.06.20; 10.06.21; 01.07.22; 01.07.27)_ 
 
-## **Calendar** 
+#### **Calendar** 
 
-## **5.1.004** […] 
+#### **5.1.004** […] 
 
 For all cyclo-cross competitions registered on the international calendar in class 1 or class 2, the organiser must organise a men junior race, a women junior race, a women elite race and a men elite race. A derogation for the mandatory organisation of the men junior and women junior races may be granted by the UCI if the event is not organised on a Saturday or a Sunday. 
 
@@ -78,23 +83,19 @@ A separate men under 23 race can be organised during UCI cyclo-cross world champ
 
 A separate women under 23 race can be organised only during UCI cyclo-cross world championships, continental championships and national championships. 
 
-## […] 
+[…] 
 
 _(article introduced on 01.09.06; text modified on 01.09.08; 01.07.11; 07.06.16, 21.06.19; 12.06.20; 01.07.22; 01.03.24; 01.07.27)_ 
 
-## **Start order** 
+#### **Start order** 
 
 **5.1.043** The start order of races is determined as follows: 
 
-A. UCI cyclo-cross world championships and UCI cyclo-cross world cup 
+A. UCI cyclo-cross world championships and UCI cyclo-cross world cup […] 
 
-[…] 
+B. Continental championships and other competitions […] 
 
-B. Continental championships and other competitions 
-
-[…] 
-
-C. <del>Women junior,</del> Women under 23 and men under 23 races The points A and B of this article fully apply, taking into account: 
+C. <del><u>Women junior,</u></del> <u>Women under 23 and men under 23 races</u> The points A and B of this article fully apply, taking into account: 
 
 Page **2** / **5** 
 
@@ -104,15 +105,15 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0003-00.png)
 
-<del>- for the women junior races, the UCI cyclo-cross individual ranking of the women category;</del> - for the women under 23 races, the UCI cyclo-cross individual ranking of the women elite category; 
+- <del>for the women junior races, the UCI cyclo-cross individual ranking of the women category;</del> - for the women under 23 races, the UCI cyclo-cross individual ranking of the women elite category; 
 
 - for the men under 23 races, the UCI cyclo-cross world cup overall standings of the men under 23 category in the case A and the UCI cyclo-cross individual ranking of the men elite category for other cases. 
 
-## […] 
+[…] 
 
 _(text modified on 01.09.99; 01.10.02; 01.09.03; 01.09.04; 01.02.07; 26.06.07; 01.09.08; 01.07.09; 01.07.10; 16.06.14; 01.07.15; 21.06.19; 12.06.20; 01.03.24; 01.07.27)_ 
 
-## **Duration of events** 
+#### **Duration of events** 
 
 **5.1.048** The duration of races must be as close as possible to: 
 
@@ -134,7 +135,7 @@ The number of laps will be calculated and announced at the end of the second lap
 
 _(text modified on 01.09.01; 01.09.06; 16.06.14; 01.07.15; 07.06.16; 28.06.17; 21.06.19; 12.06.20; 10.06.21; 01.07.27)_ 
 
-## **Order of races** 
+#### **Order of races** 
 
 **5.1.048** For all competitions scheduled the same day, the order of events must be as follows: 
 
@@ -162,7 +163,7 @@ T: +41 24 468 58 11 E: admin@uci.ch
 
 ![](images/Cyclo-cross_Rule_changes_2027-ENG_Upcoming_amendments.pdf-0004-00.png)
 
-## **Chapter II  UCI CYCLO-CROSS RANKING** 
+### **Chapter II  UCI CYCLO-CROSS RANKING** 
 
 - **5.2.001** The UCI shall draw up an annual individual ranking of riders who take part in international cyclo-cross events: 
 
@@ -194,7 +195,9 @@ In case of riders having an equal number of points in the ranking, riders are ra
 
 6. class 2 events; 
 
-7. races in the men under 23 <del>and men junior race</del> of the class 1 or class 2 events. If the tie still persists, the most recent result will be considered in group 2., then in group 3., and so on. 
+7. races in the men under 23 <del>and men junior race</del> of the class 1 or class 2 events. 
+
+If the tie still persists, the most recent result will be considered in group 2., then in group 3., and so on. 
 
 As from the first calculated ranking of the season, the <del>men j</del> unior riders who change category to under 23 category will keep only the UCI points won during the <del>men j</del> unior UCI Cyclo-cross world championships. 
 

@@ -4,19 +4,20 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/74UKd7z0ehMkAjmAXzqOIQ/94f
 source_sha256: aed0da8892df8c27c3f333cc20aa88cebd14e1327ae84d3c0c020e824dc7640f
 converter: pymupdf4llm
 ---
+
 ![](images/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_1.11.2025.pdf-0001-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 01.10.2025 
 
-## **PART 12 DISCIPLINE AND PROCEDURES Rules amendments applying on 1.11.2025** 
+**PART 12 DISCIPLINE AND PROCEDURES Rules amendments applying on 1.11.2025** 
 
 ## **Chapter III DISCIPLINARY MEASURES** 
 
-   - **§ 3 Disqualification** 
+### **§ 3 Disqualification** 
 
-- **12.3.004** The disqualification of a rider or team shall invalidate all results and classifications achieved in the events in question and the forfeiture of all related prizes, points and medals. 
+**12.3.004** The disqualification of a rider or team shall invalidate all results and classifications achieved in the events in question and the forfeiture of all related prizes, points and medals. 
 
 Unless expressly stated otherwise, the placing of a disqualified rider or team shall be taken by the next rider or team in the classification, such that all placings are always occupied. As an exception, in a multiphase event which involves the direct competition of two or more riders or teams, a rider or team shall not take the place of a disqualified rider or team if direct competition has not taken place between them in the last phase. 
 

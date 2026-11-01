@@ -4,13 +4,14 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/dd3
 source_sha256: eb04425e201b023e86c5ad1219b601b5595f92f85c48b52e3c0dbf6c0a5c46a9
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0001-00.png)
 
-## **CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION** 
+# **<mark>CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION</mark>** 
 
-## _As from 01.04.2024_ 
+_<u>As from 01.04.2024</u>_ 
 
 As the summit organization of world cycle sport, the International Cycling Union (UCI) is the guarantor of the proper application of ethical and sporting regulations. 
 
@@ -18,25 +19,25 @@ The UCI Regulations assert the primacy of man over machine. Observance of the re
 
 This document does not replace Articles 1.3.001 to 1.3.034 of the UCI Regulations, but rather complements them and illustrates the technical rules defined therein. The objective of this document is to offer a definitive interpretation in order to facilitate understanding and application of the Regulations by international commissaires, teams and manufacturers. 
 
-This practical guide applies to equipment used in road, track and cyclo-cross events. Each discipline has its own technical characteristics and each may have variants depending on the type of event. 
+This practical guide applies to <u>equipment</u> used in road, track and cyclo-cross events. Each discipline has its own technical characteristics and each may have variants depending on the type of event. 
 
 The UCI equipment Unit may be contacted by anyone seeking information on the technical regulations. The technical regulations can be consulted on the UCI website under the "Rules" heading. Further details on the approval procedures for frames, forks and wheels are also available on the UCI website under the "equipment" heading. 
 
-## **DEFINITIONS** 
+### **<mark>DEFINITIONS</mark>** 
 
-## **B** 
+#### **B** 
 
 - **BAR END PLUGS** – a handlebar accessory that exclusively covers open ends of the handlebar / extensions / base bar. 
 
 - **BASE BAR** – a steering assembly with a grip position allowing for an aerodynamic posture. 
 
-- **BESPOKE** equipment – any product that belongs to a brand and a model range and offers customisation features around the adaptation of the equipment. 
+- **BESPOKE** <u>equipment – any product that belongs to a brand and a model range and</u> offers customisation features around the adaptation of the equipment. 
 
 - **BICYCLE** - a vehicle with two wheels of equal diameter. The front wheel shall be steerable; the rear wheel shall be driven through a system comprising pedals and a chain. Exceptions to this rule may exist for certain cycling disciplines, in which case specific rules are provided for in the respective discipline. 
 
 - **BOTTLE CAGE** – an add-on accessory used to affix a water bottle to a bicycle. 
 
-## **C** 
+- **C** 
 
 - **CYCLING COMPUTER MOUNT** – an accessory that is designed solely for the secure installation of a cycling computer. 
 
@@ -46,27 +47,27 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0002-01.png)
 
-## **E** 
+- **E** 
 
 - **EQUIPMENT** – any product a rider will use in the UCI sanctioned event including but not limited to clothing, safety equipment and bicycles. 
 
-## **F** 
+- **F** 
 
-- **FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR** – a steering assembly secured to the handlebar or the base bar to improve the rider’s aerodynamic posture. 
+- **FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR** – a steering assembly secured to the handlebar or the <u>base bar</u> to improve the rider’s aerodynamic posture. 
 
 - **FOREARM SUPPORT** – a component of the fixed additional time trial extension handlebar that provides an additional point of support. 
 
-## **H** 
+- **H** 
 
-- **HANDLEBAR COCKPIT** – a combination of the handlebars or the base bar with the fixed additional time trial extension handlebar, stem plus any accessories (controls, levers, etc. and all their mounting accessories). 
+- **HANDLEBAR COCKPIT** – a combination of the handlebars or the <u>base bar with the</u> fixed additional time trial extension handlebar, stem plus any accessories (controls, levers, etc. and all their mounting accessories). 
 
 - **HANDLEBAR GRIP** – an accessory designed to provide padding and vibration damping to ensure a proper grip between the hands and the handlebars. 
 
-## **M** 
+- **M** 
 
 - **MAXIMUM / MINIMUM DIMENSION OF THE CROSS SECTION** - the largest and smallest dimensions of tube sections respectively, i.e. the maximum and minimum dimensions authorised in any direction. 
 
-## **R** 
+#### **R** 
 
 - **RECTANGULAR BOX:** The sides of the box are named as follows: 
 
@@ -74,11 +75,11 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 - **REFERENCE PLANE** - a nominally horizontal plane. 
 
-## **S** 
+- **S** 
 
 - **STEM** - a component on a bicycle that connects the handlebars to the steerer tube of the bicycle fork. 
 
-## **T** 
+#### **T** 
 
 - **TRADITIONAL HANDLEBARS (commonly referred to as a Drop Handlebars)** - a steering assembly with multiple grip positions allowing for an aerodynamic posture. The handles of the traditional handlebars are bent below the rest of the bar. 
 
@@ -88,31 +89,31 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0003-01.png)
 
-## Section 1: general provisions 
+## <u>Section 1: general provisions</u> 
 
 ## § 1 Principles 
 
-## **ARTICLE 1.3.001** 
+### **<mark>ARTICLE 1.3.001</mark>** 
 
-_“Each licence holder shall ensure that his equipment (bicycle with accessories and other devices fitted, headgear, clothing, etc.) does not, by virtue of its quality, materials or design, constitute any danger to himself or to others._ 
+_<mark>“Each licence holder shall ensure that his</mark>_ _<u><mark>equipment</mark></u>_ _<mark>(bicycle with accessories and other devices fitted, headgear, clothing, etc.) does not, by virtue of its quality, materials or design, constitute any danger to himself or to others.</mark>_ 
 
 The licence holder is responsible for his or her equipment and for ensuring its compliance with the regulations. The licence holder must thus have knowledge of the technical regulations to be able to apply them to the bicycle, accessories and clothing. The objective of the approval procedures put in place by the UCI is to assist licence holders in this task. 
 
-The bicycle must be designed and constructed to the highest professional standards in accordance with official quality and safety standards in a manner that respects the UCI's technical regulations, allowing the rider to adopt, without difficulty or risk, the required positions (support points, withdrawn saddle position, hands on the handlebars, position of handlebar extensions, etc.). 
+The <u>bicycle</u> must be designed and constructed to the highest professional standards in accordance with official quality and safety standards in a manner that respects the UCI's technical regulations, allowing the rider to adopt, without difficulty or risk, the required positions (support points, withdrawn saddle position, hands on the handlebars, position of handlebar extensions, etc.). 
 
-## **ARTICLE 1.3.001 BIS** 
+### **<mark>ARTICLE 1.3.001 BIS</mark>** 
 
-_“Each licence holder shall ensure that the_ equipment _he uses on the occasion of road, track or cyclo-cross events shall be approved by the UCI according to the specifications of the Approval Protocols in force and available on the UCI Website.”_ 
+_<mark>“Each licence holder shall ensure that the</mark>_ <u><mark>equipment</mark></u> _<mark>he uses on the occasion of road, track or cyclo-cross events shall be approved by the UCI according to the specifications of the Approval Protocols in force and available on the UCI Website.”</mark>_ 
 
 The UCI put at disposal on the UCI website the list of homologated Road, Time-Trial, Cyclocross, Track framesets (frame, fork, seat post and the frame components between the head tube and the handlebar stem) as well as the Cyclo-cross and road wheels under the "equipment" heading. For any item of equipment that is subject to an approval procedure to be used in competition, it must be approved in advance by the UCI with details published on the website. The other material items don’t need to be homologated but must respect article 1.3.006 obligations. 
 
-## **ARTICLE 1.3.002** 
+### **<mark>ARTICLE 1.3.002</mark>** 
 
-_“The UCI shall not be liable for any consequences deriving from the choice of the equipment used by licence holders, nor for any defects it may have or its non-compliance. Equipment used must meet all relevant ISO quality and safety requirements_ <del>_for bicycles_</del> _(as referenced for illustration purposes in the Clarification Guide published on the UCI website) as well as any other standards applicable in the country of the event.”_ 
+_<mark>“The UCI shall not be liable for any consequences deriving from the choice of the equipment used by licence holders, nor for any defects it may have or its non-compliance.</mark>_ _<u><mark>Equipment</mark></u>_ _<mark>used must meet all relevant ISO quality and safety requirements</mark>_ _<del><mark>for bicycles</mark></del>_ _<mark>(as referenced for illustration purposes in the Clarification Guide published on the UCI website) as well as any other standards applicable in the country of the event.”</mark>_ 
 
-_“The licence-holder shall use the_ equipment _which is certified and compliant with quality and safety standards as provided by the manufacturer, without any modification whatsoever. The licence-holder shall be entirely and exclusively liable for any modification made to the_ equipment _, in particular in the event of an incident, and may be subject to disciplinary sanctions in accordance with the UCI Regulations.”_ 
+_<mark>“The licence-holder shall use the</mark>_ <u><mark>equipment</mark></u> _<mark>which is certified and compliant with quality and safety standards as provided by the manufacturer, without any modification whatsoever. The licence-holder shall be entirely and exclusively liable for any modification made to the</mark>_ <u><mark>equipment</mark></u> _<u><mark>, in particular in the event of an incident, and may be subject to disciplinary</mark></u>_ _<mark>sanctions in accordance with the UCI Regulations.”</mark>_ 
 
-_Updated on 01.01.19; 01.01.24_ 
+_<mark>Updated on 01.01.19; 01.01.24</mark>_ 
 
 3 
 
@@ -120,19 +121,19 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0004-01.png)
 
-It is essential that the equipment used in competition meets the prevailing quality and safety standards for bicycles. Mechanics and riders should also be aware of the ISO 4210 Standard on safety that applies to cycling equipment. They should refer to this Standard before modifying or adjusting any bicycle component. From 2019, all the framesets submitted to the UCI for approval will have to join a certification confirming the compliance with the ISO 4210 security norm. The certification template is available in the section « equipment » of the UCI website. 
+It is essential that the equipment used in competition meets the prevailing quality and safety standards for bicycles. Mechanics and riders should also be aware of the ISO 4210 Standard on safety that applies to cycling <u>equipment. They should refer to this Standard before</u> modifying or adjusting any bicycle component. From 2019, all the framesets submitted to the UCI for approval will have to join a certification confirming the compliance with the ISO 4210 security norm. The certification template is available in the section « equipment » of the UCI website. 
 
-Modifying equipment used in competition in relation to products supplied by the manufacturer is prohibited for obvious safety reasons. Whether it is a matter of modifying the length of the saddle, adapting approved wheels, filing off fork drop-out safety lugs or meeting the 1 cm rule by adding tape. No modification of equipment that is not conducted by the manufacturer is authorized by the UCI without prior approval. 
+Modifying <u>equipment</u> used in competition in relation to products supplied by the manufacturer is prohibited for obvious safety reasons. Whether it is a matter of modifying the length of the saddle, adapting approved wheels, filing off fork drop-out safety lugs or meeting the 1 cm rule by adding tape. No modification of equipment that is not conducted by the manufacturer is authorized by the UCI without prior approval. 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0004-04.png)
 
-_Figure 1: Examples of the prohibited modification of equipment (addition of tape, filing off fork drop-out safety lugs)_ 
+_Figure 1: Examples of the prohibited modification of_ _<u>equipment</u> (addition of tape, filing off fork drop-out safety lugs)_ 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0004-06.png)
 
 _Figure 2: Example of the prohibited modification of equipment (the carbon cover added to the chainring_ 
 
-The addition of handlebar tape to improve a rider's grip and any addition of adhesive tape to maintain, avoid abrasion, provide visual continuity or any other function is authorized in condition when it does not constitute an excrescence or enlarges the general shape of equipment. 
+The addition of handlebar tape to improve a rider's grip and any addition of adhesive tape to maintain, avoid abrasion, provide visual continuity or any other function is authorized in condition when it does not constitute an excrescence or enlarges the general shape of <u>equipment.</u> 
 
 4 
 
@@ -146,13 +147,15 @@ _Figure 3: Example of application the adhesive tape on the Time Trial disc wheel
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0005-04.png)
 
-_Figure 4: Illustration of the addition of the adhesive tape to cover bolts access_ **ARTICLE 1.3.003** 
+_Figure 4: Illustration of the addition of the adhesive tape to cover bolts access_ 
 
-_“In no event shall the fact that a rider has been able to take part in the competition give rise to liability on the part of the UCI; checks on equipment that may be carried out by the commissaires or by an agent or a body of the UCI being limited to compliance with purely sporting and technical requirements. Where required, checks on equipment and material may be carried out, before, during or after the race, at the request of the president of the commissaires’ panel, or that of an agent or body of the UCI._ 
+### **<mark>ARTICLE 1.3.003</mark>** 
 
-_For that purpose, the commissaire and the UCI can seize equipment for a subsequent check, if necessary before, during or after the race, irrespective of whether the equipment was used during the competition._ 
+_<mark>“In no event shall the fact that a rider has been able to take part in the competition give rise to liability on the part of the UCI; checks on</mark>_ _<u><mark>equipment</mark></u>_ _<mark>that may be carried out by the commissaires or by an agent or a body of the UCI being limited to compliance with purely sporting and technical requirements. Where required, checks on</mark>_ _<u><mark>equipment and material</mark></u>_ _<mark>may be carried out, before, during or after the race, at the request of the president of the</mark> commissaires’ panel, or that of an agent or body of the UCI._ 
 
-_If the seized equipment is found not to comply with the requirements of the UCI Regulations, the UCI may retain such item of equipment until the conclusion of any related disciplinary proceedings.”_ 
+_<mark>For that purpose, the commissaire and the UCI can seize equipment for a subsequent check, if necessary before, during or after the race, irrespective of whether the equipment was used during the competition.</mark>_ 
+
+_<mark>If the seized equipment is found not to comply with the requirements of the UCI Regulations, the UCI may retain such item of</mark>_ _<u><mark>equipment</mark></u>_ _<mark>until the conclusion of any related disciplinary</mark>_ _<u><mark>proceedings.”</mark></u>_ 
 
 5 
 
@@ -160,33 +163,33 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0006-01.png)
 
-## **ARTICLE 1.3.003 BIS** 
+### **<mark>ARTICLE 1.3.003 BIS</mark>** 
 
-_“Evading, refusing or failing to allow or enable a commissaire or other competent body to conduct an equipment check shall be sanctioned as follows:_ 
+_<mark>“Evading, refusing or failing to allow or enable a commissaire or other competent body to</mark> conduct an equipment check shall be sanctioned as follows:_ 
 
-_Rider or other team member: suspension of between one month and one year and/or a fine of between CHF 1’000.- and CHF 100’000.-_ 
+_<mark>Rider or other team member: suspension of between one month and one year and/or a fine</mark> of between CHF 1’000.- and CHF 100’000.-_ 
 
-_Team: suspension of between one and six months and/or a fine between CHF 5’000 and CHF 100’000”_ 
+_<mark>Team: suspension of between one and six months and/or a fine between CHF 5’000 and CHF 100’000”</mark>_ 
 
 ## § 2 Technical innovations 
 
-## **ARTICLE 1.3.004** 
+### **<mark>ARTICLE 1.3.004</mark>** 
 
-_“Except in mountain bike racing, no technical innovation regarding anything used, worn or carried by any rider or license holder during a competition (bicycles,_ equipment _mounted on them, accessories, helmets, clothing, means of communication telemetry, device, sensors, etc.) may be used until approved by the UCI. Requests for approval shall be submitted to the UCI, accompanied by all necessary documentation._ 
+_<mark>“Except in mountain bike racing, no technical innovation regarding anything used, worn or carried by any rider or license holder during a competition (bicycles,</mark>_ <u><mark>equipment</mark></u> _<mark>mounted on them, accessories, helmets, clothing, means of communication telemetry, device, sensors, etc.) may be used until approved by the UCI. Requests for approval shall be submitted to the</mark> UCI, accompanied by all necessary documentation._ 
 
-_All associated examination costs are to be paid by the applicant and are determined by the UCI Management Committee according to the complexity of the submitted technical innovation._ 
+_<mark>All associated examination costs are to be paid by the applicant and are determined by the UCI Management Committee according to the complexity of the submitted technical</mark> innovation._ 
 
-_The UCI will study the application of the technical innovation from a sporting and technical point of view and respond within 6 months from the date of submission of a complete file, including the application, all relevant exhibits and any additional documents requested by the UCI. The innovation comes into force as from the acceptance date._ 
+_<mark>The UCI will study the application of the technical innovation from a sporting and technical point of view and respond within 6 months from the date of submission of a complete file, including the application, all relevant exhibits and any additional documents requested by</mark> the UCI. The innovation comes into force as from the acceptance date._ 
 
-_There is no technical innovation in the sense of the present article if the innovation entirely falls within the specifications foreseen in the regulations.”_ 
+_<mark>There is no technical innovation in the sense of the present article if the innovation entirely</mark>_ _<u><mark>falls within the specifications foreseen in the regulations.”</mark></u>_ 
 
-Technical innovations must be submitted to the UCI in advance and approved by the equipment Commission before they can be used in competition. 
+Technical innovations must be submitted to the UCI in advance and approved by the <u>equipment</u> Commission before they can be used in competition. 
 
-A technical innovation is defined as a new system, device or item of equipment that allows an improvement of a rider’s performance, adds new functions to the bicycle, modifies the bicycle’s general appearance or affects any other aspect of the UCI regulations. 
+A technical innovation is defined as a new system, device or item of equipment that allows an improvement of a rider’s performance, adds new functions to the <u>bicycle, modifies the bicycle’s general appearance or affects any other aspect of the UCI regulations.</u> 
 
-If there is any doubt, it is preferable to present new equipment to the UCI which will determine whether it is a matter of a technical innovation or not. New equipment will be carefully studied by experts in order to evaluate the benefits and how such equipment could improve cycle sport as well as assessing the risks and any potential divergence from the regulations. The most appropriate decision will then be taken in the interest of the sport. 
+If there is any doubt, it is preferable to present new <u>equipment</u> to the UCI which will determine whether it is a matter of a technical innovation or not. New <u>equipment will be</u> carefully studied by experts in order to evaluate the benefits and how such equipment could improve cycle sport as well as assessing the risks and any potential divergence from the regulations. The most appropriate decision will then be taken in the interest of the sport. 
 
-**ARTICLE 1.3.005** 
+**<mark>ARTICLE 1.3.005</mark>** 
 
 6 
 
@@ -194,13 +197,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0007-01.png)
 
-_“If at the start of a competition or stage the commissaires' panel considers that a rider arrives with a technical innovation or an_ equipment _not yet accepted by the UCI, it shall refuse to permit the rider to start with such an innovation._ 
+_<mark>“If at the start of a competition or stage the commissaires' panel considers that a rider arrives with a technical innovation or an</mark>_ <u><mark>equipment</mark></u> _<mark>not yet accepted by the UCI, it shall</mark> refuse to permit the rider to start with such an innovation._ 
 
-_In the event of use in competition, the rider shall automatically be expelled from the competition or disqualified. There shall be no right to appeal against the decision of the commissaire's panel._ 
+_<mark>In the event of use in competition, the rider shall automatically be expelled from the competition or disqualified. There shall be no right to appeal against the decision of the commissaire's panel.</mark>_ 
 
-_If this technical innovation or the_ equipment _not yet accepted by the UCI are not noticed or sanctioned by the commissaire's panel, the UCI disciplinary commission shall order the disqualification. The UCI shall refer to the disciplinary commission, either automatically or at the request of all interested. The disciplinary commission will only apply sanctions after having received the opinion of the_ equipment _commission._ 
+_<mark>If this technical innovation or the</mark>_ <u><mark>equipment</mark></u> _<mark>not yet accepted by the UCI are not noticed or sanctioned by the commissaire's panel, the UCI disciplinary commission shall order the disqualification. The UCI shall refer to the disciplinary commission, either automatically or at the request of all interested. The disciplinary commission will only apply sanctions after having received the opinion of the</mark>_ <u><mark>equipment</mark></u> _<mark>commission.</mark>_ 
 
-_In out of competition situations, the UCI shall decide whether an item should be considered a technical innovation and whether the procedure provided for in article 1.3.004 is to be followed.”_ 
+_In out of competition situations, the UCI shall decide whether an item should be considered a_ _<mark>technical innovation and whether the procedure provided for in article 1.3.004 is to be</mark>_ _<u><mark>followed.”</mark></u>_ 
 
 There are 3 different possibilities to sanction the use of a technical innovation in competition that was not approved by the UCI first: 
 
@@ -214,13 +217,13 @@ During the events, the commissaire's panel make the decision to determine if an 
 
 ## § 3 Commercialisation 
 
-## **ARTICLE 1.3.006** 
+### **<mark>ARTICLE 1.3.006</mark>** 
 
-_“_ Equipment _shall be of a type that is sold for use by anyone practicing cycling as a sport._ 
+_“_ <u>Equipment</u> _shall be of a type that is sold for use by anyone practicing cycling as a sport._ 
 
-_Any_ equipment _in development phase and not yet available for sale (prototype) must be subject of an authorization request to the UCI_ equipment _Unit before its use. Authorization will be granted only for_ equipment _which is in the final stage of development and for which commercialization will take place no later than 12 months after the first use in competition. The manufacturer may request a single prolongation of the prototype status if justified by relevant reasons._ 
+_<mark>Any</mark>_ <u><mark>equipment</mark></u> _<mark>in development phase and not yet available for sale (prototype) must be subject of an authorization request to the UCI</mark>_ <u><mark>equipment</mark></u> _<mark>Unit before its use. Authorization will be granted only for</mark>_ <u><mark>equipment</mark></u> _<mark>which is in the final stage of development and for which commercialization will take place no later than 12 months after the first use in competition. The manufacturer may request a single prolongation of the prototype status if justified by</mark> relevant reasons._ 
 
-_When assessing a request for use of_ equipment _which is not yet available for sale, the UCI_ equipment _Unit will pay particular attention to safety of the_ equipment _which will be submitted to it for authorisation._ 
+_<mark>When assessing a request for use of</mark>_ <u><mark>equipment</mark></u> _<mark>which is not yet available for sale, the UCI</mark>_ <u><mark>equipment</mark></u> _<mark>Unit will pay particular attention to safety of the</mark>_ <u><mark>equipment</mark></u> _<mark>which will be</mark> submitted to it for authorisation._ 
 
 7 
 
@@ -228,29 +231,29 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0008-01.png)
 
-_Use of equipment under prototype authorisation in track events and/or in the context of a particular performance (best performance, world record, hour record or other) shall not be authorised._ 
+_<mark>Use of equipment under prototype authorisation in track events and/or in the context of a particular performance (best performance, world record, hour record or other) shall not be authorised.</mark>_ 
 
-_Without prejudice to prototypes (equipment not yet available for purchase), any item of equipment must be commercially available in order to be used in cycling events. The requirement of commercial availability shall be understood as equipment having to be available for purchase through a direct and publicly available order system (whether with manufacturer, distributor or retailer). Upon an order being placed, the order shall be confirmed within 30 days and the relevant equipment shall be made available for delivery within a further 90-day deadline. In addition, the retail price of the equipment shall be publicly advertised, shall not render the equipment de facto unavailable to the general public and shall not unreasonably exceed the market value for equipment of a similar standard._ 
+_<mark>Without prejudice to prototypes (equipment not yet available for purchase), any item of equipment must be commercially available in order to be used in cycling events. The requirement of commercial availability shall be understood as equipment having to be available for purchase through a direct and publicly available order system (whether with manufacturer, distributor or retailer). Upon an order being placed, the order shall be confirmed within 30 days and the relevant equipment shall be made available for delivery within a further 90-day deadline. In addition, the retail price of the equipment shall be publicly advertised, shall not render the equipment de facto unavailable to the general public and shall not unreasonably exceed the market value for equipment of a similar standard.</mark>_ 
 
-_Any equipment which is neither commercially available, nor under a valid prototype authorisation at the time of the event, may not be used. Any such unauthorised use of equipment may be sanctioned by disqualification of results obtained when using the equipment and/or a fine ranging from CHF 5’000 to 100’000.”_ 
+_<mark>Any equipment which is neither commercially available, nor under a valid prototype authorisation at the time of the event, may not be used. Any such unauthorised use of equipment may be sanctioned by disqualification of results obtained when using the equipment and/or a fine ranging</mark>_ _<u><mark>from CHF 5’000 to 100’000.”</mark></u>_ 
 
 The entire used material must be accessible to all participants. All the components must be available commercially (i.e. available on the market or sold directly by the manufacturer) at the latest twelve months after their first use in competition. If such a deadline is requested and accepted by the UCI, the manufacturer must publicly announce that the product in question is being used in competition and when it will be available for sale. In all cases the product must be in a final stage of development, very similar to the product that will be marketed. 
 
-Thus, it is not allowed to use equipment in competition that is not either available on the market or authorized by the UCI equipment Unit and previously communicated by the manufacturer (with a twelve months period for the marketing). 
+Thus, it is not allowed to use <u>equipment</u> in competition that is not either available on the market or authorized by the UCI <u>equipment</u> Unit and previously communicated by the manufacturer (with a twelve months period for the marketing). 
 
-The use of equipment specially designed for a particular athlete, event or performance are prohibited. "Specially designed" means a bicycle with a technical added value when compared with other equipment. 
+The use of equipment specially designed for a particular athlete, event or performance are prohibited. "Specially designed" means a <u>bicycle</u> with a technical added value when compared with other <u>equipment.</u> 
 
-No minimum production quantity or minimum price is defined for either bicycles or any component parts. 
+No minimum production quantity or minimum price is defined for either <u>bicycles or any</u> component parts. 
 
 It is also demanded to have reasonable prizes, meaning comparable to a similar product of a same range. 
 
 ## § 4 Onboard technology 
 
-## **ARTICLE 1.3.006 BIS** 
+### **<mark>ARTICLE 1.3.006 BIS</mark>** 
 
-_“Onboard technology devices, which capture or transmit data, may be fitted on bicycles or worn by riders subject to being authorised under the present article, without prejudice to other provisions of the UCI Regulations. The present article concerns any device which captures or transmits data as described below, including but not limited to sensors (worn or ingested), transponders, rider information systems, telemetry devices._ 
+_<mark>“Onboard technology devices, which capture or transmit data, may be fitted on</mark>_ _<u><mark>bicycles or</mark></u>_ _<mark>worn by riders subject to being authorised under the present article, without prejudice to other provisions of the UCI Regulations. The present article concerns any device which captures or transmits data as described below, including but not limited to sensors (worn or ingested), transponders, rider information systems, telemetry devices.</mark>_ 
 
-_1. Devices which capture or transmit the following types of data are authorised:_ 
+_<mark>1. Devices which capture or transmit the following types of data are authorised:</mark>_ 
 
 8 
 
@@ -258,35 +261,35 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0009-01.png)
 
-_- Positioning: information related to the location of the rider or the bicycle;_ 
+_<mark>- Positioning: information related to the location of the rider or the bicycle;</mark>_ 
 
-_- Image: still or moving images or footage captured from the bicycle (such devices may only be fitted on the bicycle unless specific regulations of a given discipline authorise devices being worn by riders);_ 
+_<mark>- Image: still or moving images or footage captured from the</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>(such devices may only be fitted on the</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>unless specific regulations of a given discipline authorise devices being worn by riders);</mark>_ 
 
-_- Mechanical: information captured from the bicycle or any of its components, including but not limited to power, speed, cadence, accelerometer, gyroscope, gearing, tyre pressure._ 
+_<mark>- Mechanical: information captured from the</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>or any of its components, including but not limited to power, speed, cadence, accelerometer, gyroscope, gearing, tyre pressure.</mark>_ 
 
-_2. Devices which capture or transmit the following physiological data are authorised: heartrate, body temperature, sweat rate. The authorisation is, however, limited to transmission protocols which enable only the rider concerned to view the data during a competition._ 
+_<mark>2. Devices which capture or transmit the following physiological data are authorised: heartrate, body temperature, sweat rate. The authorisation is, however, limited to transmission protocols which enable only the rider concerned to view the data during a competition.</mark>_ 
 
-_3. Devices which capture other physiological data, including any metabolic values such as but not limited to glucose or lactate are not authorised in competition._ 
+_<mark>3. Devices which capture other physiological data, including any metabolic values such as but not limited to glucose or lactate are not authorised in competition.</mark>_ 
 
-_The authorised capturing and transmitting of data as provided under this article shall not enable a rider to view data of another rider. Likewise, teams shall only access data of their riders, where such transmission is authorised, unless information pertaining to riders of other teams is publicly available._ 
+_<mark>The authorised capturing and transmitting of data as provided under this article shall not enable a rider to view data of another rider. Likewise, teams shall only access data of their riders, where such transmission is authorised, unless information pertaining to riders of other teams is publicly available.</mark>_ 
 
-_Any onboard technology device fitted on a bicycle must:_ 
+_<mark>Any onboard technology device fitted on a bicycle must:</mark>_ 
 
-- _Be installed on a system designed for bicycles and not affect the certification of any item of the bicycle;_ 
+- _<mark>Be installed on a system designed for bicycles and not affect the certification of any item of the bicycle;</mark>_ 
 
-- _Not cause a risk for the safety of any rider and, therefore, be affixed in a manner that ensures it is not susceptible of inadvertently dismounting or is non-removable._ 
+- _<mark>Not cause a risk for the safety of any rider and, therefore, be affixed in a manner that ensures it is not susceptible of inadvertently dismounting or is non-removable.</mark>_ 
 
-_The UCI may grant derogations to any envisaged use of onboard technology which is not authorised by the present article. Derogation requests shall be assessed, inter alia, in consideration of criteria of equal access to equipment, sporting fairness and integrity, and shall also comply with articles 1.3.001 to 1.3.006. Derogations may be limited to specific events and riders or teams._ 
+_<mark>The UCI may grant derogations to any envisaged use of onboard technology which is not authorised by the present article. Derogation requests shall be assessed, inter alia, in consideration of criteria of equal access to</mark>_ _<u><mark>equipment, sporting fairness and integrity, and</mark></u>_ _<mark>shall also comply with articles 1.3.001 to 1.3.006. Derogations may be limited to specific events and riders or teams.</mark>_ 
 
-_The UCI shall not be liable for any consequences deriving from the installation and use of onboard technology equipment by licence holders, nor for any defects it may hold or its noncompliance._ 
+_<mark>The UCI shall not be liable for any consequences deriving from the installation and use of onboard technology equipment by licence holders, nor for any defects it may hold or its noncompliance.</mark>_ 
 
-_For the sake of clarity, the present article does not govern or affect the ownership of the various data, meaning that the capturing, use and/or exploitation of the data remains subject to consent of the relevant rights’ holder.”_ 
+_<mark>For the sake of clarity, the present article does not govern or affect the ownership of the various data, meaning that the capturing, use and/or exploitation of the data remains subject to consent of the relevant rights’ holder.”</mark>_ 
 
-_(Article introduced on 10.06.21)_ 
+_<u><mark>(Article introduced on 10.06.21)</mark></u>_ 
 
 This article defines the terms of the onboard technology equipment which has the ability to collect or transmit data, information or images on the bicycles (transponder, camera, gps, telemetry system...). 
 
-Such equipment is not considered as technological innovations in the sense of the article 1.3.004. 
+Such <u>equipment</u> is not considered as technological innovations in the sense of the article 1.3.004. 
 
 9 
 
@@ -294,35 +297,35 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0010-01.png)
 
-Moreover, as these equipment must be non-removable, they are considered as an integral part of the weight of the bicycle, as defined in the article 1.3.019. They will be left on the bicycle during a minimum bicycle weight check done by the Commissaires. 
+Moreover, as these equipment must be non-removable, they are considered as an integral part of the weight of the bicycle, as defined in the article 1.3.019. They will be left on the <u>bicycle during a minimum bicycle</u> weight check done by the Commissaires. 
 
-## Section 2: bicycles 
+## <u>Section 2: bicycles</u> 
 
 ## § 1 Principles 
 
-## **ARTICLE 1.3.007** 
+### **<mark>ARTICLE 1.3.007</mark>** 
 
-_“The bicycle is a vehicle with two wheels of equal diameter. The front wheel shall be steerable; the rear wheel shall be driven through a system comprising pedals and a chain. Exceptions to this rule may exist for certain cycling disciplines, in which case specific rules are provided for in the respective discipline.”_ 
+_<mark>“The</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>is a vehicle with two wheels of equal diameter. The front wheel shall be steerable; the rear wheel shall be driven through a system comprising pedals and a chain. Exceptions to this rule may exist for certain cycling disciplines, in which case specific rules are provided for in the respective discipline.”</mark>_ 
 
-_Text modified on 01.01.19_ 
+_<mark>Text modified on 01.01.19</mark>_ 
 
 The bicycle is a vehicle with two wheels which must be of equal diameter. Exception for MTB where the two wheels can be of a different diameter. 
 
-The front wheel is steerable; the rear wheel is driven. The bicycle is propelled solely by a system of pedals acting upon a chain. Only one chain may be used on the bicycle in order to engage the transmission between the bottom bracket and the driven wheel. 
+The front wheel is steerable; the rear wheel is driven. The <u>bicycle</u> is propelled solely by a system of pedals acting upon a chain. Only one chain may be used on the bicycle in order to engage the transmission between the bottom bracket and the driven wheel. 
 
 The bicycle must be in "working order" with a steering system acting on the steerable wheel and a propulsion system acting on the driven wheel by means of a circular movement through a chainset comprising one or more chainwheels and two arms (cranks), arranged at 180°, one as an extension of the other, in the same plane. 
 
-## **ARTICLE 1.3.008** 
+### **<mark>ARTICLE 1.3.008</mark>** 
 
-_“The rider shall normally assume a sitting position on the bicycle. This position requires that the only points of support are the following: the feet on the pedals, the hands on the handlebars and the seat on the saddle.”_ 
+_<mark>“The rider shall normally assume a sitting position on the bicycle. This position requires that the only points of support are the following: the feet on the pedals, the hands on the handlebars and the seat on the saddle.”</mark>_ 
 
 The use of a supplementary point of support such as a lumbar support achieved by an excessive inclination of the saddle or the addition of a lumbar support component to the saddle is not authorized in order to ensure fairness in competition. 
 
-## **ARTICLE 1.3.009** 
+### **<mark>ARTICLE 1.3.009</mark>** 
 
-_“The bicycle should have handlebars which allow it to be ridden and maneuvered in any circumstances and in complete safety.”_ 
+_<mark>“The</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>should have handlebars which allow it to be ridden and maneuvered in any circumstances and in complete safety.”</mark>_ 
 
-Bicycles used in road and cyclo-cross events must be fitted with an efficient braking system that acts on both wheels (either simultaneously or independently) operated by two brake levers. The use of a fixed gear in competition is prohibited. Bicycles shall have at least 89 mm clearance between the pedal spindle and the front tire when turned to any position in accordance with the requirements of the EN14781 safety standard to not be hindered when turning. 
+<u>Bicycles used in road and cyclo-cross events must be fitted with an efficient braking system</u> that acts on both wheels (either simultaneously or independently) operated by two brake levers. The use of a fixed gear in competition is prohibited. Bicycles shall have at least 89 mm clearance between the pedal spindle and the front tire when turned to any position in accordance with the requirements of the EN14781 safety standard to not be hindered when turning. 
 
 10 
 
@@ -330,19 +333,19 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0011-01.png)
 
-Hydraulic brake systems on rims are authorized provided that their attachment to the bicycle does not contravene any regulations (brake hoods must not become extensions, etc.). Disc brake systems are authorized. 
+Hydraulic brake systems on rims are authorized provided that their attachment to the <u>bicycle</u> does not contravene any regulations (brake hoods must not become extensions, etc.). Disc brake systems are authorized. 
 
-## **ARTICLE 1.3.010** 
+### **<mark>ARTICLE 1.3.010</mark>** 
 
-_“The bicycle shall be propelled solely, through a chainset, by the legs (inferior muscular chain) moving in a circular movement, without electric or other assistance.”_ 
+_<mark>“The</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>shall be propelled solely, through a chainset, by the legs (inferior muscular chain) moving in a circular movement, without electric or other assistance.”</mark>_ 
 
-_Exceptions to this rule may exist for certain cycling disciplines, in which case specific rules are provided for in the respective discipline._ 
+_<mark>Exceptions to this rule may exist for certain cycling disciplines, in which case specific rules are provided for in the respective discipline.</mark>_ 
 
-_In para-cycling, mechanical prostheses/orthopedic braces for upper or lower limbs can only be used by athletes who have been evaluated in accordance with the UCI classification procedure and who have Review (R) or Confirmed (C) status._ 
+_<mark>In para-cycling, mechanical prostheses/orthopedic braces for upper or lower limbs can only be used by athletes who have been evaluated in accordance with the UCI classification procedure and who have Review (R) or Confirmed (C) status.</mark>_ 
 
-_In no case may a mechanical prosthesis/orthopedic brace for the lower limbs be used outside para-cycling events.”_ 
+_<mark>In no case may a mechanical prosthesis/orthopedic brace for the lower limbs be used outside para-cycling events.”</mark>_ 
 
-_Text modified on 01.01.19_ 
+_<mark>Text modified on 01.01.19</mark>_ 
 
 The movement of the pedal axle around the bottom bracket axle must be completely circular. Oval chainwheels are allowed if the path is circular with a crank arm geometry that does not change. 
 
@@ -354,9 +357,9 @@ Mechanical prosthesis/orthopaedic braces for lower limbs are prohibited in able-
 
 ## § 2 Technical specifications 
 
-## **ARTICLE 1.3.011** 
+### **<mark>ARTICLE 1.3.011</mark>** 
 
-_“Except where stated to the contrary, the technical specifications given in the articles 1.3.011 to 1.3.025 shall apply to bicycles used in road, track and cyclo-cross racing._ 
+_<mark>“Except where stated to the contrary, the technical specifications given in the articles 1.3.011</mark> to 1.3.025 shall apply to bicycles used in road, track and cyclo-cross racing._ 
 
 11 
 
@@ -364,23 +367,27 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0012-01.png)
 
-_The specific characteristics of bicycles used in mountain bike, BMX, BMX Freestyle, trials, indoor cycling and paracycling for riders with disabilities are set out in the part regulating the discipline in question.”_ 
+_<mark>The specific characteristics of</mark>_ _<u><mark>bicycles used in mountain bike, BMX, BMX Freestyle, trials,</mark></u>_ _<mark>indoor cycling and paracycling for riders with disabilities are set out in the part regulating the discipline in question.”</mark>_ 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0012-03.png)
 
 _Figure 5: Illustration of the parts of the bicycle covered by Articles 1.3.011 to 1.3.025_ 
 
-## **ARTICLE 1.3.012** 
+### **<mark>ARTICLE 1.3.012</mark>** 
 
-_“A bicycle shall not measure more that 185 cm in length and 50 cm in width overall. A tandem shall not measure more than 270 cm in length and 50 cm in width overall.”_ 
+_“A bicycle shall not measure more that 185 cm in length and 50 cm in width overall._ _<mark>A tandem shall not measure more than 270 cm in length and 50 cm in width overall.”</mark>_ 
 
-The maximum width of 500 mm for the bicycle directly relates the maximum authorised overall width (outside – outside) of handlebars. The minimum overall width (outside – outside) of traditional handlebars (road events) and base bars (road and track events) is limited to 350 mm. 
+The maximum width of 500 mm for the <u>bicycle</u> directly relates the maximum authorised overall width (outside – outside) of handlebars. The minimum overall width (outside – outside) of <u>traditional handlebars (road events) and base bars (road and track events) is</u> limited to 350 mm. 
 
-## **ARTICLE 1.3.013** 
+### **<mark>ARTICLE 1.3.013</mark>** 
 
-_“The tip of the saddle shall be a minimum of 50 mm to the rear of a vertical plane passing through the bottom bracket spindle._ 
+_<mark>“The tip of the saddle shall be a minimum of 50 mm to the rear of a vertical plane passing</mark> through the bottom bracket spindle._ 
 
-_The tip of the saddle can be moved forward until the vertical line passing through the bottom bracket spindle where necessary. Any rider who, for these reasons, considers the needs to use a bicycle of lesser dimensions than those given shall inform the commissaires' panel to that effect at the time of the bike check. Only one (1) of the following two (2) exemptions can be requested by the rider and thereafter granted;_ 
+_<mark>The tip of the saddle can be moved forward until the vertical line passing through the bottom</mark> bracket spindle where necessary._ 
+
+_<mark>Any rider who, for these reasons, considers the needs to use a</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>of lesser dimensions than those given shall inform the commissaires' panel to that effect at the time of the bike</mark> check._ 
+
+_<mark>Only one (1) of the following two (2) exemptions can be requested by the rider and thereafter</mark> granted;_ 
 
 12 
 
@@ -388,9 +395,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0013-01.png)
 
-_1.Either the tip of the saddle can be moved forward to a distance equal to or less than 50 mm._ 
+_<mark>1.Either the tip of the saddle can be moved forward to a distance equal to or less than 50</mark> mm._ 
 
-_2.The fixed time trial extension_ <del>_s_</del> _handlebar can be adapted, in accordance with the rider height categories defined in Article 1.3.023.”_ 
+_<mark>2.The fixed time trial extension</mark>_ _<del><mark>s</mark></del>_ _<mark>handlebar can be adapted, in accordance with the rider height categories defined in Article 1.3.023.”</mark>_ 
 
 The withdrawn position of the saddle is measured from the tip of the saddle to the vertical plane passing through the center of the bottom bracket axle. 
 
@@ -400,9 +407,9 @@ If the exemption for the saddle is used, the rider cannot use the exemption for 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0013-07.png)
 
-## **ARTICLE 1.3.014** 
+### **<mark>ARTICLE 1.3.014</mark>** 
 
-_“The plane passing through the highest points at the front and rear of the saddle can have a maximum angle of nine degrees from horizontal. The length of the saddle shall be 24 cm minimum and 30 cm maximum. A tolerance of 5 mm is allowed.”_ 
+_<mark>“The plane passing through the highest points at the front and rear of the saddle can have a maximum angle of nine degrees from horizontal. The length of the saddle shall be 24 cm minimum and 30 cm maximum. A tolerance of 5 mm is allowed.”</mark>_ 
 
 It is important to grant the rider sufficient freedom to allow a comfortable position to be adopted, reducing the pressure on the perineum, while avoiding any deviation through an excessively sloping saddle that could improve sporting performance to an unacceptable degree by the addition of a lumbar support. Furthermore, if the saddle is inclined too severely, this reduces the quality of the rider’s position on the saddle, thus reducing its intrinsic function of providing a basic support for the rider on the bicycle. 
 
@@ -422,17 +429,17 @@ _Figure 6: Official measuring device to check saddle inclination_
 
 The measurement of the horizontality of saddles must be a simple, fair and repeatable process. The tolerance of 9 degrees gives the rider a lot of freedom to adjust his or her position on the bike. Commissaires are able to give a clear, coherent and categorical response when carrying out saddle checks. 
 
-## **ARTICLE 1.3.015** 
+### **<mark>ARTICLE 1.3.015</mark>** 
 
-_“The distance between the bottom bracket spindle and the ground shall be between 24 cm minimum and maximum 30 cm.”_ 
+_<mark>“The distance between the bottom bracket spindle and the ground shall be between 24 cm minimum and maximum 30 cm.”</mark>_ 
 
 The aim of this rule, among other things, is to avoid the risk of the cranks or pedals touching the ground when cornering. 
 
-## **ARTICLE 1.3.016** 
+### **<mark>ARTICLE 1.3.016</mark>** 
 
-_“The distance between the vertical passing through the bottom bracket spindle and the front wheel spindle shall be between 54 cm minimum and 65 cm maximum._ 
+_<mark>“The distance between the vertical passing through the bottom bracket spindle and the front</mark> wheel spindle shall be between 54 cm minimum and 65 cm maximum._ 
 
-_The distance between the vertical passing through the bottom bracket spindle and the rear wheel spindle shall be between 35 cm minimum and maximum 50 cm.”_ 
+_<mark>The distance between the vertical passing through the bottom bracket spindle and the rear wheel spindle shall be between 35 cm minimum and maximum 50 cm.”</mark>_ 
 
 If the front or rear center is too short, this will reduce the bicycle's stability whereas if the front or rear center is too long the bicycle will be less manoeuvrable. 
 
@@ -446,9 +453,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 7: Illustration of the minimum and maximum distances between the bottom bracket and front and rear wheel axles_ 
 
-## **Article 1.3.017** 
+**<mark>Article 1.3.017</mark>** 
 
-_“The distance between the internal extremities of the front forks shall not exceed 11.5 cm; the distance between the internal extremities of the rear triangle shall not exceed 14.5 cm.”_ 
+_<mark>“The distance between the internal extremities of the front forks shall not exceed 11.5 cm; the distance between the internal extremities of the rear triangle shall not exceed 14.5 cm.”</mark>_ 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0015-06.png)
 
@@ -456,45 +463,51 @@ _Figure 8: Illustration of the maximum distances between the fork drop-outs and 
 
 15 
 
-![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0016-00.png)
+CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-## CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0016-01.png)
 
-## **ARTICLE 1.3.018** 
+### **<mark>ARTICLE 1.3.018</mark>** 
 
-_“Wheels of the bicycle may vary in diameter between 700_ <del>_cm_</del> _m maximum and 550_ <del>_cm_</del> _m minimum, including the tyre. For the cyclo-cross_ <del>_bicycle_</del> _the width of the tyre (measured between the widest parts) shall not exceed 33 mm and it may not incorporate any form of spikes or studs._ 
+_<mark>“Wheels of the</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>may vary in diameter between 700</mark>_ _<del><mark>cm</mark></del>_ _<mark>m maximum and 550</mark>_ _<del><mark>cm</mark></del>_ _<mark>m minimum, including the tyre. For the cyclo-cross</mark>_ _<del><mark>bicycle</mark></del>_ _<mark>the width of the tyre (measured between the widest parts) shall not exceed 33 mm and it may not incorporate any form of</mark> spikes or studs._ 
 
-<del>_For massed start competitions iI_</del> _n the disciplines road, track and cyclo-cross, only wheel designs granted prior approval by the UCI may be used. Wheels approved in mass start competitions in the disciplines of road and cyclo-cross shall have at least 12 spokes; spokes can be round, flattened or oval, as far as no dimension of their sections exceeds 10 mm._ 
+_<del><mark>For massed start competitions iI</mark></del>_ _<mark>n the disciplines road, track and cyclo-cross, only wheel designs granted prior approval by the UCI may be used. Wheels approved in mass start competitions in the disciplines of road and cyclo-cross shall have at least 12 spokes; spokes</mark> can be round, flattened or oval, as far as no dimension of their sections exceeds 10 mm._ 
 
-_Wheels used in the road, track and cyclo-cross disciplines must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2. Fulfilment of these requirements concerns both the front wheels and the rear wheels, independent of materials, brake systems and other characteristics. Manufacturers must apply for approval by providing declaration of conformity to the UCI. Detailed procedure and template can be found in the section “Equipment” on the UCI Website._ 
+_<mark>Wheels used in the road, track and cyclo-cross disciplines must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2. Fulfilment of these requirements concerns both the front wheels and the rear wheels, independent of materials, brake systems and other characteristics. Manufacturers must apply for approval by providing declaration of conformity to the UCI. Detailed procedure and template can be found in the section “Equipment” on the UCI Website.</mark>_ 
 
-_In order to comply with the requirements and ensure compatibility between the components, rims must comply with the standard ISO 5775-2 and tyres with the standard ISO 5775-1._ 
+_<mark>In order to comply with the requirements and ensure compatibility between the components, rims must comply with the standard ISO 5775-2 and tyres with the standard ISO 5775-1.</mark>_ 
 
-<del>_In order to be granted approval wheels must have been subjected to the Vertical Drop Test which consists of:_</del> 
+_<del><mark>In order to be granted approval wheels must have been subjected to the Vertical Drop Test which consists of:</mark></del>_ 
 
-## <del>_**Test method: Vertical Drop Test**_</del> 
+#### **_<del><mark>Test method: Vertical Drop Test</mark></del>_** 
 
-<del>_Vertical drop test (neutralization of the rebound of the anvil)_</del> 
+_<del><mark>Vertical drop test (neutralization of the rebound of the anvil)</mark></del>_ 
 
-## <del>_**Energy level:**_</del> 
+#### **_<del><mark>Energy level:</mark></del>_** 
 
-<del>_40 Joules_</del> 
+_<del><mark>40 Joules</mark></del>_ 
 
-## <del>_**Impact striker geometry:**_</del> 
+#### **_<del><mark>Impact striker geometry:</mark></del>_** 
 
-<del>_Flat steel anvil, the impact surface is covered with a silicone rubber pad of 20 mm thickness (Hardness Shore A=50 +/- 5, Compression set of 40% acc. To ASTM D395 Method B). The rubber pad requires to be undamaged._</del> 
+_<del><mark>Flat steel anvil, the impact surface is covered with a silicone rubber pad of 20 mm thickness (Hardness Shore A=50 +/- 5, Compression set of 40% acc. To ASTM D395 Method B). The rubber pad requires to be undamaged.</mark></del>_ 
 
-## <del>_**Impact mass:**_</del> 
+#### **_<del><mark>Impact mass:</mark></del>_** 
 
-<del>_Range of  6 – 10 kg_</del> 
+_<del><mark>Range of  6 – 10 kg</mark></del>_ 
 
-<del>_Energy must always remain at 40 Joules at the hit with a +/- 5% tolerance._</del> 
+_<del><mark>Energy must always remain at 40 Joules at the hit with a +/- 5% tolerance.</mark></del>_ 
 
-## <del>_**Hitting point:**_</del> 
+#### **_<del><mark>Hitting point:</mark></del>_** 
 
-<del>_One hit at 90° from valve hole, adjusted to have the impact point of anvil between the spokes In order to be certified as passed, the alloy and/or carbon wheels shall have - No visible cracks or delamination_</del> 
+_<del><mark>One hit at 90° from valve hole, adjusted to have the impact point of anvil between the spokes</mark></del>_ 
 
-<del>_- No change in lateral profile or in lateral run out in excess of 1.0 mm - No change in radial profile or in radial run out in excess of 1.0 mm_</del> 
+_<del><mark>In order to be certified as passed, the alloy and/or carbon wheels shall have</mark></del>_ 
+
+- _<del><mark>No visible cracks or delamination</mark></del>_ 
+
+- _<del><mark>No change in lateral profile or in lateral run out in excess of 1.0 mm</mark></del>_ 
+
+_<del><mark>- No change in radial profile or in radial run out in excess of 1.0 mm</mark></del>_ 
 
 16 
 
@@ -502,15 +515,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0017-01.png)
 
-_Wheels which meet the definition of traditional wheels do not need to follow the approval application procedure provided for in this article_ <del>_be certified._</del> _**Definition of Traditional wheels:** Criteria: Rim height: less than 25 mm Rim material: alloy_ 
+_<mark>Wheels which meet the definition of traditional wheels do not need to follow the approval application procedure provided for in this article</mark>_ _<del><mark>be certified.</mark></del>_ **_<mark>Definition of Traditional wheels:</mark>_** _<mark>Criteria: Rim height: less than 25 mm Rim material: alloy Spokes: minimum of 20 steel spokes which are detachable and all components must be identifiable and commercially available</mark>_ 
 
-_Spokes: minimum of 20 steel spokes which are detachable and all components must be identifiable and commercially available_ 
+_<mark>In track competition, including motor-pacing the use of a front disc wheel is only permitted in the specialties against the clock.</mark>_ 
 
-_In track competition, including motor-pacing the use of a front disc wheel is only permitted in the specialties against the clock._ 
+_<mark>Notwithstanding this article, the choice and use of wheels remains subject to articles 1.3.001 to 1.3.003.”</mark>_ 
 
-_Notwithstanding this article, the choice and use of wheels remains subject to articles 1.3.001 to 1.3.003.”_ 
-
-_(text modified on 01.01.02; 01.01.03; 01.09.03; 01.01.05; 01.07.10; 01.10.13; 01.01.16, 25.06.19, 01.01.24)_ 
+_<mark>(text modified on 01.01.02; 01.01.03; 01.09.03; 01.01.05; 01.07.10; 01.10.13; 01.01.16, 25.06.19, 01.01.24)</mark>_ 
 
 <del>This regulation applies to road races and cyclo-cross.</del> There is a distinction between standard and non-standard wheels. The latter must meet the impact test requirements as specified in the standard ISO 4210-2:2023 Cycles — Safety requirements for bicycles, section 4.10.7.2.2., paragraph 2 and must comply with the standard ISO 5775-2 and tyres with the standard ISO 5775-1 <del>pass a vertical drop test using a specific procedure</del> in order to be included in the list of wheels authorised for competition. This document entitled "List of Approved Wheels” and further detailed information on the test procedure for non-standard wheels are available on the UCI website under the "Equipment" heading. 
 
@@ -520,13 +531,13 @@ The list of approved wheels under the previous procedure, in force until the 31 
 
 For the individual sprint, the front disc wheel is allowed for the qualifications (200m flying start) but not for the matches. 
 
-## **ARTICLE 1.3.019** 
+### **<mark>ARTICLE 1.3.019</mark>** 
 
-_“The weight of the bicycle cannot be less than 6.8 kilograms.”_ 
+_<mark>“The weight of the bicycle cannot be less than 6.8 kilograms.”</mark>_ 
 
-The minimum weight of the bicycle (in working order) is 6.800 kg, considered without on-board accessories in place, that is to say those items that may be removed during the event. The bottles, on-board computers and all others removable accessories must be removed during the weight check. However, the bottle cages, fixture systems and clippedon extensions are part of the bicycle and stay in place during the weighing. 
+The minimum weight of the <u>bicycle</u> (in working order) is 6.800 kg, considered without on-board accessories in place, that is to say those items that may be removed during the event. The bottles, on-board computers and all others removable accessories must be removed during the weight check. However, the bottle cages, fixture systems and clippedon extensions are part of the <u>bicycle</u> and stay in place during the weighing. 
 
-![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0017-14.png)
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0017-13.png)
 
 _Figure 9: Measuring the weight of a bicycle_ 
 
@@ -536,11 +547,11 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0018-01.png)
 
-## **ARTICLE 1.3.020** 
+### **<mark>ARTICLE 1.3.020</mark>** 
 
-## TRIANGULAR SHAPE 
+#### <u>TRIANGULAR SHAPE</u> 
 
-_“For road, track, and for cyclo-cross competitions, the frame of the bicycle shall be of a traditional pattern, i.e. built around a main triangle.”_ 
+_<mark>“For road, track, and for cyclo-cross competitions, the frame of the</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>shall be of a traditional pattern, i.e. built around a main triangle.”</mark>_ 
 
 The triangular shape is defined from a design using 80 mm-wide boxes for each tube. In order to comply with this rule, the nominal rear wheel axle must be located within the seat stay and chain stay boxes. Furthermore, the bottom bracket axle must be located inside the chain stay, seat tube and down tube boxes. The drawing below illustrates these conditions. 
 
@@ -560,11 +571,11 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 11: Example geometry of a bicycle that does not comply with UCI regulations_ 
 
-## COMPENSATION TRIANGLES AND THE 160 MM REINFORCEMENT ZONE 
+#### <u>COMPENSATION TRIANGLES AND THE 160 MM REINFORCEMENT ZONE</u> 
 
-_“Isosceles compensation triangles with two 8 cm sides are authorized at the joints between frame elements except at the joints between the chain stays and seat stays where triangles are not authorized._ 
+_<mark>“Isosceles compensation triangles with two 8 cm sides are authorized at the joints between frame elements except at the joints between the chain stays and seat stays where triangles are not authorized.</mark>_ 
 
-_The effective width of the head tube zone may not exceed 16 cm at the narrowest point between the inner join of the top tube and down tube and the front of the box for the head tube.”_ 
+_<mark>The effective width of the head tube zone may not exceed 16 cm at the narrowest point between the inner join of the top tube and down tube and the front of the box for the head tube.”</mark>_ 
 
 Authorized reinforcement triangles are shown in blue in the diagram below. A 160 mm reinforcement zone is defined for the section where the top tube, head tube and down tube connect. 
 
@@ -634,9 +645,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0023-01.png)
 
-## STRAIGHT LINES 
+#### <u>STRAIGHT LINES</u> 
 
-_“It shall be constructed of straight or tapered tubular elements (which may be round, oval, flattened, teardrop shaped or otherwise in cross-section) such that the form of each element except the chain stays and the seat stays encloses a straight line.”_ 
+_<mark>“It shall be constructed of straight or tapered tubular elements (which may be round, oval, flattened, teardrop shaped or otherwise in cross-section) such that the form of each element except the chain stays and the seat stays encloses a straight line.”</mark>_ 
 
 The frame tubes must be tubular without excessive curvature. The frame elements may be slightly curved, but a straight line must be able to be drawn within each element along its length. The start and finish points of each of these lines is shown on the diagram below. 
 
@@ -658,9 +669,9 @@ In the case of double tubes, the straight line must fall within the envelope enc
 
 It is not necessary for a straight line to pass inside the chain stays, seat stays, and fork blades. 
 
-## THE SHAPE OF TUBES 
+#### <u>THE SHAPE OF TUBES</u> 
 
-_“The elements of the frame shall be laid out such that the joining points shall follow the following pattern: the top tube (1) connects the top of the head tube (2) to the top of the_ 
+_<mark>“The elements of the frame shall be laid out such that the joining points shall follow the following pattern: the top tube (1) connects the top of the head tube (2) to the top of the</mark>_ 
 
 23 
 
@@ -668,13 +679,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0024-01.png)
 
-_seat tube (4); the seat tube shall connect to the bottom bracket shell; the down tube (3) shall connect the bottom bracket shell to the bottom of the head tube. The rear triangles shall be formed by the chain stays (6), the seat stays (5) and the seat tube (4) with the seat stays anchored to the seat tube at points falling within the limits laid down for the slope of the top tube. The seat post shall comply with the dimensional restrictions that apply to the seat tube and may be attached to the frame anywhere on the seat tube and/or top tube. Additional frame components can be added between the head tube and the handlebar stem. These must be inside the dimension of the head tube box.”_ 
+_<mark>seat tube (4); the seat tube shall connect to the bottom bracket shell; the down tube (3) shall connect the bottom bracket shell to the bottom of the head tube. The rear triangles shall be formed by the chain stays (6), the seat stays (5) and the seat tube (4) with the seat stays anchored to the seat tube at points falling within the limits laid down for the slope of the top tube. The seat post shall comply with the dimensional restrictions that apply to the seat tube and may be attached to the frame anywhere on the seat tube and/or top tube. Additional frame components can be added between the head tube and the handlebar stem. These must be inside the dimension of the head tube box.”</mark>_ 
 
-The frameset must be able to fit entirely within the template formed by nine rectangular boxes of 80 mm width, the 160 mm reinforcement zone and the compensation triangles as shown by the diagram below. The seat post (8) must be able to fit entirely within its own rectangular box of 80 mm width. The upper line of the box must pass at most 60 mm from the fixture of the saddle on the seat post, Figure 20. Additional frame components between the head tube and the handlebar stem which are not covered by the head tube box and/or the top tube box must be able to fit within their own rectangular component box (9) of 80mm width. Altogether, the additional frame components between the head tube and the handlebar stem cannot exceed dimensional restrictions of the head tube box. During the transition stage, this restriction does not apply to additional frame components between the head tube and the handlebar stem which, on 1 January 2021, are/were already at the production stage. 
+The frameset must be able to fit entirely within the template formed by nine <u>rectangular boxes</u> of 80 mm width, the 160 mm reinforcement zone and the compensation triangles as shown by the diagram below. The seat post (8) must be able to fit entirely within its own <u>rectangular box</u> of 80 mm width. The upper line of the box must pass at most 60 mm from the fixture of the saddle on the seat post, Figure 20. Additional frame components between the head tube and the handlebar stem which are not covered by the head tube box and/or the top tube box must be able to fit within their own rectangular component box (9) of 80mm width. Altogether, the additional frame components between the head tube and the handlebar <u>stem</u> cannot exceed dimensional restrictions of the head tube box. During the transition stage, this restriction does not apply to additional frame components between the head tube and the handlebar <u>stem</u> which, on 1 January 2021, are/were already at the production stage. 
 
 Manufacturers are free to adjust the positioning of the boxes provided that the frame geometry respects all articles of the technical regulations and the frame and forks are entirely contained within the boxes and do not present any apparent dangers (protruding parts or sharp angles). 
 
-The bicycle must be designed and adjusted in such a manner that the rider can adopt a regulatory position as defined by Articles 1.3.022 and/or 1.3.023. 
+The <u>bicycle</u> must be designed and adjusted in such a manner that the rider can adopt a regulatory position as defined by Articles 1.3.022 and/or 1.3.023. 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0024-06.png)
 
@@ -730,18 +741,15 @@ Cable guides and the seat bolt do not have to be contained within the 80 mm boxe
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0027-01.png)
-
-**----- Start of picture text -----**<br>
-27<br>**----- End of picture text -----**<br>
+**27** 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0027-02.png)
 
 _Figure 22: Illustration of the unauthorized extension of the top tube box behind the seat tube_ 
 
-## TUBE DIMENSIONS 
+#### <u>TUBE DIMENSIONS</u> 
 
-_“The maximum height of the elements shall be 8 cm and the minimum thickness 1 cm. The minimum thickness of the elements of the front fork shall be 1 cm; these may be straight or curved (7) .”_ 
+_<mark>“The maximum height of the elements shall be 8 cm and the minimum thickness 1 cm. The minimum thickness of the elements of the front fork shall be 1 cm; these may be straight or curved (7) .”</mark>_ 
 
 The terms "height" and "thickness" used in the article should be understood to be the largest and smallest dimensions of tube sections respectively, i.e. the maximum and minimum dimensions authorized in any direction. Thus, the maximum dimension of the section of elements is 80 mm while the minimum dimension is 10 mm. 
 
@@ -833,9 +841,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 The regulations do not concern the transition zones between tubes. 
 
-## SLOPING TOP TUBE 
+<u>SLOPING TOP TUBE</u> 
 
-_“The top tube may slope, provided that this element fits within a horizontal template defined by a maximum height of 16 cm.”_ 
+_<mark>“The top tube may slope, provided that this element fits within a horizontal template defined by a maximum height of 16 cm.”</mark>_ 
 
 The top tube may be inclined (sloping) provided that this frame element is contained within a horizontal box of 160 mm height. The limits of this zone are established as shown in the diagrams below, i.e. upper limit by the intersection of the top tube with the head tube box and lower limit by the intersection of the top tube with the seat tube box. 
 
@@ -859,7 +867,7 @@ _Figure 26: Highest point (circled in green) that must be contained within the 1
 
 In addition to the requirement to fit within the 160 mm-high horizontal box, the top tube must also fit within the 80 mm box. 
 
-## INCLINATION OF SEAT STAYS 
+#### <u>INCLINATION OF SEAT STAYS</u> 
 
 The front line of the 80 mm seat stay box must cross the area of intersection between the horizontal 160 mm-high box and the 80 mm seat tube box. The rear wheel axle must be contained within the seat stay and chain stay boxes. 
 
@@ -873,7 +881,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 27: Illustration of the rule on the inclination of seat stays_ 
 
-## FORK GEOMETRY 
+<u>FORK GEOMETRY</u> 
 
 When the fork comprises a steerer that is inserted inside the head tube, the fork is considered as a separate component to the frame. Consequently, the fork must be contained within a single box of 80 mm width (not including the steerer). This box starts at the point of contact (circled in the Figure 28) between the head tube and the fork crown but is not necessarily positioned in the same plane as the head tube. 
 
@@ -903,14 +911,11 @@ _Figure 29: Illustration of the positioning of the axis of the head tube within 
 
 CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION 
 
-![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0033-01.png)
-
-**----- Start of picture text -----**<br>
-33<br>**----- End of picture text -----**<br>
+**33** 
 
 Thus, forks must be able to be covered by the fork box in the case of a standard design forks, or by the fork box and the head tube box in the case of an offset forks. The box of the down tube can be used to cover the upper part of the fork box. It is prohibited to use other frame boxes to cover the fork components. 
 
-A protuberance integrated with the fork crown, that serves as a stem or a support for the stem for the handlebars and handlebar extensions, is allowed but must be restricted to its original function. A diversion of use in the form of an added extension is prohibited. 
+A protuberance integrated with the fork crown, that serves as a <u>stem</u> or a support for the <u>stem</u> for the handlebars and handlebar extensions, is allowed but must be restricted to its original function. A diversion of use in the form of an added extension is prohibited. 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0033-04.png)
 
@@ -926,13 +931,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0034-01.png)
 
-## MULTIPLE ELEMENTS 
+#### <u>MULTIPLE ELEMENTS</u> 
 
 Multiple elements are authorized for the frame (top tube, down tube, seat tube, seat stays, chain stays), the fork, the seat post. 
 
 The multiple tubes, taken individually and together, have to respect the maximum section dimension of 80 mm and the minimum section dimension of 10 mm. 
 
-## TIMING CHIP PLACEMENT, TRACK 
+#### <u>TIMING CHIP PLACEMENT, TRACK</u> 
 
 The timing chip must be placed entirely on the surface of the left fork blade. The timing chip must not be placed partially or fully outside of the fork surface. A tolerance of 5 mm around the perimeter of the chip should apply. 
 
@@ -948,9 +953,9 @@ The timing chip should not be orientated 90° from the original position (see be
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0034-12.png)
 
-## **ARTICLE 1.3.022** 
+### **<mark>ARTICLE 1.3.022</mark>** 
 
-_“In competitions other than those covered by article 1.3.023, only the traditional type of handlebars (see diagram «structure 1A») may be used. The handlebars must be positioned in an area defined as follows: above, by the horizontal plane of the point of support of the saddle (B); below, by the horizontal plane passing 100 mm below the highest point of the two wheels (these being of equal diameter) (C); at the rear by the axis of the steerer tube (D) and_ 
+_<mark>“In competitions other than those covered by article 1.3.023, only the traditional type of handlebars (see diagram «structure 1A») may be used. The handlebars must be positioned in an area defined as follows: above, by the horizontal plane of the point of support of the saddle (B); below, by the horizontal plane passing 100 mm below the highest point of the two wheels (these being of equal diameter) (C); at the rear by the axis of the steerer tube (D) and</mark>_ 
 
 34 
 
@@ -958,19 +963,25 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0035-01.png)
 
-_at the front by a vertical plane passing at horizontal distance of 100 mm from the axis of the front wheel spindle (see diagram «Structure (1A)»)._ 
+_<mark>at the front by a vertical plane passing at horizontal distance of 100 mm from the axis of the front wheel spindle (see diagram «Structure (1A)»).</mark>_ 
 
-_In addition, all handlebars must conform to the following:_ 
+_<mark>In addition, all handlebars must conform to the following:</mark>_ 
 
-_- The maximum dimension of the cross section of the handlebars is 80 mm - The maximum dimension of the cross section of the stem is 80 mm - The minimum dimension of the cross section of all fork accessory is 10 mm_ 
+- _<mark>The maximum dimension of the cross section of the handlebars is 80 mm</mark>_ 
 
-_- Two isosceles compensation triangles with two 40 mm sides are authorised at the joints between the stem and the handlebars.”_ 
+- _<mark>The maximum dimension of the cross section of the stem is 80 mm</mark>_ 
+
+- _<mark>The minimum dimension of the cross section of all fork accessory is 10 mm</mark>_ 
+
+- _<mark>Two isosceles compensation triangles with two 40 mm sides are authorised at the</mark>_ 
+
+- _<mark>joints between the stem and the handlebars.”</mark>_ 
 
 The traditional type of handlebars must be used in road races, cyclo-cross and track races (apart from track time trials and pursuits). The attachment of any additional handlebar component or fixed additional time trial extension handlebar is prohibited in these events. 
 
-In no case shall the front of the handlebars exceed the vertical plane passing at horizontal distance of 100 mm from the the axis of the front wheel spindle; which is the control zone of the bicycle. The more forward the handlebar is positioned, the less maneuverable the bicycle will be and the less it will be easy to react quickly to an obstacle or a wind gust. Moreover, this would result in moving the center of gravity of the rider on the bicycle, which would increase even more the risks of loss of control. The area of positioning the handlebars is defined by the diagram below: 
+In no case shall the front of the handlebars exceed the vertical plane passing at horizontal distance of 100 mm from the the axis of the front wheel spindle; which is the control zone of the <u>bicycle. The more forward the handlebar is positioned, the less maneuverable the bicycle</u> will be and the less it will be easy to react quickly to an obstacle or a wind gust. Moreover, this would result in moving the center of gravity of the rider on the bicycle, which would increase even more the risks of loss of control. The area of positioning the handlebars is defined by the diagram below: 
 
-![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0035-08.png)
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0035-10.png)
 
 _Figure 32: Illustration of the box, marked out by lines A, B, C and D, within which the handlebars must be fully contained._ 
 
@@ -980,17 +991,15 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0036-01.png)
 
-_“The brake controls attached to the handlebars shall consist of two supports with levers. It must be possible to operate the brakes by pulling on the levers with the hands on the lever supports. Any extension to or reconfiguration of the supports to enable an alternative use is prohibited. A combined system of brake and gear controls is authorised.”_ 
+_<mark>“The brake controls attached to the handlebars shall consist of two supports with levers. It must be possible to operate the brakes by pulling on the levers with the hands on the lever supports. Any extension to or reconfiguration of the supports to enable an alternative use is</mark>_ _<u><mark>prohibited. A combined system of brake and gear controls is authorised.”</mark></u>_ 
 
-The bicycle must be fitted with a braking system that operates on both front and rear wheels in order to take part in a road or cyclo-cross event. 
+The bicycle must be fitted with a braking system that operates on both front and rear wheels in order to take part in a road or cyclo-cross event. Electronic derailleurs are authorised in competition provided that they are controlled solely by the rider. 
 
-Electronic derailleurs are authorised in competition provided that they are controlled solely by the rider. 
-
-## BRAKE HOOD BODY INCLINATION 
+#### <u>BRAKE HOOD BODY INCLINATION</u> 
 
 The centre plane of the Brake Hood Body must align with the centre plane of the Traditional Handlebars (Drop area). In order to ensure that the braking system may be operated both safely and as designed (or intended), by pulling on the levers with the hands on the lever supports, a maximum inclination of 10 degrees is permitted between the two planes (see illustrations below). 
 
-![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0036-07.png)
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0036-06.png)
 
 36 
 
@@ -1020,7 +1029,7 @@ _Figure 33: Illustration of the maximum permitted Brake Hood body inclination_
 
 _Figure 34 Illustration of the maximum permitted Brake Hood body inclination in combination with a flared traditional handlebars_ 
 
-## TRADITIONAL HANDLEBARS 
+#### <u>TRADITIONAL HANDLEBARS</u> 
 
 The cockpit which comprises the handlebar and the stem must be able to fit entirely within the template formed by 5 rectangular boxes of 80 mm width and the compensation triangles as shown by the diagram below. 
 
@@ -1052,13 +1061,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 - Handlebars (3): The rear line of the box must pass through the point of intersection of the front line of the Handlebars (4) box with the upper or lower line of the Handlebars (3) box; the front line of the box must pass through the point of intersection of the rear line of the Stem (5) box with the lower or upper line of the Handlebars (3) box. 
 
-- Stem (5): The upper line of the box can be positioned at the desired length provided that it meets the prevailing quality and safety standards for bicycles; the lower line of the box is limited by the dimensional restrictions of the frame components between the head tube and the handlebars stem box (see Article 1.3.020). 
+- <u>Stem (5): The upper line of the box can be positioned at the desired length provided</u> that it meets the prevailing quality and safety standards for bicycles; the lower line of the box is limited by the dimensional restrictions of the frame components between the head tube and the handlebars stem box (see Article 1.3.020). 
 
-Manufacturers are free to adjust the positioning of the boxes provided that the equipment geometry respects all articles of the technical regulations and the equipment is entirely contained within the boxes and does not present any apparent dangers (protruding parts or sharp angles). 
+Manufacturers are free to adjust the positioning of the boxes provided that the equipment geometry respects all articles of the technical regulations and the <u>equipment is entirely</u> contained within the boxes and does not present any apparent dangers (protruding parts or sharp angles). 
 
 Any extension of the element boxes beyond the points described above in order to contain certain parts is prohibited. 
 
-## TRADITIONAL HANDLEBARS, ELEMENT DIMENSIONS 
+#### <u>TRADITIONAL HANDLEBARS, ELEMENT DIMENSIONS</u> 
 
 The terms “maximum/minimum dimension of the cross section” used in the article should be understood to be the largest and smallest dimensions of element sections respectively, i.e. the maximum and minimum dimensions authorized in any direction. 
 
@@ -1098,7 +1107,7 @@ Sections A to H on the illustration represent the limits of these areas and are 
 
 The regulations do not concern the transition zones between elements. 
 
-MULTIPLE ELEMENTS 
+#### <u>MULTIPLE ELEMENTS</u> 
 
 41 
 
@@ -1108,7 +1117,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 Multiple elements are authorized for the stem, the traditional handlebars and base bars. Individual tubes and the multiple tubes have to respect the maximum section dimension of 80 mm and the minimum section dimension of 10 mm. The multiple elements rule applies in the same areas than the rule of the minimum and <del>m</del> aximum dimension for the tubes. 
 
-In the case of the traditional handlebars and sections A-A, B-B, D-D and E-E, if one of the sections comprises multiple elements (not greater than 2), each element taken individually have to respect the maximum and minimum dimensions authorised in any direction. The requirement for the elements to respect the maximum and minimum dimensions in any direction in conjunction is not required. 
+In the case of the <u>traditional handlebars and sections A-A, B-B, D-D and E-E, if one of the</u> sections comprises multiple elements (not greater than 2), each element taken individually have to respect the maximum and minimum dimensions authorised in any direction. The requirement for the elements to respect the maximum and minimum dimensions in any direction in conjunction is not required. 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0042-04.png)
 
@@ -1116,7 +1125,7 @@ _Figure 37: Example of a compliant section of an element formed by two tubes_
 
 In the event of a multiple elements of a length shorter than 80 mm, the same conditions as for other multiple elements apply with the exception that only one tube must respect the minimum section dimension of 10 mm. This scenario is limited to one exception per element. 
 
-## TRADITIONAL HANDLEBARS, APPROVAL PROCEDURE, AS FROM 1.1.2023 
+#### <u>TRADITIONAL HANDLEBARS, APPROVAL PROCEDURE, AS FROM 1.1.2023</u> 
 
 This procedure does not apply to traditional handlebars which, on 1 January 2023, are: 
 
@@ -1136,19 +1145,19 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0043-02.png)
 
-## **ARTICLE 1.3.023** 
+### **<mark>ARTICLE 1.3.023</mark>** 
 
-_“For road time trials and for individual pursuit, team pursuit and Kilometre/500m time trial on the track, a fixed time trial extension handlebar (consisting of 2 extensions with sections for each hand to hold and two forearm supports) may be added or integrated to either the traditional handlebar or the base bar steering system (see diagram «Structure (1B)»)._ 
+_<mark>“For road time trials and for individual pursuit, team pursuit and Kilometre/500m time trial on the track, a fixed time trial extension handlebar (consisting of 2 extensions with sections for each hand to hold and two forearm supports) may be added or integrated to either the traditional handlebar or the base bar steering system (see diagram «Structure (1B)»).</mark>_ 
 
-_The traditional type of handlebars or the base bar must be positioned in the area defined in article 1.3.022 (A, B, C, D)._ 
+_<mark>The traditional type of handlebars or the base bar must be positioned in the area defined in article 1.3.022 (A, B, C, D).</mark>_ 
 
-_The default horizontal distance between_ <del>_the_</del> _vertical planes_ <del>_line_</del> _passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including controls or fixed levers, may not exceed 750 mm._ 
+_<mark>The default horizontal distance between</mark>_ _<del><mark>the</mark></del>_ _<mark>vertical planes</mark>_ _<del><mark>line</mark></del>_ _<mark>passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including controls or fixed levers, may not exceed 750 mm.</mark>_ 
 
-_The default height difference between the midpoint of the forearm support and the highest or lowest point of the extension (including accessory) must be less than 100 mm._ 
+_<mark>The default height difference between the midpoint of the forearm support and the highest or lowest point of the extension (including accessory) must be less than 100 mm.</mark>_ 
 
-_For the track and road competitions covered by the first paragraph, the default distance of 750 mm may be increased to 850 mm as a part of an exemption based on three (3) rider height categories mentioned below._ 
+_<mark>For the track and road competitions covered by the first paragraph, the default distance of 750 mm may be increased to 850 mm as a part of an exemption based on three (3) rider height categories mentioned below.</mark>_ 
 
-_Category 1:       Less than 180.0 cm tall_ 
+_<mark>Category 1:       Less than 180.0 cm tall</mark>_ 
 
 43 
 
@@ -1156,29 +1165,45 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0044-01.png)
 
-_For riders less than 180.0 cm tall, the horizontal distance between the vertical planes passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including all accessories, may be a maximum of 800 mm._ 
+_<mark>For riders less than 180.0 cm tall, the horizontal distance between the vertical planes passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including all accessories, may be a maximum of 800 mm. The height difference between the midpoint of the forearm support and the highest or lowest point of the extension (including accessory) must be less than 100 mm.</mark>_ 
 
-_The height difference between the midpoint of the forearm support and the highest or lowest point of the extension (including accessory) must be less than 100 mm._ 
+_<mark>Category 2: Between 180.0 cm and 189.9 cm tall</mark>_ 
 
-_Category 2: Between 180.0 cm and 189.9 cm tall_ 
+_<mark>For riders between 180.0 cm and 189.9 cm tall, the horizontal distance between the vertical planes passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including all accessories, may be a maximum of 830 mm. The height difference between the midpoint of the forearm support and the highest or lowest point of the extension (including accessory) must be less than 120 mm.</mark>_ 
 
-_For riders between 180.0 cm and 189.9 cm tall, the horizontal distance between the vertical planes passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including all accessories, may be a maximum of 830 mm. The height difference between the midpoint of the forearm support and the highest or lowest point of the extension (including accessory) must be less than 120 mm._ 
+_<mark>Riders in Category 2 must submit a rider height attestation application form available from the UCI website.</mark>_ 
 
-_Riders in Category 2 must submit a rider height attestation application form available from the UCI website._ 
+_<mark>Category 3: 190.0 cm and taller</mark>_ 
 
-_Category 3:_ 
+_<mark>For riders 190.0 cm and taller, the horizontal distance between the vertical planes passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including all accessories, may be a maximum of 850 mm.</mark>_ 
 
-## _190.0 cm and taller_ 
+_<mark>The height difference between the midpoint of the and the highest or lowest point of the extension (including accessory) must be less than 140 mm.</mark>_ 
 
-_For riders 190.0 cm and taller, the horizontal distance between the vertical planes passing through the bottom bracket axle and the extremity of the fixed time trial extension handlebar, including all accessories, may be a maximum of 850 mm._ 
+_<mark>Riders in Category 3 must submit a rider height attestation application form available from the UCI website.</mark>_ 
 
-_The height difference between the midpoint of the and the highest or lowest point of the extension (including accessory) must be less than 140 mm._ 
+_<mark>A rider makes use of a rider height category exemption, must inform the commissaires' panel at the time of the bike check. For clarity, the default distances mentioned above will be applied by the commissaires panel if the respective height category exemption is not communicated by the rider.</mark>_ 
 
-_Riders in Category 3 must submit a rider height attestation application form available from the UCI website._ 
+_<mark>In addition, all fixed time trial extension handlebars and forearm supports must conform to the following:</mark>_ 
 
-_A rider makes use of a rider height category exemption, must inform the commissaires' panel at the time of the bike check. For clarity, the default distances mentioned above will be applied by the commissaires panel if the respective height category exemption is not communicated by the rider._ 
+- _<mark>Forearm supports must be made up of two parts (one part for each forearm) and are only allowed if extensions are added;</mark>_ 
 
-_In addition, all fixed time trial extension handlebars and forearm supports must conform to the following:_ 
+- _<mark>The maximum width of each forearm support is 125 mm;</mark>_ 
+
+- _<mark>The maximum length of each forearm support is 125 mm;</mark>_ 
+
+- _<mark>The minimum length of each forearm support is 60 mm;</mark>_ 
+
+- _<mark>The maximum height of each forearm support is 85 mm;</mark>_ 
+
+- _<mark>The maximum inclination of each elbow rest</mark>_ _<u><mark>forearm support</mark></u>_ _<mark>(measured on the support surface of the arm) is 30 degrees;</mark>_ 
+
+- _<mark>The maximum dimension of the cross section of each extension is 50 mm;</mark>_ 
+
+- _<mark>If both sections of the fixed time trial extension handlebar are joined by part, the maximum dimension of the cross section 80 mm;</mark>_ 
+
+- _<mark>The maximum dimension of the cross section of each mounting accessory is 80 mm;</mark>_ 
+
+- _<mark>For integrated</mark>_ <u><mark>equipment</mark></u> _<u><mark>, an isosceles compensation triangle of 40 mm sides is</mark></u>_ _<mark>authorised at the joint between each extension and the mounting accessory.</mark>_ 
 
 44 
 
@@ -1186,17 +1211,23 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0045-01.png)
 
-_- Two isosceles compensation triangles of 40 mm sides are authorised at the joints between the stem and the base bar; - The maximum dimension of the cross section of the base bar is 80 mm; - The minimum dimension of the cross section of all fork accessory is 10 mm; - The maximum dimension of the cross section of the stem is 80 mm;_ 
+- _<mark>Two isosceles compensation triangles of 40 mm sides are authorised at the joints between the stem and the base bar;</mark>_ 
 
-![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0045-03.png)
+- _<mark>The maximum dimension of the cross section of the base bar is 80 mm;</mark>_ 
 
-## HEIGHT CATEGORIES 
+- _<mark>The minimum dimension of the cross section of all fork accessory is 10 mm;</mark>_ 
+
+- _<mark>The maximum dimension of the cross section of the stem is 80 mm;</mark>_ 
+
+![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0045-06.png)
+
+#### <u>HEIGHT CATEGORIES</u> 
 
 Riders in Category 2, 3 must submit a rider height attestation via an online submission available on the UCI website. 
 
 In case a rider is not on the UCI List riders height Categories 2 and 3 on the day of the event, the UCI Commissaire can measure the height on-site, allowing the rider to compete under the respective Height Category. Nevertheless, the attestation must be submitted afterwards to be able to be added on the list. 
 
-## BASE BAR 
+#### <u>BASE BAR</u> 
 
 The cockpit which comprises the base bar and the stem must be able to fit entirely within the template formed by 5 rectangular boxes of 80 mm width and the compensation triangles as shown by the diagram below. 
 
@@ -1230,11 +1261,11 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 - Stem (5): The upper line of the box can be positioned at the desired length provided that it meets the prevailing quality and safety standards for bicycles; the lower line of the box is limited by the dimensional restrictions of the frame components between the head tube and the handlebars stem box (see Article 1.3.020). 
 
-Manufacturers are free to adjust the positioning of the boxes provided that the equipment geometry respects all articles of the technical regulations and the equipment is entirely contained within the boxes and does not present any apparent dangers (protruding parts or sharp angles). 
+Manufacturers are free to adjust the positioning of the boxes provided that the equipment geometry respects all articles of the technical regulations and the <u>equipment is entirely</u> contained within the boxes and does not present any apparent dangers (protruding parts or sharp angles). 
 
 Any extension of the element boxes beyond the points described above in order to contain certain parts is prohibited. 
 
-## BASE BAR, ELEMENT DIMENSIONS 
+#### <u>BASE BAR, ELEMENT DIMENSIONS</u> 
 
 The terms “maximum/minimum dimension of the cross section” used in the article should be understood to be the largest and smallest dimensions of element sections respectively, i.e. the maximum and minimum dimensions authorized in any direction. 
 
@@ -1276,13 +1307,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0049-01.png)
 
-## FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR 
+<u>FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR</u> 
 
-The maximum inclination of each forearm support should be measured in relation to the reference plane. The regulation regarding the 30 degrees as well as the 125mm and 50mm <del>4 cm</del> aim to avoid any fairing by using large extensions or a too big inclination. 
+The maximum inclination of each <u>forearm support</u> should be measured in relation to the reference plane. The regulation regarding the 30 degrees as well as the 125mm and 50mm <del>4 cm</del> aim to avoid any fairing by using large extensions or a too big inclination. 
 
-The article must be understood so that the extension can be of a 50mm maximal section (width and height). On this extension, one part, the “ _forearm support_ ” can be wider than 50mm and can go up to 125mm wide (projected surface). This part can be of a 125mm maximal length. 
+The article must be understood so that the extension can be of a 50mm maximal section (width and height). On this extension, one part, the “ _<u>forearm support</u>_ ” can be wider than 50mm and can go up to 125mm wide (projected surface). This part can be of a 125mm maximal length. 
 
-The extensions, mounting and any other accessories (controls, levers, etc.)  must be able to fit entirely within the template formed by 6 rectangular boxes and the compensation triangles as shown by the diagram below. 
+The extensions, mounting and any other accessories (controls, levers, etc.)  must be able to fit entirely within the template formed by 6 <u>rectangular boxes</u> and the compensation triangles as shown by the diagram below. 
 
 A template formed by red boxes for each element is shown below. 
 
@@ -1328,7 +1359,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 An additional Mounting accessory box (6) of 125mm length may be added in between the Extension (3) box and the Forearm support box (5). The position of the box may vary but never cross the area defined by the vertical planes passing through the extremity point of the front line of the Forearm support box (5) and the rear line of the Extension (3) box. The maximum/minimum dimension of the cross section cannot exceed the section view length to width of 125mm x 50mm or 80mm (in case sections of extensions are joined by part). The box must be used solely for the adjustment and/or fixation purposes of the Forearm support box. The use of the box for any other reason is forbidden. 
 
-## _•_ Forearm support (5): 
+- <u>Forearm support (5):</u> 
 
 Each forearm support must be able to fit entirely within its own rectangular box (5) of 85 mm width. The box may overlap the Extension (3) box or the additional Mounting accessory box (6). 
 
@@ -1340,15 +1371,13 @@ The minimum length of forearm supports is limited to 60 mm.
 
 _Figure 42 Illustration of the Forearm support box position_ 
 
-Manufacturers are free to adjust the positioning of the boxes provided that the equipment geometry respects all articles of the technical regulations and the equipment is entirely contained within the boxes and does not present any apparent dangers (protruding parts or sharp angles). 
+Manufacturers are free to adjust the positioning of the boxes provided that the equipment geometry respects all articles of the technical regulations and the <u>equipment is entirely</u> contained within the boxes and does not present any apparent dangers (protruding parts or sharp angles). 
 
 Any extension of the element boxes beyond the points described above in order to contain certain parts is prohibited. 
 
-## FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR, ELEMENT DIMENSIONS 
+#### <u>FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR, ELEMENT DIMENSIONS</u> 
 
-The terms “maximum/minimum dimension of the cross section” used in the article should be understood to be the largest and smallest dimensions of element sections respectively, i.e. the maximum and minimum dimensions authorized in any direction. 
-
-A tolerance of one millimeter is allowed for the elements to account for the thickness of surface coatings (paint and sponsors’ logos). No tolerance is allowed when inspecting technical designs. 
+The terms “maximum/minimum dimension of the cross section” used in the article should be understood to be the largest and smallest dimensions of element sections respectively, i.e. the maximum and minimum dimensions authorized in any direction. A tolerance of one millimeter is allowed for the elements to account for the thickness of surface coatings (paint and sponsors’ logos). No tolerance is allowed when inspecting technical designs. 
 
 52 
 
@@ -1376,7 +1405,7 @@ Sections A to D on the illustration represent the limits of these areas and are 
 
 The regulations do not concern the transition zones between elements. 
 
-## MULTIPLE ELEMENTS 
+#### <u>MULTIPLE ELEMENTS</u> 
 
 Multiple elements are authorized for the stem and base bars. 
 
@@ -1394,9 +1423,9 @@ _Figure 44: Example of a compliant section of an element formed by two tubes_
 
 In the event of a multiple elements of a length shorter than 80 mm, the same conditions as for other multiple elements apply with the exception that only one tube must respect the minimum section dimension of 10 mm. This scenario is limited to one exception per element. 
 
-## FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR JOINED BY PART 
+#### <u>FIXED ADDITIONAL TIME TRIAL EXTENSION HANDLEBAR JOINED BY PART</u> 
 
-In case when both extensions are joined by part, the maximum dimension of the cross section of the joined part is 80mm. Other dimensional restrictions remain unchanged. 
+In case when both extensions are joined by part, the maximum <u>dimension of the cross section</u> of the joined part is 80mm. Other dimensional restrictions remain unchanged. 
 
 54 
 
@@ -1408,13 +1437,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 45 Illustration of extensions joined by part_ 
 
-## BINDING ELEMENT 
+#### <u>BINDING ELEMENT</u> 
 
-Any binding element (bridge) between the fixed additional time trial extension handlebar, forearm supports is considered as the continuation of the fixed additional time trial extension handlebar. Therefore, the maximum dimension of the cross section of the binding element must be 50 mm. Any binding element between stack/raisers must follow the identical restrictions. The binding element must be positioned at the horizontal distance equal to 80 mm or greater, from the vertical plane passing through the extremity of the handlebars extensions. 
+Any binding element (bridge) between the <u>fixed additional time trial extension handlebar,</u> forearm supports is considered as the continuation of the <u>fixed additional time trial extension handlebar. Therefore, the maximum dimension of the cross section</u> of the binding element must be 50 mm. Any binding element between stack/raisers must follow the identical restrictions. The binding element must be positioned at the horizontal distance equal to 80 mm or greater, from the vertical plane passing through the extremity of the handlebars extensions. 
 
 Multiple binding elements are forbidden. Only one binding element can be placed in the mentioned areas. 
 
-## BINDING ELEMENT, ELEMENT DIMENSIONS 
+#### <u>BINDING ELEMENT, ELEMENT DIMENSIONS</u> 
 
 Sections A to B in the illustration below represent the limits of these areas and are defined as follows: 
 
@@ -1434,9 +1463,9 @@ The regulations do not concern the transition zones between elements.
 
 _Figure 46: Illustration of the binding element_ 
 
-## SITUATION AROUND THE HEIGHT DIFFERENCE BETWEEN THE FOREARM SUPPORT POINT AND THE HIGHEST OR LOWEST POINT OF THE HANDLEBARS EXTENSION 
+#### <u>SITUATION AROUND THE HEIGHT DIFFERENCE BETWEEN THE FOREARM SUPPORT POINT AND THE HIGHEST OR LOWEST POINT OF THE HANDLEBARS EXTENSION</u> 
 
-The fixed additional time trial extension handlebar plus any accessories (controls, levers, etc.) must be within ± 100 or ±120 or ±140 mm (as per provisions of article 1.3.023) with a tolerance of 5mm from the level defined by the middle of the forearm supports. Forearm supports pads must not be considered during the measurement. Any moving parts have to be placed in the most vertical position that can remain unsupported through their range of movement. 
+The <u>fixed additional time trial extension handlebar</u> plus any accessories (controls, levers, etc.) must be within ± 100 or ±120 or ±140 mm (as per provisions of article 1.3.023) with a tolerance of 5mm from the level defined by the middle of the forearm supports. Forearm supports pads must not be considered during the measurement. Any moving parts have to be placed in the most vertical position that can remain unsupported through their range of movement. 
 
 To check, rotate the levers to the highest point and allow to rest, and then take the measurement for the +100/+120/+140 mm (as per provisions of article 1.3.023) position. If necessary, rotate the lever to the lowest point and take the measurement for the -100/120/-140 mm (as per provisions of article 1.3.023) position. The measurements of the upper and lower limits are taken in the front half of the fixed additional time trial extension handlebar. 
 
@@ -1466,7 +1495,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 49 Illustration of the maximum inclination of each elbow rest_ 
 
-Having the fixed additional time trial extension handlebar taped or moulded on the complete length is authorised as long as the conditions mentioned above are respected. It is possible to have the _forearm support_ integrated in the extension. 
+Having the <u>fixed additional time trial extension handlebar taped or moulded on the</u> complete length is authorised as long as the conditions mentioned above are respected. It is possible to have the _<u>forearm support</u>_ integrated in the extension. 
 
 The fixed additional time trial extension handlebar with all their accessories (controls, levers, etc. and all their mounting accessories) must be included within the maximum distance allowed from the bottom bracket axle. Any moving parts have to be placed in the most horizontal position that can remain unsupported through their range of movement. 
 
@@ -1482,15 +1511,13 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0059-01.png)
 
-## SITUATION AROUND POSITION FOR TRACK, ROAD AND CYCLO-CROSS EVENTS 
+<u>SITUATION AROUND POSITION FOR TRACK, ROAD AND CYCLO-CROSS EVENTS</u> 
 
 - For track events, road and cyclo-cross (mass events): the position with the saddle withdrawn at least 50 mm behind a vertical plane passing through the center the bottom bracket and a maximum advancement of the handlebars of 100 mm in front of the front wheel axle. An exemption is possible for riders who want to bring the tip of the saddle forward up to the vertical plane passing through the center of the bottom bracket. 
 
 - For track pursuit events (individual pursuit, team pursuit) and road individual events (ITT, TTT and the Mixed Team Relay): the position the saddle withdrawn at least 50 mm behind a vertical plane passing through the center of the bottom bracket and an advanced position for handlebars extensions of a maximum of 750 mm in front of the center of the bottom bracket. An exemption is possible for riders who want to bring the tip of the saddle forward up to the vertical plane passing through the center of the bottom bracket. Furthermore, an exemption for morphological reasons is possible for riders who want to advance the handlebars extension to up to 800/830/850 mm in front of the center of the bottom bracket. Only one exemption is allowed per rider. 
 
 - For time trials (500 m or 1 km): the position with the saddle withdrawn at least 50 mm behind a vertical plane passing through the center the bottom bracket and a maximum advancement of the handlebars of 100 mm in front of the front wheel axle. In case of using handlebars extensions, an advanced position of a maximum of 750 mm in front of the center of the bottom bracket. An exemption is possible for riders who want to bring the tip of the saddle forward up to the vertical plane passing through the center of the bottom bracket. Furthermore, an exemption is possible for riders who want to advance the handlebars extension to up to 800/830/850 mm in front of the center of the bottom bracket. Only one exemption is allowed per rider. 
-
-- 
 
 - The chart below offers a summary of authorised positions. 
 
@@ -1502,12 +1529,12 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0060-02.png)
 
-**----- Start of picture text -----**<br>
-Handlebar - Type  Discipline  Event  Saddle  Handlebar<br>Road / Cyclo-cross  Mass events<br>Sprint<br>Team Sprint<br>Sprint – Flying Lap<br>100 mm max<br>Keirin<br>Traditional Handlebars<br>Points Race<br>Track  Elimination Race<br>Scratch<br>Madison  ----------------------------<br>750 mm max or 800<br>-50 mm max or 0  mm max / 100 mm<br>500m / 1km  vertical limit<br>(in case of exemption)<br>(in case of<br>Individual /<br>exemption)<br>Team Pursuit<br>OR<br>830 mm max / 120<br>mm vertical limit<br>(in case the height of<br>Extensions  the rider is 180-189,9<br>ITT / TTT /  cm tall)<br>Road<br>Mixed Time Trial  OR<br>850 mm max / 140<br>mm vertical limit<br>(in case the height of<br>the rider is 190 cm<br>tall or taller)<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+Handlebar - Type  Discipline  Event  Saddle  Handlebar<br>Road / Cyclo-cross  Mass events<br>Sprint<br>Team Sprint<br>Sprint – Flying Lap<br>100 mm max<br>Keirin<br>Traditional Handlebars<br>Points Race<br>Track  Elimination Race<br>Scratch<br>Madison  ----------------------------<br>750 mm max or 800<br>-50 mm max or 0  mm max / 100 mm<br>500m / 1km  vertical limit<br>(in case of exemption)<br>(in case of<br>Individual /<br>exemption)<br>Team Pursuit<br>OR<br>830 mm max / 120<br>mm vertical limit<br>(in case the height of<br>Extensions  the rider is 180-189,9<br>ITT / TTT /  cm tall)<br>Road<br>Mixed Time Trial  OR<br>850 mm max / 140<br>mm vertical limit<br>(in case the height of<br>the rider is 190 cm<br>tall or taller)<br><!-- End of picture text -->
 
 _Figure 51: Authorised positions for saddle and handlebars/handlebars extensions_ 
 
-HANDLEBARS EXTENSIONS / BASE BARS, APPROVAL PROCEDURE, AS FROM 1.1.2023 
+<u>HANDLEBARS EXTENSIONS / BASE BARS, APPROVAL PROCEDURE, AS FROM 1.1.2023</u> 
 
 This procedure does not apply to handlebars extensions / base bars which, on 1 January 2023, are: 
 
@@ -1527,17 +1554,17 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0061-02.png)
 
-## **ARTICLE 1.3.024** 
+### **<mark>ARTICLE 1.3.024</mark>** 
 
-_“Any device, added or blended into the structure, that is destined to decrease, or which has the effect of decreasing, resistance to air penetration or artificially to accelerate propulsion, such as a protective screen, fuselage form fairing or the like, shall be prohibited.”_ 
+_<mark>“Any device, added or blended into the structure, that is destined to decrease, or which has the effect of decreasing, resistance to air penetration or artificially to accelerate propulsion, such as a protective screen,</mark>_ _<u><mark>fuselage form fairing or the like, shall be prohibited.”</mark></u>_ 
 
 Protective screens, fuselages, fairings or any other device that is added or blended into the structure, and that is destined or have the effect of reducing resistance to air penetration, are prohibited. Aerodynamic assemblies and protuberances on the head tube or elsewhere are prohibited. 
 
-## PROTECTIVE SCREEN 
+#### <u>PROTECTIVE SCREEN</u> 
 
-_“A protective screen shall be defined as a fixed component that serves as a windscreen or windbreak designed to protect another fixed element of the bicycle in order to reduce its wind resistance.”_ 
+_<mark>“A protective screen shall be defined as a fixed component that serves as a windscreen or windbreak designed to protect another fixed element of the</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>in order to reduce its wind resistance.”</mark>_ 
 
-A protective screen, shown by the diagram below, is defined as a fixed element acting as a cover, screen or windbreak designed to protect another component of the bicycle in order to reduce its wind resistance. This device is prohibited in competition. 
+A protective screen, shown by the diagram below, is defined as a fixed element acting as a cover, screen or windbreak designed to protect another component of the <u>bicycle</u> in order to reduce its wind resistance. This device is prohibited in competition. 
 
 61 
 
@@ -1623,9 +1650,9 @@ With regards to covers over brakes, it is important to distinguish between the t
 
 It should be noted that brake systems that are integrated or use a cover must be submitted to the UCI during the approval procedure for frames and forks, and in any case before use in competition. 
 
-## FUSELAGE 
+<u>FUSELAGE</u> 
 
-_“A fuselage form shall be defined as an extension or streamlining of a section. This shall be tolerated as long as the ratio between the length L and the diameter D does not exceed established dimensional requirements as defined in articles 1.3.020 (framesets), 1.3.022 and 1.3.023 (handlebars, base bars and fixed time trial extension).”_ 
+_<mark>“A fuselage form shall be defined as an extension or streamlining of a section. This shall be tolerated as long as the ratio between the length L and the diameter D does not exceed established dimensional requirements as defined in articles 1.3.020 (framesets), 1.3.022 and 1.3.023 (handlebars, base bars and fixed time trial extension).”</mark>_ 
 
 The rule does not apply to moving parts (wheels and chainset), front and rear derailleur bodies, braking systems for wheels, saddle and pedals. 
 
@@ -1643,9 +1670,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 58: Illustration of the restriction around the fuselage form of elements_ 
 
-## FAIRING 
+#### <u>FAIRING</u> 
 
-_“A fairing shall be defined as the use or adaptation of a component of the bicycle in such a fashion that it encloses a moving part of the bicycle such as the wheels or the chainset. Therefore it should be possible to pass a rigid card (like a credit card) between the fixed structure and the moving part.”_ 
+_<mark>“A fairing shall be defined as the use or adaptation of a component of the bicycle in such a fashion that it encloses a moving part of the</mark>_ _<u><mark>bicycle</mark></u>_ _<mark>such as the wheels or the chainset. Therefore it should be possible to pass a rigid card (like a credit card) between the fixed structure and the moving</mark>_ _<u><mark>part.”</mark></u>_ 
 
 If the seat tube mirrors the curve of the wheel it must not enclose it. It must be possible to insert a credit card freely and without bending between the tube and the wheel as shown by the illustrations below. 
 
@@ -1665,11 +1692,11 @@ _Figure 60: Insertion of a credit card between the wheel and frame to check that
 
 Similarly, the addition of a fairing to cover chainwheels, chains or any other moving part of the bicycle is prohibited. 
 
-## **ARTICLE 1.3.024 BIS** 
+### **<mark>ARTICLE 1.3.024 BIS</mark>** 
 
-BOTTLES 
+<u>BOTTLES</u> 
 
-_“Bottles shall not be integrated to the frame and may only be located on the down and seat tubes on the inside of the frame. The dimensions of the cross sections of a bottle used in competition must not exceed 10 cm or be less than 4 cm and their capacity must be a minimum of 400 ml and a maximum of 800 ml.”_ 
+_<mark>“Bottles shall not be integrated to the frame and may only be located on the down and seat tubes on the inside of the frame. The dimensions of the cross sections of a bottle used in competition must not exceed 10 cm or be less than 4 cm and their capacity must be a minimum of 400 ml and a maximum of 800 ml.”</mark>_ 
 
 Bottles were increasingly moving away from their original function of allowing riders to rehydrate towards an alternative use as aerodynamic elements which are integrated into the design of frames in order to improve riders' performances. It is essential to regulate the positioning and dimensions of bottles in order to avoid any deviations and to return bottles to their principal function. 
 
@@ -1701,9 +1728,9 @@ _Figure 62: Illustration of the areas of a bottle where the dimensions are subje
 
 Finally, the capacity is also specified in order to guarantee that bottles are used for rehydration purposes and to prevent any deviations. If bottles with a volume in excess of 500 ml are used, it is recommended that the bottle attachment system should be checked to ensure that it can bear a weight in excess of 0.5 kg. 
 
-## BOTTLE CAGE 
+#### <u>BOTTLE CAGE</u> 
 
-A bottle cage is an add-on accessory to the frame and it can be integrated into the frame design. The bottle cage may only be located on the down tube or the seat tube on the inside of the frame. The bottle cage and the bottle must be able to fit entirely within a rectangular box of 130 mm width. The 130 mm width of the box is measured perpendicular to the axis of the fluid exit direction along the length of the bottle (i.e. parallel to the cap threading direction), whilst being attached to the bottle cage. 
+A <u>bottle cage</u> is an add-on accessory to the frame and it can be integrated into the frame design. The bottle cage may only be located on the down tube or the seat tube on the inside of the frame. The bottle cage and the bottle must be able to fit entirely within a rectangular <u>box of 130 mm width. The 130 mm width of the box is measured perpendicular to the axis of</u> the fluid exit direction along the length of the bottle (i.e. parallel to the cap threading direction), whilst being attached to the bottle cage. 
 
 The box may overlap the down tube and/or the seat tube. 
 
@@ -1713,7 +1740,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0070-01.png)
 
-The bottle cage must be used solely for the secure fixation of the bottle. The use of the bottle cage for any other reason is forbidden. A tolerance of 5mm is allowed during the onsite checks. 
+The <u>bottle cage</u> must be used solely for the secure fixation of the bottle. The use of the <u>bottle cage for any other reason is forbidden. A tolerance of 5mm is allowed during the on-</u> site checks. 
 
 It should be noted that bottle cages that are integrated must be submitted by a manufacturer to the UCI during the approval procedure for framesets, and in any case before use in competition. 
 
@@ -1721,7 +1748,7 @@ It should be noted that bottle cages that are integrated must be submitted by a 
 
 _Figure 63: Illustration of the positioning of the bottle cage boxes_ 
 
-## CAMELBACK 
+#### <u>CAMELBACK</u> 
 
 Hydration is an essential physiological consideration for athletes during a physical effort. Neither bottles nor camelback systems should diverge from their original function. 
 
@@ -1749,17 +1776,19 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 64: Example of the use of a non-compliant camelback system_ 
 
-## **ARTICLE 1.3.024 QUARTER** 
+### **<mark>ARTICLE 1.3.024 QUARTER</mark>** 
 
-_“The UCI may fit, or appoint its agents or commissaires to fit, onboard technology devices for the purpose of detecting technological fraud during competition. Refusal by a team or rider to comply with instructions to carry such onboard technology devices may lead to the imposition of disciplinary measures in accordance with article 1.3.003bis.” (article introduced on 15.02.19)_ 
+_<mark>“The UCI may fit, or appoint its agents or commissaires to fit, onboard technology devices for the purpose of detecting technological fraud during competition. Refusal by a team or rider to comply with instructions to carry such onboard technology devices may lead to the imposition of disciplinary measures in accordance with article 1.3.003bis.”</mark>_ _<u><mark>(article introduced on 15.02.19)</mark></u>_ 
 
-## **ARTICLE 1.3.025** 
+### **<mark>ARTICLE 1.3.025</mark>** 
 
-_“Freewheels, multiple gears and brakes are not permitted for use on the track during competition or training._ 
+_<mark>“Freewheels, multiple gears and brakes are not permitted for use on the track during competition or training.</mark>_ 
 
-_Disc brakes are allowed in cyclo-cross training and competition. Disc brakes are allowed in mountain bike training and competition. Disc brakes are allowed in road race and time trial training and competition. Disc brakes are allowed in BMX training and competition. Disc brakes are allowed in Trials training and competition._ 
+_<mark>Disc brakes are allowed in cyclo-cross training and competition. Disc brakes are allowed in mountain bike training and competition. Disc brakes are allowed in road race and time trial training and competition. Disc brakes are allowed in BMX training and competition.</mark>_ 
 
-_For races on the road and cyclo-cross, the use of fixed sprocket is forbidden: a braking system that acts on both wheels is required.” (text modified on 01.07.18)_ 
+_<mark>Disc brakes are allowed in Trials training and competition.</mark>_ 
+
+_<mark>For races on the road and cyclo-cross, the use of fixed sprocket is forbidden: a braking system that acts on both wheels is required.”</mark>_ _<u><mark>(text modified on 01.07.18)</mark></u>_ 
 
 With regard to the use of disc brakes in the road disciplines, for safety reasons, the discs must imperatively be chamfered. 
 
@@ -1779,29 +1808,29 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 No additional elements are authorized (the chain tensioner, a derailleur, etc.). For safety reasons and in line with this constraint, chainrings and sprockets must be of a circular shape. 
 
-## Section 3: riders’ clothing 
+## <u>Section 3: riders’ clothing</u> 
 
-§ 1 General provisions 
+## § 1 General provisions 
 
-## **ARTICLE 1.3.026** 
+### **<mark>ARTICLE 1.3.026</mark>** 
 
-_“When competing, all riders shall wear a jersey with sleeves and a pair of shorts, possibly in the form of a one-piece skinsuit. By shorts it is understood that these are shorts that come above the knee. Sleeveless jerseys shall be forbidden._ 
+_<mark>“When competing, all riders shall wear a jersey with sleeves and a pair of shorts, possibly in the form of a one-piece skinsuit. By shorts it is understood that these are shorts that come above the knee. Sleeveless jerseys shall be forbidden.</mark>_ 
 
-_However, for downhill, four-cross and Enduro mountain bike events, BMX, trials and indoor cycling, specific provisions are laid down in the part of the regulations concerning the discipline in question.” (text modified on 01.01.20)_ 
+_<mark>However, for downhill, four-cross and Enduro mountain bike events, BMX, trials and indoor cycling, specific provisions are laid down in the part of the regulations concerning the discipline in question.”</mark>_ _<u><mark>(text modified on 01.01.20)</mark></u>_ 
 
 By jersey with sleeves it is understand a jersey that leaves hands not covered. Consequently, integrated gloves in a jersey or a skinsuit are prohibited. 
 
-## **ARTICLE 1.3.027** 
+### **<mark>ARTICLE 1.3.027</mark>** 
 
-_“Jerseys shall be sufficiently distinct from world champions', UCI cup and classification leaders' and national jerseys to avoid confusion.”_ 
+_<mark>“Jerseys shall be sufficiently distinct from world champions', UCI cup and classification leaders' and national jerseys to avoid confusion.”</mark>_ 
 
-## **ARTICLE 1.3.028** 
+### **<mark>ARTICLE 1.3.028</mark>** 
 
-_“Save in cases expressly provided for in the regulations, no distinctive jersey may be awarded or worn.”_ 
+_<mark>“Save in cases expressly provided for in the regulations, no distinctive jersey may be awarded or worn.”</mark>_ 
 
-## **ARTICLE 1.3.029** 
+### **<mark>ARTICLE 1.3.029</mark>** 
 
-_“No item of clothing may hide the lettering on the jersey or the rider's identification number, particularly in competition and at official ceremonies.”_ 
+_<mark>“No item of clothing may hide the lettering on the jersey or the rider's identification number,</mark>_ _<u><mark>particularly in competition and at official ceremonies.”</mark></u>_ 
 
 During past seasons the UCI has observed the trend of riders/teams to move away from traditional pin-on techniques to number pockets, i.e., number pockets made from clear plastic or mesh fabric where the identification number is placed inside. Various cycling stakeholders (Commissaires, Fans, and Commentators) have reported difficulties in reading the identification number due to the non-transparent nature of the mesh-based number pockets. 
 
@@ -1819,35 +1848,41 @@ For individual events, number pockets will be permitted.
 
 Below you will find a breakdown per event where the use of number pockets is permitted. 
 
-|**TRACK**|**Number Pockets**||
-|---|---|---|
-|Individual/Team Pursuit|**OK**||
-|Mass events|**X**||
-|Sprint|**X**||
-|Team Sprint|**OK**||
-|The 200 metres Time Trial|**X**||
-|Keirin|**X**||
-|Points Race|**X**||
-|Elimination Race|**X**||
-|Scratch|**X**||
-|Madison|**X**||
-|Kilometre and 500 metres Time Trial|**OK**||
-|**ROAD**|||
-|ITT/TTT/Mixed Time Trial|**OK**||
-|Mass events|**X**||
-|**CYCLO-CROSS**|**X**||
+|**TRACK**|**Number Pockets**|
+|---|---|
+|Individual/Team Pursuit|**OK**|
+|Mass events|**X**|
+|Sprint|**X**|
+|Team Sprint|**OK**|
+|The 200 metres Time Trial|**X**|
+|Keirin|**X**|
+|Points Race|**X**|
+|Elimination Race|**X**|
+|Scratch|**X**|
+|Madison|**X**|
+|Kilometre and 500 metres Time Trial|**OK**|
+|**ROAD**||
+|ITT/TTT/Mixed Time Trial|**OK**|
+|Mass events|**X**|
+|**CYCLO-CROSS**|**X**|
 
 _Figure 65 Table of events where the use of number pockets is permitted_ 
 
-## **ARTICLE 1.3.030** 
+### **<mark>ARTICLE 1.3.030</mark>** 
 
-_“Rain jackets must be either transparent, the same colour as the team jersey or display the team’s name or logo on their front and back. The minimum size of the inscription shall be at least 20cm in height or width.” (text modified on 23.10.19)_ 
+_<mark>“Rain jackets must be either transparent, the same colour as the team jersey or display the team’s name or logo on their front and back. The minimum size of the inscription shall be at least 20cm in height or width.”</mark>_ 
 
-## **ARTICLE 1.3.031** 
+_<u><mark>(text modified on 23.10.19)</mark></u>_ 
 
-_1. “Wearing a rigid safety helmet shall be mandatory during competitions and official training sessions in the following disciplines in all disciplines except indoor cycling and BMX Freestyle Flatland_ 
+### **<mark>ARTICLE 1.3.031</mark>** 
 
-_In all disciplines concerned wearing a rigid safety helmet is recommended outside of competitions and official training sessions. In any case, legal provisions must be complied with. 2. Each rider shall be responsible for: - Ensuring that the helmet is approved in compliance with an official security standard and that the helmet can be identified as approved;_ 
+_<mark>1. “Wearing a rigid safety helmet shall be mandatory during competitions and official training sessions in the following disciplines in all disciplines except indoor cycling and BMX</mark> Freestyle Flatland_ 
+
+_<mark>In all disciplines concerned wearing a rigid safety helmet is recommended outside of competitions and official training sessions. In any case, legal provisions must be complied</mark> with._ 
+
+_2. Each rider shall be responsible for:_ 
+
+_<mark>- Ensuring that the helmet is approved in compliance with an official security standard and</mark> that the helmet can be identified as approved;_ 
 
 73 
 
@@ -1855,17 +1890,19 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0074-01.png)
 
-_- wearing the helmet in accordance with the security regulations in order to ensure full protection, including but not limited to a correct adjustment on the head as well as a correct adjustment of the chin strap;_ 
+_<mark>wearing the helmet in accordance with the security regulations in order to ensure full protection, including but not limited to a correct adjustment on the head as well as a correct</mark> adjustment of the chin strap;_ 
 
-_- avoiding any manipulation which could compromise the protective characteristics of the helmet and not wearing a helmet which has been undergone manipulation or an incident which might have compromised its protective characteristics;_ 
+_<mark>avoiding any manipulation which could compromise the protective characteristics of the helmet and not wearing a helmet which has been undergone manipulation or an incident</mark> which might have compromised its protective characteristics;_ 
 
 - _using only an approved helmet that has not suffered any accident or shock;_ 
 
-_- using only a helmet that has not been altered or had any element added or removed in terms of design or form;_ 
+- _<mark>using only a helmet that has not been altered or had any element added or removed</mark>_ 
 
-_- using only accessories approved by the helmet manufacturer._ 
+- _in terms of design or form;_ 
 
-_3. For road and track disciplines, the dimensions of the helmet (including accessories) must not exceed the below dimensions:_ 
+- _using only accessories approved by the helmet manufacturer._ 
+
+_<mark>3. For road and track disciplines, the dimensions of the helmet (including accessories) must</mark> not exceed the below dimensions:_ 
 
 _Length (L) can be less or equal to 450 mm;_ 
 
@@ -1895,17 +1932,17 @@ Compliance with the dimensional restrictions is not compulsory for helmets that 
 
 - already at the production stage 
 
-## **ARTICLE 1.3.033** 
+### **<mark>ARTICLE 1.3.033</mark>** 
 
-_“Items of clothing may not modify the morphology of the rider and any non-essential element or device, of which the purpose is not exclusively that of clothing or protection, is forbidden. This shall also apply regarding any material or substance applied onto the skin or clothing and which is not itself an item of clothing._ 
+_<mark>“Items of clothing may not modify the morphology of the rider and any non-essential element or device, of which the purpose is not exclusively that of clothing or protection, is forbidden. This shall also apply regarding any material or substance applied onto the skin or</mark> clothing and which is not itself an item of clothing._ 
 
-_Modifications to the surface roughness of clothing are authorized but may only be the result of threading, weaving or assembling of the fabric. Surface roughness modifications shall be limited to a profile difference of 1mm at most._ 
+_<mark>Modifications to the surface roughness of clothing are authorized but may only be the result of threading, weaving or assembling of the fabric. Surface roughness modifications shall be</mark> limited to a profile difference of 1mm at most._ 
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0075-09.png)
 
-_The measure of surface roughness modification shall be made without pressure or traction on the clothing._ 
+_<mark>The measure of surface roughness modification shall be made without pressure or traction</mark> on the clothing._ 
 
-_All clothing must maintain the original texture of the textile and may not be adapted in a manner to integrate form constraints. Therefore, when not worn, clothing may in no case contain any self-supporting element or rigid parts.” Text modified on 04.03.19_ 
+_<mark>All clothing must maintain the original texture of the textile and may not be adapted in a manner to integrate form constraints. Therefore, when not worn, clothing may in no case</mark> contain any self-supporting element or rigid parts.”_ _<mark>Text modified on 04.03.19</mark>_ 
 
 Garments must not be adapted in any way such that they diverge from their use purely as clothing. The addition of any non-essential element or device to clothing is prohibited. The use of mechanical or electronic systems with clothing is prohibited. 
 
@@ -1943,9 +1980,9 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 _Figure 68: Example of a substance applied on the body_ 
 
-## **ARTICLE 1.3.033 BIS** 
+### **<mark>ARTICLE 1.3.033 BIS</mark>** 
 
-_“Socks and overshoes used in competition may not rise above the height defined by half the distance between the middle of the lateral malleolus and the middle of the fibula head.” Article introduced on 15.10.18_ 
+_<mark>“Socks and overshoes used in competition may not rise above the height defined by half the</mark> distance between the middle of the lateral malleolus and the middle of the fibula head.”_ _<mark>Article introduced on 15.10.18</mark>_ 
 
 In order to clarify the socks height regulation and have a fair height between riders, thefollowing height is now imposed. 
 
@@ -1953,9 +1990,9 @@ In order to clarify the socks height regulation and have a fair height between r
 
 _Figure 69: Example of forbidden product and equipment_ 
 
-## **ARTICLE 1.3.034** 
+### **<mark>ARTICLE 1.3.034</mark>** 
 
-_“During competitions, riders' attendants may not bear any advertising matter on their clothing other than that authorized for their team's riders for the race in question.”_ 
+_<mark>“During competitions, riders' attendants may not bear any advertising matter on their clothing other than that authorized for their team's riders for the race in question.”</mark>_ 
 
 77 
 
@@ -1963,7 +2000,7 @@ CLARIFICATION GUIDE OF THE UCI TECHNICAL REGULATION
 
 ![](images/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20240401_-_ENG.pdf-0078-01.png)
 
-## **TRACKING MODIFICATIONS (HIGHLIGHTED IN RED)** 
+### **<mark>TRACKING MODIFICATIONS (HIGHLIGHTED IN RED)</mark>** 
 
 |_VERSION_|**ARTICLE**|
 |---|---|

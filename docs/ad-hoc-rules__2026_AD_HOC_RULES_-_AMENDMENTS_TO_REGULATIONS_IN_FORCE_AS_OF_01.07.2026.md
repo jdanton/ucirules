@@ -4,11 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/7uLMptMENGkfvDnlhblv1T/d7b
 source_sha256: d84dfd6b5201edab5187a4f4f6afc77b8bc2e105e257d51b9dec38bd97c33097
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-## **AD HOC RULES** 
+# **AD HOC RULES** 
 
-## **Version on 01.07.2026** 
+**Version on 01.07.2026** 
 
 ## **§ Preliminary provisions and scope of application** 
 
@@ -16,7 +17,7 @@ converter: pymupdf4llm
 
 - **2** The Rules shall be applicable to all cycling categories and disciplines. 
 
-- **3** The Rules shall be applicable until further notice. The present version of the Rules, approved by the Management Committee on 2 June 2026, enters into force on 1[st] July 2026. 
+- **3** The Rules shall be applicable until further notice. The present version of the Rules, approved by the Management Committee on 2 June 2026, enters into force on 1<sup>st</sup> July 2026. 
 
 ## **§ Participation rules** 
 

@@ -4,9 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3SMPW9kcLaPNZKFtOAGpNS/db4
 source_sha256: 74bfebf8b88348f31cb0ee69f8c5ae1600f183c3e28c5e46d9c7f8d79afd5e55
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-## **PART 9 WORLD CHAMPIONSHIPS Version on 01.01.2026** 
+# **PART 9 WORLD CHAMPIONSHIPS** 
+
+**Version on 01.01.2026** 
 
 WORLD CHAMPIONSHIPS 
 
@@ -16,7 +19,7 @@ E0126
 
 ## **PART 9 WORLD CHAMPIONSHIPS** 
 
-## **Chapter I ORGANISATION OF WORLD CHAMPIONSHIPS** 
+### **Chapter I ORGANISATION OF WORLD CHAMPIONSHIPS** 
 
 - **9.1.001** Each year a World Championship shall be held according to the results of which the title of World Champion is conferred on the winners of races included in a programme determined by the Management Committee. 
 
@@ -36,7 +39,7 @@ Furthermore, the UCI may enter into a contract with a sponsor for the supply of 
 
 - **9.1.003** Races for the allocation of the World Champion title may be distributed over several separately organised events. The Management Committee shall set the number and the programme of such events. Each of those events shall be called “World Championships” qualified by a particular indication determined by the Management Committee depending on the particular speciality (“Road”, “Mountain-Bike”, etc.) 
 
-## **Allocation of organisation** 
+##### **Allocation of organisation** 
 
 - **9.1.004** The UCI shall entrust the organisation of World Championships to one UCI member National Federation or, with the agreement of the National Federation of the country where the Championship will take place, to some other organiser. 
 
@@ -50,7 +53,7 @@ Furthermore, the UCI may enter into a contract with a sponsor for the supply of 
 
 - **9.1.009** The UCI shall allocate the organisation of the World Championships at its sole discretion. 
 
-The Executive Committee will make a preselection of the candidates that it deems the most appropriate for guaranteeing a high level organisation and will submit these candidates to the Management Committee. 
+   - The Executive Committee will make a preselection of the candidates that it deems the most appropriate for guaranteeing a high level organisation and will submit these candidates to the Management Committee. 
 
 The Management Committee will seek a consensus. 
 
@@ -82,7 +85,7 @@ the Executive Committee may cancel or withdraw the right to organise the champio
 
 _(text modified on 01.01.04)_ 
 
-## **Championship programme** 
+##### **Championship programme** 
 
 - **9.1.011** The date, the duration and programme of each World Championships shall be determined by the UCI Management Committee. 
 
@@ -106,7 +109,7 @@ E0126
 
 - **9.1.015** In the case of a brief postponement, riders, commissaires and all other persons involved in the event, shall remain at the venue, unless otherwise decided by the Management Committee. 
 
-## **Protection** 
+##### **Protection** 
 
 - **9.1.016** Riders engaged and not replaced 48 hours before the start of competitions in the speciality in question as well as, where applicable, any substitutes may not participate in any cycling race during the two days preceding the start of the competition for which they were entered. 
 
@@ -116,7 +119,7 @@ Any breach of this rule will incur a fine of CHF 500 to CHF 10,000.
 
 Any organiser contravening that provision shall be liable to a fine of CHF 10,000. Riders participating in such an event shall be liable to a fine of CHF 500 to CHF 10,000. 
 
-## **Participating National Federations** 
+##### **Participating National Federations** 
 
 - **9.1.018** Each National Federation shall participate in World Championships in a spirit of friendship and fair play and contribute to the utmost to the success of the Championships. 
 
@@ -128,7 +131,7 @@ Any organiser contravening that provision shall be liable to a fine of CHF 10,00
 
 - **9.1.022** In general each National Federation shall co-operate with the organiser and, to the extent possible, facilitate his work. 
 
-## **Meetings** 
+##### **Meetings** 
 
 - **9.1.023** Before the beginning of races in each speciality, the organiser shall convene an information and co-ordination meeting attended by his representatives as well as by the UCI representatives all Technical Managers, commissaires, the official UCI doctor and representatives of the security services. That meeting shall be chaired by a representative of the organiser. For mountain bike disciplines, a maximum of 3 representatives per nation (including, where required, an interpreter) shall be authorised to take part in this meeting. For Track, attendance at the Team Manager’s meeting is compulsory. In the case of non-attendance, Team Managers shall be sanctioned with a fine of CHF 300.-. Attendance is defined as presence from the roll call at the start of the meeting until the meeting concludes. 
 
@@ -142,11 +145,9 @@ E0126
 
 - **9.1.024** The organiser shall, moreover, make available to the above-mentioned persons adequate facilities for the holding of any other meetings that they might wish to hold to ensure the smooth running of the Championships. 
 
-- **9.1.024** [article abrogated on 01.01.19] 
+- **9.1.024** [article abrogated on 01.01.19] **bis** 
 
-   - **bis** 
-
-## **Commissaires Panels** 
+##### **Commissaires Panels** 
 
 - **9.1.025** The Commissaires Panel, preferably comprising grade “A” UCI international commissaires designated by the UCI Management Committee. 
 
@@ -174,13 +175,13 @@ The duties of the Commissaires shall be:
 
 - **9.1.036** to **9.1.040** [abrogated on 01.01.98] 
 
-## **Classification** 
+##### **Classification** 
 
 - **9.1.041** The official classification shall be drawn up by the Commissaires Panel and recorded in a set of minutes by the secretary of the Commissaires Panel. Those minutes are signed by the secretary and by the Chief Commissaire or some other commissaire designated by him. 
 
 - **9.1.042** After the end of Championships, the secretary shall prepare a set of minutes with all the results and classifications. These minutes shall be countersigned by the Chief Commissaire and appended to his report as referred to in article 9.1.054. 
 
-## **Official ceremony** 
+##### **Official ceremony** 
 
 - **9.1.043** An official ceremony shall be held for each World Champion title. 
 
@@ -238,23 +239,23 @@ E0126
 
 6 
 
-## **World Championships** 
+##### **World Championships** 
 
 - **9.1.051** Any infringement of the provisions of articles 9.1.044 to 9.1.050 above shall be punished by a fine of CHF 2,000 to CHF 10,000 minimum. A higher fine may be imposed depending on the advantage derived from the offence. 
 
 _(text modified on 13.08.04; 01.07.12; 01.01.19; 01.01.21)_ 
 
-## **Prizes** 
+##### **Prizes** 
 
 - **9.1.052** The Management Committee shall fix the scale of prizes to be awarded to the riders and teams for the team time trial. 
 
 _(text modified on 01.07.12)_ 
 
-## **Drug test** 
+##### **Drug test** 
 
 - **9.1.053** The UCI official doctor and the drug-test inspector shall ensure that the drug test be conducted according to the UCI Drug-Test Regulations. 
 
-## **Reports** 
+##### **Reports** 
 
 - **9.1.054** Within 21 days after the end of the Championships, the Chief Commissaire and the official UCI doctor shall provide the UCI Management Committee with a detailed report on how the Championships proceeded and containing, in particular, an account of any irregularities that were observed, points that could be improved and other observations and useful suggestions. 
 
@@ -266,9 +267,9 @@ E0126
 
 7 
 
-## **Chapter II PARTICIPATION IN WORLD CHAMPIONSHIPS** 
+### **Chapter II PARTICIPATION IN WORLD CHAMPIONSHIPS** 
 
-## **§ 1 General comments** 
+#### **§ 1 General comments** 
 
 - **9.2.001** It is the National Federations who select riders to participate in World Championships. 
 
@@ -334,9 +335,9 @@ _(text modified on 01.01.00; 01.01.04; 01.10.10; 01.08.13; 23.10.19)_
 
 An injury or sickness shall be recognised as an act of God only if the rider is declared incapable of taking the start by the UCI official doctor. 
 
-## **§ 2Selection of participants by specialty** 
+#### **§ 2Selection of participants by specialty** 
 
-## **General provision** 
+##### **General provision** 
 
 - **9.2.009** In all individual specialties, the outgoing World Champion may take part in addition to the number of starters that the National Federation of such Champions may enter under the qualification regulations. The same principle is applicable for the Olympic/Paralympic Champion on the occasion of the first World Championship following Olympic/Paralympic Games or, for the mountain bike, the next two mountain bike World Championships. 
 
@@ -352,19 +353,19 @@ E0126
 
 9 
 
-## **Individual Road Races** 
+##### **Individual Road Races** 
 
-## **Men Elite** 
+##### **Men Elite** 
 
-- **9.2.010** The Management Committee shall decide the qualification system each year. _(text modified on 01.10.02; 01.01.05; 01.03.16)_ 
+**9.2.010** The Management Committee shall decide the qualification system each year. _(text modified on 01.10.02; 01.01.05; 01.03.16)_ 
 
-## **Men Elite** 
+##### **Men Elite** 
 
-- **9.2.011** A National Federation may enter riders of 19 years of age or more in the Men Elite individual road race. In that case, such riders may not participate in the Men Under 23 individual road race in that same year. 
+- **9.2.011** <mark>A National Federation may enter riders of 19 years of age or more in the Men Elite individual road race. In that case, such riders may not participate in the Men Under 23 individual road race in that same year.</mark> 
 
 _(text modified on 01.01.25)_ 
 
-## **Men Under 23** 
+##### **Men Under 23** 
 
 - **9.2.012** The Management Committee shall decide the qualification system each year. 
 
@@ -376,13 +377,13 @@ Under 23 riders who are registered with a UCI WorldTeam or a UCI ProTeam are not
 
 _(text modified aux 01.10.06; 01.01.15; 01.01.16, 01.01.25)_ 
 
-## **Men Junior** 
+##### **Men Junior** 
 
 - **9.2.014** The Management Committee shall decide the qualification system each year. 
 
 _(text modified on 26.06.07; 01.10.11; 01.03.16)_ 
 
-## **Women Elite** 
+##### **Women Elite** 
 
 - **9.2.015** The Management Committee shall decide the qualification system each year. 
 
@@ -390,17 +391,17 @@ _(text modified on 01.01.10; 05.02.15; 01.03.16)_
 
 - **9.2.015bis** A National Federation may enter riders of 19 years of age or more in the Women Elite individual road race. In that case, such riders may not participate in the Women Under 23 individual road race in that same year. 
 
-_(article introduced on 01.01.25)_ 
+_<mark>(article introduced on 01.01.25)</mark>_ 
 
-## **Women Under 23** 
+##### **Women Under 23** 
 
-**9.2.015ter** The Management Committee shall decide the qualification system each year. 
+- **9.2.015ter** The Management Committee shall decide the qualification system each year. 
 
-_(article introduced on 01.01.25)_ 
+_<mark>(article introduced on 01.01.25)</mark>_ 
 
 - **9.2.015** Women Under 23 riders who have participated in the Women Elite individual road **quarter** race at previous World Championships may not participate in the Women Under 23 individual road race. 
 
-_(article introduced on 01.01.25)_ 
+_<mark>(article introduced on 01.01.25)</mark>_ 
 
 WORLD CHAMPIONSHIPS 
 
@@ -408,13 +409,13 @@ E0126
 
 10 
 
-## **Women Junior** 
+##### **Women Junior** 
 
 - **9.2.016** The Management Committee shall decide the qualification system each year. 
 
 _(text modified on 01.03.16)_ 
 
-## **Individual Time-Trial** 
+##### **Individual Time-Trial** 
 
 - **9.2.017** The Management Committee shall decide the qualification system each year. 
 
@@ -426,7 +427,7 @@ _(article modified on 01.01.25)_
 
 - **9.2.019** Riders referred to in article 9.2.018 and who participate in the Men Elite individual Time Trial or the Women Elite individual Time Trial may not participate in the Men Under-23 or Women Under 23 Individual Time-Trial in the same year. 
 
-( _text modified on 01.01.25_ ) 
+_text modified on 01.01.25_ ) 
 
 - **9.2.019bis** Men and Women Under 23 must race in the same category (Men Elite, Women Elite or Men Under 23, Women Under 23) for the individual Time-Trial and the individual road race if they compete in both events. 
 
@@ -438,14 +439,15 @@ Under 23 riders who are registered with a UCI WorldTeam or a UCI ProTeam are not
 
 _(text modified on 01.10.06; 01.01.15; 01.01.16, 01.01.25)_ 
 
-## **Ranking by Nations** 
+##### **Ranking by Nations** 
 
 - **9.2.020bis** The ranking by nations for the World Championships is calculated by adding the 
 
 points scored by all riders of each nation in the team time trial mixed relay, individual time trial and road race events, based on the point scales as per regulations, i.e.: 
 
-|||Women Elite<br>Men Elite|Women Under 23<br>Men Under 23|Women Junior<br>Men Junior|Elite<br>Under 23|
-|---|---|---|---|---|---|
+|Women Elite|Women Under 23|Women Junior|Elite|
+|---|---|---|---|
+|Men Elite|Men Under 23|Men Junior|Under 23|
 
 WORLD CHAMPIONSHIPS 
 
@@ -467,11 +469,9 @@ E0126
 |**10**|30|30|10|10|5|5|30|
 |**11 to 25**|5|5|3|3|1|1|5|
 
-_(article introduced on 01.07.15; text modified on 01.03.16; 13.10.16; 01.01.19._ 
+_(article introduced on 01.07.15; text modified on 01.03.16; 13.10.16; 01.01.19. 01.01.25)_ 
 
-_01.01.25)_ 
-
-## **Team time trial mixed relay** 
+##### **Team time trial mixed relay** 
 
 - **9.2.021** A National Federation shall be entitled to enter riders of 19 years or more in the team time trial mixed relay. 
 
@@ -499,11 +499,24 @@ E0126
 
 _(article introduced on 01.07.12; text modified on 01.08.13; 01.03.16; 01.01.19; 01.01.21)_ 
 
-## **Track** 
+##### **Track** 
 
 - **9.2.022** The maximum number of participants by nation for each event shall be the following: 
 
-Elite and Junior / MEN and WOMEN Team Sprint 1 team Sprint 2 riders Keirin 2 riders 1 km Time Trial 2 riders Team pursuit 1 team Individual pursuit 2 riders Points race 1 rider Scratch race 1 rider Omnium 1 rider Elimination 1 rider Madison 1 team 
+Elite and Junior / MEN and WOMEN 
+
+|Team Sprint|1 team|
+|---|---|
+|Sprint|2 riders|
+|Keirin|2 riders|
+|1 km Time Trial|2 riders|
+|Team pursuit|1 team|
+|Individual pursuit|2 riders|
+|Points race|1 rider|
+|Scratch race|1 rider|
+|Omnium|1 rider|
+|Elimination|1 rider|
+|Madison|1 team|
 
 A maximum of one substitute rider for each event is permitted. Substitute riders must be confirmed at the confirmation of starters. Team Managers may forward modifications to the Secretary of College of Commissaires until the start of the first competition session on the day of each event. 
 
@@ -513,13 +526,13 @@ _(text modified on 01.01.02; 01.01.03; 19.09.06; 26.06.07; 13.06.08; 25.02.13; 1
 
 |**Event**|**Men and Women Elite**|
 |---|---|
-|Sprint|303)|
-|Keirin|303)|
-|Omnium|242)|
-|Scratch Race|242)|
-|Points race|242)|
-|Elimination|242)|
-|Madison|181)|
+|Sprint|30<sup>3)</sup>|
+|Keirin|30<sup>3)</sup>|
+|Omnium|24<sup>2)</sup>|
+|Scratch Race|24<sup>2)</sup>|
+|Points race|24<sup>2)</sup>|
+|Elimination|24<sup>2)</sup>|
+|Madison|18<sup>1)</sup>|
 
 1) Allocated through the UCI Track Ranking by Nation. In the event of additional champions as referred to in articles 9.2.009 and 9.2.027, the number of nations/riders qualified through a UCI Track Ranking shall be reduced in order not to exceed the applicable maximum number. 
 
@@ -561,7 +574,7 @@ E0126
 
 14 
 
-## **9.2.026** [article abrogated on 12.06.20] 
+- **9.2.026** [article abrogated on 12.06.20] 
 
 - **9.2.027** In addition to the riders qualified through a UCI track classification, according to the quotas indicated in the articles 9.2.022 and 9.2.023, the following persons will also be qualified for Elite World Championships: 
 
@@ -585,8 +598,6 @@ _(text modified on 01.01.03; 04.07.03; 01.10.04; 13.06.08; 30.01.09; 25.02.13; 1
 
 - **9.2.027** Where a nation qualified in an individual event and is not able to enter an eligible rider, **ter** the qualification place will revert to the UCI and will be reallocated to the next reserve nation. 
 
-. 
-
 _(article introduced on 25.02.13; text modified on 10.04.13; 15.03.16; 12.06.20)_ 
 
 - **9.2.028** The National Federation of the organizer shall be entitled to the first reserve quota to enter a team for each team race and a rider for each individual race if it cannot enter riders on the basis of the qualification criterias indicated in the articles 9.2.026 and 9.2.027. For the sake of clarity, conditions of article 9.2.027bis remain applicable 
@@ -605,39 +616,44 @@ E0126
 
 - **9.2.029** [article abrogated on 05.03.18] 
 
-## **Mountain bike** 
+##### **Mountain bike** 
 
 - **9.2.030** The UCI world championships shall comprise ten specialities: the Olympic cross-country Olympic (XCO), the cross-country marathon (XCM), the cross-country team relay (XCR), the cross-country short track (XCC), the cross-country eliminator (XCE), the downhill individual (DHI), E-Mountain Bike (E-MTB) ), the enduro/e-enduro (EDR/E-EDR), the snow bike (SNO)  and the pump track (PUM). 
 
 _(text modified on 01.01.04; 01.01.06; 01.02.12; 01.01.18; 01.01.21; 01.01.23; 01.01.24)_ 
 
-- **9.2.031** The categories for which the title of world champion will be awarded are as follows: XCO Men Elite (aged 23 and over); Men under 23 (ages from 19 to 22); Women Elite (aged 23 and over); Women under 23 (aged 19 to 22); Men Junior (aged 17 and 18); Women Junior (aged 17 and 18); 
-
-- XCM Men (aged 19 and over); Women (aged 19 and over); 
-
-- XCR Team (aged 17 and over); XCC Men (aged 23 and over); Women (aged 23 and over); Men under 23 (aged 19 to 22); Women under 23 (aged 19 to 22); 
-
-- XCE Men (aged 17 and over); Women (aged 17 and over); 
-
-- DHI Men Elite (aged 19 and over); Women Elite (aged 19 and over); Men Junior (aged 17 and 18); Women Junior (aged 17 and 18); 
-
-- E-MTB Men (aged 19 and over including Masters); Women (aged 19 and over including Masters) 
-
-- PUM Men (aged 17 and over); Women (aged 17 and over); 
-
-- EDR Men Elite (aged 19 and over); Women Elite (aged 19 and over); Men Junior (aged 17 and 18); Women Junior (aged 17 and 18); 
-
-- E-EDR Men Elite (aged 19 and over); Women Elite (aged 19 and over); 
-
-- SNO Men (aged 17 and over); Women (aged 17 and over) 
+|**9.2.031**|The catego|ries for which the title of world champion will be awarded are as follows:|
+|---|---|---|
+||XCO|Men Elite (aged 23 and over);<br>Men under 23 (ages from 19 to 22);<br>Women Elite (aged 23 and over);<br>Women under 23 (aged 19 to 22);<br>Men Junior (aged 17 and 18);<br>Women Junior (aged 17 and 18);|
+||XCM|Men (aged 19 and over);|
+|||Women (aged 19 and over);|
+||XCR|Team (aged 17 and over);|
+||XCC|Men (aged 23 and over);|
+|||Women (aged 23 and over);|
+|||Men under 23 (aged 19 to 22);|
+|||Women under 23 (aged 19 to 22);|
+||XCE|Men (aged 17 and over);|
+|||Women (aged 17 and over);|
+||DHI|Men Elite (aged 19 and over);<br>Women Elite (aged 19 and over);|
+|||Men Junior (aged 17 and 18);|
+|||Women Junior (aged 17 and 18);|
+||E-MTB|Men (aged 19 and over including Masters);|
+|||Women (aged 19 and over including Masters)|
+||PUM|Men (aged 17 and over);<br>Women (aged 17 and over);|
+||EDR|Men Elite (aged 19 and over);|
+|||Women Elite (aged 19 and over);<br>Men Junior (aged 17 and 18);|
+|||Women Junior (aged 17 and 18);|
+||E-EDR|Men Elite (aged 19 and over);<br>Women Elite (aged 19 and over);|
+||SNO|Men (aged 17 and over);|
+|||Women (aged 17 and over)|
 
 _(article introduced on 01.01.04; text modified on 01.01.06; 01.02.12; 01.01.21; 01.01.23; 01.01.24; 01.01.25; 01.01.26)_ 
 
 - **9.2.032** For the team relay, each nation may enter only a single team. 
 
-Each national team shall be made up of 1 Men Elite, 1 Women Elite, 1 Men under 23, 1 Men Junior, 1 Women under 23 and 1 Women Junior. However, the following substitutions shall be permissible: 
+   - Each national team shall be made up of 1 Men Elite, 1 Women Elite, 1 Men under 23, 1 Men Junior, 1 Women under 23 and 1 Women Junior. However, the following substitutions shall be permissible: 
 
-- Men Elite by Women Elite or Men under 23 or Men Junior or Women under 23 or Women Junior; 
+      - Men Elite by Women Elite or Men under 23 or Men Junior or Women under 23 or Women Junior; 
 
 WORLD CHAMPIONSHIPS 
 
@@ -651,7 +667,7 @@ E0126
 
 - Women under 23 by Women Junior; 
 
-- - Men Junior by Women Junior. 
+- Men Junior by Women Junior. 
 
 Each rider selected must already be entered for the individual downhill, or Olympic cross country events. 
 
@@ -734,35 +750,35 @@ _(article introduced on 01.01.04; text modified on 25.09.08)_
 
 - **9.2.038** The start order is determined as follows: 
 
-## XCO Men Elite, XCO Women Elite, XCC Men Elite, and XCC Women Elite 
+   - <u>XCO Men Elite, XCO Women Elite, XCC Men Elite, and XCC Women Elite</u> 
 
-1. as per the last published UCI XCO individual ranking; 
+      1. as per the last published UCI XCO individual ranking; 
 
-2. place 33rd to 40th of the start order will be allocated to riders ranked in below rankings, unless they are listed on the start order between the place 1st to 32rd according to point 1 and 2 above: 
+      2. place 33rd to 40th of the start order will be allocated to riders ranked in below rankings, unless they are listed on the start order between the place 1st to 32rd according to point 1 and 2 above: 
 
-   - top 10 of the UCI cyclo-cross individual ranking; 
+         - top 10 of the UCI cyclo-cross individual ranking; 
 
-- top 20 of the UCI road individual world ranking; 
+         - top 20 of the UCI road individual world ranking; 
 
 The place 33rd to 40th will be allocated following the rank of each rider, whatever the ranking: UCI cyclo-cross or UCI road world ranking. If two or three riders have the same ranking, they will be placed by drawing lots. 
 
-3. as per the last published UCI XCO individual ranking; 
+      3. as per the last published UCI XCO individual ranking; 
 
-4. unclassified riders: by nations in rotation (*). 
+      4. unclassified riders: by nations in rotation (*). 
 
-## XCO Men under 23, XCO Women under 23, XCC Men under 23 and XCC Women under 23 
+- <u>XCO Men under 23, XCO Women under 23, XCC Men under 23 and XCC Women under 23</u> 
 
-1. as per the last published UCI XCO individual ranking; 
+   1. as per the last published UCI XCO individual ranking; 
 
-2. unclassified riders: by nations in rotation (*). 
+   2. unclassified riders: by nations in rotation (*). 
 
-## XCO Men Junior, XCO Women Junior 
+- <u>XCO Men Junior, XCO Women Junior</u> 
 
-3. as per the last published UCI XCO junior individual ranking; 
+   3. as per the last published UCI XCO junior individual ranking; 
 
-4. Unclassified riders: by nations in rotation (*). 
+   4. Unclassified riders: by nations in rotation (*). 
 
-## DHI Men Elite, DHI Women Elite 
+##### <u>DHI Men Elite, DHI Women Elite</u> 
 
 For the qualifying round and the final: 
 
@@ -770,7 +786,7 @@ For the qualifying round and the final:
 
 2. as per the last published UCI DHI individual ranking. The best rider starting last. 
 
-## DHI Men Junior, DHI Women Junior 
+##### <u>DHI Men Junior, DHI Women Junior</u> 
 
 For the qualifying round and the final: 
 
@@ -790,7 +806,7 @@ For all DHI events (Men Elite, Women Elite, Men Junior and Women Junior), riders
 
 (*) The start order of the riders within the team must be confirmed by the national federations during the riders’ confirmation. Taking each nation in turn on the basis of the classification by nation of the concerned category from the most recent mountain bike World Championships, a place is allocated to the next rider in sequence. Unclassified nations take, on the basis of the same rotation system, the next places in an order determined by drawing lots. 
 
-## E-MTB Men, E-MTB Women 
+<u>E-MTB Men, E-MTB Women</u> 
 
 The start order for E-MTB shall be defined yearly 
 
@@ -800,11 +816,13 @@ E0126
 
 19 
 
-## Enduro/E-Enduro Men Elite, Enduro/E-Enduro Women Elite, Enduro Men Junior, Enduro Women Junior 
+##### <u>Enduro/E-Enduro Men Elite, Enduro/E-Enduro Women Elite, Enduro Men Junior, Enduro</u> 
+
+##### <u>Women Junior</u> 
 
 The start order for Enduro and E-Enduro shall be defined yearly. 
 
-## Snow Bike Men, Snow Bike Women 
+<u>Snow Bike Men, Snow Bike Women</u> 
 
 The start order for Snow Bike shall be defined yearly. 
 
@@ -834,7 +852,7 @@ _(article introduced on 01.01.04; text modified on 01.01.06; 01.02.12; 01.01.18;
 
 _(article introduced on 01.01.04)_ 
 
-## **Cyclo-cross** 
+##### **Cyclo-cross** 
 
 - **9.2.042** A UCI cyclo-cross world championship shall be organised for the men elite's, women elite's, men under 23's, women under 23’s (19-22 years old), men junior's and women junior’s (17-18 years old) categories. 
 
@@ -894,9 +912,7 @@ The order of nations is drawn on the basis of the results of the team relay even
 
 _(article introduced on 1.07.22)_ 
 
-## **Ranking by nations of the UCI World Championships** 
-
-- **9.2.045** A ranking by nations for the cyclo-cross world championships shall be drawn up **ter** by summing the points of the first three riders from each nation. 
+##### **Ranking by nations of the UCI World Championships 9.2.045** A ranking by nations for the cyclo-cross world championships shall be drawn up **ter** by summing the points of the first three riders from each nation. 
 
 The system for awarding points is based on the total number of rider starting in each category. If 100 riders start, the winner will score 100 points while the 100th placed rider would score 1. Should some starters not be given a finishing position, the last rider to be classified shall score the points for his position without taking account of the unclassified riders. Example: if 100 riders start and 80 riders are classified, the last of them will score 21 points. 
 
@@ -920,19 +936,21 @@ E0126
 
 22 
 
-## **BMX Racing** 
+##### **BMX Racing** 
 
 _(section introduced on 30.01.09)_ 
 
 - **9.2.046** The UCI BMX Racing world championships shall comprise standard 20 inch bicycle competitions. 
 
-   - in one speciality: BMX Racing. 
+in one speciality: BMX Racing. 
 
 _(text modified on 01.02.12; 01.07.12; 01.01.17; 01.01.23)_ 
 
-## **Categories** 
+##### **Categories** 
 
-- **9.2.047** The categories for which the title of world champion will be awarded are as follows: A. STANDARD 20 inch BICYCLES, (men/women riders), Championship level: BMX Racing 
+- **9.2.047** The categories for which the title of world champion will be awarded are as follows: A. STANDARD 20 inch BICYCLES, (men/women riders), Championship level: 
+
+   - BMX Racing 
 
    - Men Elite (aged 19 and over); 
 
@@ -954,7 +972,7 @@ _(text modified on 01.02.12; 01.07.12; 01.01.17; 01.01.23)_
 
 _(text modified on 01.02.11; 01.02.12; 01.07.12; 01.01.17; 01.01.22; 01.01.23)_ 
 
-## **Race formats** 
+##### **Race formats** 
 
 - **9.2.047** Format of the _world championships_ (only for a category outlined in article **bis** 9.2.047). 
 
@@ -964,23 +982,27 @@ Categories outlined in article 9.2.047, part A as described in articles 6.3.009 
 
 _(article introduced on 01.02.10; text modified on 01.02.11; 04.04.14; 01.01.17; 01.01.22; 01.01.23)_ 
 
-## **Seeding** 
+##### **Seeding** 
 
 - **9.2.047** Seeding order for the Round 1 in the BMX Racing race is based on the latest UCI **ter** Individual BMX Racing Ranking for each category (seeding order from highest to lowest ranked). Gate position selection order for Round 1 is based on the seeding order. 
 
 _(text modified on 04.04.14; 01.01.17, 01.01.22, 01.01.23)._ 
 
-   - **9.2.047** [article abrogated on 01.01.17] **quater** 
+- **9.2.047** 
 
-- **9.2.047** [article abrogated on 04.04.14] 
+[article abrogated on 01.01.17] 
+
+   - **quater** 
+
+- **9.2.047** 
 
 - **quinquies** 
 
-## **Qualification system world championships BMX Racing** 
+- [article abrogated on 04.04.14] 
 
-- **9.2.047** For Men Elite, Women Elite, Men Under 23, Women Under 23, Men Juniors and 
+##### **Qualification system world championships BMX Racing** 
 
-- **sexies** Women Juniors, the maximum number of riders for each category is determined on the basis of the UCI Individual BMX Racing ranking by nation for each such category on 3 <del>1st</del> December of the preceding season. 
+- **9.2.047** For Men Elite, Women Elite, Men Under 23, Women Under 23, Men Juniors and **sexies** Women Juniors, the maximum number of riders for each category is determined on the basis of the UCI Individual BMX Racing ranking by nation for each such category on 3 <del>1st</del> December of the preceding season. 
 
 WORLD CHAMPIONSHIPS 
 
@@ -996,28 +1018,27 @@ Each federation shall be permitted to enter 2 reserves in each category. The UCI
 
 These riders are automatically qualified for the UCI world championships and cannot be replaced by another rider. 
 
-||Women<br>Elite|Women<br>Elite|Women<br>Under 23|Women<br>Under 23|Women<br>Junior|Women<br>Junior|Men<br>Elite|Men<br>Elite|Men<br>Under 23|Men<br>Under 23|Men<br>Junior|Men<br>Junior|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Automatically<br>qualified<br>riders*|8||||||8||||||
-|Nations Ranked|# Places|Tot|# Places|Tot|# Places|Tot|# Places<br>Tot||# Places|Tot|# Places|Tot|
-|1 – 4|5|20|5|20|5|20|5|20|5|20|5|20|
-|5 – 8|4|16|4|16|4|16|4|16|4|16|4|16|
-|9 – 14|3|18|3|18|3|18|3|18|3|18|3|18|
-|15 – 23|2|18|2|18|2|18|2|18|2|18|2|18|
-|**Totals**||**80**||**72**||**72**||**80**||**72**||**72**|
-||||||||||||||
-|Host nation**|2||2||2||2||2||2||
-|All other nations***|1||1||1||1||1||1||
+||Wome<br>Elite|n<br>|Wome<br>Under|n<br>23|Wom<br>Junio|en<br>r|Men<br>Elite|<br>|Men<br>Under 23|Men<br>Junior|<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Automatically<br>qualified<br>riders*|8||||||8|||||
+|Nations Ranked|# Places|Tot|# Places|Tot|# Places|Tot|# Places|Tot|# Places<br>Tot|# Places|Tot|
+|1 – 4|5|20|5|20|5|20|5|20|5<br>20|5|20|
+|5 – 8|4|16|4|16|4|16|4|16|4<br>16|4|16|
+|9 – 14|3|18|3|18|3|18|3|18|3<br>18|3|18|
+|15 – 23|2|18|2|18|2|18|2|18|2<br>18|2|18|
+|**Totals**||**80**||**72**||**72**||**80**|**72**||**72**|
+|Host nation**||2||2||2||2|2||2|
+|All other nations***||1||1||1||1|1||1|
 
 * The automatically qualified riders mentioned above are entered in addition to the quota allowed in this table. 
 
-** The host nation shall qualify 2 riders in each category where it has not already qualified above using the ranking by nation. 
+- ** The host nation shall qualify 2 riders in each category where it has not already qualified above using the ranking by nation. 
 
 *** All other nations shall qualify 1 rider in each category where it has not already qualified above using the ranking by nation. 
 
 _(article introduced on 01.07.12; text modified on 04.04.14; 01.01.17; 01.01.22; 01.03.22; 01.01.23)_ 
 
-## **Registration of participants** 
+##### **Registration of participants** 
 
 - **9.2.048** All riders must be registered using the UCI on-line registration system (www.uci.ch). All team managers must attend the riders’ confirmation presenting the licenses and passports for each rider being confirmed and picking up the riders race numbers. 
 
@@ -1033,7 +1054,7 @@ E0126
 
 24 
 
-## **Registration of support staff** 
+##### **Registration of support staff** 
 
 - **9.2.049** Each federation must appoint one (1) team manager for Championships level categories. 
 
@@ -1051,11 +1072,11 @@ E0126
 
 25 
 
-## **Trials** 
+##### **Trials** 
 
 _(section introduced on 30.01.09)_ 
 
-## **Allocation of UCI trials world championship event** 
+##### **Allocation of UCI trials world championship event** 
 
 - **9.2.051** Application to the UCI for the sanctioning of a trials world championship event is open to any national federation. The venue of each year's world championships shall be allocated at least three years in advance of its scheduled date by the UCI management committee, based on business/quality criteria and the recommendations from the UCI trials commission. 
 
@@ -1063,11 +1084,11 @@ _(section introduced on 30.01.09)_
 
 - **9.2.053** The site of a venue shall normally be within the national or territorial boundaries of the national federation which shall serve as the host organization for the event. 
 
-## **General competition parameters** 
+##### **General competition parameters** 
 
 - **9.2.054** UCI trials world championships are a single competition, open to all eligible riders in possession of a UCI license. 
 
-## **Registration of participants** 
+##### **Registration of participants** 
 
 - **9.2.055** Riders wishing to compete in the UCI trials world championships may register only under the auspices and through the agency of their national federation, using the UCI online registration system. All competition entry dates must be respected and no late entries will be accepted. 
 
@@ -1081,25 +1102,25 @@ All riders/team managers must attend the riders’ confirmation presenting their
 
 Riders not being confirmed before the indicated deadline, did not complete the registration procedure and will not be able to compete at the event. 
 
-   - _(text modified on 13.03.15, 30.01.17)_ 
+_(text modified on 13.03.15, 30.01.17)_ 
 
 - **9.2.056** Each member organisation which registers riders must appoint a national team manager to represent the interests of all of its riders at the UCI trials world championships. 
 
-## **Categories** 
+##### **Categories** 
 
-- **9.2.057** Competition categories at the Trials world championships are: 
+**9.2.057** Competition categories at the Trials world championships are: 
 
-   - Women Elite 
+- Women Elite 
 
-   - Women Junior 
+- Women Junior 
 
-   - Men Junior 20" 
+- Men Junior 20" 
 
-   - Men Junior 26" 
+- Men Junior 26" 
 
-   - Men Elite 20" 
+- Men Elite 20" 
 
-   - Men Elite 26" 
+- Men Elite 26" 
 
 _(text modified on 13.03.15, 01.01.25)_ 
 
@@ -1109,19 +1130,19 @@ E0126
 
 26 
 
-## **Age class** 
+##### **Age class** 
 
 - **9.2.058** Categories depend on age as stated in article 7.1.002. 
 
-## **Competition format** 
+##### **Competition format** 
 
-- **9.2.059** In all categories, the Trials world championships shall include a ½ Finals and a Final round. 
+**9.2.059** In all categories, the Trials world championships shall include a ½ Finals and a Final round. 
 
-## **½ Finals** 
+##### **½ Finals** 
 
 The Trials world championships will commence with a ½ Finals round. The world championships ½ Finals round is open to all riders entered. The ½ Finals round shall consist of three laps of five sections. The commissaires’ panel will set the competition time according to the number of entered riders. 
 
-## **Final round** 
+##### **Final round** 
 
 The riders eligible to compete in the Final rounds shall be as follows: 
 
@@ -1133,7 +1154,7 @@ The riders eligible to compete in the Final rounds shall be as follows:
 
 The scores gained in the ½ Finals round do not count in the Final round. 
 
-## **Final procedure** 
+##### **Final procedure** 
 
 At the Final round it will be applied the six by six system: Before the start, the six riders will be presented on the start podium, in inverse order to the position obtained in the ½ Finals round. After the presentation, they must go to section one. The order to start will be determined by the result obtained in the ½ Finals round. Rider that obtained the sixth place shall start first in section one and so on. The same principle applies for the remaining sections. Once a rider finishes a section, the next rider has maximum thirty seconds to start the section. After this thirty second the sections time is running. In case of slight injury, the other rider must overtake and start the section in front of him/her. In case of tie, article 7.1.047 of the UCI Trials Regulations shall apply. Competitors taking part in the Final must have two bicycles at their disposal. The spare second bicycle shall remain in the rider’s area for the duration of the competition and may be retrieved as a replacement for the first bicycle A rider qualified for the Final who chooses not to compete in the Final shall get seventh placed in the Final classification and shall (in the Final) be replaced by the seventh placed rider in the ½ Finals. Two qualified riders choosing not to compete in the Final shall get seventh and eighth placed in the final classification and shall be replaced by the seventh and eighth placed riders in the ½ Finals (in the Finals), etc. 
 
@@ -1145,9 +1166,9 @@ E0126
 
 27 
 
-## **Number of sections and rounds** 
+##### **Number of sections and rounds** 
 
-## **9.2.060** The number of sections and laps are as indicated below: 
+##### **9.2.060** The number of sections and laps are as indicated below: 
 
 |**Round**|**Number of sections**|**Number of laps**|
 |---|---|---|
@@ -1156,9 +1177,9 @@ E0126
 
 _(text modified on 01.02.11; 13.03.15; 30.01.17)_ 
 
-## **Recognition and awards** 
+##### **Recognition and awards** 
 
-## **9.2.061** Competitors having obtained the highest number of points are declared: 
+##### **9.2.061** Competitors having obtained the highest number of points are declared: 
 
 - Women Junior UCI trials world champion 
 
@@ -1182,7 +1203,7 @@ E0126
 
 28 
 
-## **Para Cycling (participation)** 
+##### **Para Cycling (participation)** 
 
 - **9.2.062** National Federations register their riders through the same online registration system no later than four weeks before the first race of the World Championships. At the time of registration, up to six substitutes can be added to the team for all classes combined. The registration shall give details of the number of persons making up each delegation, the riders registered for each race as well as their sport class, the accommodation used during the World Championships, full contact details of the team manager and each athlete’s time of arrival. 
 
@@ -1196,9 +1217,9 @@ _(text modified on 03.02.17; 01.07.18; 01.01.26)_
 
 - **9.2.062** Athletes may not enter a Para Cycling Road World Championship event with the Sport **bis** Class Status New (N) unless no International Classification was held on their continent in the current calendar year prior to the World Championships. _(article introduced on 08.02.21)_ 
 
-## **World Championship qualification system (Para Cycling)** 
+##### **World Championship qualification system (Para Cycling)** 
 
-## **General comments** 
+##### **General comments** 
 
 - **9.2.063** National Federations shall select riders to participate in world championships. 
 
@@ -1206,11 +1227,11 @@ _(article introduced on 01.10.13)_
 
 - **9.2.064** Events selected for the Para Cycling world championships are the following: 
 
-## **Road** 
+##### **Road** 
 
 Road race – all divisions; Individual Time Trial – all divisions; Mixed Team relay – division H. 
 
-## **Track** 
+##### **Track** 
 
 Kilometre – divisions B & C; Individual pursuit – divisions B; Mixed Team sprint – division C; Sprint – division B & C; Scratch race – division C; Elimination – division C; Mixed Tandem Team Sprint – division B. 
 
@@ -1230,13 +1251,15 @@ E0126
 
 _(article introduced on 01.10.13)_ 
 
-## **Athletes eligibility** 
+##### **Athletes eligibility** 
 
 - **9.2.067** Except the reigning world champion, athletes participating in the UCI Para Cycling World Championships must have participated in at least one UCI Para Cycling event on the UCI International Calendar (National Championships, Class 2, Class 1, World Cup, Continental Championships, Regional Games, World Championships or Paralympic Games) during the last 12 months, but no later than 30 days before the event, defined as the Qualification Period. 
 
 _(article introduced on 01.10.13; text modified on 20.12.17; 01.07.20; 01.01.26)_ 
 
-## **Earning slots for the World Championships Para Cycling Track** 
+##### **Earning slots for the World Championships** 
+
+**Para Cycling Track** 
 
 - **9.2.068** A nation earns 1 slot in a specific Sport Class if any of its athlete has earned UCI Para Cycling Track Individual Ranking points during the Qualification Period in the respective Sport Class. 
 
@@ -1260,7 +1283,7 @@ The slots will be awarded based on the UCI Para Cycling Track Individual Ranking
 
 _(article introduced on 01.07.20; text modified on 01.01.26)_ 
 
-## **Para Cycling Road** 
+   - **Para Cycling Road** 
 
 - **9.2.070** A nation that has earned UCI Para Cycling Road points at a Class 1, Class 2, or Continental Championships event during the Qualification Period in a specific sport class 
 
@@ -1270,7 +1293,7 @@ E0126
 
 30 
 
-‐ has the right to enter an athlete in that Sport Class in the upcoming UCI Para cycling Road World Championships. 
+has the right to enter an athlete in that Sport Class in the upcoming UCI Para ‐ cycling Road World Championships. 
 
 _(article introduced on 01.10.13; text modified on 01.01.16; 01.07.20; 08.02.21; 01.01.26)_ 
 

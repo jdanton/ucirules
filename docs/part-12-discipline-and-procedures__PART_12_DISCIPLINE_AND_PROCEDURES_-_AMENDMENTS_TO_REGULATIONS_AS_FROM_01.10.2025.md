@@ -4,17 +4,18 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/4cQZW6O7AnM2Z6DagtDWxg/268
 source_sha256: 43d05e1344ac5666c1fd2ff5cdf73f636bc966c044be25bed415f61a697b49e4
 converter: pymupdf4llm
 ---
+
 ![](images/PART_12_DISCIPLINE_AND_PROCEDURES_-_AMENDMENTS_TO_REGULATIONS_AS_FROM_01.10.2025.pdf-0001-00.png)
 
-## MEMORANDUM 
+# MEMORANDUM 
 
 01.10.2025 
 
-## **PART 12 DISCIPLINE AND PROCEDURES Rules amendments applying on 01.10.2025** 
+**PART 12 DISCIPLINE AND PROCEDURES Rules amendments applying on 01.10.2025** 
 
 ## **Chapter V  ORGANISATION** 
 
-## **Jurisdiction** 
+### **Jurisdiction** 
 
 - **12.5.004** Unless otherwise specifically provided, the Disciplinary Commission has jurisdiction to judge and sanction infringements contained in this Part and the UCI Regulations. This jurisdiction may be exercised regardless of whether the alleged violation has already been sanctioned by the Commissaires’ Panel in accordance with the table of race incidents. 
 

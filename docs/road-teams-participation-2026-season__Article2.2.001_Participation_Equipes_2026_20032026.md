@@ -4,11 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3EjeIEEJpI38fDQOoc54AI/f12
 source_sha256: 057df54f49fa99d0d077baa40ce3860264fe177cdfa697e39f9f17aa5bf24846
 converter: pymupdf4llm
 ---
+
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0001-00.png)
 
-## **Road teams’ participation - 2026 season** 
+# **Road teams’ participation - 2026 season** 
 
-## _**Participation équipes route - saison 2026**_ 
+# **_Participation équipes route - saison 2026_** 
 
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0001-03.png)
 
@@ -34,13 +35,13 @@ Page **2** / **3**
 
 ![](images/Article2.2.001_Participation_Equipes_2026_20032026.pdf-0003-00.png)
 
-## Teams on the same line or cell can’t participate to the same race. 
+Teams on the same line or cell can’t participate to the same race. 
 
 The above information can be updated anytime if UCI receives new elements, especially from National Federations. **Teams having an asterisk * benefit from the participation rules mentioned in article 2.1.005bis of the UCI Regulations.** 
 
 _Les équipes figurant sur la même ligne ou dans la même cellule ne peuvent participer à une même épreuve. Le tableau ci-dessus pourra être mis à jour à tout moment en fonction des nouvelles informations communiquées à l’UCI, en particulier de la part des Fédérations Nationales._ 
 
-_**Les équipes comportant un astérisque * bénéficient des règles de participation mentionnées à l’article 2.1.005bis du Règlement UCI.**_ 
+**_Les équipes comportant un astérisque * bénéficient des règles de participation mentionnées à l’article 2.1.005bis du Règlement UCI._** 
 
 |**UCI WorldTeams**|**Training and/or development teams**|**UCI Continental Teams**|
 |---|---|---|
@@ -50,7 +51,7 @@ _**Les équipes comportant un astérisque * bénéficient des règles de partici
 |EF EDUCATION - EASYPOST||EF EDUCATION - AEVOLO*|
 |GROUPAMA - FDJ UNITED||GROUPAMA-FDJ UNITED*|
 |INEOS GRENADIERS||INEOS GRENADIERS RACING ACADEMY*|
-|LIDL-TREK||LIDL-TREK FUTURE RACING*|
+|LIDL-TREK<br>||LIDL-TREK FUTURE RACING*|
 |LOTTO INTERMARCHÉ||LOTTO - GROUPE WANTY*|
 |MOVISTAR TEAM||MOVISTAR TEAM ACADEMY*|
 |NSN CYCLING TEAM||NSN DEVELOPMENT TEAM*|
@@ -90,7 +91,7 @@ _**Les équipes comportant un astérisque * bénéficient des règles de partici
 |TEAM AMANI|BLACK MAMBA DEVELOPMENT TEAM||
 |VC FUKUOKA|VC FUKUOKA DEVELOPMENT TEAM||
 |**UCI Women's Continental Teams**|**Training and/or development teams**|**UCI Women's Continental Teams**|
-|CITYMESH - CUSTOMM PRO CYCLING TEAM|FOCA - DYNAPLUS PRO CYCLING TEAM||
+|CITYMESH - CUSTOMM PRO CYCLING TEA|M<br>FOCA - DYNAPLUS PRO CYCLING TEAM||
 |O'SHEA RED CHILLI BIKES|O'SHEA DEVELOPMENT TEAM||
 |TEAM AMANI|BLACK MAMBA DEVELOPMENT TEAM||
 

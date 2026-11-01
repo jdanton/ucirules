@@ -4,7 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/HuwSHsRtVmmxpYiwR3JHM/1fe7
 source_sha256: 8ae04cd9ac10902ae8d261a0088588555c8db369515702ecda8fabb622f5b0af
 converter: pymupdf4llm
 ---
-## **PART 11 OLYMPIC GAMES** 
+
+# **PART 11 OLYMPIC GAMES** 
 
 **Version on 01.03.2026** 
 
@@ -16,7 +17,7 @@ E0326
 
 ## **PART 11 OLYMPIC GAMES** 
 
-## **Chapter I GENERAL REGULATIONS** 
+### **Chapter I GENERAL REGULATIONS** 
 
 - **11.1.001** Participation in cycling competitions at the Olympic Games shall be governed by the rules of the International Olympic Committee (IOC) and the UCI as published on their respective web sites. 
 
@@ -30,9 +31,9 @@ The Team Leaders Guide is a document agreed between the UCI and the organising c
 
 _(text modified on 12.06.2025)_ 
 
-## **Sport Entries and Confirmation of starters** 
+#### **Sport Entries and Confirmation of starters** 
 
-**11.1.002** The National Olympic Committees (NOCs) shall enter their athletes in accordance with the participation limits, qualification criteria and reserve system approved by the IOC and the UCI, as set out in the Qualification System for each discipline published on the IOC website. Entries must be made within the deadlines specified in these documents. 
+- **11.1.002** The National Olympic Committees (NOCs) shall enter their athletes in accordance with the participation limits, qualification criteria and reserve system approved by the IOC and the UCI, as set out in the Qualification System for each discipline published on the IOC website. Entries must be made within the deadlines specified in these documents. 
 
 In accordance with IOC rules, each NOC shall notify the Organising Committee of the names of its athletes within the deadline established by the IOC. 
 
@@ -50,24 +51,30 @@ eligible to enter an athlete. Non-compliance with this provision may result in a
 
 _(text modified on 01.01.03; 01.02.07; 01.07.09; 15.02.19; 12.06.2025)_ 
 
-## **Participation** 
+#### **Participation** 
 
-- **11.1.003** To be eligible to participate in the Olympic Games, each rider must: 
+**11.1.003** To be eligible to participate in the Olympic Games, each rider must: 
 
-   - hold a valid UCI licence issued by a National Federation with a UCI ID registered on the UCI DataRide platform 
+- hold a valid UCI licence issued by a National Federation with a UCI ID registered on the UCI DataRide platform 
 
-   - be at least 15 years old for BMX Freestyle Park events, 18 years old for Track and BMX Racing events, 19 years old for road and mountain bike events, or reach the required age within the calendar year of the Olympics. 
+- be at least 15 years old for BMX Freestyle Park events, 18 years old for Track and BMX Racing events, 19 years old for road and mountain bike events, or reach the required age within the calendar year of the Olympics. 
 
 _(text modified on 01.02.07; 01.07.09; 04.04.14; 15.02.19; 12.06.2025)_ 
 
-## **Programme** 
+#### **Programme** 
 
 - **11.1.004** The Olympic disciplines and events are as follows: 
 
 ||**Men**|**Women**|
 |---|---|---|
-|Road<br>|Road Race<br>Individual time trial|Road Race<br>Individual time trial|
-|Track<br> <br> <br> <br> <br>|Team sprint<br>Sprint<br>Keirin<br>Team pursuit<br>Omnium<br>Madison|Team sprint<br>Sprint<br>Keirin<br>Team pursuit<br>Omnium<br>Madison|
+|Road|Road Race|Road Race|
+||Individual time trial|Individual time trial|
+|Track|Team sprint|Team sprint|
+||Sprint|Sprint|
+||Keirin|Keirin|
+||Team pursuit|Team pursuit|
+||Omnium|Omnium|
+||Madison|Madison|
 |Mountain bike|Cross-country|Cross-country|
 |BMX Racing|BMX Race|BMX Race|
 |BMX Freestyle|BMX Park|BMX Park|
@@ -78,7 +85,7 @@ BMX Racing follows a distinct Olympic format, which will be published in the _Cy
 
 _(text modified on 01.01.03; 01.01.06; 30.09.10; 15.02.19; 12.06.25)_ 
 
-## **Commissaires** 
+#### **Commissaires** 
 
 - **11.1.005** The UCI shall appoint a number of UCI International Commissaires and UCI BMX Freestyle Judges in accordance with the number of such officials agreed with the IOC. 
 
@@ -92,13 +99,13 @@ Furthermore, the National Federation of the organising country shall name, in co
 
 _(text modified on 01.02.07; 01.07.09; 12.06.25)_ 
 
-## **Anti-Doping Matters** 
+#### **Anti-Doping Matters** 
 
 - **11.1.006** During the Olympic Games, Anti-Doping matters shall be conducted in accordance with the rules of the IOC. 
 
 - **11.1.007** Violations of IOC Anti-Doping rules and any doping matters identified under the IOC AntiDoping rules shall be considered as violations against the UCI Anti-Doping Regulations. In addition to any sanctions which may be imposed by the IOC, disciplinary proceedings shall be initiated, and sanctions shall be imposed in accordance with the UCI Anti-Doping Regulations. 
 
-## **Equipment** 
+#### **Equipment** 
 
 - **11.1.008** The measures stipulated in the Olympic Charter, including any eventual dispensations granted for cycling events, will be applied. 
 
@@ -106,11 +113,9 @@ Equipment used at the Olympic Games shall comply with the provisions of the UCI 
 
 _(text modified on 01.02.25)_ 
 
-## **Equipment** 
+#### **Equipment** 
 
-## **11.1.009** 
-
-For track races, equipment identified in the UCI Track Equipment Registration Procedure which teams or riders intend to use during the Olympic Games must comply with the UCI regulations, and particularly with article 1.3.006. 
+**11.1.009** For track races, equipment identified in the UCI Track Equipment Registration Procedure which teams or riders intend to use during the Olympic Games must comply with the UCI regulations, and particularly with article 1.3.006. 
 
 The UCI Track Equipment Registration Procedure shall set out additional requirements applicable for use of equipment in Track cycling at the Olympic Games. 
 
@@ -128,7 +133,7 @@ E0326
 
 4 
 
-## **Other Provisions** 
+#### **Other Provisions** 
 
 - **11.1.010** The timing and results service used during the Olympic Games shall be provided to the same standard as during the UCI World Championships for each Olympic discipline. 
 
@@ -140,7 +145,7 @@ _(article introduced on 12.06.25)_
 
 _(article introduced on 12.06.25)_ 
 
-## **Field of Play** 
+#### **Field of Play** 
 
 - **11.1.012** For the Mountain Bike, BMX Racing, and BMX Freestyle disciplines, unless otherwise agreed by the UCI, the company contracted by the organising committee in each case to design the field of play shall also be responsible for constructing or supplying the field of play. 
 
@@ -156,17 +161,17 @@ E0326
 
 5 
 
-## **Chapter II YOUTH OLYMPIC GAMES** 
+### **Chapter II YOUTH OLYMPIC GAMES** 
 
-## **General provisions** 
+   - **General provisions** 
 
 - **11.2.001** To be eligible to participate in the Youth Olympic Games, athletes must have been born between 14 November 2008 and 31 December 2009, inclusive. 
 
 - **11.2.002** There are two events for each gender in the Cycling competition at the Dakar 2026 Youth Olympic Games: 
 
-   - Road Race 
+      - Road Race 
 
-   - Individual Time Trial 
+      - Individual Time Trial 
 
 For cycling Road at the 2026 Youth Olympic Games, the IOC has allocated 42 quota places per gender (84 in total). All entered athletes will compete in both events for their gender. 
 
@@ -174,13 +179,13 @@ Quota shall be allocated in accordance with the system and rules published by th
 
 _(text modified on 12.06.25)_ 
 
-## **Commissaires** 
+#### **Commissaires** 
 
-- **11.2.003** The UCI shall appoint 5 UCI International Commissaires for the 2026 Youth Olympic Games. The host national federation shall appoint a further 5 National Commissaires. 
+**11.2.003** The UCI shall appoint 5 UCI International Commissaires for the 2026 Youth Olympic Games. The host national federation shall appoint a further 5 National Commissaires. 
 
 _(text modified on 12.06.25)_ 
 
-## **Disqualification Rules** 
+#### **Disqualification Rules** 
 
 **11.2.004** Notwithstanding any other provisions of the UCI Regulations which may apply, a rider may be disqualified during the event if they: 
 
@@ -198,7 +203,7 @@ _(text modified on 12.06.25)_
 
 _(text modified on 12.06.25)_ 
 
-## **Protests / Appeals** 
+#### **Protests / Appeals** 
 
 - **11.2.025** Decisions of the Commissaires’ Panel shall be considered final. No protest or appeal shall be permitted. 
 

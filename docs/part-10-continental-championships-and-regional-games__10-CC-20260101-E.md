@@ -4,16 +4,16 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/3MyeUMW4jEZ2lXFYkmKW9d/abd
 source_sha256: 22887f8971ab9653f5c41a3ea5ea33318cb9f46e7b3d60449cbd875c26f4abca
 converter: pymupdf4llm
 ---
-## **PART 10 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES** 
+
+# **PART 10 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES** 
 
 **Version on 01.01.2026** 
 
-## **TABLE OF CONTENT** 
+### **TABLE OF CONTENT** 
 
-||Page|
-|---|---|
-|**Chapter I**|**CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS………2**|
-|**Chapter II**|**REGIONAL GAMES – GENERAL REGULATIONS………………………..4**|
+Page 
+
+**Chapter I CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS………2 Chapter II REGIONAL GAMES – GENERAL REGULATIONS………………………..4** 
 
 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES 
 
@@ -23,9 +23,9 @@ E0126
 
 ## **PART 10 CONTINENTAL CHAMPIONSHIPS AND REGIONAL GAMES** 
 
-## **Chapter I CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS** 
+### **Chapter I CONTINENTAL CHAMPIONSHIPS – GENERAL REGULATIONS** 
 
-## **Registration on the UCI International Calendar** 
+#### **Registration on the UCI International Calendar** 
 
 - **10.1.001** The Continental Championships are organised each year under the responsibility of the Continental Confederations, at least for the Olympic disciplines and the elite category and are entered on the UCI International Calendar on a fixed date chosen in agreement with the UCI. The application for registration must reach the UCI before 1st June of the previous year. The calendar application shall be submitted by the host National Federation, acting with the approval of the relevant Continental Confederation, for the discipline in question. 
 
@@ -35,13 +35,13 @@ The track cycling Continental Championships (men elite and women elite) shall ta
 
 _(text modified on 01.07.09; 09.11.16; 12.06.20; 01.01.26)_ 
 
-## **Specifications and requirements** 
+#### **Specifications and requirements** 
 
 - **10.1.002** The organiser is obliged to respect the UCI list of specifications and requirements in terms of material and technical conditions which are applicable for the organisation of Continental Championships. 
 
-## **Technical Documentation and UCI Officials** 
+#### **Technical Documentation and UCI Officials** 
 
-**10.1.003** The UCI must be informed about the technical guide, the event programme and the competition schedule in accordance with the instructions laid down in the registration procedures for UCI International Calendars. For each discipline and specialty in which a Continental Confederation registers a Continental Championships on the UCI International Calendar, the event programme must at least include the categories of riders which feature in the UCI World Championships for the discipline and specialty in question, as defined in Part IX of the UCI Regulations, “World Championships”. Continental Championships for different specialties of the same discipline (if held) may be held in either the same event or in separate events, though in case of separate events, the financial obligations related to registration on the UCI International Calendar must be paid for each. 
+- **10.1.003** The UCI must be informed about the technical guide, the event programme and the competition schedule in accordance with the instructions laid down in the registration procedures for UCI International Calendars. For each discipline and specialty in which a Continental Confederation registers a Continental Championships on the UCI International Calendar, the event programme must at least include the categories of riders which feature in the UCI World Championships for the discipline and specialty in question, as defined in Part IX of the UCI Regulations, “World Championships”. Continental Championships for different specialties of the same discipline (if held) may be held in either the same event or in separate events, though in case of separate events, the financial obligations related to registration on the UCI International Calendar must be paid for each. 
 
 For track cycling, categories may be combined. However, in the case of a combined event, a title for each category shall be awarded. Only one classification shall be made and published. The distance of the race shall always be the race distance of the older category (longer distance). 
 
@@ -53,7 +53,9 @@ E0126
 
 2 
 
-- **10.1.004** To ensure the technical supervision of races, the UCI will directly appoint: − A UCI Technical Delegate 
+- **10.1.004** To ensure the technical supervision of races, the UCI will directly appoint: 
+
+      - A UCI Technical Delegate 
 
    - The President of the Commissaires Panel (additional UCI international commissaires may also be appointed as required.). For BMX Freestyle events, the Head Judge shall be appointed instead of the President of the Commissaires Panel. Officials are appointed in accordance with the procedures laid out in article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. 
 
@@ -61,7 +63,7 @@ E0126
 
 _(text modified on 01.01.26)_ 
 
-## **Participation** 
+#### **Participation** 
 
 - **10.1.005** Only National Federations affiliated to their Continental Confederation, can take part in the Continental Championships. In case the Continental Confederation does not define a specific qualification system for each category of rider, by default the maximum number of riders taking part in the various events for each category of rider will be the same for all participating National Federations. 
 
@@ -93,11 +95,9 @@ E0126
 
 3 
 
-## **Chapter II REGIONAL GAMES – GENERAL REGULATIONS** 
+**Chapter II REGIONAL GAMES – GENERAL REGULATIONS** _(Chapter introduced on 01.01.26)_ 
 
-_(Chapter introduced on 01.01.26)_ 
-
-## **Definition** 
+#### **Definition** 
 
 - **10.2.001** As concerns cycling, Regional Games are multi-sport events which: a) include at least one of the Olympic or Paralympic cycling disciplines, b) are open to participation by athletes from at least two nations, and c) are held under the auspices of a responsible authority which is either a body recognised by the UCI (example. g, a Continental Confederation) or by the International Olympic Committee (based on the list published by the IOC). 
 
@@ -147,7 +147,7 @@ E0126
 
 4 
 
-## **Registration on the UCI International Calendar** 
+#### **Registration on the UCI International Calendar** 
 
 - **10.2.002** Multi-sport events fulfilling both the above definition and the following conditions may be registered as Regional Games on the UCI International Calendar for each of the Olympic disciplines included in the programme. Registration shall follow the calendar registration procedures for each discipline as published by the UCI each year. 
 
@@ -167,9 +167,9 @@ However, the Commissaires’ Panel remains responsible for verifying rider eligi
 
 - v. Categories, gender parity and awards: All categories of riders must respect the UCI Regulations of each included discipline for both Men and Women. For each category included (e.g. Juniors, U23, Elite), both Men’s and Women’s competitions must be held, and the winners must be equally recognised. 
 
-## **Results and UCI Rankings** 
+#### **Results and UCI Rankings** 
 
-- **10.2.003** In case the list of nations eligible to participate in the event in question differs in any way from the list of National Federations affiliated with the UCI (e.g. in the case of the Commonwealth Games), results of the event must be compiled and submitted using National Federations affiliated with the UCI. 
+**10.2.003** In case the list of nations eligible to participate in the event in question differs in any way from the list of National Federations affiliated with the UCI (e.g. in the case of the Commonwealth Games), results of the event must be compiled and submitted using National Federations affiliated with the UCI. 
 
 UCI Ranking points shall be awarded in accordance with the points scale and regulations applicable to the relevant discipline. 
 
@@ -179,7 +179,7 @@ E0126
 
 5 
 
-## **UCI Officials** 
+#### **UCI Officials** 
 
 - **10.2.004** Appointment of UCI International Commissaires (or Judges for BMX Freestyle): The UCI will appoint the President of the Commissaires’ Panel (or the Head Judge for BMX Freestyle events) for each included discipline of a Regional Games in accordance with the article 1.2.116 of the UCI Regulations and the UCI Financial Obligations. Where possible, the same official may serve across multiple disciplines, in line with Commissaire specialisation. 
 

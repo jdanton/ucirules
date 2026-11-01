@@ -29,7 +29,7 @@ MEMORANDUM 29.09.2026
 
 - **18.1.002** Gravel competitions are competitive mass-participation competitions with a mass-start (or in waves with intervals between the start groups) fully timed for all participants and split results per <del>age group</del> category and gender. 
 
-Gravel competitions may be one-day cycling competitions or multi-day cycling competitions. 
+   - Gravel competitions may be one-day cycling competitions or multi-day cycling competitions. 
 
 Gravel competition shall have the following course’s characteristics: 
 
@@ -87,9 +87,9 @@ Two different types of course may be used:
 
 Men and women must have a separate start and be considered as separate races. 
 
-**Technical guide and information to participants** 
+   - **Technical guide and information to participants** 
 
-**18.1.004** The competition’s website or a technical guide, as one single comprehensive document, written in French or English and in the official local language(s) of the country, shall include at least the following information: 
+- **18.1.004** The competition’s website or a technical guide, as one single comprehensive document, written in French or English and in the official local language(s) of the country, shall include at least the following information: 
 
 Page **2** / **9** 
 
@@ -303,9 +303,9 @@ The organiser will indicate in the technical guide or technical information the 
 
 ### **§ 6 Conduct of participants** 
 
-#### **Entries and responsibility of participants** 
+- **Entries and responsibility of participants** 
 
-**18.1.015** Advance registration with the organiser is obligatory 
+- **18.1.015** Advance registration with the organiser is obligatory 
 
 By the act of entering, the participant confirms that they accept and undertake to respect the regulations of the UCI and the national federation, as well as the specific regulations for the competition. 
 
@@ -349,7 +349,7 @@ Without prejudice to the rules of conduct outlined in articles 1.2.079 to 1.2.08
 
 #### **Infringements related to race incidents and penalties** 
 
-**18.1.021** Without prejudice of Part 12 of the UCI Regulations, infringements related to race incidents and failure to abide by the UCI Regulations or by the competitions rules set out in the technical guide of the competition may result in a participant being awarded time penalties, warning, exclusion or disqualification of the race. Penalties will be decided and imposed by the appointed commissaires/officials. 
+- **18.1.021** Without prejudice of Part 12 of the UCI Regulations, infringements related to race incidents and failure to abide by the UCI Regulations or by the competitions rules set out in the technical guide of the competition may result in a participant being awarded time penalties, warning, exclusion or disqualification of the race. Penalties will be decided and imposed by the appointed commissaires/officials. 
 
 Any licence holder who is responsible for a serious race incident which affects the sporting fairness, the integrity of the competition, the safety of other riders or spectators or the image of cycling and/or the UCI may receive the following sanctions: 
 
@@ -397,15 +397,23 @@ A UCI gravel world series competition is a competitive mass-participation compet
 
 A UCI gravel world series competition shall present a course which complies with the requirements of article 18.1.002 and 18.1.003. 
 
-#### **Eligibility and** **<del>age</del> categories** 
+#### **Eligibility and** **<del>age</del> categories 18.2.003** UCI gravel world series competitions are open to anyone aged 19 or above. 
 
-**18.2.003** UCI gravel world series competitions are open to anyone aged 19 or above. 
+Th <del>e age</del> categories are as follows, for each gender men and women: 
 
-- Th <del>e age</del> categories are as follows, for each gender men and women: `-` elite, 
+- elite, 
 
 - age groups: 
 
-   - 19–34 years ▪ 35–39 years ▪ 40–44 years ▪ 45–49 years ▪ 50–54 years 
+   - 19–34 years 
+
+   - 35–39 years 
+
+   - 40–44 years 
+
+   - 45–49 years 
+
+   - 50–54 years 
 
    - 55–59 years 
 

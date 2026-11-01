@@ -4,23 +4,20 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2TbzcEo3uXo2pQpbyTSNhF/223
 source_sha256: f96e107a35df6089ec0391e92c2765e93194101f2b540419d8e6b00bde5a3dc1
 converter: pymupdf4llm
 ---
-06.10.2025 
+
+MEMORANDUM 06.10.2025 
 
 ![](images/Part_3_Track_Regulations_amendments_2025_approved_in_September_2025.pdf-0001-01.png)
 
-## MEMORANDUM 
+# **Regulation amendments applying on 01.01.26 PART 3 TRACK RACES** 
 
-## **Regulation amendments applying on 01.01.26** 
-
-## **PART 3 TRACK RACES** 
-
-## **Chapter II TRACK RACES** 
+**Chapter II TRACK RACES** 
 
 ## **§ 1 General observations** 
 
-## **Conduct of riders** 
+**Conduct of riders** 
 
-- **3.2.002** Riders shall refrain from any collusion, manoeuvre or movement likely to hinder the conduct or distort the result of the race. In the case of collusion between riders, the commissaires may disqualify the riders concerned. 
+**3.2.002** Riders shall refrain from any collusion, manoeuvre or movement likely to hinder the conduct or distort the result of the race. In the case of collusion between riders, the commissaires may disqualify the riders concerned. 
 
 In addition, while riding on the track, riders shall at all times be in firm control of the bicycle and have at least one hand on the handlebar (or extension). 
 

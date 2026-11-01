@@ -4,7 +4,8 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/73az93YUIYgyAWhHXPVRPf/359
 source_sha256: 2374322d295051c920af46b8d7d4d43b36e8e43f02eb0703e30b774d35001538
 converter: pymupdf4llm
 ---
-## **PART 6BIS BMX FREESTYLE** 
+
+# **PART 6BIS BMX FREESTYLE** 
 
 **Version on 01.01.2026** 
 
@@ -16,9 +17,9 @@ BMX FREESTYLE
 
 ## **PART 6 BIS BMX FREESTYLE** 
 
-## **Chapter I LICENCE-HOLDERS** 
+### **Chapter I LICENCE-HOLDERS** 
 
-## **BMX Freestyle Competitions** 
+#### **BMX Freestyle Competitions** 
 
 - **6bis.1.001** BMX Freestyle Competitions are judged events, in which riders are scored based upon their skill at executing a routine, including one or more of a variety of different manoeuvres, that are known as “tricks”. 
 
@@ -34,9 +35,9 @@ _(text modified on 01.02.18)_
 
 - **6bis.1.002** As BMX Freestyle Competitions are not races, only those elements of Part I of the UCI Regulations, “General Organisation of Cycling as a Sport” that are specifically mentioned in Part VI bis “BMX Freestyle Competitions” shall apply to BMX Freestyle Competitions. 
 
-In case the words “race” or “races” are used in any other parts of the UCI Regulations that also apply to BMX Freestyle Competitions, these words shall be taken to mean a BMX Freestyle Competition or Competitions. Likewise, the words Competition and event can be used interchangeably. 
+   - In case the words “race” or “races” are used in any other parts of the UCI Regulations that also apply to BMX Freestyle Competitions, these words shall be taken to mean a BMX Freestyle Competition or Competitions. Likewise, the words Competition and event can be used interchangeably. 
 
-- **6bis.1.003** The season for BMX Freestyle shall begin on 1[st] January and end on 31[st] December. 
+- **6bis.1.003** The season for BMX Freestyle shall begin on 1<sup>st</sup> January and end on 31<sup>st</sup> December. 
 
 E0126 
 
@@ -44,35 +45,41 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter II CATEGORIES AND LICENSES** 
+### **Chapter II CATEGORIES AND LICENSES** 
 
-## **Age of Participants** 
+##### **Age of Participants** 
 
 - **6bis.2.001** For participation in events on the international calendar, rider categories are determined by the age of those competing.  A rider’s age is defined by the difference between the year of the event and the year of birth of the rider, as defined in article 1.1.034. 
 
 A rider must be at least 7 years of age to compete in a BMX Freestyle Competition. The minimum age of 7 refers to the real calendar age on the day of event commencement. 
 
-## **Competition Categories** 
+##### **Competition Categories** 
 
-- **6bis.2.002** Two levels of categories are defined for BMX Freestyle Competitions. 
+**6bis.2.002** Two levels of categories are defined for BMX Freestyle Competitions. 
 
-      - A. UCI Categories: These categories shall be held at all events registered on the UCI BMX Freestyle International Calendar; 
+- A. UCI Categories: These categories shall be held at all events registered on the UCI BMX Freestyle International Calendar; 
 
-   - B. National Categories: These categories shall be held at all competitions registered on a BMX Freestyle national calendar. 
+- B. National Categories: These categories shall be held at all competitions registered on a BMX Freestyle national calendar. 
 
-   - The Competition categories recognized by the UCI for BMX Freestyle Competitions are as follows: 
+The Competition categories recognized by the UCI for BMX Freestyle Competitions are as follows: 
 
-      - A. UCI Categories for BMX Freestyle Competitions: 
+- A. UCI Categories for BMX Freestyle Competitions: 
 
-         - Categories for Men: Men Elite, aged 15 and over; 
+   - Categories for Men: Men Elite, aged 15 and over; 
 
-         - Categories for Women: Women Elite, aged 15 and over; 
+   - Categories for Women: Women Elite, aged 15 and over; 
 
-      - B. National Categories for BMX Freestyle Competitions: 
+- B. National Categories for BMX Freestyle Competitions: 
 
-         - Categories for Men: - Amateur Men; - Youth Men, aged 7 – 14; 
+   - Categories for Men: 
 
-         - Categories for Women: - Amateur Women; - Youth Women, aged 7 – 14. 
+      - Amateur Men; 
+
+      - Youth Men, aged 7 – 14; 
+
+   - Categories for Women: - Amateur Women; 
+
+      - Youth Women, aged 7 – 14. 
 
 For the National Categories listed above, National Federations may decide to change the age limits or add additional categories such as other age categories, open categories*, and / or ability categories. 
 
@@ -82,9 +89,9 @@ _(text modified on 01.02.18)_
 
 - **6bis.2.003** A rider cannot participate in both the Amateur and Elite categories during the same season. Riders may only change their category on the occasion of renewing their license at the start of the next season. 
 
-## **Combination of Categories** 
+##### **Combination of Categories** 
 
-## **6bis.2.004** Park Competitions 
+##### **6bis.2.004** <u>Park Competitions</u> 
 
 A BMX Freestyle Park Competition can only be held for categories in which 5 or more riders have completed the registration and riders’ confirmation process. In case a category has less than 5 riders registered and confirmed, that category may be combined with a different category at the discretion of the Competition organiser. 
 
@@ -96,13 +103,11 @@ E0126
 
 BMX FREESTYLE 
 
-## Flatland Competitions 
-
-For BMX Freestyle Flatland Competitions, the process above for BMX Freestyle Park Competitions shall be followed, however the minimum number of riders needed to hold a separate competition for the category shall be 3 riders registered and confirmed following riders’ confirmation. 
+<u>Flatland Competitions</u> For BMX Freestyle Flatland Competitions, the process above for BMX Freestyle Park Competitions shall be followed, however the minimum number of riders needed to hold a separate competition for the category shall be 3 riders registered and confirmed following riders’ confirmation. 
 
 _(text modified on 01.02.18)_ 
 
-## **Licences** 
+##### **Licences** 
 
 **6bis.2.005** Everyone participating in BMX Freestyle Competitions, in whatever capacity, must have a license. In this regard, articles 1.1.001 – 1.1.034 and 1.1.040 – 1.1.087 shall apply. 
 
@@ -116,9 +121,9 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter III CALENDAR AND THE ORGANISATION OF UCI EVENTS** 
+### **Chapter III CALENDAR AND THE ORGANISATION OF UCI EVENTS** 
 
-## **Calendar** 
+##### **Calendar** 
 
 **6bis.3.001** The UCI Management Committee shall approve the UCI BMX Freestyle International Calendar. In this respect, articles 1.2.001 – 1.2.030 of the UCI Regulations shall apply. 
 
@@ -126,7 +131,7 @@ In the interest of promoting growth in the discipline, licence-holders shall be 
 
 _(text modified on 01.01.25)_ 
 
-## **6bis.3.002** In General 
+##### **6bis.3.002** <u>In General</u> 
 
 All events registered on the UCI BMX Freestyle International Calendar shall hold, at least, the UCI Categories identified in article 6bis.2.002. Without prejudice to article 6bis.3.029, such events on the UCI BMX Freestyle International Calendar shall comply with the UCI Regulations for the UCI Categories. 
 
@@ -134,7 +139,7 @@ The UCI has the sole authority to allocate any Competition on the UCI BMX Freest
 
 The UCI BMX Freestyle International Calendar shall consist of the following types of Competitions: 
 
-## Park and Flatland Competitions 
+##### <u>Park and Flatland Competitions</u> 
 
 - A. UCI BMX Freestyle World Championships (CM): 
 
@@ -168,7 +173,7 @@ BMX FREESTYLE
 
       - At least 10 nations represented in the last edition of the event; 
 
-      - - A high level tv production taking into account the sporting aspect. 
+      - A high level tv production taking into account the sporting aspect. 
 
 - E. International BMX Freestyle Competition (C1): 
 
@@ -192,7 +197,7 @@ Without prejudice to article 6bis.3.029, event organisers of a BMX Freestyle eve
 
 _(text modified on 01.02.18; 02.02.19; 01.02.22; 01.01.25)_ 
 
-## **Obligations of the Organiser and other License Holders** 
+##### **Obligations of the Organiser and other License Holders** 
 
 - **6bis.3.003** Organisers of BMX Freestyle Competitions and other license holders have the responsibilities and obligations outlined in articles 1.2.031 – 1.2.047 of the UCI Regulations. 
 
@@ -212,7 +217,7 @@ Ignorance of the provisions of the Technical Guide or of the competition schedul
 
 _(text modified on 02.02.19; 01.01.26)_ 
 
-## **Field of Play (FOP) and Safety** 
+- **Field of Play (FOP) and Safety** 
 
 - **6bis.3.005** The organiser must provide an adequate security service and organise efficient cooperation with public authorities. 
 
@@ -230,7 +235,7 @@ Without prejudice to the relevant legal and administrative provisions and the ge
 
 Prior to the start of the competition, the organiser must make available to starting riders a list of the hospitals contacted to handle any injuries. 
 
-## **Prizes** 
+##### **Prizes** 
 
 - **6bis.3.011** All information on prizes (number, nature, amount, conditions of awarding) shall be clearly stated in the programme or Technical Guide. 
 
@@ -248,13 +253,15 @@ E0126
 
 BMX FREESTYLE 
 
-## **Riders Meeting** 
+##### **Riders Meeting** 
 
-**6bis.3.013** If they decide that it is necessary, the organiser and the Commissaire acting jointly may decide to call a riders’ meeting. If it is not mentioned in the Technical Guide, a notice announcing the time and place of the meeting shall be announced at the Competition venue (example: posted in the riders’ area at the Competition, or an announcement is made). 
+- **6bis.3.013** If they decide that it is necessary, the organiser and the Commissaire acting jointly may decide to call a riders’ meeting. If it is not mentioned in the Technical Guide, a 
 
-## **Registration and Riders’ confirmation** 
+- notice announcing the time and place of the meeting shall be announced at the Competition venue (example: posted in the riders’ area at the Competition, or an announcement is made). 
 
-**6bis.3.014** The registration process is controlled by the organiser and is described in the Technical Guide. 
+##### **Registration and Riders’ confirmation** 
+
+- **6bis.3.014** The registration process is controlled by the organiser and is described in the Technical Guide. 
 
 Riders shall enter BMX Freestyle Competitions by completing the entry process required by the organiser. This may be done in person at the event (at the time and place specified in the Technical Guide) or on-line. The organiser may decide to only accept on-line entries; if so, this will also be announced in the Technical Guide. 
 
@@ -268,7 +275,7 @@ Participants under the age of majority in the country in which the Competition i
 
 As a consequence of registration, the rider (or their parent or guardian) attests that they are medically fit to participate in the Competition. Neither the organiser nor the UCI shall have any duty of care in this regard – determination of fitness to compete is the sole responsibility of the rider (or their parent or guardian). 
 
-## **Riders Confirmation** 
+##### **Riders Confirmation** 
 
 - **6bis.3.015** Riders confirmation is the process done under the responsibility of a Commissaire, by which entered riders complete the registration process. The Commissaire shall have the exclusive authority to decide whether a rider’s entry is valid or not. 
 
@@ -300,7 +307,7 @@ A rider whose licence could not be verified and whose status as a non-suspended 
 
 - **6bis.3.018** Following the end of riders’ confirmation, the Commissaire and the organisation shall draw up the start lists and practice groups (if any) for the Competition. 
 
-## **Classification and Results** 
+##### **Classification and Results** 
 
 - **6bis.3.019** Following the end of a BMX Freestyle Competition, the results (final classification) for each category will be posted in the riders’ area at the Competition venue before the awards ceremony is held. 
 
@@ -310,13 +317,13 @@ In case any categories were combined following riders’ confirmation, the resul
 
 The UCI or respectively, the organiser's national federation, shall notify the organiser and all riders involved of any such correction. 
 
-## **Awards Ceremony** 
+##### **Awards Ceremony** 
 
 - **6bis.3.021** All riders concerned shall, in accordance with their placing, classifications and performances, participate in official ceremonies as described in the Technical Guide. 
 
 - **6bis.3.022** Unless otherwise stated, riders shall appear at official ceremonies wearing Competition clothing. 
 
-## **Supervision of BMX Freestyle Competitions** 
+##### **Supervision of BMX Freestyle Competitions** 
 
 - **6bis.3.023** The proceedings at BMX Freestyle Competitions shall be supervised by a Commissaire and panel of Judges. 
 
@@ -350,15 +357,13 @@ The Panel of Judges is responsible for evaluating the performance of the riders 
 
 For events on the UCI International BMX Freestyle Calendar, the Commissaire shall also ensure that the final results are uploaded to the UCI DataRide system at latest no more than 2 hours following the end of the Competition. 
 
-## **Powers of the Commissaire and Panel of Judges** 
+**Powers of the Commissaire and Panel of Judges 6bis.3.027** Articles 1.2.126 – 1.2.132 of the UCI Regulations shall apply to the Commissaire and judges panel appointed to supervise BMX Freestyle Competitions. 
 
-- **6bis.3.027** Articles 1.2.126 – 1.2.132 of the UCI Regulations shall apply to the Commissaire and judges panel appointed to supervise BMX Freestyle Competitions. 
+##### **UCI Classifications** 
 
-## **UCI Classifications** 
+**6bis.3.028** [article abrogated on 01.01.25] 
 
-- **6bis.3.028** [article abrogated on 01.01.25] 
-
-## **Special format events** 
+##### **Special format events** 
 
 - **6bis.3.029** Events in the specialities of BMX Freestyle Park or BMX Freestyle Flatland which do not follow the provisions of Chapter VI may apply, through the national federation in accordance with the process set out in articles 1.2.001 et seq., for registration on the UCI International Calendar. 
 
@@ -372,9 +377,9 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter IV CLOTHING AND EQUIPMENT** 
+### **Chapter IV CLOTHING AND EQUIPMENT** 
 
-## **General Rules concerning the Bicycle** 
+- **General Rules concerning the Bicycle** 
 
 - **6bis.4.001** Bicycles used in BMX Freestyle Competitions shall comply with the spirit and principle of cycling as a sport. The spirit presupposes that cyclists will compete in Competitions on an equal footing. The principle asserts the primacy of man over machine. 
 
@@ -384,7 +389,7 @@ It is up to each license holder to check the conformity of their equipment.
 
 - **6bis.4.002** Articles 1.3.001 – 1.3.003 shall apply to BMX Freestyle Competitions. 
 
-The Commissaire has the authority to refuse any equipment that he considers will place the safety of the rider or any other person at risk. 
+   - The Commissaire has the authority to refuse any equipment that he considers will place the safety of the rider or any other person at risk. 
 
 - **6bis.4.003** Bicycles used in BMX Freestyle Competitions are vehicles with two wheels of equal diameter. The front wheel shall be steerable; the rear wheel shall be driven through a system comprising pedals, a crank-set and a chain, without electric or other assistance. Fixed gear bicycles are not permitted. 
 
@@ -402,7 +407,7 @@ The bicycles of riders in Youth categories may be equipped with wheels smaller t
 
 Bicycles used in BMX Freestyle Competitions may be equipped with one or more hub axle extenders, also known as “pegs”, provided that these are securely attached. 
 
-## **Safety Equipment** 
+##### **Safety Equipment** 
 
 - **6bis.4.006** Wearing a helmet certified for cycling is an obligation attached to all Park categories, as specified in article 1.3.031. This helmet must be worn at all times while riding. Only accessories approved by the helmet manufacturer may be attached to helmets. 
 
@@ -414,15 +419,15 @@ E0126
 
 BMX FREESTYLE 
 
-It is strongly recommended that riders wear: 
+- It is strongly recommended that riders wear: 
 
-- A. back, elbow, knee and shoulder protectors; 
+   - A. back, elbow, knee and shoulder protectors; 
 
-- B. protection of the cervical vertebrae. 
+   - B. protection of the cervical vertebrae. 
 
 _(text modified on 01.02.18, 02.02.19)_ 
 
-## **Clothing** 
+##### **Clothing** 
 
 - **6bis.4.007** Riders in BMX Freestyle Competitions shall wear clothing that is traditionally associated with BMX Freestyle. Such clothing in its design or construction must not constitute a danger to the safety of the rider (example: exceptionally loose clothing which could become caught in the rider’s bicycle). 
 
@@ -434,7 +439,7 @@ _(text modified on 01.02.18; 08.02.21)_
 
 - **6bis.4.008** Articles 1.3.060 – 1.3.067 and article 1.3.072 (the section concerning World Champions’ Equipment) shall apply to BMX Freestyle Competitions. 
 
-## **Identification of Riders** 
+##### **Identification of Riders** 
 
 - **6bis.4.009** Riders must at all times wear the visual identification provided by the organisation (sticker, wristband, bib or strap, whatever the case may be). Riders not doing so may be refused access to the Competition venue or may be refused their start. 
 
@@ -456,9 +461,9 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter V CONDUCT OF PARTICIPANTS, AND PENALTIES** 
+### **Chapter V CONDUCT OF PARTICIPANTS, AND PENALTIES** 
 
-## **Conduct of Participants** 
+##### **Conduct of Participants** 
 
 - **6bis.5.001** Each participant is engaged on their own behalf and those of their employees and agents and must observe all the provisions of the UCI Regulations and the Technical Guide for the Competition. Every participant shall follow the directions of the organisation and appointed officials, and any penalties that may be applied. 
 
@@ -470,7 +475,7 @@ In keeping with these values, riders may not add extra elements to the field of 
 
 _(text modified on: 01.02.18)_ 
 
-## **Penalties** 
+##### **Penalties** 
 
 **6bis.5.003** Without prejudice to any specific provisions of these regulations, the Commissaire appointed to manage a BMX Freestyle Competition has the right to give an official warning, disqualify or refuse the start of a rider who violates the following standards of safety or good conduct: 
 
@@ -512,11 +517,9 @@ The Commissaire shall make an official report to the UCI following the competiti
 
 _(text modified on 01.02.18; 02.02.19)_ 
 
-- **6bis.5.004** [article abrogated on 01.02.18] 
+**6bis.5.004** [article abrogated on 01.02.18] 
 
-**6bis.5.005** 
-
-[article abrogated on 01.02.18] 
+**6bis.5.005** [article abrogated on 01.02.18] 
 
 E0126 
 
@@ -524,13 +527,13 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter VI BMX FREESTYLE COMPETITIONS** 
+### **Chapter VI BMX FREESTYLE COMPETITIONS** 
 
 - **6bis.6.001** Within BMX Freestyle Competitions, riders perform timed routines, and are scored based upon various factors, including the difficulty and quality of execution of their run. 
 
 _(text modified on 01.02.18)_ 
 
-## **Competition Format** 
+##### **Competition Format** 
 
 - **6bis.6.002** Riders registered to compete in a Competition will be classified and entered into every BMX Freestyle Competition according to their age, gender, and Competition level as described above in article 6bis.2.002. 
 
@@ -542,14 +545,14 @@ For Flatland Competitions, riders are organised into heats at the discretion of 
 
 The combination of phases and heats (if applicable) for a category depends on the number of entries, and is found in the following table. 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
-|Number of entries|Competition<br>phases|Qualification rule|Number of heats|
-|---|---|---|---|
-|5 - 8 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 4 in Qualification<br>advance to Final|Qualification:<br>as<br>below<br>1 heat of 4 in Final|
-|9 – 15 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 8 in Qualification<br>advance to Final|Qualification:<br>as<br>below<br>2 heats of 4 in Final|
-|16 - 31 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top<br>12<br>in<br>Qualification<br>advance to Final|Qualification:<br>as<br>below<br>2 heats of 6 in Final|
-|More<br>than<br>31<br>entries|3 phases:<br>Qualification x 1<br>Semi-final x 1<br>Final x 1|Top<br>24<br>in<br>Qualification<br>advance to Semi-<br>final<br>Top 12 in Semi-final<br>advance to Final|Qualification:<br>as<br>below<br>4 heats of 6 in<br>Semi-final<br>2 heats of 6 in Final|
+|Number of entries|Competition<br>phases|Qualification rule|Number of he|ats|
+|---|---|---|---|---|
+|5 - 8 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 4 in Qualification<br>advance to Final|Qualification:<br>below<br>1 heat of 4 in|as<br>Final|
+|9 – 15 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top 8 in Qualification<br>advance to Final|Qualification:<br>below<br>2 heats of 4 in|as<br>Final|
+|16 - 31 entries|2 phases:<br>Qualification x 1<br>Final x 1|Top<br>12<br>in<br>Qualification<br>advance to Final|Qualification:<br>below<br>2 heats of 6 in|as<br>Final|
+|More<br>than<br>31<br>entries|3 phases:<br>Qualification x 1<br>Semi-final x 1<br>Final x 1|Top<br>24<br>in<br>Qualification<br>advance to Semi-<br>final<br>Top 12 in Semi-final<br>advance to Final|Qualification:<br>below<br>4 heats of<br>Semi-final<br>2 heats of 6 in|as<br>6 in<br>Final|
 
 E0126 
 
@@ -561,7 +564,7 @@ BMX FREESTYLE
 
 Whenever it is not possible for all heats to have 6 riders, a number of heats will have either 4, 5 or 6 riders according to the table in annexe II. By preference, heats should be formed with the highest number of riders possible. Any heats that do not have 6 riders, will be at the start of the heat order. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 |Number of entries|Phases de<br>compétition|Règlement de<br>qualification|
 |---|---|---|
@@ -572,15 +575,15 @@ Whenever it is not possible for all heats to have 6 riders, a number of heats wi
 
 _(text modified on 01.02.18; 02.02.19; 11.02.20; 08.02.21; 01.01.26)_ 
 
-**6bis.6.004** A run is the individual unit of Competition in a BMX Freestyle Event, during which a rider performs a routine consisting of various tricks, which is evaluated by the judges. 
+- **6bis.6.004** A run is the individual unit of Competition in a BMX Freestyle Event, during which a rider performs a routine consisting of various tricks, which is evaluated by the judges. 
 
-## Park Competitions 
+<u>Park Competitions</u> 
 
 At all phases of the Competition, within each heat, each rider shall do 2 runs. 
 
 In general, riders do their first run in the start order defined in article 6bis.6.005. Once the final rider in the order within each heat has taken their first run, the riders will do their second run in the same order. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 At qualifying phases of the Competition, within each heat, each rider shall do 1 run; this run shall be done by the riders in the start order defined in article 6bis.6.005. 
 
@@ -594,11 +597,11 @@ E0126
 
 BMX FREESTYLE 
 
-## **Start Order** 
+##### **Start Order** 
 
-**6bis.6.005** Qualification Phase 
+##### **6bis.6.005** Qualification Phase 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
 Within the Qualification phase, riders are randomly assigned to each heat. 
 
@@ -608,7 +611,7 @@ In such a case, within each heat, the start order continues to be in reverse ord
 
 In case of the first event in a series, the final ranking of the previous season of the series will be used. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 The start order in the Qualification phase is done at random, unless a UCI ranking is used for the UCI World Championships or a series ranking is used; in that case, the start order of the Qualification phase is done in reverse order of the series ranking among the riders who are present. Unranked riders shall ride first, in random order. 
 
@@ -640,31 +643,29 @@ BMX FREESTYLE
 
 In case one or more riders withdraw (or are disqualified or refused their start) once the deadline described in article 6bis.6.009 has passed, the heats will not be changed. 
 
-## **Scoring and Results** 
+##### **Scoring and Results** 
 
-## **6bis.6.011** Park Competitions 
+- **6bis.6.011** <u>Park Competitions</u> 
 
-Each judge shall give each rider a score of between 0.00 and 99.99, taking into account the rider’s entire performance. The scores of individual judges are not given for each run. 
+   - Each judge shall give each rider a score of between 0.00 and 99.99, taking into account the rider’s entire performance. The scores of individual judges are not given for each run. 
 
 In the qualification phase, scores given by all judges for each rider are averaged; this average score is the official score of the rider’s performance over 2 runs for the heat in question. In the Semi-final and Final phase, scores given by all judges for each rider are averaged; the final score is the best score of the 2 runs during the Semi-final and Final phase. Each average score is reported accurate to 2 decimal places; any fractions of points beyond this are dropped (no rounding of scores is done). 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 Each judge shall give each rider a score of between 0.00 and 99.99, taking into account the rider’s entire performance. The scores given by all judges for each rider are averaged; this average score is the official score of the rider’s performance for the heat in question. The scores of individual judges are not given. Each average score is reported accurate to 2 decimal places; any fractions of points beyond this are dropped (no rounding of scores is done). In the final phase, scores given by all judges for each rider are averaged; the final score is the best score of the 2 runs during the final phase. 
 
 _(text modified on 01.02.18; 08.02.21; 01.01.26)_ 
 
-## **Best Trick Competition** 
+##### **Best Trick Competition** 
 
-- **6bis.6.012** 
-
-The organiser of a BMX Freestyle Competition may decide to hold a best trick contest as part of a BMX Freestyle event. Such a Competition shall be held according to rules that the organiser may determine. Such rules must be explained in the Technical guide. Participation can never be mandatory. 
+- **6bis.6.012** The organiser of a BMX Freestyle Competition may decide to hold a best trick contest as part of a BMX Freestyle event. Such a Competition shall be held according to rules that the organiser may determine. Such rules must be explained in the Technical guide. Participation can never be mandatory. 
 
 _(text modified on 01.02.18)_ 
 
-## **Non-starters and Withdrawing from Competition** 
+##### **Non-starters and Withdrawing from Competition** 
 
-**6bis.6.013** Within each phase it is possible that one or more riders may not start, or withdraw from Competition. 
+- **6bis.6.013** Within each phase it is possible that one or more riders may not start, or withdraw from Competition. 
 
 In case a rider is refused his start for any reason or withdraws or simply does not show up before beginning their first run, he shall be scored as “Did Not Start” for the phase in question. Such a rider is not eligible to transfer to the next phase of the Competition. 
 
@@ -680,7 +681,7 @@ BMX FREESTYLE
 
 as injury or an act of god beyond their control. It is the responsibility of the rider or their representative to contact the organisation and provide acceptable proof of this. 
 
-## **Results for Each Phase** 
+##### **Results for Each Phase** 
 
 - **6bis.6.014** Within each phase, a result shall be established in order of the highest score to the lowest. Ties shall be broken according to article 6bis.6.015. 
 
@@ -702,19 +703,19 @@ In case of multiple DNS riders, they will be placed after the riders who started
 
 In case one or more riders do not start in the Qualification phase, they shall automatically be considered as Disqualified (DSQ) and will not be ranked in the final results of the Competition. 
 
-## **Competition Classification** 
+- **Competition Classification** 
 
-**6bis.6.017** After the Final of a BMX Freestyle Competition is completed, a Competition classification accounting for the results of all phases of the event is produced as follows: 
+- **6bis.6.017** After the Final of a BMX Freestyle Competition is completed, a Competition classification accounting for the results of all phases of the event is produced as follows: 
 
-1. all riders not Disqualified (DSQ) who qualified for the Final, in order of their scores in the Final (from highest score to lowest). DNS riders in the Final as described in article 6bis.6.016; 
+   1. all riders not Disqualified (DSQ) who qualified for the Final, in order of their scores in the Final (from highest score to lowest). DNS riders in the Final as described in article 6bis.6.016; 
 
-2. if it was held, all riders not Disqualified (DSQ) who qualified for the Semi-final but did not qualify for the Final, in order of their scores in the Semi-final (from highest score to lowest). DNS riders in the Semi-final as described in article 6bis.6.016; 
+   2. if it was held, all riders not Disqualified (DSQ) who qualified for the Semi-final but did not qualify for the Final, in order of their scores in the Semi-final (from highest score to lowest). DNS riders in the Semi-final as described in article 6bis.6.016; 
 
-3. if it was held, all riders not Disqualified (DSQ) who started in the Qualification phase, in order of their scores in the Qualification phase, but who did not qualify for the next phase of the Competition. 
+   3. if it was held, all riders not Disqualified (DSQ) who started in the Qualification phase, in order of their scores in the Qualification phase, but who did not qualify for the next phase of the Competition. 
 
 _(text modified on 02.02.19; 01.01.25)_ 
 
-## **Judging System** 
+##### **Judging System** 
 
 **6bis.6.018** A panel consisting of 3 to 6 judges (including a head judge) shall be appointed to each BMX Freestyle Competition. They shall independently evaluate the performance of each rider based upon the judging criteria. 
 
@@ -748,13 +749,13 @@ _(text modified on: 01.02.18)_
 
 - **6bis.6.026** Judges may not independently change their scores either on the computer terminal or on the manual judging sheets. In case a mistake has been made, only the Head Judge can authorize a correction. 
 
-## **Judging Criteria** 
+##### **Judging Criteria** 
 
-- **6bis.6.027** In General 
+- **6bis.6.027** <u>In General</u> 
 
-The overall composition of the runs is most important as the judges evaluate the sequences of tricks, the amount of risk in the routine, and how the rider uses the course. The judges take errors such as falls and stops into consideration as described in article 6bis.6.028. 
+   - The overall composition of the runs is most important as the judges evaluate the sequences of tricks, the amount of risk in the routine, and how the rider uses the course. The judges take errors such as falls and stops into consideration as described in article 6bis.6.028. 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
 The performance of each rider is judged on overall impression including, but not limited to: 
 
@@ -786,7 +787,7 @@ BMX FREESTYLE
 
 - K. execution. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 The performance of each rider is judged on overall impression including, but not limited to: 
 
@@ -796,7 +797,9 @@ The performance of each rider is judged on overall impression including, but not
 
 - C. originality (tricks and lines) and versatility; 
 
-- D. consistency (refers the stability, fluidity and control of manoeuvres performed); E. variety of tricks; 
+- D. consistency (refers the stability, fluidity and control of manoeuvres performed); 
+
+- E. variety of tricks; 
 
 - F. control of the tricks, 
 
@@ -806,13 +809,13 @@ The performance of each rider is judged on overall impression including, but not
 
 _(text modified on 01.02.18; 01.01.22)_ 
 
-## **6bis.6.028** In General 
+##### **6bis.6.028** <u>In General</u> 
 
 Each judge may deduct a number of points from a rider’s score in case that rider commits one or more errors. The number of points deducted depends on the quantity and severity of the errors, and their overall impact on the rider’s performance. 
 
 Errors are defined as interruptions in a run or losses of control such as those listed below. 
 
-## Park Errors 
+##### <u>Park Errors</u> 
 
 - A. minor errors can include flat landings, deck landings, sliding, light foot touches and other instabilities; 
 
@@ -820,7 +823,7 @@ Errors are defined as interruptions in a run or losses of control such as those 
 
 - C. major errors can include actions such as “throwing away” the bicycle or crashing. 
 
-## Flatland Errors 
+##### <u>Flatland Errors</u> 
 
 - A. minor errors can include rear tire or front tire touching the riding surface during a trick (depending on the trick), a light foot touch, or handlebar touching the surface (assuming the trick continues); 
 
@@ -830,17 +833,17 @@ Errors are defined as interruptions in a run or losses of control such as those 
 
 _(text modified on 01.02.18)_ 
 
-## **Procedure for Managing the Competition** 
+##### **Procedure for Managing the Competition** 
 
-## **6bis.6.029** In General 
+##### **6bis.6.029** <u>In General</u> 
 
 The Commissaire appointed to manage the Competition is responsible for time-keeping. 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
 Within each heat, each rider shall do 2 runs. Each run will have a duration of one (1) minute. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 E0126 
 
@@ -852,13 +855,13 @@ During the qualifying phase, each rider shall do 1 run. Each run will have a dur
 
 _(text modified on 01.02.18; 01.01.26)_ 
 
-## **Starting a Run** 
+##### **Starting a Run** 
 
-## **6bis.6.030** In General 
+##### **6bis.6.030** <u>In General</u> 
 
 Riders are responsible to follow the progress of the Competition and must be ready to begin their run at the point in time when their position in the start order arrives. Riders shall have 1 minute to begin their run from the point in time that they are informed that they may begin; at that point the time for that rider’s run shall begin, whether they begin riding or not. In case the rider is not ready when the time for his run begins, he may nevertheless begin riding at any point before the time for his run ends. 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
 Riders may begin their run from any position within the boundaries of the field of play and must be ready in their chosen starting position prior to beginning their run. 
 
@@ -866,7 +869,7 @@ The time for each run will be started when in the opinion of the Commissaire, th
 
 Any riding taking place outside the boundaries of the field of play shall not be considered by the judges. For avoidance of doubt, railings along the edge of the field of play shall be considered as part of the field of play. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 Prior to beginning their run, the bicycle must be upright with both tires in contact with the riding surface. Riders must begin their run while on their bicycle, in a normal bicycle riding posture (that is, legs straddling the top tube with both hands on the handlebars and at least one foot on one of the pedals). 
 
@@ -882,37 +885,37 @@ E0126
 
 BMX FREESTYLE 
 
-## **Finishing a Run** 
+##### **Finishing a Run** 
 
 - **6bis.6.031** A run ends when the time for the run has elapsed. 
 
 If a rider is stationary when the time runs out, nothing else will be scored. 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
 When the time runs out, any trick that is fully completed shall be counted. A completed trick is one in which both wheels are in contact with a flat (horizontal) part of the park surface. Any trick attempted (completed or not) after the time has run out will not be counted by the judges. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 The judges shall not consider any trick which is not completed when the time runs out. 
 
 _(text modified on 01.02.18, 01.01.22; 01.01.25)_ 
 
-## **Time out for Mechanical Problems, including Flat Tires** 
+##### **Time out for Mechanical Problems, including Flat Tires** 
 
 - **6bis.6.032** During a run, if a rider’s bicycle suffers any kind of a breakage or mechanical problem, including a flat tire, the rider has until the time elapses for his run to either fix the problem or to get another bicycle and / or continue riding. If the time for his run elapses before he continues riding, then his run shall be declared finished, and he shall not be allowed to start riding again. 
 
 Whether or not the rider is able to restart his run before the time elapses, the judges shall only consider any riding that was done within the time limit. 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
 For avoidance of doubt, the score awarded to a rider for a heat is determined based upon his performance in both runs during qualification, and the best run during Semifinal / Final, whether completed or not, within the heat in question 
 
 _(text modified on: 01.02.18)_ 
 
-## **Outside Interference** 
+##### **Outside Interference** 
 
-**6bis.6.033** The commissaire may decide to allow a rider to re-start a run in case of outside interference which, in the opinion of the Commissaire, has a visible impact on the rider’s progress through the field of play, or on his performance. Such interference must be physical in nature such as debris blowing into the boundaries of the field of play and making physical contact with the rider, or coming in to his path causing him to alter his direction of travel, or lose control of his bicycle. For avoidance of doubt, background noise and weather conditions such as wind are not considered as outside inference. Likewise, the presence of other riders within that heat, or event staff normally allowed within the boundaries of the field of play shall not be considered as interference unless there is a deliberate attempt or obviously careless movement which blocks the rider’s progress. 
+- **6bis.6.033** The commissaire may decide to allow a rider to re-start a run in case of outside interference which, in the opinion of the Commissaire, has a visible impact on the rider’s progress through the field of play, or on his performance. Such interference must be physical in nature such as debris blowing into the boundaries of the field of play and making physical contact with the rider, or coming in to his path causing him to alter his direction of travel, or lose control of his bicycle. For avoidance of doubt, background noise and weather conditions such as wind are not considered as outside inference. Likewise, the presence of other riders within that heat, or event staff normally allowed within the boundaries of the field of play shall not be considered as interference unless there is a deliberate attempt or obviously careless movement which blocks the rider’s progress. 
 
 In case the rider believes that he has been unfairly interfered with, he must immediately stop his run and complain to the Commissaire, who will review the situation and render a decision. In case the rider decides not to stop his run at that moment, no later complaint concerning interference shall be considered. 
 
@@ -940,23 +943,23 @@ _(article introduced on 02.02.19)_
 
 - **6bis.6.039** [article abrogated on 01.02.17] 
 
-## **Delays** 
+##### **Delays** 
 
 - **6bis.6.040** The Commissaire and the Technical Delegate (if appointed), together with the organiser, may decide based on their assessment of the riding conditions whether or not a weather time-out is necessary. 
 
-## Park Competitions 
+##### <u>Park Competitions</u> 
 
 If the Competition is stopped at any point during a heat, then the entire heat may be rerun once the Competition is started again. However, the results of any heats that have been fully run before the Competition was stopped shall stand; no such heats will be rerun. 
 
 If the Competition can’t be later restarted, article 6bis.6.041 applies. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 In case of a weather delay, the contest shall be restarted at the point where it stopped. If the Competition can’t be later restarted, article 6bis.6.041 applies. 
 
 _(text modified on 01.02.18, 01.01.22)_ 
 
-## **Cancellation** 
+##### **Cancellation** 
 
 **6bis.6.041** The Commissaire, together with the organiser, may decide based on their assessment of the riding conditions whether or not a Competition can be finished. 
 
@@ -970,9 +973,9 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter VII COMPETITION FACILITIES AND FIELD OF PLAY** 
+### **Chapter VII COMPETITION FACILITIES AND FIELD OF PLAY** 
 
-## **Park Competition Facilities** 
+##### **Park Competition Facilities** 
 
 - **6bis.7.001** As general principle, the field of play, or “park” in which BMX Freestyle Park Competitions take place is a facility composed of various ramps and obstacles that are designed and optimised to allow riders on BMX Freestyle bicycles to compose runs through the park consisting of a number of tricks. It is understood that while the type and difficulty of the tricks that are possible depend on the creativity and skill of the rider, the format of the BMX Freestyle Park also has a significant influence in that the size, shape, and spacing of the ramps and obstacles within the park provide the space and possibility to achieve the necessary altitude to make various types of tricks and styles of BMX Freestyle riding possible. As such, a basic BMX Freestyle Park which is constructed for that purpose must be a minimum of 15 metres wide and 25 metres long. Also, neither the width nor the length of the park can be greater than 60 metres. 
 
@@ -988,7 +991,7 @@ _(text modified on 01.02.18; 02.02.19)_
 
 - **6bis.7.002** The field of play must contain a minimum of 3 obstacles. An obstacle is any feature within the park which is raised above the level where it sits. This can include the walls of the park, if any. 
 
-Obstacles that have their base above ground level must be at least 2 metres wide; again, the 2 metres safety zone must be maintained. Such obstacles may also be connected as described above. 
+   - Obstacles that have their base above ground level must be at least 2 metres wide; again, the 2 metres safety zone must be maintained. Such obstacles may also be connected as described above. 
 
 - **6bis.7.003** Ramps, as well as the ground surface between them, must be built from a sufficiently hard and even surface which provides good traction for bicycle tires, such as wood or concrete; regardless of the materials used, such surfaces must not have any significant defects such as gaps, bumps, or holes. 
 
@@ -1000,11 +1003,9 @@ E0126
 
 BMX FREESTYLE 
 
-Local, Regional, National, National Championships and International C1 Events 
+<u>Local, Regional, National, National Championships and International C1 Events</u> Existing facilities made of either wood or cement can be used. While it is preferred that such facilities are designed specifically for BMX Freestyle, various public freestyle facilities such as bowls and skateboard parks can also be used. It is strongly recommended that where possible, such a field of play should incorporate at least 3 of the obstacles typically found in a BMX Freestyle Park as outlined in the UCI BMX Freestyle Park Guide. 
 
-Existing facilities made of either wood or cement can be used. While it is preferred that such facilities are designed specifically for BMX Freestyle, various public freestyle facilities such as bowls and skateboard parks can also be used. It is strongly recommended that where possible, such a field of play should incorporate at least 3 of the obstacles typically found in a BMX Freestyle Park as outlined in the UCI BMX Freestyle Park Guide. 
-
-## Continental Championships 
+##### <u>Continental Championships</u> 
 
 A facility specifically made for BMX Freestyle riding must be used, whether built of wood or cement; such a field of play shall comply with the principles and guidelines outlined in the UCI BMX Freestyle Park Guide. 
 
@@ -1022,7 +1023,7 @@ _(article introduced on 02.02.19; text modified on 01.01.25)_
 
 _(text modified on 01.02.18)_ 
 
-## **Flatland Competition Facilities** 
+##### **Flatland Competition Facilities** 
 
 - **6bis.7.007** The Field of Play or “Flatland Area” in which BMX Freestyle Flatland Competitions take place must be a minimum of 10 metres wide and 10 metres long to allow all styles of flatland riding. Neither the width nor the length of the Flatland Area can be greater than 25 metres. 
 
@@ -1036,13 +1037,13 @@ E0126
 
 BMX FREESTYLE 
 
-The boundaries of the Flatland Area shall be visibly and clearly marked. 
+- The boundaries of the Flatland Area shall be visibly and clearly marked. 
 
 _(article introduced on 01.02.18)_ 
 
 - **6bis.7.008** A riders’ area which can only be accessed by people with the necessary accreditation or riders who are registered in the Competition shall be provided next to the Flatland Area. 
 
-_(article introduced on 01.02.18)_ 
+   - _(article introduced on 01.02.18)_ 
 
 - **6bis.7.009** A warm-up area at least 6 metres wide and 6 metres long which is located close to the Flatland area is recommended. 
 
@@ -1058,7 +1059,7 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter VIII COMPETITION OFFICIALS** 
+### **Chapter VIII COMPETITION OFFICIALS** 
 
 - **6bis.8.001** BMX Freestyle Park Competitions shall be controlled by the following officials: 
 
@@ -1066,21 +1067,19 @@ BMX FREESTYLE
 
       - B. a panel of between 3 and 6 judges, including a Head Judge. 
 
-   - BMX Freestyle Flatland Competitions shall be controlled by the following officials: 
-
-      - A. 1 Commissaire, referred to as the Commissaire of President of the Commissaires’ Panel; 
+   - BMX Freestyle Flatland Competitions shall be controlled by the following officials: A. 1 Commissaire, referred to as the Commissaire of President of the Commissaires’ Panel; 
 
       - B. a panel of between 3 and 6 judges, including a Head Judge. 
 
-## In General 
+##### <u>In General</u> 
 
 The officials listed above shall have a valid license as required by Part I of the UCI Regulations. 
 
 _(text modified on 01.02.18; 08.02.21)_ 
 
-## **The Commissaire** 
+##### **The Commissaire** 
 
-**6bis.8.002** The Commissaire is the official who is charged with controlling the sporting aspects of the Competition. He has the same responsibilities and powers that are described for Commissaires in Part I of the UCI Regulations. 
+- **6bis.8.002** The Commissaire is the official who is charged with controlling the sporting aspects of the Competition. He has the same responsibilities and powers that are described for Commissaires in Part I of the UCI Regulations. 
 
 Without prejudice to any other duties described in the UCI Regulations, during BMX Freestyle Park Competitions, the Commissaire alone is specifically responsible for managing the clock, deciding on outside interference, and assessing penalties. 
 
@@ -1090,13 +1089,13 @@ The Commissaire shall also serve as the Technical Delegate in case one is not ap
 
 _(text modified on 01.02.18)_ 
 
-## **The Panel of Judges** 
+##### **The Panel of Judges** 
 
 - **6bis.8.003** The Panel of Judges is charged with assessing and scoring the performance of each rider in accordance with the UCI Regulations. One of these Judges shall be designated as the Head Judge by the UCI for international events, or by the competent national federation for national events. 
 
 - **6bis.8.004** The Head Judge is responsible for the work of the Panel of Judges, and shall ensure that riders are scored, that those scores are delivered, and that ties are broken in a way that respects the procedures and limits set by these regulations. 
 
-## **The Announcer** 
+##### **The Announcer** 
 
 - **6bis.8.005** The Announcer is an official who is responsible for informing the riders and the spectators about the progress of the Competition. In doing so, he shall work with and be bound by the instructions of the Commissaire. 
 
@@ -1112,17 +1111,17 @@ If a rider requests that the announcer is quiet during his run, the announcer mu
 
 _(text modified on 01.02.18)_ 
 
-## **The Technical Delegate** 
+##### **The Technical Delegate** 
 
-- **6bis.8.006** The UCI, or the responsible national federation in case of a national event, may decide to appoint a Technical Delegate. The Technical Delegate is the official responsible to ensure that the field of play and technical installations are in accordance with the UCI Regulations. He shall arrive the day before the first practice and will attend any riders’ meetings. He shall have the organiser correct any irregularities that are discovered before the first practice begins. He shall also serve as the link between the organisation and the UCI headquarters. 
+**6bis.8.006** The UCI, or the responsible national federation in case of a national event, may decide to appoint a Technical Delegate. The Technical Delegate is the official responsible to ensure that the field of play and technical installations are in accordance with the UCI Regulations. He shall arrive the day before the first practice and will attend any riders’ meetings. He shall have the organiser correct any irregularities that are discovered before the first practice begins. He shall also serve as the link between the organisation and the UCI headquarters. 
 
 The Technical Delegate shall make a report to the UCI following the Competition. 
 
-## **Appointment** 
+##### **Appointment** 
 
-- **6bis.8.007** The Commissaire and Panel of Judges (in whole or in part) for UCI World Cup and UCI World Championship events and the Olympic Games shall be chosen by the UCI. Otherwise, the Commissaire and Panel of Judges shall be chosen by the National Federation of the country where the event is held (or if not, then by the Organiser) in the order of priority found below. In any case, all such officials must do their work in accordance with the UCI Regulations. 
+**6bis.8.007** The Commissaire and Panel of Judges (in whole or in part) for UCI World Cup and UCI World Championship events and the Olympic Games shall be chosen by the UCI. Otherwise, the Commissaire and Panel of Judges shall be chosen by the National Federation of the country where the event is held (or if not, then by the Organiser) in the order of priority found below. In any case, all such officials must do their work in accordance with the UCI Regulations. 
 
-Order of Priority: 
+##### Order of Priority: 
 
 - A. from the list provided by the UCI, if such officials are not available in sufficient quantity, then; 
 
@@ -1138,9 +1137,9 @@ For avoidance of doubt, the expenses and per diem of all such officials is borne
 
 _(text modified on 01.02.18)_ 
 
-## **Position within the Field of Play (FOP)** 
+##### **Position within the Field of Play (FOP)** 
 
-- **6bis.8.008** All Competition officials shall operate from a position that allows them to see as much of the FOP as possible. They may adjust their position if need be. 
+**6bis.8.008** All Competition officials shall operate from a position that allows them to see as much of the FOP as possible. They may adjust their position if need be. 
 
 E0126 
 
@@ -1148,9 +1147,9 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter IX RULES FOR THE UCI BMX FREESTYLE WORLD CUP** 
+### **Chapter IX RULES FOR THE UCI BMX FREESTYLE WORLD CUP** 
 
-## **General Terms Applicable to the UCI BMX Freestyle World Cup** 
+##### **General Terms Applicable to the UCI BMX Freestyle World Cup** 
 
 - **6bis.9.001** The UCI BMX Freestyle World Cup is a Competition contested over a number of events in different countries. The events shall be organized for men and women. The UCI BMX Freestyle World Cup is the exclusive property of the UCI. 
 
@@ -1160,19 +1159,19 @@ The Competition specialties in the UCI BMX Freestyle World Cup may comprise Park
 
 _(text modified on 01.02.18)_ 
 
-## **Registration Conditions** 
+##### **Registration Conditions** 
 
 - **6bis.9.002** Registration in the Men Elite and Women Elite categories for the UCI BMX Freestyle World Cup shall be done by pre-registration only. Once the pre-registration deadline has passed, no further entries shall be accepted. 
 
 At registration, each rider or their representative must present a valid cycling licence as defined in Part 1 of the UCI regulations and a valid form of ID such as a passport or national ID card. 
 
-## UCI BMX Freestyle Park World Cup Events 
+##### <u>UCI BMX Freestyle Park World Cup Events</u> 
 
 With the following exceptions, every rider entered in a UCI BMX Freestyle Park World Cup must have 50 or more points in the latest UCI BMX Freestyle Park Individual Ranking that is published prior to the opening of registration. 
 
 Entries will be limited to the 72 top ranked riders in the UCI BMX Freestyle Individual Ranking (as of Tuesday prior to the opening of registration). In case, the entries reach more than 72, the places will be first allocated to riders who have registered from nations (1 maximum per nation) that do not have any riders with 50 points and then to the highest ranked riders in the UCI BMX Freestyle Individual Ranking up to a limit of 72. 
 
-## Exceptions: 
+<u>Exceptions:</u> 
 
 - riders ranked in the top 50 of the final UCI BMX Freestyle Park World Cup ranking of the season prior may enter if they do not presently have 50 or more points as of the ranking deadline for any particular event; 
 
@@ -1198,39 +1197,37 @@ _(text modified on 01.01.25)_
 
 _(text modified on 08.02.21)_ 
 
-## **Invited Riders** 
+##### **Invited Riders** 
 
 - **6bis.9.007** [article abrogated on 08.02.21] 
 
 - **6bis.9.008** [article abrogated on 08.02.21] 
 
-## **Competition Categories and Format** 
+##### **Competition Categories and Format** 
 
 - **6bis.9.009** For each Competition specialty, the UCI BMX Freestyle World Cup is contested by two categories – Men Elite 15+ and Women Elite 15+. 
 
 _(text modified on 01.02.18)_ 
 
-## **6bis.9.010** Park Competitions 
+- **6bis.9.010** <u>Park Competitions</u> 
 
-- For Men Elite, the Park Competitions are organised as follows: 
+   - For Men Elite, the Park Competitions are organised as follows: 
 
-   1. a Qualification phase, which must completed by all riders. The riders with the best score from the Qualification phase will advance to the Semi-final. The number of riders who advance from the Qualification phase is at most 24; 
+      1. a Qualification phase, which must completed by all riders. The riders with the best score from the Qualification phase will advance to the Semi-final. The number of riders who advance from the Qualification phase is at most 24; 
 
-   2. a Semi-final phase with 24 riders, the 12 riders with the best score in the Semifinal phase advance to the Final 
+      2. a Semi-final phase with 24 riders, the 12 riders with the best score in the Semifinal phase advance to the Final 
 
-   3. a Final phase, with 12 riders. 
+      3. a Final phase, with 12 riders. 
 
 In case 24 or fewer riders are entered and confirmed following riders’ confirmation, then the system outlined in article 6bis.6.003 shall apply instead. 
 
 _(text modified on 01.02.18, 02.02.19; 08.02.21; 01.01.25)_ 
 
-## **6bis.9.011** Flatland Competitions 
-
-- For both Categories, the Flatland Competitions are organised in accordance with article 6bis.6.003. 
+- **6bis.9.011** <u>Flatland Competitions</u> For both Categories, the Flatland Competitions are organised in accordance with article 6bis.6.003. 
 
 _(text modified on 01.02.18)_ 
 
-## **UCI BMX Freestyle World Cup Ranking** 
+##### **UCI BMX Freestyle World Cup Ranking** 
 
 - **6bis.9.012** For each Competition specialty, a ranking consisting of all events in the UCI BMX Freestyle World Cup series shall be drawn up for Men Elite and for Women Elite. Points will be awarded based on the final ranking for each event, according to the schedule found in annex I. The ranking shall be updated following each event. 
 
@@ -1246,15 +1243,15 @@ Following the last event in the UCI BMX Freestyle World Cup Series each season, 
 
 _(text modified on 01.02.18; 02.02.19; 08.02.21; 01.01.25)_ 
 
-## **Competition Schedule** 
+##### **Competition Schedule** 
 
 - **6bis.9.013** The schedule for each event will be published in the Technical Guide. Without prejudice to any other specific provisions of these regulations, the elements described in articles 6bis.9.014 to 6bis.9.016 shall be respected within the schedule. The Competitions and practices for the Men Elite and Women Elite categories shall at all times take priority over those for any other categories that may be held, even if it means that the amount of time available for those other categories must be reduced or eliminated. 
 
 _(text modified on 01.02.18; 02.02.19; 01.01.21)_ 
 
-## **Practice** 
+##### **Practice** 
 
-## **6bis.9.014** Park Competitions 
+##### **6bis.9.014** <u>Park Competitions</u> 
 
 - Each event schedule will include (at minimum) the following amount of practice time: 
 
@@ -1262,7 +1259,7 @@ _(text modified on 01.02.18; 02.02.19; 01.01.21)_
 
    2. on each Competition day, a minimum 15 minutes warm-up will be provided before the start of Competition for each category. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 Each event schedule will include at least 1 official practice session as described in the Technical guide. Riders may be divided into several practice groups in case of a large number of entries. In this case, riders are not permitted to practice outside of their assigned practice group. 
 
@@ -1276,9 +1273,9 @@ _(text modified on 01.02.18)_
 
 _(text modified on 01.02.18)_ 
 
-## **6bis.9.017** Park Competitions 
+##### **6bis.9.017** <u>Park Competitions</u> 
 
-In case a category has more than 20 riders entered and confirmed following riders’ confirmation, the category will be split as evenly as possible into two or more practice groups each consisting of not more than 20 riders. The amount of time allowed for each 
+- In case a category has more than 20 riders entered and confirmed following riders’ confirmation, the category will be split as evenly as possible into two or more practice groups each consisting of not more than 20 riders. The amount of time allowed for each 
 
 E0126 
 
@@ -1288,27 +1285,29 @@ BMX FREESTYLE
 
 practice group shall be the same, and will be decided by the technical delegate, as will the method used to decide the composition of the practice groups. 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 In case a category has more than 10 riders entered and confirmed following riders’ confirmation, the category will be split as evenly as possible into two or more practice groups each consisting of not more than 10 riders. The amount of time allowed for each practice group shall be the same, and will be decided by the technical delegate, as will the method used to decide the composition of the practice groups. 
 
 _(text modified on 01.02.18)_ 
 
-## **6bis.9.018** Park Competitions 
+##### **6bis.9.018** <u>Park Competitions</u> 
 
-Riders must train in the practice group to which they have been assigned. Riders training in a different practice group, or outside of the official schedule, may be disqualified. 
+- Riders must train in the practice group to which they have been assigned. Riders training in a different practice group, or outside of the official schedule, may be disqualified. 
 
 _(text modified on 01.02.18)_ 
 
-- **6bis.9.018** Park Competitions **bis** In case the field of play is completed prior to the start of the event schedule, it shall remain closed to all riders. No one other than registered and confirmed riders shall be allowed to ride on the park; such riding may only take place within the confines of the official schedule for the event. In this way, all riders within each Competition category have an equal opportunity to practice on the field of play. 
+##### **6bis.9.018** <u>Park Competitions</u> 
 
-## **Delays** 
+- **bis** In case the field of play is completed prior to the start of the event schedule, it shall remain closed to all riders. No one other than registered and confirmed riders shall be allowed to ride on the park; such riding may only take place within the confines of the official schedule for the event. In this way, all riders within each Competition category have an equal opportunity to practice on the field of play. 
 
-- **6bis.9.019** If an event is delayed, all athletes and staff must stay at the Competition venue until informed otherwise by the organizer. The riders will be notified of the new schedule as soon as it has been decided. 
+##### **Delays** 
+
+**6bis.9.019** If an event is delayed, all athletes and staff must stay at the Competition venue until informed otherwise by the organizer. The riders will be notified of the new schedule as soon as it has been decided. 
 
 Riders are responsible to read the schedule and for checking to see if it has been amended. Neither the UCI nor the organizer shall be held responsible in case a rider misses the Competition due to a change. 
 
-## **Schedule Changes** 
+##### **Schedule Changes** 
 
 **6bis.9.020** In case the schedule must be altered as described in 6bis.6.040 and 6bis.6.041, the Competition format may be altered as follows, depending upon the number of entries and the situation: 
 
@@ -1340,9 +1339,9 @@ _(text modified on 01.02.18, 08.02.21; 01.01.25)_
 
 - **6bis.9.023** If there is a schedule change prior to the first day of practice, the adjusted schedule will be posted on the event web site and at the Competition venue. In case of a change during the event, the revised schedule will be posted, at minimum, at the Competition venue. 
 
-## **Event Format** 
+#### **Event Format** 
 
-## **Qualification Phase** 
+##### **Qualification Phase** 
 
 - **6bis.9.024** The start list order and grouping of riders into heats are done in reverse order of the current UCI BMX Freestyle Park World Cup ranking. The final ranking of the previous year is used in the case of the first event of the season. 
 
@@ -1354,9 +1353,9 @@ _(text modified on 01.02.18; 01.01.25)_
 
 _(text modified on 02.02.19)_ 
 
-## **Semi-final phase** 
+##### **Semi-final phase** 
 
-## **6bis.9.026** Park Competitions 
+- **6bis.9.026** <u>Park Competitions</u> 
 
 The start order and group of riders into heats are done in reverse order of the classification from the Qualification Phase. 
 
@@ -1372,13 +1371,13 @@ E0126
 
 BMX FREESTYLE 
 
-## **Final Phase** 
+##### **Final Phase** 
 
-- **6bis.9.029** Park Competitions 
+- **6bis.9.029** <u>Park Competitions</u> 
 
-The start order and group of riders into heats are done in reverse order of the classification from the Semi-final Phase (highest ranked rider from the Semi-final goes last). 
+   - The start order and group of riders into heats are done in reverse order of the classification from the Semi-final Phase (highest ranked rider from the Semi-final goes last). 
 
-## Flatland Competitions 
+##### <u>Flatland Competitions</u> 
 
 The start order and group of riders into heats are done inreverse order of the classification from the Semi-final Phase. 
 
@@ -1388,11 +1387,11 @@ _(text modified on 01.02.18)_
 
 - **6bis.9.031** In case one or more riders do not start or are disqualified in the Final, regardless of the reason, the Final will be run with less than the number of riders specified in article 6bis.9.029. 
 
-_(text modified on 01.02.18)_ 
+   - _(text modified on 01.02.18)_ 
 
 - **6bis.9.032** Finals during the UCI BMX Freestyle World Cup may feature a best trick Competition, which will be managed according to article 6bis.6.012 if held. 
 
-_(text modified on 01.02.18)_ 
+   - _(text modified on 01.02.18)_ 
 
 - **6bis.9.033** In the Final, the scores will be reported by the judges at latest, following each heat. 
 
@@ -1424,11 +1423,11 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter X UCI BMX FREESTYLE WORLD CHAMPIONSHIPS** 
+### **Chapter X UCI BMX FREESTYLE WORLD CHAMPIONSHIPS** 
 
 (chapter introduced on 01.02.18) 
 
-## **Categories** 
+##### **Categories** 
 
 - **6bis.10.001** The UCI is the exclusive owner of the UCI BMX Freestyle World Championships. The UCI BMX Freestyle World Championships is contested by riders competing in the following two categories: 
 
@@ -1436,13 +1435,13 @@ BMX FREESTYLE
 
    - B. Women Elite: aged 15 and over. 
 
-## **Competition Specialties** 
+##### **Competition Specialties** 
 
 - **6bis.10.002** The UCI BMX Freestyle World Championships is contested for the Park and Flatland specialty. 
 
 _(text modified on 01.02.18)_ 
 
-## **Competition Format** 
+##### **Competition Format** 
 
 - **6bis.10.003** The UCI BMX Freestyle World Championships is generally held in accordance with the Competition format and procedures outlined in Part VIbis of the UCI Regulations. Competition Specific regulations may be defined in the technical guide at the UCI’s discretion. In the event of a conflict between such a specific regulation and an article of Part VIbis, then the specific regulation found in the technical guide shall apply. 
 
@@ -1478,11 +1477,11 @@ E0126
 
 BMX FREESTYLE 
 
-## **Chapter XI UCI BMX FREESTYLE RANKING** 
+### **Chapter XI UCI BMX FREESTYLE RANKING** 
 
 (chapter introduced on 01.02.18) 
 
-## **Categories** 
+##### **Categories** 
 
 - **6bis.11.001** The UCI is the exclusive owner of the UCI BMX Freestyle Rankings. The UCI BMX Freestyle Rankings consist of a UCI Individual BMX Freestyle Ranking for the following categories, as well as a ranking by nation. 
 
@@ -1500,7 +1499,7 @@ The UCI BMX Freestyle Rankings for the Park specialty shall consist only of BMX 
 
 _(text modified on 02.02.19, 08.02.21)_ 
 
-## **Event Classes** 
+##### **Event Classes** 
 
 **6bis.11.002** A rider can gain points in the UCI BMX Freestyle Individual Ranking for their category in different classes of BMX Freestyle Competitions. The rider's points total is subject to the following rules: 
 
@@ -1544,17 +1543,17 @@ the case, the points from the continental championships held shall expire after 
 
 _(text modified on 01.01.25; 01.01.26)_ 
 
-## **Points Table** 
+##### **Points Table** 
 
 - **6bis.11.003** Points in the UCI Individual BMX Freestyle Ranking are awarded in accordance with the table found in Annex I. 
 
-## **UCI BMX Freestyle Individual Ranking** 
+##### **UCI BMX Freestyle Individual Ranking** 
 
 - **6bis.11.004** A UCI BMX Freestyle Individual ranking will be established for all categories mentioned in 6bis.2.002.a. The UCI BMX Freestyle Individual ranking will be calculated on the total points of all events held in each such category, as described in article 6bis.1.001. 
 
 _(text modified on 08.02.21)_ 
 
-## **UCI BMX Freestyle World Cup Ranking** 
+##### **UCI BMX Freestyle World Cup Ranking** 
 
 - **6bis.11.004** A UCI BMX Freestyle World Cup ranking will be established for all categories 
 
@@ -1562,27 +1561,27 @@ _(text modified on 08.02.21)_
 
 _(article introduced on 08.02.21)_ 
 
-## **Tie Breaker** 
+##### **Tie Breaker** 
 
-**6bis.11.005** In case of a tie in the UCI BMX Freestyle Individual Ranking, the tie will be resolved in the following order of priority: 
+- **6bis.11.005** In case of a tie in the UCI BMX Freestyle Individual Ranking, the tie will be resolved in the following order of priority: 
 
-- A. UCI BMX Freestyle World Championships points; 
+   - A. UCI BMX Freestyle World Championships points; 
 
-- B. UCI BMX Freestyle World Cup points; 
+   - B. UCI BMX Freestyle World Cup points; 
 
-- C. Continental Championships points; 
+   - C. Continental Championships points; 
 
-- D. Class HC international Competition (3 best results); 
+   - D. Class HC international Competition (3 best results); 
 
-- E. Class 1 international Competitions (3 best results); 
+   - E. Class 1 international Competitions (3 best results); 
 
-- F. Class 2 international Competitions (3 best results); 
+   - F. Class 2 international Competitions (3 best results); 
 
-- G. National Championships. 
+   - G. National Championships. 
 
 _(text modified on 01.01.23; 01.01.25)_ 
 
-## **Ranking by Nation** 
+##### **Ranking by Nation** 
 
 **6bis.11.006** A ranking by nation for Men Elite and Women Elite is drawn up for BMX Freestyle in both specialities. The ranking by nation is calculated by summing the points of the two best 
 
@@ -1598,19 +1597,19 @@ A rider’s points are awarded to the nation of this nationality, even if he is 
 
 Tied nations have their relative positions determined by the place of their best rider on the individual UCI BMX Freestyle ranking. 
 
-## **Olympic Qualification** 
+##### **Olympic Qualification** 
 
 - **6bis.11.007** To determine the qualification quota for the Olympic Games for Men Elite and Women Elite, a Qualification System for the next Olympic Games will be determined and published on the UCI website. 
 
 _(text modified on 01.01.25)_ 
 
-## **Ranking Updates** 
+##### **Ranking Updates** 
 
-- **6bis.11.008** Unless otherwise announced by the UCI, the UCI BMX Freestyle Rankings are updated weekly on Tuesday, and also on 31[st] of December. 
+- **6bis.11.008** Unless otherwise announced by the UCI, the UCI BMX Freestyle Rankings are updated weekly on Tuesday, and also on 31<sup>st</sup> of December. 
 
 _(text modified on 01.01.23)_ 
 
-## **National Championships** 
+##### **National Championships** 
 
 - **6bis.11.009** Every nation will have a possibility to host a national championship, counting for the UCI BMX Freestyle ranking. A national championship can only be open for a rider who holds a passport in the respective country (home country) as indicated in 1.2.028. If a nation still decides to allow riders from a different nationality during the National Championships, the foreign rider won’t receive UCI points and the finishing place of the riders of the designated nation stays unchanged. 
 
@@ -1620,7 +1619,7 @@ E0126
 
 BMX FREESTYLE 
 
-## **ANNEX I UCI BMX FREESTYLE RANKING POINTS TABLE** 
+### **ANNEX I UCI BMX FREESTYLE RANKING POINTS TABLE** 
 
 |RANK|OG|CM|CDM|CC|HC|C1<br>AND<br>CN|C2<br>AND<br>JR|
 |---|---|---|---|---|---|---|---|
@@ -1676,12 +1675,12 @@ E0126
 
 BMX FREESTYLE 
 
-|46||10|8|||||
-|---|---|---|---|---|---|---|---|
-|47||8|6|||||
-|48||6|4|||||
-|49||4|2|||||
-|50||2|1|||||
+|46|10|8|
+|---|---|---|
+|47|8|6|
+|48|6|4|
+|49|4|2|
+|50|2|1|
 
 _(annex modified on 01.01.22; 01.01.25; 01.01.26)_ 
 
@@ -1691,7 +1690,7 @@ E0126
 
 BMX FREESTYLE 
 
-## **ANNEX II TABLE OF HEATS FOR PARK COMPETITIONS** 
+### **ANNEX II TABLE OF HEATS FOR PARK COMPETITIONS** 
 
 (annex introduced on 08.02.21) 
 

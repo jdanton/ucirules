@@ -4,13 +4,14 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/nXiyjxTjj73r1gdoLytfQ/4437
 source_sha256: 6108baea752e503faf230e3d204e7cdbae4adf8b42fae081c8c186446ec9a52d
 converter: pymupdf4llm
 ---
+
 ![](images/Joint_Agreements_20240101-E_.pdf-0001-00.png)
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0001-01.png)
 
 (version on 01.01.2024) 
 
-## **JOINT AGREEMENTS** 
+# **JOINT AGREEMENTS** 
 
 on the working conditions of riders hired by UCI ProTeams and UCI WorldTeams for the year of registration 2024 and thereafter. 
 
@@ -22,11 +23,11 @@ Signatories:
 
 _(text modified on 01.01.13; 01.01.2024)_ 
 
-## **Chapter I: GENERAL PROVISIONS** 
+## **<u>Chapter I: GENERAL PROVISIONS</u>** 
 
-## **SCOPE** 
+### **SCOPE** 
 
-## **Art. 1** 
+### **Art. 1** 
 
 This agreement establishes the standards governing the working conditions of riders employed by a team registered or intending to register with the International Cycling Union (known by the French acronym UCI) as a UCI WorldTeam or a UCI ProTeam under Chapter XV or XVI of Part II of the UCI Cycling Regulations. 
 
@@ -36,7 +37,7 @@ It shall not apply to riders employed by a team but who do not participate in in
 
 The stipulations of this agreement shall be added to those of the UCI regulations. In the event of inconsistency, the UCI regulations shall apply. 
 
-## **Art. 2** 
+### **Art. 2** 
 
 This agreement shall apply for the year of registration 2024 and the following, without prejudice to Article 10. 
 
@@ -44,9 +45,9 @@ The signatories undertake to renegotiate in good faith for the subsequent years,
 
 _(text modified on 01.01.13; 01.01.24)_ 
 
-## **COMPULSORY FORCE** 
+### **COMPULSORY FORCE** 
 
-## **Art. 3** 
+### **Art. 3** 
 
 Any derogation from the provisions of this agreement to the detriment of the rider shall be null and void. Any and all advantages or agreements that can favour the rider beyond the provisions of the present agreement shall remain valid. 
 
@@ -56,9 +57,9 @@ Any derogation from the provisions of this agreement to the detriment of the rid
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0002-01.png)
 
-## **DISPUTES** 
+### **DISPUTES** 
 
-## **Art. 4** 
+### **Art. 4** 
 
 Any and all disputes between the signatories about this agreement shall, at the request of one of the parties, be submitted to the Arbitral Board of the UCI following the procedures provided for in articles 12.7.008 and following of the cycling sport Regulations of the UCI. 
 
@@ -68,7 +69,7 @@ Under no circumstances may the contract contain a jurisdiction clause regarding 
 
 _(text modified on 01.01.10; 01.01.13; 1.09.19)._ 
 
-## **Art. 4 bis** 
+### **Art. 4 bis** 
 
 In any case, either party may, regardless of an eventual consent from the other party(ies) involved in a dispute over their work relationship, preliminarily contact a designated mediator registered on a public list of mediators agreed by the CPA and the AIGCP. The selected mediator, within 90 days from receipt of the mediation request, will submit a mediation proposal to the parties. The parties shall maintain full discretion as to whether they accept the mediation proposal and, if so, the mediation agreement shall have the effect of a binding contract between the parties. The mediator may at any time close the mediation proceedings and give formal authorisation to the parties to start ordinary proceedings in compliance with their contractual agreement, without prejudice to a party’s right to do so at an earlier stage as the case may be according to the legislation applicable to the contractual relationship. 
 
@@ -78,11 +79,11 @@ The consultation before the mediator shall be free for the parties and all relat
 
 _(article introduced on 01.01.18)_ 
 
-## **Chapte** r **II**: **WORKING CONDITIONS** 
+## **<u>Chapte</u>** <u>r</u> **<u>II</u>** <u>:</u> **<u>WORKING CONDITIONS</u>** 
 
-## **HIRING** 
+### **HIRING** 
 
-## **Art. 5** 
+### **Art. 5** 
 
 Hiring shall take place by means of an individual contract concluded by and between the rider and the team. 
 
@@ -98,7 +99,7 @@ agreed by and between the signatories and approved by the UCI as an insertion in
 
 Contracts shall be drawn up in at least 3 copies: 
 
-1 for the team; 
+- 1 for the team; 
 
 - 1 for the rider; 
 
@@ -106,9 +107,9 @@ Contracts shall be drawn up in at least 3 copies:
 
 The contract shall be typed. Each page shall be numbered and shall indicate the total number of pages in the contract. The rider and the paying agent shall sign each page of the contract. Clauses of the contract on a page which has not been signed by the rider may not be invoked against him; the rider may take advantage of them. 
 
-## **TERM AND END OF THE CONTRACT** 
+### **TERM AND END OF THE CONTRACT** 
 
-## **Art. 6** 
+### **Art. 6** 
 
 Contract shall be for a specified period ending on 31 December. 
 
@@ -118,9 +119,9 @@ Contracts coming into force before 1 July of the registration year shall be vali
 
 Contracts coming into force after 30 June shall be valid at least until 31 December of the following registration year and, in the case of a new professional, until 31 December of the year after that. 
 
-## _(text modified on 01.01.18)_ 
+_(text modified on 01.01.18)_ 
 
-## **Art. 7** 
+### **Art. 7** 
 
 1. The status of new professional is given to any rider who joins a UCI WorldTeam or UCI ProTeam for the first time no later than during his twenty-fifth year. 
 
@@ -154,29 +155,28 @@ If, on expiry of the contract between the paying agent and the principal partner
 
 _(text modified on 01.01.13)_ 
 
-## **Art. 8** 
+### **Art. 8** 
 
 The contract of employment shall not provide a trial period. 
 
-## **Art. 9** 
+### **Art. 9** 
 
 Before 30 September prior to the end of the contract, if the contract has not already been renewed, each party shall inform the other in writing of their intentions as regards any renewal of the contract. A copy of this document shall be sent to CPA. 
 
 _(text modified on 01.10.09)_ 
 
-## **REMUNERATION, BONUSES AND PRIZES** 
+### **REMUNERATION, BONUSES AND PRIZES** 
 
-## **Art. 10** 
+### **Art. 10** 
 
 The rider shall be entitled to a fixed remuneration, the annual minimum gross amount of which shall be fixed as follows: 
 
-||**UCI ProTeams**|**UCI ProTeams**|**UCI WorldTeams**|**UCI WorldTeams**|
+||**UCI Pro**|**Teams**|**UCI Worl**|**dTeams**|
 |---|---|---|---|---|
-||**Neo-**<br>**professionals**|**Other**|**Neo-**<br>**professionals**|**Other**|
-||**Employed**||||
+||**Neo-**<br>**professionals**|**Other**<br>**Emp**|**Neo-**<br>**professionals**<br>**loyed**|<br>**Other**|
 |2024|28.191 €|33.707 €|34.020 €|42.047 €|
 |2025|29.601 €|35.392 €|35.721 €|44.150 €|
-|**164%**|**Self-employed(art. 2.15.115 bis & 2.16.036 bis)**||||
+|**164%**|**Self-empl**|**oyed(art. 2.1**|**5.115 bis & 2.16**|**.036 bis)**|
 |2024|46.234 €|55.279 €|55.793 €|68.957 €|
 |2025|48.545 €|58.043 €|58.582 €|72.404 €|
 
@@ -186,7 +186,7 @@ In particular situations and in the interest of the development of cycling, the 
 
 _(text modified on 15.6.08; 01.07.09; 01.01.13; 01.01.18; 01.01.2024)_ 
 
-## **Art. 11** 
+### **Art. 11** 
 
 The fixed remuneration shall be paid in cash, in the currency stipulated in the contract. 
 
@@ -204,33 +204,33 @@ In the event of late payment of his remuneration or any benefit due, the rider h
 
 _(text modified on 01.10.09; 01.01.18)._ 
 
-## **Art. 12** 
+### **Art. 12** 
 
 The team and the rider may agree, in addition to the fixed salary, the payment of bonuses and other benefits that depend on the rider’s individual results and performance or the results and performance of the team. 
 
-## **Art. 13** 
+### **Art. 13** 
 
 The prizes are the sums of money remitted by the organisers of cycling races. The prizes shall be remitted by the organisers to the national federation of the country of the race or to a collecting organisation appointed by this national federation and approved by the Professional Cycling Council. 
 
 _(text modified on 01.01.13)_ 
 
-## **Art. 14** 
+### **Art. 14** 
 
 All bonuses, compensation, prizes or other benefits in cash or in kind shall be over and above the fixed salary and shall not be imputed on said salary nor taken into consideration for its calculation. 
 
-## **Art. 15** 
+### **Art. 15** 
 
 A detailed pay slip shall be remitted to the rider at the time of each payment. 
 
-## **Art. 15bis** 
+### **Art. 15bis** 
 
 The team is obligated to settle all travel expenses incurred by the rider in the course of his work activity. These expenses include, at the very least, train or flight tickets, as well as costs for parking, taxi and car fuel. 
 
 _(text modified on 01.01.13)_ 
 
-## **CONDITIONS OF WORK AND OF REST** 
+### **CONDITIONS OF WORK AND OF REST** 
 
-## **Art. 16** 
+### **Art. 16** 
 
 The annual number of competition days and their planning are the team’s responsibility, taking into account the UCI regulations. 
 
@@ -246,7 +246,7 @@ _(text modified on 01.01.13)_
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0006-01.png)
 
-## **Art. 17** 
+### **Art. 17** 
 
 The rider shall be entitled to minimum of 35 vacation days per year. 
 
@@ -254,7 +254,7 @@ The holiday periods shall be taken, in agreement with the teams, depending on th
 
 Under no circumstances shall the holiday period be substituted by economic compensation. 
 
-## **Art. 18** 
+### **Art. 18** 
 
 Once a year, the rider has the duty to attend the annual general meeting and the meetings convened by the CPA and its member organisations. The team shall exercise no pressure or constraint on the rider to dissuade him from attending. 
 
@@ -262,17 +262,19 @@ These meetings shall under no circumstances interfere with the sporting activity
 
 _(text modified on 01.01.13)_ 
 
-## **Art. 19** 
+### **Art. 19** 
 
 The rider shall be entitled to continue and to improve his cultural education. The team shall not object to the continuation of studies, provided they do not interfere with the sporting activity scheduled in the planning. 
 
-## **Art. 20** 
+### **Art. 20** 
 
 The team and the rider shall take all the necessary measures to avoid, under any and all circumstances, risks for rider’s health according to the UCI regulations. 
 
-## **COMPENSATION OF SALARY, INSURANCE AND SOCIAL BENEFITS** 
+### **COMPENSATION OF SALARY, INSURANCE** 
 
-## **Art. 21** 
+### **AND SOCIAL BENEFITS** 
+
+### **Art. 21** 
 
 A rider prevented temporarily from carrying out his activity for no fault of his own, owing to illness, injury or accident, shall be entitled to his full (100%) remuneration during a period of 3 months and 50% of his remuneration during another period of three months without the amount to be paid being less than the minimum salary stipulated in article 10. 
 
@@ -290,7 +292,7 @@ _(text modified on 01.01.13)_
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0007-01.png)
 
-## **Art. 22** 
+**Art. 22** 
 
 1. The team shall make sure that the rider is protected by social insurance. 
 
@@ -312,9 +314,9 @@ If, in these cases, the insurance policy is of a type that must be taken out by 
 
 5. The team must provide proof of the cover referred to in this article by producing the necessary certificates in the file required for the audit referred to in articles 2.15.068a and 2.16.014 of the Regulations. 
 
-## _(text modified on 01.01.13)_ 
+### _(text modified on 01.01.13)_ 
 
-## **Art. 23** 
+### **Art. 23** 
 
 Independently from the benefits referred to in Article 22, the team must take out, at its expense, the following insurances with comprehensive global coverage that includes the rider’s country of residence: 
 
@@ -352,21 +354,21 @@ In connection with professional travel: this coverage extends beyond accidents o
 
 _(text modified on 01.01.24)_ 
 
-## **Art. 24** 
+### **Art. 24** 
 
 The team must attach to each contract a list, in accordance with the enclosed sample, of the legal or contractual insurance benefits that the rider will be entitled to, and of those he will not be entitled to. 
 
 The team shall be responsible for paying the benefits that it may have wrongly listed as the rider’s entitlement. 
 
-## **Art. 25** 
+### **Art. 25** 
 
 The team must be able to provide proof, at any time, of the insurance cover referred to in articles 22 and 23 for the rider-employee and, at the simple request of the employed riders, the UCI or the auditor, to the auditor accredited by the UCI. 
 
-## **Art. 26** 
+### **Art. 26** 
 
 The lack of insurance or of cover is the responsibility of the party whose duty it is to contract it. The AIGCP, the CPA and the UCI are exempt from any liability. The UCI’s power to request evidence is simply a right, which does not imply any obligation or responsibility. 
 
-## **Art. 27** 
+### **Art. 27** 
 
 The parties agree that EU GDPR (General Data Protection Regulation) or equivalent standards shall apply in all circumstances to the relationships between riders and teams. Therefore, the processing of 
 
@@ -380,11 +382,10 @@ the rider’s personal data must adhere to the definitions and principles expres
 
 _(Article introduced on 01.01.24)_ 
 
-* * * * * * * 
+<!-- Start of picture text -->
+* * * * * * *<br><!-- End of picture text -->
 
 For the AIGCP For the CPA Richard Plugge Adam Hansen President President 
-
-Adam Hansen President 
 
 9/16 
 
@@ -392,11 +393,11 @@ Adam Hansen President
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0010-01.png)
 
-## **APPENDIX 1** 
+### **APPENDIX 1** 
 
-## **LIST OF INSURANCES** 
+### **LIST OF INSURANCES** 
 
-The team certifies that the rider, 
+#### The team certifies that the rider, 
 
 will benefit, as a result of his job, from the following insurances or benefits (for riders who do not have a legal social security system, the team states that it was given a proof of the following insurances or benefits): 
 
@@ -426,9 +427,7 @@ will benefit, as a result of his job, from the following insurances or benefits 
 
 ** For insurances subscribed by the team, provide a copy of insurance policies and general conditions. For contractual insurances subscribed by the rider himself, the team has to obtain from the rider a proof signed by the insurance company, according to the attached model. This certificate has to be presented to the local auditor. 
 
-Date: 
-
-Signature of the paying agent: 
+Date: Signature of the paying agent: 
 
 10/16 
 
@@ -436,9 +435,9 @@ Signature of the paying agent:
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0011-01.png)
 
-## **APPENDIX 2** 
+### **APPENDIX 2** 
 
-## **CERTIFICATE OF INSURANCE FOR A PROFESSIONAL RIDER** 
+### **CERTIFICATE OF INSURANCE FOR A PROFESSIONAL RIDER** 
 
 The insurance company undersigned certifies that the rider, 
 
@@ -475,13 +474,13 @@ Tel. number:
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0012-01.png)
 
-## **Appendix 3** 
+### **<u>Appendix 3</u>** 
 
-## **Guidelines for the drafting of a Privacy Notice on the processing and protection of personal data pursuant to and in accordance with Art. 13 and Art. 14 of Regulation (EU) 2016/679 (“General Data Protection Regulation” - GDPR)** 
+**Guidelines for the drafting of a Privacy Notice on the processing and protection of personal data pursuant to and in accordance with Art. 13 and Art. 14 of Regulation (EU) 2016/679 (“General Data Protection Regulation” - GDPR)** 
 
 * * * 
 
-## **I. What is a Privacy Notice?** 
+### **I.** **<u>What is a Privacy Notice?</u>** 
 
 Organizations provide individuals with Privacy Notices to explain how their Personal Data is handled. 
 
@@ -497,7 +496,7 @@ Under GDPR, Privacy Notices must, _inter alia_:
 
 In its capacity as Data Controller, each Team is required to draft a Privacy Notice, by which it informs Riders on how their Personal Data is processed and how it applies Data Protection principles. 
 
-## **II. What does a Privacy Notice must contain?** 
+### **II.** **<u>What does a Privacy Notice must contain?</u>** 
 
 If a Team is collecting Personal Data from a Rider directly, it must include the following information in its Privacy Notice: 
 
@@ -523,7 +522,7 @@ If a Team is collecting Personal Data from a Rider directly, it must include the
 
 - the possible existence of an automated decision-making system, including profiling, and information about how this system has been set up, the significance, and the consequences. 
 
-If a Team obtains Riders’ Personal Data indirectly (i.e. via third parties) its Privacy Notice must provide all the above information[1], plus the categories of Personal Data obtained in this way. 
+If a Team obtains Riders’ Personal Data indirectly (i.e. via third parties) its Privacy Notice must provide all the above information<sup>1</sup>, plus the categories of Personal Data obtained in this way. 
 
 > 1 Except for the aside “ _whether the provision of Personal Data is part of a statutory or contractual requirement or obligation and the possible consequences of failing to provide the Personal Data_ ”. 
 
@@ -533,7 +532,7 @@ If a Team obtains Riders’ Personal Data indirectly (i.e. via third parties) it
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0013-01.png)
 
-## **III. Which categories of Personal Data are usually processed by Teams?** 
+### **III.** **<u>Which categories of Personal Data are usually processed by Teams?</u>** 
 
 Riders’ Personal Data processed by Teams may include the following categories: 
 
@@ -545,13 +544,13 @@ Riders’ Personal Data processed by Teams may include the following categories:
 
 - data of other specific nature, including data on anti-doping controls and their results, data on violations of regulations and consequent disciplinary measures. 
 
-- Important: the content of a Privacy Notice is not intended to regulate the legal aspects of possible commercial agreements concerning the management of Riders' image rights. 
+- <u>Important: the content of a Privacy Notice is not intended to regulate the legal aspects</u> of possible commercial agreements concerning the management of Riders' image rights. 
 
-## **IV. What may be the purposes of Personal Data processing by Teams?** 
+### **IV.** **<u>What may be the purposes of Personal Data processing by Teams?</u>** 
 
 Purposes of processing may include the followings: 
 
-- **A)** _**Purposes connected with and instrumental to the management of relations with the Riders, with reference to the sports activities carried out by reason of membership to the Team, in particular**_: 
+- **A)** **_Purposes connected with and instrumental to the management of relations with the Riders, with reference to the sports activities carried out by reason of membership to the Team, in particular_**: 
 
    - purposes concerning the execution of the contractual relationship and, in general, the fulfilment of all obligations inherent to the relationship between the Team and the Riders; 
 
@@ -571,39 +570,39 @@ Purposes of processing may include the followings:
 
 ![](images/Joint_Agreements_20240101-E_.pdf-0014-01.png)
 
-## **B)** _**Purposes connected with the fulfilment of obligations relating to the registration and participation of the Riders in national and international competitions, in particular:**_ 
+- **B)** **_Purposes connected with the fulfilment of obligations relating to the registration and participation of the Riders in national and international competitions, in particular:_** 
 
-- purposes concerning the management of all obligations relating to the organisation and conduct of regional, national and international sporting competitions and events and/or sports events and for the fulfilment of all related obligations and/or activities; 
+   - purposes concerning the management of all obligations relating to the organisation and conduct of regional, national and international sporting competitions and events and/or sports events and for the fulfilment of all related obligations and/or activities; 
 
-- purposes concerning the updating of the Personal Data of the persons concerned in the federal systems for membership purposes; 
+   - purposes concerning the updating of the Personal Data of the persons concerned in the federal systems for membership purposes; 
 
-- purposes concerning the fulfilment of obligations under civil and/or tax laws; 
+   - purposes concerning the fulfilment of obligations under civil and/or tax laws; 
 
-- purposes relating to the fulfilment of obligations under federal, statutory and regulatory provisions, both national and international; 
+   - purposes relating to the fulfilment of obligations under federal, statutory and regulatory provisions, both national and international; 
 
-- administrative-accounting purposes in general. 
+   - administrative-accounting purposes in general. 
 
-## **C)** _**Purposes connected with the fulfilment of obligations provided for by State Laws and regulations, Federal Courts and regulations in force, as well as provisions issued by the local Federation, in particular:**_ 
+- **C)** **_Purposes connected with the fulfilment of obligations provided for by State Laws and regulations, Federal Courts and regulations in force, as well as provisions issued by the local Federation, in particular:_** 
 
-- purposes relating to the application of current health protection legislation; 
+   - purposes relating to the application of current health protection legislation; 
 
-- purposes relating to the enforcement of current legislation and the fight against doping; 
+   - purposes relating to the enforcement of current legislation and the fight against doping; 
 
-- purposes relating to the management of relations with public bodies, institutions and administrations and/or with other Teams, sports associations, affiliated companies, etc; 
+   - purposes relating to the management of relations with public bodies, institutions and administrations and/or with other Teams, sports associations, affiliated companies, etc; 
 
-- purposes relating to the administration of national and international sports justice (adoption of disciplinary measures and their communication within federal bodies, affiliated clubs, etc.) 
+   - purposes relating to the administration of national and international sports justice (adoption of disciplinary measures and their communication within federal bodies, affiliated clubs, etc.) 
 
-- purposes related to insurance coverage. 
+   - purposes related to insurance coverage. 
 
-## **D)** _**Statistical purposes.**_ 
+- **D)** **_Statistical purposes._** 
 
-## **E)** _**Cultural and social purposes.**_ 
+### **E)** **_Cultural and social purposes._** 
 
-- **F)** _**Purpose of producing and publishing information and on paper and telematic support concerning the activities carried out by the Team, also for marketing and sponsorship purposes.**_ 
+- **F)** **_Purpose of producing and publishing information and on paper and telematic support concerning the activities carried out by the Team, also for marketing and sponsorship purposes._** 
 
-- **G)** _**Purposes of producing and marketing printed products, digital audio and video products and websites with information and advertising purposes, relating to the activities of the Team**_. 
+- **G)** **_Purposes of producing and marketing printed products, digital audio and video products and websites with information and advertising purposes, relating to the activities of the Team_**. 
 
-## **V. What may be the Legal basis of the Processing by Teams?** 
+### **V.** **<u>What may be the Legal basis of the Processing by Teams?</u>** 
 
 For the purposes referred to in Point IV, letters A and B, the legal basis of the Processing may be: 
 
@@ -621,17 +620,17 @@ For the purposes referred to in Point IV, letter C, the legal basis of the Proce
 
 For the purposes referred to in Point IV, letters D, E, F and G, the legal basis of the Processing may be the explicit consent given by the Rider. 
 
-Where the legal basis is the consent of the Rider, the Team will ask the latter to express or deny his/her consent to the Processing, on specific forms related to the individual purposes[2]. 
+Where the legal basis is the consent of the Rider, the Team will ask the latter to express or deny his/her consent to the Processing, on specific forms related to the individual purposes<sup>2</sup>. 
 
-## **VI. How is the Provision of Data and Consent to Processing regulated?** 
+### **VI.** **<u>How is the Provision of Data and Consent to Processing regulated?</u>** 
 
 The provision of Personal Data and Consent to the processing for the purposes referred to in Point IV, letters A, B and C, may be indispensable for the execution of the contractual relationship between the Team and the Rider, in compliance with current regulations and participation in sporting activities. Therefore, the lack of data conferment will result in the impossibility of its execution. Consent for the purposes set out in Point IV, letters D, E, F and G may be optional. 
 
-## **VII. What information must Teams provide as to the modalities of Processing?** 
+### **VII.** **<u>What information must Teams provide as to the modalities of Processing?</u>** 
 
 Personal Data may be processed using manual, computerised and telematic tools with logic strictly related to the purposes and, in any case, in such a way as to guarantee the security and confidentiality of the data in accordance with current regulations. The Data may be processed by the Team’s staff and/or collaborators, all of whom must be specifically instructed and authorised to process the data. For the processing of data, the Team may make use of third parties, appointed as “Data Processors”, pursuant to Art. 28 GDPR, the list of which should be made available upon request by the Rider. 
 
-## **VIII. What information must Teams provide as to the Processing by other recipients?** 
+### **VIII.** **<u>What information must Teams provide as to the Processing by other recipients?</u>** 
 
 In some cases, the performance of the activities connected with and/or instrumental to the management of the contractual relationship with the Rider - and in general to the latter’s membership of the Team - entails the disclosure of Personal Data, including special categories of Data (e.g. Data disclosing health status) to persons whose right to access them is recognised by law or is necessary to ensure participation in sporting activities and their regular performance. 
 
@@ -671,7 +670,7 @@ Depending on the case, the subjects belonging to the categories to which the Dat
 
 Subject to the specific consent of each rider, which is not compulsory, the Data may be disclosed to companies and enterprises for commercial purposes or for carrying out market research or interactive commercial communication or fundraising and sponsorship. 
 
-## **IX. What other information must a Privacy Notice contain?** 
+### **IX.** **<u>What other information must a Privacy Notice contain?</u>** 
 
 A Privacy Notice must also contain information regarding the following additional aspects: 
 

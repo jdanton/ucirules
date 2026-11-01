@@ -4,11 +4,12 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5KcRdcFsb78lXudaKO5fq4/2f0
 source_sha256: c499bf26b79561af6a7a4f339ab41e577a2cd5a6ad3304585c212dd6cdc56ecf
 converter: pymupdf4llm
 ---
-## **PART 7 TRIALS** 
+
+# **PART 7 TRIALS** 
 
 **Version on 01.01.2026** 
 
-## **TABLE DES MATIÈRES** 
+### **TABLE DES MATIÈRES** 
 
 E0126 
 
@@ -18,23 +19,23 @@ TRIALS
 
 ## **PART 7 TRIALS** 
 
-## **Chapter I GENERAL RULES** 
+### **Chapter I GENERAL RULES** 
 
-## **§ 1 Age categories and participation** 
+   - **§ 1 Age categories and participation** 
 
 - **7.1.001** Trials officially recognises the following types of individual events as described in the present Trials rule book: 
 
-   - 20'' (wheel size between 18’’ to 23’’); 
+      - 20'' (wheel size between 18’’ to 23’’); 
 
-   - 26'' (wheel size between 24’’ et 26’’); 
+      - 26'' (wheel size between 24’’ et 26’’); 
 
-   - Open (free choice of wheel size, between 18’’ et 26’’). 
+      - Open (free choice of wheel size, between 18’’ et 26’’). 
 
 Categories within these events depend on age. The age class a rider is eligible to ride is determined by his/her age which shall be calculated by deducting the year of birth from the current year. 
 
 _(text modified on 01.02.11; 01.02.12; 15.10.18)_ 
 
-- **7.1.002** Participation at competition is organised on the basis of the age categories set out below: 
+**7.1.002** Participation at competition is organised on the basis of the age categories set out below: 
 
 |−|Boys U10|9-10 years old|white course|Open|
 |---|---|---|---|---|
@@ -54,17 +55,17 @@ _(text modified on 01.02.11; 01.02.12; 15.10.18)_
 
 _(text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18; 01.01.21; 01.01.25)_ 
 
-## **§2 Calendar** 
+#### **§2 Calendar** 
 
-## **Events classes and date protection** 
+**Events classes and date protection** 
 
 - **7.1.003** The calendar season starts on January 1 and continues until December 31 of the same year. International Trials events are registered on the international calendar in accordance with the following classification: 
 
-   - A. UCI Trials World Championships (CM); 
+A. UCI Trials World Championships (CM); 
 
-      - No other Trials event (CDM, CC, CN, HC, C1, JMJ) may be organised on the weekend prior to or on the same dates as the UCI Trials World Championships. 
+   - No other Trials event (CDM, CC, CN, HC, C1, JMJ) may be organised on the weekend prior to or on the same dates as the UCI Trials World Championships. 
 
-   - B. UCI Trials World Cup (CDM); 
+- B. UCI Trials World Cup (CDM); 
 
 E0126 
 
@@ -96,9 +97,7 @@ TRIALS
 
 _(text modified on 01.02.12; 01.10.13; 18.03.15; 27.01.17; 15.10.18; 01.01.26)_ 
 
-- **7.1.003** A new event may only be given Class 1 (C1) status in its first year. **bis** 
-
-An event is only given Hors Class (HC) status if the previous season's event had five foreign federations taking part based on the elite participation only. 
+- **7.1.003** A new event may only be given Class 1 (C1) status in its first year. **bis** An event is only given Hors Class (HC) status if the previous season's event had five foreign federations taking part based on the elite participation only. 
 
 In order to obtain a registration for Hors Class (HC) events on the international calendar, a detailed technical guide must be presented to UCI during the calendar registration process. 
 
@@ -118,15 +117,13 @@ E0126
 
 TRIALS 
 
-## **§3 Technical Delegate** 
+#### **§3 Technical Delegate** 
 
 - **7.1.006** The Technical Delegate shall: 
 
    1. supervise the technical aspects of the events; 
 
-   2. be the liaison between the UCI headquarters and the UCI Trials commission; 
-
-   3. make an advance inspection of the site, meet with the organisers and immediately make a site inspection’s report to the UCI Trials coordinator; 
+   2. be the liaison between the UCI headquarters and the UCI Trials commission; 3. make an advance inspection of the site, meet with the organisers and immediately make a site inspection’s report to the UCI Trials coordinator; 
 
    4. oversee and follow up with the organiser in the lead up to the event to ensure the recommendations contained in the site inspection’s report have been implemented as appropriate; 
 
@@ -142,9 +139,9 @@ _(text modified on 01.02.12; 18.03.15)_
 
 _(text modified on 01.02.12)_ 
 
-## **§4 Competition** 
+#### **§4 Competition** 
 
-## **General Comments** 
+##### **General Comments** 
 
 - **7.1.008** International Trials competitions shall be organised and run in full respect of the natural environment. Competitions can take place in city centres, in halls, in stadiums or in open country. 
 
@@ -154,7 +151,7 @@ _(text modified on 01.02.12; 15.10.18)_
 
 - **7.1.010** The organiser shall be responsible for obtaining the necessary authorisation, administrative or other, for the holding of international events and the use of the planned course. 
 
-## **Definition** 
+##### **Definition** 
 
 - **7.1.011** Trials is a cycling discipline in which riders get over obstacles grouped into sections. 
 
@@ -174,7 +171,7 @@ _(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_
 
 - **7.1.012** [article abrogated on 01.02.12] 
 
-## **Riders meeting** 
+   - **Riders meeting** 
 
 - **7.1.013** A meeting of all riders shall be held before the start of the competition. At this meeting all important information on the running of the competition shall be given. Attendance at this meeting shall be obligatory for all riders. 
 
@@ -182,7 +179,7 @@ During such meeting the starting method and time, the number and order of sectio
 
 _(text modified on 15.10.18)_ 
 
-## **§5 Sections** 
+#### **§5 Sections** 
 
 - **7.1.014** The organiser shall, according to each category of competition, lay out a given number of sections. 
 
@@ -258,9 +255,20 @@ TRIALS
 
 _(text modified on 01.02.12; 18.03.15)_ 
 
-**7.1.025** In choosing sections, it is recommended not to exceed the following maximum drop-off heights: 
-
-− Boys U10 white course 0,80 m maximum − Boys U12 blue course 1,00 m maximum − Boys U14 green course 1,20 m maximum − Boys U16 black course 1,40 m maximum − Girls U10 white course* 0,80 m maximum − Girls U13 blue course* 1,00 m maximum − Girls U16 green course* 1,20 m maximum − Men Junior red course 1,80 m maximum − Men Elite yellow course 2,00 m maximum − Women Junior orange course 1,40 m maximum − Women Elite pink course 1,80 maximum *with pink sticker 
+|**7.1.025**|In choosing sections, it is r<br>heights:|ecommended not to exc|eed the following maximum drop-off|
+|---|---|---|---|
+||−<br>Boys U10|white course|0,80 m maximum|
+||−<br>Boys U12|blue course|1,00 m maximum|
+||−<br>Boys U14|green course|1,20 m maximum|
+||−<br>Boys U16|black course|1,40 m maximum|
+||−<br>Girls U10|white course*|0,80 m maximum|
+||−<br>Girls U13|blue course*|1,00 m maximum|
+||−<br>Girls U16|green course*|1,20 m maximum|
+||−<br>Men Junior|red course|1,80 m maximum|
+||−<br>Men Elite|yellow course|2,00 m maximum|
+||−<br>Women Junior|orange course|1,40 m maximum|
+||−<br>Women Elite|pink course|1,80 maximum|
+|||*with pink sticker||
 
 Under special circumstances the Commissaires’ Panel may accept other maximum drop off heights. 
 
@@ -268,11 +276,11 @@ _(text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18; 01.01.25)_
 
 - **7.1.025** At the UCI Trials World Championships, UCI Trials World Cup and UCI World Youth **bis** Games sections must be designed/built according to the UCI Trials Event Setup & Section Building Guide and must include a total of six sectors. 
 
-Sections shall be designed in an easy shape, easy to follow and avoiding loops inside. 
+   - Sections shall be designed in an easy shape, easy to follow and avoiding loops inside. 
 
 _(article introduced on 27.01.17; text modified on 15.10.18)_ 
 
-## **§6 Competition area** 
+#### **§6 Competition area** 
 
 - **7.1.026** In order to be attractive, the sections shall be set in one close area, called competition area, placed in city centres, in halls, in stadiums or in open country. 
 
@@ -298,13 +306,13 @@ _(text modified on 01.02.12; 18.03.15)_
 
 - **7.1.028** The Technical Delegate with the agreement of the president of the Commissaires’ Panel shall decide whether the sections are to be covered consecutively or in random order. 
 
-_(text modified on 01.02.12)_ 
+   - _(text modified on 01.02.12)_ 
 
 - **7.1.029** The sections may be modified by the Technical Delegate in between laps, but only with the agreement of the Commissaires’ Panel. 
 
 _(text modified on 18.03.15)_ 
 
-## **§7 Starting and riding regulations** 
+#### **§7 Starting and riding regulations** 
 
 - **7.1.030** Each rider shall be responsible for observing the starting time set for him/her. 
 
@@ -316,11 +324,9 @@ _(text modified on 18.03.15)_
 
 - **7.1.033** It is forbidden for a rider to modify sections of the competition area or their configuration. 
 
-_(text modified on 15.10.18)_ 
+   - _(text modified on 15.10.18)_ 
 
-- **7.1.034** [article abrogated on 01.02.12] 
-
-- **7.1.035** With the exception of the Commissaires’ Panel, the Technical Delegate, the medicals, the riders on course and the authorised media, only the rider whose name is called by the commissaire may be in the section. 
+- **7.1.034** [article abrogated on 01.02.12] **7.1.035** With the exception of the Commissaires’ Panel, the Technical Delegate, the medicals, the riders on course and the authorised media, only the rider whose name is called by the commissaire may be in the section. 
 
 _(text modified on 15.10.18)_ 
 
@@ -344,17 +350,17 @@ _(text modified on 15.10.18)_
 
 - **7.1.039** A rider shall not enter a gate reserved for categories other than his/her own. 
 
-_(text modified on 01.02.12)_ 
+   - _(text modified on 01.02.12)_ 
 
 - **7.1.040** Riders must have both wheels inside the neutral zone to take the start. 
 
-_(text modified on 01.02.12; 18.03.15)_ 
+   - _(text modified on 01.02.12; 18.03.15)_ 
 
 - **7.1.041** Any rider dropping out of the competition shall return his/her score card to the Trials office or the Technical Delegate. 
 
 _(text modified on 18.03.15; 15.10.18)_ 
 
-## **§8 Duration of the competition** 
+#### **§8 Duration of the competition** 
 
 - **7.1.042** The total duration of the competition shall be set by the Technical Delegate in agreement with the Commissaires’ Panel. It shall be so set as to permit riders to end the sections in the set time. The Commissaires’ Panel may extend it during the competition. 
 
@@ -362,13 +368,13 @@ _(text modified on 18.03.15; 15.10.18)_
 
 - **7.1.043** Default time shall be 30 minutes. The Commissaires’ Panel may extend it after the competition, if more than ten riders would have to be eliminated. 
 
-## **§9 Repairs** 
+#### **§9 Repairs** 
 
 - **7.1.044** Repairs may be undertaken during the competition, but neither inside a section, nor in any other place liable to hamper or endanger riders. 
 
 _(text modified on 18.03.15; 15.10.18)_ 
 
-## **§10 Classifications and results** 
+#### **§10 Classifications and results** 
 
 - **7.1.045** The rider with the highest total of points scored shall be declared the winner in his/her category. 
 
@@ -378,9 +384,7 @@ _(text modified on 01.02.12; 18.03.15; 27.01.17; 15.10.18; 01.01.23)_
 
 _(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_ 
 
-- **7.1.047** In case of a tie (where two or more riders have the same total of points), the tie shall be solved in the following order: 
-
-   1. Highest number of sections covered with maximum points possible; 
+- **7.1.047** In case of a tie (where two or more riders have the same total of points), the tie shall be solved in the following order: 1. Highest number of sections covered with maximum points possible; 
 
 E0126 
 
@@ -388,9 +392,7 @@ E0126
 
 TRIALS 
 
-2. Highest number of sections with fifty points, with forty points, etc; 
-
-3. Best result in the ½ Finals; 
+2. Highest number of sections with fifty points, with forty points, etc; 3. Best result in the ½ Finals; 
 
 4. In a competition without a ½ Finals and concerning a podium place, a decisive section to be competed will be selected by the Commissaires’ Panel. In the decisive section, in case of equal points the time will be used as the decision-making criterion to allocate the places on the podium. Should several riders obtain zero points, the winner will be the rider who goes furthest in the section; 
 
@@ -402,7 +404,7 @@ In case of a tie in the Final the place in the ½ Finals will be considered as a
 
 _(text modified on 01.02.12; 01.10.13; 18.03.15; 27.01.17; 15.10.18; 01.01.23; 01.01.25)_ 
 
-## **§11 Competition facilities** 
+#### **§11 Competition facilities** 
 
 - **7.1.048** In order to have a competition sanctioned by the UCI, National Federations and organisers must be able to demonstrate to the UCI that the facilities proposed for the event meet the specifications set forth in this chapter and in the organisation guide. 
 
@@ -410,27 +412,25 @@ A detailed description of all types of facilities required for the various purpo
 
 _(text modified on 01.02.12; 18.03.15; 15.10.18)_ 
 
-## **Riders and Teams’ area** 
+##### **Riders and Teams’ area** 
 
 - **7.1.049** The area reserved for riders and teams shall be located close to the technical area and outside the competition area. A warm up section shall be installed inside the riders and teams’ area. 
 
 _(text modified on 18.03.15; 15.10.18; 01.01.23)_ 
 
-- **7.1.050** Bulletin boards 
+- **7.1.050** <u>Bulletin boards</u> Well-constructed and weather-resistant bulletin boards and/or monitors for posting the start lists, results list and any rider’s information shall be erected near the technical area 
 
-   - Well-constructed and weather-resistant bulletin boards and/or monitors for posting the start lists, results list and any rider’s information shall be erected near the technical area 
-
-## Screen area 
+##### <u>Screen area</u> 
 
 An area for the screen beside to the technical area must be provided with a good visibility for riders and teams. It must be covered, stable and wind resistant. The screen features are defined in the organisation guide. 
 
 _(text modified on 01.02.12; 18.03.15; 15.10.18)_ 
 
-## **Technical area** 
+##### **Technical area** 
 
 - **7.1.051** The technical area must preferably be located at the centre of the site of the Trials event, giving easier access to the riders. This area must be fenced off. 
 
-The access to the technical area is restricted to the public. 
+   - The access to the technical area is restricted to the public. 
 
 E0126 
 
@@ -442,13 +442,13 @@ Within the technical area the organiser must provide an area using containers an
 
 _(text modified on 01.02.12; 18.03.15; 15.10.18)_ 
 
-## **Public Address system** 
+##### **Public Address system** 
 
 - **7.1.052** The public address system must be capable of projecting the announcer's voice to all the sections as well as around the stage. Announcements are to be made in both English and the language of the host country. 
 
 _(text modified on 01.02.12; 18.03.15)_ 
 
-## **Spectator’s facilities** 
+##### **Spectator’s facilities** 
 
 - **7.1.053** A description of all types of spectator’s facilities and services required for various purposes for the Trials events are defined hereinafter: 
 
@@ -472,23 +472,33 @@ _(text modified on 01.02.12; 18.03.15)_
 
    - litter bins. 
 
-The following spectator’s capacities are suggested: 
+##### The following spectator’s capacities are suggested: 
 
 - International Trials events: 1.000 spectators; 
 
-- - UCI Trials World Youth Games: 2.000 spectators; - UCI Trials World Cup events: 5.000 spectators; - UCI Trials World Championships: 7.500 spectators. 
+- UCI Trials World Youth Games: 
+
+- UCI Trials World Cup events: 
+
+- UCI Trials World Championships: 
+
+- 2.000 spectators; 
+
+- 5.000 spectators; 
+
+- 7.500 spectators. 
 
 _(text modified on 18.03.15; 15.10.18)_ 
 
-## **§12 Officials and staff** 
+#### **§12 Officials and staff** 
 
 - **7.1.054** The UCI Regulations set forth the manner in which a Trials event shall be conducted. All officials participating in an event are required to be fully conversant with the UCI Regulations and any supplement thereof, which governs any event. 
 
-## **General** 
+##### **General** 
 
 - **7.1.055** Every Trials competition must be staffed with an adequate number of qualified commissaires and officials, including a minimum of one UCI commissaire, to assume all the responsibilities and perform all the duties of the various positions set forth in this section. 
 
-   - **Commissaires’ Panel** 
+##### **Commissaires’ Panel** 
 
 - **7.1.056** The Commissaires’ Panel shall be designated according to article 1.2.116 UCI Regulations. 
 
@@ -500,7 +510,7 @@ TRIALS
 
 The Commissaires’ Panel is the highest authority at any competition and has the right to impose a penalty on any rider, minders, parent, spectator or team manager in the interests of safety or for violation of these rules, as described in §16 of the present rule book and in Part 1 of the UCI Regulations. 
 
-## **Secretary** 
+##### **Secretary** 
 
 - **7.1.057** The secretary shall be designated according to article 1.2.116 UCI Regulations. 
 
@@ -508,7 +518,7 @@ The secretary shall be responsible for the registration and classification of al
 
 _(text modified on 01.02.12)_ 
 
-## **National and/or Regional Trials Commissaires** 
+##### **National and/or Regional Trials Commissaires** 
 
 - **7.1.058** The National and/or Regional Trials Commissaires are appointed by the national federation according to article 1.2.116 of the UCI Regulations. They shall assist the Commissaires’ Panel. 
 
@@ -524,41 +534,41 @@ _(text modified on 01.02.12)_
 
 _(text modified on 18.03.15; 15.10.18)_ 
 
-## **Organization personnel** 
+##### **Organization personnel** 
 
 - **7.1.059** The key positions within the organization personnel are given below: 
 
-   - Director of the Organizing Committee; 
+      - Director of the Organizing Committee; 
 
-   - General Secretary; 
+      - General Secretary; 
 
-   - Finance manager; 
+      - Finance manager; 
 
-   - Administrative manager; 
+      - Administrative manager; 
 
-   - Marketing manager; 
+      - Marketing manager; 
 
-   - Media manager; 
+      - Media manager; 
 
-   - Logistics manager; 
+      - Logistics manager; 
 
-   - Volunteer coordinator; 
+      - Volunteer coordinator; 
 
-   - Head of ceremonies; 
+      - Head of ceremonies; 
 
-   - Technical manager; 
+      - Technical manager; 
 
-   - Trials section builder/designer; 
+      - Trials section builder/designer; 
 
-   - Marshal coordinator; 
+      - Marshal coordinator; 
 
-   - First aid & medical; 
+      - First aid & medical; 
 
-   - Announcer; 
+      - Announcer; 
 
-   - Deejay. 
+      - Deejay. 
 
-The tasks assigned to the organization personnel are described in the organisers guide. 
+   - The tasks assigned to the organization personnel are described in the organisers guide. 
 
 _(text modified on 18.03.15)_ 
 
@@ -568,7 +578,7 @@ E0126
 
 TRIALS 
 
-## **Additional personnel** 
+##### **Additional personnel** 
 
 - **7.1.060** Additional personnel that are necessary to ensure a smooth organization of the Trials events are to be provided by the organiser and shall include, among others the following: 
 
@@ -584,9 +594,9 @@ TRIALS
 
 _(text modified on 01.02.12; 18.03.15)_ 
 
-## **§13 Clothing and safety equipment** 
+#### **§13 Clothing and safety equipment** 
 
-## **Inspection** 
+##### **Inspection** 
 
 - **7.1.061** Before the start of, or during any competition, the rider’s bicycle, helmet and clothing may be subject to inspection by the Commissaires’ Panel in order to ascertain whether or not this equipment conforms to these rules. 
 
@@ -596,25 +606,25 @@ Any rider who does not comply with all instructions given to him/her by the Comm
 
 _(text modified on 15.10.18)_ 
 
-## **Helmet** 
+##### **Helmet** 
 
 - **7.1.062** Protective headgear shall be worn in all Trials competitions, during training and when riding the distances between sections. Riders are obliged to opt for a helmet which meets the high standards, like Snell, ANSI or DIN 33954. 
 
-Helmet straps must be securely fastened during the whole competition. 
+   - Helmet straps must be securely fastened during the whole competition. 
 
 _(text modified on 15.10.18)_ 
 
-## **Camera** 
+##### **Camera** 
 
 - **7.1.062** Cameras and supports are not permitted during ¼ Finals, ½ Finals and Final rounds. **bis** The UCI can decide to allow a camera during final but only for the usage of the TV production company. 
 
 _(text modified on 27.01.17)_ 
 
-## **Jersey** 
+##### **Jersey** 
 
-- **7.1.063** Proper long or short sleeve jersey is required. Regulations regarding the national champion jersey are set in articles 1.3.056 ff. 
+- **7.1.063** Proper long or short sleeve jersey is required. 
 
-   - Regulations regarding the UCI Trials World Champion jersey are set in articles 1.3.060 ff. 
+   - Regulations regarding the national champion jersey are set in articles 1.3.056 ff. Regulations regarding the UCI Trials World Champion jersey are set in articles 1.3.060 ff. 
 
    - Provisions on advertising matter are regulated by the UCI. 
 
@@ -626,7 +636,7 @@ TRIALS
 
 _(text modified on 15.10.18)_ 
 
-## **Jersey - Order of priority** 
+##### **Jersey - Order of priority** 
 
 - **7.1.063** Should various provisions requiring the wearing of different Trials jerseys apply to the **bis** same rider, the order of priority shall be as follows: 
 
@@ -646,21 +656,21 @@ During UCI Trials World Championships and Continental Championships every rider 
 
 _(article introduced on 18.03.15; text modified on 15.10.18)_ 
 
-## **Pants** 
+##### **Pants** 
 
 - **7.1.063** Proper long or short pants are required. 
 
-## **Shoes** 
+##### **Shoes** 
 
 - **7.1.065** Solid shoes are required. 
 
-## **Shin guards and back protections** 
+   - **Shin guards and back protections** 
 
 - **7.1.066** The UCI strongly recommends that riders wear shin guards and back protections. 
 
 _(text modified on 01.02.12)_ 
 
-## **Gloves** 
+##### **Gloves** 
 
 - **7.1.067** The wearing of gloves is recommended. 
 
@@ -670,13 +680,13 @@ _(text modified on 01.02.12)_
 
 - **7.1.070** [article abrogated on 15.10.18] 
 
-## **§14 Bicycle** 
+#### **§14 Bicycle** 
 
-## **General** 
+##### **General** 
 
 - **7.1.071** All bicycles used for competition must meet the general specifications provided in this chapter. 
 
-## **Frame** 
+##### **Frame** 
 
 - **7.1.072** The bicycle's frame must be of sufficient strength to withstand the rigors of Trials riding and be devoid of any cracked or bent frame members or welds which are cracked or otherwise deficient. 
 
@@ -686,21 +696,21 @@ E0126
 
 TRIALS 
 
-- All components, accessories and other parts must be firmly attached to the bicycle. 
+All components, accessories and other parts must be firmly attached to the bicycle. 
 
-## **Wheels and tires** 
+##### **Wheels and tires** 
 
 - **7.1.073** 18” to 23” nominal (overall) wheel size shall be permitted in 20” class. 24” to 26” nominal (overall) wheel size shall be permitted in 26” class. Tyres may not be fitted with chains, ropes or other devices. 
 
 _(text modified on 01.02.11)_ 
 
-## **Brakes** 
+##### **Brakes** 
 
 - **7.1.074** The bicycle shall have two brakes in working order (one front and a second one for the rear wheel). 
 
 _(text modified on 18.03.15)_ 
 
-## **Cranks, pedals** 
+##### **Cranks, pedals** 
 
 - **7.1.075** Pedals must be securely attached to the crank arms and adjusted so as to eliminate lateral motion of the pedal body along the pedal axle. Pedal axles must be of sufficient strength to withstand the rigors of competition. The teeth on pedal cages must be sufficiently pointed and prominent to offer effective grip on a rider's shoes without being so sharp as to pose a safety hazard. In addition no pedal hooks or toe straps shall be allowed. 
 
@@ -708,13 +718,13 @@ For 26” class; only one rock-ring chain guard shall be authorized on the trans
 
 _(text modified on 01.02.11)_ 
 
-## **Handlebars** 
+##### **Handlebars** 
 
 - **7.1.076** Handlebars that are cracked or bent are not permitted. Handlebars must have the end capped. 
 
 _(text modified on 01.02.12)_ 
 
-## **§15 Starting numbers** 
+#### **§15 Starting numbers** 
 
 - **7.1.077** The rider's body number and number plate shall be waterproof and clearly show the starting number, the colour of the course and the sponsors' logos. The colour of the number plates shall correspond with that of the course (example: yellow for Men elite, red for Men juniors, pink for Women elite). The plates are defined in the technical specifications. 
 
@@ -722,9 +732,7 @@ Number plates shall be placed on the bike's handlebars to be visible from the fr
 
 _(text modified on 18.03.15; 15.10.18)_ 
 
-- **7.1.078** 
-
-- Body numbers and number plates shall be neither removed nor modified. 
+- **7.1.078** Body numbers and number plates shall be neither removed nor modified. 
 
 _(text modified on 01.01.23)_ 
 
@@ -744,9 +752,9 @@ E0126
 
 TRIALS 
 
-## **§16 Infringements, penalties, deduction of points and protest** 
+#### **§16 Infringements, penalties, deduction of points and protest** 
 
-## **Part 1: Infringements** 
+#### **Part 1: Infringements** 
 
 - **7.1.080** All riders must observe these rules and follow all instructions given by any commissaire or official at any time during the course of the event. Every rider must at all times observe such conduct which reflects the ideals of good sportsmanship and avoid any conduct which may bring himself/herself or the sport of Trials into disrepute. The use of obscene or foul language is forbidden. Riders using such language will be penalized in a manner to be determined by the Commissaires’ Panel. 
 
@@ -754,15 +762,15 @@ The infringements described in this chapter will be penalized by the Commissaire
 
 _(text modified on 18.03.15; 15.10.18)_ 
 
-## **Third Persons Interference** 
+##### **Third Persons Interference** 
 
 - **7.1.081** Team managers, minders, parents and other people who accompany a rider or who provide external assistance shall not interfere with the competition on behalf of a team or a rider. 
 
 _(text modified on 15.10.18)_ 
 
-## **Part 2: Penalties** 
+#### **Part 2: Penalties** 
 
-## **Penalty points** 
+   - **Penalty points** 
 
 - **7.1.082** The following penalty points may be imposed cumulatively on riders in the sections. 
 
@@ -778,7 +786,7 @@ The body is splat in 4 parts:
 
 - upper part of the body, from the hip including the arms and the head; 
 
-- - hands until the wrists (incl. the handlebar if it’s touched by the hand). 
+- hands until the wrists (incl. the handlebar if it’s touched by the hand). 
 
 In case of a support of more than one part, the penalty points will be cumulated. If one or more parts of the body are touching the obstacle or the ground, they are penalized with penalty points. 
 
@@ -820,11 +828,11 @@ _(text modified on 01.10.13; 18.03.15; 15.10.18; 01.01.23; 01.01.26)_
 
 - **7.1.088** Holding the bicycle by any part other than part above the headset (5 penalty points). 
 
-_(text modified on 18.03.15)_ 
+   - _(text modified on 18.03.15)_ 
 
 - **7.1.089** Placing both feet simultaneously on the ground or on an obstacle (5 penalty points). 
 
-_(text modified on 18.03.15)_ 
+   - _(text modified on 18.03.15)_ 
 
 - **7.1.090** Front wheel outside the entry gate, i.e. that when, after entering the section, the front axle exits the gate again (5 penalty points). 
 
@@ -850,11 +858,11 @@ _(text modified on 18.03.15)_
 
 - **7.1.094** It is forbidden to mark 0 points on the score card without having entered the section. 
 
-_(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_ 
+   - _(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_ 
 
 - **7.1.095** Touching the ground or the obstacle with a hand that does not hold the handlebars (5 penalty points). 
 
-## **Part 3: Deduction of points and disqualification** 
+#### **Part 3: Deduction of points and disqualification** 
 
 The following situations may result in point deductions or disqualifications. Only the Technical Delegate or the President of Commissaires’ Panel in agreement with the Commissaires’ Panel can carry out such deductions and disqualifications. 
 
@@ -864,7 +872,7 @@ _(text modified on 18.03.15; 01.01.23)_
 
 _(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_ 
 
-## **External assistance** 
+##### **External assistance** 
 
 - **7.1.097** Relatives, followers, minders or attendants shall in no case interfere in the competition. 
 
@@ -890,7 +898,7 @@ _(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_
 
 - **7.1.100** Skipping more than three sections on the total competition round (disqualification). 
 
-   - _(text modified 18.03.15)_ 
+_(text modified 18.03.15)_ 
 
 E0126 
 
@@ -922,11 +930,11 @@ _(text modified on 18.03.15; 15.10.18)_
 
 _(text modified on 18.03.15; 27.01.17; 15.10.18; 01.01.23)_ 
 
-## **Other Penalties** 
+##### **Other Penalties** 
 
 - **7.1.110** The Commissaires’ Panel may, without prejudice to its possibilities provided in Parts 1 and 12 of the UCI Regulations, invoke any of the censures provided in this section against a rider who commits one of the infractions mentioned. 
 
-## **Official warning** 
+##### **Official warning** 
 
 - **7.1.111** A rider may receive an official, verbal warning for certain misconduct. The first warning issued to a rider at an event carries no specific penalty other than the advice of the warning, however the issuance of a subsequent warning for the same, or any other offence, on the same day will result in the rider's disqualification from the competition. 
 
@@ -934,17 +942,17 @@ A warning shall be displayed on the printed output of the result list and on the
 
 _(text modified on 15.10.18)_ 
 
-## **Disqualification of riders** 
+##### **Disqualification of riders** 
 
 - **7.1.112** A rider may be disqualified and thereby barred from further participation in either the competition category in which the infringement occurred or the entire event. 
 
-## **Removal of an offender from the competition** 
+##### **Removal of an offender from the competition** 
 
 - **7.1.113** The Commissaires’ Panel shall have the discretion to remove an offender from the competition for an offence against any of the provisions set down in this rule book. 
 
 _(text modified on 15.10.18)_ 
 
-## **Suspension of an offender from the competition** 
+##### **Suspension of an offender from the competition** 
 
 E0126 
 
@@ -972,7 +980,7 @@ _(text modified on 15.10.18)_
 
 - **7.1.115** Riders will be held accountable for the actions of their parents, team managers and any other persons in their company at a Trials competition or event. Any misconduct on the part of any of these persons may, at the discretion of a commissaire or event director, result in the disqualification or suspension of the riders and the removal of the offending persons from the competition area. 
 
-## **Part 4: Protests** 
+#### **Part 4: Protests** 
 
 - **7.1.116** Only riders or their legal representative may lodge a protest. 
 
@@ -982,7 +990,7 @@ _(text modified on 15.10.18)_
 
 - **7.1.119** The president of Commissaires’ Panel after consulting the Commissaires’ Panel, shall decide on objections submitted. 
 
-## **§17 Riding system** 
+#### **§17 Riding system** 
 
 - **7.1.120** The penalty points will apply as per art. 7.1.082 to 7.1.119. 
 
@@ -1008,9 +1016,9 @@ E0126
 
 TRIALS 
 
-## **Chapter II INTERNATIONAL EVENTS** 
+### **Chapter II INTERNATIONAL EVENTS** 
 
-## **Registration of participants** 
+##### **Registration of participants** 
 
 - **7.2.001** The registration procedure is handled by each organiser of each International Trials event, respecting the opening and closing dates. Riders need to complete their registration individually for each International Trials event. Late entries shall be accepted according the organiser’s rules. 
 
@@ -1038,19 +1046,19 @@ _(text modified on 01.02.12; 15.10.18)_
 
 - **7.2.004** Entry fees, due to the organiser of an International Trials event, are to be set by the National Federation/organisation hosting the event. 
 
-## **Competition format** 
+##### **Competition format** 
 
 - **7.2.005** The competition shall be established according to the procedures set forth in the present rule book. 
 
 - **7.2.006** Competition categories at an International Trials event shall be based on the description in articles 7.1.001 ff of the present rule book and where combined categories are made as follows: 
 
-   - Men Elite 20: made by Men Elite 20 + Men Junior 20 + second year of Boys U16; 
+      - Men Elite 20: made by Men Elite 20 + Men Junior 20 + second year of Boys U16; 
 
-   - Men Elite 26: made by Men Elite 26 + Men Junior 26 + second year of Boys U16. 
+      - Men Elite 26: made by Men Elite 26 + Men Junior 26 + second year of Boys U16. 
 
-As well as: 
+   - As well as: 
 
-- Women Elite: made by Women Elite + Women Junior + third year of Girls U16. 
+      - Women Elite: made by Women Elite + Women Junior + third year of Girls U16. 
 
 _(text modified on 01.01.25)_ 
 
@@ -1060,7 +1068,7 @@ E0126
 
 TRIALS 
 
-## **Competition format** 
+##### **Competition format** 
 
 - **7.2.007** The riders eligible to compete in the Final round shall be as follow: 
 
@@ -1072,9 +1080,9 @@ TRIALS
 
 _(article introduced on 01.10.13; text modified on 15.10.18)_ 
 
-## **Events format** 
+##### **Events format** 
 
-- **7.2.008** Hors Class (HC) events shall be run in one or two days. One qualification round and one final round will be run. International events Class 1 (C1) shall be run in one day with a single round. 
+**7.2.008** Hors Class (HC) events shall be run in one or two days. One qualification round and one final round will be run. International events Class 1 (C1) shall be run in one day with a single round. 
 
 _(article introduced on 01.10.13; text modified on 15.10.18; former article 7.2.007 moved to 7.2.008)_ 
 
@@ -1084,9 +1092,9 @@ E0126
 
 TRIALS 
 
-## **Chapter III UCI TRIALS WORLD CUP** 
+### **Chapter III UCI TRIALS WORLD CUP** 
 
-## **General** 
+##### **General** 
 
 - **7.3.001** The UCI Trials World Cup is contested over a number of events in different countries. These events shall be selected annually by the UCI Management Committee as per the procedure set out in the bidding procedure manual and the UCI Trials World Cup organisation guide. 
 
@@ -1102,7 +1110,7 @@ _(text modified on 18.03.15)_
 
 _(text modified on 18.03.15)_ 
 
-## **Registration and confirmation of riders** 
+##### **Registration and confirmation of riders** 
 
 - **7.3.005** All riders must be registered using the UCI online registration system (www.uci.ch) through their National Federation. The opening/closing dates of the online registration system are published on the UCI website. All riders or their team managers must attend the riders’ confirmation presenting their licenses and picking up their numbers. 
 
@@ -1116,7 +1124,7 @@ Late entries are refused unless authorised by the UCI, and on payment of a fine 
 
 _(text modified on 01.02.12; 01.10.13; 18.03.15; 15.10.18)_ 
 
-## **Categories** 
+##### **Categories** 
 
 - **7.3.006** Competition categories at a UCI Trials World Cup event shall be as described in article 7.1.002 where combined classes are made as follows: 
 
@@ -1128,33 +1136,33 @@ E0126
 
 TRIALS 
 
-   - Men Elite 26: made by Men Elite 26 + Men Junior 26 + second year of Boys U16. 
+- Men Elite 26: made by Men Elite 26 + Men Junior 26 + second year of Boys U16. 
 
-- As well as: 
+As well as: 
 
-   - Women Elite: Women Elite + Women Junior + third year of Girls U16. 
+- Women Elite: Women Elite + Women Junior + third year of Girls U16. 
 
 _(text modified on 01.02.12; 18.03.15; 01.01.23; 01.01.25)_ 
 
-## **Age class** 
+   - **Age class** 
 
 - **7.3.007** Categories depend on age class as stated in article 7.1.002. 
 
-## **Competition format** 
+##### **Competition format** 
 
 - **7.3.008** In the women’s category, each UCI Trials World Cup competition format shall include a ½ Finals and a Final. 
 
 In the men’s categories, each UCI Trials World Cup competition format shall include a ¼ Finals, a ½ Finals and a Final. 
 
-## Women Elite ½ Finals 
+##### <u>Women Elite ½ Finals</u> 
 
 The UCI Trials World Cup event will begin with a ½ Finals. The UCI Trials World Cup ½ Finals is open to all riders entered. The ½ Finals shall consist of two laps of five sections. The Commissaires’ Panel will set the competition time according to the number of entered riders. 
 
-## Women Elite Final 
+##### <u>Women Elite Final</u> 
 
 The best six riders in the ½ Finals will be eligible to compete in the Final. The points obtained in the ½ Finals do not count in the Final. 
 
-## Men Elite 20 and 26 ¼ Finals 
+##### <u>Men Elite 20 and 26 ¼ Finals</u> 
 
 The UCI Trials World Cup event will begin with a ¼ Finals. The UCI Trials World Cup ¼ Finals is open to all non-qualified riders entered. The ¼ Finals shall consist of two laps of five sections. The Commissaires’ Panel will set the competition time according to the number of entered riders. 
 
@@ -1178,23 +1186,21 @@ E0126
 
 TRIALS 
 
-## Men Elite 20 and 26 ½ Finals 
+##### <u>Men Elite 20 and 26 ½ Finals</u> 
 
 The number of riders qualified in the ½ Finals including the top ten is always 25. 
 
 At least the first fifteen riders in the ¼ Finals in each category and the ten highest ranked riders on the UCI Trials ranking qualify for the ½ Finals. 
 
-More riders can qualify if the number of directly qualified (from the UCI Trials ranking) is 
-
-less than ten riders. 
+More riders can qualify if the number of directly qualified (from the UCI Trials ranking) is less than ten riders. 
 
 The ½ Finals shall consist of two laps of five sections. The Commissaires’ Panel will set the competition time. 
 
-## Men Elite 20 and 26 Finals 
+##### <u>Men Elite 20 and 26 Finals</u> 
 
 The best six riders in the ½ Finals will be eligible to compete in the Finals. The points obtained in the ½ Finals do not count in the Finals round. 
 
-## Final procedure 
+##### <u>Final procedure</u> 
 
 At the Final round the six by six system shall be applied: 
 
@@ -1210,9 +1216,9 @@ In case of a tie, article 7.1.047 shall apply.
 
 _(text modified on 01.02.11; 01.02.12; 01.10.13; 18.03.15; 27.01.17; 15.10.18; 01.01.25)_ 
 
-## **Number of sections and laps** 
+   - **Number of sections and laps** 
 
-**7.3.009** The number of sections and laps are as indicated below: 
+- **7.3.009** The number of sections and laps are as indicated below: 
 
 |**Round**|**Number of sections**|**Number of laps**|
 |---|---|---|
@@ -1222,7 +1228,7 @@ _(text modified on 01.02.11; 01.02.12; 01.10.13; 18.03.15; 27.01.17; 15.10.18; 0
 
 _(text modified on 01.02.11; 01.02.12; 18.03.15)_ 
 
-## **Recognition and awards** 
+##### **Recognition and awards** 
 
 - **7.3.010** Every year the UCI shall bestow upon the first place overall finisher in each competing category, the title of “UCI Trials World Cup Winner”. 
 
@@ -1238,7 +1244,7 @@ At the UCI Trials World Cup final round, the UCI will award the first three posi
 
 _(text modified on 18.03.15)_ 
 
-## **UCI Trials World Cup standings** 
+   - **UCI Trials World Cup standings** 
 
 - **7.3.011** The UCI Trials World Cup standings are drawn up on the basis of the points won by each rider in accordance with the table in article 7.6.006. 
 
@@ -1248,7 +1254,7 @@ Riders tying on points are ranked by considering the greatest number of first pl
 
 _(article introduced on 01.02.12; text modified on 18.03.15; 01.01.23; 01.01.25)_ 
 
-## **Leader’s jersey** 
+##### **Leader’s jersey** 
 
 - **7.3.012** The rider leading the UCI Trials World Cup standings must wear the leader's jersey in every UCI Trials World Cup event concerned, except in the opening event. 
 
@@ -1264,7 +1270,7 @@ The design of the jersey received at the official ceremony must be respected. Fu
 
 _(article introduced on 01.02.12; text modified on 08.02.21)_ 
 
-- **Official ceremony** 
+##### **Official ceremony** 
 
 - **7.3.015** The official ceremony shall take place immediately after the competition. 
 
@@ -1290,9 +1296,9 @@ E0126
 
 TRIALS 
 
-## **Chapter IV UCI TRIALS WORLD YOUTH GAMES** 
+### **Chapter IV UCI TRIALS WORLD YOUTH GAMES** 
 
-## **General** 
+##### **General** 
 
 - **7.4.001** The UCI Trials World Youth Games are contested over one event. This event shall be selected annually by the UCI Management Committee as per the procedure set out in the bidding procedure manual and the UCI Trials Youth Games organisation guide. 
 
@@ -1308,7 +1314,7 @@ _(text modified on 18.03.15)_
 
 - **7.4.004** The UCI Trials World Youth Games are open to all eligible riders in possession of a UCI license. 
 
-## **Registration and confirmation of riders** 
+##### **Registration and confirmation of riders** 
 
 - **7.4.005** Riders wishing and eligible to compete in the UCI Trials World Youth Games must be registered through their National Federation. Registration fees are not charged for the UCI Trials World Youth Games. 
 
@@ -1324,13 +1330,13 @@ Registration for the UCI Trials World Youth Games is subject to the following re
 
 _(text modified on 01.02.11; 18.03.15; 15.10.18)_ 
 
-## **Competition type and categories** 
+##### **Competition type and categories** 
 
-- **7.4.006** For the UCI Trials World Youth Games events, the competition type is open (free choice of wheel size between 18” and 26”) and the competition categories are Boys U10, Boys U12, Boys U14, Boys U16, Girls U10, Girls U13 and Girls U16 as described in article 7.1.002 of the present rule book. 
+**7.4.006** For the UCI Trials World Youth Games events, the competition type is open (free choice of wheel size between 18” and 26”) and the competition categories are Boys U10, Boys U12, Boys U14, Boys U16, Girls U10, Girls U13 and Girls U16 as described in article 7.1.002 of the present rule book. 
 
 _(text modified on 01.02.11; 18.03.15; 27.01.17; 01.01.25)_ 
 
-**Age class** 
+##### **Age class** 
 
 E0126 
 
@@ -1340,7 +1346,7 @@ TRIALS
 
 - **7.4.007** Categories depend on age as stated in article 7.1.002 of the present rule book. 
 
-## **Competition format** 
+##### **Competition format** 
 
 - **7.4.008** The UCI Trials World Youth Games shall include one ½ Finals and one Final. 
 
@@ -1364,21 +1370,21 @@ _(text modified on 01.02.11; 01.02.12; 18.03.15; 15.10.18)_
 
 _(text modified on 18.03.15; 15.10.18; 01.01.23)_ 
 
-## **National Jersey** 
+##### **National Jersey** 
 
 - **7.4.010** Riders taking part in the UCI Trials World Youth Games represent their country, the wearing of the national federation outfit is strongly recommended, although not mandatory. 
 
 _(text modified on 18.03.15)_ 
 
-## **Recognition and awards** 
+##### **Recognition and awards** 
 
 - **7.4.011** The UCI shall bestow upon the first place finisher in each competing category the title of «UCI Trials world youth games winner». This title shall remain the property of the UCI and may not be used in conjunction with any product endorsement or for any other commercial purpose without UCI’s prior express consent. 
 
-The UCI will award the first three positions in each category with UCI World Youth Games medals. 
+   - The UCI will award the first three positions in each category with UCI World Youth Games medals. 
 
 _(text modified on 18.03.15)_ 
 
-## **Official ceremony** 
+##### **Official ceremony** 
 
 - **7.4.012** The official ceremony shall take place immediately after the competition. The first three riders in each category must attend the official ceremony. Bicycles cannot be taken onto the podium. 
 
@@ -1390,17 +1396,17 @@ E0126
 
 TRIALS 
 
-## **Chapter V UCI TRIALS MIXED TEAM COMPETITION** 
+### **Chapter V UCI TRIALS MIXED TEAM COMPETITION** 
 
-## **General** 
+##### **General** 
 
 - **7.5.001** The UCI Trials mixed Team competition shall be established in a dedicated section at the UCI Trials World Championships and at the UCI Trials World Youth Games. 
 
 _(text modified on 18.03.15; 01.01.25)_ 
 
-## **Entries** 
+##### **Entries** 
 
-- **7.5.002** UCI Trials World Championships 
+- **7.5.002** <u>UCI Trials World Championships</u> 
 
 The rider’s participation in the UCI Trials mixed Team competition must be done by the team manager at the rider’s confirmation. 
 
@@ -1408,11 +1414,19 @@ The maximum number of riders in a Trials mixed team competition shall be 6, one 
 
 - 1 Men Junior 20’’; 
 
-- - 1 Men Junior 26’’; - 1 Women Junior; - 1 Men Elite 20’’; - 1 Men Elite 26’’; - 1 Women Elite. 
+- 1 Men Junior 26’’; 
+
+- 1 Women Junior; 
+
+- 1 Men Elite 20’’; 
+
+- 1 Men Elite 26’’; 
+
+- 1 Women Elite. 
 
 The minimum number of riders in a Trials mixed team competition shall be 3. They must belong to different categories. 
 
-## UCI World Youth Games 
+##### <u>UCI World Youth Games</u> 
 
 The rider’s participation in the UCI Trials Youth mixed Team competition must be done by the team manager at the rider’s confirmation. 
 
@@ -1420,15 +1434,25 @@ The maximum number of riders in a Trials national team competition shall be 7, o
 
 - 1 Boys U10 (9-10); 
 
-- - 1 Boys U12 (11-12); - 1 Boys U14 (13-14): - 1 Boys U16 (15-16); - 1 Girls U10 (9-10); - 1 Girls U13 (11-13); - 1 Girls U16 (14-16). 
+- 1 Boys U12 (11-12); 
+
+- 1 Boys U14 (13-14): 
+
+- 1 Boys U16 (15-16); 
+
+- 1 Girls U10 (9-10); 
+
+- 1 Girls U13 (11-13); 
+
+- 1 Girls U16 (14-16). 
 
 The minimum number of riders in a Trials mixed team competition shall be 4. They must belong to different categories. 
 
 _(text modified on 18.03.15; 01.01.25)_ 
 
-## **Starting procedure** 
+##### **Starting procedure** 
 
-- **7.5.003** UCI Trials World Championships 
+##### **7.5.003** <u>UCI Trials World Championships</u> 
 
 The total number of UCI points a mixed team is obtained by adding the sum of each rider's individual UCI points. The total number of UCI points will determine the start order in the UCI Trials mixed team competition. The national team with the lowest total UCI points will start first. 
 
@@ -1444,7 +1468,7 @@ The first rider to start the competition belongs to the mixed team with the lowe
 
 Riders ride the sections one by one and only once. 
 
-## UCI World Youth Games 
+##### <u>UCI World Youth Games</u> 
 
 The Girls U16 and Boys U16 total UCI points of each mixed team will determine the start order in the UCI Trials Youth mixed team competition. 
 
@@ -1460,7 +1484,7 @@ Riders ride the sections one by one and only once.
 
 _(article introduced on 18.03.15; text modified on 27.01.17; 01.01.25)_ 
 
-## **Section description** 
+##### **Section description** 
 
 - **7.5.004** The section, which must be split in five sectors, has to be designed/built according to the UCI Trials section building guide. Each sector is composed by different obstacles marked with four different levels (gates). 
 
@@ -1482,7 +1506,7 @@ Points scored with each level (gate):
 
 _(article introduced on 18.03.15; text modified on 15.10.18)_ 
 
-## **Riding system** 
+##### **Riding system** 
 
 - **7.5.005** The penalty points will apply as per art. 7.1.082 to 7.1.119. 
 
@@ -1510,13 +1534,13 @@ The rider can only make five penalty points in the whole section. If a rider has
 
 _(article introduced on 18.03.15; text modified 15.10.18)_ 
 
-## **Results** 
+##### **Results** 
 
 - **7.5.006** The points scored by each rider count as points for his/her mixed team’s overall score. The winner is the mixed team with the highest score. In case of tie, the mixed team that scored points riding on the highest level (gate) will break the tie. 
 
 _(article introduced on 18.03.15; text modified on 01.01.25)_ 
 
-## **Recognition and awards** 
+##### **Recognition and awards** 
 
 - **7.5.007** At the UCI Trials World Championships as per article 7.5.006 the UCI shall bestow upon the first place the title of «UCI Trials Mixed Team World Champion». 
 
@@ -1530,11 +1554,11 @@ These titles shall remain the property of the UCI and may not be used in conjunc
 
 _(article introduced on 18.03.15; text modified on 01.01.25)_ 
 
-## **Official ceremony** 
+##### **Official ceremony** 
 
-- **7.5.008** UCI Trials World Championships 
+- **7.5.008** <u>UCI Trials World Championships</u> 
 
-   - The official ceremony shall take place immediately after the competition and will be run according to articles 9.1.043 ff. 
+The official ceremony shall take place immediately after the competition and will be run according to articles 9.1.043 ff. 
 
 E0126 
 
@@ -1544,7 +1568,7 @@ TRIALS
 
 All members of the first three mixed teams must attend the official ceremony. 
 
-## UCI World Youth Games 
+<u>UCI World Youth Games</u> 
 
 The official ceremony shall take place immediately after the competition All members of the first three mixed teams must attend the official ceremony. Bicycles cannot be taken onto the podium. 
 
@@ -1556,7 +1580,7 @@ E0126
 
 TRIALS 
 
-## **Chapter VI UCI TRIALS RANKING** 
+### **Chapter VI UCI TRIALS RANKING** 
 
 - **7.6.001** The UCI has created the UCI Trials ranking and shall be its exclusive owner. The UCI Trials ranking is drawn up over a period of one year, in accordance with the conditions set out below, by adding the points won since the preceding ranking was drawn up and respecting the provisions of the present rule book. 
 
@@ -1616,7 +1640,7 @@ Concerning the calculation of the UCI Trials rankings, national championships ru
 
 _(article introduced on 01.10.13; text modified on 15.10.18)_ 
 
-## **7.6.006** Points scale 
+- **7.6.006** Points scale 
 
 E0126 
 
@@ -1624,65 +1648,63 @@ E0126
 
 TRIALS 
 
-||**_UCI TRIALS WORLD_**<br>**_CHAMPIONSHIPS_**<br>**_(CM)_**|**_UCI TRIALS WORLD_**<br>**_CHAMPIONSHIPS_**<br>**_(CM)_**|**UCI**<br>**TRIALS**<br>**WORLD**<br>**CUP**<br>**(CDM)**|**CONTINENTAL**<br>**CHAMPIONSHIPS**<br>**(CC)**|**CONTINENTAL**<br>**CHAMPIONSHIPS**<br>**(CC)**|**NATIONAL**<br>**CHAMPIONSHIPS**<br>**(CN)**|**NATIONAL**<br>**CHAMPIONSHIPS**<br>**(CN)**|**INTERNATIONAL EVENTS**|**INTERNATIONAL EVENTS**|
-|---|---|---|---|---|---|---|---|---|---|
-|||||||||**HORS**<br>**CLASS**<br>**(HC)**|**CLASS 1**<br>**(C1)**|
-|**Rank**|**Men/**<br>**Women**<br>**Elite**|**Men/**<br>**Women**<br>**Junior**|**All**<br>**classes**|**Men/ Women**<br>**Elite**|**Men/**<br>**Women**<br>**Junior**|**Men/**<br>**Women Elite**|**Men /**<br>**Women**<br>**Junior**|**Men/**<br>**Women**<br>**Elite**|**Men/ Women**<br>**Elite**|
-|_1_|300|125|200|100|70|50|25|50|40|
-|_2_|250|110|160|90|60|40|20|40|30|
-|_3_|200|105|140|80|50|35|18|35|25|
-|_4_|180|100|125|70|45|30|16|30|20|
-|_5_|160|95|110|65|40|28|14|28|19|
-|_6_|140|90|100|60|38|26|12|26|18|
-|_7_|130|85|95|58|36|24|10|24|17|
-|_8_|120|80|90|56|34|22|9|22|16|
-|_9_|110|75|85|54|32|20|8|20|15|
-|_10_|100|70|80|52|30|19|6|19|14|
-|_11_|98|65|75|50|29|18|5|18|13|
-|_12_|96|64|70|49|28|17|4|17|12|
-|_13_|94|63|65|48|27|16|3|16|11|
-|_14_|92|62|64|47|26|15|2|15|10|
-|_15_|90|61|63|46|25|14|1*|14|9|
-|_16_|88|60|62|45|24|13||13|8|
-|_17_|86|59|61|44|23|12||12|7|
-|_18_|84|58|60|43|22|11||11|6|
-|_19_|83|57|59|42|21|10||10|5|
-|_20_|82|56|58|41|20|9||9|4|
-|_21_|81|55|57|40|19|8||8|3*|
-|_22_|80|54|56|39|18|7||7||
-|_23_|79|53|55|38|17|6||6||
-|_24_|78|52|54|37|16|5||5||
-|_25_|77|51|53|36|15|4||4||
-|_26_|76|50|52|35|14|3*||3*||
-|_27_|75|49|51|34|13|||||
-|_28_|74|48|50|33|12|||||
-|_29_|73|47|49|32|11|||||
-|_30_|72|46|48|31|10|||||
-|_31_|71|45|47|30|5*|||||
-|_32_|70|44|46|29||||||
-|_33_|69|43|45|28||||||
-|_34_|68|42|44|27||||||
-|_35_|67|41|43|26||||||
-|_36_|66|40|42|25||||||
-|_37 _|65|39|41|24||||||
-|_38_|64|38|40|23||||||
-|_39_|63|37|39|22||||||
-|_40_|62|36|38|21||||||
-|_41_|61|35|37|10*||||||
-|_42_|60|34|36|||||||
-|_43_|59|33|35|||||||
-|_44_|58|32|34|||||||
-|_45_|57|31|33|||||||
-|_46_|56|30|32|||||||
-|_47_|55|29|31|||||||
-|_48_|54|28|30|||||||
-|_49_|53|27|29|||||||
-|_50_|52|26|28|||||||
-|_51_|51|25|27|||||||
-|_52 _|50|24|26|||||||
-|_53_|49|23|25|||||||
-|_54_|48|22|24|||||||
-|_55_|47|21|23|||||||
+||**_U_**|**_I TRIA_**|**_S WORLD_**|**UCI**<br>**TRIALS**|**CONTINENTAL**||**NATIONAL**||**INTERNATIO**|**NAL EVENTS**|
+|---|---|---|---|---|---|---|---|---|---|---|
+||<br>**_CH_**<br>**_(C_**|<br>**_AMPIO_**<br>**_M)_**|<br>**_NSHIPS_**|<br>**WORLD**<br>**CUP**<br>**(CDM)**|<br>**CHAMPIONSHIPS**<br>**(CC)**||<br>**CHAMPIONSH**<br>**(CN)**|**IPS**|**HORS**<br>**CLASS**<br>**(HC)**|**CLASS 1**<br>**(C1)**|
+|**Rank**|**Me**<br>**W**|**n/**<br>**men**|**Men/**<br>**Women**|<br>**All**<br>|**Men/ Women**<br> <br>**M**<br>**W**|**en/**<br>**omen**|**Men/**<br>|**Men /**<br>**Women**|**Men/**<br>**Women**|**Men/ Women**<br>|
+||<br>**Eli**|<br>**t**|<br>**Ji**|**classes**|**Elite**<br> <br>**J**|<br>**i**|**Women Elite**|<br>**Ji**|<br>**Elit**|**Elite**|
+|_1_||**e**<br>300|**unor**<br> <br>125|200|<br>100|**nor**<br>70|50|**unor**<br>25|**e**<br>50|<br>40|
+|<br>_2_||<br>250|<br> <br> <br>110|<br>160|<br>90|<br>60|<br>40|<br>20|<br>40|<br> <br> <br>30|
+|_3_||200|105|140|80|50|35|18|35|25|
+|_4_||180|<br>100|125|70|45|30|16|30|<br>20|
+|_5_||160|<br>95|110|65|40|28|14|28|<br>19|
+|_6_||140|<br>90|100|60|38|26|12|26|<br>18|
+|<br>_7_||<br>130|<br> <br> <br>85|<br>95|<br>58|<br>36|<br>24|<br>10|<br>24|<br> <br> <br>17|
+|_8_||120|80|90|56|34|22|9|22|<br>16|
+|_9_||110|<br>75|85|54|<br>32|<br>20|8|<br>20|<br><br> <br>15|
+|<br>_10_||<br>100|<br> <br> <br>70|<br>80|<br>52|<br>30|<br>19|<br>6|<br>19|<br> <br> <br>14|
+|_11_<br>||98<br>|<br>65<br> <br>|75<br>|50<br>|29<br>|18<br>|5<br>|18<br>|<br>13<br> <br>|
+|_12_||96|<br>64|70|49|28|17|4|17|<br>12|
+|_13_||94|<br>63|65|48|27|16|3|16|11|
+|_14_||<br>92|<br><br> <br>62|64|47|<br>26|15|2|15|<br> <br>10|
+|_15_||90|61|63|46|25|14|1*|14|<br> 9|
+|_16_||88|<br>60|62|45|24|13||13|<br>8|
+|_17_||86|<br>59|61|44|23|12||12|<br>7|
+|_18_<br>||84<br>|<br>58<br> <br>|60<br>|43<br>|22<br>|11<br>||11<br>|<br>6<br> <br>|
+|_19_||83|<br>57|59|42|21|10||10|<br>5|
+|_20_||82|<br>56|58|41|20|9||9|4|
+|_21_||<br>81|<br><br> <br>55|57|<br>40|19|<br>8||<br>8|<br> <br>3*|
+|_22_||<br>80|<br> <br> <br>54|<br>56|<br>39|<br>18|<br>7||<br>7|<br> <br>|
+|_23_||79|<br>53|55|38|17|6||6||
+|<br>_24_||<br>78|<br> <br> <br>52|<br>54|<br>37|<br>16|<br>5||<br>5|<br>|
+|_25_||77|<br>51|53|36|15|4||4||
+|_26_||76|<br>50|52|35|14|3*||3*||
+|_27_||75|<br>49|51|34|13|||||
+|_28_||74|<br>48|50|33|12|||||
+|<br>_29_||<br>73|<br> <br> <br>47|<br>49|<br>32|<br>11|||||
+|_30_||72|<br>46|48|31|10|||||
+|_31_||71|<br>45|47|30|5*|||||
+|_32_||70|<br>44|46|29||||||
+|_33_||69|<br>43|45|28||||||
+|<br>_34_||<br>68|<br> <br> <br>42|<br>44|<br>27||||||
+|_35_<br>||67<br>|<br>41<br> <br>|43<br>|26<br>||||||
+|_36_||66|<br>40|42|25||||||
+|_37 _||65|39|41|24||||||
+|_38_||64|<br>38|40|23||||||
+|<br>_39_||<br>63|<br> <br> <br>37|<br>39|<br>22||||||
+|_40_||62|<br>36|38|21||||||
+|<br>_41_||<br>61|<br> <br> <br>35|<br>37|<br>10*||||||
+|_42_||60|34|36|||||||
+|<br>_43_||59|<br> <br>33|35|||||||
+|_44_||58|<br>32|34|||||||
+|_45_||57|<br>31|33|||||||
+|<br>_46_<br>_47_<br>||<br>56<br>55<br>|<br> <br> <br>30<br>29<br> <br>|<br>32<br>31<br>|||||||
+|_48_<br>||54<br>|<br>28<br> <br>|30<br>|||||||
+|_49_<br>_50_||53<br>52|<br>27<br> <br>26|29<br>28|||||||
+|<br>_51_||<br>51|<br> <br> <br>25|<br>27|||||||
+|_52 _||50|24|26|||||||
+|_53_<br>||49<br>|<br>23<br> <br>|25<br>|||||||
+|_54_<br>_55_||48<br>47|<br>22<br> <br>21|24<br>23|||||||
 
 E0126 
 
@@ -1690,13 +1712,13 @@ E0126
 
 TRIALS 
 
-|_56_|46|20|22|||||||
-|---|---|---|---|---|---|---|---|---|---|
-|_57 _|45|19|21|||||||
-|_58_|44|18|20|||||||
-|_59_|43|17|19|||||||
-|_60_|42|16|18|||||||
-|_61_|10*|10*|10*|||||||
+|_56_|46|20|22|
+|---|---|---|---|
+|_57 _|45|19|21|
+|_58_|44|18|20|
+|_59_|43|17|19|
+|_60_|42|16|18|
+|_61_|10*|10*|10*|
 
 *Amount of points for each ranked rider 
 

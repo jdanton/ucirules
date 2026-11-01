@@ -4,21 +4,20 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/ERSIpwioDU4yk69S3eVre/718e
 source_sha256: 336178d11e91161a2d46038c38ce4b148929db02f96bab12f0ef8de85e91c40f
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
 
-8.06.2026 
+MEMORANDUM 8.06.2026 
 
 ![](images/ADT_Rules_-_amendments_on_1.07.26.pdf-0001-01.png)
 
-## MEMORANDUM 
-
-## **PART XIV – ANTI-DOPING RULES** 
+# **PART XIV – ANTI-DOPING RULES** 
 
 **UCI ANTI-DOPING TRIBUNAL PROCEDURAL RULES Rules amendment applying on 1.07.2026** 
 
 ## **TITLE I – INTRODUCTORY PROVISIONS** 
 
-## **Article 11 Definitions** 
+### **Article 11 Definitions** 
 
 1. For the purposes of these Rules: 
 
@@ -36,9 +35,7 @@ converter: pymupdf4llm
 
    - g) “Tribunal”: The Anti-Doping Tribunal established in accordance with Article 8.3.1 ADR. 
 
-2. 
-
-   - Terms referring to natural persons are applicable to both genders. 
+2. Terms referring to natural persons are applicable to both genders. 
 
 3. Terms not defined under these Rules shall be given the meaning provided by the ADR. 
 
@@ -48,7 +45,7 @@ _(text modified on 04.02.21; 1.07.26)_
 
 ## **TITLE III – RIGHTS AND OBLIGATIONS OF THE PARTIES** 
 
-## **Article 12 Representation and assistance** 
+### **Article 12 Representation and assistance** 
 
 1. The Defendant may be represented or assisted by the representative(s) of his choice at his own cost and expense. 
 

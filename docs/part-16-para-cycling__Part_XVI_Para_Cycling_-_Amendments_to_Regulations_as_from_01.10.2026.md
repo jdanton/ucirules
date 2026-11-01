@@ -9,9 +9,9 @@ converter: pymupdf4llm
 
 MEMORANDUM 
 
-![](images/Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.10.2026.pdf-0001-01.png)
-
 01.01.2027 
+
+![](images/Part_XVI_Para_Cycling_-_Amendments_to_Regulations_as_from_01.10.2026.pdf-0001-02.png)
 
 # **PART XVI - PARA CYCLING** 
 
@@ -47,11 +47,7 @@ _(article introduced on 01.01.25; modified on 01.10.26)_
 
 Page **1** / **2** 
 
-Allée Ferdi Kübler 12 1860 Aigle Switzerland 
-
-T: +41 24 468 58 11 
-
-E: admin@uci.ch 
+Allée Ferdi Kübler 12 T: +41 24 468 58 11 1860 Aigle E: admin@uci.ch Switzerland 
 
 Race 2 includes qualifiers 2, 5, and 8 Race 3 includes <u>qualifiers 3, 4, and 7</u> 
 
@@ -75,6 +71,4 @@ Page **2** / **2**
 
 Allée Ferdi Kübler 12 1860 Aigle Switzerland 
 
-T: +41 24 468 58 11 
-
-E: admin@uci.ch
+T: +41 24 468 58 11 E: admin@uci.ch

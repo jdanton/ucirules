@@ -4,13 +4,14 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/5L9K3ja9pUw8pXUobi4oKg/3ce
 source_sha256: f1961b6fcd370b43ce7e03fd3ab785b955cbf7f2da020df64557cf653285ac5d
 converter: pymupdf4llm
 ---
+
 ![](images/policy-uci---national-federations-20190211-e.pdf-0001-00.png)
 
-## **POLICY FOR THE COLLECTING, PROCESSING** 
+# **POLICY FOR THE COLLECTING, PROCESSING** 
 
-## **AND SHARING OF DATA BETWEEN** 
+# **AND SHARING OF DATA BETWEEN** 
 
-## **AFFILIATED NATIONAL FEDERATIONS AND THE UCI** 
+# **AFFILIATED NATIONAL FEDERATIONS AND THE UCI** 
 
 The present policy (hereinafter: “the Policy”) aims at defining the relationship between the Union Cycliste Internationale (UCI) and its affiliated National Federations in regard to the Collecting, Processing and Sharing of Data. 
 
@@ -48,7 +49,7 @@ Page **1** / **6**
 
 **“Shared Data”** shall mean the Data which are collected by National Federations for the UCI. 
 
-**“UCI”** shall refer to the Union Cycliste Internationale which is the worldwide governing body for cycling. 
+**“UCI”** shall refer to the Union Cycliste Internationale which is <mark>the worldwide governing body for cycling.</mark> 
 
 ## **2. SCOPE** 
 
@@ -92,7 +93,7 @@ Page **2** / **6**
 
    - (c) Any event that could potentially affect the UCI’s liability or reputation. 
 
-## **4. NATIONAL FEDERATIONS’ OBLIGATIONS AS DATA PROCESSORS** 
+**4. NATIONAL FEDERATIONS’ OBLIGATIONS AS DATA PROCESSORS** 
 
 - 4.1. Pursuant to the UCI Regulations, licences are issued by the National Federation of the country where the licence-holder has his main residence at the time of application. 
 
@@ -114,7 +115,7 @@ Page **3** / **6**
 
    - (c) Licence-holders have freely consented to the Collection, Processing, and Sharing of their Data by filling-in the licence application form after having been properly informed; 
 
-   - (d) Data is only processed for the UCI and not for National Federations own interest[1]; 
+   - (d) Data is only processed for the UCI and not for National Federations own interest<sup>1</sup>; 
 
    - (e) Any individual or entity that it authorised to access Licence-holders’ Data (including staff and subcontractors) shall be subject to a strict duty of confidentiality (whether contractual or statutory) and shall not permit any individual or entity who is not under such a duty of confidentiality to process the Data; 
 
@@ -128,29 +129,31 @@ Page **3** / **6**
 
 Page **4** / **6** 
 
-**Union Cycliste Internationale** 02.2019 
+**Union Cycliste Internationale** 
+
+02.2019 
 
 ![](images/policy-uci---national-federations-20190211-e.pdf-0005-00.png)
 
 Recipients located outside of Switzerland and the European Economic Area (“EEA”) where applicable standards may be different; 
 
-   - (i) The UCI will be immediately informed if National Federations consider that an operation infringes an Applicable Data Protection Law; 
+      - (i) The UCI will be immediately informed if National Federations consider that an operation infringes an Applicable Data Protection Law; 
 
-   - (j) All Data will be returned or erased when they are no longer necessary; 
+      - (j) All Data will be returned or erased when they are no longer necessary; 
 
-   - (k) The UCI will be immediately informed of any request of a Licence-holders or Data Protection Authorities; 
+      - (k) The UCI will be immediately informed of any request of a Licence-holders or Data Protection Authorities; 
 
-   - (l) Another processor will not be engaged without the prior written authorisation of the UCI. In the case of a general authorisation, the National Federation shall inform the UCI of any intended changes concerning the addition or replacement of other processors, thereby giving the UCI the opportunity to object to such changes; 
+      - (l) Another processor will not be engaged without the prior written authorisation of the UCI. In the case of a general authorisation, the National Federation shall inform the UCI of any intended changes concerning the addition or replacement of other processors, thereby giving the UCI the opportunity to object to such changes; 
 
-   - (m) National Federations will assist the UCI in ensuring compliance with the obligations pursuant to Applicable Data Protection Law, including with the notification of a Security Breach, the answer to Data Protection Authorities and Licence-holder’s requests, data protection impact assessments and the demonstration of its compliance. 
+      - (m) National Federations will assist the UCI in ensuring compliance with the obligations pursuant to Applicable Data Protection Law, including with the notification of a Security Breach, the answer to Data Protection Authorities and Licence-holder’s requests, data protection impact assessments and the demonstration of its compliance. 
 
-- 4.5. National Federations are aware and accept that the UCI may transfer the Shared Data when necessary for administration and governance purposes to entities and individuals such as other National Federations; the International Olympic Committee (IOC); the World Anti-Doping Agency (WADA); National Anti-Doping Organisations (NADO); the Cycling Anti-Doping Foundation (CADF); the Court of Arbitration for Sport (CAS); the judicial bodies of the UCI; national and international authorities competent in relation to investigations and/or procedures in relation to potential violations of the UCI Regulations and any other processing operation of personal information that is legitimate and proportionate in the context of the administration and governance of cycling; event organisers; companies in charge of timing on UCI events; companies in charge of delivering accreditations on UCI events; companies contracted by the UCI for the management of its servers and databases; companies in charge of online registration to UCI events; UCI legal counsels; scientific experts; UCI officials such as Commissaires and Classifiers. 
+   - 4.5. National Federations are aware and accept that the UCI may transfer the Shared Data when necessary for administration and governance purposes to entities and individuals such as other National Federations; the International Olympic Committee (IOC); the World Anti-Doping Agency (WADA); National Anti-Doping Organisations (NADO); the Cycling Anti-Doping Foundation (CADF); the Court of Arbitration for Sport (CAS); the judicial bodies of the UCI; national and international authorities competent in relation to investigations and/or procedures in relation to potential violations of the UCI Regulations and any other processing operation of personal information that is legitimate and proportionate in the context of the administration and governance of cycling; event organisers; companies in charge of timing on UCI events; companies in charge of delivering accreditations on UCI events; companies contracted by the UCI for the management of its servers and databases; companies in charge of online registration to UCI events; UCI legal counsels; scientific experts; UCI officials such as Commissaires and Classifiers. 
 
-- 4.6. National Federations are responsible to inform the License-holders before the collection of Data. 
+   - 4.6. National Federations are responsible to inform the License-holders before the collection of Data. 
 
-- 4.7. The above-mentioned obligations also apply when National Federations process Data for the UCI relating to individuals who are involved in the sport of cycling but who do not necessarily hold a licence. 
+   - 4.7. The above-mentioned obligations also apply when National Federations process Data for the UCI relating to individuals who are involved in the sport of cycling but who do not necessarily hold a licence. 
 
-## **5. COMMON OBLIGATIONS OF NATIONAL FEDERATIONS AND THE UCI** 
+**5. COMMON OBLIGATIONS OF NATIONAL FEDERATIONS AND THE UCI** 
 
 Page **5** / **6** 
 

@@ -115,7 +115,7 @@
     "sha256": "75165f16cb32082c261a6533c51604c96d185b4ad25c7685ec592316da62b007"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/2uOSbE8gAbYJWGZF6Zdb0c/ba7c3629f110e9c45114ffbc057d6239/2025_UCI_CONSTITUTION___CONGRESS_EN_sept.pdf": {
-    "name": "article-2-objectives__2025_UCI_CONSTITUTION___CONGRESS_EN_sept.md",
+    "name": "uci-constitution-and-congress__2025_UCI_CONSTITUTION___CONGRESS_EN_sept.md",
     "stem": "2025_UCI_CONSTITUTION___CONGRESS_EN_sept",
     "sha256": "a10cff0192c10a50d5672af6fbe473d3e6091f59992a7861542aa7c6a37338c1"
   },
@@ -295,7 +295,7 @@
     "sha256": "1c942b84833e2ea55b407980b20a5c04409f044c5be9750c64e82eb6bfc639cb"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/5ZszbcdPPoMq5cC82OxkTl/1bd65dd4b4e10902357c7bd727c9d77b/2023_UCI_ETHICS_EN_04-08-23.pdf": {
-    "name": "officials__2023_UCI_ETHICS_EN_04-08-23.md",
+    "name": "uci-code-of-ethics__2023_UCI_ETHICS_EN_04-08-23.md",
     "stem": "2023_UCI_ETHICS_EN_04-08-23",
     "sha256": "85c14ce1220a7c1076e54b305ad384619a8239d5f4461e88000eddaf036b643a"
   },
@@ -435,7 +435,7 @@
     "sha256": "6a74a889ab8b536ea954bc6c3a365170790aeb80380f4f6758cae9694092c42d"
   },
   "https://assets.ctfassets.net/761l7gh5x5an/7cRhcMdXsyMmYlOxWFdnFM/d6daf415c4d010291c676d83a28d3910/2026.06.05_UCI_Regulations_for_Testing_and_Investigations-.pdf": {
-    "name": "uci-regulations-for__2026.06.05_UCI_Regulations_for_Testing_and_Investigations-.md",
+    "name": "uci-regulations-for-testing-and-investigations__2026.06.05_UCI_Regulations_for_Testing_and_Investigations-.md",
     "stem": "2026.06.05_UCI_Regulations_for_Testing_and_Investigations-",
     "sha256": "1e6be0b856ff457034ca28596c73ef62e29bd41c0fa1d21b50ee0d9929a6e856"
   },

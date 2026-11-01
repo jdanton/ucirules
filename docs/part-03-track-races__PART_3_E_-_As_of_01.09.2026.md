@@ -83,7 +83,9 @@ TRACK RACES
 
 _(text modified on 01.08.23)_ 
 
-- **3.1.002** (N) The Technical guide shall include at least the following details of the organisation: - mention of the fact that the race will be run under UCI Regulations 
+- **3.1.002** (N) The Technical guide shall include at least the following details of the organisation: 
+
+   - mention of the fact that the race will be run under UCI Regulations 
 
    - possibly giving the specific regulations of the competition 
 
@@ -99,7 +101,7 @@ _(text modified on 01.08.23)_
 
    - the programme for the official ceremonies 
 
-   - prizes 
+      - prizes 
 
    - the composition of the commissaires’ panel 
 
@@ -145,11 +147,9 @@ For an international competition, the UCI may require additional facilities or m
 
 _(text modified on 26.08.04, 01.08.23)_ 
 
-- **3.1.009** The number of riders on track in competition shall in no case exceed: 16 (12 teams for Madison) on a 166m track 20 (15 teams for Madison) on a 200 m track 
+**3.1.009** The number of riders on track in competition shall in no case exceed: 16 (12 teams for Madison) on a 166m track 20 (15 teams for Madison) on a 200 m track 
 
-24 (18 teams for Madison) on a 250 m track 
-
-36 (20 teams for Madison) on a 333.33 m track 
+24 (18 teams for Madison) on a 250 m track 36 (20 teams for Madison) on a 333.33 m track 
 
 _(text modified on 01.01.03; 17.10.22; 01.01.25)_ 
 
@@ -234,7 +234,7 @@ _(text modified on 25.09.07; 12.06.20; 17.10.22, 01.01.26, 01.09.26)_
 
 - **3.2.001** [abrogated on 04.03.19] 
 
-##### **bis** 
+   - **bis** 
 
 ##### **Preparation of the track for timed events** 
 
@@ -576,7 +576,7 @@ E0926
 
 TRACK RACES 
 
-**3.2.045** A rider starting the sprint outside the sprinters’ lane may not drop into that lane if it is already occupied by his opponent unless there is a clear cycle-length lead. 
+- **3.2.045** A rider starting the sprint outside the sprinters’ lane may not drop into that lane if it is already occupied by his opponent unless there is a clear cycle-length lead. 
 
 _(text modified on 01.01.02)_ 
 
@@ -873,7 +873,7 @@ _(text modified on 01.01.02; 01.01.04; 26.08.04; 26.06.07; 05.03.18; 04.03.19, 0
 
 - **3.2.076** [abrogated on 01.01.02] **bis** 
 
-#### **§ 5 Team pursuit** 
+   - **§ 5 Team pursuit** 
 
 ##### **Definition** 
 
@@ -993,7 +993,7 @@ _(text modified on 01.01.02; 12.06.20)_
 
 ##### **Preparation of the track** 
 
-- **3.2.090** (N) An electronic timing strip shall be set up on the pursuit lines in order to judge the finish of the front wheel of the third rider of each team. 
+**3.2.090** (N) An electronic timing strip shall be set up on the pursuit lines in order to judge the finish of the front wheel of the third rider of each team. 
 
 _(text modified on 01.01.02)_ 
 
@@ -1005,7 +1005,7 @@ _(text modified on 01.02.11)_
 
 - **3.2.092** The riders of each team shall start side by side behind the start line. 
 
-   - The lateral distance between riders shall be one metre. 
+The lateral distance between riders shall be one metre. 
 
 (N) The rider, placed on the inside of the track, shall be held by a starting block and shall be the leading rider. The other riders shall be held at the start, with the hands of the holder as the only contact point. Any additional contact or any act of pushing is prohibited. Teams infringing this rule shall be disqualified. 
 
@@ -1162,11 +1162,9 @@ A rider suffering a second mishap during a subsequent ride shall be eliminated (
 
 _(text modified on 01.01.02; 01.01.04; 04.03.19; 01.10.19; 12.06.20, 01.08.23)_ 
 
-- **3.2.112** 
+- **3.2.112** Finals 
 
-   - Finals 
-
-- **bis** In the event of a recognised mishap, the race is stopped and restarted immediately. A rider suffering a second mishap during a subsequent ride shall be considered beaten. 
+   - **bis** In the event of a recognised mishap, the race is stopped and restarted immediately. A rider suffering a second mishap during a subsequent ride shall be considered beaten. 
 
 _(article introduced on 01.10.19; text modified on 12.06.20, 01.08.23)_ 
 
@@ -1200,9 +1198,7 @@ On tracks longer than 333.33m, intermediate sprints shall be run off every 5 lap
 
 _(text modified on 01.08.23, 01.09.26)_ 
 
-##### **3.2.117** 
-
-The race shall be held over at least the following <del>the</del> distances, number of laps and number of sprints as shown in the following table: 
+**3.2.117** The race shall be held over at least the following <del>the</del> distances, number of laps and number of sprints as shown in the following table: 
 
 |TRACK<br>||M|EN ELIT|E|W|OMEN ELI|TE|ME|N JUNIO|R|WO|MEN JUN|IOR|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1344,21 +1340,23 @@ _(text modified on 01.01.02; 14.10.16; 04.03.19)_
 
 - **3.2.135** (N) The event shall at least include: 
 
+   - 
+
    - 10 riders 
 
-   - a qualifying round, 2 heats of 5 riders; 
+- a qualifying round, 2 heats of 5 riders; 
 
-   - a final for places 7 to 10; 
+- a final for places 7 to 10; 
 
-   - a final for places 1 to 6. 
+- a final for places 1 to 6. 
 
-   - During the World Cup and World Championships, the event shall at least include: 
+- During the World Cup and World Championships, the event shall at least include: 
 
-   - a 1<sup>st</sup> round, 2<sup>nd</sup> round (1/4 finals), semi-finals (1/2 finals); 
+- a 1<sup>st</sup> round, 2<sup>nd</sup> round (1/4 finals), semi-finals (1/2 finals); 
 
-   - a final for places 7 to 12; 
+- a final for places 7 to 12; 
 
-   - a final for places 1 to 6. 
+- a final for places 1 to 6. 
 
 E0926 
 
@@ -1524,9 +1522,7 @@ TRACK RACES
 
 _(text modified on 01.01.02; 30.03.09; 19.06.09; 21.06.18; 04.03.19; 12.06.20, 01.01.26, 01.09.26)_ 
 
-- **3.2.136** 
-
-[abrogated on 01.01.02] 
+- **3.2.136** [abrogated on 01.01.02] 
 
 - **3.2.137** The pacer shall ride within the sprinter line, starting at 30 kph and shall gradually increase speed to 50 kph which should be reached at the latest when leaving the track, after the pursuit line on the home straight, 3 laps to go (250 m tracks). 
 
@@ -1699,7 +1695,7 @@ E0926
 
 TRACK RACES 
 
-**3.2.152** The leading rider shall lead the first lap and move towards the outside of the track and then drop back to leave the track without hindering the other team. 
+- **3.2.152** The leading rider shall lead the first lap and move towards the outside of the track and then drop back to leave the track without hindering the other team. 
 
 The rider that was in second position shall lead the following lap and then he shall drop out in the same manner. 
 
@@ -2332,23 +2328,23 @@ The points won by the two teams will be added and divided by two.
 
 _(text modified on 10.06.05; 25.09.07)_ 
 
-- **3.2.243** As it is impossible to run all teams on track together for the same race, the event has to be run in heats. The following procedure shall then apply: 
+**3.2.243** As it is impossible to run all teams on track together for the same race, the event has to be run in heats. The following procedure shall then apply: 
 
-   - a) 1 heat with teams from the 1<sup>st</sup> half of the general classification: with 1 rider or per team: 10-8-6-4-2 points. 
+- a) 1 heat with teams from the 1<sup>st</sup> half of the general classification: with 1 rider or per team: 10-8-6-4-2 points. 
 
-      - per team (one relay in mid-race): 10, 8, 6, 4, 2 points 
+   - per team (one relay in mid-race): 10, 8, 6, 4, 2 points 
 
-      - Madison: 15, 10, 8, 6, 4, 2 points 
+   - Madison: 15, 10, 8, 6, 4, 2 points 
 
-      - 1 heat with teams from the 2<sup>nd</sup> half of the general classification: with 1 rider or per team:  10-8-6-4-2 points. 
+   - 1 heat with teams from the 2<sup>nd</sup> half of the general classification: with 1 rider or per team:  10-8-6-4-2 points. 
 
-      - per team (one relay in mid-race): 10, 8, 6, 4, 2 points 
+   - per team (one relay in mid-race): 10, 8, 6, 4, 2 points 
 
-      - Madison: 15, 10, 8, 6, 4, 2 points. 
+   - Madison: 15, 10, 8, 6, 4, 2 points. 
 
-   - b) 2 heats with teams from the 1<sup>st</sup> half of the general classification: with 1 rider: 5- 4-3-2-1 points. 
+- b) 2 heats with teams from the 1<sup>st</sup> half of the general classification: with 1 rider: 5- 4-3-2-1 points. 
 
-      - 2 heats with teams from the 2<sup>nd</sup> half of the general classification: with 1 rider: 5- 4-3-2-1 points. 
+   - 2 heats with teams from the 2<sup>nd</sup> half of the general classification: with 1 rider: 5- 4-3-2-1 points. 
 
 Laps won in races behind dernys do not count for the overall ranking. 
 
@@ -2360,13 +2356,13 @@ TRACK RACES
 
 _(text modified on 01.01.04)_ 
 
-**3.2.244** In Madison/chase of the «Six-Day Race», the placing shall be determined by distance according to the number of complete laps covered by each team plus by accrued points. Apart from the final Madison/chase of the «Six-Day Race», teams shall be credited with one bonus lap for every 100 points logged. Bonus laps can also be given in special events like time-trials, but only if all teams are allowed to participate in the event. 
+- **3.2.244** In Madison/chase of the «Six-Day Race», the placing shall be determined by distance according to the number of complete laps covered by each team plus by accrued points. Apart from the final Madison/chase of the «Six-Day Race», teams shall be credited with one bonus lap for every 100 points logged. Bonus laps can also be given in special events like time-trials, but only if all teams are allowed to participate in the event. 
 
 _(text modified on 01.01.04; 01.07.17)_ 
 
 **3.2.245** All points won in the individual and team events shall count towards the general placings. 
 
-All laps won in races in which there is at least one rider of each team on track shall count towards general classification. 
+- All laps won in races in which there is at least one rider of each team on track shall count towards general classification. 
 
 Laps won in Elimination races do not count for the overall ranking. 
 
@@ -2404,7 +2400,9 @@ To distinguish team with equal laps and equal points, account shall be taken of 
 
 3. Elimination 
 
-4. Points Race 25 km for Men Elite 
+4. Points Race 
+
+   - 25 km for Men Elite 
 
 E0926 
 
@@ -2516,7 +2514,7 @@ _(text modified on 18.06.10; 01.07.12; 14.10.16)_
 
 _(text modified on 01.08.23)_ 
 
-#### **§ 18 Tempo Race** 
+- **§ 18 Tempo Race** 
 
 (chapter introduced on 14.10.16) 
 
@@ -3092,9 +3090,7 @@ _(text modified on 10.06.05; 19.09.06; 25.09.07; 13.06.08, 29.03.10; 1.07.12; 1.
 
 ##### **Regional Games** 
 
-**3.3.010** Regional games will be considered Class 1 or Class 2 competitions in accordance **bis** with the number of national federations participating: 
-
-5 nations and more: Class 1; 3 to 4 nations: Class 2; 1 to 2 nations: no points. 
+**3.3.010** Regional games will be considered Class 1 or Class 2 competitions in accordance **bis** with the number of national federations participating: 5 nations and more: Class 1; 3 to 4 nations: Class 2; 1 to 2 nations: no points. 
 
 Points will only be awarded to the Regional Games registered on the UCI International Track Calendar. 
 
@@ -3110,7 +3106,7 @@ TRACK RACES
 
 ##### **National championships** 
 
-- **3.3.010** The points for the national championships are those awarded to an international **ter** competition of Class 2. 
+**3.3.010** The points for the national championships are those awarded to an international **ter** competition of Class 2. 
 
 Points will only be awarded to the national championships registered beforehand and appearing on the UCI Track Calendar. The results must reach the UCI electronically after the competition is finished on the specified deadline for calculating quota for the various competitions, or the deadline for submission of results to DataRide, whichever is sooner. Results submitted after this deadline will not be considered. 
 
@@ -3366,11 +3362,9 @@ _(text modified on 01.01.03; 21.01.06; 25.02.13; 10.04.13; 20.06.14; 15.03.16; 0
 
 **3.4.005** Enrolment shall be open to UCI-affiliated national federations (as per article 3.4.004). _(text modified on 25.09.07; 01.10.12; 01.02.13; 10.04.13; 15.03.16; 14.10.16; 21.06.18; 12.06.20, 01.08.23; 01.01.25)_ 
 
-- **3.4.006** 
+- **3.4.006** [abrogated on 15.03.16]. 
 
-[abrogated on 15.03.16]. 
-
-**3.4.007** The maximum number of participants by national team for each event shall be the following: 
+- **3.4.007** The maximum number of participants by national team for each event shall be the following: 
 
 |MEN||WOMEN||
 |---|---|---|---|
@@ -3404,7 +3398,9 @@ TRACK RACES
 
 - **3.4.008** [abrogated on 15.03.16]. 
 
-- **3.4.009** The names of riders, substitutes and attendants shall reach the organiser by 3 weeks before the date of the competition at the latest. In case of late entry after the prescribed deadline, a late registration fee of CHF 200 per team will be perceived. In case of non-attendance of entered riders at the competition, a penalty of CHF 300.per rider may be imposed. 
+- **3.4.009** The names of riders, substitutes and attendants shall reach the organiser by 3 weeks before the date of the competition at the latest. In case of late entry after the prescribed deadline, a late registration fee of CHF 200 per team will be perceived. 
+
+   - In case of non-attendance of entered riders at the competition, a penalty of CHF 300.per rider may be imposed. 
 
 The names of the riders taking part must be announced to the commissaires’ panel by noon at the latest on the eve of the first race of the competition as per the published times and instructions. Any announcement made out of the time limit shall be liable to a fine of CHF 300.-. 
 
@@ -3422,7 +3418,7 @@ _(text modified on 26.08.04; 30.09.10; 04.03.19; 01.10.19; 12.06.20; 17.10.2022)
 
 - **3.4.012** [abrogated on 15.03.16]. **3.4.013** The commissaires’ panel shall comprise UCI international commissaires appointed by the UCI as per article 1.2.116. 
 
-The organising National Federation shall designate all other commissaires that may be necessary for the efficient control of the races, as well as timekeepers as per article 1.2.116. 
+   - The organising National Federation shall designate all other commissaires that may be necessary for the efficient control of the races, as well as timekeepers as per article 1.2.116. 
 
 _(text modified on 01.01.02; 15.03.16)_ 
 
@@ -3450,13 +3446,9 @@ _(text modified on 21.06.18, 01.08.23)_
 
 _(text modified on 01.01.02)_ 
 
-- **3.4.018** 
+- **3.4.018** [abrogated on 01.01.02] 
 
-[abrogated on 01.01.02] 
-
-- **3.4.019** 
-
-[abrogated on 15.03.16]. 
+- **3.4.019** [abrogated on 15.03.16]. 
 
 - **3.4.020** The three first in each event shall receive from the organiser, respectively, a gold medal (1<sup>st</sup> place), a silver medal (2<sup>nd</sup> place) and a bronze medal (3<sup>rd</sup> place). 
 
@@ -3506,9 +3498,7 @@ Flying start:
 
 All categories: 200 m and 500 m. 
 
-Standing start: 
-
-Men: Team Sprint (on 250m track only), 1 km, 4 km, 4 km team, hour record Women: Team Sprint (on 250m track only), 1 km, 4 km, 4 km team, hour record Junior Men: Team Sprint (on 250m track only), 1 km, 3 km, 4 km team Junior Women:  Team Sprint (on 250m track only), 1km, 3 km, 4 km team 
+Standing start: Men: Team Sprint (on 250m track only), 1 km, 4 km, 4 km team, hour record Women: Team Sprint (on 250m track only), 1 km, 4 km, 4 km team, hour record Junior Men: Team Sprint (on 250m track only), 1 km, 3 km, 4 km team Junior Women:  Team Sprint (on 250m track only), 1km, 3 km, 4 km team 
 
 For Masters, Best Performances are covered under Chapter IX MASTERS. 
 
@@ -3672,9 +3662,7 @@ E0926
 
 TRACK RACES 
 
-##### Di C =   L Pi x TRC 
-
-TTC 
+Di C =   L Pi x TRC TTC 
 
 Where: D = distance covered in the hour 
 
@@ -3722,7 +3710,7 @@ _(text modified on 01.01.02)_
 
 - **3.6.006** (N) The brake of the starting block shall be released by the electronic system which simultaneously triggers the chronometer. 
 
-#### **§ 2 Motorbikes for motor-pacing** 
+   - **§ 2 Motorbikes for motor-pacing** 
 
 - **3.6.007** Machines used for training shall comply with the drawing in article 3.6.028. 
 
@@ -4576,7 +4564,7 @@ _(text modified on 25.10.21)_
 
 _(text modified on 01.07.17; 25.10.21)_ 
 
-- **§ 6 End of Contract** 
+#### **§ 6 End of Contract** 
 
 E0926 
 
@@ -4638,7 +4626,7 @@ hereafter called «the Rider»
 
 ON THE OTHER PART 
 
-Do hereby recall that: 
+- Do hereby recall that: 
 
 - The team representative employs a team of cyclists who, forming the ….. (name of the UCI Track Team) and under the direction of Mr. (name of the Team Manager), participate in track events governed by the Regulations of the Union Cycliste Internationale; 
 
@@ -4674,7 +4662,9 @@ TRACK RACES
 
 - Where there is no legal minimum, than the usual salary that is paid or should be paid to full-time workers employed in the country whose National Federation issued the Rider’s licence 
 
-- The amount set by (name of NF) in its national regulations; 
+- 
+
+   - The amount set by (name of NF) in its national regulations; 
 
 - The minimum salary negotiated by (name of NF) with (e.g. name of riders’ union) of the country. 
 
@@ -5053,8 +5043,7 @@ The races shall be held over the following distances:
 |---|---|---|---|---|---|---|---|---|---|---|
 |**Men**|SH|10km|10km|10km|7.5km|7.5km|5km|5km|5km|5km|
 |**Women**|SH|||||5km|||||
-
-If more than 24 riders, qualifyings (half distance) as per 3.2.175 
+|||If mo|re than 24|riders,qual|ifyings (half|distance) a|sper 3.2.17|5|||
 
 ##### **C. Sprint** 
 
@@ -5331,11 +5320,11 @@ E0926
 
 TRACK RACES 
 
-|7.2  Failing to respect|Rider:200 to 500* fine|Rider:100 to 200* fine|Rider:50 to 100* fine|
-|---|---|---|---|
-|instructions regarding|Other licence holder:200 to 500*|Other licence holder:100 to 200*|Other licence holder:100 to 200*|
-|participation and conduct|fine|fine|fine|
-|during the official training<br>and warm-up sessions||||
+|7.2|Failing to respect|Rider:200 to 500* fine|Rider:100 to 200* fine|Rider:50 to 100* fine|
+|---|---|---|---|---|
+||instructions regarding|Other licence holder:200 to 500*|Other licence holder:100 to 200*|Other licence holder:100 to 200*|
+||participation and conduct|fine|fine|fine|
+||during the official training<br>and warm-up sessions||||
 
 E0926 
 
@@ -5404,7 +5393,20 @@ TRACK RACES
 
 ###### **UCI REQUEST FOR WORLD RECORD / BEST PERFORMANCE HOMOLOGATION** 
 
-Category `☐` MEN `☐` ELITE `☐` JUNIOR `☐` MASTERS `☐` WOMEN `☐` ELITE `☐` JUNIOR `☐` MASTERS Age group Event/Distance Start (standing or flying) Performance Date of performance COMPLETE NAME OF THE RIDER: Nationality UCI ID Date of birth VELODROME: Location of Track (City and Country) Track Measurement (m) Material Covered or Open UCI Homologation Date 
+|Category<br>`☐`MEN`☐`ELITE|`☐`JUNIOR`☐`MASTERS|
+|---|---|
+|`☐`WOMEN`☐`ELITE|`☐`JUNIOR`☐`MASTERS|
+|Age group||
+|Event/Distance||
+|Start (standing or flying)||
+|Performance||
+|Date of performance||
+|COMPLETE NAME OF THE RIDER:||
+|Nationality||
+|UCI ID||
+|Date of birth||
+
+VELODROME: Location of Track (City and Country) Track Measurement (m) Material Covered or Open UCI Homologation Date 
 
 ###### LABORATORY IN CHARGE OF DOPING CONTROL ANALYSIS: 
 

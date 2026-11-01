@@ -4,21 +4,22 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/48ht0iakNWfszqkkd6KCkP/9a0
 source_sha256: 48e6f497a1383881903f383a937d4b34b609ac89b1263d53e6ed23e1b7a134d8
 converter: pymupdf4llm
 ---
+
 > **Amendment — tracked changes.** This document shows UCI’s amendments as tracked changes: <del>struck-through</del> text is being removed and the adjacent plain text is its replacement. Some character-level edits (numbers, word fragments) from the source PDF may display imperfectly — for the clean, in-force wording see the consolidated regulation in the sidebar or the [official PDF](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat).
+
+MEMORANDUM 
 
 30.01.2026 
 
-![](images/UCI_Part_I_-_Rule_Changes_on_01.02.2026.pdf-0001-01.png)
+![](images/UCI_Part_I_-_Rule_Changes_on_01.02.2026.pdf-0001-02.png)
 
-## MEMORANDUM 
-
-## **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 01.02.2026** 
+# **PART 1 GENERAL ORGANISATION OF CYCLING AS A SPORT Rules amendments applying on 01.02.2026** 
 
 ## **Chapter I LICENCE-HOLDERS** 
 
-## **§ 1 Licences** 
+### **§ 1 Licences** 
 
-## **Principles** 
+#### **Principles** 
 
 - **1.1.002** No-one who does not hold the requisite licence may participate in a cycling event organised, sanctioned or supervised by the UCI, the UCI continental confederations, the UCI member national federations or their affiliates. 
 
@@ -82,7 +83,7 @@ _(text modified on 15.10.04; 01.07.11; 01.10.11; 01.01.17; 01.10.18; 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **Issuing procedure** 
+#### **Issuing procedure** 
 
 - **1.1.011** The licence shall be issued by the federation of the country where, according to the legislation of that country, the applicant has <del>hist</del> heir main residence at the time of application. <del>THh</del> e licence holder shall remain affiliated to that federation until the expiry of the licence, even if they chang <del>es</del> country of residence. 
 
@@ -138,7 +139,9 @@ _(text modified on 01.02.26)_
 
    - <del>a) if the applicant does not hold the nationality of the federation to which he applied;</del> 
 
-   - <del>b) if the applicant holds the nationality of the federation to which he applied but also of one or more other national federations; c) if the licence application is made to the UCI.</del> 
+   - <del>b) if the applicant holds the nationality of the federation to which he applied but also of one or more other national federations;</del> 
+
+   - <del>c) if the licence application is made to the UCI.</del> 
 
 _(text modified on 01.01.00; 01.02.26)_ 
 
@@ -152,57 +155,41 @@ Electronic application systems shall include as a condition to proceed (i) the f
 
 _(text modified on 01.01.18; 25.06.18; 01.02.26)_ 
 
-## **Front (Part I)** 
+#### **Front (Part I)** 
 
-## **1.1.022 UNION CYCLISTE INTERNATIONALE NAME OF THE NATIONAL FEDERATION** 
+- **1.1.022 UNION CYCLISTE INTERNATIONALE** 
 
-1. Category for which the licence is requested 
+   - **NAME OF THE NATIONAL FEDERATION** 
 
-UCI: national: 
+   1. Category for which the licence is requested UCI: national: 2. Surname and first name: 3. Date of birth: 4. Nationality: 5. Gender: 6. Email address: 
 
-2. Surname and first name: 
+   - 6a.  UCI ID (current and past holders of UCI ID): 
 
-3. Date of birth: 
+   - 6b.  UCI ID required (not yet holder of UCI ID but necessary for following season): yes/no 
 
-4. Nationality: 
+   7. Place and address of main residence at the time of application: 8. Place and country of the previous main residence if changed in the last year: 9. Countries in which the applicant has other residences: 10. Contact person: Phone number of the contact person<sup>1</sup>: 
 
-5. Gender: 
+   11. <del>Authority (f</del> National Federation <del>or UCI) t</del> hat issued the applicant's previous licence: 
 
-6. Email address: 
+   12. <del>Authority (f</del> National Federation <del>or UCI) t</del> hat has refused to issue a licence during the past three years: 
 
-- 6a.  UCI ID (current and past holders of UCI ID): 
+   13.  Applicant's club: 
 
-- 6b.  UCI ID required (not yet holder of UCI ID but necessary for following season): yes/no 
+   14.  Applicant's UCI team (name and type): 
 
-7. Place and address of main residence at the time of application: 
+   15.  If the applicant is currently suspended and will continue to be for all or part of the year of validity of the licence, the name of the authority that imposed the suspension and the starting and ending dates of the suspension: 
 
-8. Place and country of the previous main residence if changed in the last year: 
+   16.  Insurance for bodily injury (in and out-patient hospital expenses and medical care, transport costs, permanent disablement, death) and material damages (loss of earnings) in case of accident on the occasion of a cycling competition or event or during training: 
 
-9. Countries in which the applicant has other residences: 
+      - name and address of the insurance company: 
 
-10. Contact person: Phone number of the contact person[1]: 
+      - name and address of the insured party: 
 
-11. <del>Authority (f</del> National Federation <del>or UCI) t</del> hat issued the applicant's previous licence: 
+      - duration of validity of the insurance policy, 
 
-12. <del>Authority (f</del> National Federation <del>or UCI) t</del> hat has refused to issue a licence during the past three years: 
+      - amount of cover guaranteed 
 
-13.  Applicant's club: 
-
-14.  Applicant's UCI team (name and type): 
-
-15.  If the applicant is currently suspended and will continue to be for all or part of the year of validity of the licence, the name of the authority that imposed the suspension and the starting and ending dates of the suspension: 
-
-16.  Insurance for bodily injury (in and out-patient hospital expenses and medical care, transport costs, permanent disablement, death) and material damages (loss of earnings) in case of accident on the occasion of a cycling competition or event or during training: 
-
-   - name and address of the insurance company: 
-
-   - name and address of the insured party: 
-
-   - duration of validity of the insurance policy, 
-
-   - amount of cover guaranteed 
-
-   - territorial validity. 
+      - territorial validity. 
 
 1 I take note that it is strongly recommended to enter a contact person who may be contacted in case of an emergency or an incident involving me during my participation in an event. In this regard, I confirm that the contact person indicated on the form has consented to his identity and contact details being mentioned on my licence. 
 
@@ -226,13 +213,11 @@ _(text modified on 01.02.26)_
 
 - **1.1.028** Each <del>Nn</del> ational <del>Ff</del> ederation shall inform the UCI within one week of the identity of the **bis** licence-holders whose licence <del>wai</del> s withdrawn, or who returned their licence. <del>or who did not renew their licence.</del> 
 
-_(article introduced on 01.01.09; 01.02.2_ <del>_6,)_</del> 
+_(article introduced on 01.01.09; 01.02.2_ _<del>6,)</del>_ 
 
-## **Penalties** 
+#### **Penalties** 
 
-- **1.1.029** The following infringements shall be penalised as indicated below: 
-
-   - 1) participation or attempt to participate, in a cycling competition or event without holding the requisite licence: 
+- **1.1.029** The following infringements shall be penalised as indicated below: 1) participation or attempt to participate, in a cycling competition or event without holding the requisite licence: 
 
       - start refused, exclusion or disqualification and 
 
@@ -246,9 +231,9 @@ _(article introduced on 01.01.09; 01.02.2_ <del>_6,)_</del>
 
 _(text modified on 15.10.04; 01.01.18; 01.02.26)_ 
 
-- <del>**1.1.032** A licence holder whose licence is withdrawn because of a suspension the effect of which is limited to the territory of his national federation, may obtain a provisional authorisation from the UCI which is valid in all other UCI member countries. Such a provisional authorisation shall in all other respects be subject to the rules governing the licence.</del> 
+- **<del>1.1.032</del>** <del>A licence holder whose licence is withdrawn because of a suspension the effect of which is limited to the territory of his national federation, may obtain a provisional authorisation from the UCI which is valid in all other UCI member countries. Such a provisional authorisation shall in all other respects be subject to the rules governing the licence.</del> 
 
-[article abrogated on 01.02.26] 
+   - [article abrogated on 01.02.26] 
 
 - **1.1.033** All licence <del>-</del> holders shall be assigned the sporting nationality corresponding to their nationality, regardless of the national federation that issues the licence. The sporting nationality shall be assigned upon issuance of the first licence. A rider holding multiple nationalities shall be required to choose between them on the occasion of first applying 
 
@@ -282,7 +267,7 @@ potential restriction on participation in such events are governed by either the
 
 - d. if the rider is recognised as a refugee in the country of residence, the rider may choose to be classified under sporting nationality of “refugee” pursuant to article 1.1.033. 
 
-- B. In order to formalise a change of nationality, the following documents must be submitted to the UCI: 
+B. In order to formalise a change of nationality, the following documents must be submitted to the UCI: 
 
 - Proof of eligibility for the nationality chose <del>n,</del> (ex: passport or certificate issued by a ministry, consulate, embassy, etc.) 
 
@@ -294,9 +279,9 @@ In the event of a change of nationality, the rider retains the individual points
 
 _(article introduced on 01.03.22 and modified on 01.01.23; 01.02.26)_ 
 
-## **§ 2 Categories of riders** 
+### **§ 2 Categories of riders** 
 
-## **Competitive cycling** 
+#### **Competitive cycling** 
 
 - **1.1.034** For participation in events on the international calendar, riders' categories are determined by the age of those competing as defined by the difference between the year of the event and the year of birth of the rider, with the exception of cyclo-cross events pursuant to article 5.1.001. 
 
@@ -314,33 +299,33 @@ In events where electrically powered assisted cycles (EPAC) are used, riders sha
 
 _(text modified on 01.01.05; 01.01.17; 01.01.19, 01.01.25; 01.02.26)_ 
 
-## **Men** 
+#### **Men** 
 
-## **1.1.036  Youth** 
+#### **1.1.036  Youth** 
 
 This category denotes riders aged 16 years or under and is <del>controlled g</del> overned by national federations, except as provided for Trials BMX Racing, BMX Freestyle, Indoor Cycling and Para Cycling in article 1.1.035. 
 
-## **Junior (MJ: Men Junior)** 
+#### **Junior (MJ: Men Junior)** 
 
 This category shall comprise riders aged 17 and 18. 
 
 The category is not used in disciplines where riders are considered Elite from such age or younger. 
 
-## **Under 23 (MU: Men Under 23)** 
+#### **Under 23 (MU: Men Under 23)** 
 
 This category shall comprise riders aged 19 to 22. 
 
 The category is not used in disciplines where riders are considered Elite from such age or younger. 
 
-## **Elite (ME: Men Elite)** 
+#### **Elite (ME: Men Elite)** 
 
 This category shall comprise riders aged 23 and above, except as provided for BMX Racing, BMX Freestyle and Trials in the respective regulations for the disciplines. 
 
-## **Masters (MO: Men Open)** 
+#### **Masters (MO: Men Open)** 
 
 This category shall comprise Men Masters with the addition of all riders who are not eligible to compete in Women Masters events pursuant to the UCI Regulations. This category shall comprise riders of 30 years and above who elect this status. The choice of masters status shall not be open to a rider belonging to a team registered with the UCI. Masters riders shall only be entitled to take part in Masters events. 
 
-## **Para Cyclists** 
+#### **Para Cyclists** 
 
 This category shall comprise riders with disabilities as specified by the UCI functional classification system described in part 16, chapter V. 
 
@@ -348,33 +333,33 @@ A Para Cyclist may, or may not for health and safety reasons, be issued with an 
 
 _(text modified on 01.01.03; 01.01.04; 01.01.05; 25.06.07; 01.07.13; 01.01.15; 01.03.16; 01.01.19; 10.06.21; 17.07.23; 01.02.26)_ 
 
-## **Women** 
+#### **Women** 
 
-## **1.1.037  Youth** 
+#### **1.1.037  Youth** 
 
 This category denotes riders aged 16 years or under and is <del>controlledg</del> overned by national federations, except as provided for Trials, BMX Racing, BMX Freestyle, Indoor Cycling and Par <del>a-c</del> Cycling in article 1.1.035. 
 
-## **Junior (WJ: Women Junior)** 
+#### **Junior (WJ: Women Junior)** 
 
 This category shall comprise riders of 17 and 18 years old. 
 
 The category is not used in disciplines where riders are considered Elite from such age or younger. 
 
-## **Under 23 (WU: Women Under 23)** 
+#### **Under 23 (WU: Women Under 23)** 
 
 Unless otherwise provided in the UCI Regulations, this category shall comprise riders aged 19 to 22. 
 
 The category is not used in disciplines where riders are considered Elite from such age or younger. 
 
-## **Elite (WE: Women Elite)** 
+#### **Elite (WE: Women Elite)** 
 
 This category shall comprise riders aged 23 and above, except as provided for BMX Racing, BMX Freestyle and Trials in the respective regulations for the disciplines. 
 
-## **Masters (WM: Women Masters)** 
+#### **Masters (WM: Women Masters)** 
 
 Unless otherwise provided in the UCI Regulations, this category shall comprise riders of 30 years and above who elect this status. The choice of masters status shall not be open to a rider belonging to a team registered with the UCI. Masters riders shall only be entitled to take part in Masters events. 
 
-## **Para Cyclists** 
+#### **Para Cyclists** 
 
 This category shall comprise riders with disabilities as specified by the UCI functional classification system described in part 16, chapter V. 
 
@@ -382,21 +367,27 @@ A Para Cyclist may, or may not for health and safety reasons, be issued with an 
 
 _(text modified on 01.01.03; 15.10.04; 25.06.07; 01.07.13; 01.01.17; 01.01.19; 10.06.21; 01.02.26)_ 
 
-## **§ 3 Teams** 
+### **§ 3 Teams** 
 
-## **Teams registered with the UCI** 
+#### **Teams registered with the UCI** 
 
 - **1.1.041** The following teams are teams registered with the UCI: 
 
 UCI WorldTeams: articles 2.15.047 and seq. 
 
-UCI Women’s WorldTeams: articles 2.13.128 and seq. UCI ProTeams: articles 2.16.001 and seq. 
+UCI Women’s WorldTeams: articles 2.13.128 and seq. 
+
+UCI ProTeams: articles 2.16.001 and seq. 
 
 UCI Women’s ProTeams: articles 2.19.001 et seq. 
 
 UCI continental teams and UCI women’s continental teams: articles 2.17.001 and seq. UCI mountain <del>-b</del> ike teams: articles 4. <del>14</del> 18.001 and seq. 
 
-UCI track teams: articles 3.7.001 and seq. <del>UCI BMX Racing teams: articles 6.8.001 and seq.</del> UCI cyclo-cross teams and UCI cyclo-cross professional teams: articles 5.5.001 and seq. 
+UCI track teams: articles 3.7.001 and seq. 
+
+<del>UCI BMX Racing teams: articles 6.8.001 and seq.</del> 
+
+UCI cyclo-cross teams and UCI cyclo-cross professional teams: articles 5.5.001 and seq. 
 
 The reference to the UCI in the name of the categories of teams above refers only to the fact that the team has been registered with the UCI under the present regulations. 
 
@@ -412,13 +403,13 @@ _(article introduced on 01.01.05; 01.02.26)_
 
 _(article introduced on 01.01.05; 01.02.26)_ 
 
-## **Regional team** 
+#### **Regional team** 
 
 - **1.1.045** A regional team is a team of riders selected by a territorial or other division of a national federation and composed of riders licensed by that federation who do not belong to a team registered with the UCI in the same discipline. 
 
 _(article introduced on 01.01.05; 01.02.26)_ 
 
-## **§ 4 Commissaires** 
+### **§ 4 Commissaires** 
 
 - **1.1.049** The commissaires' panel shall comprise of commissaires appointed to supervise a given cycling event. 
 
@@ -434,7 +425,7 @@ _(text modified on 01.01.2026)_
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
-## **Elite national commissaires** 
+#### **Elite national commissaires** 
 
 - **1.1.052** The title of elite national commissaire shall be conferred by the UCI in the disciplines **bis** determined by the UCI, to persons having successfully completed a course approved by the UCI and given by an instructor appointed by the UCI. Such qualification shall be a requirement for candidates for qualification as UCI international commissaire in the disciplines of Road, Track, MTB and BMX Racing. 
 
@@ -442,7 +433,7 @@ To be able to be admitted to the selection procedure to become an elite national
 
 - be a national commissaire licence holder of a UCI affiliated national federation; 
 
-- - be proposed by that national federation; 
+- be proposed by that national federation; 
 
 - have a command of the course language (French, English or Spanish). 
 
@@ -456,7 +447,7 @@ _(article introduced on 01.01.17; text modified on 01.01.19; 05.02.19; 01.02.26)
 
       - a copy of an official identity document (passport, etc.) showing that the person - is aged between 25 and 50 years in the year of his selection by the UCI; 
 
-      - for the disciplines of Road, Track, MTB and BMX Racing: qualification of elite national commissaire obtained after having successfully completed an elite national commissaire course approved by the UCI given by an instructor appointed by the UCI; 
+      - - for the disciplines of Road, Track, MTB and BMX Racing: qualification of elite national commissaire obtained after having successfully completed an elite national commissaire course approved by the UCI given by an instructor appointed by the UCI; 
 
       - evidence that he has served actively as a national respectively elite national commissaire in the two years preceding the selection; 
 
@@ -474,51 +465,51 @@ _(text modified on 01.01.03; 01.04.05; 01.01.07; 30.01.09; 01.01.10; 01.02.11; 0
 
 The syllabus for each training course shall comprise a general part common to all disciplines and a special part specific to each discipline/category: General part: 
 
-- UCI constitution (general) 
+   - UCI constitution (general) 
 
-- general organisation of cycling as a sport 
+   - general organisation of cycling as a sport 
 
-- world championships 
+   - world championships 
 
-- continental championships 
+   - continental championships 
 
-- Olympic and Paralympic Games (for Olympic disciplines) 
+   - Olympic and Paralympic Games (for Olympic disciplines) 
 
-- discipline and procedures 
+   - discipline and procedures 
 
-- sports safety and conditions 
+   - sports safety and conditions 
 
-- antidoping controls (general) 
+   - antidoping controls (general) 
 
-- the psychological aspects and ethics of the position of international commissaire 
+   - the psychological aspects and ethics of the position of international commissaire 
 
-Disciplines / categories 
+- Disciplines / categories 
 
-- <del>Rr</del> oad 
+   - <del>Rr</del> oad 
 
-- <del>Tt</del> rack 
+   - <del>Tt</del> rack 
 
-- mountain bike 
+   - mountain bike 
 
-- cyclo-cross 
+   - cyclo-cross 
 
-- BMX Racing 
+   - BMX Racing 
 
-- BMX Freestyle 
+   - BMX Freestyle 
 
-- <del>Tt</del> rials 
+   - <del>Tt</del> rials 
 
-- cycle-ball 
+   - cycle-ball 
 
-- artistic cycling 
+   - artistic cycling 
+
+   - 
 
 - <del>pPa</del> ra <del>Cc</del> ycling 
 
 _(text modified on 01.01.05; 01.01.07; 25.06.07; 01.01.17)_ 
 
-- **1.1.059** Within 24 months of passing the theoretical examination for international commissaires, the candidate has to pass a practical exam in an international event. 
-
-   - A UCI appointed assessor shall evaluate the candidate. In the event of failure, the candidate shall be permitted to resit the practical exam only once. 
+- **1.1.059** Within 24 months of passing the theoretical examination for international commissaires, the candidate has to pass a practical exam in an international event. A UCI appointed assessor shall evaluate the candidate. In the event of failure, the candidate shall be permitted to resit the practical exam only once. 
 
 _(text modified on 01.01.07; 30.01.09; 01.01.17; 01.02.26)_ 
 
@@ -536,7 +527,7 @@ If necessary, the qualification of UCI international commissaire may b <del>eis<
 
 _(text modified on 01.01.04; 01.01.07; 01.01.17; 01.02.26)_ 
 
-## **Status** 
+#### **Status** 
 
 - **1.1.062** At the maximum, a UCI international commissaire can exercise in two disciplines. Except for Road and Track commissaires who can at the same time exercise in Paracycling. A UCI international commissaire cannot at the same time: 
 
@@ -560,7 +551,7 @@ _(text modified on 01.02.26)_
 
 _(text modified on 01.02.11; 01.02.26)_ 
 
-## **§ 5 Sports directors** 
+### **§ 5 Sports directors** 
 
 - **1.1.075** Each team, except regional teams and club teams, must nominate a single person as sports director. 
 
@@ -584,9 +575,9 @@ _(text modified on 15.10.04; 01.01.13; 01.01.15; 01.01.17; 01.07.18; 01.01.20; 0
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
-## **§ 7 Miscellaneous** 
+### **§ 7 Miscellaneous** 
 
-## **Betting** 
+#### **Betting** 
 
 - **1.1.088** Anyone subject to the UCI regulations may not be involved in the organisation of bets on cycling competitions. In particular, it is forbidden to: 
 
@@ -608,9 +599,9 @@ _(text modified on 11.02.20; 01.02.26)_
 
 ## **Chapter II RACES** 
 
-## **Section 1: administrative provisions** 
+### **Section 1: administrative provisions** 
 
-## **§ 1 Calendar** 
+### **§ 1 Calendar** 
 
 - **1.2.004** In each discipline a world calendar <del>, a continental calendar by continent</del> and a national calendar by national federation shall be prepared. A continental calendar by continent shall also be established for certain disciplines. 
 
@@ -662,7 +653,7 @@ _(text modified on 01.06.98; 01.01.03; 01.01.04; 01.01.05; 01.07.09; 01.07.12; 2
 
 - **1.2.012** The inclusion of a race on the international calendar shall be subject to the payment of a fee, called the UCI calendar fee, the amount of which shall be set annually by the UCI management committee. 
 
-The total amount of the fee must be paid by the organiser to the UCI upon reception of an invoice from the UCI. Invoices are sent <del>90 days before an event, or u</del> pon approval of the race in the international calendar, whichever is later. 
+The total amount of the fee must be paid by the organiser to the UCI upon reception of <u>an invoice from the UCI. Invoices are sent</u> <del>90 days before an event, or u</del> pon approval of the race in the international calendar, whichever is later. 
 
 The UCI reserves the right to remove the race from the international calendar at any moment prior to the event should the calendar fee remain unpaid. In such a 
 
@@ -672,7 +663,7 @@ Furthermore, a race inscription shall be refused if the enrolment fees for previ
 
 _(text modified on 01.06.98; 01.02.03; 01.01.04; 01.01.05; 01.01.21; 01.07.22; 01.02.26)_ 
 
-## **§ 2 Names of races** 
+### **§ 2 Names of races** 
 
 - **1.2.015** <del>TheA</del> n organiser cannot call <del>his</del> an event by any name other than that under which it was entered on the calendar. 
 
@@ -688,7 +679,7 @@ _(text modified on 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **§ 3 Forbidden races** 
+### **§ 3 Forbidden races** 
 
 - **1.2.019** Licence-holders shall not participate in an event that has not been registered on a national or international calendar or has not otherwise been granted prior authorisation by a national federation, a continental confederation or the UCI. 
 
@@ -710,7 +701,7 @@ _(text modified on 25.09.14; 01.07.22; 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **§ 4 Access to a race** 
+### **§ 4 Access to a race** 
 
 - **1.2.022** No suspended licence holder may be admitted to a race or to zones not accessible to the public. 
 
@@ -718,7 +709,7 @@ Anyone knowingly engaging or entering a suspended rider or staff member <del>for
 
 _(text modified on 01.02.26)_ 
 
-## **§ 7 National Championships** 
+### **§ 7 National Championships** 
 
 - **1.2.028** Participation in national championships shall be regulated by the respective national federations. Only riders who hold the sporting nationality of the country <del>for the purposes of the present regulations</del> according to article 1.1.033 may compete for the title of national champion and the relevant points. The national federation shall ensure that all riders with the sporting nationality of that country are entitled to take part in the national championships, regardless of the national federation that issued their licence. A rider cannot compete for the title of national champion and the relevant points for more than one country during the same season. 
 
@@ -728,7 +719,7 @@ A maximum of three national federations may organise their national championship
 
 _(text modified on 01.01.05; 01.01.19; 01.02.26)_ 
 
-## **Dates of the National Championships** 
+#### **Dates of the National Championships** 
 
 - **1.2.029** National road championships shall be organised during the last full week of the month of June. All results must be received by the UCI within UCI DataRide no later than two days after the last day of the event. No result received after that time shall be taken into consideration for the UCI classification. UCI points awarded will be included in the ranking calculated on the week following the receiving of the results. 
 
@@ -748,9 +739,9 @@ Concerning the calculation of the UCI rankings, national championships run befor
 
 _(text modified on 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.01.08; 01.07.10; 01.07.12; 01.07.13; 01.01.16; 03.06.16; 01.01.22; 01.01.25; 01.02.26)_ 
 
-## **Section 2: organisation of races** 
+### **Section 2: organisation of races** 
 
-## **§ 1 Organiser** 
+### **§ 1 Organiser** 
 
 - **1.2.031** The organiser of a cycling race shall be licensed as such. <del>HeT</del> he organiser shall be a licence holder of the national federation of the country where the race is run. 
 
@@ -784,9 +775,9 @@ Finally, organisers shall take appropriate measures to ensure that aircrafts, in
 
 _(article introduced on 01.03.22, modified on 01.01.24; 01.02.26)_ 
 
-## **§ 2 Authorisation to organise the event** 
+### **§ 2 Authorisation to organise the event** 
 
-- **1.2.037** A cyclin <del>ge race</del> event may be organised only if it has been included on a national <del>, continental or world</del> or international calendar. 
+- **1.2.037** A cyclin <del>ge race</del> event may be organised only if it has been included on a national <del>continental or world</del> or international calendar. 
 
 The inclusion of the event <del>race</del> on the calendar means that its organisation has been authorise <del>dauthorisation</del>, but does not imply that the UCI or the national federation that registered it undertake responsibility for it. 
 
@@ -796,7 +787,7 @@ _(article modified on 01.02.26)_
 
    - the specific regulations for the race; these regulations may not be published in the programme until they have been approved by the national federation; 
 
-   - - programme and schedule of competitions; 
+   - programme and schedule of competitions; 
 
    - invited riders (categories of rider, teams, etc.); 
 
@@ -818,13 +809,15 @@ _(article modified on 01.02.26)_
 
 - photo-finish and time-keeping installations; 
 
-- public announcement facilities and announcers; 
+- 
 
-- - for para-cycling events, information on accessibility services shall be provided. 
+   - public announcement facilities and announcers; 
+
+- for para-cycling events, information on accessibility services shall be provided. 
 
 _(text modified on 01.01.05; 01.07.11; 01.02.26)_ 
 
-## **§ 3 Specific regulations** 
+### **§ 3 Specific regulations** 
 
 - **1.2.040** The organiser shall draw up a set of regulations specific to <del>his racet</del> he event when required by the UCI regulations. 
 
@@ -838,7 +831,7 @@ _(article modified on 01.02.26)_
 
 _(article modified on 01.02.26)_ 
 
-## **§ 4 Programme - technical guide** 
+### **§ 4 Programme - technical guide** 
 
 - **1.2.042** (N) The organiser shall prepare a programme and/or technical guide for <del>his race</del> their event, which must be approved in advance by <del>hist</del> he relevant national federation. 
 
@@ -872,9 +865,9 @@ _(article modified on 01.02.26)_
 
 _(article modified on 01.02.26)_ 
 
-## **§ 5 Invitation – Enrolment** 
+### **§ 5 Invitation – Enrolment** 
 
-## **General principle** 
+#### **General principle** 
 
 - **1.2.048** (N) Unless otherwise specified, the organiser is free to select <del>any</del> the teams and riders taking part in th <del>efor an</del> event, and shall not be required to consider any potential national protectio <del>nwithout any requirement to take account of any national protection</del>. 
 
@@ -882,7 +875,7 @@ Without prejudice to the provision concerning mountain bike, BMX Racing and BMX 
 
 _(text modified on 01.01.02; 01.01.04; 01.01.05; 23.09.05; 01.02.07; 01.07.11; 01.07.13; 05.03.18; 01.07.18; 08.02.21; 01.02.26)_ 
 
-## **Conditions** 
+#### **Conditions** 
 
 - **1.2.049** The organiser shall, at least 60 days in advance, invite <del>the t</del> eams or riders by sending general information. In the case of national, regional or club teams, the organiser shall notify the national federation of the invitation. 
 
@@ -906,7 +899,7 @@ _(text modified on 25.06.19; 01.02.26)_
 
 The provisions in this article shall <del>not apply to riders participating in cyclo-cross Mountain Bike, BMX Racing, BMX Freestyle or Trials events</del> apply only to road and track events <del>..</del> 
 
-_(text modified on 01.01.01; 01.01.04; 01.01.05; 01.07.18; 01.01.21; 08.02.21; 01.02.26_ 
+_(text modified on 01.01.01; 01.01.04; 01.01.05; 01.07.18; 01.01.21; 08.02.21; 01.02.26)_ 
 
 - **1.2.053** In the event that a UCI registered team is entered but fails to appear, the signatory of the entry and the team that <del>be</del> they represen <del>ts</del> shall be jointly and severally liable to pay the organiser an indemnity equal to twice the travel and subsistence expenses agreed in writing. 
 
@@ -922,7 +915,7 @@ Should the organiser refuse without valid reason to allow an entered team to sta
 
 _(text modified on 01.01.02; 01.01.05; 23.10.19; 01.02.26)_ 
 
-## **Penalties** 
+#### **Penalties** 
 
 - **1.2.055** Riders who are <del>contractedentered</del> confirmed (identification number issued) and absent at the start shall be sanctioned as follows: 
 
@@ -930,17 +923,19 @@ _(text modified on 01.01.02; 01.01.05; 23.10.19; 01.02.26)_
 
       - if participating in another event: exclusion <del>from the classification a</del> nd a fine of between CHF 500 and 3,000. 
 
-   <del>2. Failure on the part of the organiser to use the official entry form: - fine of between CHF 300 and 1,000 per team.</del> 
+   <del>2. Failure on the part of the organiser to use the official entry form:</del> 
+
+      - <del>fine of between CHF 300 and 1,000 per team.</del> 
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
-## **§ 6 Race headquarters – Secretarial office** 
+### **§ 6 Race headquarters – Secretarial office** 
 
 - **1.2.059** (N) The race headquarters must be provided with at least <del>a telephone line, a fax and a an computer with</del> an internet connection and electricity <del>access.</del> 
 
 _(article introduced on 01.01.05; 01.02.26)_ 
 
-## **§ 7 Course and safety** 
+### **§ 7 Course and safety** 
 
 - **1.2.062** For events taking place on public roads, and without prejudice to provisions requiring an entirely closed circuit, all road traffic shall be stopped on the course as the race passes through. 
 
@@ -960,7 +955,7 @@ If all or some of the riders take the wrong route, the organiser shall do all th
 
 _(text modified on 01.02.26)_ 
 
-## **§ 9 Prizes** 
+### **§ 9 Prizes** 
 
 - **1.2.070** The management committee may set minimum prize levels for events on the international calendar. 
 
@@ -990,9 +985,7 @@ _(text modified on 01.02.19; 23.10.19; 08.02.21; 01.01.25; 01.02.26)_
 
    - However, in the case of a centralised platform, <del>-</del> the UCI may withhold payments until such time that they are satisfied that the riders entitled to prizes are not susceptible of being disqualified further to an anti-doping rule violation committed in connection with the event or subsequently being disqualified by a competent decision-making body. In relation to anti-doping, the UCI shall seek verification with the International Testing Agency solely regarding events for which the latter initiated and directed sample collection. 
 
-   - For events which are not included in the centralised platform, the event organiser shall be responsible for seeking verification with the relevant decision-making body susceptible of disqualifying a rider before proceeding with the payment of the prizes. 
-
-   - In particular, where in-competition testing has been conducted, the event organiser shall seek verification with the anti-doping organisation which initiated and directed sample collection. 
+   - For events which are not included in the centralised platform, the event organiser shall be responsible for seeking verification with the relevant decision-making body susceptible of disqualifying a rider before proceeding with the payment of the prizes. In particular, where in-competition testing has been conducted, the event organiser shall seek verification with the anti-doping organisation which initiated and directed sample collection. 
 
 _(text modified on 01.02.19; 08.02.21; 01.02.26)_ 
 
@@ -1000,11 +993,11 @@ _(text modified on 01.02.19; 08.02.21; 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **§ 10 Travel and subsistence expenses** 
+### **§ 10 Travel and subsistence expenses** 
 
 - **1.2.076** The allowance due will be paid no later than the end of the event. For races of 4 days or more, the agreed allowance shall be invoiced by the team and will be paid via bank transfer by the organizer to the team on an agreed upon date. 
 
-## **Special provisions for Road events** 
+#### **Special provisions for Road events** 
 
 For Men Elite UCI WorldTour, UCI ProSeries and class 1 events as well as Women Elite UCI Wome <del>nt</del> ’s WorldTour, UCI ProSeries and class 1 events, the allowance must be paid within 30 days from the day a corresponding invoice has been issued by the team; this may only be validly issued from the day after the end of the event. 
 
@@ -1016,7 +1009,7 @@ In the case of an unjustified delay in payment of the participation allowance, t
 
 _(text modified on 01.01.05; 01.10.13; 01.01.15; 01.01.16; 01.01.17; 23.10.19; 01.02.26)_ 
 
-## **§ 1 Supervision of the organisation and competition** 
+### **§ 1 Supervision of the organisation and competition** 
 
 - **1.2.077** The material administration of the race shall be assumed by the organiser or <del>his t</del> heir representative. 
 
@@ -1024,7 +1017,7 @@ Purely material organisational problems shall be solved by race administration i
 
 _(text modified on 01.02.26)_ 
 
-## **§ 2 Conduct of participants in cycling races** 
+### **§ 2 Conduct of participants in cycling races** 
 
 - **1.2.081** Riders shall sportingly defend their own chances. They shall always act in their own sporting interest in the event and the sporting interest of their team. 
 
@@ -1036,7 +1029,7 @@ _(text modified on 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **§ 3 Team manager** 
+### **§ 3 Team manager** 
 
 - **1.2.085** The team manager or sports director shall ensure that the riders of his team <del>attend a</del> re present at the required times and places ( <del>signing onc</del> hecks before the start, start <del>line</del> procedure, awards ceremony, <del>antid</del> oping control, etc.). 
 
@@ -1048,7 +1041,7 @@ _(text modified on 01.01.99; 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **§ 4 Team managers' meeting** 
+### **§ 4 Team managers' meeting** 
 
 - **1.2.087** With the exception of cyclo-cross, no more than 24 hours and no less than two hours before the start of the competition, the organiser must convene a meeting in a suitable room with the representatives of the organisation, the team managers (or sports directors), the commissaires and, where appropriate, the persons responsible for neutral <del>vehicles</del> service and the services of public order, to coordinate their respective tasks and to take note of the specific characteristics of the event and safety measures as concern their own fields. 
 
@@ -1058,7 +1051,7 @@ In case a physical meeting does not take place, a presentation including all imp
 
 _(text modified on 01.01.04; 01.01.05; 01.01.06; 01.01.08; 01.01.09; 01.10.13; 01.01.15; 01.01.16; 01.01.18; 04.08.23; 01.02.26)_ 
 
-## **§ 5 Entry check** 
+### **§ 5 Entry check** 
 
 - **1.2.089** The organiser shall provide the commissaires' panel in due time with a list of riders who have entered for the race and who have been confirmed as <del>titulars</del> tarting riders or reserve riders (entry list). 
 
@@ -1082,7 +1075,7 @@ _(text modified on 01.01.04; 01.01.05; 01.02.26)_
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
-## **§ 6 Start of the race** 
+   - **§ 6 Start of the race** 
 
 - **1.2.096** The start shall be given by – or under the control of – a commissaire (the starter) <del>and hew</del> ho <del>alone s</del> hall judge the validity of the start. 
 
@@ -1092,7 +1085,7 @@ _(text modified on 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **§ 7 Finish** 
+### **§ 7 Finish** 
 
 - **1.2.101** In road, mountain bike, BMX Racing and cyclo-cross events, a <del>banner labelled</del> "FINISH" label or an arch must be fixed above the finishing line and perpendicular to the road or course. Should the label or arch <del>banner</del> have disappeared or been damaged, the finish line shall be indicated by a black and white chequered flag. 
 
@@ -1136,7 +1129,7 @@ The organiser's national federation or the UCI shall notify the organiser and al
 
 ( _text modified on 01.01.98; 01.01.05; 01.02.26)_ 
 
-## **§ 8 Awards ceremony** 
+### **§ 8 Awards ceremony** 
 
 - **1.2.112** All riders concerned shall, in accordance with their placing, classifications and performances, participate in official ceremonies such as the presentation of jerseys or trophies, bouquets, medals, laps of honour, press conference, etc… <del>and the like.</del> 
 
@@ -1146,11 +1139,11 @@ _(text modified on 01.02.26)_
 
 _(text modified on 01.02.26)_ 
 
-## **Section 4:  supervision of races** 
+### **Section 4:  supervision of races** 
 
-## **§ 2 Commissaires' panel** 
+### **§ 2 Commissaires' panel** 
 
-## **President of the commissaires' panel** 
+#### **President of the commissaires' panel** 
 
 - **1.2.118** The president of the commissaires' panel shall be appointed by the national federation of the organiser or by the UCI, as appropriate. 
 
@@ -1158,7 +1151,7 @@ _(text modified on 01.02.26)_
 
 _(text modified on 01.01.05; 01.02.26)_ 
 
-## **Finish line commissaire** 
+#### **Finish line commissaire** 
 
 - **1.2.119** One of the members of the commissaires' panel shall act as finish line-commissaire. 
 
@@ -1168,13 +1161,13 @@ The finish line commissaire shall be the sole judge of the finish. <del>HeT</del
 
 _(text modified on 01.01.05; 01.03.18; 01.02.26)_ 
 
-## **TV Support-Commissaire** 
+#### **TV Support-Commissaire** 
 
 - **1.2.121** One of the member of the commissaires’ panel shall act as support-commissaire when required as per article 1.2.116. 
 
 _(text modified on 01.03.18; 01.02.26)_ 
 
-## **Report** 
+#### **Report** 
 
 - **1.2.123** (N) The commissaires' panel shall draw up a detailed report on the event using the form provided for this purpose by the UCI. This report must be accompanied by the following documents: 
 
@@ -1206,31 +1199,29 @@ _(text modified on 01.02.26)_
 
 _(sections 1 and 2 introduced on 01.01.00)_ 
 
-## **Section 2: bicycles** 
+### **Section 2: bicycles** 
 
 - **1.3.025** Freewheels, multiple gears and brakes are not permitted for use on the track during competition or training. 
 
-Disc brakes are allowed in cyclo-cross training and competition. 
-
-Disc brakes are allowed in mountain bike training and competition. Disc brakes are allowed in road race and time trial training and competition. Disc brakes are allowed in BMX racing training and competition. Disc brakes are allowed in BMX Freestyle training and competition. Disc brakes are allowed in Trials training and competition. 
+Disc brakes are allowed in cyclo-cross training and competition. Disc brakes are allowed in mountain bike training and competition. Disc brakes are allowed in road race and time trial training and competition. Disc brakes are allowed in BMX racing training and competition. Disc brakes are allowed in BMX Freestyle training and competition. Disc brakes are allowed in Trials training and competition. 
 
 For races on the road and cyclo-cross, the use of fixed sprocket is forbidden: a braking system that acts on both wheels is required. 
 
 _(text modified on 01.09.04; 01.01.05; 01.01.09, 01.07.09; 01.07.10; 27.03.17; 01.07.18; 01.02.26)_ 
 
-## **Section 3: riders' clothing** 
+### **Section 3: riders' clothing** 
 
-## **§ 1 General provisions** 
+   - **§ 1 General provisions** 
 
 - **1.3.026** When competing, all riders shall wear a jersey with sleeves and a pair of shorts, possibly in the form of a one-piece skinsuit. By shorts it is understood that these are shorts that come above the knee. 
 
-   - Sleeveless jerseys shall be forbidden. 
+      - Sleeveless jerseys shall be forbidden. 
 
 However, for downhill, four-cross and Enduro mountain bike events, BMX Racing, BMX Freestyle, trials and indoor cycling, specific provisions are laid down in the part of the regulations concerning the discipline in question. 
 
 _(text modified on 01.01.02; 01.01.04; 01.01.05; 01.01.20; 01.02.26)_ 
 
-## **§ 5 National team clothing** 
+### **§ 5 National team clothing** 
 
 - **1.3.056** National federations shall submit to the commissaires’ panel of events as specified in art. 1.3.059, a sample of their national team clothing for validation. The design, color, place 
 
@@ -1244,7 +1235,11 @@ For events where riders are required to participate with a national jersey but h
 
 _(text modified on 17.07.98; 01.01.04; 25.06.07; 01.02.26)_ 
 
-- **1.3.057** Advertising matter, as detailed in the “UCI jerseys visual guidelines” brochure published on the UCI Website, shall be used at the national federation’s discretion. Advertising matter on jersey and shorts may vary from one rider to another. The design of the jersey and shorts may vary from one category of rider to another. 
+- **1.3.057** Advertising matter, as detailed in the “UCI jerseys visual guidelines” brochure published on the UCI Website, shall be used at the national federation’s discretion. 
+
+   - Advertising matter on jersey and shorts may vary from one rider to another. 
+
+   - The design of the jersey and shorts may vary from one category of rider to another. 
 
 Advertising on protective leggings worn for downhill mountain bike, trials and BMX Racing events is not subject to the advertising restrictions on shorts. 
 
@@ -1256,13 +1251,11 @@ _(text modified on 01.01.00; 01.01.03; 01.01.04; 01.01.05; 08.02.18; 08.02.21; 0
 
 - **1.3.058** The advertising spaces shall be reserved for the use of the national federation except as determined in the specific regulations of the discipline or in the “UCI jerseys visual guidelines”. <del>in the following cases:</del> 
 
-   - <del>A. track world cup</del> 
+<del>A. track world cup</del> 
 
 <del>[abrogated on 04.03.19]</del> 
 
-<del>A. cyclo-cross world cup</del> 
-
-<del>[text transferred to the article 5.3.010]</del> 
+<del>A. cyclo-cross world cup [text transferred to the article 5.3.010]</del> 
 
 <del>B. BMX  world and continental championships and challenges</del> 
 
@@ -1286,7 +1279,7 @@ _(text modified on 17.07.98; 01.01.05; 14.10.08; 19.06.09; 01.07.18; 04.03.19; 0
 
 _(text modified on 01.01.98; 01.01.04; 01.01.05; 01.01.06; 01.10.10; 26.07.17; 01.02.26)_ 
 
-## **§ 7 National champion's jersey** 
+### **§ 7 National champion's jersey** 
 
 - **1.3.069** The specificities concerning the design of the national champion jersey are described in the “UCI jerseys visual guidelines” brochure available on the UCI website. 
 
@@ -1300,9 +1293,9 @@ However, under the prior approval of the concerned National Federation and inste
 
 _(text modified on 01.01.01; 01.01.04; 01.10.10; 01.07.11; 01.01.20; 08.02.21; 01.01.23; 01.02.26)_ 
 
-## **Section 4: identification of riders** 
+### **Section 4: identification of riders** 
 
-## **Identification number** 
+#### **Identification number** 
 
 - **1.3.073** During competitions, the following provisions shall be made for the identification of riders. 
 
@@ -1329,16 +1322,17 @@ _(text modified on 01.01.01; 01.01.04; 01.01.05; 01.09.05; 01.01.06; 01.02.11; 0
 
 - **1.3.075** The characters, panels and plates shall be of the following dimensions: 
 
-|Body number|Frame number &<br>Helmet stickers<br>for handcycle|Shoulder<br>number|Handlebar<br>number|
-|---|---|---|---|
-|18 cm<br>15 cm MTB|9 cm|9 cm|15 cm MTB<br><del>20 1</del>5cm BMX<br>Racing<br>11 cm Trials|
-|16 cm<br>14 cm MTB|13 cm|7 cm|14 cm MTB<br><del>25 2</del>0cm BMX<br>Racing<br>16 cm Trials|
-|10 cm|6 cm|5 cm|8 cm MTB<br><del>10</del>6cm BMX<br>Racing<br>10 cm Trials|
-|1,5 cm|0,8 cm|0,8 cm|1.5 cm MTB<br>1.5 cm BMX<br>Racing<br>1.5 cm Trials|
-|height 6 cm on<br>the lower part<br>MTB height 2.5<br>cm on the upper|rectangle of 11x2<br>cm on the lower<br>or upper part|height 1.5 cm<br>on the lower<br>and upper part|- MTB height 2.5<br>cm on the upper<br>and lower part|
-
-||and lower part|||- BMXRacing6<br>cm on the upper<br>part<br>- Trials 2.5 cm on<br>the lower part|
+||Body number|Frame number &<br>Helmet stickers<br>for handcycle|Shoulder<br>number|Handlebar<br>number|
 |---|---|---|---|---|
+|Height|18 cm<br>15 cm MTB|9 cm|9 cm|15 cm MTB<br><del>20 1</del>5cm BMX<br>Racing<br>11 cm Trials|
+|Width|16 cm<br>14 cm MTB|13 cm|7 cm|14 cm MTB<br><del>25 2</del>0cm BMX<br>Racing<br>16 cm Trials|
+|Digits|10 cm|6 cm|5 cm|8 cm MTB<br><del>10</del>6cm BMX<br>Racing<br>10 cm Trials|
+|Line width|1,5 cm|0,8 cm|0,8 cm|1.5 cm MTB<br>1.5 cm BMX<br>Racing<br>1.5 cm Trials|
+|Advertising|height 6 cm on<br>the lower part<br>MTB height 2.5<br>cm on the upper|rectangle of 11x2<br>cm on the lower<br>or upper part|height 1.5 cm<br>on the lower<br>and upper part|- MTB height 2.5<br>cm on the upper<br>and lower part|
+
+|and lower part|- BMXRacing6<br>cm on the upper<br>part|
+|---|---|
+||- Trials 2.5 cm on<br>the lower part|
 
 _(text modified on 01.01.01; 01.01.04; 01.10.09; 01.01.11; 13.03.15; 01.07.17; 01.01.19; 01.02.26)_ 
 
@@ -1350,27 +1344,27 @@ _(text modified on 01.01.05; 01.02.26)_
 
 - **1.3.080** <del>Any rider dropping out of the race shall immediately remove his identification number.</del> 
 
-<del>_(text modified on 01.01.05)_</del> 
+_<del>(text modified on 01.01.05)</del>_ 
 
-[article abrogated on 01.02.26] 
+- [article abrogated on 01.02.26] 
 
-## **Annexe A UCI LIST OF AUTHORISED BETS** - Annexe to Article 1.1.090 of the UCI Regulations - Last update: 1 February 2026 
+**Annexe A UCI LIST OF AUTHORISED BETS** - Annexe to Article 1.1.090 of the UCI Regulations - Last update: 1 February 2026 
 
-After carrying out an assessment of the risks associated with sports betting in cycling, the UCI Management Committee has defined a list of authorised bets (events and types of bets) for any betting company wishing to act as a sponsor of an organiser, team or licence-holder. **Sponsorship is authorised subject to bets being organised exclusively on the events listed in the first table and the types of bets being in compliance with those listed in the second table below.** 
+After carrying out an assessment of the risks associated with sports betting in cycling, the UCI Management Committee has defined a list of authorised bets (events and types of bets) for any betting company wishing to act as a sponsor of an organiser, team or licence-holder. 
+
+#### **<u>Sponsorship is authorised subject to bets being organised exclusively on the events listed in the first table and the types of bets being in compliance with those listed in the second table below.</u>** 
 
 |**Discipline**|**Men Elite Events**|**Women Elite Events**|
 |---|---|---|
-|**ROAD**|UCI Road World Championships - Road Race<br>UCI Road World Championships - Individual Time Trial<br>UCI Road World Championships - Team Time Trial Mixed Relay<br>UCI WorldTour Events<br>UCI ProSeries Events<br>Class 1 Events (C1) approved prior to each season1<br>Olympic Games<br>UEC Road European Championships - Road Race<br>UEC Road European Championships - Individual Time Trial<br>UEC Road European Championships - Team Time Trial Mixed Relay<br>National Championships of the top 15 nations of the UCI Road World Ranking by Nations|UCI Road World Championships - Road Race<br>UCI Road World Championships - Individual Time Trial<br>UCI Road World Championships - Team Time Trial Mixed Relay<br>UCI Women’s WorldTour Events<br>UCI ProSeries Events approved prior to each season1<br>Olympic Games<br>UEC Road European Championships - Road Race<br>UEC Road European Championships - Individual Time Trial<br>UEC Road European Championships - Team Time Trial Mixed Relay<br>National Championships of the top 15 nations of the UCI Road World Ranking by Nations|
-|**TRACK CYCLING**<del>**2**</del>|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|
+|**ROAD**|UCI Road World Championships - Road Race<br>UCI Road World Championships - Individual Time Trial<br>UCI Road World Championships - Team Time Trial Mixed Relay<br>UCI WorldTour Events<br>UCI ProSeries Events<br>Class 1 Events (C1) approved prior to each season<sup>1</sup><br>Olympic Games<br>UEC Road European Championships - Road Race<br>UEC Road European Championships - Individual Time Trial<br>UEC Road European Championships - Team Time Trial Mixed Relay<br>National Championships of the top 15 nations of the UCI Road World Ranking by Nations|UCI Road World Championships - Road Race<br>UCI Road World Championships - Individual Time Trial<br>UCI Road World Championships - Team Time Trial Mixed Relay<br>UCI Women’s WorldTour Events<br>UCI ProSeries Events approved prior to each season<sup>1</sup><br>Olympic Games<br>UEC Road European Championships - Road Race<br>UEC Road European Championships - Individual Time Trial<br>UEC Road European Championships - Team Time Trial Mixed Relay<br>National Championships of the top 15 nations of the UCI Road World Ranking by Nations|
+|**TRACK CYCLING**<sup>**<del>2</del>**</sup>|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|UCI Track Cycling World Championships<br>UCI Track Cycling Nations Cup<br>UCI Track Champions League<br>Olympic Games|
 |**MOUNTAIN BIKE**|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|UCI Mountain Bike World Championships (XCO and DHI only)<br>UCI Mountain Bike World Cup (XCO and DHI only)<br>Olympic Games|
 |**BMX RACING**|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|UCI BMXRacingWorld Championships<br>UCI BMXRacingWorld Cup<br>Olympic Games|
-|**CYCLO-CROSS**|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season2<br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|
+|**CYCLO-CROSS**|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season<sup>2</sup><br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|UCI Cyclo-cross World Championships<br>UCI Cyclo-cross World Cup<br>UEC Cyclo-cross European Championships<br>Class 1 Events (C1)<br>Class 2 Events (C2) approved prior to each season<sup>2</sup><br>National Championships of the top 3 nations of the UCI Cyclo-cross World Ranking by Nations|
 
-- 1-2 Events in the disciplines and classes concerned may be authorised by the UCI, subject to an assessment of the following criteria: 
+> 1-2 Events in the disciplines and classes concerned may be authorised by the UCI, subject to an assessment of the following criteria: a) participation in previous editions and planned participation for the edition of the season in question, and 
 
-   - a) participation in previous editions and planned participation for the edition of the season in question, and 
-
-b) live television broadcast during previous editions and scheduled for the edition of the season in question. 
+- b) live television broadcast during previous editions and scheduled for the edition of the season in question. 
 
 Any organiser, team or licence holder may submit a request to add an event to the list of authorised events to the UCI at the following address: legal@uci.ch 
 
@@ -1428,16 +1422,16 @@ For the 2024 season, the following authorisations have been granted for Road Cla
 
 Any request for inclusion of an event for the following calendar year shall be submitted to the UCI by no later than 30 June. 
 
-**Discipline** 
+**<u><mark>Discipline Bet Types</mark></u>** 
 
-**Bet Types** 
-
-|**Discipline**<br>**Bet Types**|**Discipline**<br>**Bet Types**|**Discipline**<br>**Bet Types**|
-|---|---|---|
-|**ROAD**||**One-day races:**<br>Event top 10 (including winner, podium and any other combination related to the top 10 results)<br>**Stage races:**<br>Final general classification top 10 (including winner, podium and any other combination related to the top 10 results)<br>Stage podium (including winner and any other combination related to the top 3 results)<br>Final official secondary classification podium (including winner and any other combination related to the top 3 results)<br>Team of final general classification and/or secondary classification winner<br>Leader of general classification or any secondary classification<br>Stage winner’s team<br>Intermediate sprint winner<br>**Team time trial events:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>**World Championships and Olympic Games:**<br>Event top 10 (including winner, podium and any other combination related to the top 10 results)<br>Number of medals per nation|
-|**TRACK CYCLING**||Event podium (including winner and any other combination related to the top 3 results)<br>**Tournament competitions:**<br>Qualification for phase of final tournament (quarter-final, semi-final etc.)<br>**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
-|**MOUNTAIN BIKE**||Event podium (including winner and any other combination related to the top 3 results)<br>**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
-|**BMXRACING**||Event podium (including winner and any other combination related to the top 3 results)<br>Qualification for phase of final tournament (quarter-final, semi-final etc.)<br>**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
-|**CYCLO-CROSS**||Event top 5 (including winner, podium and any other combination related to the top 5 results)<br>**World Championships:**<br>Event top 5 (including winner, podium and any other combination related to the top 5 results)<br>Number of medals per nation|
+||**One-day races:**<br>Event top 10 (including winner, podium and any other combination related to the top 10 results)|
+|---|---|
+|**ROAD**|**Stage races:**<br>Final general classification top 10 (including winner, podium and any other combination related to the top 10 results)<br>Stage podium (including winner and any other combination related to the top 3 results)<br>Final official secondary classification podium (including winner and any other combination related to the top 3 results)<br>Team of final general classification and/or secondary classification winner<br>Leader of general classification or any secondary classification<br>Stage winner’s team<br>Intermediate sprint winner<br>**Team time trial events:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>**World Championships and Olympic Games:**<br>Event top 10 (including winner, podium and any other combination related to the top 10 results)<br>Number of medals per nation|
+|**TRACK CYCLING**|Event podium (including winner and any other combination related to the top 3 results)<br>**Tournament competitions:**<br>Qualification for phase of final tournament (quarter-final, semi-final etc.)<br>**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
+||Event podium (including winner and any other combination related to the top 3 results)|
+|**MOUNTAIN BIKE**|**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
+|**BMXRACING**|Event podium (including winner and any other combination related to the top 3 results)<br>Qualification for phase of final tournament (quarter-final, semi-final etc.)<br>**World Championships and Olympic Games:**<br>Event podium (including winner and any other combination related to the top 3 results)<br>Number of medals per nation|
+||Event top 5 (including winner, podium and any other combination related to the top 5 results)|
+|**CYCLO-CROSS**|**World Championships:**<br>Event top 5 (including winner, podium and any other combination related to the top 5 results)<br>Number of medals per nation|
 
 The present document shall be reviewed and confirmed on a yearly basis. Any request for inclusion of an event or type of bet for the following calendar year shall be submitted to the UCI by no later than 30 June.

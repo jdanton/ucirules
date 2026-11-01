@@ -4,9 +4,10 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/LIBc2inTfcSydoQFznedL/eb97
 source_sha256: ac38885e05df0a84337c78cb47a6280996361d937e88b9dda24c1576a17a3474
 converter: pymupdf4llm
 ---
+
 ![](images/protectedmarksambushmarketing_neutral.pdf-0001-00.png)
 
-## **Use of the rainbow stripes, the UCI marks and the UCI event marks** 
+# **Use of the rainbow stripes, the UCI marks and the UCI event marks** 
 
 ## **Protected marks** 
 
@@ -38,7 +39,7 @@ The rule is simple: if you are not expressly authorized to use any of the aforem
 
 For further enquiry about the use of the marks above, please contact legal@uci.ch. 
 
-## **Ambush Marketing** 
+### **Ambush Marketing** 
 
 In order to protect the assets listed herein as well as the rights and interests of the official event partners and licensees, the UCI and its appointed Organizing Committees work hand-in-hand during and out of event-time to identify and then prevent third party entities from attempting to unduly exploit the goodwill of the UCI and/or of its activities and events, or from taking undue advantage of the notoriety of the UCI and/or of its activities and events. 
 
@@ -46,4 +47,5 @@ This measure applies worldwide and across all platforms.
 
 Similarly, any commercial or promotional activity on the competition venue -  i.e. any area used in relation to the competition, including but not limited to the sport circuit, the hospitality area, the podium, the commercial partners’ area and any other locations, areas and/or facilities in connection with the competition, including catering licensees – is strictly forbidden unless conducted with express prior consent of the UCI or of the UCI-appointed Organizing Committee. 
 
-For more information, please contact legal@uci.ch.
+For more information, please contact legal@uci.ch. 
+

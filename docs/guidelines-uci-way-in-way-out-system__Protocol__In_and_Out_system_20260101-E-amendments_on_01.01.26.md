@@ -4,9 +4,10 @@ source_url: https://assets.ctfassets.net/761l7gh5x5an/2L3eiPYTygsHZvO4dafs8d/428
 source_sha256: 337b1aee5b2fb2d8326e7f33e12e946a1d9cfcfafd712e38623720bbbdf792f7
 converter: pymupdf4llm
 ---
-![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0001-00.png)
 
 MEMORANDUM 01.07.2025 
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0001-01.png)
 
 **Rules amendments applying on 01.01.2026** 
 
@@ -16,7 +17,7 @@ MEMORANDUM 01.07.2025
 
 ![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0002-01.png)
 
-## **1. Introduction** 
+# **1. Introduction** 
 
 The Union Cycliste Internationale (UCI) issues these guidelines to standardise and optimise the use of the In/Out (WayOut/WayIn) system in international cycling races. This system aims to improve the control of vehicle flows and ensure the safety of riders and race personnel. 
 
@@ -24,7 +25,7 @@ In cycling races, mobile marshals play a vital role in managing safety. They mus
 
 This system is not mandatory for organisers. The guide aims to support those who choose to implement it by providing recommendations and best practices for safe and efficient use. 
 
-## **2. Objectives and General Principles** 
+# **2. Objectives and General Principles** 
 
 The In/Out system pursues several essential objectives. Above all, it aims to ensure smooth movement of mobile marshals and vehicles essential to race management, while guaranteeing the safety of participants. By avoiding risky overtaking within the peloton, it significantly reduces the risk of collisions and interference with riders. 
 
@@ -42,7 +43,7 @@ The In/Out system is designed to:
 
 - Reduce the risk of accidents caused by interactions between motorbikes, support vehicles, and riders. 
 
-## Fundamental principles: 
+# <u>Fundamental principles:</u> 
 
 - Strict separation between the race course and alternative routes. 
 
@@ -56,7 +57,7 @@ MEMORANDUM 01.07.2025
 
 ![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0003-01.png)
 
-## **3. Strict Safety Rules** 
+# **3. Strict Safety Rules** 
 
 Implementation of the In/Out system relies on strict rules to protect riders and personnel. 
 
@@ -88,7 +89,7 @@ Vehicles are not allowed to overtake riders in the following areas, unless autho
 
 - In the last 10 km of the race or stage. 
 
-## **4. Planning and Use of In/Out Routes** 
+# **4. Planning and Use of In/Out Routes** 
 
 The organiser must plan the network of alternative routes that can be used during the event, right from the course design phase. These routes must be carefully selected to allow a quick and safe return to the head of the race. 
 
@@ -102,7 +103,7 @@ MEMORANDUM 01.07.2025
 
 ![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0004-01.png)
 
-## **5. Organisation and Role of Mobile Marshals** 
+# **5. Organisation and Role of Mobile Marshals** 
 
 Mobile marshals are key players in the safety put in place for events. Their main task is to secure highrisk areas and to intervene in the event of unforeseen circumstances. 
 
@@ -124,7 +125,7 @@ It is recommended that five specific motorbikes be assigned to the In/Out system
 
    - Positioned in the convoy of sport directors, the guide raises an arm to signal the point of exit and re-entry. 
 
-## **6. Equipment and Signage** 
+# **6. Equipment and Signage** 
 
 Mobile marshals must have specific blue equipment with the words “WayOut/WayIn” on the back, enabling them to carry out their mission effectively. 
 
@@ -132,7 +133,7 @@ In addition to travelling by motorbike, they must be equipped with a triangular 
 
 The WayOut points are not signposted to avoid them being used by the public, which could reduce their effectiveness. A blue flag is used to mark a WayOut. Information on these routes is strictly communicated to those involved (bikers, marshals, organisers) to ensure that the event is managed in a controlled and secure manner. 
 
-## **7. Briefings and Mandatory Training** 
+# **7. Briefings and Mandatory Training** 
 
 One week prior to each event, an online or in-person briefing is held to present the complete safety plan to all marshals. On the day of the race or each stage, a final briefing is conducted to review key points and inform mobile marshals of any last-minute route changes. 
 
@@ -140,7 +141,7 @@ MEMORANDUM 01.07.2025
 
 ![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0005-01.png)
 
-## **8. Monitoring** 
+# **8. Monitoring** 
 
 The implementation of the In/Out system is subject to strict monitoring to ensure its proper functioning and to prevent any misuse or risk to riders. The entire system falls under the responsibility of the UCI Commissaires, the Safety Manager, and the local law enforcement authorities. 
 
@@ -154,6 +155,8 @@ Constant communication between mobile marshals and RadioTour.
 
 - Inform fixed marshals and police officers at entry (WayOut) and re-entry (WayIn) points to avoid obstructive barriers. Use light, movable equipment where possible. 
 
-![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0006-00.png)
+MEMORANDUM 
 
-MEMORANDUM 01.07.2025
+01.07.2025 
+
+![](images/Protocol__In_and_Out_system_20260101-E-amendments_on_01.01.26.pdf-0006-02.png)
