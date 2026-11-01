@@ -384,7 +384,15 @@ def sync_markdown(args) -> bool:
 
         manifest = dict(old)
         if todo:
-            import pymupdf4llm  # heavy import; only needed when converting PDFs
+            # Heavy import; only needed when converting PDFs. pymupdf4llm 2.0
+            # is an empty placeholder (the code moved into pymupdf 2.x), so an
+            # unpinned install resolves to nothing importable.
+            try:
+                import pymupdf4llm
+            except ModuleNotFoundError:
+                sys.exit("pymupdf4llm is not installed (2.0 is an empty "
+                         "placeholder package). Install the pinned version: "
+                         "pip install -r requirements.txt")
         for u in todo:
             stem, (path, digest) = by_url[u], current[by_url[u]]
             clear_images(images_dir, stem)  # drop stale figures before re-rendering

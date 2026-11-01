@@ -121,6 +121,12 @@ access. The build step needs `properdocs` and its Read the Docs theme installed
 (both in [`requirements.txt`](requirements.txt)); the built site lands in
 `site/` (gitignored).
 
+`pymupdf4llm` is pinned to an exact version. Its output shifts between
+releases, and change detection diffs the generated Markdown, so an unpinned
+converter rewrites documents UCI never touched. Note that `pymupdf4llm` 2.0 is
+an empty placeholder — upstream moved the code into `pymupdf` 2.x, which needs
+a code change here, plus a `--force` re-conversion of the whole tree.
+
 ## Change-control workflow
 
 ```bash
